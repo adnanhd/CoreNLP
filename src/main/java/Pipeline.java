@@ -4,7 +4,7 @@ import java.util.Properties;
 
 public class Pipeline {
     private static Properties properties;
-    private static String propertiesString = "tokenize, ssplit, pos, lemma";
+    private static String propertiesString = "tokenize, ssplit, pos, lemma, ner";
     private static StanfordCoreNLP stanfordCoreNLP;
 
     private Pipeline() { }
