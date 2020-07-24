@@ -1,0 +1,634 @@
+Rev. Latino-Am. Enfermagem
+COVID-19 and the production of knowledge regarding
+Victor Hugo Alves Mascarenhas1,2
+Objective: to map the production of knowledge regarding
+Adriana Caroci-Becker
+recommendations for providing care to pregnant women
+Kelly Cristina Máxima Pereira Venâncio3
+using a broadened strategy to search databases and
+repositories, as well as the reference lists in the sources
+Nayara Girardi Baraldi3
+used. Data were collected and analyzed by two independent
+Adelaide Caroci Durkin4
+of a narrative. Results: the final sample was composed of
+Maria Luiza Gonzalez Riesco1
+24 records, the content of which was synthesized in these
+conceptual categories: clinical manifestations, diagnosis,
+treatment, working pregnant women, vaccine development,
+complications, prenatal care, vertical transmission, and
+placental transmissibility. It is recommended to confirm
+pregnancy and disease early on, to use technological
+resources for screening and providing guidance and support to
+pregnant women. Conclusion: recommendations emphasize
+isolation, proper rest, sleep, nutrition, hydration, medications,
+and in the more severe cases, oxygen support, monitoring
+Health Context”.
+of vital signs, emotional support, and multiprofessional and
+Universidade de São Paulo, Escola de Enfermagem, São
+individualized care. Medications should be used with caution
+Paulo, SP, Brazil.
+due to a lack of evidence. Future research is needed to analyze
+Desenvolvimento Científico e Tecnológico (CNPq), Brazil.
+Universidade de São Paulo, Escola de Artes, Ciências e
+the impact of the infection at the beginning of pregnancy and
+Humanidades, São Paulo, SP, Brazil.
+the psychological aspects of pregnant women infected with
+Kettering College, Nursing, Kettering, OH, USA.
+the virus.
+Infections; Obstetrics; Prenatal Care; Infectious Disease
+Transmission, Vertical.
+Ve n â n c i o
+K C M P,
+B a ra l d i
+month day
+Rev. Latino-Am. Enfermagem 2020;28:e3348.
+infectious caused by the H1N1 virus among pregnant
+women, which resulted in high rates of complications
+On December 31st, 2019 China reported to the
+and mortality(11).
+World Health Organization pneumonia cases of unknown
+Despite the sensible concern of international and
+etiology in the city of Wuhan, province of Hubei.
+national health agencies(4,11), there is little scientific
+On January 9th, 2020 the coronavirus, scientifically
+evidence on the novel coronavirus and even less
+evidence regarding the management of pregnant
+Coronavirus (SARS-CoV-2), was identified as the most
+women testing positive for SARS-CoV-2 or suspected
+recent microorganism causing the human infection
+to have the infection. Therefore, given this scenario,
+called COVID-19. Since then, this virus has crossed
+Chinese borders and caused a devastating pandemic,
+of knowledge regarding recommendations on care
+challenging health services and the society and leading
+provided to pregnant women dealing with the novel
+to high levels of mortality that varies according to each
+country’s epidemiological and social characteristics(1-4).
+The dissemination of this disease led the WHO to
+declare on January 30th, 2020 a “Public Health Emergency
+of International Importance”, which requires actions to
+prevent its transmission and decrease the occurrence
+the main concepts that ground a field of research.
+of new infections. Recommendations include the early
+Because of the emergency of this topic and the low
+detection of the disease, social isolation for the entire
+availability of scientific evidence on the topic, the choice
+community, the reporting of cases, and to investigate
+for this methodology is justified because it contemplates
+and properly manage cases(5-6).
+all kinds of scientific literature, going beyond issues
+It is known that the main routes of SARS-COV-2
+concerning the effectiveness of an intervention or
+transmission are droplets of secretions from the
+experience with treatments or care. Five stages were
+respiratory tract of symptomatic or asymptomatic
+followed in this study, as listed by Arksey and O’Malley,
+individuals who carry the virus, and contaminated
+objects. There is evidence that this pathogen is
+identification of relevant studies, selection of studies,
+transmitted through feces(4). There has been much
+mapping of information, and grouping, summary and
+report of results(12-13).
+that individuals with the SARS-COV-2 virus may be
+asymptomatic. When symptomatic, people tend to
+production of knowledge regarding recommendations
+experience: fever, running nose, nasal congestion,
+for providing care to pregnant women dealing with
+dyspnea, malaise, loss of taste, and even more
+the novel coronavirus?”. The studies included in this
+are most common, and even lethal, among elderly
+strategy PCC (Population, Concept, and Context), as
+individuals, immunosuppressed individuals, women
+during pregnancy and post-partum, and those with
+women, the concept of interest was COVID-19 pandemic
+There is a gap in the knowledge concerning
+the implications of SARS-COV-2 during pregnancy.
+Initially, the number of pregnant women infected was
+and SARS-CoV-2 virus, and the context analyzed was
+proportionally smaller than the population in general,
+performed in the databases appropriate for the topic
+however, when infected, these women became more
+under study: Medical Literature Analysis and Retrieval
+vulnerable to the more severe manifestations of the
+Scopus, Cumulative Index to Nursing and Allied Health
+In this sense, in March 2020, the Brazilian Ministry
+Literature (CINAHL), Web of Science (WoS), and Latin
+of Health included pregnant women as a risk group
+American and Caribbean Center on Health Sciences
+for COVID-19 based on physiological changes that
+Information (LILACS), through three different stages:
+take place during pregnancy, which tend to aggravate
+1) controlled descriptors appropriate for the databases
+infectious conditions due to the low tolerance to hypoxia
+were used in the first search (Medical Subject
+observed in this population(6,11). The decision to include
+Headings - MeSH, CINAHL Headings and Health
+pregnant women as risk group took into account prior
+Sciences Descriptors - DeCS); 2) in the second stage,
+knowledge regarding other viruses and even respiratory
+non-controlled descriptors were used in all databases
+Mascarenhas VHA, Caroci-Becker A, Venâncio KCMP, Baraldi NG, Durkin AC, Riesco MLG.
+and repositories to broaden the search and use terms
+to include gray literature due to the currency of the
+that were specific to the current topic; 3) the third
+topic researched.
+stage consisted of identifying and selecting reference
+lists on the sources used. Note that it was not possible
+The search strategy used in the different databases
+Search Strategy
+((((“Pregnant Women” OR pregnan*))) AND ((“COVID-19” OR “severe acute respiratory syndrome coronavirus 2” OR “severe acute
+respiratory syndrome coronavirus 2” OR “2019-nCoV” OR “SARS-CoV-2” OR “2019nCoV” OR “coronavirus”))) AND ((Pregnancy
+OR Gestation, Obstetric” OR “Maternal-Fetal Relations”)))
+Scopus and
+(TITLE-ABS-KEY ((“Pregnant Women” OR pregnant* OR “Antenatal Women”)) AND TITLE-ABS-KEY ((“COVID-19” OR “severe
+acute respiratory syndrome coronavirus 2” OR “severe acute respiratory syndrome coronavirus 2” OR “2019-nCoV” OR “SARSCoV-2” OR “2019nCoV” OR “coronavirus” )) AND TITLE-ABS-KEY ((pregnancy OR gestation OR Obstetric” OR “Maternal-Fetal
+((“Expectant Mothers” OR “Pregnant Women” OR “Antenatal Women” OR Pregnan*)) AND ((Coronavirus OR COVID-19 OR
+2019-nCoV OR “severe acute respiratory syndrome coronavirus 2” OR “severe acute respiratory syndrome coronavirus 2”))) AND
+((pregnancy or pregnant or prenatal or antenatal or maternal))
+(tw:((“Pregnant Women” OR Pregnan$))) AND (tw:((“Coronavirus Infections” or Coronavirus OR “Middle East Respiratory
+Syndrome Coronavirus” OR COVID-19))) AND (tw:((Pregnancy OR “Labor, Obstetric”)))
+Inclusion criteria were studies with a wide range
+discussed in the form of a narrative, based on the
+classification of conceptual categories.
+The PRISMA checklist was adopted to ensure the
+addressing the novel coronavirus that causes COVID-19
+quality of this study as it ensures the parts composing
+in the context of pregnancy and outcomes in maternal-
+child health. Papers that did not meet the study’s
+objectives or did not provide pertinent information were
+used to properly store and organize the references
+obtained in the search. It allows for more than one
+researcher to automatically access the references, which
+is an important resource during the study selection
+Regarding the selection and inclusion of papers,
+(PRISMA-ScR) was used, which is ideal to describe
+in detail the decision process of research considering
+of 536 studies were potentially eligible (MEDLINE/
+search results and verified the relevance of the studies
+PubMed=188; Scopus=262; WoS=55; CINAHL=29;
+identified. Disagreements regarding the inclusion of
+LILACS=2). Of these, 168 studies were excluded
+because they were duplicates, as detected by Endnote
+Web. Thus, 368 studies were selected for the stage
+studies was not assessed, as this aspect is not
+were eligible. Thirteen of these were excluded either
+because their full texts were not available or were
+data were collected using a form recommended
+incongruent with this study’s objectives. Thus, the
+by JBI, which is intended to facilitate the synthesis
+of information and quality of recommendations
+of which were read and analyzed by two researchers
+Data were collected using an instrument that was
+adapted from this form to map information. This
+Most of the papers were written by Chinese
+instrument addresses: publication information (year,
+England (n=4), United States of America (USA) (n=4),
+methodological characteristics (characteristics of the
+and Singapore (n=2).
+study population); main results (outcome measures
+and main findings or contributions); context (care
+setting and relevant cultural and social factors)(12,13).
+not limited to those specifically from the fields of
+Rev. Latino-Am. Enfermagem 2020;28:e3348.
+obstetrics and gynecology, but also included the fields
+three were case studies, and two were experience
+immunology, pathology, radiology, and pediatrics. The
+studies’ specific characteristics are presented in detail
+from the results obtained from the studies analyzed:
+clinical manifestations, diagnosis, treatment, working
+Regarding the papers’ methodological designs,
+pregnant women, vaccine development, pregnancy
+there were empirical studies (n=12) and theoretical
+complications, prenatal care, vertical transmission, and
+studies (n=12). Eight were retrospective descriptive
+make recommendations objective and facilitate access
+to the main information.
+Records identified through
+database searching
+Additional records identified
+through other sources
+Duplicates removed
+Records screened
+for eligibility
+Records excluded
+with reasons
+Studies included in
+qualitative synthesis
+Mascarenhas VHA, Caroci-Becker A, Venâncio KCMP, Baraldi NG, Durkin AC, Riesco MLG.
+Papers’ title
+Country of
+Coronavirus disease 2019 (COVID-19) and pregnancy:
+what obstetricians need to know
+Coronavirus disease 2019 (COVID-19) pandemic and
+Clinical manifestations and outcome of SARS-CoV-2
+infection during pregnancy
+A patient with SARS-CoV-2 infection during pregnancy in
+Qingdao, China
+Clinical features and obstetric and neonatal outcomes
+of pregnant patients with COVID-19 in Wuhan, China: a
+retrospective, single-center, descriptive study
+Lancet Infectious Diseases
+Expert consensus for managing pregnant women and
+neonates born to mothers with suspected or confirmed
+novel coronavirus (COVID-19) infection
+Maternal health care management during the outbreak of
+coronavirus disease 2019 (COVID-19)
+Clinical analysis of pregnant women with 2019 novel
+coronavirus pneumonia
+Ultrasound in Obstetrics & Gynecology
+Experience of clinical management for pregnant women
+and newborns with novel coronavirus pneumonia in Tongji
+Hospital, China
+Current Medical Science
+Safe delivery for COVID-19 infected pregnancies
+Pregnancy and perinatal outcomes of women with
+coronavirus disease (COVID-19) pneumonia: a preliminary
+Novel corona virus disease (COVID-19) in pregnancy:
+what clinical recommendations to follow?
+Acta Obstetrica et Gynecologica
+An analysis of 38 pregnant women with 2 COVID-19, their
+newborn infants, and maternal-fetal transmission of SARSCoV-2: maternal coronavirus infections and pregnancy
+Archives of Pathology & Laboratory
+COVID-19: doctors in final trimester of pregnancy should
+avoid direct patient contact
+Impact of COVID-19 infection on pregnancy outcomes and
+the risk of maternal-to-neonatal intrapartum transmission of
+COVID-19 during natural birth
+Infection Control & Hospital Epidemiology
+Clinical and CT imaging features of the COVID-19
+pneumonia: focus on pregnant women and children
+Risks of novel coronavirus disease (COVID-19) in
+Archives of Academic Emergency
+Clinical characteristics and intrauterine vertical
+transmission potential of COVID-19 infection in nine
+Novel coronavirus infection and pregnancy
+Ultrasound in Obstetrics & Gynecology
+Potential maternal and infant outcomes from (Wuhan)
+Coronavirus 2019-nCoV infecting pregnant women:
+lessons from SARS, MERS, and other human coronavirus
+Outcome of coronavirus spectrum infections (SARS,
+and meta-analysis
+Gynecology MFM
+From the frontline of COVID-19: how prepared are we as
+obstetricians: a commentary
+Why are pregnant women susceptible to COVID-19? An
+immunological viewpoint
+Norway, Sweden,
+and China
+Italy, England,
+Russia, and USA
+China and USA
+SP, Brazil, 2020
+Rev. Latino-Am. Enfermagem 2020;28:e3348.
+CLINICAL MANIFESTATIONS: the pregnant women’s clinical aspects are similar to those of the general population
+DIAGNOSIS (guide pregnant women regarding the COVID-19 signs and symptoms and make an initial assessment through telephone)
+Signs and symptoms of
+respiratory infection:
+- Most frequent: fever, dry
+cough, loss of taste and
+- Less frequent: diarrhea
+episodes, fatigue, sore throat,
+- Rare: nasal congestion,
+runny nose, and hemoptysis.
+Laboratory and imaging exams:
+- Polymerase chain reaction with reverse
+transcriptase (RT PCR);
+- Molecular panel of respiratory viruses;
+- Blood count;
+- Blood culture;
+- C-reactive protein
+- Liver function tests
+- Imaging exams.
+Recent mobility history:
+- Frequently ask the history of travels and mobility of pregnant
+women (recommend isolation and investigation);
+- Isolation may lead to anxiety and depression, thus
+psychological support is recommended.
+TREATMENT: there is no official protocol to be followed with a definitive treatment for COVID-19, however, care converges to the following pillars:
+1- Admit the patient
+to an isolation
+2- Provide supportive care
+3- Assess the results of 4- Closely monitor vital signs and
+hemodynamic stability
+5- Monitor obstetrical
+Antiviral therapy: use of retroviral agents, little scientific evidence.
+- Remdesivir: acts on viral nucleotides inhibiting their replication and has shown to be effective when used in SARS-COV-2 in vitro;
+- Lopinavir-ritonavir: viral protease inhibitor drug that has been chosen as a drug regimen because it is relatively safe during pregnancy;
+- Interferon-alpha-2a: inhibits viral replication and stimulates the body’s immune response. Its use in early pregnancy can affect fetal growth and
+-Chloroquine phosphate: antimalarial with antiviral activity, which interrupts the reception of the virus by cells and their chain of transmission. In
+pregnant women, a higher dose is required, but systolic hypotension was identified as a side effect.
+Contraindicated for pregnant women: even though promising in the treatment of COVID-19
+- Ribavirin: antiviral with a teratogenicity effect that induces embryonic lethality or craniofacial and embryonic limb deformities;
+- Baricitinib: animal studies have shown potential embryotoxicity.
+Antibiotic therapy: part of the treatment plan of most individuals infected by SARS-CoV-2, due to extensive lung damage caused by the virus. When
+starting the antibiotic therapy is a controversial topic as opinions diverge.
+Corticosteroids: have been contraindicated because by delaying infection control, it worsens one’s respiratory condition and is associated with
+poor neonatal outcomes.
+- methylprednisolone: in the short term for severe dyspnea and hypoxemia. Avoid in pregnant women for additional assessments. Have been used
+only in the postoperative of C-sections;
+- betamethasone: recommended in cases of premature births or when there is a need to resolve a pregnancy in advance.
+WORKING PREGNANT WOMEN
+- More flexible working opportunities;
+- Decrease physical contact: telephones, videoconference, and administrative activities to avoid direct interpersonal contact;
+- Pregnant women with gestational age greater than 28 weeks or with risk factors/underlying comorbidities should consider leaving the workplace
+and staying at home.
+VACCINE DEVELOPMENT: there are no vaccines to prevent the infection by SARS-CoV-2
+- The early use of intravenous immunoglobulin, including gamma globulin, has shown to be very promising in reducing severe forms of the disease in
+COMPLICATIONS DURING PREGNANCY: part of COVID-19 cases during pregnancy developed to negative outcomes
+- Spontaneous abortion;
+- Premature rupture of membranes;
+- Restricted intrauterine growth;
+- Fetal distress;
+- Premature labor/birth
+PRENATAL CARE
+- Recommend social isolation, rest and sleep, nutrition and hydration;
+- Provide individualized care and emotional support;
+- Provide a multidisciplinary team;
+- Early diagnosis of pregnancy and COVID-19;
+- Recommend the use of telemedicine videoconference platforms as well as technological resources to clarify doubts and screen for signs and
+- Health workers providing face-to-face consultations should pay attention to fetal vitality, movement, and heart rate, especially in the third trimester
+of pregnancy with increased maternal anxiety;
+- Heart rate monitoring and ultrasounds are essential for assessing fetal wellbeing;
+- Health workers can assess some parameters remotely such as measurement of uterine height, waist circumference, weight, fetal movement, and
+blood pressure.
+VERTICAL TRANSMISSION
+- There is no clinical or serological evidence so far to suggest that there is vertical transmission of the SARS-CoV-2 virus;
+- Research analyzing amniotic fluids samples, umbilical cord blood, swabs from the neonatal pharynx and smears of breast milk detected absence of
+viral isolates in all the samples, suggesting the absence of intrauterine transmission of the virus during the third trimester;
+- Indication of vertical transmission: infant born via vagina from a woman diagnosed with pneumonia by COVID-19 tested positive (RT PCR) 35 hours
+after birth;
+- Attention is need to all forms of potential transmission of SARS-CoV-2 to newborns, among which: transmission through close contact and droplets
+in the postpartum period (by the puerperal woman and other family members) and hospital-acquired infections.
+TRANSPLACENTAL TRANSMISSIBILITY
+- Studies with placenta material collected after birth to investigate potential transplacental transmissibility did not find teratogenicity, placental
+pathologies or inflammations, presence of the SARS-CoV-2 virus of thyroid dysfunctional among newborns.
+Paulo, Brazil, 2020
+Mascarenhas VHA, Caroci-Becker A, Venâncio KCMP, Baraldi NG, Durkin AC, Riesco MLG.
+risk of exposure to radiation. Note that none of the
+radiological exams replaces the molecular confirmation
+of COVID-19(18).
+body of knowledge concerning recommendations to
+As for the treatment of positive pregnant women,
+the care provided to pregnant women dealing with
+there is not a consensual and official protocol so far.
+the novel coronavirus. The Brazilian Ministry of Health
+Hence, the medications and conducts are subject
+classified pregnant women as a risk group and provided
+to cultural and health care contexts, though the
+recommendations as they tend to present poor outcomes
+main axes of care are based on isolating pregnant
+when contaminated(8-9,11).
+women, classifying them according to risks and needs
+The pandemic caused by the novel coronavirus
+determined by their clinical condition; recommending
+remains very serious, highly contagious, and has
+proper sleep and rest; promoting appropriate nutrition;
+affected the world population beyond risk groups. Note
+providing supplementary oxygen support, if needed;
+the importance of sensitizing and making individuals
+and monitoring the intake of fluids and electrolytes.
+aware of its severity to reinforce preventive measures to
+Vital signs and oxygen saturation levels should be
+decrease and control this infection(4,41-42).
+closely monitored, as well as the frequency of the
+Most of the studies were conducted in China because
+fetus’ heart rate to observe the progression of the
+it is where the novel coronavirus originated. Additionally,
+pregnancy, planning individualized delivery, and having
+even though most studies present few clinical cases,
+a multiprofessional team to provide care(17-18,22,29,36,39).
+attention should be paid to these studies as they report
+Amid this pandemic, it is also important to keep in
+evidence that is currently available and it is extremely
+mind that health workers should ensure women the right
+relevant to identify the main clinical manifestations
+to humanized care to be provided during pregnancy,
+dealing with this disease during pregnancy.
+delivery, and puerperium, as well as to the child the
+No differences were found between the clinical aspects
+right to have a safe birth, and healthy development and
+manifested by pregnant women infected with COVID-19
+growth. In Brazil, these rights are ensured by the Rede
+and those of non-pregnant individuals(17-20,28,34-36,38). The
+de Atenção à Saúde Materna e Infantil [Maternal and
+main symptoms reported were: fever(18-21,28-29,32,34,36,39),
+Child Health Care Network] known as Rede Cegonha
+dry cough(18,20,28-29,31-32,34,36,38-39), and dyspnea(18-19,21,29,32,36).
+pregnancy reports other signs and symptoms, which
+The studies also highlight that this time requires
+even if at a lower frequency, may occur and should be
+pregnant women have more flexible work opportunities,
+taken into account to reach an early diagnosis(29).
+being able to leave from work when gestational age is
+In terms of diagnosis, there is a concern with
+greater than 28 weeks or when there are risk factors or
+early detection of the disease. Thus, pregnant women
+underlying comorbidities(31,39-40). These precautions are
+should be recommended to learn about the specific
+needed considering that being infected by COVID-19
+signs of COVID-19 in order to decrease their exposure
+during pregnancy tends to result in negative outcomes,
+to health services. An initial assessment performed
+such as spontaneous abortion, premature rupture of
+membranes, restricted intrauterine growth, fetal distress,
+to-face consultation is necessary(17). Note, however, that
+and premature labor and birth(18-19,24,27-29,32,34,36,38-40).
+a retrospective study
+compared the clinical aspects
+Thus, in this context, prenatal care is essential
+of pregnant and non-pregnant women and verified that
+throughout the pregnancy, especially during the third
+symptoms are atypical among pregnant women, which
+trimester when the final stages of development take
+would probably hinder the disease’s early detection in
+place and maternal anxiety is at its highest, a period
+this group.
+that requires a larger number of prenatal inspections.
+symptoms, studies suggest: laboratory exams(6,36,29)
+Comparative studies indicate that CT scans are more
+sensitive than RT-PCR, as well as more precise and
+time-efficient, presenting a lower number of falsenegatives. The clinical findings of imaging exams of
+Therefore, monitoring heart rate and ultrasound are
+essential to assess fetal wellbeing, and especially among
+women infected with the novel coronavirus(18,23,26).
+Note that so far, there is no clinical or serological evidence
+suggesting the possibility of vertical transmission of the
+SARS-CoV-2 virus(6,17-19,25,27-28,30,32,34,38-40) in amniotic fluid
+pregnant women are similar to those of non-pregnant
+samples(17-18,25,30,34), umbilical cord blood(17-18,25,30,32,34,38-40),
+patients(28-29,33,35). Despite its various advantages, the
+newborn pharyngeal swabs(17-18,25,30,32,34,39), or milk breast
+routine use of CT scans should be avoided due to the
+smears(18,25,30,32,34-35,39). An absence of isolated viral was
+Rev. Latino-Am. Enfermagem 2020;28:e3348.
+verified in all the samples, suggesting there is no intra-
+scientific evidence concerning obstetrical care provided
+uterine transmission of the virus during the third trimes-
+in the context of the COVID-19.
+ter. All the studies, however, are retrospective studies
+addressing small samples, characteristics that decrease
+the power of generalization. Studies using placentas
+1. Secretaria de Estado da Saúde (BR). Coordenadoria
+also identified no teratogenicity, placental pathologies or
+de Controle de Doenças. Plano de Contingência do
+inflammations, the presence of the SARS-CoV-2 virus,
+Estado de São Paulo para Infecção Humana pelo novo
+or thyroid dysfunction in newborns(18,25,29,34,36-37).
+that the recent beginning of the pandemic and intense
+recommendations. As most studies are retrospective
+studies and opinion papers, there is the risk of biased
+information. Additionally, the option to restrict studies
+written in one of three languages also limited the number
+of studies, as potentially eligible papers originated in
+China were written in the native language.
+2. Sociedade Brasileira de Pediatria (BR). Recomendações
+sobre os respiratórios do recém-nascido com COVID-19
+suspeita ou confirmada. [Internet]. 2020 [Acesso
+Coronavírus – 2019 nCOV. [Internet]. 2020 [Acesso 15
+3. Ministério da Saúde (BR). Secretaria de Atenção
+particularities, especially linked to physiological and
+Primária à Saúde. Nota Técnica nº 10/2020-COCAM/
+immunological changes. Additionally, the need to protect
+a fetus represents greater responsibility when providing
+Recém-nascido no contexto da Infecção pelo novo
+Coronavírus (SARS-CoV-2). [Internet]. 2020 [Acesso
+regarding the care provided to pregnant women during
+the COVID-19 pandemic. There is much uncertainty
+regarding the virus-specific characteristics, however,
+the following is recommended to promote quality care
+4. Royal College of Obstetricians and Gynaecologists
+to the maternal-fetal pair: contain as much as possible
+(UK). The Royal College of Midwifes. Coronavirus
+the advancement of the virus with isolation and contact
+(COVID-19) Infection in Pregnancy. Information for
+precautions; care for respiratory infections; assess
+healthcare professionals. [Internet]. 2020 [cited Apr
+risks and benefits constantly; confirm the disease and
+pregnancy the earliest as possible; use technological
+resources for screening; provide oxygen support if
+needed; recommend proper rest, sleep, nutrition,
+5. Word Health Organization. Novel Coronavirus (2019-
+nCoV). [Internet]. 2020 [cited Apr 7, 2020]. Available
+and contraindicated medications that may present
+teratogenic or toxic effects to the fetus; monitor vital
+signs; provide individualized obstetrical care with a
+6. World Health Organization. Essential nutrition actions:
+multiprofessional approach.
+improving maternal, newborn, infant and young child
+The information presented is not absolute and may
+health and nutrition. [Internet]. Geneva: WHO; 2013
+change when new scientific discoveries are reported.
+future studies to investigate the impact of the infection
+at the beginning of pregnancy (during the first and
+7. Ministério da Saúde (BR). Secretaria de Ciência,
+second trimesters), the psychological aspects of infected
+Tecnologia, Inovação e Insumos Estratégicos em Saúde.
+pregnant women, and analyses of medications specific
+Diretrizes para Diagnóstico e Tratamento da Covid-19.
+for pregnancy. The gaps that remain are expected to
+[Internet]. 2020 [Acesso 20 abr 2020]. Disponível em:
+motivate the development of further research with
+Mascarenhas VHA, Caroci-Becker A, Venâncio KCMP, Baraldi NG, Durkin AC, Riesco MLG.
+8. Rodriguez-Morales AJ, Cardona-Ospina JA, Gutiérrez-
+Gynecol. 2020 Mar 23. pii: S0002-9378(20)30343-4.
+19. Liu Y, Chen H, Tang K, Guo Y. Clinical manifestations
+and Imaging Features of COVID-19: A systematic
+and outcome of SARS-CoV-2 infection during pregnancy.
+J. Infect. Dis. 2020 Mar 4. pii: S0163-4453(20)30109-2.
+20. Wen R, Sun Y, Xing Q-S. A patient with SARS-
+9. Ministério da Saúde (BR). Secretaria de Atenção
+CoV-2 infection during pregnancy in Qingdao, China.
+Primária à Saúde. Protocolo de manejo clínico do
+J Microbiol Immunol Infect. 2020 Mar 10. pii: S1684-
+coronavírus (COVID- 19) na atenção primária à saúde.
+[Internet]. 2020 [Acesso 20 abr 2020]. Disponível
+21. Yu N, Li W, Kang Q, Xiong Z, Wang S, Lin X, et al.
+Clinical features and obstetric and neonatal outcomes
+of pregnant patients with COVID-19 in Wuhan, China:
+10. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang
+vertical transmission potential of COVID-19 infection
+11. Dong Y, Mo X, Hu Y, Qi X, Jiang F, Jiang Z, et al.
+Epidemiological characteristics of 2143 pediatric patients
+with 2019 coronavirus disease in China. Pediatrics.
+12. Peters MDJ, Godfrey CM, Khalil H, McInerney P, Parker
+D, Soares CB. Guidance for conducting systematic scoping
+13. Arksey H, O’Malley L. Scoping studies: towards a
+methodological framework. Int J Soc Res Methodol.
+15. Tricco AC, Lillie E, Zarin W, O’Brien KK, Colquhoun
+(PRISMA-ScR): Checklist and Explanation. Ann Intern
+22. Chen D, Yang H, Cao Y, Cheng W, Duan T, Fan C, et
+al. Expert consensus for managing pregnant women and
+neonates born to mothers with suspected or confirmed
+novel coronavirus (COVID-19) infection. Int J Gynaecol
+23. Chen Y, Li Z, Zhang Y-Y, Zhao W-H, Yu Z-Y. Maternal
+management during
+coronavirus disease 2019 (COVID-19). J Med Virol. 2020
+24. Chen S, Liao E, Shao Y. Clinical analysis of pregnant
+women with 2019 novel coronavirus pneumonia. J Med
+25. Mullins E, Evans D, Viner RM, O’Brien P, Morris E.
+Ultrasound Obstet Gynecol. 2020 May;55(5):586-592.
+26. Wang S-S, Zhou X, Lin X-G, Liu Y-Y, Wu J-L, Sharifu
+LM, et al. Experience of Clinical Management for
+Pregnant Women and Newborns with Novel Coronavirus
+Pneumonia in Tongji Hospital, China. Curr Med Sci. 2020
+27. Qi H, Luo X, Zheng Y, Zhang H, Li J, Zou L, et al.
+Safe Delivery for COVID-19 Infected Pregnancies. BJOG.
+16. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA
+28. Liu D, Li L, Wu X, Zheng D, Wang J, Yang L, et
+al. Pregnancy and Perinatal Outcomes of Women
+With Coronavirus Disease (COVID-19) Pneumonia:
+A Preliminary Analysis. AJR Am J Roentgenol. 2020
+17. Rasmussen SA, Smulian JC, Lednicky JA, Wen TS,
+Jamieson DJ. Coronavirus Disease 2019 (COVID-19)
+and Pregnancy: What obstetricians need to know.
+recommendations to follow? Acta Obstet Gynecol Scand.
+18. Dashraath P, Jing Lin Jeslyn W, Mei Xian Karen L,
+30. Schwartz DA. An analysis of 38 pregnant women
+Li Min L, Sarah L, Biswas A, et al. Coronavirus Disease
+with COVID-19, their newborn infants, and maternal-
+2019 (COVID-19) Pandemic and Pregnancy. Am J Obstet
+fetal transmission of SARS-CoV-2: maternal coronavirus
+Rev. Latino-Am. Enfermagem 2020;28:e3348.
+infections and pregnancy outcomes. Arch Pathol. Lab
+obstetricians: a commentary. BJOG-AN Int J Obstet
+31. Rimmer A. Covid-19: doctors in final trimester of
+40. Liu H, Wang L-L, Zhao S-J, Kwak-Kim J, Mor G,
+pregnancy should avoid direct patient contact. BMJ.
+Liao A-H. Why are pregnant women susceptible to
+COVID-19? An immunological viewpoint. J Reprod
+32. Suliman K, Liangyu P, Rabeea S, Ghulam N,
+Nawsherwan MX, Jianbo Liu GH. Impact of COVID-19
+41. Direção Geral de Saúde (PT). Norma nº 007/2020,
+infection on pregnancy outcomes and the risk of
+de 29 de março de 2020. Prevenção e Controle de
+Infecção por SARS-CoV-2 (COVID-19): Equipamentos
+COVID-19 during natural birth. Infect Control Hosp
+33. Liu H, Liu F, Li J, Zhang T, Wang D, Lan W. Clinical
+and CT Imaging Features of the COVID-19 Pneumonia:
+42. Vilelas JMS. O novo coronavírus e o risco para a
+Focus on Pregnant Women and Children. J Infect.
+saúde das crianças. Rev. Latino-Am. Enfermagem.
+34. Panahi L, Amiri M, Pouy S. Risks of Novel Coronavirus
+43. Brasil. Ministério da Saúde. Secretaria de Atenção
+[Internet]. Arch Acad Emerg Med. 2020 [cited Apr 20,
+Estratégicas. Portaria nº 1.459, de 24 de junho de
+2011. Institui, no âmbito do Sistema Único de Saúde -
+SUS - a Rede Cegonha [Internet]. Brasília: Ministério
+35. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang
+da Saúde; 2011 [Acesso 21 abr 2020]. Disponível em:
+vertical transmission potential of COVID-19 infection
+36. Yang H, Wang C, Poon LC. Novel coronavirus
+infection and pregnancy. Ultrasound Obstet Gynecol.
+37. Schwartz DA, Graham AL. Potential Maternal and
+Infant Outcomes from (Wuhan) Coronavirus 2019-nCoV
+Infecting Pregnant Women: Lessons from SARS, MERS,
+and Other Human Coronavirus Infections. Viruses.
+38. Di Mascio D, Khalil A, Saccone G, Rizzo G, Buca
+D, Liberati M, et al. Outcome of Coronavirus spectrum
+infections (SARS, MERS, COVID 1 -19) during pregnancy:
+39. Chua MSQ, Lee JCS, Sulaiman S, Tan HK. From
+the frontline of COVID-19-How prepared are we as
+Maria Lúcia Zanetti
+Victor Hugo Alves Mascarenhas
+Copyright © 2020 Revista Latino-Americana de Enfermagem
+offered. Recommended for maximum dissemination and use of

@@ -1,0 +1,866 @@
+JOURNAL OF ADVANCED VETERINARY AND ANIMAL RESEARCH
+A periodical of the Network for the Veterinarians of Bangladesh (BDvetNET)
+VOL 7, NO. 2, PAGES 260–280
+REVIEW ARTICLE
+Coronavirus Disease 2019 (COVID-19) pandemic, lessons to be learned!
+Md. Saiful Islam1, Md. Abdus Sobur1, Mily Akter1, K. H. M. Nazmul Hussain Nazir1, Antonio Toniolo2, Md. Tanvir Rahman1
+ARTICLE HISTORY
+Coronavirus Disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) has been reported as a worldwide emergency. Due to the extensiveness of spread
+was by April 3, 2020. A total of 1,016,399 cases of COVID-19 with 53,238 deaths was reported
+from 204 countries and territories including two international conveyances over the world. After
+China, most of the new cases were from Europe, particularly Italy acting as the source of importation to many of the other countries around the world. China has obtained success by ascribing
+control strategies against COVID-19. The implementation of China’s strategy, as well as the development of a vaccine, may control the pandemic of COVID-19. Further robust studies are required
+controlling of the COVID-19 or similar viral diseases that may come in the future.
+Revised April 14, 2020
+Under the Coronoviridae family, coronavirus possesses
+enveloped, single-stranded Gram-positive RNA genome
+which has been detected in avian hosts and mammals,
+including bats, camels, civets, dog, and cats [1–3]. Among
+previously known several coronaviruses, most are mild
+pathogenic to humans [1], but Severe Acute Respiratory
+Syndrome Coronavirus (SARS-CoV) and the Middle East
+Respiratory Syndrome Coronavirus (MERS-CoV) caused
+severe human infection [4]. In Guangdong, Southern China,
+a betacoronavirus: SARS-CoV arose in November 2002 [5]
+and caused 774 deaths in 37 countries with more than
+8,000 human infections [6]; and MERS-CoV first emerged in
+Saudi Arabia in 2012 [7] with 2,494 human cases constituting 858 deaths, besides, 38 deaths were recorded in South
+Korea through a single introduction [8,9]. Several patients
+with pneumonia-like respiratory illness were recognized in
+late December 2019 in Wuhan, Hubei (a province of China)
+[4,6]. Epidemiologically, they were connected with Hunnan
+Correspondence Md. Tanvir Rahman
+Novel coronavirus; China;
+travel history; pandemic;
+control strategy
+distributed under the terms of the
+wet market where multifarious non-aquatic birds and rabbits were sold [6]. Although doctors couldn’t trace the cause
+at the beginning, a novel human infecting coronavirus was
+identified as the etiology in the first week of January 2020
+[4,10–15] using next-generation sequencing [10,16]. WHO
+named the virus provisionally as 2019 novel coronavirus
+(2019-nCoV) [17], followed by renaming as severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) based
+on the rule of international committee on taxonomy of
+viruses (ICTV) [18,19]. Before that, the virus was recognized as a sister to SARS-CoV [19]. The name SARS-CoV-2
+was approved by ICTV based on the similarities of genetic
+characteristics with the previous coronavirus that caused
+the outbreak of SARS, 2003 [18]. Finally, based on severity,
+spread, transmissibility, prevention, and treatment, WHO
+named the disease as Coronavirus Disease 2019 (COVID19) in the international classification of diseases [15,18].
+Due to the importation of COVID-19 from epidemic states
+and countries to different states and countries, the disease
+How to cite: Islam MS, Sobur MA, Akter M, Nazir KHMNH, Toniolo A, Rahman MT. Coronavirus disease 2019 (COVID-19) pandemic, lessons to be learned! J Adv Vet Anim Res 2020; 7(2):260–280.
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+has spread throughout China and all over the world in a
+short time, though the outbreak was recognized in Wuhan
+[19–26]. Because of fast-spreading, COVID-19 has affected
+204 countries and territories including two international
+conveyances [27]. WHO declared the COVID-19 disease as
+a global pandemic by observing the enormous number of
+cases and colossal deaths with the concatenate of social
+operations and huge economic losses throughout the world
+[27,28]. Furthermore, WHO also declared that Europe has
+become the new epicenter of COVID-19 on March 13, 2020,
+due to the deadly run throughout the European countries
+[29]. An implausible number of deaths has made the coronavirus pandemic as death toll over the world.
+Human-to-human transmission among a cluster of
+people including doctors and healthcare workers is augmenting the piquancy of COVID-19 with the mild-to-severe sign-symptoms [14,23]. Although the extensiveness
+of spread and death rate has differed among SARS, MERS,
+and COVID-19 outbreak, the sign and symptoms with transmission patterns are similar [30]. Several studies found
+the similarities in the transmission pattern by droplet
+and contact (direct and indirect) transmission among the
+SARS-like viruses [31–33]. The transmission of viruses is
+under the influence of many factors, such as environmental temperature, humidity, and population density [11,12].
+However, no effective medications and vaccines are developed against SARS-CoV-2 though different research groups
+over the world are trying to develop vaccines and antiviral
+drugs [34]. Thereafter, every nation is providing their best
+endeavors to alleviate the extensiveness of COVID-19.
+As a strategy to prevent and control the intensification
+of COVID-19, China started to take an extreme level of
+strategies such as extreme lockdown, transmission route
+blocking, and susceptible population protection, followed
+by other nations are trying to follow China’s strategies
+prevention and control strategies.
+Selection criteria
+COVID-19 virus with their epidemiology, transmission
+dynamics, and current situation of the outbreak, and
+prevention and control measures. We also extracted the
+information from relevant websites for current situation
+reports of the outbreak. No language limit was for information acquisition. There was a strong focus on the most
+Information sources and search strategy
+Google Scholar, Research Gate, Web of Sciences, Elsevier,
+Nature, WHO, and Worldometer. The keywords used
+here were: “COVID-19,” “SARS,” “MERS,” “SARS-CoV-2,”
+“Coronavirus,” “2019 nCoV,” “Pandemic,” “Wuhan coronavirus,” “First New Case,” “Prevention,” “Control,” and
+“China’s Control Strategies” or a combination among these.
+The searches were between March 29, 2020, and April 3,
+2020, by individual researchers, and then all the collected
+data were coordinated.
+Data incorporation
+abstract in context to the interest of the study. To find out
+the current scenario of COVID-19 outbreak, prevention,
+and control strategies across the globe, the total number of
+confirmed cases, death cases, and recovery cases [27,37]
+the first imported case in countries, importation sources
+There were so many lessons for China during and after the
+SARS outbreak in the Southern part of the country in 2002.
+As a part of continuous research, in March 2019, research
+studies from China warned about the possible future SARSor MERS-like outbreak in China from bat [38]. Wild animals
+including bats, snakes, and others were sold in a seafood
+market at Huanan in Wuhan, primarily was declared as
+the source of infection but environmental specimens from
+the market were found to carry SARS-CoV-2 [39]. But the
+animal association is not confirmed yet. Initially, snake
+was thought to be a potential reservoir but researchers
+rejected the option [40]. The whole-genome sequence of
+SARS-CoV-2 and other available Betacorona virus revealed
+a close relation with BatCov RaTG13 with 96% similarity
+[11,41–44]. In the beginning, confirmed patients had a history of working in the market [45]. Human-to-human transmission through droplets and fomites was noticed in many
+patients having no association with the market. Besides,
+the infection to healthcare workers strongly indicated the
+high human-to-human transmission through droplets and
+fomites and direct contact [46–48]. The other provinces
+of China were infected through the importation of cases
+from Hubei province. Initially, some countries reported
+imported cases, later on, local transmission. Finally, importation among the countries and to new countries continued sharply, leads the outbreak towards pandemic. From
+the outset, newly infected countries reported their first
+case was imported from China as expected, thereafter,
+2). Besides, the neighboring country was also the source
+Europe has been declared as the epicenter of the pandemic
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Current case reports
+A total of 1,016,399 cases of COVID-19 with 213,133 (80%)
+recovered and 53,238 (20%) deaths have been reported
+from 204 countries and territories along with two international conveyances all over the world by April 3, 2020
+245,373 number of cases, whereas Italy (115,242), Spain
+(112,065), Germany (84,794), China (81,620), France
+(France), Iran (50,468), and UK (33,718) were mostly
+affected [37]. The active cases are 750,028 where 712,373
+(95%) were mild and 37,655 (5%) were serious or critical cases. The critical cases were mostly in France (6,399)
+followed by Spain (6,092), USA (5,421), Italy (4,053), Iran
+(3,956), and Germany (3,936). Although critical cases
+were high in China, the numbers are now decreasing in
+the prospected way but increasing outside China particularly, in the USA and most European countries [37]. The
+numbers of new cases were always more than the recovery
+number. Since China has managed to prevent the spread of
+the virus and was discharging a large number of recoveries
+every day, the daily recovery number increased over the
+new cases. However, the number of confirmed cases is augmenting day by day. This is due to the huge number of new
+patients in the USA, European countries, Iran [37]. Overall,
+the number of confirmed cases was reported more in
+Fig. 2) [50].
+Viability, incubation period, and symptoms
+Although viruses need a living host to survive and replicate, SARS-CoV-2 remains viable outside the living body
+and persist on different environmental conditions for
+viable on stainless steel and plastic compared to aerosols,
+copper, and cardboard [51]. That’s why the way of transportation, food products, food containers, house doors,
+elevator buttons, cellphone screens, glass windows,
+Viability time
+Median half-life
+Up to 3–4 h
+Up to 72 h
+Stainless steel
+Up to 72 h
+Up to 4 h
+Up to 24 h
+Up to 96 h
+hospital beds, etc.can act as the source of indirect contact
+transmission of SARS-CoV-2 [52].
+Although COVID-19 produces signs and symptoms
+in the infected individuals within 1–14 days, the average
+period is 5–6 days. Within this average time, fever and mild
+respiratory symptoms may be developed in affected individuals [43].
+The WHO-China Joint Mission has reported on signs
+and symptoms of COVID-19 and they revealed that the disease can cause non-specific symptoms, including asymptomatic to severe pneumonia, followed by death [53]. The
+joint mission indicated that the signs and symptoms can
+vary according to their laboratory findings collected from
+55,924 confirmed cases by 20 February 2020 [53]. The
+signs and symptoms with their occurrence are shown in
+Among total cases, the mortality of COVID-19 was 5.2%
+(total death/ total confirmed cases) quite lower than
+SARS (9.6%) and far away from MERS (34%) and Ebola
+(65.7%) [30,37,54]. The highest deaths were in Italy
+(13,915) followed by Spain (10,348), USA (6,095), France
+(5,387), China (3,322), Iran (3,160) and UK (2,921)
+4) [37,55]. There are fluctuations of death based on age,
+country, and date. In context to sex, male death (2.8%)
+was higher than female (1.7%) among all cases and males
+were infected more than female [56]. The SARS study also
+revealed similar findings in relation to sex [57]. This may
+be due to the presence of gene for angiotensin I converting
+enzyme-2 (ACE-2) receptor and the host receptor for SARS
+found on the X chromosome and more tendency of males
+to smoke which results in lung damage [58–60]. Patients
+suffering from cardiovascular disease, diabetes, chronic
+respiratory disease, hypertension, cancer and elderly
+immunosuppressed people [61], are the most susceptible
+0.9% of death was not associated with any pre-existing
+medical conditions [56].
+Is there any effect of temperature and humidity on
+COVID-19 transmission?
+There is speculation that climatic factors, such as temperature and humidity can affect the transmission of SARS-like
+viruses. Recent several studies indicated the effectiveness
+of temperature and humidity on SARS-CoV-2 though the
+data were collected during the pre-stage outbreak [62–
+64]. In the progression of pandemic, the outbreak is occurring in a few countries having high temperature, such as
+India, Malaysia, and Brazil, etc. On the other hand, some
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+WHO [53]).
+from Worldometer [56]).
+Death rate(confirmed cases)
+Death rate(all cases)
+No fatalities
+countries, such as Japan and South Korea having low temperatures showed a limited outbreak [37]. These exceptions interpret that the virus transmission may depend
+on the taken interventions by governments. Besides, the
+transmission can be influenced by population density,
+awareness of people, economic strength, and health system of a country. Therefore, we can’t directly relate the
+influence of temperature on the transmission of SARSCoV-2. Robust studies should be taken to clarify this vague
+Prevention and control
+To limit the loss associated with COVID-19 and stop its
+spread, immediate control measures are crucial [65].
+Travel history is very important for the early detection of
+SARS-CoV-2 to prevent the local transmission [66]. In the
+present situation, travelers from the infected areas are the
+main route of virus entry to a new country. WHO stated
+several recommendations for travelers’ particularly international passengers in relation to the current outbreak
+[67]. WHO suggests only temperature screening at entry
+or exit, is always not enough to prevent international
+spread, since infected people may be in the early stage of
+the disease (incubation period) and may not show apparent symptoms, or may use antipyretics to dissimulate
+fever. In the current situation, it is better to collect contact
+details of passengers, detailed information where to move
+for contact tracing and provide a health card with details
+best to quarantine individuals who came from the affected
+areas. Individual country can discourage their people to
+travel to an affected area if not emergency [67]. Many of
+the countries have already restricted the entry of flights
+from COVID-19 affected countries and issuing an on-arrival visa. Force institutional and home quarantine is also
+and collages are now closed in many parts of the world
+to combat COVID-19. To control the local transmission,
+reducing human-to-human transmission through droplets and contact is crucial. WHO recommendations on
+virus control interventions to lower the general risks of
+spread includes avoiding close contact with confirmed or
+suspected patients or a traveler from the infected area;
+hand hygiene through the frequent wash with sanitizer
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+particularly after exposure with affected people or with
+their environment. Besides, affected people should use
+protective devices during coughing, keep up a distance,
+and follow the nation’s health tips. Following other
+updates and recommendations of WHO is important.
+Previous knowledge of MERS and SARS control is also useful [67], since COVID-19 is a member of the same group of
+viruses. Although knowledge dissemination is needed, the
+government should be careful about the misinformation
+and clarify them. Finally, the sharing of authentic knowledge and technologies, and health care facilities among
+the countries will be helpful.
+Coronavirus changes its immunogenic structures frequently as COVID-19 has emerged after changing its antigenic structures several times. Thus, targeting a protein
+COVID-19. Recently, Ahmed et al. [68] identified a set of B
+cell and T cell epitopes in the spike (S) and nucleocapsid
+(N) proteins that potentially offer protection against this
+novel virus. Interestingly, there was no mutation found in
+these epitopes considering the 120 available SARS-CoV-2
+sequences [68].
+China strategy
+China aimed at COVID-19 control as the priority at all levels of government. China already has proved that COVID19 is controllable and they reported only 31 cases on April
+3, 2020. To control the disease, China undertook three
+phases that could be adopted by other countries currently
+having COVID-19 outbreaks (Fig. 2) [53]. Here, we focused
+on China strategy because it was the country where the first
+epidemic started. It was also the the first success story too.
+Moreover, compare to other countries, much more people
+were affected in China. Basic approaches in Korea, Japan,
+and Norway who also controlled COVID-19 epidemic later
+were quite similar to China primarily focusing on test, isolation, and quarantine.
+First phase
+The first phase focused on the prevention of the spread
+of the virus from the epicenter Wuhan and other infected
+areas of Hubei to other provinces, therefore, aimed to control the infection source, stop transmission, and prevent
+further spread. Multi-sectoral approaches were taken
+for the prevention and control of the disease. Wet markets were identified and closed and necessary steps were
+taken to identify the zoonotic connection; strict supervision, and control measures were also made for live poultry and wildlife markets. They informed WHO about the
+epidemic on January 3, 2020, and also shared the whole
+genome sequence of SARS-CoV-2 on January 10, 2020.
+Besides, they established diagnostic and therapy, surveillance, management of exposure and laboratory detection
+protocols for COVID-19 and developed diagnostic kits for
+the test.
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Second phase
+The second phase aimed to reduce the number of new
+cases as well as to treat patients, reduce deaths, and
+prevent explorations in Wuhan and nearby priority
+areas in Hubei province. The main focus of the other
+provinces was to prevent importations, curb the spread,
+and implement the joint control measures. The Chinese
+government categorized the COVID-19 as two types:
+Class B infectious disease and border health quarantine infectious disease based on the notifiable reporton
+January 20, 2020. They attributed strong transportation
+law to prevent the transmission of disease by checking
+body temperature, declaring health care approbation,
+and practicing quarantine at the transportation depots.
+Moreover, on 23 January 2020, the Wuhan government
+implemented strict traffic restrictions. With the progress of the disease, diagnostic, treatment, and other
+associated protocols were improved; isolation of case
+and treatment of patients were strengthened. The public
+movement was restricted. Medical knowledge dissemination was strengthened and prevention and control
+measures were regularly released. New hospitals were
+built, medical supplies were coordinated and the best
+use of all other resources was done. The supply of daily
+needs and their prices were strictly monitored to make
+sure smooth daily operation of society.
+Third phase
+This stage focused to reduce the clusters of cases, introducing a scientific evidence-based policy for prevention
+and control. Patients in Wuhan and other potentially
+risky areas of Hubei province, patients were treated carefully to reduce virus transmission. A differentiated prevention and control measures were adopted for different
+regions of the country and provinces based on the level
+of risk they were exposed. Sophisticated hitch technologies, such as Big-data and artificial intelligence were used
+for strengthening contact tracing along with the management of priority populations. Health insurance payment,
+off-site settlement, and financial compensation were
+promulgated as a part of the better health management
+system. Other provinces supported in all ways to curb
+quickly the spread of the disease. Steps were being taken
+to re-establish the normal social activities in a stepwise
+fashion along with improving public awareness on disease prevention and control, and public health. Besides,
+research and development activities focusing on development of diagnostics, therapeutics, and vaccines were
+Why European countries including the USA failed to control
+A collective failure in taking swift measures in time and
+being unconcerned leads to enormous and unnecessary deaths to the public due to the coronavirus disease.
+Among European countries, Italy first faced the serious
+and disastrous outbreak of COVID-19. For the severity
+of the disease, lacking concern along with having a huge
+aged population are considered as foremost causes.
+The government failed to enforce full lockdown in time.
+Furthermore, the decision to lockdown northern Italy
+was leaked before being approved and the people started
+to escape from North to South. This may have caused the
+rapid spread of the virus. Besides, failure to rule proper
+social distance also made a big role in the spread of
+COVID-19. They failed to track contact tracing, comprehensive testing, and self-isolation.
+Like Italy, most of the European countries also couldn’t
+control the severity of COVID-19 because of waiting for
+long to enforce the lockdown and failure to maintain social
+distance. Even the USA is being exploded by COVID-19 due
+to the failure in pursuing widespread testing, maintaining
+contact tracing, and ascribing mandatory quarantine for
+risk individuals. Almost all countries, around the world
+where the COVID-19 is highly prevalent, faced the severity
+due to the lack of concern and failure of maintaining social
+Knowledge gap
+There is evidence of SARS-CoV-2 presence in patient stools
+[25]. However, fecal-oral route transmission is still unclear.
+Previous reports revealed the capability of SARS and other
+coronaviruses of surviving on an inanimate object and environmental surfaces [69,70]. However, there is no report of
+SARS-CoV-2 presence in the environment except Hunan
+Market. The effectiveness of travel restriction, maintaining
+social distance, wearing a mask in the general public, home,
+or self-quarantine is not clear. Although there are some
+studies on the treatment of COVID-19, more study needed
+[25,71,72]. Several studies are focusing on the influence
+of environmental parameters, such as temperature and
+humidity, on SARS-like virus transmission [69,73]. The
+seasonality of the outbreak is also required to study. More
+studies are needed to explore the role of environment in
+the spread of the virus and its viability that are crucial for
+adopting strategies to control COVID-19 outbreaks. Besides
+the environment, more studies are required to identify the
+intermediate host(s) of COVID-19, because bats are known
+to be a reservoir of SARS-CoV-2 [38].
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Failed to
+Deciding in time;
+Widespread testing;
+Contact tracing;
+Attribute mandatory quarantine.
+Failed to
+Enforce lockdown in time;
+Maintainsocial distancing.
+Political issue
+Fail to
+Enforce lockdown in time;
+Maintain social distancing.
+Having a huge old population
+Lack of concern
+Playing football matches with huge supporters during the COVID-19 outbreak.
+Failed to
+Maintain social distancing;
+Enforce lockdown in time;
+Take effective quarantine measures.
+Limitation in
+The capacity of test centers and existing diagnostic laboratories interms of personnel and reagents;
+Maintaining social distancing.
+Failed to
+Take effective quarantine measures;
+Disinfect the cities.
+Political issues
+Failed to
+Maintain social distancing;
+Track contact tracing.
+Failed to track the contact tracing
+Lack of seriousness among people of government.
+Failed to implement restrictions timely
+Tried to adopt an “intelligent lockdown” but failed.
+COVID-19 outbreak in China has been declared as pandemic due to its rapid and extensive spread in at least 204
+countries and territories. After China, Europe is the new
+epicenter of the outbreak. The importation of infected
+individuals to uninfected countries was the main cause
+of the current pandemic and most of them occurred from
+Europe, especially Italy. More than 1 million people have
+been affected bythe COVID-19 virus with more than 50,000
+mortality until today. The number of new cases and death
+are increasing every day sharply. Earlier study and current
+data suggest that the transmission of SARS-CoV-2 can be
+influenced by some metrological parameters, population
+density, droplet, and direct-indirect contact; however, further study should be undertaken. In context to control the
+current outbreak, China’s strategy is a role model for the
+world. Besides, an effective vaccine will be a permanent
+solution along with the development of SARS-CoV-2 specific antiviral therapy.
+Rahman, Adhunik Sadar Hospital, Naogaon, Bangladesh
+Conflict of interest
+MTR and MAS designed the study. MSI and MA collected
+data. MSI and MAS analyzed and interpreted the data.
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Su S, Wong G, Shi W, Liu J, Lai AC, Zhou J, et al. Epidemiology,
+genetic recombination, and pathogenesis of coronaviruses. Trends
+Cavanagh D. Coronavirus avian infectious bronchitis virus. Vet Res
+Ismail MM, Tang Y, Saif YM. Pathogenicity of turkey coronavirus in
+Chen L, Liu W, Zhang Q, Xu K, Ye G, Wu W, et al. RNA based mNGS
+approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. Emerg Microbes
+Peiris JS, Guan Y, Yuen KY. Severe acute respiratory syndrome. Nat
+Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for
+virus origins and receptor binding. Lancet 2020; 395(10224):565–
+Zaki AM, Van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier
+RA. Isolation of a novel coronavirus from a man with pneumonia
+Lee J, Chowell G, Jung E. A dynamic compartmental model for
+of Korea: a retrospective analysis on control interventions and
+Lee JY, Kim YJ, Chung EH, Kim DW, Jeong I, Kim Y, et al. The clinical and virological features of the first imported case causing
+MERS-CoV outbreak in South Korea, 2015. BMC Infect Dis 2017;
+Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel coronavirus from patients with pneumonia in China, 2019. New Engl J Med
+Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak associated with a new coronavirus of probable
+Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, et al. A new coronavirus associated with human respiratory disease in China. Nature
+Ren LL, Wang YM, Wu ZQ, Xiang ZC, Guo L, Xu T, et al. Identification
+of a novel coronavirus causing severe pneumonia in human: a
+Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A familial
+Tan W, Zhao X, Ma X, Wang W, Niu P, Xu W, et al. A novel coronavirus
+genome identified in a cluster of pneumonia cases—Wuhan, China
+2019−2020. China CDC Weekly. N Engl J Med 2020; 2(4):61–2.
+Wu A, Peng Y, Huang B, Ding X, Wang X, Niu P, et al. Genome composition and divergence of the novel coronavirus (2019-nCoV)
+WHO. Naming the coronavirus disease (COVID-19) and the virus
+diseases/novel-coronavirus-2019/technical-guidance/namingthe-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it (Accessed 3 April 2020).
+Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten C, Gulyaev
+Lu H, Stratton CW, Tang YW. Outbreak of pneumonia of unknown
+etiology in Wuhan China: themystery and the miracle. J Med Virol
+Arab-Mazar Z, Sah R, Rabaan AA, Dhama K, Rodriguez-Morales
+AJ. Mapping the incidence of the COVID-19 hotspot in Iran–
+Implications for Travellers. Travel Med Infect Di 2020; 101630.
+Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological
+and clinical characteristics of 99 cases of 2019 novel coronavirus
+pneumonia in Wuhan, China: a descriptive study. Lancet 2020;
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features
+of patients infected with 2019 novel coronavirus in Wuhan,
+Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H,
+et al. First case of 2019 novel coronavirus in the United States.
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–infected pneumonia in Wuhan, China. JAMA 2020;
+WHO. Coronavirus disease (COVID-2019) situation reports:
+default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_4 (Accessed 3 April,
+WHO. Coronavirus disease (COVID-2019) press briefings: WHO
+Emergencies Press Conference on coronavirus disease outbreak –
+diseases/novel-coronavirus-2019/media-resources/press-briefings (Accessed 3 April 2020).
+WHO. WHO Director-General’s opening remarks at the media
+Wang Y, Wang Y, Chen Y, Qin Q. Unique epidemiological and clinical features of the emerging 2019 novel coronavirus pneumonia
+(COVID‐19) implicate special control measures. J Med Virol 2020;
+Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission routes
+of 2019-nCoV and controls in dental practice. Int J Oral Sci 2020;
+Rodríguez-Morales AJ, MacGregor K, Kanagarajah S, Patel D,
+To KK, Tsang OT, Chik-Yan Yip C, Chan KH, Wu TC, Chan JMC, et
+al. Consistent detection of 2019 novel coronavirus in saliva. Clin
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Cyranoski D. What China’s coronavirus response can teach the
+Shen K, Yang Y, Wang T, Zhao D, Jiang Y, Jin R, et al. Diagnosis, treatment, and prevention of 2019 novel coronavirus infection in children: experts’ consensus statement. World J Pediatr 2020; 1–9;
+Worldometer. COVID-19 coronavirus outbreak. Available via
+Fan Y, Zhao K, Shi ZL, Zhou P. Bat coronaviruses in China. Viruses
+Gralinski LE, Menachery VD. Return of the coronavirus: 2019-nCoV.
+Ji W, Wang W, Zhao X, Zai J, Li X. Homologous recombination within
+the spike glycoprotein of the newly identified coronavirus may
+boost cross-species transmission from snake to human. J Med Virol
+Paraskevis D, Kostaki EG, Magiorkinis G, Panayiotakopoulos
+G, Sourvinos G, Tsiodras S. Full-genome evolutionary analysis of the novel coronavirus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event.
+Zhang T, Wu Q, Zhang Z. Probable pangolin origin of SARSCoV-2 associated with the COVID-19 outbreak. Curr Biol 2020;
+Zheng J. SARS-CoV-2: anemerging coronavirus that causes a
+Ye ZW, Yuan S, Yuen KS, Fung SY, Chan CP, Jin DY. Zoonotic origins
+of human coronaviruses. Int J BiolSci 2020; 16(10):1686–97;
+Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for
+virus origins and receptor binding. Lancet 2020; 395(10224):565–
+Riou J, Althaus CL. Pattern of early human-to-human transmission
+of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019
+Chen T, Rui J, Wang Q, Zhao Z, Cui JA, Yin L. A mathematical model
+for simulating the transmission of Wuhan novel Coronavirus.
+Huang Y, Tu M, Wang S, Chen S, Zhou W, Chen D, et al. Clinical characteristics of laboratory confirmed positive cases of SARS-CoV-2
+infection in Wuhan, China: a retrospective single center analysis.
+European Centre for Disease Prevention and Control. Situation
+geographical-distribution-2019-ncov-cases (Accessed 14 March
+Van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble
+A, Williamson BN, et al. Aerosol and surface stability of SARS-CoV-2
+news/2020/03/13/what-coronavirus-does-body-covid-19-infection-process-symptoms/5009057002/ (Accessed 3 April 2020).
+default-source/coronaviruse/who-china-joint-mission-on-covid19-final-report.pdf (Accessed 3 April 2020).
+who.int/health-topics/ebola-virus-disease (Accessed 3 April
+KFF- Global Health Policy. COVID-19 coronavirus tracker. Available
+Worldometer. Age, sex, existing conditions of COVID-19 cases and
+Karlberg J, Chong DS, Lai WY. Do men have a higher case fatality
+rate of severe acute respiratory syndrome than women do? Am J
+Chan JF, Kok KH, Zhu Z, Chu H, To KK, Yuan S, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan.
+Zhao Y, Zhao Z, Wang Y, Zhou Y, Ma Y, Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov.
+Cao Y, Li L, Feng Z, Wan S, Huang P, Sun X, et al. Comparative genetic
+analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor ACE2 in different populations. Cell Discov 2020; 6(1):1–4;
+WHO. Coronavirus disease (COVID-2019) situation reports:
+Wang J, Tang K, Feng K, Lv W. High temperature and high humidity
+reduce the transmission of COVID-19. Available via SSRN 3551767.
+Ma Y, Zhao Y, Liu J, He X, Wang B, Fu S, et al. Effects of temperature
+variation and humidity on the mortality of COVID-19 in Wuhan.
+Zhu Y, Xie J. Association between ambient temperature and COVID19 infection in 122 cities from China. Sci Total Environ 2020;
+Song F, Shi N, Shan F, Zhang Z, Shen J, Lu H, et al. Emerging 2019
+Novel Coronavirus (2019-nCoV) Pneumonia. Radiology 2020;
+Kim JY, Choe PG, Oh Y, Oh KJ, Kim J, Park SJ, et al. The first case
+of 2019 novel coronavirus pneumonia imported into Korea from
+Ahmed SF, Quadeer AA, McKay MR. Preliminary identification of
+potential vaccine targets for the COVID-19 coronavirus (SARSCoV-2) based on SARS-CoV immunological studies. Viruses 2020;
+Casanova LM, Jeon S, Rutala WA, Weber DJ, Sobsey MD. Effects of
+air temperature and relative humidity on coronavirus survival
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Liu W, Morse JS, Lalonde T, Xu S. Learning from the past: possible urgent prevention and treatment options for severe acute
+respiratory infections caused by 2019‐nCoV. Chembiochem 2020;
+Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus
+disease-2019 (COVID-19): the epidemic and the challenges. Int J
+Chan KH, Peiris JS, Lam SY, Poon LL, Yuen KY, Seto WH. The
+effects of temperature and relative humidity on the viability of
+Project Syndicate. Why America Is Losing to COVID-19. Available
+Politics & Policy. The lessons from Italy’s Covid-19 mistakes.
+The NewYork Time. Europe struggles to combat coronavirus as
+Salathé M, Althaus CL, Neher R, Stringhini S, Hodcroft E, Fellay J, et
+al. COVID-19 epidemic in Switzerland: on the importance of testing, contact tracing and isolation. Swiss Med Wkly 2020; 150:1112;
+AA. Iran fails to take timely measures for COVID-19: Expert.
+ALJAZEERA. COVID-19: Iran’s government ‘didn’t botch the
+upfront/2020/04/covid-19-iran-government-didn-botch-response-200403075538214.html (Accessed 3 April 2020).
+Al-monitor. Turkey and COVID-19: Is another Italy in the
+originals/2020/03/turkey-might-be-another-italy-in-the-making-coronavirus.html (Accessed 3 April 2020).
+BBC. Coronavirus: Why Dutch lockdown may be a high-risk
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+SUPPLEMENTARY MATERIAL
+Reporting Country/ Territory*/Area†
+Total confirmed cases
+Total deaths
+Total recovery
+New Zealand
+Viet Nam
+Brunei Darussalam
+Papua New Guinea
+French Polynesia*
+New Caledonia*
+Northern Mariana
+Islands*(Commonwealth of the)
+The United Kingdom
+Russian Federation
+Western Pacific Region
+European Region
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area†
+Total confirmed cases
+Total deaths
+Bosnia and Herzegovina
+North Macedonia
+San Marino
+Holy See
+Total recovery
+Faroe Islands*
+Isle of Man*
+South-East Asia Region
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area†
+Total confirmed cases
+Total deaths
+Total recovery
+Sri Lanka
+Saudi Arabia
+United Arab Emirates
+Eastern Mediterranean Region
+Costa Rica
+Occupied Palestinian territory*
+Region of the Americas
+United States of America
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area†
+Total confirmed cases
+Total deaths
+Bolivia (Plurinational State of)
+Trinidad and Tobago
+El Salvador
+Saint Lucia
+Saint Kitts and Nevis
+Antigua and Barbuda
+Saint Vincent and the Grenadines
+Total recovery
+Puerto Rico
+French Guiana
+United States Virgin Islands
+Sint Maarten
+Cayman Islands
+Saint Barthélemy
+Saint Martin
+Turks and Caicos Islands
+British Virgin Islands
+African Region
+South Africa
+Burkina Faso
+Côte d’Ivoire
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area†
+Total confirmed cases
+Total deaths
+Total recovery
+Equatorial Guinea
+Cabo Verde
+Sierra Leone
+International conveyance
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area
+Imported from
+Border Transmission
+Local Transmission
+China (Except Hubei)
+Wuhan, Italy
+Local transmission
+China, Hongkong, UK
+Local transmission
+Hong Kong
+Local transmission
+China, Singapore
+Local transmission
+China, USA
+Local transmission
+Local transmission
+China, Japan, Iran, Italy
+Local transmission
+Local transmission
+Japan, Taiwan, USA, South Korea
+Local transmission
+Viet Nam
+China, France/ UK, Italy, South Korea
+Local transmission
+Brunei Darussalam
+Imported cases only
+Local transmission
+New Zealand
+Iran, Italy
+Local transmission
+Imported cases only
+French Polynesia*
+Western Pacific Region
+Imported cases only
+European Region
+Local transmission
+Italy, Iran
+Local transmission
+Singapore, Italy, China
+Local transmission
+Singapore, Italy, China
+Local transmission
+Local transmission
+Local transmission
+Italy, Germany, Iran
+Local transmission
+Local transmission
+The United Kingdom
+France, China, Japan, Italy, Iran
+Local transmission
+Local transmission
+China, France, Italy
+Local transmission
+China, Italy, Iran
+Local transmission
+Local transmission
+Local transmission
+Italy, Israel or Egypt
+Local transmission
+Japan, Italy, Germany, France, Spain,
+Local transmission
+Local transmission
+San Marino
+Local transmission
+Italy, Austria
+Local transmission
+Local transmission
+Local transmission
+Local transmission
+Local transmission
+Russian Federation
+China, Italy
+Imported cases only
+Iran, Italy
+Imported cases only
+Imported cases only
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area
+Imported from
+Border Transmission
+Local Transmission
+Local transmission
+Under investigation
+Imported cases only
+Local transmission
+Iran, Italy
+Local transmission
+Imported cases only
+Iran, Italy
+Imported cases only
+Local transmission
+Iran, Italy
+Imported cases only
+Imported cases only
+Local transmission
+North Macedonia
+Local transmission
+Imported cases only
+Bosnia and Herzegovina
+Local transmission
+Imported cases only
+Imported cases only
+Imported cases only
+Imported cases only
+Imported cases only
+Imported cases only
+Under investigation
+Imported cases only
+Imported cases only
+Vatican City
+Under investigation
+Faroe Islands*
+Imported cases only
+Under investigation
+Imported cases only
+Imported cases only
+Japan, Iran, Italy
+Local transmission
+Italy, Iran, Thailand/ Malaysia, Greece
+Local transmission
+Local transmission
+Local transmission
+Italy, Germany
+Local transmission
+Sri Lanka
+Imported cases only
+Imported cases only
+Imported cases only
+USA/ France
+Imported cases only
+Local transmission
+Imported cases only
+Local transmission
+United Arab Emirates
+China, Iran
+Local transmission
+Imported cases only
+South-East Asia Region
+Eastern Mediterranean Region
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area
+Imported from
+Border Transmission
+Local Transmission
+Local transmission
+China, Italy
+Local transmission
+Iran, UK
+Local transmission
+Saudi Arabia
+Imported cases only
+Local transmission
+Iran, Italy
+Imported cases only
+Imported cases only
+Italy, France
+Imported cases only
+Imported cases only
+Imported cases only
+Occupied Palestinian territory*
+Local transmission
+United States of America
+China, Japan, South Korea, Iran, Italy
+Local transmission
+China, Iran, Egypt, Italy
+Local transmission
+Local transmission
+South-East Asian country, Italy
+Local transmission
+Imported cases only
+Costa Rica
+Local transmission
+Spain/ France
+Local transmission
+Local transmission
+Spain, Italy
+Imported cases only
+Imported cases only
+Imported cases only
+Italy, Canada
+Imported cases only
+Imported cases only
+Bolivia (Plurinational State of)
+Imported cases only
+Imported cases only
+Spain, Switzerland
+Imported cases only
+Imported cases only
+Imported cases only
+St. Lucia
+Imported cases only
+Imported cases only
+Saint Vincent and the Grenadines
+Imported cases only
+Trinidad and Tobago
+Imported cases only
+Imported cases only
+Imported cases only
+French Guiana*
+Imported cases only
+Imported cases only
+Saint Martin*
+Under investigation
+Saint Barthelemy*
+Under investigation
+Region of the Americas
+African Region
+Local transmission
+South Africa
+Italy, Germany, Portugal
+Imported cases only
+Imported cases only
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+Reporting Country/ Territory*/Area
+Imported from
+Border Transmission
+Local Transmission
+Burkina Faso
+Imported cases only
+Local transmission
+Imported cases only
+Ivory Coast
+Imported cases only
+Imported cases only
+Imported cases only
+Imported cases only
+Norway, Turkey
+Imported cases only
+Japan/ Burkina Faso
+Imported cases only
+Germany/ France/ Turkey
+Local transmission
+Imported cases only
+China, Japan
+Local transmission
+International conveyance
+cases as of 22 January to 2 April, 2020 (reproduced from [49]).
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+(reproduced from [55]).
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020
+(B) Selective countries (reproduced from [55]).
+ Islam et al./ J. Adv. Vet. Anim. Res., 7(2): 260–280, June 2020

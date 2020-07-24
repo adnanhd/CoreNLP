@@ -1,0 +1,208 @@
+Respirology Case Reports
+What happens when we treat the “Typhoid Mary” of
+Boon Hau Ng1 , Nik Nuratiqah Nik Abeed1, Mohamed Faisal Abdul Hamid1
+Hsueh Jing Low2 & Yu-Lin Andrea Ban1
+, Chun Ian Soo1
+Pulmonology Unit, Department of Internal Medicine, Faculty of Medicine, Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur, Malaysia.
+Department of Anesthesiology and Intensive Care, Faculty of Medicine, Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur, Malaysia.
+Computed tomography, COVID-19, ground-glass
+opaciﬁcation, pneumonia, SARS-CoV-2.
+Yu-Lin Andrea Ban, Pulmonology Unit, Department
+of Internal Medicine, Faculty of Medicine, Universiti
+Kebangsaan Malaysia Medical Centre, Jalan Yaacob
+Latif, Bandar Tun Razak, Cheras, 56000 Kuala
+Keang Lim.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection
+was declared a pandemic on 11 March 2020. We have since seen its fast
+spread worldwide. A likely contributing factor was the lack of symptoms of
+some of the carriers, making them unaware of their risk of spreading to
+other more vulnerable individuals. The other important ﬁnding has been
+the reported cases of infectivity despite lack of symptoms. We describe the
+SARS-CoV-2 pneumonia patterns in asymptomatic individuals. The common computed tomography (CT) thorax patterns found are peripheral ground-glass opaciﬁcation (GGO) with upper or lower lobe predominance. We
+believe screening for 2019-novel coronavirus (COVID-19) in high-risk individuals may help identify the patients needing longer follow-up.
+Respirology Case Reports, 8 (6), 2020, e00604
+Severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) infection was declared a pandemic by the World
+Health Organization on 11 March 2020. 2019-Novel coronavirus (COVID-19) is a positive single-stranded RNA virus
+belonging to the β-coronavirus cluster. To date, two fatal
+respiratory diseases in human history are SARS in 2002 and
+Middle East respiratory syndrome (MERS) in 2012.
+Case Series
+An asymptomatic 45-year-old woman with no known medical illness was screened for SARS-CoV-2 after travelling back
+from Scotland. She tested positive for COVID-19 and was
+admitted. Her oxygen saturation was 99% on room air with a
+respiratory rate (RR) of 16 breaths per minute (bpm). Examination of the respiratory system was unremarkable. Chest
+radiograph showed bilateral lower zone air space opacities
+(Fig. 1A). Her Modiﬁed Early Warning Score (MEWS) was
+1. We proceeded with a high-resolution computed
+tomography (HRCT), which showed bilateral peripheral
+lower zone ground-glass opaciﬁcation (GGO) (Fig. 1B). She
+was treated with oral hydroxychloroquine (HCQ),
+azithromycin, and lopinavir/ritonavir. Chest radiograph ﬁve
+days later showed signiﬁcant improvement of GGO (Fig.
+1C). COVID-19 real-time reverse transcription-polymerase
+chain reaction (RT-PCR) test was detected at day 10 of illness
+and became negative at day 14. She was discharged well.
+A 62-year-old asymptomatic man was admitted after testing positive for COVID-19 during contact screening. He
+was afebrile with RR of 20 bpm and oxygen saturation of
+95% on room air. Chest examination was normal. Chest
+radiograph showed left upper zone peripheral consolidation (Fig. 1D). HRCT thorax showed peripheral GGOs
+involving both the left upper and right lower lobes
+(Fig. 1E). He was treated with HCQ and azithromycin.
+The MEWS remained at 1 point throughout admission.
+Repeated chest radiograph at day 5 showed resolution of
+the GGOs (Fig. 1F).
+2020 | Vol. 8 | Iss. 6 | e00604
+on behalf of The Asian Paciﬁc Society of Respirology
+original work is properly cited.
+Treating “Typhoid Mary” of COVID-19
+B.H. Ng et al.
+(HRCT) scans showing both ground-glass opaciﬁcation (GGO) and consolidation in the three patients. (C, F, I) Repeat chest radiographs showing resolution with treatment.
+A 52-year-old asymptomatic woman tested positive during
+screening after contact with a COVID-19 individual. She had
+a background history of hypertension and was on perindopril
+4 mg od. Clinical examination revealed a temperature of
+37 C, RR of 16 bpm, and oxygen saturation of 99% on room
+air. Lung examination was clear. Chest radiograph showed
+air space opacities in the right lower zone (Fig. 1G). Her
+MEWS score was 2, and HRCT thorax showed evidence of
+bilateral lower zone peripheral GGOs (Fig. 1H). She was
+initiated on HCQ and azithromycin. She recovered well with
+Patients with COVID-19 have a wide range of symptoms
+with the majority presenting with an inﬂuenza-like illness
+of fever, cough, rhinorrhoea, and sore throat [1]. Less
+common non-respiratory symptoms include diarrhoea,
+anosmia, pericarditis, Guillain–Barré syndrome, or acute
+on behalf of The Asian Paciﬁc Society of Respirology
+Treating “Typhoid Mary” of COVID-19
+B.H. Ng et al.
+Smoking status
+Days from testing
+positive to admission
+Clinical ﬁndings on
+Temperature ( C)
+Respiratory rate (bpm)
+O2 saturation (in room
+Blood pressure
+Heart rate (bpm)
+Laboratory results
+Total white cell count
+Absolute lymphocyte
+Absolute monocyte
+Absolute neutrophil
+C-reactive protein (mg/
+Radiological imaging
+Chest radiograph
+Treatment and outcome
+Drug therapy
+Lifelong non-smoker
+Lifelong non-smoker
+Left upper zone peripheral
+Bilateral lower zone
+peripheral GGOs
+Left upper zone peripheral
+Peripheral GGOs involving
+both the left upper and
+right lower lobes
+Air space opacities in the
+right lower zone
+Bilateral lower zone
+peripheral GGOs
+400 mg bd Day 1
+200 mg bd Days 2–10
+500 mg od Day 1
+250 mg od Days 2–5
+400/100 mg bd Days 1–10
+400 mg bd Day 1
+200 mg bd Days 2–5
+500 mg od Day 1
+250 mg od Days 2–5
+400 mg bd Day 1
+200 mg bd Days 2–10
+500 mg od Day 1
+250 mg od Days 2–5
+on behalf of The Asian Paciﬁc Society of Respirology
+Treating “Typhoid Mary” of COVID-19
+B.H. Ng et al.
+Length of hospital stay
+Repeated COVID-19
+RT-PCR test
+Positive at day 10. Negative
+at days 13 and 14
+Negative at days 10 and 13
+Negative at days 10 and
+bd, Twice daily; bpm, breaths per minute; COVID-19, 2019-novel coronavirus; GGO, ground-glass opaciﬁcation; HCQ, hydroxychloroquine; HRCT,
+high-resolution computed tomography; LDH, lactate dehydrogenase; MEWS, Modiﬁed Early Warning Score; RT-PCR, reverse transcription-polymerase chain reaction.
+necrotizing encephalopathy [2,3]. Observational studies
+have reported up to 12% of transmissions occurring before
+the onset of clinical symptoms [4].
+SARS-CoV-2 patients can be asymptomatic [5,6]. All three
+patients in our case series displayed no symptoms of COVID19 disease despite showing radiological evidence of pneumonia.
+With the absence of symptoms, these patients may not have
+voluntarily come forward for screening. Screening based on
+symptoms alone may miss a signiﬁcant amount of asymptomatic COVID-positive patients. Targeted screening in these
+patients have allowed immediate isolation from the community and initiation of treatment which may have prevented disease progression and achieved earlier recovery.
+The common laboratory abnormalities are lymphopenia,
+increased lactate dehydrogenase, and elevated C-reactive
+protein [7]. These parameters are non-speciﬁc and their
+clinical usefulness is limited. These abnormalities may be
+related to the cytokine storm in COVID-19 and the
+changes are similar to patients with SARS and MERS.
+We performed the initial imaging tool of chest radiograph
+which showed varying locations of pneumonia (Fig. 1). As
+COVID-19 is a novel disease, we chose to proceed with a
+HRCT to allow further clariﬁcation on the extent of the
+pathologies. We found GGO with peripheral distribution and
+upper and lower lobes predominance in our patients. Our
+ﬁndings are similar with the known initial computed tomography (CT) manifestations of COVID-19 [8]. The most common reported CT ﬁndings are isolated GGO or a
+combination of GGO and consolidative opacities [8]. Less
+common ﬁndings include interlobular septal thickening,
+bronchiectasis, pleural effusion, pleural thickening, and subpleural involvement, cavitation and lymphadenopathy [8].
+On average, CT ﬁndings are most prominent on day 10 of
+illness and improve after day 14 [9].
+In a study including nine hospitals from the region of
+rate to be higher from studies in Wuhan, the epicentre of
+this outbreak, with lower prevalence of death among
+patients from outside Wuhan. They also found that older
+patients with comorbidities may have a more severe
+impact from the disease [11].
+All three patients in our report had a negative RT-PCR
+test by day 13 of illness. A study reported a median of
+36 days from the date of symptoms to the date of ﬁrst negative RT-PCR test, with the longest reported at 45 days
+from symptom onset [10]. More recent studies have shown
+that pharyngeal virus shedding does not equate to infectivity. This shedding appears to peak at day 4 and is the
+highest during the ﬁrst week of symptoms [12].
+This case series describes SARS-CoV-2 pneumonia patterns in asymptomatic individuals. The common CT thorax patterns found are peripheral GGO with upper or
+lower lobe predominance. We believe screening for
+COVID-19 in high-risk individuals is important to see the
+extent of pulmonary damage and assess the possible need
+for long-term lung function follow-up.
+Disclosure Statement
+Appropriate written informed consent was obtained for
+publication of this case series and accompanying images.
+At the time this report was accepted for publication, the
+1. Guan W-J, Ni Z-Y, Hu Y, et al. 2020. Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med.
+2. Pan L, Mu M, Yang P, et al. 2020. Clinical characteristics of
+COVID-19 patients with digestive symptoms in Hubei,
+China: a descriptive, cross-sectional, multicenter study. Am.
+J. Gastroenterol. 115(5):766–773.
+3. Sedaghat Z, and Karimi N. 2020. Guillain Barre syndrome
+associated with COVID-19 infection: a case report. J. Clin.
+4. Qian G, Yang N, Ma AHY, et al. 2020. A COVID-19 transmission within a family cluster by presymptomatic infectors
+on behalf of The Asian Paciﬁc Society of Respirology
+Treating “Typhoid Mary” of COVID-19
+B.H. Ng et al.
+Day M. 2020. Covid-19: identifying and isolating asymptomatic
+people helped eliminate virus in Italian village. BMJ 368:m1165.
+Tian S, Hu N, Lou J, et al. 2020. Characteristics of COVID19 infection in Beijing. J. Infect. 80(4):401–406.
+Salehi S, Abedi A, Balakrishnan S, et al. 2020. Coronavirus
+Pan F, Ye T, Sun P, et al. 2020. Time course of lung changes
+on chest CT during recovery from 2019 novel coronavirus
+(COVID-19) pneumonia. Radiology. 295(3):715–721.
+9. Xiao AT, Tong YX, and Zhang S. 2020. False-negative of
+10. Liu K, Fang YY, Deng Y, et al. 2020. Clinical characteristics
+of novel coronavirus cases in tertiary hospitals in Hubei
+Province. Chin. Med. J. 133(9):1025–1031.
+11. Fu L, Wang B, Yuan T, et al. 2020. Clinical characteristics of
+coronavirus disease 2019 (COVID-19) in China: a systematic
+12. Wölfel R, Corman VM, Guggemos W, et al. 2020. Virological assessment of hospitalized patients with COVID-2019.
+on behalf of The Asian Paciﬁc Society of Respirology

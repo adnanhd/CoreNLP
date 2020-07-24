@@ -1,0 +1,329 @@
+Forecasting the rate of cumulative cases of
+COVID-19 infection in Northeast Brazil: a
+Boltzmann function-based modeling study
+Projeção da taxa de casos acumulados de
+COVID-19 no Nordeste brasileiro: um estudo de
+modelagem com base na função de Boltzmann
+Previsión de la tasa de incidencia acumulada
+por infección de COVID-19 en la región nordeste
+de Brasil: un estudio de modelado basado en
+funciones de Boltzmann
+Géssyca Cavalcante de Melo 1,2
+Renato Américo de Araújo Neto 3
+Karina Conceição Gomes Machado de Araújo 2
+The COVID-19 death rate in Northeast Brazil is much higher when compared to the national average, demanding a study into the prognosis of the
+region for planning control measures and preventing the collapse of the health
+care system. We estimated the potential total cumulative cases of COVID-19
+in the region for the next three months. Our study included all confirmed
+cases, from March 8 until April 28, 2020, collected from the official website
+that reports the situation of COVID-19 infections in Brazil. The Boltzmann
+function was applied to a data simulation for each set of data regarding different states. The model data were well fitted, with R2 values close to 0.999.
+Up to April 28, 20,665 cases were confirmed in the region. The state of Ceará
+has the highest rate of accumulated cases per 100,000 inhabitants (75.75),
+followed by Pernambuco. We estimated that the states of Ceará, Sergipe and
+Paraíba will experience a dramatic increase in the rate of cumulative cases until July 31. Maranhão, Pernambuco, Rio Grande do Norte and Piauí
+showed a more discreet increase in the model. For Bahia and Alagoas, a 4.7
+and 6.6-fold increase in the rate was estimated, respectively. We estimate a
+substantial increase in the rate of cumulative cases per 100,000 inhabitants
+in the region within three months, especially for Ceará, Sergipe and Paraíba.
+The Boltzmann function proved to be a simple tool for epidemiological forecasting that can help planning the measures to contain COVID-19.
+G. C. Melo
+Universidade Estadual de Ciências da Saúde de Alagoas.
+Rua Dr. Jorge de Lima 113, Maceió, AL 57010-300, Brasil.
+Universidade Estadual de Ciências da Saúde de Alagoas,
+Maceió, Brasil.
+2 Universidade Federal de Sergipe, Aracajú, Brasil.
+3 Centro Universitário Maurício de Nassau, Maceió, Brasil.
+COVID-19; Epidemiology; Mathematical Models; Pandemic
+any medium, without restrictions, as long as the original work is correctly
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+In December 2019, a pneumonia outbreak related to COVID-19 was reported in the city of Wuhan,
+China, and soon spread to other regions 1. Three months later, the World Health Organization raised
+the state of contamination and declared it a pandemic due to the rapid geographical spread of the
+COVID-19 virus over a short-time scale 2.
+Transmission of the etiological agent of COVID-19 occurs mainly through aspiration or contact
+with respiratory secretions of infected patients. Efforts to prevent it are being adopted worldwide,
+with an emphasis on social isolation of the population by restricting people circulation and grouping
+and blocking non-essential services 3,4, closing bars, hotels, shopping malls, restaurants, theaters,
+On April 28, 2020, COVID-19 had 3,098,391 confirmed cases worldwide, with 216,160 deaths in
+185 regions. The first epicenter of the pandemic in China has substantially reduced the number of
+new cases since late February. Progressively, countries in Europe became the next global epicenter,
+followed by the United States. Current scenarios with the highest number of confirmed cases are the
+United States and Spain, with a total of 1,008,066 and 232,128 cases, respectively. The United States
+and Italy lead in number of registered deaths 5.
+The epicenter of the coronavirus pandemic changes as the virus spreads to a new country. This
+adequate support to those who are sick and on the behavior of the population in respecting the recommended measures 6,7,8. However, cities in Latin America have shown low rates of social isolation,
+added to speeches that minimize their importance 9.
+On April 28, 2020, no state in Brazil had reached the 63% social isolation rate 10. This factor, as
+well as regional inequalities in healthcare, low investment in public health and scientific research, a
+high poverty rate and government officials unfavorable to social isolation measures can be considered
+aggravating in the dissemination of COVID-19 9,11. Two months after the confirmation of the first
+COVID-19 case in the country 12, 71,866 cases and 5,017 deaths 13 were confirmed, overtaking China
+in the same period of time and causing concern about the future of the pandemic in its regions.
+Currently, the national incidence rate of COVID-19 is 145 cases per 1,000,000 inhabitants. The
+north of the country faces a public health calamity, with all intensive care beds occupied. The Southeast is the most affected region, considering the number of cases. Despite being outside the current
+epicenter of the coronavirus in Brazil, the Northeast Region has a death rate above the national
+average and is the second most affected region in absolute cases 13, which makes it important to
+study the prognosis of this region for planning control measures and preventing the collapse of the
+health system.
+The potential of these situations can be estimated through complex mathematical models, such
+as those based on susceptible, infectious and recovered data (SIR) 14, and simpler models in terms of
+understanding and application, such as the Boltzmann model, already used in studies in China 15,16.
+In our study, we estimated the potential total number of cases of COVID-19 in the Northeast Region
+of Brazil for the next three months by applying Boltzmann function-based regression analysis.
+Design and study area
+This epidemiological study used mathematical modeling and geoprocessing techniques. The spatial
+units of analysis were the nine states of Northeast Brazil (Alagoas, Bahia, Ceará, Maranhão, Paraíba,
+Pernambuco, Piauí, Rio Grande do Norte and Sergipe) 17, distributed over a total area of 1,561,177km2.
+Data sources and measures
+Our study included all confirmed cases of COVID-19 infection until April 28, 2020. COVID-19 infection was defined as a case with a positive result for viral nucleic acid testing in respiratory specimens
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+or with a positive serological test. This data were collected from the official website 13 that reports the
+situation of COVID-19 infections in Brazil. The data for model development were updated on April
+29, 2020. The rates of cumulative cases of disease per 100,000 inhabitants were estimated considering
+the number of cases in each state divided by the population at risk based on the estimates for the states,
+Data analysis
+function 15,16,18 was applied to the data simulation for each set of data of the different geographical
+regions in Northeast Brazil. We obtained parameters of each function, in which the potential total
+number of confirmed cases is given by the parameter A2. The Boltzmann function for future simulation is expressed as follows:
+where C(x) is the cumulative number of confirmed cases after the first day x; A1, A2, x0 and dx are
+constants. x0 corresponds to the inflection point and indicates the date on which the daily cases will
+reach their maximum. After that date, there will be a downward trend in total daily cases; dx is the
+adjustment coefficient, indicating the degree of increase in y (number of cases) as a function of the
+increase in x (days after the first case). In particular, A2 represents the estimated potential total number
+of confirmed cases. A key date (when number of daily new confirmed cases is lower than 0.1% in relation with total cases 16) was included in our study. Data from parameter A2 were used to estimate the
+rate of cumulative cases of COVID-19 per 100,000 inhabitants.
+Maps were setup with the spread of the cumulative cases per 100,000 inhabitants of COVID-19
+infection using actual and modelled Boltzmann data. Therefore, we used the cartographic base of
+Northeast Brazil available in the IBGE electronic database and reported data on COVID-19 infections 17. Terra Datum model SIRGAS 2000 and the cartographic projection corresponding to the
+Mercator Transversal Universal system were used. The georeferenced data were incorporated into
+The first cases of COVID-19 infection in Northeast Brazil were documented in the states of Alagoas
+and Bahia on March 8, 2020. Until April 28, 20,665 cases were confirmed across the region. The State
+of Ceará had the highest rate of accumulated cases per 100,000 inhabitants (75.75) during this period,
+followed by the states of Pernambuco (59.89), Maranhão (35.73), Rio Grande do Norte (24.44) and
+Alagoas (23.28). The lowest rates of cumulative cases were reported by the states of Sergipe (12.18),
+Piauí (12.46), Paraíba (15.75) and Bahia (17.08).
+For Boltzmann data analysis, each region was well fitted and all R2 values were close to 0.999
+next 150 days after the first case in each state of the Northeastern Region (Alagoas, Bahia, Ceará,
+Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte and Sergipe) were estimated as 5,110
+July 3, May 30, June 6, June 16 and June 20, for the states of Alagoas, Bahia, Ceará, Maranhão, Paraíba,
+Pernambuco, Piauí, Rio Grande do Norte and Sergipe, respectively.
+The potential number of cumulative cases per 100,000 inhabitants until May 27, 2020 was estimated for Ceará (542.46), Paraíba (170.73), Alagoas (150.3), Sergipe (124.04), Pernambuco (107.48),
+Bahia (63.29), Maranhão (48.86), Rio Grande do Norte (44.54) and Piauí (32.26). For July 31,
+2020, the potential number of cumulative cases per 100,000 inhabitants was estimated as 1098.18,
+270.05, 153.87, 153.13, 108.45, 79.53, 48.93, 47.39 and 32.73 for Ceará, Paraíba, Sergipe, Alagoas,
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+Fitting the cumulative number of COVID-19 cases to Boltzmann function in the states of the Northeast Region of Brazil.
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+Pernambuco, Bahia, Maranhão, Rio Grande do Norte and Piauí, respectively. The mapping of the
+region shows the states with the potential rates of cumulative cases of COVID-19 over the period
+By using data from March 8, 2020 to April 28, 2020 and the mathematical model incorporating these
+data, we provided an estimation of the rate of cumulative cases of COVID-19 infection per 100,000
+inhabitants in Northeast Brazil for the next three months, specifically for May 27 and July 30, 2020.
+We estimated that the states of Ceará, Sergipe and Paraíba will see a dramatic increase in the rate
+of cumulative cases by up to 7.2, 10.4 and 10.8 times in a month and 14.5, 12.6 and 17.2-fold increases
+until July 31, respectively. Maranhão, Pernambuco, Rio Grande do Norte and Piauí were the states
+that showed a more discreet increase in the model, with the lowest potential of cumulative case rates
+until the end of the estimated period (1.4, 1.8, 1.9 and 2.6, respectively). For the states of Bahia and
+Alagoas, 4.7 and 6.6-fold increases, respectively, in the cumulative number of cases per 100,000 inhabitants were estimated for the period.
+Knowing the number of infected by COVID-19 is essential to combat the spread of its etiological
+agent. However, we must note that our modeling approach did not consider many factors that may
+influence the number of cases recorded, along with the current situation of the pandemic. These factors refer to the number of tests made available by health services, the criteria for requesting tests,
+which are still restricted to certain cases, and the time spent on acquiring results, diagnoses and notification in the system. Thus, the actual number of cases in the period used for the model in our study
+may be even higher. In this context, one study estimated that Brazil could have eleven times more
+cases of COVID-19 than those officially registered 19.
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+Mapping of cumulative COVID-19 cases in Northeast Region of Brazil according to Boltzmann’s function forecast.
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+In the Northeast Region of Brazil, rapid tests for the serological diagnosis of COVID-19 infection
+only started after the second half of April 2020, being offered to a small percentage of the population
+with respiratory and flu symptoms, different from what is observed in other countries with a mass
+testing strategy 20,21,22. Furthermore, the results of exams made with real-time reverse transcriptasepolymerase chain reaction (RT-PCR) molecular testing still take many days to be released. These
+factors delay the registration of the actual number of confirmed cases and point to a possible reality
+of underreporting, since they omit patients with mild symptoms that do not seek health care, asymptomatic individuals or those in the incubation period of infection, who may be potential transmitters
+of the virus in the community 23.
+Despite the tropical climate predominant in the region, a lower temperature is expected for the
+months considered in our study, which may be favorable to the spread of the severe acute respiratory
+syndrome coronavirus (SARS-CoV-2) 24,25,26. This period is also favorable to the emergence of other
+common infections in Brazil, such as the common cold, influenza, dengue, Zika and chikungunya,
+which can lead to an even greater increase in demand for care and overburden health services.
+Another challenge identified for the control of COVID-19 infection in these states are the urban
+structure of agglomeration of common communities in the peripheries and the threat of reduction of
+social isolation by the population, which has been showing signs of loosening. In the absence of a vaccine and specific treatment for cases of COVID-19 infection, it is strongly recommended and urgent
+that individuals of all ages collaborate to slow the estimated progression of the pandemic 27,28 by avoiding overcrowding in hospital services, as well as the exposure of health professionals and more deaths.
+Up to April 30, 2020, at least 1,536 deaths from COVID-19 infection have been officially registered in
+the Northeast Region of Brazil 17. In addition to the epidemiological health numbers, the adoption of
+social isolation, the use of masks and the constant washing of hands by the population may also contribute to low more quickly the economic and emotional impacts caused by this pandemic.
+Finally, our study showed that all data sets were well fitted to the Boltzmann function, which
+results are based on model assumptions that states that the mechanisms and physical principles that
+govern the transmission of infectious diseases and human collective motion must be similar to those
+observed in the Boltzmann distribution probability 18. However, successful predictions depend on the
+accuracy of the data 18 and it is understandable that the initial data do not reflect the true epidemic,
+since testing, identification, diagnostic and counting methods need time and effort to be properly
+Another limitation of the methodology used corresponds to the non-linearity or sensitivity 18 to
+conditions that may interfere with the future occurrence of COVID-19, since this estimate assumes
+that the overall conditions are not changing. Factors related to the host and its behavior, the pathogen’s ability to survive and the environmental influences can alter the estimate. Besides, the main
+advantage of the model used is that it only needs the cumulative number of confirmed cases; this represents a quick method for assisting central and local governments to deal with this emerging threat
+at the current critical stage.
+Our results estimate a substantial increase in the rate of cumulative cases of COVID-19 infection per
+100,000 inhabitants in Northeast Brazil over the next three months, with an emphasis on the states of
+Ceará, Sergipe and Paraíba. Maranhão, Pernambuco, Rio Grande do Norte and Piauí showed a more
+discreet increase in the modeling. For Bahia and Alagoas, 4.7 and 6.6-fold increases in the rate were
+estimated. All data sets were well fitted to the Boltzmann function, which was found to be a simple
+tool for epidemiological forecasting that could help planning measures to contain the COVID-19
+pandemic. Social isolation measures may be the best strategy to slow the estimated progression of the
+infection in the studied period.
+Cad. Saúde Pública 2020; 36(6):e00105720
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+All the outhors contributed in the conception and
+critically for important intellectual content; final
+accuracy and integrity of any part of the work.
+Additional informations
+(0000-0003-1337-7969); Karina Conceição Gomes
+Machado de Araújo (0000-0003-4433-5227).
+Perlman S. Another decade, another coronavirus. N Engl J Med 2020; 382:760-2.
+virus-2019 (accessed on 09/Apr/2020).
+Oliveira TC, Abranches MV, Lana RM. Food
+(in)security in Brazil in the context of the
+SARS-CoV-2 pandemic. Cad Saúde Pública
+Wilder-Smith A, Freedman DO. Isolation,
+quarantine, social distancing and community
+containment: pivotal role for old-style public health measures in the novel coronavirus
+(2019-nCoV) outbreak. J Travel Med 2020;
+Johns Hopkins Coronavirus Resource Center.
+jhu.edu/ (accessed on 24/Apr/2020).
+Hu Z, Cui Q, Han J, Wang X, Sha WE, Teng Z.
+Evaluation and prediction of the COVID-19
+variations at different input population and
+quarantine strategies, a case study in Guangdong province, China. Int J Infect Dis 2020;
+Sjödin H, Wilder-Smith A, Osman S, Farooq
+Z, Rocklöv J. Only strict quarantine measures
+can curb the coronavirus disease (COVID-19)
+outbreak in Italy, 2020. Euro Surveill 2020;
+Kraemer MUG, Yang CH, Gutierrez B, Wu
+CH, Klein B, Pigott DM, et al. The effect of
+human mobility and control measures on the
+COVID-19 epidemic in China. Science 2020;
+Burki T. COVID-19 in Latin America. Lancet
+Infect Dis 2020; 20:P547-8.
+c0-af7c3ce710a2%7C45448575-c1a6-42c886d9-c68a42fa3fcc (accessed on 28/Apr/2020).
+Martins-Filho PR. Facing the COVID-19 epidemic in Brazil: ignorance cannot be our new
+ence.abb4218/tab-e-letters (accessed on 28/
+Rodriguez-Morales AJ, Gallego V, EscaleraAntezana JP, Méndez CA, Zambrano LI, Franco-Paredes C, et al. COVID-19 in Latin America: the implications of the first confirmed case
+ahead of print].
+Ministério da Saúde. Painel de casos de doença
+pelo coronavírus 2019 (COVID-19) no Brasil.
+Chanprasopchai P, Tang IM, Pongsumpun P.
+SIR Model for dengue disease with effect of
+dengue vaccination. Comput Math Methods
+Cad. Saúde Pública 2020; 36(6):e00105720
+Melo GC et al.
+15. Gao Y, Zhang Z, Yao W, Ying Q, Long C, Fu
+X. Forecasting the cumulative number of
+COVID-19 deaths in China: a Boltzmann
+16. Fu X, Ying Q, Zeng T, Long T, Wang Y. Simulating and forecasting the cumulative confirmed cases of SARS-CoV-2 in China by
+Boltzmann function-based regression analyses. J Infect 2020; 80:578-606.
+17. Instituto Brasileiro de Geografia e Estatística.
+18. Sevcik C. Caveat on the Boltzmann distribution function use in biology. Prog Biophys Mol
+19. Russell TW, Hellewell J, Abbott S, Golding N,
+Gibbs H, Jarvis CI, et al. Using a delay-adjusted
+case fatality ratio to estimate under-reporting.
+20. Kwon KT, Ko JH, Shin H, Sung M, Kim
+JY. Drive-Through Screening Center for
+COVID-19: a safe and efficient screening system against massive community outbreak. J
+Korean Med Sci 2020; 35:e123.
+21. Salathé M, Althaus CL, Neher R, Stringhini S,
+Hodcroft E, Fellay J, et al. COVID-19 epidemic
+in Switzerland: on the importance of testing,
+contact tracing and isolation. Swiss Med Wkly
+Cad. Saúde Pública 2020; 36(6):e00105720
+22. Peto J. Covid-19 mass testing facilities
+could end the epidemic rapidly. BMJ 2020;
+23. Gandhi M, Yokoe DS, Havlir DV. Asymptomatic transmission, the Achilles’ heel of current
+strategies to control COVID-19. N Engl J Med
+24. Liu J, Zhou J, Yao J, Zhang X, Li L, Xu X, et
+al. Impact of meteorological factors on the
+COVID-19 transmission: a multi-city study in
+China. Sci Total Environ 2020; 726:138513.
+25. Tosepu R, Gunawan J, Effendy DS, Ahmad
+OAI, Lestari H, Bahar H, et al. Correlation
+between weather and Covid-19 pandemic in
+Jakarta, Indonesia. Sci Total Environ 2020;
+26. Gunthe SS, Swain B, Patra SS, Amte A. On the
+global trends and spread of the COVID-19
+outbreak: preliminary assessment of the potential relation between location-specific temperature and UV index. Z Gesundh Wiss 2020;
+27. Cimerman S, Chebabo A, Cunha CAD, Rodríguez-Morales AJ. Deep impact of COVID-19
+in the healthcare of Latin America: the case of
+Brazil. Braz J Infect Dis 2020; 24:93-5.
+28. Diaz-Quijano FA, Rodriguez-Morales AJ,
+Waldman EA. Translating transmissibility
+FORECASTING THE RATE OF CUMULATIVE CASES OF COVID-19
+A Região Nordeste do Brasil tem uma taxa de letalidade muito mais elevada por COVID-19, comparado com a média nacional, o que exige uma
+investigação do prognóstico da região para o planejamento de medidas de controle e para prevenir
+o colapso do sistema de saúde. Estimamos o total
+potencial de casos acumulados de COVID-19 na
+região nos próximos três meses. O estudo incluiu
+todos os casos confirmados de COVID-19, desde o
+primeiro caso confirmado, em 8 de março, até 28
+de abril de 2020, coletados no site oficial que relata
+a situação das infecções por COVID-19 no Brasil.
+A função de Boltzmann foi aplicada a uma simulação de dados para cada conjunto de dados dos
+diversos estados do Nordeste. Os dados do modelo
+mostraram bom ajuste, com valores de R2 próximos a 0,999. Até 28 de abril, haviam sido confirmados 20.665 casos na Região Nordeste. O estado
+do Ceará apresenta a maior taxa de casos acumulados por 100.000 habitantes (75,75), seguido pelo
+estado de Pernambuco. Estimamos que Ceará, Sergipe e Paraíba apresentarão um aumento dramático na taxa de casos acumulados até 31 de julho.
+Maranhão, Pernambuco, Rio Grande do Norte e
+Piauí mostraram aumentos mais discretos de acordo com o modelo. Para Bahia e Alagoas, foram
+estimados aumentos de 4,7 e 6,6 vezes nas taxas,
+respectivamente. Estimamos um aumento substancial na taxa de casos acumulados por 100.000
+habitantes na Região Nordeste ao longo dos próximos três meses, especialmente no Ceará, Sergipe e
+Paraíba. A função de Boltzmann mostrou ser uma
+ferramenta simples para projeções epidemiológicas, podendo auxiliar no planejamento de medidas
+para conter a COVID-19.
+La región del nordeste brasileño cuenta con una
+tasa de mortalidad mucho más alta debido a la
+COVID-19, si se compara con la media nacional,
+por lo que es necesario un estudio en la prognosis
+de la región para planificar medidas de control y
+prevenir el colapso del sistema de salud. Estimamos el potencial total acumulativo de casos de
+COVID-19 en esta región durante los próximos
+tres meses. El estudio incluyó todos los casos confirmados de COVID-19, desde el primer caso, confirmado el 8 de marzo, hasta el 28 de abril de 2020,
+recogido del sitio web oficial que informa la situación de las infecciones por COVID-19 en Brasil.
+La función de Boltzmann se aplicó a la simulación
+de datos para cada conjunto de datos, referentes a
+diferentes estados. El modelo de datos estuvo bien
+ajustado, con valores R2 cercanos a 0,999. Hasta
+el 28 de abril, se confirmaron 20.665 casos en la
+región. Ceará contó con la tasa más alta de incidencia acumulada por 100.000 habitantes (75,75),
+seguida de Pernambuco. Estimamos que Ceará,
+Sergipe y Paraíba sufrirán un dramático aumento
+en la tasa de incidencia acumulada de casos hasta
+el 31 de julio. Maranhão, Pernambuco, Rio Grande do Norte y Piauí mostraron un incremento más
+discreto en este modelo. En el caso de Bahía y Alagoas, se estimó un incremento de un 4,7 y 6,6, respectivamente. Estimamos un aumento sustancial
+en la tasa de incidencia acumulada de casos por
+100.000 habitantes dentro de esta región, respecto
+a los tres próximos meses, especialmente en Ceará,
+Sergipe y Paraíba. La función de Boltzmann probó
+ser una herramienta simple para la previsión epidemiológica que puede ser de ayuda en la planificación de medidas para contener a la COVID-19.
+COVID-19; Epidemiologia; Modelos Teóricos;
+COVID-19; Epidemiología; Modelos Teóricos;
+Submitted on 30/Apr/2020
+Final version resubmitted on 12/May/2020
+Approved on 14/May/2020
+Cad. Saúde Pública 2020; 36(6):e00105720

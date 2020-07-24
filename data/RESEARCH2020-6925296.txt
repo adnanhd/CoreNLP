@@ -1,0 +1,2097 @@
+Combating the Coronavirus Pandemic: Early Detection, Medical
+Treatment, and a Concerted Effort by the Global Community
+Zichao Luo,1 Melgious Jin Yan Ang,1,2 Siew Yin Chan,3 Zhigao Yi,1 Yi Yiing Goh,1,2
+Shuangqian Yan,1 Jun Tao,4 Kai Liu,5 Xiaosong Li,6 Hongjie Zhang ,5,7 Wei Huang ,3,8
+and Xiaogang Liu 1,9,10
+Xi’an 710072, China
+Changchun 130022, China
+Department of Oncology, The Fourth Medical Center of Chinese People’s Liberation Army General Hospital, Beijing 100048, China
+Fuzhou 350807, China
+The World Health Organization (WHO) has declared the outbreak of 2019 novel coronavirus, known as 2019-nCoV, a
+pandemic, as the coronavirus has now infected over 2.6 million people globally and caused more than 185,000 fatalities
+as of April 23, 2020. Coronavirus disease 2019 (COVID-19) causes a respiratory illness with symptoms such as dry
+cough, fever, sudden loss of smell, and, in more severe cases, diﬃculty breathing. To date, there is no speciﬁc vaccine or
+treatment proven eﬀective against this viral disease. Early and accurate diagnosis of COVID-19 is thus critical to curbing
+its spread and improving health outcomes. Reverse transcription-polymerase chain reaction (RT-PCR) is commonly used
+to detect the presence of COVID-19. Other techniques, such as recombinase polymerase ampliﬁcation (RPA), loopmediated isothermal ampliﬁcation (LAMP), clustered regularly interspaced short palindromic repeats (CRISPR), and
+advances and challenges in the rapid detection of COVID-19 by targeting nucleic acids, antigens, or antibodies. We also
+summarize potential treatments and vaccines against COVID-19 and discuss ongoing clinical trials of interventions to
+reduce viral progression.
+The recent global outbreak of COVID-19 has led to a
+public health emergency. As of April 23, 2020, over 2.6
+million conﬁrmed cases were reported to WHO from
+213 countries and territories [1]. On January 30, 2020,
+WHO declared the COVID-19 outbreak as the sixth public health emergency of international concern, following
+H1N1 (2009), Polio (2014), Ebola in West Africa
+(2014), Zika (2016), and Ebola (2019) [2]. The rapid
+global expansion and rising fatalities have raised grave
+concerns on the viral spread across the globe. With the
+rapid increase in the number of conﬁrmed cases, WHO
+classiﬁed the global COVID-19 outbreak as a pandemic
+on March 11, 2020 [3]. COVID-19 can spread from
+person-to-person and animal, and transmission of infection may occur with exposure to symptomatic patients
+or asymptomatic individuals.
+Coronaviruses (CoVs) (corona: crown-like shape) are
+enveloped, single-stranded RNA viruses that belong to
+the order Nidovirales in the subfamily Coronaviridae.
+CoVs are divided into four genera: alpha (α), beta (β),
+beta-CoVs infect mammals, while gamma- and deltaCoVs primarily infect birds [5]. Before December 2019,
+six types of CoVs had infected humans, including two αCoVs (HCoV-229E and HCoV-NL63) and four β-CoVs
+(HCoV-OC43, HCoV-HKU1, SARS-CoV, and MERSCoV). The ﬁrst two β-CoVs (HCoV-OC43 and HCoVHKU1) mainly cause self-limiting upper respiratory infections, while the other two β-CoVs (SARS-CoV and MERSCoV) are mostly associated with severe respiratory illness
+[6, 7]. Full-genome sequence analysis of 2019-nCoV conﬁrms that it is a β-CoV, distinct from SARS-CoV and
+MERS-CoV [8]. Investigations reveal that 2019-nCoV
+shares ~80% sequence identity with SARS-CoV while
+maintaining ~89% nucleotide identity to the SARS-like
+CoVs (ZC45 and ZXC21) from bats [9]. A recent report
+suggests that a bat CoV (RatG13) is 96% identical to
+A typical CoV genome is a single-stranded, positivesense RNA (+ssRNA) (~30 kb) enclosed by a 5 ′ -cap and 3 ′
+-poly-A tail [11]. The genome size of 2019-nCoV is 29,891
+nucleotides, encoding 9860 amino acids, with a G+C content
+of 38% [12]. The 2019-nCoV genome contains two ﬂanking
+untranslated regions (UTRs) on 5 ′ - and 3 ′ -terminals, one
+single long open reading frame 1ab (ORF1ab) encoding a
+polyprotein and at least ﬁve other ORFs encoding structural
+ORF (ORF1a/b) is about two-thirds of the whole-genome
+length and encodes the 16 nonstructural proteins (nsp116). The other one-third of the genome contains four ORFs
+encoding the spike (S), membrane (M), envelope (E), and
+nucleocapsid (N) proteins, whereas other ORFs encode
+while structural proteins are responsible for virion assembly
+and viral infection [12, 13]. The M and E proteins are
+required in viral assembly, while the N protein involves
+RNA genome assembly.
+The S protein, a surface-located trimeric glycoprotein of
+CoVs, is the primary determinant of CoV tropism, as it
+binds to the membrane receptor on host cells, mediating
+viral and cellular membrane fusion [14]. The S protein of
+2019-nCoV reportedly binds to angiotensin-converting
+enzyme 2 (ACE2), a homolog of ACE on host cell membranes, contributing to 2019-nCoV cell invasion [15].
+Moreover, this particular S protein shows a higher binding
+aﬃnity to ACE2 than the S protein of SARS-CoV, enabling
+2019-nCoV to invade host cells more eﬀectively [16, 17].
+Recently, a transmembrane glycoprotein, CD147, also
+known as Basigin or EMMPRIN, has been conﬁrmed as
+another receptor for binding of the 2019-nCoV S protein,
+thereby mediating viral invasion [18].
+The E protein is an integral membrane protein that regulates viral life cycles, including pathogenesis, envelope formation, assembly, and budding [19–21]. Among the four
+structural proteins, protein E appears to have the highest
+antigenicity and the most signiﬁcant potential as an immunogenic target, highlighting the possibility of developing
+protein E-derived peptides as a 2019-nCoV vaccine [22]. Systemic studies of proteins S and E have inspired scientists to
+Although some COVID-19 patients show no symptoms,
+most patients have some common symptoms such as fever,
+cough, fatigue, sputum production, shortness of breath, sore
+throat, and headache. In some severe cases, infections can
+cause pneumonia, severe acute respiratory syndrome, kidney
+failure, and death. According to the WHO-China joint report
+[23], on average, people infected with 2019-nCoV develop
+mild respiratory symptoms and fever, 5-6 days after infection
+(mean incubation period, 5-6 days; range, 1-14 days). People
+over 60 years of age and those with hypertension, diabetes, or
+cardiovascular diseases are at high risk for severe illness
+and death. In comparison, children under 19 years appear
+to be infected minimally by 2019-nCoV (around 2.4% of
+all reported cases). Based on the Chinese Center for
+Disease Control and Prevention (China CDC) report
+(from 72,314 patient records, dated 11 February 2020),
+among the conﬁrmed cases, 86.6% of patients are 30-79
+years of age, 80.9% of patients have mild-to-moderate
+disease, 13.8% have a severe illness, and 6.1% are critically
+ill [24]. Notably, the mortality rate of children under 19
+years is 0.2%, while people aged over 80 years have the
+highest mortality rate of 14.8%.
+Currently, there are no eﬀective antiviral drugs or speciﬁc
+vaccines against COVID-19. Thus, there is an urgent need for
+rapid detection to prevent further spread, to reduce the intensity of the pandemic, and to slow the increase in cases.
+Recently, several new technologies, including LAMP-LFA,
+RPA-LFA, RPA-CRISPR, and other nanomaterial-based
+IgG/IgM kits, have been adopted for 2019-nCoV detection.
+A signiﬁcant number of drug candidates, including chemical
+drugs, biological drugs, nutritional interventions, and traditional Chinese medicine (TCM), have been proposed for
+we concentrate on the most signiﬁcant developments in
+2019-nCoV detection and provide an overview of medical
+treatments and vaccines currently in development to combat
+and contain the disease.
+According to the Diagnosis and Treatment Guidelines for
+COVID-19 (7th edition), COVID-19 cases can be divided into
+suspected cases and conﬁrmed cases [25]. Diagnostic
+methods for 2019-nCoV are determined by the intrinsic
+Spike protein (S)
+E M
+Nonstructural protein (nsp) 1ab
+The whole-genome structure of 2019-nCoV.
+properties of the virus and biomarkers that hosts exhibit after
+infection. These biomarkers include viral proteins and
+nucleic acids, as well as antibodies induced in response to
+viral infection. The most common 2019-nCoV detection
+methods include viral nucleic acid detection and serum antibody (IgG or IgM) detection. A conﬁrmed case should have
+at least one of the following criteria: (i) a positive result for
+2019-nCoV nucleic acid, using real-time PCR tests from
+respiratory or blood samples; (ii) a high homogeneity
+between viral gene sequencing from respiratory or blood
+samples and known 2019-nCoV; and (iii) serum samples
+positive for IgM or IgG to 2019-nCoV, or seroconversion in
+IgG, or a fourfold or more signiﬁcant increase in IgG antibody titer to 2019-nCoV in the recovery phase than in the
+acute phase [25].
+2.1. Nucleic Acid Targeting
+2.1.1. High-Throughput Sequencing (2nd-Generation
+Sequencing). High-throughput sequencing (HTS) technology
+contains various strategies that depend on a combination of
+Sanger sequencing method (1st-generation sequencing)
+[27], 2nd-generation sequencing has been widely applied in
+genome sequencing, transcriptional proﬁling (RNA-seq) disease mapping, and population genetic studies. The wholegenome nucleotide sequence of 2019-nCoV was identiﬁed
+and compared with the full-length genome sequence of coronavirus from bats [10] through HTS. HTS-based technology
+is also applied to detect 2019-nCoV. For example, Wang et al.
+developed a HTS method based on nanopore target sequencing (NTS) by harnessing the beneﬁts of target ampliﬁcation
+and long-reads for real-time nanopore sequencing [28].
+This NTS strategy detects 2019-nCoV with higher sensitivity (100-fold) than standard qPCR, simultaneously with
+other respiratory viruses within 6-10 h. Moreover, all targeted regions can be identiﬁed by NTS in higher copies of
+samples (1000-3000 copies/mL) within 10 min, indicating
+the potential for rapid detection of an outbreak in the clinic.
+For 1 h sequencing data, reads mapped to 2019-nCoV differed remarkably from those of negative controls in all targeted regions at concentrations ranging from 10 to 3000
+copies/mL. Importantly, NTS can identify mutated nucleic
+acids. However, the NTS platform cannot readily detect
+highly degraded nucleic acid fragments that are less than
+200 base pairs in length [29]. Moreover, the strategy requires
+tedious sample preparation and lengthy turnaround time.
+Although HTS technology provides fast, low-cost DNA
+DNA library preparation
+Adapter ligation
+Clonal amplification
+Data analysis
+Exon tag counting
+Reference sequence
+SNP detection
+RNA isolation
+Real-time qRT-PCR
+RNA of
+Probe labeled
+target gene
+Data analysis
+Respiratory swabs
+sequencing technology. (b) Steps for real-time RT-PCR analysis.
+sequencing or de novo sequencing of a whole genome [30].
+2.1.2. Real-Time Reverse Transcription-Polymerase Chain
+Reaction (RT-PCR). RT-PCR is considered the gold standard to detect nucleic acids extracted from 2019-nCoV
+specimens qualitatively. Positive results indicate infection
+with 2019-nCoV. RT-PCR is an advanced technique for
+coronavirus detection because of its optimized sensitivity,
+speciﬁcity, and simplicity for quantitative assay [31, 32]. It
+provides accurate and reliable identiﬁcation for conﬁrmed
+(SYBR Green or TaqMan chemistries) for detecting double
+genes of 2019-nCoV (nucleocapsid N gene and ORF1ab/E/ORF1b/S gene). This strategy usually requires four steps:
+sample collection (respiratory swabs), sample preparation
+(RNA isolation), one-step qRT-PCR, and data analysis
+4-6 h. Recently, Roche (Indiana, USA) developed two automated cobas® 2019-nCoV test systems: cobas® 6800 and
+cobas® 8800 (approved in testing patient samples by the US
+FDA), which can process up to 384 results and 1056 results
+in an 8-hour shift, respectively [34]. The tests produce results
+in about 3.5 h and can process up to 4128 results in 24 h,
+boosting screening capacity to help restrain the sudden growing epidemic in the USA. RT-PCR is widely applicable to
+2019-nCoV detection in the clinic, but limitations of this
+technology are obvious, such as high false-negative rate and
+low sensitivity. False-negative results may occur due to the
+following factors: ﬁrst, mutations in the primers and probetarget regions in the 2019-nCoV genome [32]; second, low
+viral load present in test specimens, improper extraction of
+nucleic acid from clinical samples, or inappropriate restrictions on sample collection, transportation, or handling [31].
+Real-time RT-PCR has been adopted as the gold standard
+diagnostic approach for 2019-nCoV worldwide. However,
+RT-PCR is time-consuming (4-6 h) and requires wellequipped laboratories and skilled technicians, thereby limiting full deployment in developing countries.
+2.1.3. Reverse Transcription- Isothermal Ampliﬁcation (RTIAMP)-Based Detection. Isothermal ampliﬁcation technology
+has been developed to eliminate the need for a high-precision
+instrument in RT-PCR assays. This approach can amplify
+DNA at isothermal conditions without a thermocycler [35].
+There are mainly four isothermal ampliﬁcation technologies
+for nucleic acid detection: LAMP, RPA, nucleic acid
+sequence-based ampliﬁcation (NASBA), and transcriptionmediated ampliﬁcation (TMA) [36]. In NASBA and TMA
+assays, input RNA is converted to a double-stranded DNA
+intermediate with a promoter region. Detection of RNA using
+DNA polymerase-based ampliﬁcation requires a reverse transcriptase step. LAMP and RPA do not require thermal or
+chemical melting with the aid of enzymes. Combined with a
+visual detection platform, such as a lateral ﬂow assay (LFA)
+or organic dyes, LAMP and RPA have been widely employed
+in viral detection kits.
+LAMP is a rapid, one-step ampliﬁcation technique that
+ampliﬁes nucleic acids with high sensitivity and speciﬁcity
+at an optimal temperature of 65°C [37]. LAMP processing
+comprises three steps: an initial step, a cycling ampliﬁcation
+six primers to amplify targeted genes by creating stem-loop
+F3 primer F3
+Target DNA
+Step 1: initiation
+dNTP, Mg2+
+Bst DNA
+B3 B3 primer
+Step 1: recombinase
+binds primers
+Step 2: SSB
+ds to displaced strand
+Step 2: Cycling amplification
+Step 3: Bsu
+tiates polymerization
+Step 3: elongation
+tal strand is displaced
+and elongation continues
+BIP: backward inner primer
+FIP: foward inner primer
+Gel imaging system
+UV light
+gonucleotide primers
+Negative control
+SARS-CoV-2 RNA
+Negative control
+SARS-CoV-2 RNA
+Single-strand binding (SSB) protein
+ampliﬁcation technology. (b, c) RT-LAMP combination with SYBR Green for detection of 2019-nCoV. The signal of SYBR Green dye was
+detected with a gel imaging system (b) and was visible with the naked eye under blue light (c). (d) The mechanism and process of
+recombinase polymerase ampliﬁcation technology. Adapted and copyright with permission (b, c) [42], medRxiv.
+structures that promote new DNA synthesis using a DNA
+polymerase with strand displacement activity. The two inner
+primers (FIP, BIP) and two outer primers (F3, B3), along
+with loop structures (LF, LB), create multiple initiating sites
+in the growing DNA products, enabling rapid ampliﬁcation.
+LAMP is also highly speciﬁc since the ampliﬁcation reaction
+occurs only when the primers correctly recognize all six
+regions. A reverse transcriptase step is included in the LAMP
+reaction to allow RNA targets to be detected [38].
+RT-LAMP oﬀers improved sensitivity and speciﬁcity in
+screening SARS-CoV, HCoV-NL63, and MERS-CoV compared to conventional real-time RT-PCR [39–41]. Recently,
+optimized the LAMP system through incubation at 65°C for
+diﬀerent periods using a 2019-nCoV-positive RNA sample as
+the template. Results require a 15 min reaction time at 65°C,
+and detection sensitivity is comparable to that of the
+TaqMan-based qPCR approach (10 copies). RT-LAMP
+employs two additional protocols for 2019-nCoV RNA
+detection. Park et al. performed RT-LAMP at 65°C for
+40 min to identify the nsp3, S, and N genes of 2019-nCoV
+using colorimetric detection [43]. The sensitivity of this
+RT-LAMP assay was 100 copies of 2019-nCoV RNA. The
+other RT-LAMP protocol was conducted at 63°C for 30 min
+to detect the ORF1ab, E, and N genes simultaneously [44].
+The results conﬁrmed the speciﬁc nature of ORF1ab and
+the high sensitivity of the N gene. Based on an analysis of
+208 clinical specimens, the sensitivity of this RT-LAMP was
+similar to conventional RT-PCR, and the speciﬁcity was
+99%. Interestingly, EI-Tholoth et al. designed a two-stage isothermal ampliﬁcation procedure by combining RPA (37°C)
+with LAMP (63°C) to detect synthesized DNA fragments of
+2019-nCoV [45]. The test was performed in closed tubes
+within 1 h using either ﬂuorescence or colorimetric detection.
+This method has a sensitivity of 100 times better than conventional LAMP and RT-PCR, suggesting a rapid, sensitive,
+point-of-care test for use at home.
+RPA is an isothermal DNA ampliﬁcation method that
+utilizes a speciﬁc combination of enzymes and proteins
+(recombinase, single-strand binding (SSB) protein, and
+strand-displacing DNA polymerase) to amplify target genes
+Targeted gene
+T7 transcription
+Cas13a detection
+viral RNA
+Signal release
+or RT-LAMP
+Signal release
+Cas12a detection
+ORF 1ab gene
+S gene
+Test band
+Test band
+Control band
+Control band
+Typical images of lateral ﬂow readout for CRISPR-based detection at various concentrations [60].
+rapidly at a constant low temperature between 25 and 42°C in
+as little as 15 min [46]. RPA usually requires four steps to
+achieve DNA ampliﬁcation: formation of a recombinaseprimer complex, strand invasion, D-loop formation (stabilized by SSB, DNA polymerization through the use of
+strand-displacing DNA polymerase), and DNA ampliﬁcation
+gel electrophoresis, quantitatively measured using TwistAmp™ probes, or simply applied in lateral ﬂow assays. Apart
+from DNA target ampliﬁcation, RPA formats have been
+developed for the detection of RNA targets (RT-RPA) by
+adding a reverse transcriptase enzyme to reaction mixtures
+[48]. Because RPA- (RT-RPA-) based detection achieves
+more rapid and sensitive results and operates eﬃciently, it
+has been widely adopted to detect animal and human pathogens, such as hand, foot, and mouth disease (HFMD) virus,
+human immunodeﬁciency virus (HIV), bovine coronavirus,
+or MERS-CoV [49–52]. Currently, RPA has been applied to
+detect 2019-nCoV, in combination with other technologies,
+such as CRISPR or microﬂuidic technology.
+2.1.4. Clustered Regularly Interspaced Short Palindromic
+Repeat- (CRISPR-) Based Detection. The CRISPR-associated
+protein 9 (Cas9) system (CRISPR/Cas9) is a revolutionary
+gene-editing toolbox that can modify target genes with high
+precision and that can control various types of genetic diseases in preclinical studies [53–56]. Due to the collateral
+nucleic acid cleavage activity of Cas eﬀectors, CRISPR/Cas
+systems have also been widely used in nucleic acid detection
+with ﬂuorescent and colorimetric signals [56]. There are
+mainly two kinds of CRISPR/Cas systems for diagnostics,
+based on the cutting activity of Cas protein on nucleic acids
+outside of the gRNA target site: the CRISPR/Cas13a and
+CRISPR/Cas12a systems.
+The CRISPR/Cas13a system (speciﬁc high-sensitivity
+enzymatic reporter unlocking (SHERLOCK)) was developed
+by Zhang’s group, based on the collateral eﬀect of an RNAguided and RNA-targeting CRISPR eﬀector, Cas13a
+and speciﬁc because it is capable of single-molecule nucleic
+acid detection. Subsequently, they developed an enhanced
+SHERLOCK version 2 (SHERLOCKv2) detection system
+with a 3.5-fold improvement in detection sensitivity and lateral ﬂow readout. SHERLOCKv2 has been used to detect
+dengue and Zika virus single-stranded RNA or mutations
+in clinical samples, showing great potential for multiplexable,
+combined RT-RPA technology with the SHERLOCK system
+(namely CRISPR diagnostics) to detect the S and ORF1ab
+diagnostics-based test can be conducted in 1 hour and can be
+read using a dipstick. The analysis is performed at 37°C and
+42°C, and its detection sensitivity is ten copies per microliter
+of input, exhibiting unique advantages, such as high sensitivity, speciﬁcity, speed, and suitability for point-of-care testing.
+However, this approach needs to be validated using real
+patient samples.
+Unlike the CRISPR/Cas13a system, the CRISPR/Cas12a
+system is based on the collateral eﬀect of Cas12a on singlestranded DNA (ssDNA). Chen and colleagues combined
+Cas12a ssDNase activation with RPA technology to create a
+new approach, named DNA endonuclease-targeted CRISPR
+trans reporter (DETECTR), with attomolar sensitivity for
+speciﬁc detection of human papillomavirus (HPV) [61].
+Recently, DETECTR was investigated to identify the nucleic
+acid of 2019-nCoV. Lucia et al. applied the DETECTR
+(CRISPR-Cas12a and RT-RPA) to detect the RNAdependent RNA polymerase (RdRp), ORF1b, and ORF1ab
+genes of 2019-nCoV using synthetic RNA fragments as samples [62]. Remarkably, all steps of the test were completed in
+1 h, and results were visible to the unaided eye. The limit of
+detection for ORF1ab was ten copies/μL. The advantages of
+this method are its portability and low cost (~US$2 per reaction). But this proposed approach also needs to be validated
+DETECTR-based 2019-nCoV detection strategy was developed by Chiu’s lab [63]. They employed LAMP, CRISPR/Cas12, and lateral ﬂow assay to detect the E and N genes of
+2019-nCoV in clinical samples. This protocol supplied rapid
+(~30 min), low-cost, and accurate (100% speciﬁc vs. 90% speciﬁc for qRT-PCR) detection of 2019-nCoV in respiratory
+swab samples. Realistically, CRISPR/Cas-based 2019-nCoV
+detection technology is highly speciﬁc, rapid, and low cost,
+but the detection strategy also needs to be validated using
+clinical samples.
+2.1.5. Microﬂuidic-Based Detection. The abovementioned
+methods are based on relative quantiﬁcation, because they
+require external calibration with genetic standards or inner
+reference DNA templates, resulting in unavoidable errors
+and other uncertainties. On the contrary, methods that do
+not need standard curves can provide a quantitative analysis
+of nucleic acids using absolute quantiﬁcation of genetic copies. Recently, digital PCR and digital LAMP have been
+achieved with microelectromechanical and microﬂuidic
+technologies [64, 65].
+Microﬂuidic or lab-on-a-chip techniques use microsized
+channels to process or manipulate ﬂuids. Microﬂuidics has
+been widely utilized in various ﬁelds, including drug screening, tissue engineering, disease diagnostics, and nucleic acid
+detection [66, 67]. Based on its portability and ultralow sample consumption, microﬂuidics shows signiﬁcant promises in
+clinical applications [68]. Regarding nucleic acid analyses,
+microﬂuidic devices aliquot diluted nucleic acid samples into
+hundreds to millions of discrete nanoliter chambers. The isolated chambers contain only one or zero target molecule
+according to a Poisson distribution. Consequently, the abso-
+lute copy number of target nucleic acid can be calculated
+from the number of positive and negative reactions, based
+on the Poisson distribution formulas [69, 70]. Both digital
+PCR and digital LAMP have employed microﬂuidics for
+For instance, Ottesen and colleagues used digital PCR to
+amplify and analyze multiple genes on a microﬂuidic chip
+[71]. This chip consisted of parallel chambers and micromechanical valves. The micromechanical valves segmented
+chambers into independent PCR reactors after the sample
+ﬂowed into chambers through connection channels. The
+chip was able to detect several kinds of genes with parallel
+sample panels. Digital PCR can also be conducted with droplets generated by the microﬂuidic chip. However, the detection of ﬂuorescent signals in droplets requires special
+instruments, such as ﬂow cytometers, which may limit its
+application in point-of-care testing. Additionally, the high
+temperature in PCR ampliﬁcation tends to evaporate the
+reaction liquid (nanoliter or even femtoliter), leading to
+delays liquid evaporation but complicates the devices and
+increases testing costs.
+Digital LAMP is more compatible with microﬂuidics than
+digital PCR because it is executed at a moderate temperature.
+This simpliﬁes microﬂuidic devices and reduces testing costs.
+Many microﬂuidic devices have been reported for nucleic acid
+detection using digital LAMP, such as self-digitization chips,
+self-priming compartmentalization chips, and dropletgeneration chips [72–74]. As an example, Xia et al. designed
+a mathematical model using the Monte Carlo method according to the theories of Poisson statistics and chemometrics [70].
+The mathematical model illustrated inﬂuential factors of the
+digital LAMP assay, guiding the design and analysis of digital
+LAMP devices. Based on the established mathematical model,
+they fabricated a spiral chip with 1200 chambers (9.6 nL) for
+at 65°C without visible liquid evaporation and achieved a
+quantitative analysis of nucleic acids over four orders of magnitude in concentration with a detection limit of 87 copies per
+point-of-care testing.
+Microﬂuidics, combined with enzyme-DNA nanostructures, is also applied to detecting 2019-nCoV. Ho et al. developed a modular detection platform (termed enVision)
+consisting of an integrated circuit of enzyme-DNA nanostructures for direct and versatile detection of pathogen
+nucleic acids from infected cells [75]. Built-in enzymatic cascades in the enVision microﬂuidic system supply a rapid
+color readout for detecting HPV. The assay is fast (<2 h), sensitive (limit of detection < 10 attmol), and readily quantiﬁed
+with smartphones. Recently, they adopted the enVision
+microﬂuidic system to detect 2019-nCoV [76]. Preliminary
+results showed that the enVision platform is sensitive, accurate, fast (within 0.5-1 h), and inexpensive (less than $1 per
+test kit). This novel platform works at room temperature
+and does not require a heater or special pumps, and it uses
+However, this platform needs to be further validated with real
+clinical samples.
+Quartz inlet
+Spiral array
+Glass slide
+PDMS plug
+introduction and partition on the chip. PDMS: polydimethylsiloxane. (c) Raw (upper) and software-extracted images (down) of the chip
+after nucleic ampliﬁcation. Adapted and copyright with permission (a–c) [70], American Chemical Society.
+2.2. Target Antigen and Antibody. As mentioned above, the
+primary diagnostic methods are virological detection involving viral nucleic acids. Another approach to detection is with
+serological assays that measure antigens or antibodies present in the host. Such testing provides vital information about
+host exposure to 2019-nCoV and is useful for detection and
+surveillance purposes. For instance, this method greatly helps
+medical professionals to determine whether some recovered
+patients have a higher risk of reinfection. However, the
+disadvantage is that one should be cautioned that in the
+early stages of COVID-19 infection, the host’s antibodies
+kits. Besides, there was no proven evidence on the duration of IgM or IgG antibodies circulating in the host after
+recovery. It could be merely a short time frame for detection. As such, serological tests should not be solely used
+for COVID-19 diagnosis.
+2.2.1. Enzyme-Linked Immunosorbent Assay (ELISA). Early
+diagnosis of 2019-nCoV infection is of utmost importance
+both for medical teams to manage patients eﬀectively and
+for policymakers to curb the viral spread. Presently, ELISA
+in cell culture extracts has proven to be the working “gold
+standard” for laboratory diagnosis of 2019-nCoV [77].
+ELISA is a plate-based assessment method for detecting
+and quantifying biomolecules, including peptides, proteins,
+antibodies, and hormones. ELISA techniques depend on speciﬁc antibodies to bind target antigens and a detection system
+to indicate the presence of antigen binding. In an ELISA, an
+antigen must be immobilized to a solid surface and then
+complexed with an antibody that is linked to an enzyme.
+Detection is accomplished by assessing the conjugated
+enzyme activity after incubation with a substrate to produce
+a measurable product [78]. Recently, coronavirus proteins
+have been widely used in ELISA to diagnose SARS-CoV or
+other viruses within the coronavirus family [79].
+In a bold, novel approach, a team of infectious disease
+experts in Singapore utilized an ELISA against 2019-nCoV
+to ascertain that suspected subjects were infected with
+COVID-19 and discovered the connection between two
+COVID-19 clusters in the local community [80]. Using blood
+samples taken from alleged COVID-19 patients, the
+researchers detected antibodies targeting the spike protein
+that prevented the virus from killing cells in laboratory tests.
+They veriﬁed that a couple allegedly infected with COVID-19
+had the disease because they had exceedingly elevated levels
+of virus-speciﬁc antibodies in their blood. Interestingly,
+PCR tests on the couple yielded negative results. Because
+the couple had recovered from the 2019-nCoV infection,
+they had no viral genetic materials in their bodies, but the
+antibodies persisted. There were also other reports of using
+ELISA to diagnose 2019-nCoV infection [81, 82]. Each study
+conﬁrmed the high reproducibility and speciﬁcity of ELISA
+in diagnosing COVID-19 patients accurately in clinics.
+2.2.2. IgG/IgM Lateral Flow Assay (LFA). Research has established that the presence of immunoglobulin M (IgM) indicates a primary defense against viral infections. This IgM
+defense occurs before the production of high-aﬃnity and
+adaptive immunoglobulin G (IgG) that is critical for prolonged immunity and immunological memory [83]. From a
+previous study on SARS infections, both IgM and IgG
+Direction of flow
+Sample pad
+Conjugated pad
+M line
+G line
+Absorbant pad
+Control line
+antigen conjugate
+Gold-rabbit IgG conjugate
+Anti-rabbit IgG antibody
+Anti-human IgG antibody
+Anti-human IgM antibody
+Control band
+IgG band
+IgM band
+IgG IgM/ IgG
+positive positive positive
+of 2019-nCoV in an IgM-IgG combined antibody assay. (b) A diagram showing diﬀerent test results. (c) Representative assay test showing
+results from blood of diﬀerent patients. Patient #13: IgM and IgG positive; #14: IgM weak positive; #15: IgM and IgG negative; #16: IgG
+weakly positive; #17: IgG positive only; #18: IgM positive only. Adapted and copyright with permission (c) [84], Wiley.
+antibodies could be detected in the patient blood after 3-6
+days and beyond 8 days, respectively [84]. Given that 2019nCoV belongs to the same family of coronaviruses including
+MERS and SARS, 2019-nCoV should also generate IgM
+and IgG antibodies in infected humans. Therefore, the
+detection of IgM and IgG antibodies may provide epidemiologists with crucial information on viral infection of
+test subjects, allowing them to adjust policies to combat
+the pandemic more eﬀectively.
+Point-of-care lateral ﬂow immunoassays are performed
+qualitatively to quickly determine the presence of 2019nCoV by detecting anti-2019-nCoV IgM and anti-2019nCoV IgG antibodies in human plasma, serum, or whole
+on the lateral chromatographic ﬂow of reagents that bind
+and interact with the sample. As the sample ﬂows through
+the test device, starting at the sample pad region, the anti2019-nCoV IgM and IgG antibodies, if present, bind tightly
+on the conjugated pad. When conjugated products in the
+sample continue to move up the strip, anti-2019-nCoV IgM
+antibodies and anti-2019-nCoV IgG antibodies bind to
+anti-human IgM (M line) or anti-human IgG (G line),
+respectively. No visible lines can be seen when the specimen
+does not contain anti-2019-nCoV antibodies because no
+labeled complexes bind at the test zone. IgG-labeled gold
+bind to anti-rabbit IgG antibodies at the control line (C)
+88.66% test sensitivity and 90.63% speciﬁcity in human
+blood, serum, and plasma samples. Results from six patients
+techniques have been used to complement RT-PCR and
+antibody-antigen serological testing. These include chest
+computed tomography (CT) and transmission electron
+microscopy (TEM). Each has its place in diagnostic settings
+and can serve as a complementary diagnostic tool to aid
+medical investigators in diagnosing 2019-nCoV accurately
+in suspected COVID-19 patients.
+Throat swab
+IgM-colloidal gold-LFA
+IgG/IgM-ELISA or LFA
+IgG/IgM-colloidal gold-FLA
+Nucleic acid (whole genome)
+Nanopore target sequencing
+Synthetic RNA
+Synthetic RNA
+Synthetic RNA
+Nasopharyngeal or
+oropharyngeal swab
+Nasopharyngeal or
+oropharyngeal swab
+Synthetic RNA
+10 copies/μL input
+10 copies/μL input
+Not known
+10 copies/μL input
+7 copies per
+67%, 3.2 copies/μL N/A
+Not reported
+Accuracy/limit of
+Requiring clinical validation [250]
+Requiring clinical validation [62]
+Severity evaluation possible but
+requiring clinical validation [249]
+Requiring clinical validation [76]
+Simple but requiring clinical
+validation [60]
+Requiring clinical validation [248]
+Established standard method but
+time-consuming and requiring skilled
+A single, simple protocol but with
+noisy signals&
+requiring clinical validation [45]
+High speciﬁcity but requiring clinical
+validation [247]
+Monitor mutation but timeconsuming and costly [28]
+Inapplicable to early-stage detection
+Inapplicable to early-stage detection
+Inapplicable to early-stage detection
+Inapplicable to early-stage detection
+Inapplicable to early-stage detection&
+Remarks and Ref.
+assay; CRISPR: clustered regularly interspaced short palindromic repeats; DETECTR: DNA endonuclease-targeted CRISPR trans reporter.
+HTX COVID-19 test kit
+Synthetic RNA
+Nasopharyngeal or
+oropharyngeal swab
+Close-tube Penn-RAMP
+Nasopharyngeal or
+oropharyngeal swab
+Real-time RT-PCR
+Nucleic acid (N and E genes or ORF1ab/RdRp/S)
+Sampling methods
+2.3.1. Chest Computed Tomography (CT). In clinics, medical
+imaging tools are indispensable and form an essential component of viral diagnosis, as well as for monitoring viral progression [85]. They have also been used for follow-up in
+outpatient settings for coronavirus-related pulmonary disorders. Just like both SARS and MERS, pulmonary complications in COVID-19 patients have been observed. Learning
+from the well-documented SARS and MERS studies, CT
+imaging results in the acute and chronic periods of
+COVID-19 are invariant, but not always present [86–89].
+Evidence is found in previous studies on SARS and MERS.
+The glass opacities observed are not always found in
+COVID-19 patients. Crucially, preliminary imaging discoveries indicate that COVID-19 yields nonspeciﬁc results as
+well [90–92]. Radiologists are presently striving to any characteristics speciﬁc to COVID-19, although present medical
+information remains limited. Given the precarious situation,
+there is a pressing need for alternative, complementary diagnostics. CT is one example. COVID-19 patients often
+develop “ground glass” lung opacities [93]. As such, a CT
+imaging scan can readily identify lung abnormalities in
+human subjects, thereby enabling early treatment against
+COVID-19. CT has demonstrated some common imaging
+characteristics in COVID-19 patients. These features include
+bilateral, multifocal, ground glass opacities, with a peripheral
+90 patients under study presented multilobar involvement
+and lesions more prominently in the lower lobes of their
+lungs. Given its feasibility and ease of use, CT has become
+an essential tool for the 2019-nCoV infection diagnosis.
+From a radiological perspective, the advantages of using CT
+imaging could expedite the rate of diagnosis. It also supports
+the current shortage and heavily reliant on technical knowhow during RT-PCR testings. Nonetheless, one limitation is
+that it should be cautiously utilized as a diagnostic approach
+because there are no proven, evidence-based clinical beneﬁts
+of using CT. It could also cause false securities if results are
+negative. Other limitations include requirements of relatively
+high-dose CT scans and long-term, continuous usage, which
+can altogether be logistically challenging and deplete additional medical resources.
+2.3.2. Transmission Electron Microscopy (TEM). Transmission electron microscopy (TEM) has been used for many
+years and has had a profound impact on our understanding
+of illnesses, including viral infections. The thousandfold
+enhanced resolution provided by TEM enables investigators
+to visualize viral morphology and to classify viruses into families [94].
+Mechanistically, TEM operates based on interactions
+between electrons emitted from a source and materials under
+examination. In the present context, it is usually 2019-nCoV
+in a cellular sample [95]. The detector collects a multitude of
+signals from transmitted electrons, before processing them to
+reveal viral morphology and location within cells [96]. Typical specimen preparation for TEM includes sample ﬁxation,
+embedding, sectioning, staining, and loading onto the TEM
+copper grids [94, 97, 98]. 2019-nCoV sampling typically uses
+supernatants from patient airway epithelial cells. Infected
+microscopy characterizations of 2019-nCoV. (a) Cross-sectional
+noncontrast enhanced chest CT radiographs of a man’s lungs with
+COVID-19. The ﬁgure shows enlarged lesions and increased
+density of the lesions at the outer edge of the lungs (yellow
+arrows) [93]. (b) A TEM image of the 2019-nCoV grown in cells
+cells are ﬁxed and dehydrated before embedding in resin. A
+negatively stained, ﬁlm-coated grid for examination is similarly prepared for contrast enhancement. 2019-nCoV virus
+enables microbiologists to rapidly diagnose patients with a
+single examination of a single tissue sample.
+3. Medical Treatment
+There are three general approaches to develop potential
+antiviral treatments of the human coronavirus. Firstly,
+standard assays may be used to evaluate existing broadspectrum antiviral drugs. Secondly, chemical libraries containing existing compounds or databases may be screened.
+Thirdly, speciﬁc, new medications based on the genome
+and biophysical understanding of 2019-nCoV can be
+designed and optimized. Therefore, this section will discuss some of the potential 2019-nCoV therapeutics
+obtained through these general approaches. Besides chemical and biologic drugs commonly used in antiviral therapies, we further elaborate on how nanomaterials,
+nutritional interventions, traditional Chinese medicine,
+and stem cell therapy can be potentially used for treatment
+or as an adjuvant to reduce the mortality and morbidity
+rate of 2019-nCoV patients. Finally, to end this section,
+we highlight vaccines as a key therapeutic option to eradicate COVID-19 through herd immunity without getting
+the disease.
+3.1. Chemical Drugs. There are currently no approved antiviral drugs to treat COVID-19, and patients must depend upon
+their immune systems to combat the infection. A full-ﬂedged
+treatment plan has yet to emerge, and both academia and
+pharmaceutical companies are racing to develop new treatments and vaccines to address COVID-19. Research into
+the cellular and molecular pathogenesis of 2019-nCoV has
+provided essential insights with the hope of developing viable
+therapies. While researchers are working on cures or preventive measures for COVID-19 [99], a more robust, eﬃcient,
+and economical way to tackle the disease is to repurpose
+existing drugs into a viable therapeutic strategy. Drug
+repurposing, also termed drug repositioning, refers to
+the process of discovering new therapeutic applications
+for existing drugs. It oﬀers various advantages over traditional de novo drug discovery, i.e., reduced cost and drug
+development time, established drug characteristics, and,
+most importantly, established safe dosages for human
+use [100]. Repurposed drugs often negate the need for
+phase 1 clinical trials and can be used immediately
+[100, 101]. At present, repurposed drugs are the only
+option available at treatment centers for COVID-19
+patients. As COVID-19 is a viral infection, the most obvious choices for repurposed drugs come from known antiviral drugs [102]. Antiviral creation strategies focus on
+two approaches: targeting viruses or targeting host cell
+3.1.1. Entry Inhibitors. When an infection occurs, the virus
+gains entry into a host cell by attaching itself to the host cell
+between the virion surface and the speciﬁc proteins on the
+cell membrane. In general, these surface proteins have other
+functions but are serendipitously recognized by the virus as
+entry receptors [103]. Molecules that prevent such recognition, either by competitive binding or by downregulating
+the receptors, are known as viral entry inhibitors
+since blocking infection early in the life cycle reduces cellular
+and tissue damage associated with viral replication and production of viral progeny.
+structural proteins: the S, E, M, and N proteins [104–107].
+The S protein is the most crucial in viral attachment, fusion,
+and entry [108]. It comprises two subunits. S1 facilitates
+attachment to the host cell receptor, while S2 mediates membrane fusion of the virion and the host cell. As mentioned
+above, viruses have speciﬁc attachment sites. SARS-CoV recognizes ACE2 as its host receptor, while MERS-CoV recognizes dipeptidyl peptidase 4 [109, 110]. Like SARS-CoV,
+2019-nCoV also targets host ACE2 [111–113]. Biophysical
+and structural analysis indicates that the 2019-nCoV S protein binds ACE2 with higher aﬃnity than the SARS-CoV S
+protein [16]. Therefore, it is vital to target ACE2 for the
+development of viral entry inhibitors.
+To the best of our knowledge, not much is known about
+known for treating the diseases mentioned, but these lack
+inhibitory activity toward ACE2 due to their distinct
+substrate-binding pockets [116–119]. In brief, there are concerns that both ACE2 stimulators and ACE inhibitors can
+increase the expression of ACE2, which in turn may increase
+susceptibility to viral host cell entry [120, 121]. Much work
+needs to be done on ACE2-targeting drugs, and controversial
+issues that lie beyond the treatment pathway need to be
+addressed soon.
+A small antiviral molecule, umifenovir, has entry inhibitory eﬀects on the inﬂuenza virus. Umifenovir targets hemagglutinin for its anti-inﬂuenza virus eﬀect [122–124].
+Hemagglutinin, a viral cell surface protein, facilitates infection by undergoing a conformational change when the virus
+binds to host cells [122]. Umifenovir interacts with hemagglutinin to stabilize it against low pH-induced conformational change via the formation of an extensive network of
+noncovalent interactions that prevent hemagglutininmediated membrane fusion [122, 124]. It also interacts with
+phospholipids by altering membrane ﬂuidity [125], which is
+vital for the fusion process. This is most likely due to umifenovir’s molecular interactions (bearing both the H donor and
+acceptor groups) with the interfacial region of the lipid
+bilayer by competing for the hydrogen bonding of phospholipid C=O groups with water molecules [126]. This renders
+lipid bilayers of host cells less prone to viral fusion [125].
+No studies have shown that umifenovir is eﬀective in inhibiting SARS-CoV or 2019-nCoV. Wang et al. reported that 4
+patients with mild/severe COVID-19 recovered after prescription of combined lopinavir/ritonavir, arbidol (umifenovir), and Shufeng Jiedu Capsule (a traditional Chinese
+medicine) [127]. On the other hand, Dong et al. found in
+an in vitro study that arbidol may eﬀectively inhibit 2019nCoV infection at a concentration of 10-30 μM [128].
+Chloroquine, also a small molecule, is a quinine analog
+used to prevent and treat malaria. Similar to umifenovir,
+chloroquine exhibits its inhibitory eﬀect on inﬂuenza by pH
+stabilization. Chloroquine is a weak base and becomes protonated intracellularly in a manner described by the
+Cell attachment
+and entry
+Cell surface
+nonendosomal pathway
+Entry inhibitors
+Budding and
+Genomic (+) RNA
+RNA replication
+Replication inhibitors
+Protease inhibitors
+Rough ER
+angiotensin-converting enzyme 2; +: positive-strand RNA; AP: accessory protein; E: envelope protein; ER: endoplasmic reticulum; N:
+nucleocapsid protein; M: membrane protein; ERGIC: endoplasmic reticulum-Golgi intermediate compartment; S: spike glycoprotein.
+Henderson-Hasselbalch law [129]. It can raise lysosomal pH
+to facilitate autophagy intracellularly [130–132]. Chloroquine also alters the signaling pathway of enzymes, causing
+enzyme glycosylation, ultimately inhibiting viral replication
+in host cells [133, 134]. Liu et al. claimed that chloroquine
+could inhibit SARS-CoV entry by changing glycosylation of
+the ACE2 receptor and S protein [135]. Chloroquine’s eﬀective inhibition of SARS-CoV was demonstrated in vitro on
+primate cells and human rectal cells [136, 137]. Hydroxychloroquine is a derivative of chloroquine with an additional
+hydroxyl group. These two chloroquines share similar struc-
+tures and mechanisms. Both have shown in vitro antiviral
+activities toward 2019-nCoV [138–140]. Hydroxychloroquine was more eﬀective than chloroquine in inhibiting
+2019-nCoV in vitro on primate cells [141]. Until now, chloroquine has shown apparent eﬃciency and safety against
+2019-nCoV in clinical trials conducted in China [139].
+Currently, chloroquine or hydroxychloroquine has been
+administered to hospitalized 2019-nCoV patients on an
+uncontrolled basis in various countries, including China
+and the USA [42]. However, it must be noted that chloroquine and hydroxychloroquine cause ocular toxicity [142].
+Entry inhibitors
+Protease inhibitors
+Camostat mesylate
+Replication inhibitors
+OH OH
+OH H
+22,23-Dihydroavermectin B1a: R = C2 H5
+22,23-Dihydroavermectin B1b: R = C2H3
+protease inhibitors. (c) Chemical structures of replication inhibitors.
+Hydroxychloroquine is reportedly less toxic than chloroquine, making it more attractive as a prescription drug
+[135, 143]. Nevertheless, more investigation and clinical trials are needed to evaluate further their eﬃcacy and safety in
+3.1.2. Protease Inhibitors. Proteases are essential enzymes
+that regulate cell life processes such as cell growth and death,
+blood clotting, inﬂammation, fertilization, and infection
+[103]. Viral entry into host cells requires S protein priming
+by host proteases, which subsequently enables the fusion of
+viral and cellular membranes [113]. Membrane fusion
+enables the release of the viral genome into the host cytoplasm, initiating RNA translation into protein. Most
+viruses also encode their proteases to protect viral proteins
+by modulating host cell responses. While proteases are
+vital for cell life processes, they have become promising
+targets for antiviral therapeutic agents. Protease inhibitors
+[144]. It is noteworthy that protease inhibitors were a
+major therapeutic breakthrough of antiviral drug design
+in the mid-1990s for the treatment of HIV. Most HIV
+protease inhibitors have found prominent clinical use
+Coronavirus S proteins can be primed by a multitude of
+proteases [145]. Hoﬀmann et al. demonstrated that the S protein of 2019-nCoV could be primed by serine protease
+TMRPSS2 [113]. Similarly, both SARS-CoV and MERSCoV can be activated by other TMPRSS family members
+[145]. TMPRSS family proteases are widely expressed in the
+respiratory tract [145, 146], which is likely the reason that
+coronaviruses cause acute respiratory distress syndrome.
+Upon successful priming, the viral genome encoding RNA
+and several nonstructural proteins, including coronavirus
+main protease (3CLpro), papain-like protease (PLpro), and
+RdRp, are released [147–149]. The single-stranded positive
+RNA is translated into viral polyproteins by ribosomes in
+the host cell cytoplasm. The polyproteins are then cleaved
+into eﬀector proteins by viral proteases: 3CLpro and PLpro.
+PLpro also acts as a deubiquitinase that may remove speciﬁc
+host cell proteins (e.g., interferon regulatory factor 3 (IRF3)
+and nuclear factor kappa-light-chain-enhancer of activated
+B cells (NF-κB)), thus weakening the immune system [147,
+149, 150]. Both host and viral proteases are essential therapeutic targets in the case of COVID-19.
+Camostat mesylate is a small molecule that has shown an
+excellent therapeutic eﬀect for chronic pancreatitis treatment
+by targeting proteases [113, 151, 152]. Camostat mesylate
+primarily inhibits enzymatic autodigestion of the pancreas
+[153]. In vivo studies on rats with pancreatic ﬁbrosis showed
+that camostat mesylate inhibits inﬂammation, cytokine
+expression, and ﬁbrosis in the pancreas [154]. It has an additional clinical beneﬁt for pancreatic pain by preventing
+enzyme-evoked activation of pain receptors [155]. As mentioned above, the TMPRSS family, especially TMRPSS2, is
+most likely the protease targeted by a coronavirus. Camostat
+mesylate inhibits TMPRSS2 activity on primate cells in vitro,
+completely blocking membrane fusion between the host cell
+that camostat mesylate displays an inhibitory eﬀect in mice
+for SARS-CoV infection [152]. Recent research by Hoﬀmann
+et al. showed a promising in vitro inhibitory eﬀect of this serine protease inhibitor in SARS-CoV and 2019-nCoV on
+human lung cells, showing potential as a viable option for
+COVID-19 treatment [113]. Unfortunately, in vitro and
+in vivo data for camostat mesylate against coronaviruses are
+limited. More investigation is required to evaluate camostat
+mesylate as a potential therapeutic against COVID-19.
+Lopinavir-ritonavir is a coformulated antiretroviral drug
+with excellent eﬃcacy against HIV-1. The lopinavir has a
+core molecular structure identical to ritonavir. The 5thiazolyl end group and 2-isopropylthiazolyl group in ritonavir are replaced by the phenoxyacetyl group and a modiﬁed valine, respectively, in which the amino terminus has
+six-membered cyclic urea attached. In brief, lopinavir is a
+potent protease inhibitor developed from ritonavir with
+high speciﬁcity for HIV-1 protease [103]. It represents a
+higher proportion of the coformulation. Lopinavir contains
+a hydroxyethylene scaﬀold mimicking a standard peptide
+bond cleavable by HIV-1 protease [157]. This results in the
+hand, ritonavir binds to HIV-1 protease, interrupting the
+study from Hong Kong has shown that the combination of
+lopinavir-ritonavir and ribavirin treatment for 152 patients
+against SARS-CoV had an overall favourable clinical
+response [159]. It has been demonstrated that lopinavirritonavir targets 3CLpro of 2019-nCoV and further indicated
+that 3CLpro might also be the targets of protease inhibitors
+for other coronaviruses [160]. Regrettably, a recent clinical
+trial using lopinavir-ritonavir in Wuhan, China, reported
+that 199 hospitalized adult patients infected with 2019nCoV did not beneﬁt from the treatment [161]. Given such
+conﬂicting clinical data, physicians must carefully weigh
+lopinavir-ritonavir as a COVID-19 treatment.
+Darunavir is another antiretroviral protease inhibitor
+drug eﬀective against HIV-1. Darunavir is designed for
+multidrug-resistant HIV-1 protease variants, due to its
+molecular structure, which introduces more hydrogen bonds
+compared to conventional antiretroviral medicines. In general, changes in van der Waals and hydrogen bonding interactions between inhibitors and proteases aﬀect the potency of
+antiretroviral drugs [162]. Aside from enzymatic inhibition,
+darunavir inhibits protease dimerization [163]. The dimerization of HIV protease is essential for the acquisition of its
+[163]. Lin et al. claimed that darunavir inhibits 2019-nCoV.
+The group has used molecular modeling to evaluate darunavir binding to 3CLpro and PLpro proteases and found targeted activity against the latter [164]. Nevertheless, the
+therapeutic eﬀect of darunavir in COVID-19 clinical cases
+remains untested [164]. This may be in part due to potential
+side eﬀects, such as liver damage and severe skin rashes [103,
+165]. These contraindications must be carefully evaluated if
+darunavir is to be considered a potential therapeutic agent
+for COVID-19.
+3.1.3. Replication Inhibitors. Polymerases are enzymes essential for viral replication to produce viral progeny. Viral DNA
+and RNA polymerases are responsible for duplicating the
+viral genome and facilitating transcription and replication
+ultimately causing chain termination during viral DNA or
+RNA replication [166]. There are four types of viral polymerases in viruses: RNA-dependent RNA polymerases, RdRp,
+DNA-dependent RNA polymerases, and DNA-dependent
+DNA polymerases.
+In the section Protease Inhibitors, we mentioned that
+RdRp is released upon successful priming. RdRp is a necessary polymerase that catalyzes the replication of RNA from
+an RNA template for coronaviruses [167]. Release of RdRp
+from the virus initiates the synthesis of a full negativestrand RNA template to be used by RdRp to replicate more
+viral genomic RNA, which eventually turns host cells into
+virus factories [147]. Therefore, RdRp is an attractive therapeutic target to prevent host cells from producing viruses.
+Ribavirin is a synthetic guanosine nucleoside analog that
+mimics purines, including inosine and adenosine, and ribavirin has been used in the treatment of respiratory syncytial
+virus [168]. It has only one ring at the heterocyclic base, compared with guanine’s two rings. Notably, ribavirin has a
+ribose sugar moiety with a hydroxyl group at the 2 ′ -carbon
+position, enabling preferential activity in RNA-related
+metabolism [168, 169]. Ribavirin inhibits cellular enzyme
+and inosine monophosphate dehydrogenase involved in
+purine nucleotide biosynthesis [170, 171]. Ribavirin is also
+known for its inhibitory eﬀect on viruses by forcing viral
+genome replication to become catastrophically error-prone.
+It is likely that as a nucleoside analog, ribavirin is incorporated by RdRp into the newly synthesized viral genome,
+where it induces mutagenesis [170, 172]. Although ribavirin
+has proven eﬀective against viral infections, its mechanism
+of action has not been ﬁrmly established, and there are several proposed mechanisms of action that require further validation [168, 173]. Ribavirin was initially used in treating
+SARS; however, ribavirin treatment lacked an in vitro antiviral eﬀect and caused adverse side eﬀects including anemia,
+hypoxemia, and decreased hemoglobin levels [174]. However, ribavirin was used as the primary treatment during
+the MERS outbreak [175]. In general, clinical studies of ribavirin treatment for SARS and MERS did not show strong evidence of eﬃcacy against these coronaviruses [176–178].
+There have been no studies of ribavirin’s eﬃcacy against
+COVID-19. Therefore, the use of ribavirin remains controversial and requires more investigation for a better understanding of its mechanism of action, eﬃcacy, and toxicity,
+even though it is a widely available drug.
+Favipiravir is a synthetic guanine analog frequently used
+for inﬂuenza treatment [179]. Structurally, favipiravir is
+closely related to ribavirin, in which it shares the same carboxamide moiety [180]. While ribavirin interacts with the
+viral polymerase directly, favipiravir must be phosphoribosylated by cellular enzymes to its active form, favipiravir-ribofuranosyl-5 ′ -triphosphate (RTP) [181, 182]. The viral
+polymerase mistakenly recognizes favipiravir-RTP for a
+purine nucleotide, thereby disrupting viral genome replication [181, 182]. Favipiravir has not been used against SARS
+and MERS previously, but interestingly, it has been shown
+to reduce viral infection of 2019-nCoV [138, 183]. In a clinical study involving 80 patients infected with 2019-nCoV,
+conducted in Shenzhen, China, favipiravir showed better
+eﬃcacy than lopinavir-ritonavir in terms of disease progression and viral clearance [183]. Another clinical study
+involving 240 patients with COVID-19 conducted in
+Hubei Province, China, also demonstrated that those
+treated with favipiravir had a higher recovery rate compared to those treated with umifenovir (preprint) [184].
+More clinical data are needed to validate favipiravir’s eﬃcacy and safety in 2019-nCoV treatment.
+Remdesivir is a trial synthetic adenosine analog that has
+not yet been clinically approved [185]. It was synthesized
+and developed by Gilead Science in 2017 for Ebola virus
+infection [186]. Remdesivir needs to be metabolized into its
+active form, GS-441524, to initiate its activity. The active
+form of remdesivir inhibits viral RNA polymerase and evades
+proofreading by viral exonuclease, causing an interruption in
+viral RNA production [138, 185, 186]. It has been demonstrated that remdesivir is eﬀective against MERS-CoV infection in vivo and 2019-nCoV in vitro [138, 187], showing great
+potential as a therapeutic agent for 2019-nCoV. The drug is
+currently being validated in clinical trials [188]. Given that
+antiviral drugs have previously demonstrated reasonable
+inhibition of coronaviruses and therapeutic eﬃcacy against
+coronavirus outbreaks, umifenovir, chloroquine, hydroxychloroquine, lopinavir-ritonavir, and ribavirin have been recommended in the latest guidelines for diagnosis and
+treatment of COVID-19, updated on 17 February 2020 [189].
+Recent studies also demonstrated that some antibiotics
+potentially inhibit 2019-nCoV replication. Anderson et al.
+(preprint) recently developed the ﬁrst bat genome-wide
+RNA interference (RNAi) and CRISPR libraries and identiﬁed MTHFDI as the critical host factor for viral infections
+[190]. MTHFDI is a trifunctional enzyme involved in the
+one-carbon (C1) metabolic pathway, participating in the cellular production of purine, dTMP, and methyl groups [191].
+Anderson et al. demonstrated that purine synthesis activity of
+MTHFDI is an essential activity for viral replication, making
+MTHFDI a potential target for developing antiviral drugs
+[190]. They further explained that an MTHFD1 inhibitor,
+carolacton, restricts replication of inﬂuenza virus, mumps
+virus, Melaka virus, Zika virus, and, most importantly,
+2019-nCoV [190]. Carolacton is a secondary metabolite
+derived from the mycobacterium Sorangium cellulosum. It
+is a macrolide ketocarbonic acid. Carolacton has been studied as an antibacterial compound against bioﬁlms of pathogenic Streptococcus mutans and growth of pathogen
+Streptococcus pneumoniae [192, 193]. It has no toxic eﬀect
+against eukaryotic cells [194]. It has recently been identiﬁed
+as a potent inhibitor of MTHFDI, and its mechanism of
+action is presumably due to the ability of carolacton to bind
+with MTHFDI [194]. More research is needed to validate
+the mechanism of action, eﬃcacy, and safety of carolacton
+as a possible treatment for COVID-19. On the other hand,
+ivermectin is originally a medication used to treat parasite
+infestation. It comprises diﬀerent analogs of avermectin:
+22,23-dihydroavermectin B1a and 22,23-dihydroavermectin
+B1b, at a ratio of 4 : 1 [195]. They are macrolide antibiotics
+isolated from the fungus Streptomyces avermitilis. It has
+reportedly stopped HIV-I proliferation by inhibiting interaction of the retroviral integrase protein with adapter protein
+(importin), responsible for the nuclear protein import cycle
+[196]. Caly et al. reported that ivermectin successfully inhibited 2019-nCoV in vitro but the mechanism of action is
+unclear [197]. Since ivermectin is an approved drug, it shows
+great potential as a therapeutic agent for COVID-19. In vivo
+work or clinical trials need to be done to conﬁrm its eﬃcacy
+and safety for treatment against COVID-19. Potential drugs
+3.2. Nanodrug Delivery System. Nanomaterials have recently
+been utilized for the treatment of diseases such as cancer
+[198–200] and various types of infections [201, 202]. The
+ease of modiﬁcation of surface properties, large surface area
+[203], and multivalent interactions with targets [204] imbues
+nanomaterials with massive potential as highly eﬃcacious
+COVID-19 therapeutic options. However, to the best of our
+applied to COVID-19. Nonetheless, results obtained from
+promising potential. For example, Fujimori et al. utilized a
+treating COVID-19 with their broad antiviral properties
+against a multitude of viruses, including HIV, hepatitis B
+virus, herpes simplex virus, respiratory syncytial virus, and
+for drug delivery. Recently, Herold and Sander demonstrated
+encapsulate a stimulator of interferon gene (STING) agonist,
+2 ′ ,3 ′ -cyclic guanosine monophosphate-adenosine monophosphate, as an adjuvant in a variety of inﬂuenza vaccines
+were activated without excessive inﬂammation in the lung.
+This could provide a considerable beneﬁt for use in
+COVID-19 vaccines in the future, but as the ﬁeld is still relatively new, especially in medicinal applications, safety should
+in humans.
+3.3. Biologic Drugs. In addition to chemical medicines,
+another vital form of therapy for COVID-19 may be the
+use of biologics. Currently, interferon-α2b nebulization of
+100,000 to 400,000 IU/kg twice a day for 5 to 7 days is one
+of the main treatments for COVID-19 in children, and it
+has demonstrated eﬃcacy in reducing the viral load during
+early stages of infection [208, 209]. Another promising biologic drug is convalescent plasma, the plasma of patients
+who have recovered from COVID-19 [210, 211]. Antibodies
+in the donated plasma could confer temporary, passive
+immunity against COVID-19, allowing patients time to
+develop active immunity. Clinical trials are currently ongoing
+[212, 213], and preliminary results announced from the Chinese hospitals have been promising.
+On the other hand, human monoclonal antibodies or
+their fragments developed in the lab have shown encouraging
+results as well. Tian et al. conﬁrmed the binding of a human
+monoclonal antibody CR3022 to the receptor-binding
+domain (RBD) of 2019-nCoV with high aﬃnity [214],
+highlighting the therapeutic potential of CR3022 toward
+COVID-19, though further in vitro and in vivo studies are
+required before it could be used clinically.
+3.4. Nutritional Interventions. Another supportive treatment
+for COVID-19 involves dietary interventions. Various
+research studies have shown supplementation of multiple
+vitamins and minerals such as vitamins A, C, and D and zinc
+can reduce the severity of respiratory infections [215–221].
+However, most of these studies targeted children below the
+age of 5 who were suﬀering from malnourishment or preexisting diseases. Therefore, vitamin and mineral supplementation may oﬀer more signiﬁcant beneﬁts to COVID-19
+patients in developing countries. Moreover, aggressive supplementation of calories and protein in nutritionally at-risk
+patients has shown signiﬁcant beneﬁts in reducing mortality
+[222]. Using a modiﬁed Nutrition Risk in Critically Ill
+(mNUTRIC) score, Kalaiselvan and coworkers demonstrated
+that 42.5% of mechanically ventilated patients have high
+nutritional risks (mNUTRIC score ≥ 5), accompanied by
+long intensive care unit (ICU) stays and high mortality rates
+An estimated 5% of COVID-19 patients require ICU
+care, and of these critically ill patients, most need mechanical
+ventilation [224, 225]. Therefore, nutritional intervention
+using aggressive calorie and protein supplementation may
+provide substantial beneﬁts to a signiﬁcant number of critically ill patients. Evidence of such beneﬁts may be provided
+by the clinical trial (NCT04274322) that is expected to end
+in July 2020.
+3.5. Traditional Chinese Medicine. Traditional Chinese medicine (TCM) is considered a prospective supplementary
+treatment of COVID-19, due to its impressive performance
+in treating SARS in 2003 [226]. First, TCM shows a generalized antiviral eﬀect through direct inhibition of viruses and
+control of inﬂammation. For example, Weng et al. reported
+that the Smabucus Formosana Nakai (a traditional medicinal
+herb) ethanol stem extract displayed strong anti-HCoVNL63 activity [227]. Moreover, TCM can alleviate damage
+induced by inﬂammatory reactions and immune responses
+initiated by viral infections. Single and combined Chinese
+medicines could mitigate the cytokine storm by clearing the
+heat and toxicity in the body. For instance, TCM approaches
+were adopted to prevent and treat SARS in 2003 and H1N1
+inﬂuenza in 2009 [228]. As of February 17, 2020, over
+85.2% of total conﬁrmed cases (over 60,000 cases) had been
+treated with TCM, showing that TCM yields excellent outcomes. Notably, in a trial of 102 cases with mild symptoms,
+TCM achieved remarkable therapeutic eﬀects, demonstrated
+Antiviral drug on malaria; not yet tested for
+Antiviral drug on pancreatic diseases; not yet
+tested for coronaviruses
+Used in combination with ribavirin for
+SARS and MERS
+Camostat mesylate
+Antiviral drug on inﬂuenza; not yet tested
+for coronaviruses
+In vitro antiviral activities
+against 2019-nCoV on
+primate cells [135, 138]
+In vitro antiviral activities
+against 2019-nCoV in
+human lung cancer cells
+Preliminary studies
+Genome The new antiviral drug initially developed for
+In vitro antiviral activities
+toward 2019-nCoV on
+primate cells [138]
+Potential antibacterial compound against
+In vitro antiviral activities
+bioﬁlm formation of Streptococcus mutans and against bat kidney cells
+growth of Streptococcus pneumoniae [192, 193]
+In vitro antiviral activities
+Antiparasitic drug (broad-spectrum).
+against 2019-nCoV on
+primate cells [197]
+N/A: not available. Note: “coronaviruses” only target SARS-CoV and MERS-CoV.
+Antiretroviral drug; not yet tested for
+Genome Used in combination with lopinavir-ritonavir
+for SARS and MERS
+Antiviral drug on inﬂuenza; not yet tested for
+Target of
+therapeutic agents
+Case studies
+Currently being evaluated in China
+and the United States
+Not known
+Not known
+Under clinical trials
+Higher recovery rate compared to those
+treated with umifenovir (arbidol)
+240 patients in Hubei
+province, China (120
+favipiravir+120 arbidol)
+Currently being evaluated in China
+Not known
+Not known
+199 hospitalized patients,
+Currently being evaluated in China and
+Wuhan, China (99 lopinavir
+the United States. However, found to be
++ritonavir+100 standard care)
+ineﬀective based on preliminary ﬁndings
+Not known
+Currently being evaluated in China
+Application for COVID-19
+Compared with favipiravir
+by faster clinical symptom disappearance and reduction of
+fever, shorter disease course, higher cure rate (by 33%), and
+lower rate of moderate-to-severe cases [229]. To date, the
+diagnosis and treatment of COVID-19 [25]. Since the fourth
+version, a list of TCM prescriptions (including TCM soup
+and TCM capsules) has been recommended for patients
+based on the stage of the disease and their symptoms [230].
+According to the 7th edition of the guidelines, there are
+three kinds of TCM prescriptions recommended for diﬀerent
+stages of patients: the medical observation period, the clinical
+[25]. Among TCM recipes, the Qing Fei Pai Du Decoction
+is strongly recommended for treatment of COVID-19 by
+a cure rate of over 90% of COVID-19 patients in a clinical
+trial involving 701 conﬁrmed cases [231]. Another TCM recipe, Xue Bi Jing Injection is speciﬁcally recommended for
+treating critically ill COVID-19 patients, because it suppresses severe sepsis, according to the China Food and Drug
+Administration. It also promoted signiﬁcant improvement in
+cases of severe community-acquired pneumonia (CAP)
+[232]. Therefore, TCM could be an alternative prophylactic
+approach to COVID-19 and a supplementary treatment in
+combination with western medicine to cure COVID-19.
+3.6. Stem Cell Therapy. Stem cell therapy is a promising treatment strategy for degenerative diseases, including Huntington’s disease, Parkinson’s and Alzheimer’s diseases, and
+chronic diseases such as cardiac failure and diabetes [233].
+A clinical study showed that transplantation of mesenchymal
+stem cells (MSCs) signiﬁcantly lowered the mortality of
+patients with H7N9-induced acute respiratory distress syndrome (ARDS), with no harmful eﬀects [234]. As H7N9
+and 2019-nCoV share similar genome structures and corresponding infection mechanisms, as well as related clinical
+symptoms (lung failure), MSC-based therapy could be a possible alternative for treating COVID-19. Currently, stem cellbased therapy for COVID-19 is being conducted by diﬀerent
+hospitals in China. Doctors from Baoshan Hospital (Yunnan
+province, China) used human umbilical cord mesenchymal
+stem cells (hUCMSCs) to treat a 65-year-old critically ill
+woman with COVID-19. Two days after the 3rd injections
+of stem cells, the woman recovered, and the throat swab test
+for COVID-19 turned negative [235]. Another clinical trial
+involving stem cell therapy was conducted in seven conﬁrmed COVID-19 patients in diﬀerent clinical stages in Beijing Youan Hospital (Beijing, China). Two to four days after
+intravenous transplantation of CE2- MSCs, all symptoms
+such as high fever, weakness, and shortness of breath disappeared in all seven patients without observed adverse eﬀects,
+indicating that MSCs can cure or signiﬁcantly improve functional outcomes [236]. There are at least 12 other trials using
+stem cells to treat COVID-19 in China, according to the
+WHO report.
+3.7. Other Treatments. Vaccines are another promising treatment to prevent or cure speciﬁc viruses. Currently, there is no
+eﬀective vaccine against 2019-nCoV. Fortunately, two
+COVID-19 vaccines are undergoing clinical trials. The ﬁrst
+is Moderna’s mRNA-1273, an mRNA vaccine, which started
+at KPWHRI in Seattle, USA, on March 16, 2020 [237]. It targets the spike protein of 2019-nCoV. The other vaccine, Ad5nCoV (a recombinant novel coronavirus disease vaccine
+(adenovirus type 5 vector)), was conducted at Tongji Hospital in Wuhan, China, on March 16, 2020 [238]. The trial was
+jointly developed and administered by CanSino Biologics
+Inc. and the Academy of Military Medical Sciences. Ad5nCoV, a genetically engineered vaccine, expresses the 2019nCoV S protein using replication-defective adenovirus type
+5 as an expression vector, thereby inducing a virus-speciﬁc
+immune response to prevent COVID-19. There are also several other types of COVID-19 vaccines, including deoptimized live attenuated vaccines, protein vaccine, DNA
+vaccine, RNA vaccine, and subunit vaccine, all of which are
+new microneedle array (MNA) approach based on delivering
+coronavirus S1 subunit vaccines against COVID-19. Expedited by prior experience in developing vaccines against
+MERS, this approach was developed within 4 weeks and
+enabled long-term induction of potent virus-speciﬁc antibody responses. Signiﬁcantly, the MNA work can be
+extended to other emerging infectious diseases. However,
+these will require further clinical studies for eﬃcacy and
+safety, which requires more time.
+According to the 7th edition of the diagnostic criteria
+[25], patients severely or critically ill with COVID-19 should
+receive comprehensive antiviral treatment, including lopinavir/ritonavir, arbidol, or Shufeng Jiedu Capsule. Meanwhile,
+they also need additional treatments, according to their
+symptoms, including respiratory support (oxygen therapy,
+high-ﬂow nasal cannulas, or noninvasive ventilation, invasive
+mechanical ventilation, or extracorporeal membrane oxygenation- (ECMO-) based therapy), circulatory support, or
+continuous renal replacement therapy. The main therapeutic
+approaches proposed for COVID-19 are summarized in
+4. Control and Prevention of COVID-19
+As the most recent pandemic, COVID-19 induces much fear.
+It is highly infectious and is transmitted asymptomatically.
+As such, our best options to slow and prevent transmission
+are to understand the origin of 2019-nCoV, its transmission
+route, and associated disease pathways and systems. Generally, a pathogen must remain viable outside the host to allow
+for environmental spread [240]. Collective eﬀects of many
+biotic and abiotic factors determine the period that the pathogen can survive [240]. As of now, COVID-19 is thought to
+be transmitted directly from person-to-person through liquid (droplets) and, more importantly, transmitted indirectly
+via contact with contaminated surfaces. 2019-nCoV remains
+viable for a fairly long period outside the human body (up to
+than on copper and cardboard [241]. Therefore, aerosol
+and fomite transmission of 2019-nCoV is possible, as the
+Shu Feng Jie Du
+Bushy knotweed root, forsythia, indigowoad root, thorowax
+root, patrinia, verbena leaf, reed root, licorice
+Jin Hua Qing Honeysuckle ﬂower, gypsum, ephedra, apricot, baical skullcap
+Gan Pill (金花
+root, forsythia, fritillaria bulb, anemarrhena rhizome, great
+burdock achene, wormwood mint, licorice
+Xing Nao Jing
+Musk, borneol, cape jasmine fruit, turmeric tuber
+Xue Bi Jing
+Saﬄower, peony root, Szechuan lovage rhizome, red sage root,
+Chinese angelica root
+Re Du Ning
+Wormwood, honeysuckle ﬂower, cape jasmine fruit
+Xi Yan Ping
+May cause an autoimmune response, i.e., skin rash. Pregnant
+women are prohibited from the treatment
+May cause an autoimmune response, i.e., itchiness. Pregnant
+women are prohibited from the treatment
+May cause an autoimmune response, i.e., dizziness, chest
+tightness, thirstiness, diarrhea, nausea, vomit, skin rash, and
+itchiness. Allergic individuals are prohibited from the treatment
+yellow A
+May cause adverse reactions, i.e., skin rash, itchiness, fever,
+pain, dyspnea, cyanosis, palpitations, and convulsions.
+Pregnant women and allergic individuals are prohibited
+from the treatment
+Not recommended to be used as a precautionary measure
+May cause an autoimmune response. Allergic individuals are
+prohibited from the treatment. Patients with diseases, i.e.,
+cardiac diseases, liver diseases, kidney diseases, hypertension,
+and diabetes, and pregnant women should speak to physicians
+before the treatment
+are prohibited from the treatment. Patients with diseases, i.e.,
+cardiac diseases, liver diseases, kidney diseases, hypertension,
+and diabetes, and pregnant women should speak to physicians
+before the treatment
+May cause an autoimmune response, i.e., nausea. Allergic
+individuals and individuals with allergic constitution are
+prohibited from the treatment
+Side eﬀects are not known. Pregnant women, allergic
+individuals, and individuals with allergic constitution are
+prohibited from the treatment
+Forsythia, honeysuckle ﬂower, ephedra, apricot, gypsum,
+indigowoad root, crown wood-fern, heartleaf houttuynia,
+patchouli, rhubarb, arctic root, mint, licorice
+Lian Hua Qing
+Wen Capsule
+Main ingredients (common names)
+Huo Xiang
+Patchouli, Indian buead, areca peel, perilla leaf, dahurian
+Zheng Qi
+angelica root, tangerine peel, platycodon root, largehead
+Atractylodes rhizome, magnolia bark, pinellia rhizome, licorice
+Potential TCM
+Ephedra, licorice, apricot, gypsum, cinnamon twig, water
+plantain rhizome, polyporus, largehead Atractylodes rhizome,
+Qing Fei Pai Du
+Indian buead, thorowax root, baical skullcap root, pinellia
+rhizome, ginger, tatarian aster root, coltsfoot ﬂower, blackberry
+lily rhizome, Manchurian wildginger, Chinese yam, immature
+bitter orange, tangerine peel, patchouli
+Conﬁrmed cases
+Fatigue, fever
+Suspected cases
+N/A: not available.
+Red ginseng, Ophiopogon, magnolia berry
+Red ginseng, Ophiopogon
+Storax, benzoin, borneol, musk, buﬀalo horn, sandalwood,
+agarwood, clove, nut grass, costus root, frankincense, long
+pepper fruit, largehead Atractylodes rhizome, gall nut,
+Sheng Mai
+Shen Mai
+Su He Xiang
+An Gong Niu
+Buﬀalo horn, musk, pearl, realgar, coptis root, Cinnabaris,
+Huang Pill (安
+baical skullcap root, cape jasmine fruit, turmeric tuber, borneol
+Red ginseng, Chinese aconite
+Shen Fu
+Baical skullcap root, bear bile, goat horn, honeysuckle
+Tan Re Qing
+Main ingredients (common names)
+Potential TCM
+May cause autoimmune responses, i.e., hypothermia.
+Prescription guidance is unclear
+Side eﬀects are not known. Pregnant women are prohibited
+from the treatment
+May cause an autoimmune response, i.e., tachycardia, skin rash,
+dizziness, headache, hiccup, tremor, dyspnea, nausea, visual
+abnormality, abnormality in liver function, and urinary
+retention. Newborns, allergic individuals, and individuals with
+allergic constitution are prohibited from the treatment
+May cause an autoimmune response, i.e., anaphylactic shock.
+Newborns, pregnant women, allergic individuals, and
+individuals with allergic constitution are prohibited from the
+May cause autoimmune response and adverse eﬀect on treated
+patients, i.e., anaphylactic shock and damage to the body
+systems. Newborns, pregnant women, allergic individuals, and
+individuals with allergic constitution are prohibited from the
+May cause an autoimmune response, i.e., dizziness, nausea,
+vomit, itchiness, and skin rash
+mRNA vaccine/VLP-cocktail (S, M,
+and S-RBD antigen
+Tonix Pharma/Southern Research
+Inactivated Vaccine
+VLP Vaccine
+Live attenuated virus∗
+Pittsburg Center for Vaccine Research
+Heat’s gp96 based
+vaccine for COVID-19
+DNA vaccine/horsepox vaccine
+platform-S gene
+DNA vaccine/measles vector
+Vaxart, Inc.
+Vaxart, Inc.
+DNA/nonreplicating viral vector
+DNA/nonreplicating viral vector,
+NasoVAX-S gene
+DNA/nonreplicating viral vector
+DNA/nonreplicating viral vector
+(VAAST); oral vaccine platform
+DNA vaccine/measles vector
+(replicating viral vector)
+Janssen Pharmaceutical Companies
+Zydus Cadila
+Takis/Applied DNA Sciences/Evvivax
+DNA/nonreplicating viral vector
+Ad26/MVA boost
+DNA/S gene
+DNA plasmid
+DNA/DNA plasmid,
+electroporation device
+Inovio Pharmaceuticals
+DNA/adenovirus type 5 vector
+Vaccine name
+Vaxil Bio COVID-19
+CanSino Biological Inc., Beijing
+Vaccine type/platform
+Vaccine name
+Medicago Inc.
+Plant-derived VLP/four structural of
+rotavirus (VP2, VP4, VP6, and VP7)
+Formalin-inactivated+alum adjuvanted
+Deoptimized live attenuated vaccines
+Protein subunit/protein
+Protein subunit/protein
+Protein subunit/plant-based coronavirus
+Protein subunit/S1 or RBD protein
+Heat Biologics/Univ. of
+Baylor College of
+Protein subunit/Full-length protein
+Matrix-MTM adjuvant
+Protein subunit/Heat’s gp96 backbone
+to express antigen of COVID-19
+Protein subunit/molecular clamp
+stabilized spike protein
+Protein subunit/molecular clamp
+stabilized spike protein
+Sanoﬁ Pasteur
+EpiVax/Univ. of
+AJ Vaccine
+Vaxil Bio
+Protein subunit/S protein (baculovirus
+Protein subunit/S protein
+Protein subunit/li-Key peptide
+Protein subunit/S protein
+Protein subunit/pandemic adjuvant
+Protein subunit/signal peptide
+Vaccine type/platform
+Imperial College London
+BioNTech/Fosun Pharma/Pﬁzer
+In clinical studies. Preparing for clinical studies. N/A: not available.
+Protein subunit/Drosophila S2
+insect cell expression system VLPs
+Protein/S protein
+Self-amplifying RNA vaccine
+mRNA vaccine
+Vaccine type/platform
+Vaccine name
+Vaccine name
+MIGAL Galilee
+Unknown/IPA’s proprietary discovery
+Vaccine type/platform
+HCV, RSV
+TCM/herbal remedies
+B & T cell
+Invoke immune targeting of these epitopes
+Promotes endothelial repair and reduce inﬂammation
+through secretion of soluble paracrine factors
+Heart disease, Parkinson’s disease, lung
+cancer, type 1 diabetes, stroke
+Phase 1 clinical trials for prevention of
+COVID-19 infection
+Eliciting immune response via host cell-expressed viral
+Phase 0-1 trials for the treatment of
+Binding to the receptor-binding domain of COVID-2019
+Multiple randomized trials for COVID19 patients
+Multiple randomized trials for COVID19
+Phase 3 trials for the treatment of
+Phase 3 and randomized trials for the
+treatment of COVID-19
+Phase 2 trials for the treatment of
+Phase 2-3 trials for prophylaxis of
+Phase 2-4 trials for the treatment of
+Phase 2-4 trials for the treatment of
+Phase 2-4 trials for the treatment of
+Phase 2-3 trials for the treatment of
+pneumonia caused by COVID-19
+Phase 4 trials for COVID-19
+Clinical status
+Suppression of viremia
+Invoking interferon response through exogenous
+Inhibition of viral RNA replication & increased mutation
+in viral RNA
+Inhibits RdRp
+Inhibits viral RNA polymerase
+Inhibition of viral entry into host cells
+Inhibition of viral maturation pathways
+Proposed inhibition of 3CLpro
+Proposed inhibition of 3CLpro
+Inhibition of lysosomal activity and signaling pathway in
+Inhibition of binding of the virus to host cell membrane
+Mechanism of action
+Inﬂuenza, Ebola, SARS, MERS
+HCV, HCL, melanoma
+Pancreatic inﬂammation
+Inﬂuenza A & B
+Original indication
+Chloroquine and
+Chemical drugs
+Drug names
+URTI, COPD
+HFMD, URTI
+Original indication
+Clinical status
+Phase 4 trials for the treatment of
+Phase 0-4 trials for the treatment of
+Phase 0 trial for the treatment of COVIDSuppressing secretion of inﬂammatory mediators
+Inhibition of NF-κB and MAPK-mediated inﬂammatory Phase 0 trial for the treatment of COVIDresponses
+Inhibition of NF-κB and MAPK-mediated inﬂammatory
+Phase 0-4 trials for the treatment of
+Aﬀect various immune signaling pathways to have a
+Phase 4 trial for the treatment of COVIDprotective eﬀect against organ damage
+Downregulates MCP-1 which decreases monocytes
+chemotaxis to infection foci
+Inhibition of proinﬂammatory Th17 cells and reduced
+inﬂammatory cytokines TNF-α and IL-6
+Mechanism of action
+Abbreviations: 3CLpro: 3C-like protease; COPD: chronic obstructive pulmonary disease; HCL: hairy cell leukemia; HCV: hepatitis C virus; HFMD: hand, foot, and mouth disease; HIV: human immunodeﬁciency
+virus; IL-6: interleukin 6; INF-α: interferon-alpha; MAPK: mitogen-activated protein kinase; MCP-1: monocyte chemoattractant protein-1; MERS-CoV: Middle East respiratory syndrome-coronavirus; MSC:
+mesenchymal stem cell; NF-κB: nuclear factor kappa-light-chain-enhancer of activated B cells; RdRp: RNA-dependent RNA polymerase; RNA: ribonucleic acid; RSV: respiratory syncytial virus; SARS-CoV:
+severe acute respiratory syndrome-coronavirus; Th17: T helper 17; TNF-α: tumor necrosis factor-alpha; URTI: upper respiratory tract infection.
+Shen Fu Injection Congestive heart failure, ischemic stroke
+Lian Hua Qing
+Wen Capsule
+Xue Bi Jing
+Re Du Ning
+Xi Yan Ping
+Tan Re Qing
+Drug names
+Respitory symptoms with/without fever
+Historical epidemiology
+No pneumonia
+Self health motoring
+No pneumonia
+No exclusion
+Nucleic acid
+droplets, and on surfaces, in some cases for days [241].
+Although there are currently insuﬃcient data on the inactivation of environmental 2019-nCoV, data from other coronaviruses can be used as a reference. However, it should be
+noted that biocidal agents may only limit the survival of coronavirus in critical environments and have no eﬃcacy for
+infected patients.
+Given the high transmissibility of COVID-19, its propensity for asymptomatic transmission, and its persistent nature,
+conﬁrmed patients could only be quarantined and treated in
+adequately equipped facilities. This also applies to anyone
+who has come into contact with these patients. As such,
+contact tracing is still a mainstay for disease control. Conﬁrmation can be achieved only when speciﬁc diagnostic
+methods have been employed. Chest CT imaging is useful
+as an initial evaluation for COVID-19, as CT conﬁrmation
+is often possible even before symptoms appear; therefore, it
+is recommended for suspected COVID-19 cases [242]. Once
+the primary diagnosis reveals abnormal chest CT ﬁndings,
+a nucleic acid test should be performed to conﬁrm
+whether a patient is infected. Once a person is conﬁrmed
+positive, tests such as C-reactive protein (CRP), complete
+blood count, urinalysis, biochemical indicators (i.e., liver
+enzymes, myocardial enzymes, and renal function), blood
+coagulation function, arterial blood gas analysis, and cytokine levels should be performed to monitor the patient’s
+condition [189]. Chest CT should be performed as a
+follow-up to treatment as well [242]. The currently
+adopted procedure in identifying potential COVID-19
+On a community scale and beyond, strict controls over
+human traﬃc are essential to limiting disease transmission.
+By establishing lockdowns, China has been able to bring the
+crisis under control. Other nations are now following the
+Chinese’s approach in restricting movement of residents
+within their borders. As evidenced globally, social distancing
+is essential to halt the spread of COVID-19. On the other
+hand, individuals have the responsibilities to follow the
+and to behave responsibly. COVID-19, like the past epidemics, does not recognize political boundaries, ethnicity,
+or gender. The disease has challenged the economic and
+medical infrastructure of the entire globe. As evidenced by
+events of the past few months, the impact of the outbreak
+depends upon how well we are prepared to face such a challenge. Only with time will we be able to fully evaluate the
+measures that are being taken against COVID-19 today.
+Previous coronavirus epidemics like SARS and MERS have
+expedited the process of ﬁnding useful diagnostic and therapies against 2019-nCoV. It is of paramount importance for
+all countries to share essential information about 2019nCoV to mitigate its spread. Because of this strategic
+approach, research has been mobilized to rapidly develop
+diagnostic methods and worldwide implementation to minimize the impact of the pandemic. Practical diagnostic tests
+have aided management and contact tracing of COVID-19
+cases in hotspot areas. In this regard, molecular virological
+techniques have assisted the scientiﬁc community in characterizing infectious agents for years. These include qRT-PCR,
+isothermal ampliﬁcation, and CRISPR technology.
+On the other hand, serological assays for antibodies
+and antigens present essential tools to obtain valuable
+information about prior exposure to 2019-nCoV and the
+prevalence of infection. These include ELISA and LFA
+technologies. Serological screening also enables novel vaccines to be assessed and supports the design of functional
+vaccine approaches. Other approaches, including chest
+computed tomography (CT) and transmission electron
+microscopy (TEM), can boost existing detection approaches.
+Notably, there has been a marked increase in the use of both
+CT and TEM to detect 2019-nCoV and other coronaviruses.
+These complimentary tools reveal the progression of suspected infection, which cannot be accomplished by conventional diagnostic means. Nonetheless, there is a pressing
+need for continuous development of rapid, accurate diagnostic devices and strategies to characterize unknown respiratory pathogens.
+Despite these signs of progress, the present data suggest
+that current public health policies and improved diagnostic
+measures alone may not be suﬃcient to eradicate COVID19 in the short term. Eﬃcacious and novel treatments are
+desperately required. Presently, large numbers of ongoing
+clinical trials of various drugs may succeed in minimizing
+morbidity and mortality. We have highlighted several of
+may require more time to demonstrate usefulness. While
+some drug candidates appear promising and have been used
+in treating COVID-19 patients in desperation, it does not
+necessarily mean that they are proven safe and eﬃcacious
+in the long run. As such, stringent criteria must be established by health regulatory agencies. However, in the long
+term, vaccines and prophylactics may be required to curb
+the spread of 2019-nCoV.
+Conflicts of Interest
+This work was supported by the Singapore Ministry of
+Education (MOE2017-T2-2-110); Agency for Science,
+Technology and Research (A∗STAR) (A1883c0011 and
+A1983c0038); National Research Foundation, Prime Minister’s Oﬃce, Singapore, under the NRF Investigatorship
+programme (Award No. NRF-NRFI05-2019-0003); and
+National Natural Science Foundation of China (21771135).
+[1] WHO, Coronavirus disease (COVID-19) outbreak situation,
+[2] WHO, 2019-nCoV outbreak is an emergency of international
+[3] WHO, WHO Director-General's opening remarks at the
+[4] P. C. Woo, S. K. Lau, C. C. Yip, Y. Huang, and K. Y. Yuen,
+“More and more coronaviruses: human coronavirus
+HKU1,” Viruses, vol. 1, no. 1, pp. 57–71, 2009.
+[5] P. C. Woo, S. K. Lau, C. S. Lam et al., “Discovery of seven
+novel Mammalian and avian coronaviruses in the genus
+deltacoronavirus supports bat coronaviruses as the gene
+source of alphacoronavirus and betacoronavirus and avian
+coronaviruses as the gene source of gammacoronavirus and
+[6] P. C. Y. Woo, S. K. P. Lau, C. M. Chu et al., “Characterization
+Virology, vol. 79, no. 2, pp. 884–895, 2005.
+[7] J. Peiris, S. T. Lai, L. L. Poon et al., “Coronavirus as a possible
+cause of severe acute respiratory syndrome,” The Lancet,
+vol. 361, no. 9366, pp. 1319–1325, 2003.
+[8] N. Zhu, D. Zhang, W. Wang et al., “A novel coronavirus from
+patients with pneumonia in China, 2019,” The New England
+[9] L. E. Gralinski and V. D. Menachery, “Return of the coronavirus: 2019-nCoV,” Viruses, vol. 12, no. 2, p. 135, 2020.
+[10] P. Zhou, X. L. Yang, X. G. Wang et al., “A pneumonia outbreak associated with a new coronavirus of probable bat origin,” Nature, vol. 579, no. 7798, pp. 270–273, 2020.
+[11] A. Wu, Y. Peng, B. Huang et al., “Genome composition
+and divergence of the novel coronavirus (2019-nCoV)
+originating in China,” Cell Host & Microbe, vol. 27,
+no. 3, pp. 325–328, 2020.
+[12] J. F.-W. Chan, K. H. Kok, Z. Zhu et al., “Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting
+Wuhan,” Emerging Microbes & Infections, vol. 9, no. 1,
+[13] Y. Chen, Q. Liu, and D. Guo, “Emerging coronaviruses:
+Medical Virology, vol. 92, no. 4, pp. 418–423, 2020.
+[14] J. Wang, S. Zhao, M. Liu et al., ACE2 expression by colonic
+epithelial cells is associated with viral infection, immunity
+and energy metabolism, medRxiv, 2020.
+[15] X. Zou, K. Chen, J. Zou, P. Han, J. Hao, and Z. Han, “Singlecell RNA-seq data analysis on the receptor ACE2 expression
+reveals the potential risk of diﬀerent human organs vulnerable to 2019-nCoV infection,” Frontiers of Medicine, vol. 14,
+[16] D. Wrapp, N. Wang, K. S. Corbett et al., “Cryo-EM structure
+of the 2019-nCoV spike in the prefusion conformation,”
+Science, vol. 367, no. 6483, pp. 1260–1263, 2020.
+[17] R. Yan, Y. Zhang, Y. Li, L. Xia, Y. Guo, and Q. Zhou,
+“Structural basis for the recognition of SARS-CoV-2 by
+full-length human ACE2,” Science, vol. 367, no. 6485,
+[18] K. Wang, W. Chen, Y.-S. Zhou et al., SARS-CoV-2 invades
+host cells via a novel route: CD147-spike protein, bioRxiv,
+[19] P. Venkatagopalan, S. M. Daskalova, L. A. Lopez, K. A.
+Dolezal, and B. G. Hogue, “Coronavirus envelope (E) protein remains at the site of assembly,” Virology, vol. 478,
+[20] J. L. Nieto-Torres, M. L. DeDiego, E. Álvarez et al., “Subcellular location and topology of severe acute respiratory
+syndrome coronavirus envelope protein,” Virology, vol. 415,
+no. 2, pp. 69–82, 2011.
+T. R. Ruch and C. E. Machamer, “A single polar residue and
+distinct membrane topologies impact the function of the
+infectious bronchitis coronavirus E protein,” PLoS Pathogens,
+M. I. Abdelmageed, A. H. Abdelmoneim, M. I. Mustafa et al.,
+Design of multi epitope-based peptide vaccine against E protein of human 2019-nCoV: an immunoinformatics approach,
+V. Surveillances, “The epidemiological characteristics of an
+outbreak of 2019 novel coronavirus diseases (COVID-19)China, 2020,” China CDC Weekly, vol. 2, pp. 113–122,
+E. J. Strobel, A. M. Yu, and J. B. Lucks, “High-throughput
+vol. 19, no. 10, pp. 615–634, 2018.
+F. Sanger, S. Nicklen, and A. R. Coulson, “DNA sequencing
+with chain-terminating inhibitors,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 74, no. 12, pp. 5463–5467, 1977.
+M. Wang, A. Fu, B. Hu et al., Nanopore target sequencing for
+accurate and comprehensive detection of SARS-CoV-2 and
+other respiratory viruses, MedRxiv, 2020.
+S. Wei, Z. R. Weiss, and Z. Williams, “Rapid multiplex
+small DNA sequencing on the MinION nanopore sequencing platform,” G3: Genes, Genomes, Genetics, vol. 8, no. 5,
+R. H. Nilsson, S. Anslan, M. Bahram, C. Wurzbacher,
+P. Baldrian, and L. Tedersoo, “Mycobiome diversity: highthroughput sequencing and identiﬁcation of fungi,” Nature
+Pharmaceutical Analysis, vol. 10, no. 2, pp. 97–101, 2020.
+A. Tahamtan and A. Ardebili, “Real-time RT-PCR in
+COVID-19 detection: issues aﬀecting the results,” Expert
+T. Nolan, R. E. Hands, and S. A. Bustin, “Quantiﬁcation of
+mRNA using real-time RT-PCR,” Nature Protocols, vol. 1,
+no. 3, pp. 1559–1582, 2006.
+Roche's cobas, SARS-CoV-2 test to detect novel coronavirus
+P. Gill and A. Ghaemi, “Nucleic acid isothermal ampliﬁcation
+Acids, vol. 27, no. 3, pp. 224–243, 2008.
+P. Craw and W. Balachandran, “Isothermal nucleic acid
+ampliﬁcation technologies for point-of-care diagnostics: a
+Chemotherapy, vol. 15, no. 2, pp. 62–69, 2009.
+[38] C. Li, Q. Ying, X. Su, and T. Li, “Development and application
+of reverse transcription loop-mediated isothermal ampliﬁcation for detecting live Shewanella putrefaciens in preserved
+pp. M226–M230, 2012.
+[39] J. H. Kim, M. Kang, E. Park, D. R. Chung, J. Kim, and
+E. S. Hwang, “A simple and multiplex loop-mediated isothermal ampliﬁcation (LAMP) assay for rapid detection
+[40] P. Huang, H. Wang, Z. Cao et al., “A rapid and speciﬁc assay
+for the detection of MERS-CoV,” Frontiers in Microbiology,
+vol. 9, p. 1101, 2018.
+[41] K. Pyrc, A. Milewska, and J. Potempa, “Development of loopmediated isothermal ampliﬁcation assay for detection of
+vol. 175, no. 1, pp. 133–136, 2011.
+[42] L. Yu, S. Wu, X. Hao et al., Rapid colorimetric detection of
+COVID-19 coronavirus using a reverse tran-scriptional loopmediated isothermal ampliﬁcation (RT-LAMP) diagnostic
+plat-form: iLACO, MedRxiv, 2020.
+[43] G.-S. Park, K. Ku, S. H. Baek et al., “Development of Reverse
+Transcription Loop-Mediated Isothermal Ampliﬁcation
+[44] W. Yang, X. Dang, Q. Wang et al., Rapid detection of
+SARS-CoV-2 using reverse transcription RT-LAMP method,
+[45] M. El-Tholoth, H. H. Bau, and J. Song, A Single and TwoStage, Closed-Tube, Molecular test for the 2019 novel coronavirus (COVID-19) at home, clinic, and points of entry,
+[46] B. Babu, F. M. Ochoa-Corona, and M. L. Paret, “Recombinase
+polymerase ampliﬁcation applied to plant virus detection and
+potential implications,” Analytical Biochemistry, vol. 546,
+[47] I. M. Lobato and C. K. O'Sullivan, “Recombinase polymerase ampliﬁcation: basics, applications and recent advances,”
+Trac Trends in Analytical Chemistry, vol. 98, pp. 19–35,
+reverse transcription recombinase polymerase ampliﬁcation
+assay for rapid detection of foot-and-mouth disease virus,”
+[49] D. S. Boyle, D. A. Lehman, L. Lillis et al., “Rapid detection
+of HIV-1 proviral DNA for early infant diagnosis using
+recombinase polymerase ampliﬁcation,” MBio, vol. 4,
+[50] H. M. Amer, A. Abd el Wahed, M. A. Shalaby, F. N.
+Almajhdi, F. T. Hufert, and M. Weidmann, “A new
+approach for diagnosis of bovine coronavirus using a
+reverse transcription recombinase polymerase ampliﬁcation
+[51] A. A. El Wahed, P. Patel, D. Heidenreich, F. T. Hufert,
+and M. Weidmann, “Reverse transcription recombinase
+polymerase ampliﬁcation assay for the detection of Middle
+East respiratory syndrome coronavirus,” PLoS Currents,
+T. Yan, X. N. Li, L. Wang et al., “Development of a reverse
+transcription recombinase-aided ampliﬁcation assay for the
+detection of coxsackievirus A10 and coxsackievirus A6
+RNA,” Archives of Virology, vol. 163, no. 6, pp. 1455–
+L. Cong, F. A. Ran, D. Cox et al., “Multiplex genome engineering using CRISPR/Cas systems,” Science, vol. 339,
+no. 6121, pp. 819–823, 2013.
+P. D. Hsu, E. S. Lander, and F. Zhang, “Development and
+applications of CRISPR-Cas9 for genome engineering,” Cell,
+vol. 157, no. 6, pp. 1262–1278, 2014.
+D. Cyranoski, “CRISPR gene-editing tested in a person for
+the ﬁrst time,” Nature, vol. 539, no. 7630, p. 479, 2016.
+H. Rezaei, S. khadempar, N. Farahani et al., “Harnessing
+CRISPR/Cas9 technology in cardiovascular disease,” Trends
+in Cardiovascular Medicine, vol. 30, no. 2, pp. 93–101, 2020.
+J. S. Gootenberg, O. O. Abudayyeh, J. W. Lee et al., “Nucleic
+acid detection with CRISPR-Cas13a/C2c2,” Science,
+vol. 356, no. 6336, pp. 438–442, 2017.
+M. J. Kellner, J. G. Koob, J. S. Gootenberg, O. O. Abudayyeh,
+and F. Zhang, “SHERLOCK: nucleic acid detection with
+CRISPR nucleases,” Nature Protocols, vol. 14, no. 10,
+J. S. Gootenberg, O. O. Abudayyeh, M. J. Kellner, J. Joung, J. J.
+detection platform with Cas13, Cas12a, and Csm6,” Science,
+vol. 360, no. 6387, pp. 439–444, 2018.
+F. Zhang, O. O. Abudayyeh, and S. G. Jonathan, SHERLOCK,
+J. S. Chen, E. Ma, L. B. Harrington et al., “CRISPR-Cas12a
+target binding unleashes indiscriminate single-stranded
+DNase activity,” Science, vol. 360, no. 6387, pp. 436–439,
+detection method based on CRISPR-Cas12, BioRxiv, 2020.
+J. P. Broughton, X. Deng, G. Yu et al., “CRISPR-Cas12-based
+detection of SARS-CoV-2,” Nature Biotechnology, pp. 1–5,
+B. Vogelstein and K. W. Kinzler, “Digital PCR,” Proceedings
+of the National Academy of Sciences of the United States of
+America, vol. 96, no. 16, pp. 9236–9241, 1999.
+D. Kim, Q. Wei, J. E. Kong, A. Ozcan, and D. Di Carlo,
+“Research highlights: digital assays on chip,” Lab on a Chip,
+vol. 15, no. 1, pp. 17–22, 2015.
+P. S. Dittrich and A. Manz, “Lab-on-a-chip: microﬂuidics in
+no. 3, pp. 210–218, 2006.
+G. M. Whitesides, “The origins and the future of microﬂuidics,” Nature, vol. 442, no. 7101, pp. 368–373, 2006.
+E. K. Sackmann, A. L. Fulton, and D. J. Beebe, “The present
+and future role of microﬂuidics in biomedical research,”
+Nature, vol. 507, no. 7491, pp. 181–189, 2014.
+J. E. Kreutz, T. Munson, T. Huynh, F. Shen, W. du, and R. F.
+Ismagilov, “Theoretical design and analysis of multivolume
+digital assays with wide dynamic range validated experimen-
+tally with microﬂuidic digital PCR,” Analytical Chemistry,
+vol. 83, no. 21, pp. 8158–8168, 2011.
+Y. Xia, S. Yan, X. Zhang et al., “Monte Carlo modeling-based
+digital loop-mediated isothermal ampliﬁcation on a spiral
+chip for absolute quantiﬁcation of nucleic acids,” Analytical
+Chemistry, vol. 89, no. 6, pp. 3716–3723, 2017.
+E. A. Ottesen, J. W. Hong, S. R. Quake, and J. R. Leadbetter,
+“Microﬂuidic digital PCR enables multigene analysis of individual environmental bacteria,” Science, vol. 314, no. 5804,
+A. Gansen, A. M. Herrick, I. K. Dimov, L. P. Lee, and D. T.
+Chiu, “Digital LAMP in a sample self-digitization (SD) chip,”
+Lab on a Chip, vol. 12, no. 12, pp. 2247–2254, 2012.
+Q. Zhu, Y. Gao, B. Yu et al., “Self-priming compartmentalization digital LAMP for point-of-care,” Lab on a Chip, vol. 12,
+no. 22, pp. 4755–4763, 2012.
+T. D. Rane, L. Chen, H. C. Zec, and T.-H. Wang, “Microﬂuidic continuous ﬂow digital loop-mediated isothermal
+ampliﬁcation (LAMP),” Lab on a Chip, vol. 15, no. 3,
+N. R. Y. Ho, G. S. Lim, N. R. Sundah, D. Lim, T. P. Loh, and
+H. Shao, “Visual and modular detection of pathogen nucleic
+acids with enzyme-DNA molecular complexes,” Nature
+Communications, vol. 9, no. 1, pp. 3211–3238, 2018.
+NUSnews, NUS scientists work on COVID-19 vaccine trial
+S. K. P. Lau, P. C. Y. Woo, B. H. L. Wong et al., “Detection of
+no. 7, pp. 2884–2889, 2004.
+P. C. Y. Woo, S. K. P. Lau, B. H. L. Wong et al., “Diﬀerential sensitivities of severe acute respiratory syndrome
+(SARS) coronavirus spike polypeptide enzyme-linked
+immunosorbent assay (ELISA) and SARS coronavirus
+nucleocapsid protein ELISA for serodiagnosis of SARS
+vol. 43, no. 7, pp. 3054–3058, 2005.
+N. Dennis, Singapore claims ﬁrst use of antibody test to track
+C. Wang, W. Li, D. Drabek et al., A human monoclonal antibody blocking SARS-CoV-2 infection, BioRxiv, 2020.
+W. Zhang, R. H. du, B. Li et al., “Molecular and serological
+investigation of 2019-nCoV infected patients: implication of
+multiple shedding routes,” Emerging Microbes & Infections,
+vol. 9, no. 1, pp. 386–389, 2020.
+R. Racine and G. M. Winslow, “IgM in microbial infections:
+taken for granted?,” Immunology Letters, vol. 125, no. 2,
+Z. Li, Y. Yi, X. Luo et al., “Development and clinical application of a rapid IgM-IgG combined antibody test for
+M. Hosseiny, S. Kooraki, A. Gholamrezanezhad, S. Reddy,
+and L. Myers, “Radiology perspective of coronavirus
+disease 2019 (COVID-19): lessons from severe acute respiratory syndrome and Middle East respiratory syndrome,”
+L. Ketai, N. S. Paul, and K. T. Wong, “Radiology of severe
+acute respiratory syndrome (SARS): the emerging
+pathologic-radiologic correlates of an emerging disease,”
+K. M. Das, E. Y. Lee, R. D. Langer, and S. G. Larsson, “Middle
+vol. 206, no. 6, pp. 1193–1201, 2016.
+K. M. Das, E. Y. Lee, R. Singh et al., “Follow-up chest radiographic ﬁndings in patients with MERS-CoV after recovery,”
+G. E. Antonio, K. T. Wong, E. L. H. Tsui et al., “Chest radiograph scores as potential prognostic indicators in severe acute
+M. Chung, A. Bernheim, X. Mei et al., “CT imaging features
+of 2019 novel coronavirus (2019-nCoV),” Radiology,
+vol. 295, no. 1, pp. 202–207, 2020.
+J. F.-W. Chan, S. Yuan, K. H. Kok et al., “A familial cluster
+of pneumonia associated with the 2019 novel coronavirus
+indicating person-to-person transmission: a study of a
+family cluster,” The Lancet, vol. 395, no. 10223, pp. 514–
+P. Liu and X. Z. Tan, “2019 novel coronavirus (2019-nCoV)
+pneumonia,” Radiology, vol. 295, no. 1, p. 19, 2020.
+The Guardian, What happens to people's lungs when they get
+A. Curry, H. Appleton, and B. Dowsett, “Application of
+transmission electron microscopy to the clinical study of viral
+and bacterial infections: present and future,” Micron, vol. 37,
+no. 2, pp. 91–106, 2006.
+X. Liu, R. Deng, Y. Zhang et al., “Probing the nature of
+upconversion nanocrystals: instrumentation matters,”
+R. Fernandez-Leiro and S. H. W. Scheres, “Unravelling biological macromolecules with cryo-electron microscopy,”
+Nature, vol. 537, no. 7620, pp. 339–346, 2016.
+M. K. Monninger, C. A. Nguessan, C. D. Blancett et al.,
+“Preparation of viral samples within biocontainment for
+Methods, vol. 238, pp. 70–76, 2016.
+R. Xiong, L. Zhang, S. Li et al., Novel and potent inhibitors targeting DHODH, a rate-limiting enzyme in de novo pyrimidine
+biosynthesis, are broad-spectrum antiviral against RNA
+viruses including newly emerged coronavirus SARS-CoV-2,
+J. W. Astin, P. Keerthisinghe, L. Du, L. E. Sanderson, K. E.
+Crosier, and C. J. Hall, “Innate immune cells and bacterial
+infection in zebraﬁsh,” in Methods in Cell Biology, H. W. Det-
+rich, M. Westerﬁeld, and L. I. Zon, Eds., vol. 138, pp. 31–60,
+Academic Press, 2017.
+T. I. Oprea, J. E. Bauman, C. G. Bologa et al., “Drug repurposing from an academic perspective,” Drug Discovery Today:
+Therapeutic Strategies, vol. 8, no. 3-4, pp. 61–69, 2011.
+A. Pizzorno, B. Padey, O. Terrier, and M. Rosa-Calatrava,
+“Drug repurposing approaches for the treatment of inﬂuenza viral infection: reviving old drugs to ﬁght against a
+long-lived enemy,” Frontiers in Immunology, vol. 10,
+R. Vardanyan and V. Hruby, “Chapter 34 - Antiviral Drugs,”
+in Synthesis of Best-Seller Drugs, R. Vardanyan and V. Hruby,
+Eds., pp. 687–736, Academic Press, 2016.
+W. Tai, L. He, X. Zhang et al., “Characterization of the
+receptor-binding domain (RBD) of 2019 novel coronavirus:
+implication for development of RBD protein as a viral
+attachment inhibitor and vaccine,” Cellular & Molecular
+N. Wang, J. Shang, S. Jiang, and L. Du, “Subunit vaccines
+against emerging pathogenic human coronaviruses,” Frontiers in Microbiology, vol. 11, 2020.
+L. Du, W. Tai, Y. Zhou, and S. Jiang, “Vaccines for the
+prevention against the threat of MERS-CoV,” Expert
+Y. Zhou, S. Jiang, and L. Du, “Prospects for a MERS-CoV
+S. Belouzard, J. K. Millet, B. N. Licitra, and G. R. Whittaker,
+“Mechanisms of coronavirus cell entry mediated by the viral
+spike protein,” Viruses, vol. 4, no. 6, pp. 1011–1033, 2012.
+W. Li, M. J. Moore, N. Vasilieva et al., “Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus,” Nature, vol. 426, no. 6965, pp. 450–454, 2003.
+V. S. Raj, H. Mou, S. L. Smits et al., “Dipeptidyl peptidase 4 is
+a functional receptor for the emerging human coronavirusEMC,” Nature, vol. 495, no. 7440, pp. 251–254, 2013.
+Y. Chen, Y. Guo, Y. Pan, and Z. J. Zhao, “Structure analysis of the receptor binding of 2019-nCoV,” Biochemical
+and Biophysical Research Communications, vol. 525,
+no. 1, pp. 135–140, 2020.
+M. Letko, A. Marzi, and V. Munster, “Functional assessment
+of cell entry and receptor usage for SARS-CoV-2 and other
+lineage B betacoronaviruses,” Nature Microbiology, vol. 5,
+no. 4, pp. 562–569, 2020.
+M. Hoﬀmann, H. Kleine-Weber, S. Schroeder et al., “SARSCoV-2 cell entry depends on ACE2 and TMPRSS2 and is
+blocked by a clinically proven protease inhibitor,” Cell,
+vol. 181, no. 2, pp. 271–280.e8, 2020.
+M. J. Huentelman, J. Zubcevic, J. A. Hernández Prada et al.,
+“Structure-based discovery of a novel angiotensinconverting enzyme 2 inhibitor,” Hypertension, vol. 44, no. 6,
+T. Qaradakhi, L. K. Gadanec, K. R. McSweeney et al., “The
+potential actions of angiotensin converting enzyme II
+(ACE2) activator diminazene aceturate (DIZE) in various
+diseases,” Clinical and Experimental Pharmacology and Physiology, vol. 47, no. 5, pp. 751–758, 2020.
+M. A. R. Chamsi-Pasha, Z. Shao, and W. H. W. Tang,
+“Angiotensin-converting enzyme 2 as a therapeutic target
+for heart failure,” Current Heart Failure Reports, vol. 11,
+no. 1, pp. 58–63, 2014.
+[117] L. P. Hasvold, J. Bodegård, M. Thuresson et al., “Diabetes and
+CVD risk during angiotensin-converting enzyme inhibitor or
+angiotensin II receptor blocker treatment in hypertension: a
+vol. 28, no. 11, pp. 663–669, 2014.
+[118] W. B. White, C. Wilson, G. Bakris et al., “Ace inhibitor use
+and major cardiovascular outcomes in type 2 diabetes treated
+[119] G. I. Rice, D. A. Thomas, P. J. Grant, A. J. Turner, and N. M.
+Hooper, “Evaluation of angiotensin-converting enzyme
+(ACE), its homologue ACE2 and neprilysin in angiotensin
+[120] A. B. Patel and A. Verma, “COVID-19 and angiotensinconverting enzyme inhibitors and angiotensin receptor
+vol. 323, no. 18, pp. 1749–1862, 2020.
+[121] L. Fang, G. Karakiulakis, and M. Roth, “Are patients with
+hypertension and diabetes mellitus at increased risk for
+COVID-19 infection?,” The Lancet Respiratory Medicine,
+[122] R. U. Kadam and I. A. Wilson, “Structural basis of inﬂuenza
+virus fusion inhibition by the antiviral drug Arbidol,” Proceedings of the National Academy of Sciences of the United
+States of America, vol. 114, no. 2, pp. 206–214, 2017.
+[123] Z. Shen, K. Lou, and W. Wang, “New small-molecule drug
+design strategies for ﬁghting resistant inﬂuenza A,” Acta
+Pharmaceutica Sinica B, vol. 5, no. 5, pp. 419–430, 2015.
+[124] I. A. Leneva, R. J. Russell, Y. S. Boriskin, and A. J. Hay,
+“Characteristics of arbidol-resistant mutants of inﬂuenza
+virus: implications for the mechanism of anti-inﬂuenza
+action of arbidol,” Antiviral Research, vol. 81, no. 2,
+[125] E. Teissier, G. Zandomeneghi, A. Loquet et al., “Mechanism
+[126] J. Villalaín, “Membranotropic eﬀects of arbidol, a broad antiviral molecule, on phospholipid model membranes,” The
+[127] Z. Wang, X. Chen, Y. Lu, F. Chen, and W. Zhang, “Clinical
+characteristics and therapeutic procedure for four cases
+with 2019 novel coronavirus pneumonia receiving combined
+Chinese and Western medicine treatment,” BioScience
+Trends, vol. 14, no. 1, pp. 64–68, 2020.
+[128] L. Dong, S. Hu, and J. Gao, “Discovering drugs to treat
+coronavirus disease 2019 (COVID-19),” Drug Discoveries
+& Therapeutics, vol. 14, no. 1, pp. 58–60, 2020.
+[129] A. Savarino, J. R. Boelaert, A. Cassone, G. Majori, and
+R. Cauda, “Eﬀects of chloroquine on viral infections: an old
+drug against today's diseases,” The Lancet Infectious Diseases,
+vol. 3, no. 11, pp. 722–727, 2003.
+Cell Biology, vol. 90, no. 3, pp. 665–669, 1981.
+[131] E. Schrezenmeier and T. Dörner, “Mechanisms of action of
+[132] M. Mauthe, I. Orhon, C. Rocchi et al., “Chloroquine
+inhibits autophagic ﬂux by decreasing autophagosomelysosome fusion,” Autophagy, vol. 14, no. 8, pp. 1435–
+[133] A. Savarino, L. Di Trani, I. Donatelli, R. Cauda, and
+A. Cassone, “New insights into the antiviral eﬀects of chloroquine,” The Lancet Infectious Diseases, vol. 6, no. 2,
+[134] A. Savarino, M. B. Lucia, E. Rastrelli et al., “Anti-HIV eﬀects
+Acquired Immune Deﬁciency Syndromes, vol. 35, no. 3,
+[135] J. Liu, R. Cao, M. Xu et al., “Hydroxychloroquine, a less
+toxic derivative of chloroquine, is eﬀective in inhibiting
+SARS-CoV-2 infection in vitro,” Cell Discovery, vol. 6,
+no. 1, p. 16, 2020.
+[136] M. J. Vincent, E. Bergeron, S. Benjannet et al., “Chloroquine
+is a potent inhibitor of SARS coronavirus infection and
+[137] E. Keyaerts, L. Vijgen, P. Maes, J. Neyts, and M. V. Ranst, “In
+vitro inhibition of severe acute respiratory syndrome coronavirus by chloroquine,” Biochemical and Biophysical Research
+Communications, vol. 323, no. 1, pp. 264–268, 2004.
+[138] M. Wang, R. Cao, L. Zhang et al., “Remdesivir and chloroquine eﬀectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro,” Cell Research, vol. 30, no. 3,
+[139] J. Gao, Z. Tian, and X. Yang, “Breakthrough: chloroquine
+phosphate has shown apparent eﬃcacy in treatment of
+COVID-19 associated pneumonia in clinical studies,” BioScience Trends, vol. 14, no. 1, pp. 72-73, 2020.
+[140] P. Colson, J.-M. Rolain, J.-C. Lagier, P. Brouqui, and
+[141] X. Yao, F. Ye, M. Zhang et al., “In vitro antiviral activity and
+projection of optimized dosing design of hydroxychloroquine
+for the treatment of severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2),” Clinical Infectious Diseases,
+[142] S. Pasadhika and G. A. Fishman, “Eﬀects of chronic exposure
+to hydroxychloroquine or chloroquine on inner retinal structures,” Eye, vol. 24, no. 2, pp. 340–346, 2010.
+[143] E. W. McChesney, “Animal toxicity and pharmacokinetics
+Medicine, vol. 75, no. 1, pp. 11–18, 1983.
+[144] J. Konvalinka, H.-G. Kräusslich, and B. Müller, “Retroviral
+proteases and their roles in virion maturation,” Virology,
+vol. 479-480, pp. 403–417, 2015.
+[145] J. K. Millet and G. R. Whittaker, “Host cell proteases: critical
+determinants of coronavirus tropism and pathogenesis,”
+Virus Research, vol. 202, pp. 120–134, 2015.
+[146] S. Bertram, A. Heurich, H. Lavender et al., “Inﬂuenza and
+SARS-coronavirus activating proteases TMPRSS2 and HAT
+are expressed at multiple sites in human respiratory and
+[147] C. Liu, Q. Zhou, Y. Li et al., “Research and development on
+therapeutic agents and vaccines for COVID-19 and related
+human coronavirus diseases,” ACS Central Science, vol. 6,
+no. 3, pp. 315–331, 2020.
+J. Ziebuhr, E. J. Snijder, and A. E. Gorbalenya, “Virusencoded proteinases and proteolytic processing in the
+Y. M. Báez-Santos, S. E. St John, and A. D. Mesecar, “The
+SARS-coronavirus papain-like protease: structure, function
+and inhibition by designed antiviral compounds,” Antiviral
+Research, vol. 115, pp. 21–38, 2015.
+T.-W. Lee, M. M. Cherney, C. Huitema et al., “Crystal Structures of the Main Peptidase from the SARS Coronavirus
+of Molecular Biology, vol. 353, no. 5, pp. 1137–1151, 2005.
+M. Kawase, K. Shirato, L. van der Hoek, F. Taguchi, and
+S. Matsuyama, “Simultaneous treatment of human bronchial
+epithelial cells with serine and cysteine protease inhibitors
+prevents severe acute respiratory syndrome coronavirus
+Y. Zhou, P. Vedantham, K. Lu et al., “Protease inhibitors targeting coronavirus and ﬁlovirus entry,” Antiviral Research,
+vol. 116, pp. 76–84, 2015.
+N. Ashizawa, T. Hashimoto, T. Miyake, T. Shizuku,
+T. Imaoka, and Y. Kinoshita, “Eﬃcacy of camostat mesilate
+J. Gibo, T. Ito, K. Kawabe et al., “Camostat mesilate attenuates pancreatic ﬁbrosis via inhibition of monocytes and pancreatic stellate cells activity,” Laboratory Investigation,
+vol. 85, no. 1, pp. 75–89, 2005.
+H. Ishikura, S. Nishimura, M. Matsunami et al., “The proteinase inhibitor camostat mesilate suppresses pancreatic
+pain in rodents,” Life Sciences, vol. 80, no. 21, pp. 1999–
+K. Shirato, M. Kawase, and S. Matsuyama, “Middle East
+respiratory syndrome coronavirus infection mediated by
+Virology, vol. 87, no. 23, pp. 12552–12561, 2013.
+E. De Clercq, “Anti-HIV drugs: 25 compounds approved
+within 25 years after the discovery of HIV,” International
+M. W. Hull and J. S. G. Montaner, “Ritonavir-boosted protease inhibitors in HIV therapy,” Annals of Medicine, vol. 43,
+no. 5, pp. 375–388, 2011.
+C. M. Chu, V. C. Cheng, I. F. Hung et al., “Role of lopinavir/ritonavir in the treatment of SARS: initial virological and
+clinical ﬁndings,” Thorax, vol. 59, no. 3, pp. 252–256, 2004.
+B. Cao, Y. Wang, D. Wen et al., “A trial of lopinavir–ritonavir
+in adults hospitalized with severe Covid-19,” The New
+J. Chen, Z. Liang, W. Wang, C. Yi, S. Zhang, and Q. Zhang,
+“Revealing origin of decrease in potency of darunavir and
+amprenavir against HIV-2 relative to HIV-1 protease by
+molecular dynamics simulations,” Scientiﬁc Reports, vol. 4,
+H. Hayashi, N. Takamune, T. Nirasawa et al., “Dimerization
+of HIV-1 protease occurs through two steps relating to the
+mechanism of protease dimerization inhibition by darunavir,” Proceedings of the National Academy of Sciences of the
+United States of America, vol. 111, no. 33, pp. 12234–
+S. Lin, R. Shen, J. He, X. Li, and X. Guo, Molecular modeling
+evaluation of the binding eﬀect of ritonavir, lopinavir and
+darunavir to severe acute respiratory syndrome coronavirus
+2 proteases, bioRxiv, 2020.
+B. J. Eckhardt and R. M. Gulick, “Drugs for HIV Infection,” in Infectious Diseases (Fourth Edition), J. Cohen,
+W. G. Powderly, and S. M. Opal, Eds., pp. 1293–1308.
+e2, Elsevier, 2017.
+J. Magden, L. Kääriäinen, and T. Ahola, “Inhibitors of
+virus replication: recent developments and prospects,”
+Applied Microbiology and Biotechnology, vol. 66, no. 6,
+J. Lung, Y. S. Lin, Y. H. Yang et al., “The potential chemical
+E. Thomas, M. G. Ghany, and T. J. Liang, “The application
+and mechanism of action of ribavirin in therapy of hepatitis
+C,” Antiviral Chemistry and Chemotherapy, vol. 23, no. 1,
+S. Crotty, D. Maag, J. J. Arnold et al., “The broad-spectrum
+antiviral ribonucleoside ribavirin is an RNA virus mutagen,”
+Nature Medicine, vol. 6, no. 12, pp. 1375–1379, 2000.
+D. Dulin, J. J. Arnold, T. van Laar et al., “Signatures of
+nucleotide analog incorporation by an RNA-dependent
+rna polymerase revealed using high-throughput magnetic
+tweezers,” Cell Reports, vol. 21, no. 4, pp. 1063–1076, 2017.
+G. Koren, S. King, S. Knowles, and E. Phillips, “Ribavirin in
+the treatment of SARS: a new trick for an old drug?,” CMAJ,
+vol. 168, no. 10, pp. 1289–1292, 2003.
+S. Crotty, C. E. Cameron, and R. Andino, “RNA virus error
+catastrophe: direct molecular test by using ribavirin,” Proceedings of the National Academy of Sciences of the United
+States of America, vol. 98, no. 12, pp. 6895–6900, 2001.
+H. S. Te, G. Randall, and D. M. Jensen, “Mechanism of action
+of ribavirin in the treatment of chronic hepatitis C,” Gastroenterology & Hepatology, vol. 3, no. 3, pp. 218–225, 2007.
+D. Y. Tai, “Pharmacologic treatment of SARS: current knowledge and recommendations,” Annals Academy of Medicine,
+vol. 36, pp. 438–443, 2007.
+J. Dyall, R. Gross, J. Kindrachuk et al., “Middle East respiratory syndrome and severe acute respiratory syndrome: current therapeutic options and potential targets for novel
+therapies,” Drugs, vol. 77, no. 18, pp. 1935–1966, 2017.
+J. A. Al-Tawﬁq, H. Momattin, J. Dib, and Z. A. Memish,
+“Ribavirin and interferon therapy in patients infected with
+vol. 20, pp. 42–46, 2014.
+H. Momattin, K. Mohammed, A. Zumla, Z. A. Memish, and
+pp. e792–e798, 2013.
+Y. P. Chong, J. Y. Song, Y. B. Seo, J. P. Choi, H. S. Shin, and
+Rapid Response Team, “Antiviral treatment guidelines for
+Middle East respiratory syndrome,” Infection & Chemotherapy, vol. 47, no. 3, pp. 212–222, 2015.
+R. Abdelnabi, A. T. S. . Morais, P. Leyssen et al., “Understanding the mechanism of the broad-spectrum antiviral activity of
+favipiravir (T-705): key role of the F1 motif of the viral
+F. Pettini, A. Trezza, and O. Spiga, “A Focus on Ebola Virus
+Polymerase,” Viral Polymerases, pp. 181–210, 2019.
+Y. Furuta, B. B. Gowen, K. Takahashi, K. Shiraki, D. F. Smee,
+and D. L. Barnard, “Favipiravir (T-705), a novel viral RNA
+polymerase inhibitor,” Antiviral Research, vol. 100, no. 2,
+Y. Furuta, T. Komeno, and T. Nakamura, “Favipiravir (T705), a broad spectrum inhibitor of viral RNA polymerase,”
+Proceedings of the Japan Academy, Series B, vol. 93, no. 7,
+Q. Cai, M. Yang, D. Liu et al., “Experimental treatment with
+favipiravir for COVID-19: an open-label control study,”
+C. Chen et al., Favipiravir versus arbidol for COVID-19: a
+randomized clinical trial, medRxiv, 2020.
+T. K. Warren, R. Jordan, M. K. Lo et al., “Therapeutic eﬃcacy
+of the small molecule GS-5734 against Ebola virus in rhesus
+monkeys,” Nature, vol. 531, no. 7594, pp. 381–385, 2016.
+J. A. Al-Tawﬁq, A. H. Al-Homoud, and Z. A. Memish,
+“Remdesivir as a possible therapeutic option for the
+COVID-19,” Travel Medicine and Infectious Disease,
+T. P. Sheahan, A. C. Sims, S. R. Leist et al., “Comparative therapeutic eﬃcacy of remdesivir and combination lopinavir,
+ritonavir, and interferon beta against MERS-CoV,” Nature
+Communications, vol. 11, no. 1, p. 222, 2020.
+Centers for Disease Control and Prevention, Information
+for clinicians on therapeutic options for COVID-19 patients,
+Chinese Centre for Disease Control and Prevention,
+D. E. Anderson, J. Cui, Q. Ye et al., Orthogonal genome-wide
+screenings in bat cells identify MTHFD1 as a target of broad
+antiviral therapy, bioRxiv, 2020.
+G. S. Ducker and J. D. Rabinowitz, “One-carbon metabolism
+in health and disease,” Cell Metabolism, vol. 25, no. 1, pp. 27–
+C. Apel, A. Barg, A. Rheinberg, G. Conrads, and I. WagnerDöbler, “Dental composite materials containing carolacton
+inhibit bioﬁlm growth of Streptococcus mutans,” Dental
+Materials, vol. 29, no. 11, pp. 1188–1199, 2013.
+J. Donner, M. Reck, B. Bunk et al., “The bioﬁlm inhibitor
+carolacton enters gram-negative cells: studies using a TolCdeﬁcient strain of Escherichia coli,” mSphere, vol. 2, no. 5,
+B. Kunze, M. Reck, A. Dötsch et al., “Damage of Streptococcus
+mutans bioﬁlms by carolacton, a secondary metabolite from
+the myxobacterium Sorangium cellulosum,” BMC Microbiology, vol. 10, no. 1, p. 199, 2010.
+S. Sainas, F. Dosio, D. Boschi, and M. L. Lolli, “Targeting
+human onchocerciasis: recent advances beyond ivermectin,”
+in Annual Reports in Medicinal Chemistry, M. Botta, Ed.,
+vol. 51, pp. 1–8, Academic Press, Cambridge, MA, USA,
+K. M. Wagstaﬀ, H. Sivakumaran, S. M. Heaton, D. Harrich,
+and D. A. Jans, “Ivermectin is a speciﬁc inhibitor of importin
+α/β-mediated nuclear import able to inhibit replication of
+no. 3, pp. 851–856, 2012.
+L. Caly, J. D. Druce, M. G. Catton, D. A. Jans, and K. M.
+Wagstaﬀ, “The FDA-approved drug ivermectin inhibits the
+replication of SARS-CoV-2 in vitro,” Antiviral Research,
+R. Yang, J. Xu, L. Xu et al., “Cancer cell membrane-coated
+for synergistic photodynamic/chemotherapy,” ACS Nano,
+vol. 12, no. 2, pp. 1630–1641, 2018.
+C. Yao, W. Wang, P. Wang, M. Zhao, X. Li, and F. Zhang,
+“Near-infrared upconversion mesoporous cerium oxide hollow biophotocatalyst for concurrent pH-/H2O2-responsive
+O2-evolving synergetic cancer therapy,” Advanced Materials,
+G. Gao, Y.-W. Jiang, H.-R. Jia, and F.-G. Wu, “Near-infrared
+light-controllable on-demand antibiotics release using thermosensitive hydrogel-based drug reservoir for combating bacterial infection,” Biomaterials, vol. 188, pp. 83–95, 2019.
+no. 6, pp. 1420–1431.e17, 2019.
+M. Rai, S. D. Deshmukh, A. P. Ingle, I. R. Gupta,
+in Microbiology, vol. 42, no. 1, pp. 46–56, 2014.
+N. G. Portney and M. Ozkan, “Nano-oncology: drug delivery, imaging, and sensing,” Analytical and Bioanalytical
+Chemistry, vol. 384, no. 3, pp. 620–630, 2006.
+virus,” Applied and Environmental Microbiology, vol. 78,
+no. 4, pp. 951–955, 2012.
+S. Galdiero, A. Falanga, M. Vitiello, M. Cantisani,
+S. Herold and L.-E. Sander, “Toward a universal ﬂu vaccine,”
+Science, vol. 367, no. 6480, pp. 852-853, 2020.
+K. Shen, Y. Yang, T. Wang et al., “Diagnosis, treatment,
+and prevention of 2019 novel coronavirus infection in
+Z.-M. Chen, J. F. Fu, Q. Shu et al., “Diagnosis and treatment
+recommendations for pediatric respiratory infection caused
+A. Casadevall and L. Pirofski, “The convalescent sera option
+vol. 130, no. 4, pp. 1545–1548, 2020.
+L. Chen, J. Xiong, L. Bao, and Y. Shi, “Convalescent plasma as
+a potential therapy for COVID-19,” The Lancet Infectious
+Diseases, vol. 20, no. 4, pp. 398–400, 2020.
+A. Maxmen, “More than 80 clinical trials launch to test
+coronavirus treatments,” Nature, vol. 578, no. 7795,
+X. Tian, C. Li, A. Huang et al., “Potent binding of 2019 novel
+coronavirus spike protein by a SARS coronavirus-speciﬁc
+human monoclonal antibody,” Emerging Microbes & Infections, vol. 9, no. 1, pp. 382–385, 2020.
+E. Villamor, R. Mbise, D. Spiegelman et al., “Vitamin A
+supplements ameliorate the adverse eﬀect of HIV-1,
+P. P. Glasziou and D. E. Mackerras, “Vitamin A supplementation in infectious diseases: a meta-analysis,” BMJ, vol. 306,
+no. 6874, pp. 366–370, 1993.
+Antimicrobial Chemotherapy, vol. 52, no. 6, pp. 1049-1050,
+A. R. Martineau, D. A. Jolliﬀe, R. L. Hooper et al., “Vitamin D
+supplementation to prevent acute respiratory tract infections:
+A. J. W. te Velthuis, S. H. E. van den Worm, A. C. Sims, R. S.
+Baric, E. J. Snijder, and M. J. van Hemert, “Zn2+ inhibits coronavirus and arterivirus rna polymerase activity in vitro and
+zinc ionophores block the replication of these viruses in cell
+Z. S. Lassi, A. Moin, Z. A. Bhutta, and Cochrane Acute Respiratory Infections Group, “Zinc supplementation for the prevention of pneumonia in children aged 2 months to 59
+C. Alberda, L. Gramlich, N. Jones et al., “The relationship
+between nutritional intake and clinical outcomes in critically
+ill patients: results of an international multicenter observational study,” Intensive Care Medicine, vol. 35, no. 10,
+M. Kalaiselvan, M. K. Renuka, and A. S. Arunkumar, “Use of
+nutrition risk in critically ill (NUTRIC) score to assess nutritional risk in mechanically ventilated patients: a prospective
+X. Yang, Y. Yu, J. Xu et al., “Clinical course and outcomes of
+critically ill patients with SARS-CoV-2 pneumonia in
+Wuhan, China: a single-centered, retrospective, observational
+study,” The Lancet Respiratory Medicine, vol. 8, no. 5,
+[225] Z. Wu and J. M. McGoogan, “Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19)
+outbreak in China,” JAMA, vol. 323, no. 13, pp. 1239–1242,
+[226] H.-Y. Kim, H. S. Shin, H. Park et al., “In vitro inhibition of
+coronavirus replications by the traditionally used medicinal
+herbal extracts, Cimicifuga rhizoma, Meliae cortex, Coptidis
+Virology, vol. 41, no. 2, pp. 122–128, 2008.
+[227] J.-R. Weng, C. S. Lin, H. C. Lai et al., “Antiviral activity of
+Sambucus FormosanaNakai ethanol extract and related phenolic acid constituents against human coronavirus NL63,”
+[228] L.-x. Nie, Y.-l. Wu, Z. Dai, and S.-c. Ma, “Antiviral activity of
+[229] J. Ren, A.-H. Zhang, and X.-J. Wang, “Traditional Chinese
+medicine for COVID-19 treatment,” Pharmacological
+[230] Y. Han, M. R. Zhao, B. Shi, Z. H. Song, S. P. Zhou, and Y. He,
+“Application of integrative medicine protocols on treatment
+of coronavirus disease 2019,” Chinese Traditional and Herbal
+Drugs, vol. 51, pp. 878–882, 2020.
+[232] Y. Song, C. Yao, Y. Yao et al., “XueBiJing injection versus
+placebo for critically ill patients with severe communityacquired pneumonia: a randomized controlled trial,” Critical
+Care Medicine, vol. 47, no. 9, pp. e735–e743, 2019.
+[233] P. Van Pham and N. K. Phan, “Welcome to progress in stem
+cell,” Progress in Stem Cell, vol. 1, no. 1, pp. 1-2, 2014.
+[234] J. Chen, C. Hu, L. Chen et al., “Clinical study of mesenchymal
+stem cell treatment for acute respiratory distress syndrome
+induced by epidemic inﬂuenza A (H7N9) infection: a hint
+for COVID-19 treatment,” Engineering, 2020.
+[235] B. Liang, J. Chen, T. Li et al., Clinical remission of a critically
+ill COVID-19 patient treated by human umbilical cord mesenchymal stem cells, ChinaXiv, 2020.
+[236] Z. Leng, R. Zhu, W. Hou et al., “Transplantation of ACE2mesenchymal stem cells improves the outcome of patients
+with COVID-19 pneumonia,” Aging and Disease, vol. 11,
+no. 2, pp. 216–228, 2020.
+of investigational vaccine for COVID-19 begins, 2020,
+[239] DRAFT landscape of COVID-19 candidate vaccines-20
+[240] M. H. Wolﬀ, S. A. Sattar, O. Adegbunrin, and J. Tetro, “Environmental survival and microbicide inactivation of coronaviruses,” in Coronaviruses with Special Emphasis on First
+Insights Concerning SARS, A. Schmidt, O. Weber, and M. H.
+Wolﬀ, Eds., pp. 201–212, Birkhäuser Advances in Infectious
+Diseases BAID, Birkhäuser Basel, 2005.
+N. van Doremalen, T. Bushmaker, D. H. Morris et al., “Aerosol and surface stability of SARS-CoV-2 as compared with
+no. 16, pp. 1564–1567, 2020.
+Key export products for COVID-19 diagnosis & treatment,
+Researchers develop new test kit to detect coronavirus in
+J. P. Broughton, W. Deng, C. L. Fasching, J. Singh, C. Y. Chiu,
+and J. S. Chen, A protocol for rapid detection of the 2019 novel
+Channelnewsasia, New COVID-19 test kits used to screen swab
+S. F. Ahmed, A. A. Quadeer, and M. R. McKay, “Preliminary
+identiﬁcation of potential vaccine targets for the COVID-19
+coronavirus (SARS-CoV-2) based on SARS-CoV immunological studies,” Viruses, vol. 12, no. 3, p. 254, 2020.
+Q. Li, J. Yin, Q. S. Ran et al., “Eﬃcacy and mechanism of
+Lianhua Qingwen Capsules(LHQW) on chemotaxis of macrophages in acute lung injury (ALI) animal model,” China
+X. Chen, Y. Feng, X. Shen et al., “Anti-sepsis protection of
+Xuebijing injection is mediated by diﬀerential regulation of
+pro- and anti-inﬂammatory Th17 and T regulatory cells in
+[254] Y. Zhang, B. Chi-Yan Cheng, R. Xie, B. Xu, X. Y. Gao, and
+G. Luo, “Re-Du-Ninginhalation solution exerts suppressive
+eﬀect on the secretion of inﬂammatory mediatorsviainhibiting IKKα/β/IκBα/NF-κB, MAPKs/AP-1, and TBK1/IRF3
+signaling pathways in lipopolysaccharide stimulated RAW
+264.7 macrophages,” RSC Advances, vol. 9, no. 16, pp. 8912–
+[255] S. Peng, N. Hang, W. Liu et al., “Andrographolide sulfonate
+ameliorates lipopolysaccharide-induced acute lung injury in
+mice by down-regulating MAPK and NF-κB pathways,” Acta
+Pharmaceutica Sinica B, vol. 6, no. 3, pp. 205–211, 2016.
+[256] W. Liu, H. L. Jiang, L. L. Cai, M. Yan, S. J. Dong, and B. Mao,
+“Tanreqing injection attenuates lipopolysaccharide-induced
+airway inﬂammation through MAPK/NF-κB signaling
+pathways in rats model,” Evidence-Based Complementary
+[257] Y. Lyu, L. S. Fu, J. Zhou, J. Cai, X. Y. Chen, and H. L. Zhong,
+“Action mechanism of Shenfu injection by computational
+Traditional Medical Formulae, vol. 21, pp. 217–221, 2015.

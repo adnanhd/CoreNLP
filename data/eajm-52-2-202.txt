@@ -1,0 +1,1073 @@
+Eurasian J Med 2020; 52(2): 202-10
+Neonates with COVID-19
+Feride Marim1 , Dilek Karadogan2 , Tugba Sismanlar Eyuboglu3 , Nagehan Emiralioglu4 , Canan Gunduz Gurkan5
+Zehra Nur Toreyin6 , Fatma Tokgoz Akyil7 , Aycan Yuksel8 , Huseyin Arikan9 , Irem Serifoglu10 ,
+Tugba Ramasli Gursoy3 , Abdulsamet Sandal11 , Metin Akgun12
+Eyuboglu T. Lessons Learned So Far from the Pandemic:
+Eurasian J Med 2020; 52(2): 202-10.
+Department of Chest Diseases, Recep Tayyip
+Department of Pediatric Pulmonology, Gazi
+Department of Pediatric Pulmonology Hacettepe
+Department of Chest Diseases, Sureyyapasa
+Chest Diseases and Thoracic Surgery Training and
+Research Hospital, Istanbul, Turkey
+Department of Occupational Health and Diseases, Adana
+City Research and Training Hospital, Adana, Turkey
+Department of Chest Diseases, Yedikule Chest
+Diseases and Thoracic Surgery Training and
+Research Hospital, Istanbul, Turkey
+Internal Medicine Intensive Care Unit, Van, Turkey
+Department of Chest Diseases Kirikhan State
+Hospital, Hatay, Turkey
+Department of Occupational Diseases, Ankara
+Occupational and Environmental Diseases Hospital,
+Ankara, Turkey
+Correspondence to: Dilek Karadogan
+There are concerns regarding the risk and the course of COVID-19 in pregnancy and in the neonates. In this
+(SARS-CoV-2) infection during pregnancy and neonatal periods considering diagnosis, treatment, prognosis,
+and prevention. Few studies on pregnant women with COVID-19 have been conducted between December
+2019 and April 2020. The majority of patients applied in the third trimester and presented with fever and
+cough. Ground-glass opacities and consolidation on computed tomography were reported to be common.
+COVID-19 was proposed to have a milder course than SARS and the Middle East respiratory syndrome
+coronavirus in pregnant women. Hydroxychloroquine and antiproteases (lopinavir/ritonavir) were reported
+to be safe; however, therapeutic efficacy and safety of remdesivir still lack evidence. As ribavirin and favipiravir
+have teratogenic effects, there are some debates on the use of ribavirin in severe cases. There is still no clear
+evidence of vertical transmission of SARS-CoV-2 during delivery. Occupational safety issues of pregnant
+healthcare workers on the frontline should be considered as their risk to develop severe pneumonia is higher
+because of altered maternal immune response. Knowledge about neonatal outcomes of COVID-19 was
+based on studies of the last trimester of pregnancy. There is much to be learnt about COVID-19 in pregnant
+women and in the neonates, especially concerning prognosis- and treatment-related issues.
+Keywords: Coronavirus disease 2019, pregnancy, neonate, vertical transmission
+Coronavirus disease 2019 (COVID-19) is a new respiratory disease caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2). It was reported first in Wuhan, China and
+promptly spread to other countries across the world. Considering the large and rapidly rising
+number of cases with COVID-19 and the resultant deaths, the outbreak has become a major
+health problem in a short period of time [1]. Despite substantial data regarding the high transmission rate of the disease with a broad spectrum of severities, knowledge with respect to two
+special patient groups, pregnant women and neonates, is still limited.
+Previous studies have shown that COVID-19 pneumonia is more prevalent in men, and that
+fewer cases in children are reported [2, 3]. However, women also experience viral infections
+severely during pregnancy. Pregnancy itself alters the body’s immune system, and immunosuppression makes pregnant women susceptible to infectious diseases [4]. Thus, viral pneumonia, in
+particular, is one of the important causes of deaths worldwide in pregnancy [5]. Consequently,
+there are many new questions on how COVID-19 might affect the morbidity and mortality of
+pregnant women and neonates.
+Pregnancy and COVID-19
+There have been few studies on pregnancy during COVID-19 pandemic. Between December 8,
+2019 and March 20, 2020, 118 pregnant women with 8% having severe disease were reported
+among COVID-19 cases in Wuhan city in China. The pregnant patients represented 0.24% of
+all reported patients with COVID-19 [6]. In a study of the Centers for Disease Control and
+Prevention (CDC) COVID-19 response team, they reported 74,439 cases with COVID-19
+between February 12, 2020 and March 28, 2020 in the United States. Among 7,162 patients
+Eurasian J Med 2020; 52(2): 202-10
+with complete information, 143 (2%) were
+pregnant and four of them admitted to the
+intensive care unit (ICU) [7]. Previous data on
+other coronavirus infections suggest that clinical
+findings during pregnancy can range from no
+symptoms to severe disease and death [8]. The
+majority of pregnant patients were found to
+be in the third trimester. The most common
+symptoms in pregnant patients with available
+data were fever and cough. Chest pain, fatigue,
+dyspnea, sore throat, diarrhea, and headache
+were less common symptoms [6, 8-10].
+Diagnosis of COVID-19 in pregnant women
+The laboratory findings in pregnant women with
+COVID-19 are very similar to other COVID-19
+patients. The most common laboratory finding is lymphocytopenia. Less frequently, liver
+enzyme abnormality has been reported, especially increased alanine aminotransferase or/and
+aspartate aminotransferase. Elevated C-reactive
+protein (CRP), procalcitonin, erythrocyte sedimentation rate, and interleukin-6 and D-dimer
+levels can also be seen [9-12]. In a study, Liu
+et al. (10) reported that the leukocytosis and
+elevated neutrophil ratio were more common
+in pregnants compared with the remaining
+COVID-19 patients.
+Chest X-ray is usually normal and is only useful
+in severe pneumonia. Computed tomography
+(CT) scan of chest without contrast should be
+performed to confirm diagnosis in suspected
+cases as the risk of radiation exposure to the
+fetus is very low. The most common CT finding
+is ground-glass opacity (GGO) with progression to consolidation. The lesions are generally bilateral, peripheral, and predominantly
+located in the lower lobes [9, 12]. Liu et al. [10]
+reported that mixed GGO with consolidation
+and complete consolidation was significantly
+more frequent in pregnant women compared
+with the nonpregnant adults. GGO and GGO
+with reticulation were more frequent in the
+nonpregnant adults. Pleural effusion is rare in
+COVID-19 pneumonia. Yang et al. [13] reported that pleural effusion was more common in
+pregnant women than nonpregnant patients.
+SARS-CoV-2 RNA is detected by reverse-transcription polymerase chain reaction (RT-PCR).
+It is considered as the reference standard diagnostic test. Upper respiratory tract (nasopharyngeal and oropharyngeal swabs) specimens
+are used for RT-PCR. In addition, lower respiratory tract (sputum, endotracheal aspirate, or
+bronchoalveolar lavage), urine, and stool can be
+used as specimens. If the first nasopharyngeal
+test is negative but the suspicion for COVID-19
+remains, the test should be repeated. COVID-
+Marim et al. COVID-19 in Pregnancy and Neonates
+19 can be excluded if RT-PCRs of swabs are
+negative twice in a row (sampling interval ≥24
+h). Serology should be used as a diagnostic procedure only if RT-PCR is not available [12, 14].
+COVID-19 is an atypical disease that is difficult
+to diagnose at early phases. False-negative tests
+on initial testing appear to be common. CT has
+been reported to be superior in early diagnosis
+compared with RT-PCR [15].
+Treatment of pregnant women with COVID-19
+Numerous data support that COVID-19 has a
+better course in pregnant women compared
+with SARS and Middle East respiratory syndrome coronavirus (MERS-CoV) [16, 17]. In
+mild or uncomplicated COVID-19 infection,
+follow up of pregnant women without treatment should be considered primarily. There is
+no definitive treatment regimen for pregnant
+women that has been proven useful and safe.
+Some of the investigational drugs are recommended for treatment. It is important to
+carefully weigh the benefits of interventions
+for the mother and fetus with potential risks if
+Chloroquine and hydroxychloroquine have
+been found effective in SARS-Cov-2 in in vitro
+studies. Although hydroxychloroquine crosses
+the placenta, there are studies reporting that
+it can be safely used in pregnant women in all
+trimesters [18-20]. However, maternal side
+effects such as QT prolongation and ventricular
+tachycardia can occur.
+Particularly, in China and Turkey, antiprotease
+drugs, lopinavir/ritonavir (200 mg/50 mg per
+capsule), are used in the antiviral treatment. It is
+known to be safe in pregnant women. Oral use
+is recommended for 10–14 days, two capsules
+twice a day [14, 21]. It crosses the placenta and
+may increase the risk for preterm delivery. It is
+recommended to be taken together with nebulized α-interferon inhalation (5 million IU in 2
+mL of sterile water for injection) in China [14].
+Remdesivir is a novel nucleotide analog that
+is known to inhibit SARS-CoV-2 virus in vitro
+[22]. Although there is not enough information
+about its safety and efficacy, it has been used
+in pregnant patients with severe COVID-19.
+Clinical studies searching for alternative treatment solutions are ongoing [12, 14]. Although
+investigational drugs ribavirin and favipiravir are
+known as teratogenic, some studies have suggested the use ribavirin in therapy [12, 16, 21].
+Lung damage due to COVID-19 increases
+the risk for secondary bacterial pneumonia.
+Antibiotics are recommended for those with
+findings of suspicion of bacterial pneumonia.
+Intravenous ceftriaxone can be used in pregnant
+women until specific culture results are evident
+The use of steroids is not highly recommended
+as it has been reported to increase the risk
+of mortality in influenza and delayed virus
+clearance in MERS-CoV. Short-term (three
+to five days) methylprednisolone 1–2 mg/kg is
+recommended to protect from acute respiratory distress syndrome only in patients with
+severe pneumonia. The same treatment regimen is recommended for pregnant women
+with COVID 19 [14, 23, 24]. If preterm labor is
+expected, antenatal betamethasone is also recommended for promoting fetal lung maturity in
+pregnant women with suspected or confirmed
+COVID-19 [25]. Sufficient information about
+the use of tocilizumab and convalescent plasma
+in treating pregnant women with COVID-19 is
+not available.
+Both pregnancy and COVID-19 are associated with increased risk for thrombosis [26].
+Suspected and confirmed COVID-19 pregnant
+women should receive prophylactic low-molecular-weight heparin (LMWH) before and after
+delivery. If the delivery is very close, unfractionated heparin should be preferred instead
+of LMWH, since it can be readily reversed.
+It is recommended to continue prophylactic
+LMWH for at least 10 days after discharge from
+the hospital in confirmed COVID-19 pregnant
+women [14, 27].
+Support therapies in the service and ICUs are
+similar in pregnant and nonpregnant patients. It
+is recommended to regulate the oxygen supplement in pregnant women to ensure that peripheral saturation is ≥95%. In order to maintain
+oxygen diffusion from the placenta to the fetus,
+the maternal partial pressure of oxygen in the
+blood gas should be above 70 mmHg [21, 28].
+Pregnancy complications
+In some studies, premature rupture of membranes, preterm delivery, and coagulopathy
+accompanied by liver dysfunction and death of
+the mother have been reported in pregnant
+39% preterm delivery (<37 weeks) and 96%
+cesarean delivery were reported in 51 pregnant
+women [30]. In addition, Elshafeey et al. [31],
+reported 15% preterm delivery (<37 weeks) and
+70% cesarean delivery in 252 pregnant women in
+of spontaneous abortion does not increase [31,
+32]. There are studies reporting that pregnancy
+or delivery does not cause progression in disease
+symptoms and CT findings [5, 9].
+204 • Marim et al. COVID-19 in Pregnancy and Neonates
+There are no data on the relationship between
+obstetric diseases, such as preeclampsia, gestational diabetes, and COVID-19. Given the
+fact that pandemic creates anxiety and stress,
+pregnant women can experience side effects of
+anxiety and stress, such as preeclampsia, depression, preterm delivery, increased nausea, and
+vomiting. In another aspect, pregnant women
+may request early termination and elective
+cesarean surgery in order to prevent disease
+transmission from healthcare settings to themselves or their families during visits [33].
+Delivery and postpartum care
+Timing of delivery, delivery process, and prenatal and postnatal follow-ups for pregnant with
+suspected or confirmed COVID-19 should be
+managed by a multidisciplinary team. In severe
+and critical cases, if the safety of the mother and
+her baby is at risk, pregnancy can be terminated
+early, even if the baby is premature. There is
+no evidence that one mode of delivery is superior to another in terms of risks associated with
+COVID-19. Therefore, unless the clinical severity
+and respiratory status of the pregnant require
+urgent intervention, the mode of delivery should
+be decided without considering COVID-19. In
+appropriate patients, vaginal delivery may be
+considered [14, 27]. No evidence of vertical
+transmission of COVID-19 from the placenta
+or during delivery has been demonstrated [34].
+COVID-19 tests have resulted negative in babies
+of COVID-19 mothers who had cesarean or
+vaginal delivery in different studies. It has been
+shown that the mode of delivery is not effective
+in transmission [5, 11, 35]. Liu et al. [5] found
+that pregnancy and delivery did not exacerbate
+symptoms and CT findings of COVID-19 pneumonia. Yang et al. [13] also showed that there
+was no difference before and after delivery in
+terms of CRP, white blood cell count, neutrophil
+and lymphocyte count, and proportion in pregnant women with COVID-19.
+Before delivery, all pregnant patients should
+be taken to separate isolated rooms. Contact
+and air isolation measures should be followed
+during delivery and antenatal and postpartum
+periods. Healthcare workers (HCWs) must
+also wear personal protective equipment (PPE).
+PPE should always be a priority, even in emergent cesareans or interventions. Relatives of
+the pregnant should be informed about possible delays of cesarean section because of the
+period for preparations and to equip healthcare
+staff with adequate PPE. After delivery, mother
+and baby should be taken to separate isolated rooms and should be closely monitored.
+Isolation should be continued at home after
+discharge [13, 14, 27].
+Eurasian J Med 2020; 52(2): 202-10
+Generally, mild or uncomplicated COVID-19 infection occurs in pregnant women. COVID-19 in pregnant
+women has a better course than SARS and MERS-CoV.
+The leukocytosis and elevated neutrophil ratio were reported more common in pregnant women than
+nonpregnant patients.
+CT has also been reported to be superior in early diagnosis compared with RT-PCR in pregnant or nonpregnant patients. In CT scans, mixed GGO with consolidation and complete consolidation was reported
+significantly more frequent in pregnant women. The frequency of pleural effusion is also higher than that in
+nonpregnant patients.
+Different antiviral treatments have been used in pregnant women, but there is no definitive treatment
+regimen with proven efficacy.
+If preterm delivery is expected, antenatal betamethasone is recommended for promoting fetal lung maturity.
+Owing to the increased thrombotic risk, thromboprophylaxis is strongly recommended before and after
+Delivery has not been shown to cause COVID-19 progression and worsening clinical and laboratory findings.
+It was observed that the mode of delivery was not effective in the transmission of COVID-19.
+Unless clinical necessity or urgent interventions are required, the mode of delivery should be decided
+without considering COVID-19.
+All isolation and protective measures must be carefully followed to prevent transmission of COVID-19
+before, during, and after delivery.
+Antepartum and postpartum anxiety and depression risk is high in pregnant women, and they should be
+followed closely for psychological support.
+The top priority is to prevent COVID-19 in healthy pregnant women. Therefore, all necessary protective
+measures and hygiene rules must be observed.
+Pregnant healthcare workers should be employed outside the COVID-19 wards or work from home.
+COVID-19: Coronavirus disease 2019; SARS: Severe acute respiratory syndrome coronavirus 2; MERS-CoV: Middle East
+respiratory syndrome coronavirus; CT: computed tomography; RT-PCR: reverse-transcription polymerase chain reaction;
+GGO: ground glass opacity
+The probability of anxiety and depression
+increases as mothers’ support for their relatives will decrease, and their delivery plans
+will change owing to the pandemic. Mothers
+may also be worried about their babies being
+infected, and postpartum vaccination and follow
+up may be impaired. If necessary, mothers can
+be informed about their concerns, and psychological support should be provided by telephone
+or by other non-face-to-face methods [33].
+Prevention of COVID-19 in pregnant women
+Although significant process has been achieved
+in the development of COVID-19 vaccine, an
+effective vaccine has not been introduced yet.
+Antenatal care is important. Therefore, regular
+visits should be done as advised by the obstetrician. Unnecessary traveling, use of public transportation and contact with sick people should
+be avoided in pregnant women. It is important
+that they follow personal and social hygiene rules.
+Pregnant women with symptoms and suspicious
+history of travel or contact should be quickly isolated in healthcare units and be tested [8, 14, 27].
+Pregnant healthcare workers
+Pregnancy leads to altered maternal immunity,
+and pregnant HCWs on the frontline have high
+risk to develop COVID-19 given the fact that
+the risk is associated with duration and intensity
+of exposure as well as immune condition of the
+host. Therefore, pregnant HCWs should be
+assigned outside of the COVID-19 wards in
+order to decrease the risk of transmission. In
+addition, those with comorbid conditions such as
+heart disease should be consulted by their obstetricians and considered to work from home [36].
+Highlights of COVID-19 infection in pregnant
+Intrauterine transmission of COVID-19
+COVID-19 infection may have a risk of vertical transmission, like previously seen in SARS,
+because of the widely expression of angiotensin
+converting enzyme-2 receptor in the placenta.
+This possibility can be explained with the similar
+receptor-binding domain structures shared by
+SARS-CoV-1 and SARS-CoV-2. Consequently,
+the risk of vertical transmission for COVID-19
+might be as low as that was reported for SARSCoV-1 infection [37].
+Recently, higher risk of preterm birth within
+pregnant women was reported from China.
+There was one case of intrauterine fetal death
+and one case of neonatal death with respiratory distress and disseminated intravascular
+coagulation (DIC). In contrast, the samples
+for COVID-19 virus of the baby born from an
+infected mother were negative [5, 11, 12, 35,
+37]. Most recently, two neonates from COVID19 infected mothers had positive results for
+SARS-CoV-2 following delivery. One of these
+Eurasian J Med 2020; 52(2): 202-10
+cases has been confirmed at 17 days after birth,
+and this baby had a close contact history with
+two other confirmed cases (her mother and
+caregiver); the other case has been confirmed
+at 36 h after birth, and the possibility of close
+contact history could not be excluded. There
+are few reports demonstrating the absence of
+viral isolates in the amniotic fluid, cord blood,
+breast milk, and neonatal throat swabs in a
+subset of patients born from infected mothers
+[38-42]. However, three neonates demonstrated elevated SARS-CoV-2 immunoglobulin
+M (Ig M) antibodies increasing the concern
+of vertical transmission, although repeated
+nasopharyngeal samples from the infants were
+negative [9, 14, 43].
+Despite these concerns, there is still no evidence of vertical transmission of SARS-CoV-2
+during delivery. Larger data are needed to
+exclude transplacental vertical transmission of
+Intrauterine complications
+No information is available either about the
+effect of COVID-19 on fetal malformations,
+fetal growth abnormalities, and organ maturation and or about the transmission of infection
+across the placenta in the first and second trimesters of pregnancy.
+Previous studies have demonstrated that SARSCoV-1 infection during perinatal period is associated with high prevalence of maternal and
+neonatal effects, including DIC, abortion, preterm birth, intrauterine growth retardation, and
+neonatal intensive care unit (NICU) admission
+with COVID-19 and their neonates had less
+problems compared with SARS-CoV-1 infection. Fetal complications of COVID-19 have
+been reported as preterm birth (39–47%),
+intrauterine growth restriction (10%), and
+abortion (2%) according to recent literature.
+Respiratory insufficiency in pregnant women
+increases the risk of fetal growth restriction
+owing to maternal hypoxia, placental hypoperfusion, and reduced oxygen delivery to the fetus
+[46]. Zhu et al. [35] also reported that perinatal
+COVID-19 infection may have adverse effects
+on neonates, causing problems such as fetal
+distress and premature birth.
+In a retrospective study, Zhang et al. [47]
+have compared the effect of COVID-19 on
+pregnancy outcomes and neonatal prognosis
+between 16 women infected with COVID-19
+and 45 women without COVID-19. There
+were no significant differences in fetal distress,
+Marim et al. COVID-19 in Pregnancy and Neonates
+meconium-stained amniotic fluid, preterm birth,
+and neonatal asphyxia between the two groups.
+The World Health Organization (WHO) does
+not recommend the routine use of systemic
+corticosteroids because of delaying viral clearance, although they do not cross the placenta.
+However, in terms of preterm delivery, the
+decision of using corticosteroids to induce fetal
+maturity and to minimize peripartum complications should be individualized. Recent studies
+have defined remdesivir and chloroquine as
+strong candidate drugs for the treatment of
+COVID-19 that are safe in pregnant women.
+Although chloroquine crosses the placenta, it
+may be safely used in all trimesters of pregnancy
+with no increased risk of adverse perinatal outcomes. Viral protease inhibitors such as lopinavir
+and ritonavir are also safe in the management
+of COVID-19, and they have no risk of fetal
+anomalies, preterm birth, or low birth weight in
+infants reported up to date [42].
+Ribavirin, an antiviral guanosine analog commonly used in coronavirus treatment, is teratogenic and induces miscarriage, craniofacial, and
+limb defects in the embryos of pregnant mice.
+It should be avoided in early pregnancy [42].
+Another drug, alpha interferon in early pregnancy, has the risk of fetal growth restriction
+and developmental delay [48].
+The treatment response of mother’s clinical
+condition will improve the fetal status. As long
+as the pregnant women have good response to
+the treatment, pregnancies should be allowed
+to continue to term. However, if a pregnant
+woman is critically ill, her clinical deterioration
+may lead to intrauterine fetal death or loss of
+both mother and the infant. In these conditions,
+early delivery may be warranted. The indications for early delivery depend on the mother’s
+clinical status, gestational age, and fetal wellbeing condition [48].
+Neonatal management after delivery
+Available data are insufficient about the optimal mode of delivery for infected mothers,
+considering both maternal morbidity and infection risk to neonate. The mode of delivery
+should be decided based on obstetric factors
+and clinical emergency. Although recent data
+do not establish a risk of vertical transmission,
+early cord clamping and avoiding skin-to-skin
+contact following delivery are still suggested.
+Samples, including vaginal secretions, umbilical
+cord blood, amniotic fluid, placenta, and neonatal throat swab, should be collected during
+delivery to determine the potential intrauterine
+vertical transmission of COVID-19. However,
+infection may develop in neonates via close contact [48-51]. Because there is the close contact
+between mother and child, the mother should
+wear a face mask to reduce the risk of droplet
+transmission [51].
+Optimal management in the delivery room
+is important for further follow up of these
+neonates. Delivery should be performed in
+a negative pressure room whenever possible. Obstetricians and pediatricians should be
+in closed cooperation, and the neonatologist
+should be informed at least 30 min before any
+planned delivery. Clinicians should use airborne,
+droplet, and contact precautions because of
+increased maternal virus aerosol transmission
+and should be prepared for possible intubation,
+airway suction, and positive pressure ventilation
+interventions. Regarding neonatal management
+of suspected, probable, and confirmed cases
+of maternal COVID-19 infection, the umbilical
+cord should be clamped promptly, and the neonate should be transferred to the resuscitation
+room [50, 51].
+Routine neonatal care and the initial steps of
+neonatal resuscitation, including drying, tactile
+stimulation, assessment of heart rate, placement
+of pulse oximetry, and electrocardiograph leads,
+are unlikely to be aerosol-generating. Suction
+of the airway after delivery should not be performed routinely for clear or meconium-stained
+amniotic fluid. Suctioning is an aerosol-generating
+procedure and is not indicated for uncomplicated
+deliveries. Endotracheal instillation of medications, such as surfactant or epinephrine, includes
+aerosol-generating procedures. Intravenous delivery of epinephrine by umbilical venous catheter
+is the preferred route of administration during
+neonatal resuscitation. The neonate should be
+placed in an incubator instead of radiant warmer
+during the postnatal care [50].
+Neonates of the suspected COVID-19-infected
+mother should be transferred to the neonatal
+isolation room immediately if they are in good
+general condition. Mother and neonate should
+be separated to minimize the risk of postnatal infant infection from maternal respiratory
+secretions. Neonates should be bathed as soon
+as possible after birth to remove virus potentially present on the skin surfaces. If the maternal
+nucleic acid test is negative for two consecutive
+tests, the neonate may be transferred out of
+the isolation room. The contact precautions
+and use of PPE should be provided during the
+postpartum period, until the mother tests are
+negative for COVID-19 [48-50]. First molecular
+assay testing should be done at 24 h of age, and
+repeat testing should be done at 48 h of age.
+206 • Marim et al. COVID-19 in Pregnancy and Neonates
+If the maternal nucleic acid test is positive or
+if a maternal infection is confirmed, neonates
+should be isolated for at least 14 days. The neonate and the mother with confirmed COVID19 should be isolated in different rooms, and
+they should be screened very carefully. The
+neonate should be closely monitored for clinical
+manifestations of infection.
+The frequency of NICU admission was also
+low according to recent reports. However, the
+neonates requiring NICU should be admitted
+to a single negative pressure patient room (or
+other air filtration systems). Airborne, droplet, and contact precautions should be taken
+for the care of neonates requiring continious
+positive airway pressure (CPAP) or any form of
+mechanical ventilation [49-51].
+COVID-19 in neonates
+“Life is a flame that is always burning itself out, but
+it catches fire again every time a child is born.” —
+George Bernard Shaw
+Knowledge about neonatal outcomes of
+COVID-19 is very limited and based on studies that are observed in the last trimester of
+pregnancy. Both SARS-CoV and MERS-CoV
+have been found to cause severe complications
+in pregnant women and neonates; however,
+SARS-CoV-2 seems to cause milder complications [52-58]. Immaturity of innate and adaptive
+immune system makes the neonates highly
+vulnerable to infections [59]. Dysregulation
+of factors, such as cytokines and complement
+cascade, and also some treatments given to
+mothers or neonates, such as high dose corticosteroids, can have detrimental consequences
+on brain development and function [44, 57, 58].
+Fortunately, majority of neonates born to mother with COVID-19 did not become infected and
+had very few symptoms at birth, and to date,
+very few neonates have been reported that
+have affected by COVID-19.
+December 8, 2019 and April 1, 2020) examining 108 pregnancies, neonatal data were
+obtained from 86 deliveries, and 22 women
+were still pregnant at study time. Of these,
+one intrauterine fetal death and one neonatal
+death were reported. Despite eight neonates
+had symptoms and clinical findings, such as fever,
+thrombocytopenia, vomiting, and pneumonia,
+they recovered in a short time and were discharged from hospital [44]. In a case control
+study where 16 COVID-19 confirmed pregnant
+women and 18 COVID-19 suspected pregnant
+women were included, maternal and neonatal
+complications were compared with 242 preg-
+nant women without COVID-19 who delivered
+in 2019 and 2020. COVID-19 was not detected
+in neonates, and no severe neonatal complications were observed [45].
+COVID-19 continues to spread worldwide.
+Since the information is limited only to the last
+period of pregnancy, it should be emphasized
+how to approach the neonates. Owing to the
+potential risk of infection, neonates born from
+an infected mother should be evaluated in this
+COVID-19 diagnosis in neonates
+Baby born to mother with suspected or confirmed COVID-19 should be assessed clinically,
+and tests should be performed for identifying
+SARS-CoV-2. Neonates with COVID-19 may
+be asymptomatic or may have respiratory and
+gastrointestinal symptoms. Fever, tachycardia,
+vomiting, lymphocytopenia, thrombocytopenia,
+abnormal liver function, neonatal pneumonia,
+multiple organ failure, and DIC were reported
+in very few neonates till now [44, 45].
+There are different recommendations for testing time and methods for COVID-19 in neonates with several limitations. Diagnosis of fetal/
+neonatal infections are based on the detection
+of the organism in culture or nucleic acid
+amplification tests or body fluid samples that
+identify the presence of the RNA or DNA of
+the pathogen in amniotic fluid before birth or
+in appropriately collected fetal/neonatal tissues,
+or histopathologically showing the organism
+in fetal/neonatal tissues. In addition, serology
+is used for certain congenital infections such
+as toxoplasmosis, cytomegalovirus, and herpes
+simplex virus. Antigen detection and rapid
+molecular diagnostic tests are also available,
+but they have several limitations and may have
+suboptimal sensitivity in ruling out disease [60].
+RT-PCR-based assays performed in a laboratory on respiratory specimens are the reference standards for COVID-19 diagnosis having
+71% sensitivity [60, 61]. To date, since maternal
+infections were observed in the late phase of
+pregnancy, there may not have been sufficient
+time for the generation of antibodies. Thus, the
+use of serology in the diagnosis of neonate is
+still controversial. Three neonates with elevated
+SARS-CoV-2 IgM despite negative molecular
+testing have been reported [62, 63]. Following
+negative and positive results along with cross
+reactivity and testing challenges were pointed
+Currently, RT-PCR is noted as the gold standard
+test for diagnosis of SARS-CoV-2 [65]. A clas-
+Eurasian J Med 2020; 52(2): 202-10
+sification system based on sample site, method,
+and timing was suggested for neonatal SARSCoV-2 infections such as congenital infection
+in live born room neonate, neonatal-infectionacquired intrapartum, and neonatal-infectionacquired postpartum [66]. Congenital infection
+in live born neonate could be defined in neonate and mother with SARS-Cov-2 infection
+with/without clinical features of infection and
+confirmed by detection of the virus by RT-PCR
+in umbilical cord blood or neonatal blood collected within first 12 h of birth or amniotic
+fluid collected prior to rupture of membrane.
+Neonatal-infection-acquired intrapartum could
+be defined in neonate and mother with SARSCov-2 infection with/without clinical features
+of infection and confirmed by detection of the
+virus by RT-PCR in nasopharyngeal swab at
+birth (collected after cleaning the baby) and at
+24–48 h of age, and other explanations should
+be excluded in symptomatic babies. Neonatalinfection-acquired postpartum could be defined
+in neonate at older than 48 h of age with clinical
+features of infection, and parent or caregiver
+may or may not have SARS-CoV-2 infection or
+were not tested. The diagnosis could be confirmed by detection of the virus by RT-PCR in
+nasopharyngeal/rectal swab in at least 48 h after
+the birth and when respiratory sample tested
+negative by PCR at birth [66].
+Usually, neonatal testing is recommended in the
+first 12–24 h after birth, while earlier test is
+likely to reflect maternal infection. In addition,
+a second test is recommended 24 h after the
+first test to confirm result. Subsequent testing
+is recommended if baby becomes unwell, after
+maternal test negative result or as recommended by infectious disease team [67]. Single swab
+that samples first oropharynx and then nasopharynx should be used for collecting. Rectal
+swab testing may be considered if available
+in centers, especially for sick infants requiring
+prolonged hospital care [68]. Two consecutive
+negative tests 24 h apart are considered as
+clearance. Swab is preferably obtained in a negative pressure room or in isolation with adequate
+PPE, which should include fit-tested mask/powered air-purifying respirator (PAPR) or goggles
+with an N95 mask plus gown and gloves. After
+obtaining the sample, PPE should be discarded,
+and the room should be cleaned [65].
+Symptomatic neonates should be evaluated in
+terms of symptoms and examination findings.
+Complete blood count, liver, and renal function
+tests, if needed coagulation parameters, and
+other tests considered according to the neonates’ findings could be performed. If a neonate
+with COVID-19 exhibits respiratory symptoms,
+Eurasian J Med 2020; 52(2): 202-10
+chest X-ray is performed; however, radiological
+features of COVID-19 in neonates have not
+been well characterized [69].
+Although most of the studies did not find any
+evidence for intrauterine transmission, radiological findings, lymphocytopenia and thrombocytopenia, have been repeatedly reported
+in healthy seen babies born to SARS-CoV-2infected women. Therefore, clinicians should
+closely monitor the neonates born from mothers with COVID-19 infection.
+Treatment, discharge, and follow up of
+neonates with COVID-19
+Currently, there is no definitive treatment for
+COVID-19 in neonates. Treatment options
+are based on adult studies that have contradictory results. Treatment options such as
+hydroxychloroquine/chloroquine, azithromycin,
+lopinavir/ritonavir, remdesivir, corticosteroids,
+and tocilizumab were recommended in adult
+patients according to patients’ condition [70].
+Unfortunately, there is no randomized controlled trial for neonates and children. Most
+of the neonates and children do not need
+treatment, and treatment decision is based on
+the clinical status of children. Symptomatic and
+supportive care can be given in children with
+upper respiratory tract infection, pharyngitis,
+and acute gastroenteritis. Supplementation of
+oxygen, maintenance of water–electrolyte, and
+acid–base balance are the mainstay of therapy
+for patients with COVID-19. If severe acute
+respiratory distress syndrome is present in neonate, high-dose pulmonary surfactant, inhaled
+nitric oxide, high-frequency oscillatory ventilation, and extracorporeal membrane oxygenation may be useful [39]. There is no evidence
+supporting that administration of immunoglobulins, antivirals, and steroids improves outcomes
+of neonates with severe COVID-19. Ivermectin,
+plasma infusion, and dornase alpha are other
+candidates that may be proposed for treatment;
+however, there is no evidence for use in children
+especially in neonates [71, 72].
+Infants under investigation and symptomatic
+neonates should be cared for in an isolated
+room if a negative pressure room is not available. Contact and droplet precautions should
+continue if infant is undergoing aerosol-generating procedures, such as intubation/extubation, CPAP, and deep suctioning, in which case
+airborne precautions (PAPR or N95 mask plus
+goggles, gown, and gloves) are indicated [69]. If
+there are some opinions about contact with
+mother and separation. The decision should
+be made on a case-by-case basis using shared
+Marim et al. COVID-19 in Pregnancy and Neonates
+decision-making between the mother and the
+clinical team. Clinical condition and SARS-CoV-2
+testing results of mother and baby, desire of
+mother to feed at the breast, facility capacity to
+accommodate separation or colocation, and the
+ability to maintain separation upon discharge
+and other risks and benefits of temporary separation of a mother with known or suspected
+COVID-19 and her infant should be considered
+[73]. If separation is not undertaken, other
+measures to reduce the risk of transmission
+from mother to infant should be considered,
+such as using physical barriers such as curtains
+between the mother and neonate and keeping
+the baby at least 2 m away from the mother. If
+mother is breastfeeding or not breastfeeding,
+but there is no other healthy person present in
+the room, she must use face mask and practice
+hand hygiene before each feeding and other
+close contact with her neonate [73]. If temporary separation is undertaken, infants with
+suspected COVID-19 should be isolated from
+other healthy infants. If another healthy family or staff member is present to provide care
+such as diapering, bathing, and feeding for the
+neonate, they should use PPE. For healthy family members, appropriate PPE includes gown,
+gloves, face mask, and eye protection [73].
+Well neonates or neonates completed the
+treatment should be discharged from the birth
+hospital based on the center’s normal criteria.
+Infected infants confirmed with molecular tests
+(or whose condition cannot be determined
+because of lack of testing), but without symptoms of COVID-19, can be discharged on a
+case-by-case basis with appropriate measures
+and frequent outpatient follow-up contacts
+(telephone, telemedicine, or in-office) within
+14 days after delivery. All caregivers should
+use PPE, and uninfected individuals above 60
+years of age and individuals with comorbid
+conditions should not care these neonates [68].
+Infants with a negative SARS-CoV-2 molecular
+test should be best discharged to the care of
+a designated healthy (noninfected) caregiver. If
+the mother is in the same house, she should
+maintain a distance of at least 2 m for as long as
+possible, and when she is close to the neonate,
+she should use a mask and hand hygiene for
+neonate care up to mother without fever for
+72 h without using antipyretic, improvements
+of symptoms, and has negative results from
+a molecular assay for detecting SARS-CoV-2
+from at least two consecutive nasopharyngeal
+swab samples collected at 24-h intervals, or
+another family member may care the baby in
+this time period [66, 68]. Other caregivers in
+the home who are under observation for the
+development of COVID-19 should use standard
+procedure masks and hand hygiene and should
+be 2 m away from the neonate until their condition is resolved [68]. After discharge of baby
+from hospital, a check-up and pharyngeal swab
+for SARS-CoV-2 should be received at the 14th
+day, and neonatal COVID-19 follow up could be
+stopped on the 28th day after discharge if the
+the suggested management for neonates who
+were born from COVID-19 infected mothers.
+Breastfeeding has several lifelong benefits.
+Breastfeeding shapes the developing neonatal
+gut microbiota at an early age, both through
+exposure of the neonate directly to breast milk
+microbiota and, indirectly, through breast milk
+factors and bioactive substances that affect
+bacterial growth and metabolism [75]. Multiple
+studies have shown that breastfeeding not only
+reduces the risk of death and illness in early
+life, but also has permanent health benefits
+throughout adult life. Moreover, long-term and
+exclusive breastfeeding has been associated
+with improved cognitive development in infants
+[76]. To date, there has been no evidence showing viral transmission to neonates via human
+milk could not be proven; however, contagion
+by droplets and by contact with the respiratory
+secretions of infected people should not be
+ignored [11, 74, 77]. The CDC recommends to
+mothers to decide with other family members
+and healthcare providers how to start and
+continue breastfeeding. If the mother is sick
+and chooses to direct breastfeed, they recommend wearing a face mask and washing hands
+before each feeding. In addition, if the mother
+is sick and chooses to express breast milk, they
+recommend expressing breast milk to establish
+and maintain milk supply, providing a dedicated
+breast pump, washing hands before touching
+any pump or bottle parts and before expressing
+breast milk, after each use, cleaning all parts that
+come into contact with breast milk, and, if possible, considering having someone who is well
+feed the expressed breast milk to the infant are
+recommended [78].
+The safety of breastfeeding when mother is
+on a COVID-19 treatment with diverse drugs
+should be evaluated. However, there are no
+data regarding the use of some of the medications. One of the drugs used in treatment is
+remdesivir. There are ongoing studies about
+this issue, and nothing is known about the use
+of remdesivir in pregnancy and passage into the
+breastmilk [69, 79]. Hydroxychloroquine is a
+potential treatment option in COVID-19, and it
+208 • Marim et al. COVID-19 in Pregnancy and Neonates
+Delivery should be performed in a negative pressure room whenever possible, and mother should wear a
+face mask to reduce the risk of droplet transmission during delivery.
+Recent data do not prove the risk of vertical transmission; however, early cord clamping is suggested, and
+skin-to-skin contact should be avoided following delivery.
+Neonate should be transferred to the resuscitation room and neonatal care, and the initial steps of neonatal
+resuscitation, including drying, tactile stimulation, assessment of heart rate, placement of pulse oximetry,
+and electrocardiograph leads, should be routinely performed.
+Suction of the airway after delivery should not be performed routinely for clear or meconium-stained
+amniotic fluid.
+Endotracheal instillation of medications includes aerosol-generating procedures and should be performed
+The neonate should be placed in an incubator instead of radiant warmer during the postnatal care.
+Mother and neonate should be separated to minimize the risk of postnatal infant infection.
+Neonate should be bathed as soon as possible after birth to remove virus potentially present on skin surfaces.
+If the maternal nucleic acid test is positive or if a maternal infection is confirmed, neonates should be
+isolated for at least 14 days. The neonate and the mother with confirmed COVID-19 should be isolated in
+different rooms.
+The neonate should be closely monitored for clinical manifestations of infection during isolation.
+If the maternal nucleic acid test is negative for two consecutive tests, the neonate may be transferred out
+of the isolation room.
+For neonates, first molecular assay testing (RT-PCR) should be done at 24 h of age, and repeat testing
+should be done at 48 h of age.
+The contact precautions and use of personal protection equipment should be provided during the postpartum period, until the mother tests are negative for COVID-19.
+Neonates requiring NICU should be admitted to a single negative pressure patient room (or other air
+filtration systems).
+Airborne, droplet, and contact precautions should be taken for the care of neonates requiring CPAP or any
+form of mechanical ventilation.
+Symptomatic neonates should be evaluated according to symptoms and examination findings. Chest X-ray,
+complete blood count, liver, and renal function tests, if needed coagulation parameters, and other tests
+should be considered.
+Most of the neonates and children do not need treatment, and treatment decision is based on the clinical
+status of children.
+If separation of mother and neonate is not undertaken, measures to reduce the risk of transmission from
+mother to infant should be considered, such as using physical barriers such as curtains between the mother
+and neonate and keeping the baby at least 2 m away from the mother.
+There is no evidence showing viral transmission to neonates via human milk. If the mother sick and chooses
+to direct breastfeed, mother should wear a face mask and wash hands before each feeding.
+If the mother is sick and chooses to express breast milk, it may be provided by a dedicated breast pump.
+Wash hands before touching any pump or bottle parts and before expressing breast milk, and after each
+use, clean all parts that come into contact with breast milk. In addition, if possible, consider having someone
+who is well feed the expressed breast milk to the infant.
+Well neonates or neonates completed the treatment should be discharged from the birth hospital based on
+the center’s normal criteria.
+Infants who are found to be infected with molecular tests (or whose condition cannot be determined
+because of lack of testing), but without symptoms of COVID-19, can be discharged on a case-by-case
+basis with appropriate measures and frequent outpatient follow-up contacts (telephone, telemedicine, or
+in-office) within 14 days after delivery. All caregivers should use PPE and uninfected individuals above 60
+years of age, and individuals with comorbid conditions should not care these neonates.
+COVID-19: Coronavirus disease 2019; RT-PCR: reverse-transcription polymerase chain reaction; NICU: neonatal intensive
+care unit; CPAP: continious positive airway pressure; PPE: personal protective equipment
+[80]. Ritonavir/lopinavir is an antiviral treatment
+used in HIV infection, and experience with
+ritonavir/lopinavir during breastfeeding is limited and mostly for HIV infection. In the United
+States, avoiding breastfeeding is recommended;
+feasible, sustainable, and safe replacement feeding is available, WHO guidelines recommend
+that all women with an HIV infection who are
+pregnant or breastfeeding should be maintained
+on antiretroviral therapy for at least the duration of risk for mother-to-child transmission
+[81-84]. No recommendation is available for
+COVID-19 now. For azithromycin, lower levels
+in breast milk, and higher doses used in infants,
+it is not expected to cause adverse effects in
+breastfed infants [85]. Manufacturers suggest
+that the decision to breastfeed during azithromycin therapy should be considered according
+to the risk of infant exposure, the benefits of
+Eurasian J Med 2020; 52(2): 202-10
+breastfeeding to the infant, and benefits of
+treatment to the mother [86]. Corticosteroids
+in normal doses in lactating women; however, it
+is recommended to monitor the nursing baby
+[87]. Little information is present about tocilizumab, and it is recommended to be used with
+caution during breastfeeding. The risk of infant
+exposure, the benefits of breastfeeding to the
+infant, and benefits of treatment to the mother
+should be considered [88, 89]. It should be kept
+in mind that there are no data available about
+the effect of all these treatments on breastfeeding in COVID-19, and care should be taken in
+these terms.
+In conclusion, although COVID-19 in pregnants and neonates has not been associated
+with severe disease or worse clinical outcomes
+so far, the availability of limited data on this
+topic should be emphasized. Thus, it is possible that all approaches can be changed and
+renewed. Updated information in diagnosis and
+new treatment approaches for these vulnerable
+groups of patients should be considered. As
+Voltaire has stated: “It is said that the present is
+pregnant with the future.”
+N.E., C.G.G., Z.N.T., F.T.A., A.Y., H.A., I.S., T.R.G., A.S.,
+M.A.; Design - F.M., D.K., T.S.E., N.E., C.G.G., Z.N.T.,
+F.T.A., A.Y., H.A., I.S., T.R.G., A.S., M.A.; Supervision F.M., D.K., T.S.E., N.E., C.G.G., Z.N.T., F.T.A., A.Y., H.A.,
+I.S., T.R.G., A.S., M.A.; Resources - F.M., D.K., T.S.E.,
+N.E., F.T.A.; Materials - F.M., D.K., T.S.E., N.E., F.T.A.;
+Data Collection and/or Processing - F.M., D.K., T.S.E.,
+N.E.; Analysis and/or Interpretation - F.M., D.K., T.S.E.,
+N.E., C.G.G., F.T.A., A.Y.; Literature Search - F.M., D.K.,
+interest to declare.
+study has received no financial support.
+World Health Organization. Situation report-17
+situation in numbers total and new cases in last
+pdf?sfvrsn=17f0dca_2 accessed February 7,
+Chen N, Zhou M, Dong X, et al. Epidemiological
+and clinical characteristics of 99 cases of 2019
+novel coronavirus pneumonia in Wuhan, China:
+a descriptive study. Lancet 2020; 395: 507-13.
+Eurasian J Med 2020; 52(2): 202-10
+Yang Y, Lu Q, Liu M, et al. Epidemiological and
+Mor G, Cardenas I, Abrahams V, et al. Inflammation and pregnancy: the role of the immune
+system at the implantation site. Ann N Y Acad
+Sci 2011; 1221: 80-7. [Crossref]
+Liu W, Wang Q, Zhang Q, et al. Coronavirus Disease 2019 (COVID-19) during pregnancy: A case
+NEJMc2009226. [Crossref]
+Chow N, Fleming-Dutra K, Gierke R, et al. Preliminary estimates of the prevalence of selected
+underlying health conditions among patients
+with coronavirus disease 2019- United States,
+February 12-March 28, 2020. MMWR Morb
+Mortal Wkly Rep 2020; 69: 382-6. [Crossref]
+Rasmussen SA, Smulian JC, Lednicky JA, et al.
+Coronavirus Disease 2019 (COVID-19) and
+pregnancy: what obstetricians need to know. Am
+J Obstet Gynecol 2020; 222: 415-26. [Crossref]
+Panahi L, Amiri M, Pouy S. Risks of Novel Coronavirus Disease (COVID-19) in Pregnancy; a
+Liu H, Liu F, Li J, et al. Clinical and CT imaging
+features of the COVID-19 pneumonia: Focus on
+pregnant women and children. J Infect 2020; 80:
+e7-13. [Crossref]
+Chen H, Guo J, Wang C, et al. Clinical characteristics and intrauterine vertical transmission
+records. Lancet 2020; 395: 809-15. [Crossref]
+Yu N, Li W, Kang Q, et al. Clinical features and
+obstetric and neonatal outcomes of pregnant
+patients with COVID-19 in Wuhan, China: a
+retrospective, single-centre, descriptive study.
+Lancet Infect Dis 2020; 20: 559-64. [Crossref]
+Yang H, Sun G, Tang F, et al. Clinical features and
+outcomes of pregnant women suspected of
+coronavirus disease 2019. J Infect 2020; S01634453(20)30212-7. [Crossref]
+Liang H, Acharya G. Novel corona virus disease
+(COVID-19) in pregnancy: What clinical recommendations to follow? Acta Obstet Gynecol
+Scand 2020; 99: 439-42. [Crossref]
+Ai T, Yang Z, Hou H, et al. Correlation of Chest
+CT and RT-PCR Testing in Coronavirus Disease
+2019 (COVID-19) in China: A Report of 1014
+Cases. Radiology 2020; 200642. [Crossref]
+Schwartz DA, Graham AL. Potential maternal
+and infant outcomes from coronavirus 2019nCoV (SARS-CoV-2) infecting pregnant women:
+lessons from SARS, MERS, and other human
+coronavirus infections. Viruses 2020; 12: 194.
+Al-Tawfiq JA. Middle east respiratory syndrome
+coronavirus (MERS-CoV) and COVID-19 infection during pregnancy. Travel Med Infect Dis
+Marim et al. COVID-19 in Pregnancy and Neonates
+18. Diav-Citrin O, Blyakhman S, Shechtman S, et al.
+Pregnancy outcome following in utero exposure
+to hydroxychloroquine: a prospective comparative observational study. Reprod Toxicol 2013;
+19. Cooper WO, Cheetham TC, Li DK, et al. Brief
+report: Risk of adverse fetal outcomes associated with immunosuppressive medications for
+chronic immune-mediated diseases in pregnancy.
+Arthritis Rheum 2014; 66: 444-50. [Crossref]
+20. Gayed M, Khamashta M, Culliford D, et al. Longterm outcomes of children born to mothers with
+SLE exposed to hydroxychloroquine in pregnancy. Rheumatology 2014; 53: i55. [Crossref]
+21. T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü.
+COVID-19 (Sars-CoV-2) enfeksiyonu rehberi.
+22. Wang M, Cao R, Zhang L, et al. Remdesivir
+and chloroquine effectively inhibit the recently
+emerged novel coronavirus (2019-nCoV) in vitro. Cell Res 2020; 30: 269-71. [Crossref]
+23. Delaney JW, Pinto R, Long J, et al. The influence
+of corticosteroid treatment on the outcome of
+influenza A(H1N1pdm09)-related critical illness.
+Crit Care 2016; 20: 75. [Crossref]
+24. Arabi YM, Mandourah Y, Al-Hameed F, et al.
+Corticosteroid therapy for critically ill patients
+with Middle East respiratory syndrome. Am
+J Respir Crit Care Med 2018; 197: 757-67.
+26. Thachil J, Tang N, Gando S, et al. ISTH interim
+guidance on recognition and management of
+coagulopathy in COVID-19. J Thromb Haemost
+27. Coronavirus (COVID-19) infection in pregnancy,
+Information for healthcare professionals. The
+Royal College of Obstetricians and Gynaecologists. 2020.
+28. Berghella V. Coronavirus disease 2019 (COVID-19):
+29. Di Mascio D, Khalil A, Saccone G, et al. Outcome
+of Coronavirus spectrum infections (SARS,
+30. Della Gatta AN, Rizzo R, Pilu G, Simonazzi G.
+31. Elshafeey F, Magdi R, Hindi N, et al. A systematic
+32. Yan J, Guo J, Fan C, et al. Coronavirus disease
+2019 (COVID-19) in pregnant women: A report
+based on 116 cases. Am J Obstet Gynecol 2020;
+S0002-9378(20)30462-2. [Crossref]
+33. Fakari FR, Simbar M. Coronavirus pandemic and
+worries during pregnancy; a letter to editör. Arch
+Acad Emerg Med 2020; 8: e21.
+34. Liu D, Li L, Wu X, et al. Pregnancy and Perinatal
+Outcomes of Women with COVID-19 Pneumonia: A Preliminary Analysis. Available From:
+SSRN3548758. 2020. [Crossref]
+35. Zhu H, Wang L, Fang C, et al. Clinical analysis of 10
+neonates born to mothers with 2019-nCoV pneumonia. Transl Pediatr 2020; 9: 5160. [Crossref]
+Ultrasound Obstet Gynecol 2020; 55: 586-92.
+38. Parazzini F, Bortolus R, Mauri PA, et al. Delivery
+in pregnant women infected with SARS-CoV-2:
+39. Lu Q, Shi Y. Coronavirus disease (COVID-19)
+and neonate: what neonatologist need to know.
+40. Morand A, Fabre A, Minodier P, et al. COVID-19
+virus and children: What do we know? Arch Pediatr. 2020 Apr; 27: 117-8. [Crossref]
+41. Mimouni F, Lakshminrusimha S3, Pearlman SA, et
+al. Perinatal aspects on the covid-19 pandemic: a
+practical resource for perinatal-neonatal specialists. J Perinatol 2020; 40: 820-6. [Crossref]
+42. Dashraath P, Jing Lin Jeslyn W, Mei Xian Karen
+L, et al. Coronavirus Disease 2019 (COVID-19)
+Pandemic and Pregnancy. Am J Obstet Gynecol
+43. Qi H, Luo X, Zheng Y, et al. Safe Delivery for
+COVID-19 Infected Pregnancies. BJOG 2020.
+44. Zaigham M, Andersson O. Maternal and Perinatal
+of 108 pregnancies. Acta Obstet Gynecol Scand
+45. Li N, Han L, Peng M, et al. Maternal and neonatal
+outcomes of pregnant women with COVID-19
+pneumonia: a case-control study. Clin Infect Dis
+Ultrasound Obstet Gynecol 2020; 55: 586-92.
+47. Zhang L, Jiang Y, Wei M, et al. Analysis of the
+pregnancy outcomes in pregnant women with
+COVID-19 in Hubei Province. Zhonghua Fu
+Chan Ke Za Zhi 2020; 55: 166-71.
+48. Chen D, Yang H, Cao Y, et al. Expert consensus
+for managing pregnant women and neonates
+born to mothers with suspected or confirmed
+novel coronavirus (COVID-19) infection. Int J
+Gynaecol Obstet 2020; 149: 130-6. [Crossref]
+49. Parazzini F, Bortolus R, Mauri PA, Favilli A, Gerli S,
+Ferrazzi E. Delivery in pregnant women infected
+210 • Marim et al. COVID-19 in Pregnancy and Neonates
+50. Poon LC, Yang H, Kapur A, et al. Global interim
+guidance on coronavirus disease 2019 (COVID-19) during pregnancy and puerperium from
+FIGO and allied partners: Information for healthcare professionals. Int J Gynaecol Obstet 2020;
+51. Edelson DP, Sasson C, Chan PS, et al. Interim
+guidance for basic and advanced life support in
+adults, children, and neonates with suspected
+or confirmed COVID-19: From the Emergency
+Cardiovascular Care Committee and Get with
+CIRCULATIONAHA. [Crossref]
+52. Favre G, Pomar L, Musso D, Baud D. 2019-nCoV
+epidemic: what about pregnancies? Lancet 2020;
+395: e40. [Crossref]
+53. Schwartz DA, Graham AL. Potential Maternal
+and Infant Outcomes from (Wuhan) Coronavirus 2019-nCoV Infecting Pregnant Women:
+Lessons from SARS, MERS, and Other Human
+Coronavirus Infections. Viruses 2020; 12; 194.
+54. Robertson CA, Lowther SA, Birch T, et al. SARS
+and pregnancy: a case report. Emerg Infect Dis
+55. Wong SF, Chow KM, de Swiet M. Severe acute
+respiratory syndrome and pregnancy. BJOG
+56. Assiri A, Abedi GR, Al Masri M, Bin Saeed A,
+Gerber SI, Watson JT. Middle east respiratory
+syndrome coronavirus infection during pregnancy: a report of 5 cases from Saudi Arabia. Clin
+Infect Dis 2016; 63: 951-3. [Crossref]
+57. Shek CC, Ng PC, Fung GP, et al. Infants born
+to mothers with severe acute respiratory syndrome. Pediatrics 2003; 112: e254. [Crossref]
+58. Wong SF, Chow KM, Leung TN, et al. Pregnancy
+and perinatal outcomes of women with severe
+acute respiratory syndrome. Am J Obstet Gynecol 2004; 191: 292-7. [Crossref]
+59. van Well GTJ, Daalderop LA, Wolfs T, Kramer
+BW. Human perinatal immunity in physiological
+conditions and during infection. Mol Cell Pediatr
+60. Cheng MP, Papenburg J, Desjardins M, et al. Diagnostic testing for Severe Acute Respiratory
+Syndrome-Related Coronavirus-2: A Narrative
+61. Chen Y, Peng H, Wang L, et al. Infants born to
+mothers with a new Coronavirus (COVID-19).
+Front Pediatr 2020; 8: 104. [Crossref]
+62. Zeng H, Xu C, Fan J, et al. Antibodies in infants
+born to mothers with COVID-19 Pneumonia.
+JAMA 2020; 323: 1848-9. [Crossref]
+63. Dong L, Tian J, He S, et al. Possible vertical transmission of SARS-CoV-2 from an ınfected mother to her newborn. JAMA 2020; 323: 1846-8.
+64. Kimberlin DW, Stagno S. Can SARS-CoV-2 Infection Be Acquired In Utero? More Definitive
+jama.2020.4868. [Crossref]
+65. Centers for Disease Control and Presention. Interim Infection Prevention and Control Recommendations for Patients with Suspected or Conﬁrmed
+control-recommendations.html#take_precautions. Accessed April 14, 2020.
+Shah PS, Diambomba Y, Acharya G, et al. Classification system and case definition for SARSCoV-2 infection in pregnant women, fetuses, and
+neonates. Acta Obstet Gynecol Scand 2020; 99:
+Queensland Clinical Guideline Supplement:
+Maternity care for mothers and babies during COVID-19 pandemic. Available From: URL:
+pdf_file/0033/947148/g-covid-19.pdf Accessed
+at April 14, 2020.
+Puopolo KM, Hudak ML, Kimberlin DW, et al.
+Inıtıal Guıdance: Management of Infants Born
+to Mothers with COVID-19. Available From:
+Guidance.pdf Accessed April 14, 2020.
+Chandrasekharan P, Vento M, Trevisanuto D, et
+al. Neonatal resuscitation and postresuscitation
+care of ınfants born to mothers with suspected or confirmed SARS-CoV-2 Infection. Am J
+Bhimraj A, Morgan RL, Shumaker AH, et al. Infectious Diseases Society of America guidelines
+on the treatment and management of patients
+with COVID-19. Clin Infect Dis 2020; ciaa478.
+Edward MS. Coronavirus disease 2019 (COVID-19): Considerations in children. Uptodate.
+com/contents/coronavirus-disease-2019-covid19-considerations-in children?search=covid%20
+rank=2 Accessed at April 17, 2020.
+Barnes BJ, Adrover JM, Baxter-Stoltzfus A, et al.
+Targeting potential drivers of COVID-19: Neutrophil extracellular traps. J Exp Med 2020; 217:
+e20200652. [Crossref]
+Centers for Disease Control and Presention.
+Davanzo R, Moro G, Sandri F, et al. Breastfeeding and Coronavirus Disease-2019. Ad interim
+indications of the Italian Society of Neonatalogy
+endorsed by the Union of European Neonatal
+& Perinatal Societies. Matern Child Nut 2020;
+e13010. [Crossref]
+Lyons KE, Ryan CA, Dempsey EM, Ross RP,
+Stanton C. Breast Milk, a source of beneficial microbes and associated benefits for ınfant health.
+Nutrients 2020; 12; 1039. [Crossref]
+Michaelsen FK, Lauritzen L, Mortensen EL. Effects of breast-feeding on cognitive function. In
+breast-feeding: Early influences on later health;
+pp.199-215. [Crossref]
+Eurasian J Med 2020; 52(2): 202-10
+77. Marinelli KA, Lawrence RM. Safe Handling of
+containers of expressed human milk in all settings
+during the SARS-CoV-2 (COVID-19) Pandemic. J
+Hum Lact 2020; 890334420919083. [Crossref]
+78. Centers for Disease Control and Presention. Pregnancy and Breastfeeding. Available From: URL:
+79. Remdesivir (United States: Investigational agent;
+refer to Prescribing and Access Restrictions):
+Drug information. In Uptodate. Available From:
+r-to-prescribing-and-access-restrictions-drug information? search=remdesivi r&source=panel_
+80. Hydroxychloroquine. Drugs and Lactation Database (LactMed) [Internet]. Available From:
+83. Lopinavir and ritonavir: Drug information. In
+86. Azithromycin (systemic): Drug information.
+87. Prednisone: Drug information. In Uptodate.
+89. Tocilizumab: Drug information. In Uptodate.
+contents/tocilizumab-drug-information? search=

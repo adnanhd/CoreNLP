@@ -1,0 +1,631 @@
+Exploring Sodium Glucose Co-Transporter-2 (SGLT2)
+Inhibitors for Organ Protection in COVID-19
+Beatriz Fernandez-Fernandez 1,2, Luis D’Marco 3, Jose Luis Górriz 3,4, Conxita Jacobs-Cachá 2,5,
+Mehmet Kanbay 6, Sergio Luis-Lima 1,2, Esteban Porrini 2,7,8, Pantelis Sarafidis 9,
+María José Soler 2,5 and Alberto Ortiz 1,2,*
+2 Red de Investigación Renal (REDINREN), Instituto Carlos III-FEDER, 28040 Madrid, Spain;
+3 Department of Nephrology, Hospital Clínico Universitario, INCLIVA, 46010 Valencia, Spain;
+4 Medicine Department, Universidad de Valencia, 46010 Valencia, Spain
+5 Nephrology Department, Hospital Universitari Vall d’Hebron, Universitat Autònoma de Barcelona,
+7 Department of Medicine, Hospital Universitario de Canarias, 38320 Tenerife, Spain
+Abstract: Hospital admissions and mortality from the Coronavirus disease 2019 (COVID-19)
+pandemic are spreading throughout the world, and second and third waves are thought to be likely.
+Risk factors for severe COVID-19 include diabetes, chronic kidney disease and cardiovascular
+disease. Currently, there is no vaccine and no approved therapy. Therapeutic approaches are aimed
+at preventing viral replication and spread, limiting the impact of the inflammatory overdrive
+(cytokine storm), preventing thromboembolic complications and replacing or supporting organ
+function. However, despite organ support, mortality is currently 65% for those receiving advanced
+respiratory support and 78% for those requiring renal replacement therapies. Thus, efforts should
+be made to provide adjuvant organ protection therapy. This may imply novel therapies in clinical
+development (e.g., the Fas ligand trap asunercept), but uptake of repurposed drugs already in
+clinical use may be faster. In this regard, sodium glucose co-transporter-2 (SGLT2) inhibitors were
+recently shown to protect the heart and kidney both within and outside of a diabetic milieu context.
+Further, preclinical data support a beneficial effect for the lung. We now discuss the potential
+benefits and risks of SGLT2 inhibitors in COVID-19 and an ongoing clinical trial testing the impact
+of dapagliflozin on outcomes in COVID-19 patients with respiratory failure.
+Keywords: COVID-19; diabetes; chronic kidney disease; cardiovascular; SGLT2; canagliflozin;
+dapagliflozin; empagliflozin
+Coronavirus disease 2019 (COVID-19) is a pandemic caused by the severe acute respiratory
+syndrome (SARS)-Coronavirus (CoV)-2. This is the third recent outbreak of coronaviruses following
+the SARS-CoV (2002) and the Middle East respiratory syndrome (MERS)-CoV (2015). It originated
+J. Clin. Med. 2020, 9, 2030
+from the Chinese city of Wuhan in December 2019 and as of 8 June 2020 has infected more than 7
+million people worldwide with more than 400,000 deaths [1–3]. Most common presenting symptoms
+include fatigue, fever, cough, dyspnea and diarrhea while median time between symptoms onset and
+death is 14 days [4–6]. The mortality rate of 2.8% (median age of 75 years) is lower than the 10%
+mortality in SARS-CoV and 37% mortality in MERS-CoV; however, higher absolute numbers of cases
+and deaths are explained by easy transmission via direct contact or droplets, as well as transmission
+by asymptomatic or mildly symptomatic individuals [4,7–9]. Although the search of reservoir
+animals has been inconclusive so far, there is 88% genetic similarity between SARS-CoV-2 and two
+bat-derived coronaviruses [10–12]. Possible fecal-oral transmission has also been reported while
+vaginal virus delivery has not been proven [13–15].
+The estimated mortality of diagnosed cases ranges from 2.3% to 15.2%, depending on patient
+populations, diagnostic strategies and, probably, additional poorly characterized factors [16,17]. The
+need for intensive care unit (ICU) admission is around 20% [18]. In ICUs, about 90% require
+respiratory support via either mechanical (88%) or non-invasive ventilation (12%) and mortality
+hovers around 50% [19]. Older age, higher sequential organ failure assessment (SOFA) score, D-dimer
+>1 μg/mL, presence of comorbid diseases or secondary infections, elevated inflammatory markers,
+low CD3+ and CD8+ T cell counts and cardiac troponin >0.05 ng/mL predict mortality while acute
+respiratory failure and fulminant myocarditis are the most commonly reported causes of death [20–
+organ protection and the potential beneficial role of sodium glucose co-transporter-2 (SGLT2)
+inhibitors in the COVID-19 context.
+2. Risk Factors for Severe COVID-19
+Clinical conditions associated with a higher risk for severe complications and death in COVID19 infected patients include cardiovascular disease, diabetes and chronic kidney disease (CKD). A
+recent meta-analysis including 1527 patients from six different studies, mostly from Wuhan (China),
+showed that hypertension (17.1%), cardiovascular disease (16.4%), and diabetes (9.7%) were the most
+prevalent diseases observed in patients with severe COVID-19 complications [23]. The fatality rate
+was 10.5, 7.3 and 6% in persons with cardiovascular disease, diabetes and hypertension, respectively,
+whereas the overall fatality rate was 2.3% in the COVID-19 summary report of 72,314 cases released
+by the Chinese Center for Disease Control [24]. Thus, patients with previous cardiovascular disease
+and diabetes had more severe disease and more complications [25]. Cardiovascular disease and
+diabetes are closely linked to CKD. In this regard, a meta-analysis of four studies, which included
+1389 COVID-19 patients, disclosed that CKD was associated with a severe presentation of the disease
+(OR, 3.03; 95%CI, 1.09–8.47), despite none of the individual studies showing this association [26]. The
+likely explanation may be the higher number of patients analyzed in the meta-analysis. COVID-19
+may also be complicated by acute kidney injury (AKI), which developed in 5.1% of 701 adults in a
+prospective cohort study [27]. Mortality was higher in patients with elevated than normal serum
+creatinine at baseline: HR, 2.10; 95%CI, 1.36–3.26. Additionally, although not prominent in early
+Wuhan reports, renal disease was the most common comorbidity among the first 6720 reported
+critically ill COVID-19 patients in the UK, being five-fold more common than cardiovascular disease
+3. Current Therapeutic Approaches to COVID-19
+There is no specific treatment for SARS-CoV-2. Several studies aiming to identify novel
+therapeutic agents and vaccines against SARS-CoV-2 are ongoing, but their safety and efficacy need
+to be assessed before generalized use [29–31]. In this emergency context, the health community has
+initially promoted the off-label use of approved drugs to try to control the SARS-CoV-2 infection as
+well as to manage the inflammatory, thrombotic, respiratory and cardiovascular complications in
+J. Clin. Med. 2020, 9, 2030
+SGLT2 inhibitors.
+3.1. Antiviral Therapies
+The primary goal during the initial phases of SARS-CoV-2 infection is to stop the virus cell cycle
+and slow down disease progression. The SARS-CoV-2 cell cycle resembles that of other coronaviruses
+(i.e., SARS-CoV and MERS-CoV) and shares replication mechanisms with other RNA viruses (i.e.,
+HIV or Ebola). Therefore, approved drugs to treat other viral infections or with a potential to interfere
+in viral propagation mechanism have been tested in COVID-19 patients [29,30,32,33]. Coronaviruses
+target host cells via direct interaction of the viral spike (S) protein with a cell membrane protein. In
+particular, SARS-CoV-2, like SARS-CoV, enters host cells via the angiotensin converting enzyme 2
+(ACE2), an endocytosis process facilitated by the type 2 transmembrane serine protease (TMPRSS2)
+[34,35]. A recent preprint report described SARS-CoV-2 entry into host cells by interacting with
+basigin, also known as extracellular matrix metalloproteinase inducer (EMMPRIN) or cluster of
+differentiation 147 (CD147) [34]. Once inside cells, viruses promote the translation of their nonessential polyproteins that after proteolysis will form a replication-transcription complex to replicate
+J. Clin. Med. 2020, 9, 2030
+targets. This picture shows a simplified SARS-CoV-2 life cycle in the target cells as well as a
+representation of the immune response against the virus. The targets of antiviral therapies and
+immunomodulation approaches are highlighted.
+The virus-host cell recognition may be prevented by soluble recombinant human ACE2
+(rhACE2) or convalescent SARS-CoV-2 sera [36,37]. The potential therapeutic role of rhACE2 for
+COVID-19 is under study as it decreased SARS-CoV-2 infectivity in human engineered blood vessels
+and kidney organoids [38,39]. Blocking CD147-mediated virus entry could also be a therapeutic
+option [40]. Meplazumab, a humanized antibody against CD147, was reported to accelerate COVID19 resolution in seventeen COVID-19 patients [41]. In addition, viral endocytosis can be inhibited by
+drugs. Camostat mesylate and nafamostat mesylate are serine protease inhibitors that target
+TMPRSS2 and block SARS-CoV-2 infection in human lung cells [35,42]. Camostat mesylate is
+approved in Japan to treat pancreatitis and COVID-19 clinical trials are ongoing [43]. Chloroquine
+and its hydroxylated form (hydroxychloroquine) were discovered in the early 30′s and 50′s,
+respectively. Both drugs are weak bases that accumulate in acidic compartments such as lysosomes
+and autosomes, interfering with normal endocytosis processes. Chloroquine was initially developed
+to treat malaria and hydroxychloroquine to treat rheumatoid arthritis, but they are now approved to
+treat diseases ranging from cancer to chronic inflammatory diseases [44]. Because of a known safety
+profile and low cost, they are being tested for both COVID-19 prevention and treatment with
+encouraging results although their efficacy has been questioned [33,45,46]. Arbidol (umifenovir) is a
+broad-spectrum antiviral drug that blocks the virus-cell membrane fusion by intercalating into
+membrane lipids [47,48]. Its use is approved for influenza treatment in Russia and China, and it is
+being tested in clinical trials for COVID-19. Wuhan data report better outcomes in patients treated
+with arbidol alone or in combination with other antiretroviral drugs [49,50]. Drugs that block viral
+RNA replication include lopinavir/ritonavir and darunavir, which inhibit the viral 3-chymotrypsinlike protease and are second line antiretrovirals for HIV [51]. However, the first randomized clinical
+trial (RCT) testing Lopinavir/Ritonavir suggested a limited efficacy for SARS-CoV-2 infections [52].
+Ribavirin, remdesivir and favipiravir are broad-range viral RNA polymerase blockers that have been
+previously tested for Hepatitis C, Ebola or Influenza, among others [53–57]. Their efficacy in COVID19 is currently being tested in several RCTs following the publication of case reports of successful
+remdesivir or favipiravir use [58–60].
+J. Clin. Med. 2020, 9, 2030
+3.2. Anti-Inflammatory Therapies
+In later disease stages, immunomodulation strategies should be considered. Viral infections are
+proinflammatory cytokines and chemokines may lead to a “cytokine storm”, thought to be the main
+cause of the SARS-CoV-2 acute respiratory distress syndrome, which is associated to thromboembolic
+events leading to multi-organ failure and death [61,62]. Although immunomodulation therapies
+remain controversial in the COVID-19 context because they may negatively influence the natural
+immune response against the virus [63], several ongoing RCTs aim to minimize immune system overactivation [30]. The main immunomodulatory strategies are [29] enhancing innate immune responses
+by administering recombinant interferon or natural-killer cells and [30] decrease inflammatory
+responses via the use of corticosteroids and other immunosuppressants, intravenous administration
+of general or SARS-CoV-2-specific immunoglobulins, infusion of mesenchymal stem cells, and
+blocking interleukin-1 (anakinra), interleukin-6 (tocilizumab, sarilumab) or complement activation
+(eculizumab and 5 additional agents are in clinical trials) [30,64]. Finally, it has been suggested that
+extracorporeal treatment, for example high-volume hemofiltration, may play a role in patients with
+COVID 19 and cytokine storm [65].
+3.3. Anti-Thrombotic Strategies
+Classical anticoagulant therapies were initially applied to COVID-19 patients at risk of
+thrombotic and thromboembolic events [66]. However, since COVID-19 patients with acute
+respiratory failure present severe hypercoagulability with fibrin formation and polymerization that
+may predispose to thrombosis and correlates with worse outcome, the use of low molecular weight
+heparin was extended to patients not requiring admission, especially if there is a high risk of venous
+thromboembolism (e.g., reduced mobility or co-morbidities), elevated D-dimer (>2 times the upper
+limit normal) and low risk of bleeding [67].
+3.4. Organ Support, Replacement and Protection
+In some cases, organ failure needs organ replacement or support therapies. The most common
+are respiratory support (advanced respiratory support was required by 70% of UK critically ill
+patients), renal replacement therapies (required in 22% of these patients) and cardiovascular support
+[68]. Mortality was 65% for those receiving advanced respiratory support and 78% for those requiring
+renal replacement therapies. The high mortality of patients requiring organ support points to the
+need to develop and implement organ protective strategies. As an example, Apogenix is to start
+clinical trials of asunercept (APG101) for COVID-19. This is, a human fusion protein consisting of the
+extracellular domain of the CD95 (Fas, TNFRSF6) receptor and the Fc domain of an IgG antibody that
+prevents Fas-induced epithelial cell death. Fas is upregulated in kidney cells during systemic
+inflammation and promotes lung and kidney cell death [69,70]. However, despite potential to protect
+both lung and kidney, asunercept is still in early stages of clinical development [71]. Drug
+repurposing offers the possibility of accelerated clinical translation. In this regard, SGLT2 inhibitors
+were recently shown to have heart and kidney organ protective properties both within and outside
+of a diabetic milieu context [72–74] and could offer an opportunity for organ protection in COVID19.
+3.5. SGLT2 Inhibitors: From Glucose Lowering to Organ Protection
+SGLT2 inhibitors are oral hypoglycemic agents for patients with type 2 diabetes mellitus (Τ2DM)
+[75]. One member of the class, dapagliflozin, was also recently approved in Europe for patients with
+T1DM. They block SGLT2, a high-capacity/low-affinity glucose transporter located in the S1 segment
+of renal proximal tubules and responsible for 90% of glucose reabsorption [76]. In diabetic patients,
+SGLT2 expression increases up to 3-fold. However, this effort to preserve glucose by preventing
+urinary excretion further deranges glucose homeostasis. SGLT2 inhibition results in excretion of 50-
+J. Clin. Med. 2020, 9, 2030
+60% of filtered glucose, roughly corresponding to 60–100 g/day and loss of the associated calories
+SGLT2 inhibitors have beneficial metabolic and cardiovascular effects. Loss of glucose in urine
+results in weight loss of around 2–4 kg within 3–6 months [78]. Further, the double mild natriuretic
+action (SGLT2 inhibition and the osmotic effect of glucosuria) causes clinically meaningful blood
+pressure reductions of 4–5/2–3 mmHg [79]. SGLT2 inhibition decrease of sodium reabsorption results
+in decreased energy expenditure by proximal tubular cells, potentially influencing other functions of
+these metabolically active cells. SGLT2 inhibitors are generally well-tolerated, with the most frequent
+adverse event being genital mycotic infections and the most serious the rare development of
+euglycemic diabetic ketoacidosis (DKA) [80].
+Accumulating evidence suggest that SGLT2 inhibitors are potent cardioprotective and
+nephroprotective agents [81]. The Empagliflozin Cardiovascular Outcome Event Trial in Type 2
+Diabetes Mellitus Patients (EMPA-REG OUTCOME), which randomized 7020 patients with T2DM
+and established cardiovascular disease to empagliflozin or placebo, first showed reductions of 14%
+in the primary outcome (non-fatal myocardial infarction or stroke, or death from cardiovascular
+causes) (HR, 0.86; 95%CI, 0.74–0.99; p = 0.04 for superiority), 38% in cardiovascular death, 35% in
+hospitalization for heart failure (HHF) and 32% in all-cause mortality [82]. The CanagliflozinCardiovascular-Assessment-Study (CANVAS) randomized 10,142 T2DM patients with either
+established cardiovascular disease or multiple cardiovascular risk factors to canagliflozin or
+placebo and also showed 14% reduction in the same primary outcome (HR, 0.86; 95%CI, 0.75–0.97);
+p = 0.02 for superiority), 33% reduction in HHF and a non-significant trend towards lower all-cause
+mortality (HR, 0.87; 95%CI, 0.74–1.01) [83]. The Multicenter Trial to Evaluate the Effect of
+Dapagliflozin on the Incidence of Cardiovascular Events Thrombolysis in Myocardial Infarction 58
+(DECLARE-TIMI 58) trial included 17,160 patients (10,186 without atherosclerotic cardiovascular
+disease, i.e., a lower-risk population) and showed non-inferiority of dapagliflozin in the
+aforementioned primary composite outcome and superiority compared to placebo with regards to
+HHF (HR, 0.73; 95%CI, 0.61–0.88) [84]. Finally, the recent DAPAgliflozin in Heart Failure (DAPAHF) study included 4744 patients (with or without T2DM) with NYHA II-IV heart failure and an
+ejection fraction <40% (heart failure with reduced ejection fraction) and showed that dapagliflozin
+significantly reduced the primary outcome of worsening heart failure or cardiovascular death (HR,
+0.74; 95%CI, 0.65–0.85) in both diabetic and non-diabetic patients [73,85].
+In parallel, preliminary evidence suggested that SGLT2 inhibitors significantly reduce
+albuminuria in comparison to placebo or active antihyperglycemic agents [86], while all the
+cardiovascular safety trials (EMPA-REG OUTCOME, CANVAS, DECLARE-TIMI) showed
+prominent effects on outcomes associated with kidney disease progression [83,84,87]. In a metaanalysis of these trials, SGLT2 inhibitors reduced the incidence of the composite renal outcome of
+worsening renal function (doubling of serum creatinine accompanied by an eGFR of ≤45 mL/min/1.73
+m2), end-stage renal disease (ESRD) defined as eGFR <15 mL/min/1.73 m2) or renal death (defined as:
+“any adjudicated non-CV death event where the adjudication committee assigned a renal proximate
+cause is considered a renal death”) by 45% (HR, 0.55; 95%CI, 0.48–0.64) [88]. The recent CREDENCE
+study in 4401 patients with T2DM and diabetic kidney disease (CKD and albumin-to-creatinine-ratio
+300–5000 mg/g) was prematurely stopped, showing reductions of 34% in the composite of ESRD,
+doubling of serum creatinine, or renal death and 32% in ESRD with canagliflozin compared to
+placebo [87]. Recently, the Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and
+Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD), a renal outcome
+trial evaluating the effect of dapagliflozin in patients with diabetic or non-diabetic CKD was also
+prematurely stopped due to benefit [89].
+The use of eGFR as an endpoint has been criticized since there is evidence that SGLT2 may
+reduce muscle mass and this may be associated with lower serum creatinine values [90]. However,
+this criticism does not apply to short term studies in which GFR was measured [91], as well as to
+albuminuria or hard (death) renal endpoints.
+J. Clin. Med. 2020, 9, 2030
+Several hypotheses on the mechanisms contributing to the cardioprotective properties of SGLT2
+inhibitors were generated, including reductions in glycemia, body weight, visceral adiposity, uric
+acid, albuminuria, sympathetic tone, a shift from glucose to fatty acid oxidation resulting in increased
+levels of β-hydroxybutyrate which is a better cardiac fuel or a direct effect of SGLT2 inhibitors on
+cardiomyocytes [92,93]. However, the dissociation of the curves for the outcomes that displayed the
+larger differences between groups in these trials (HHF and cardiovascular death) were observed
+during the first weeks suggesting that hemodynamic mechanisms, including mild natriuresis and
+reductions in blood pressure, may play a more prominent role [81]. Similarly, anti-inflammatory and
+antifibrotic effects and reversal of renal hypoxia of these agents could help towards a renoprotective
+action [94–96], but modulation of renal microcirculation is the most possible renoprotective
+mechanism [81]. Briefly, DM promotes renal injury through afferent arteriole vasodilation resulting
+in increased intraglomerular pressure and albuminuria. SGLT2 inhibitors through inhibition of
+sodium reabsorption in proximal tubules increase its distal availability; this is sensed by the macula
+densa, which restores the tubuloglomerular feedback resulting in reversal of the vasodilation of the
+afferent arteriole, decreased intraglomerular pressure and proteinuria [81,97]. However, additional
+potential mechanisms of action remain underexplored. Thus, β-hydroxybutyrate modulates
+epigenetic regulation of gene expression by promoting histone Lysine β-hydroxybutyrylation, a
+histone mark that promotes the expression of cell protective genes such as Ppargc1a (which encodes
+PGC-1α) [97–99].
+Based on the above findings, several consensus reports from major international bodies
+recommend SGLT2 inhibitors as the drug of choice after metformin in patients with T2DM and
+evidence of atherosclerotic cardiovascular disease, CKD or heart failure [81,100]. Additionally,
+clinical guidelines are starting to recommend SGLT2 inhibitors for patients with heart failure with
+reduced ejection fraction with or without diabetes [101,102].
+More recently, preclinical studies, although limited to the vasculature, suggest a potential role
+for SGLT2 inhibitors in lung protection. Thus, in ex vivo studies, canagliflozin relaxed mouse
+pulmonary arteries in a dose-dependent manner [103]. In rat pulmonary arterial hypertension,
+empagliflozin improved survival, reduced medial wall thickening and decreased muscularization of
+pulmonary arterioles [104]. However, the molecular mechanisms of this protective effect remain
+unclear, despite the observation that empagliflozin was associated with increased apoptosis and
+decreased proliferation in pulmonary vessels and thus prevented adverse pulmonary arteriole
+Overall, there is accumulating clinical and preclinical data suggesting that SGLT2 inhibitors
+have the potential to provide organ protection both inside and outside of the diabetic context.
+4. Current Recommendations and Potential Dangers of SGLT2 Inhibitors During Acute Illness
+During acute illness, care should be taken with volume depletion, blood pressure reduction and
+DKA when prescribing SGLT2 inhibitors. In the context of COVID-19, there is additionally the
+potential for interaction with other drugs. In this regard, health agencies (Royal United Hospitals,
+NHS Foundation, Catalan Health agency, among others) have warned about safety concerns for
+SLGT2i and the risk of DKA in patients with both diabetes and COVID19 infection. In this setting,
+they have recommended to avoid SGLT2 inhibitors in all patients with risk factors for developing
+symptoms or serious complications of COVID-19, such as patients with a history of hypertension,
+T2DM, atherosclerotic cardiovascular disease, heart failure and/or estimated GFR <25 mL/min/1.73
+m2. In this regard, COVID-19 patients may decrease food intake and may develop diarrhea and
+study to support this recommendation. It would probably be necessary to individualize the
+recommendation to discontinue SGLT2 inhibitors only in COVID-19 infected patients who present
+symptoms that predispose to a decrease in blood pressure or vascular volume, to avoid both the
+deterioration of renal function or DKA.
+J. Clin. Med. 2020, 9, 2030
+4.1. Volume Depletion
+SGLT2 inhibitors may cause volume depletion leading to acute kidney injury, usually within
+well-defined circumstances such as concomitant use of high-dose loop diuretics, low baseline blood
+pressure, treatment with non-steroidal anti-inflammatory drugs or concomitant digestive problems
+impairment [86]. Moreover, the glomerular hemodynamic effects of combining renin-angiotensin
+system (RAS) blockade and SGLT2 inhibitors usually cause a mild decrease in glomerular filtration
+rate, which is associated with long-term preservation in renal function [105]. Nevertheless, metaanalyses comparing Canagliflozin or Dapagliflozin with either placebo or active comparator and one
+comparing Empagliflozin with placebo did not confirm a significant volume depletion with SGLT2
+inhibitors [106]. In any case, hospitalized patients with mild-moderate manifestations of COVID-19
+should be monitored to prevent volume depletion and renal impairment.
+4.2. Blood Pressure
+SGLT2 inhibitors tend to decrease blood pressure due to their osmotic diuretic effect, thus
+potentially causing orthostatic hypotension and dizziness, especially when combined with diuretics
+[107]. Other diuresis-independent actions leading to blood pressure reduction, including effects on
+ion transporters, sympathetic nervous system activity, and vascular function, have also been
+proposed, although clinical evidence supporting these is sparse.
+Regulators warn of the risk of DKA, especially in T1DM patients receiving SGLT2 inhibitors, 5%
+to 12% of whom develop DKA [107]. An increased risk of DKA was also recorded in T2DM RCTs of
+SGLT2 inhibitors [108,109]. In 44,000 patient-years, DKA incidence rates were 0.16–0.76 events per
+1000 patient-years for an overall incidence of <0.1% of all treated patients [107], and in all cases, a
+precipitating factor was present. The risk factors for SGLT2 inhibitors-associated DKA are those
+conditions leading to restricted food intake or severe dehydration, alcohol abuse, sudden reduction
+in insulin or increased insulin requirements due to acute illness such as low beta cell function reserve
+(patients with T2DM who have low C-peptide levels, latent autoimmune diabetes in adults (LADA)
+or a history of pancreatitis) [108]. “Sick day rules” to manage diabetes during intercurrent illness help
+to prevent future complications [110]. In this regard, patients presenting COVID-19 symptoms may
+decrease food intake, blood pressure or vascular volume. SGLT2 inhibitors should be discontinued
+immediately if DKA is suspected or diagnosed since DKA requires urgent hospital admission.
+Physicians and patients should be aware of early symptoms associated to DKA (thirst, polyuria and
+sweet, fruity breath, abdominal pain and vomiting) in order to stop them timely.
+4.4. Interactions with Experimental COVID-19 Drugs
+Most interactions of experimental drugs currently used for COVID-19 are related to the potential
+increased or decreased exposures to or toxicities from co-medication therapies or COVID-19 drugs.
+In this regard, both hydroxychloroquine and azithromycin prolong the QT interval, and their
+association may trigger fatal torsade de pointes arrhythmia [111]. The currently known drug
+expected interactions for empagliflozin or dapagliflozin were listed, while canagliflozin may
+potentially interact with lopinavir-ritonavir (Kaletra) requiring monitoring and eventual drug dosing
+5. Clinical Trials of SGLT2 Inhibitors in COVID-19
+Summarizing the current situation for COVID-19, there is no therapy approved for COVID-19,
+and current experimental therapies are aimed at preventing viral replication and spread, limiting the
+impact of the inflammatory overdrive (cytokine storm), preventing thromboembolic complications
+and replacing or supporting organ function. However, mortality in patients requiring organ support
+exceeds 60%. Thus, efforts should be made to provide adjuvant organ protection therapies. Despite
+J. Clin. Med. 2020, 9, 2030
+a potential higher risk for SGLT2 inhibitors adverse effects in the context of acute illness and the
+resulting current advise against using them in COVID-19 patients, as recently emphasized [112], they
+have a favorable efficacy profile in preserving renal function, decreasing the impact of heart failure
+and increasing the survival of patients with risk factors for severe COVID-19. In preclinical studies,
+SGLT2 inhibitors had lung protective effects by decreasing oxidative stress, tissue hypoxia and
+inflammation [81,113–115]. Such an uncertainty regarding the use and risk-benefit balance of
+commonly prescribed drugs is not new in the history of treatment for severe disease or in the COVID19 context. Beta blockers were contraindicated for many years in patients with heart failure, until
+RCTs showed benefit. Regarding COVID-19, many physicians rushed to stop RAS blockade in
+patients with suspected COVID-19 (personal observation) following a hypothesis that these drugs
+might be detrimental for COVID-19 as in animal models they increase ACE2 (the receptor of SARSCoV-2) expression in cardiac [116] and vascular tissue [117]. The influence of RAS blockers on lung
+ACE2 expression is unknown both in experimental models and in humans. On the other hand, the
+protective effects of ACE2 have been widely described. Thus, an increased expression of ACE2 may
+be protective rather than detrimental in the COVID-19 context and rhACE2 is being pursued as a
+potential therapy for COVID-19 [118,119]. Clear statements by multiple scientific societies tried to
+dispel these doubts, supporting continuous use of RAS blockade, unless an established
+contraindication is met [120–122].
+Given the uncertain risk-benefit balance of SGLT2 inhibitors, a clinical trial would be needed to
+address the issue. In this regard, from 15 April 2020, an ongoing RCT (Dapagliflozin in Respiratory
+Failure in Patients with COVID-19, DARE-19, NCT04350593) is testing dapagliflozin in patients with
+COVID-19 and respiratory failure to assess impact on disease progression, complications and allcause mortality. In this international, multicenter, phase 3 double blind RCT, patients will initiate
+treatment with dapagliflozin 10 mg or placebo, once a day for 30 days on top of the standard local
+protocol for COVID19 treatment. The trial will randomize 900 hospitalized COVID-19 patients with
+mild-moderate disease severity, not needing mechanical ventilator support at the time of screening
+and having a prior cardiovascular or renal condition that impairs outcomes. Inclusion criteria
+comprise confirmed SARS-CoV-2 infection with chest radiography or CT scan compatible with
+COVID-19, mild-moderate disease (SpO2 ≥94% with ≤3 L supplemental oxygen) and at least one of
+the following conditions: hypertension, T2DM, atherosclerotic cardiovascular disease, heart failure
+and/or CKD stage 3 to 4 (eGFR 25–60 mL/min/1.73 m2). Key exclusion criteria include short life
+expectancy (<24 h), SBP <95 mm Hg and/or needing inotropic medication or mechanical circulatory
+support at screening, T1DM, treatment in the last 14 days or under treatment with antiimmunological drugs for COVID-19, DKA history in the prior 6 months or treatment with any SGLT2
+inhibitors at screening or within the prior 4 weeks. The primary endpoint will be time to first
+occurrence of all-cause mortality or new/worsened organ dysfunction through 30 days of follow up.
+Organ dysfunction may consist of respiratory decompensation, heart failure, cardiovascular
+instability, ventricular tachycardia or fibrillation or need for drug or mechanical circulatory support
+or renal replacement therapy.
+A second trial will assess the efficacy of the novel immunomodulatory agent EDP1815 (a strain
+of Prevotella histicola) and a combination of the approved cardiovascular drugs dapagliflozin and
+ambrisentan as potential treatments for COVID-19 disease against Standard of Care alone
+A recent report of the off-label prescription of empagliflozin 10 mg for 5–7 days in three nondiabetic hospitalized patients with severe bilateral interstitial COVID-19-related pneumonia
+concluded that no favorable action related to treatment was obtained [123]. However, it is unclear
+how this conclusion may be reached in the absence of controls. The three patients apparently
+survived, which should be considered a good outcome for a potentially lethal disease.
+SGLT2 inhibitors have shown unexpected clinical benefit regarding heart and kidney protection
+both within and outside the context of T2DM, suggesting potential intrinsic organ protective effects.
+J. Clin. Med. 2020, 9, 2030
+This is supported by preclinical data that suggest a range of potential mechanisms of action, not
+limited to hemodynamic effects. These mechanisms of action may impact cell resistance to diverse
+stressors by decreasing oxidative stress and inflammation. Thus, SGLT2 inhibitors may be potentially
+SGLT2 inhibitors in acutely ill patients, any use of these agents for COVID-19 patients with severe
+disease should be in the context of a clinical trial. Fortunately, results of the ongoing DARE-19
+dapagliflozin in respiratory failure trial in patients with COVID-19 are expected by December 2020,
+thus potentially on time for second or third waves of COVID-19. Additionally, the results of this trial
+may guide the field of SGLT2 inhibitors in organ protection beyond viral infection or diabetes.
+Current Status
+Health agencies recommendation to avoid SGLT2
+inhibitors during COVID-19 (“sick day rules”)
+Risk of volume depletion
+Potential drug interactions (canagliflozin and
+Potential for the Future
+SGLT2 inhibitors and organ
+protection in diabetes and outside
+Clinical: heart failure, CKD
+Preclinical: lung
+Ongoing RCT to assess organ
+protection in COVID-19
+Acknowledgements: Sources of support: FIS/Fondos FEDER (PI17/00257, PI18/01386, PI19/00588, PI19/00815,
+DTS18/00032, ERA-PerMed-JTC2018 (KIDNEY ATTACK AC18/00064 and PERSTIGAN AC18/00071, ISCIIIRETIC REDinREN RD016/0009), Sociedad Española de Nefrología, FRIAT, Comunidad de Madrid en
+Biomedicina B2017/BMD-3686 CIFRA2-CM.
+Conflicts of Interest: P.S. is an advisor/speaker to Amgen, Astra Zeneca, Bayer, Boehringer Ingelheim, Elpen
+Pharmaceuticals, Genesis Pharma, Menarini, Innovis Pharma, Winmedica and has received research support for
+an Investigator-Initiated Study from Astra Zeneca. J.L.G. has served as consultant for Boëhringer-Ingelheim,
+Mundipharma, AstraZeneca, Novonordisk and has received speaker honoraria from Boëhringer-Ingelheim,
+Mundipharma, AstraZeneca, Novonordisk, Novartis and Eli Lilly. L.D.M. has no conflict of interest. A.O. is a
+Consultant for Sanofi Genzyme and had received speaker fees from Shire, Amicus, Amgen, Otsuka,
+Mundipharma, Fresenius Medical Care, Kyowa-Kirin, Astra-Zeneca, Menarini and directs the MundipharmaUAM Cátedra de Diabetes y Enfermedad Renal. M.J.S. is a Consultant for NovoNordisk and had received
+speaker fees from Janssen, Boehringer, Eli Lilly, AstraZeneca, and Esteve. B.F.F. reports speaker fees or travel
+support from Abbvie, Astrazeneca, Boehringer Ingelheim, Esteve, Menarini, Mundipharma, Novartis and
+Novonordisk, outside the submitted work.
+Rothan, H.A.; Byrareddy, S.N. The epidemiology and pathogenesis of coronavirus disease (COVID-19)
+outbreak. J. Autoimmun. 2020, 109, 102433.
+Bogoch, I.I.; Watts, A.; Thomas-Bachli, A.; Huber, C.; Kraemer, M.U.G.; Khan, K. Pneumonia of unknown
+Lu, H.; Stratton, C.W.; Tang, Y. Outbreak of pneumonia of unknown etiology in Wuhan, China: The
+mystery and the miracle. J. Med Virol. 2020, 92, 401–402.
+Ren, L.-L.; Wang, Y.M.; Wu, Z.Q.; Xiang, Z.C.; Guo, L.; Xu, T.; Jiang, Y.Z.; Xiong, Y.; Li, Y.J.; Li, X.W.; et al.
+Identification of a novel coronavirus causing severe pneumonia in human. Chin. Med J. 2020, 133, 1015–
+Wang, W.; Tang, J.; Wei, F. Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV)
+in Wuhan, China. J. Med Virol. 2020, 92, 441–447.
+J. Clin. Med. 2020, 9, 2030
+Huang, C.; Wang, Y.; Li, X.; Ren, L.; Zhao, J.; Hu, Y.; Zhang, L.; Fan, G.; Xu, J.; Gu, X.; et al. Clinical features
+of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020, 395, 497–506.
+Ahn, D.-G.; Shin, H.-J.; Kim, M.-H.; Lee, S.; Kim, H.-S.; Myoung, J.; Kim, B.-T.; Kim, S.-J. Current status of
+epidemiology, diagnosis, therapeutics, and vaccines for novel coronavirus disease 2019 (COVID-19). J.
+Microbiol. Biotechnol. 2020, 30, 313–324.
+Bai, Y.; Yao, L.; Wei, T.; Tian, F.; Jin, D.-Y.; Chen, L.; Wang, M. Presumed asymptomatic carrier transmission
+of COVID-19. JAMA 2020, 323, 1406.
+Pan, X.; Chen, D.; Xia, Y.; Wu, X.; Li, T.; Ou, X.; Zhou, L.; Liu, J. Asymptomatic cases in a family cluster
+with SARS-CoV-2 infection. Lancet Infect. Dis. 2020, 20, 410–411.
+Lu, R.; Zhao, X.; Li, J.; Niu, P.; Yang, B.; Wu, H.; Wang, W.; Song, H.; Huang, B.; Zhu, N.; el al. Genomic
+characterisation and epidemiology of 2019 novel coronavirus: Implications for virus origins and receptor
+binding. Lancet 2020, 395, 565–574.
+Bassetti, M.; Vena, A.; Giacobbe, D.R. The novel Chinese coronavirus (2019-nCoV) infections: Challenges
+Ji, W.; Wang, W.; Zhao, X.; Zai, J.; Li, X. Cross-species transmission of the newly identified coronavirus
+2019-nCoV. J. Med Virol. 2020, 92, 433–440.
+Mullins, E.; Evans, D.; Viner, R.M.; O’Brien, P.; Morris, E. Coronavirus in pregnancy and delivery: Rapid
+Parazzini, F.; Bortolus, R.; Mauri, P.A.; Favilli, A.; Gerli, S.; Ferrazzi, E. Delivery in pregnant women
+Gu, J.; Han, B.; Wang, J. COVID-19: Gastrointestinal manifestations and potential fecal–oral transmission.
+Baud, D.; Qi, X.; Nielsen-Saines, K.; Musso, D.; Pomar, L.; Favre, G. Real estimates of mortality following
+Backer, J.A.; Klinkenberg, D.; Wallinga, J. Incubation period of 2019 novel coronavirus (2019-nCoV)
+infections among travellers from Wuhan, China. Eurosurveillance 2020, 25, 2000062.
+Grasselli, G.; Zangrillo, A.; Zanella, A.; Antonelli, M.; Cabrini, L.; Castelli, A.; Cereda, D.; Coluccello, A.;
+Foti, G.; Fumagalli, R.; et al. Baseline Characteristics and Outcomes of 1591 Patients Infected With SARSCoV-2 Admitted to ICUs of the Lombardy Region, Italy. JAMA ,2020, 323, 1574.
+Du, R.H.; Liang, L.R.; Yang, C.Q.; Wang, W.; Cao, T.Z.; Li, M.; Guo, G.Y.; Du, J.; Zheng, C.L.; Zhu, Q.; et al.
+Predictors of mortality for patients with COVID-19 pneumonia caused by SARS-CoV-2: A prospective
+cohort study. Eur. Respir. J. 2020, 2000524.
+Zhou, F.; Yu, T.; Du, R.; Fan, G.; Liu, Y.; Liu, Z.; Xiang, J.; Wang, Y.; Song, B.; Gu, X.; et al. Clinical course
+and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort
+study. Lancet 2020, 395, 1054–1062.
+Henry, B.M.; de Oliveira, M.H.S.; Benoit, S.; Plebani, M.; Lippi, G. Hematologic, biochemical and immune
+Li, B.; Yang, J.; Zhao, F.; Zhi, L.; Wang, X.; Liu, L.; Bi, Z.; Zhao, Y. Prevalence and impact of cardiovascular
+metabolic diseases on COVID-19 in China. Clin. Res. Cardiol. 2020, 109, 531–538.
+Wu, Z.; McGoogan, J.M. Characteristics of and important lessons from the coronavirus disease 2019
+(COVID-19) outbreak in China. JAMA 2020, 323, 1239.
+Guan, W.J.; Ni, Z.Y.; Hu, Y.; Liang, W.H.; Ou, C.Q.; He, J.X.; Liu, L.; Shan, H.; Lei, C.L.; Hui, D.S.C.; et al.
+Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 2020,
+Cheng, Y.; Luo, R.; Wang, K.; Zhang, M.; Wang, Z.; Dong, L.; Li, J.; Yao, Y.; Ge, S.; Xu, G. Kidney disease is
+associated with in-hospital death of patients with COVID-19. Kidney Int. 2020, 97, 829–838.
+J. Clin. Med. 2020, 9, 2030
+Khunti, K.; Singh, A.K.; Pareek, M.; Hanif, W. Is ethnicity linked to incidence or outcomes of Covid-19?
+BMJ 2020, 369, m1548.
+Liu, C.; Zhou, Q.; Li, Y.; Garner, L.V.; Watkins, S.P.; Carter, L.J.; Smoot, J.; Gregg, A.C.; Daniels, A.D.; Jervey,
+S; et. al. Research and development on therapeutic agents and vaccines for COVID-19 and related human
+coronavirus diseases. ACS Cent. Sci. 2020, 6, 315–331.
+Tu, Y.F.; Chien, C.S.; Yarmishyn, A.A.; Lin, Y.Y.; Luo, Y.H.; Lin, Y.T.; Lai, W.Y.; Yang, D.M.; Chou, S.J.;
+Zhou, Y.; Hou, Y.; Shen, J.; Huang, Y.; Martin, W.; Cheng, F. Network-based drug repurposing for novel
+coronavirus 2019-nCoV/SARS-CoV-2. Cell Discov. 2020, 6, 14.
+Vanden Eynde, J.J. COVID-19: A brief overview of the discovery clinical trial. Pharmaceuticals 2020, 13, 65.
+Sanders, J.M.; Monogue, M.L.; Jodlowski, T.Z.; Cutrell, J.B. Pharmacologic treatments for coronavirus
+Wang, K.; Chen, W.; Zhou, Y.-S.; Lian, J.-Q.; Zhang, Z.; Du, P.; Gong, L.; Zhang, Y.; Cui, H.-Y.; Geng, J.-J.;
+et al. SARS-CoV-2 invades host cells via a novel route: CD147-spike protein. BioRxiv 2020,
+Hoffmann, M.; Kleine-Weber, H.; Schroeder, S.; Krüger, N.; Herrler, T.; Erichsen, S.; Schiergens, T.S.;
+Herrler, G.; Wu, N.-H.; Nitsche, A.; et al. SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is
+blocked by a clinically proven protease inhibitor. Cell 2020, 181, 271–280.
+Ahn, J.Y.; Sohn, Y.; Lee, S.H.; Cho, Y.; Hyun, J.H.; Baek, Y.J.; Jeong, S.J.; Kim, J.H.; Ku, N.S.; Yeom, J.S.; et
+al. Use of convalescent plasma therapy in two COVID-19 patients with acute respiratory distress syndrome
+in Korea. J. Korean Med. Sci. 2020, 35, e149.
+Shen, C.; Wang, Z.; Zhao, F.; Yang, Y.; Li, J.; Yuan, J.; Wang, F.; Li, D.; Yang, M.; Xing, L.; et al. Treatment
+of 5 critically ill patients with COVID-19 with convalescent plasma. JAMA 2020, 323, 1582.
+Batlle, D.; Wysocki, J.; Satchell, K. Soluble angiotensin-converting enzyme 2: A potential approach for
+coronavirus infection therapy? Clin. Sci. 2020, 134, 543–545.
+Monteil, V.; Kwon, H.; Prado, P.; Hagelkrüys, A.; Wimmer, R.A.; Stahl, M.; Leopoldi, A.; Garreta, E.; Del
+Pozo, C.H.; Prosper, F.; et al. Inhibition of SARS-CoV-2 infections in engineered human tissues using
+clinical-grade soluble human ACE2. Cell 2020, 181, 905–913.e7.
+Ulrich, H.; Pillat, M.M. CD147 as a target for COVID-19 treatment: suggested effects of azithromycin and
+Bian, H.; Zheng, Z.-H.; Wei, D.; Zhang, Z.; Kang, W.-Z.; Hao, C.-Q.; Dong, K.; Xia, J.; Miao, J.-L.; Xie, R.-H.;
+et al. Meplazumab treats COVID-19 pneumonia: An open-labelled, concurrent controlled add-on clinical
+Hoffmann, M.; Schroeder, S.; Kleine-Weber, H.; Müller, M.A.; Drosten, C.; Pöhlmann, S. Nafamostat
+mesylate blocks activation of SARS-CoV-2: New treatment option for COVID-19. Antimicrob. Agents
+Ramsey, M.L.; Nuttall, J.; Hart, P.A. A phase 1/2 trial to evaluate the pharmacokinetics, safety, and efficacy
+of NI-03 in patients with chronic pancreatitis: Study protocol for a randomized controlled trial on the
+assessment of camostat treatment in chronic pancreatitis (TACTIC). Trials 2019, 20, 501.
+Schrezenmeier, E.; Dörner, T. Mechanisms of action of hydroxychloroquine and chloroquine: Implications
+for rheumatology. Nat. Rev. Rheumatol. 2020, 16, 155–166.
+Taccone, F.S.; Gorham, J.; Vincent, J.-L. Hydroxychloroquine in the management of critically ill patients
+Pécheur, E.-I.; Borisevich, V.; Halfmann, P.; Morrey, J.D.; Smee, D.F.; Prichard, M.N.; Mire, C.E.; Kawaoka,
+Y.; Geisbert, T.W.; Polyak, S.J. The synthetic antiviral drug arbidol inhibits globally prevalent pathogenic
+viruses. J. Virol. 2016, 90, 3086–3092.
+Haviernik, J.; Stefanik, M.; Fojtíková, M.; Kali, S.; Tordo, N.; Rudolf, I.; Hubálek, Z.; Eyer, L.; Ruzek, D.
+Arbidol (Umifenovir): A broad-spectrum antiviral drug that inhibits medically important arthropod-borne
+flaviviruses. Viruses 2018, 10, 184.
+Zhu, Z.; Lu, Z.; Xu, T.; Chen, C.; Yang, G.; Zha, T.; Lu, J.; Xue, Y. Arbidol monotherapy is superior to
+J. Clin. Med. 2020, 9, 2030
+Deng, L.; Li, C.; Zeng, Q.; Liu, X.; Li, X.; Zhang, H.; Hong, Z.; Xia, J. Arbidol combined with LPV/r versus
+LPV/r alone against Corona Virus Disease 2019: A retrospective cohort study. J. Infect. 2020,
+Kanters, S.; Socias, M.E.; I Paton, N.; Vitoria, M.; Doherty, M.; Ayers, D.; Popoff, E.; Chan, K.; A Cooper, D.;
+Wiens, M.O.; et al. Comparative efficacy and safety of second-line antiretroviral therapy for treatment of
+Cao, B.; Wang, Y.; Wen, D.; Liu, W.; Wang, J.; Fan, G.; Ruan, L.; Song, B.; Cai, Y.; Wei, M.; et al. A trial of
+lopinavir–ritonavir in adults hospitalized with severe Covid-19. N. Engl. J. Med. 2020,
+Furuta, Y.; Komeno, T.; Nakamura, T. Favipiravir (T-705), a broad spectrum inhibitor of viral RNA
+polymerase. Proc. Jpn. Acad. Ser. B: Phys. Biol. Sci. 2017, 93, 449–463.
+Takashita, E. Influenza polymerase inhibitors: Mechanisms of action and resistance. Cold Spring Harb.
+Gordon, C.J.; Tchesnokov, E.P.; Woolner, E.; Perry, J.K.; Feng, J.Y.; Porter, D.P.; Götte, M. Remdesivir is a
+direct-acting antiviral that inhibits RNA-dependent RNA polymerase from severe acute respiratory
+syndrome coronavirus 2 with high potency. J. Boil. Chem. 2020, 295, 6785–6797.
+Hoenen, T.; Groseth, A.; Feldmann, H. Therapeutic strategies to target the Ebola virus life cycle. Nat. Rev.
+Zając, M.; Muszalska-Kolos, I.; Sobczak, A.; Dadej, A.; Tomczak, S.; Jelińska, A. Hepatitis C—New drugs
+and treatment prospects. Eur. J. Med. Chem. 2019, 165, 225–249.
+Holshue, M.L.; DeBolt, C.; Lindquist, S.; Lofy, K.H.; Wiesman, J.; Bruce, H.; Spitters, C.; Ericson, K.;
+Wilkerson, S.; Tural, A.; et al. First case of 2019 novel coronavirus in the United States. New Engl. J. Med.
+Kujawski, S.A.; Wong, K.K.; Collins, J.P.; Epstein, L.; Killerby, M.E.; Midgley, C.M.; Abedi, G.R.; Ahmed,
+N.S.; Almendares, O.; Alvarez, F.N.; et al. First 12 patients with coronavirus disease 2019 (COVID-19) in
+Wang, Y.; Zhang, D.; Du, G.; Du, R.; Zhao, J.; Jin, Y.; Fu, S.; Gao, L.; Cheng, Z.; Lu, Q.; et al. Remdesivir in
+adults with severe COVID-19: A randomised, double-blind, placebo-controlled, multicentre trial. Lancet
+Ye, Q.; Wang, B.; Mao, J. The pathogenesis and treatment of the ‘Cytokine Storm’ in COVID-19. J. Infect.
+Mehta, P.; McAuley, D.F.; Brown, M.; Sanchez, E.; Tattersall, R.S.; Manson, J.J. COVID-19: Consider
+cytokine storm syndromes and immunosuppression. Lancet 2020, 395, 1033–1034.
+Ritchie, A.I.; Singanayagam, A. Immunosuppression for hyperinflammation in COVID-19: A double-edged
+sword? Lancet 2020, 395, 1111.
+Magro, C.; Mulvey, J.J.; Berlin, D.; Nuovo, G.; Salvatore, S.; Harp, J.; Baxter-Stoltzfus, A.; Laurence, J.
+Complement associated microvascular injury and thrombosis in the pathogenesis of severe COVID-19
+infection: A report of five cases. Transl. Res. 2020, 220, 1–13.
+Ma, J.; Xia, P.; Zhou, Y.; Liu, Z.; Zhou, X.; Wang, J.; Li, T.; Yan, X.; Chen, L.; Zhang, S.; et al. Potential effect
+of blood purification therapy in reducing cytokine storm as a late complication of critically ill COVID-19.
+Clin. Immunol. 2020, 214, 108408.
+Bikdeli, B.; Madhavan, M.V.; Jimenez, D.; Chuich, T.; Dreyfus, I.; Driggin, E.; Der Nigoghossian, C.; Ageno,
+W.; Madjid, M.; Guo, Y.; et al. COVID-19 and thrombotic or thromboembolic disease: Implications for
+prevention, antithrombotic therapy, and follow-up. J. Am. Coll. Cardiol. 2020, 75, 2950–2973.
+Spiezia, L.; Boscolo, A.; Poletto, F.; Cerruti, L.; Tiberio, I.; Campello, E.; Navalesi, P.; Simioni, P. COVID-19related severe hypercoagulability in patients admitted to intensive care unit for acute respiratory failure.
+Thromb. Haemost. 2020, 120, 998–1000.
+Ortiz, A.; Danoff, T.M.; Kalluri, R.; González-Cuadrado, S.; Karp, S.L.; Elkon, K.; Egido, J.; Neilson, E.G.
+Regulation of Fas and Fas ligand expression in cultured murine renal cells and in the kidney during
+endotoxemia. Am. J. Physiol. Physiol. 1996, 271, F1193–F1201.
+J. Clin. Med. 2020, 9, 2030
+Lorz, C.; Ortiz, A.; Justo, P.; González-Cuadrado, S.; Duque, N.; Gómez-Guerrero, C.; Egido, J. Proapoptotic
+Fas ligand is expressed by normal kidney tubular epithelium and injured glomeruli. J. Am. Soc. Nephrol.
+Boch, T.; Luft, T.; Metzgeroth, G.; Mossner, M.; Jann, J.-C.; Nowak, D.; La Meir, F.; Schumann, C.; Klemmer,
+J.; Brendel, S.; et al. Safety and efficacy of the CD95-ligand inhibitor asunercept in transfusion-dependent
+patients with low and intermediate risk MDS. Leuk. Res. 2018, 68, 62–69.
+Herrington, W.G.; Preiss, D.; Haynes, R.; Von Eynatten, M.; Staplin, N.; Hauske, S.J.; George, J.T.; Green,
+J.B.; Landray, M.J.; Baigent, C.; et al. The potential for improving cardio-renal outcomes by sodium-glucose
+co-transporter-2 inhibition in people with chronic kidney disease: A rationale for the EMPA-KIDNEY
+study. Clin. Kidney J. 2018, 11, 749–761.
+McMurray, J.J.; Solomon, S.D.; Inzucchi, S.E.; Køber, L.; Kosiborod, M.N.; Martinez, F.A.; Ponikowski, P.;
+Sabatine, M.S.; Anand, I.S.; Bělohlávek, J.; et al. Dapagliflozin in patients with heart failure and reduced
+ejection fraction. N. Engl. J. Med. 2019, 381, 1995–2008.
+Fernandez-Fernandez, B.; Fernandez-Prado, R.; Górriz, J.L.; Martinez-Castelao, A.; Navarro-González, J.F.;
+Porrini, E.; Soler, M.J.; Ortiz, A. Canagliflozin and renal events in diabetes with established nephropathy
+clinical evaluation and study of diabetic nephropathy with Atrasentan: What was learned about the
+treatment of diabetic kidney disease with canagliflozin and atrasentan? Clin. Kidney J. 2019, 12, 313–321.
+Loutradis, C.; Papadopoulou, E.; Angeloudi, E.; Karagiannis, A.; Sarafidis, P. The beneficial actions of
+SGLT-2 inhibitors beyond management of hyperglycemia. Curr. Med. Chem. 2019, 26,
+Ferrannini, E. Sodium-glucose co-transporters and their inhibition: Clinical physiology. Cell Metab. 2017,
+Novikov, A.; Vallon, V. Sodium glucose cotransporter 2 inhibition in the diabetic kidney. Curr. Opin.
+Nephrol. Hypertens. 2016, 25, 50–58.
+Lee, P.C.; Ganguly, S.; Goh, S.-Y. Weight loss associated with sodium-glucose cotransporter-2 inhibition: A
+Imprialos, K.P.; Sarafidis, P.A.; Karagiannis, A.I. Sodium-glucose cotransporter-2 inhibitors and blood
+pressure decrease. J. Hypertens. 2015, 33, 2185–2197.
+Barski, L.; Eshkoli, T.; Brandstaetter, E.; Jotkowitz, A. Euglycemic diabetic ketoacidosis. Eur. J. Intern. Med.
+Sarafidis, P.; Ferro, C.J.; Morales, E.; Ortiz, A.; Malyszko, J.; Hojs, R.; Khazim, K.; Ekart, R.; Valdivielso, J.;
+Fouque, D.; et al. SGLT-2 inhibitors and GLP-1 receptor agonists for nephroprotection and cardioprotection
+in patients with diabetes mellitus and chronic kidney disease. A consensus statement by the EURECA-m
+and the DIABESITY working groups of the ERA-EDTA. Nephrol. Dial. Transplant. 2019, 34, 208–230.
+Zinman, B.; Wanner, C.; Lachin, J.M.; Fitchett, D.; Bluhmki, E.; Hantel, S.; Mattheus, M.; Devins, T.;
+Johansen, O.E.; Woerle, H.J.; et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2
+diabetes. N. Engl. J. Med. 2015, 373, 2117–2128.
+Neal, B.; Perkovic, V.; Mahaffey, K.W.; De Zeeuw, D.; Fulcher, G.; Erondu, N.; Shaw, W.; Law, G.; Desai,
+M.; Matthews, D.R.; et al. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N. Engl. J.
+Baglioni, P.; Wiviott, S.D.; Raz, I.; Sabatine, M.S.; Akinci, B. Dapagliflozin and cardiovascular outcomes in
+type 2 diabetes. N. Engl. J. Med. 2019, 380, 1880–1881.
+Petrie, M.C.; Verma, S.; Docherty, K.F.; Inzucchi, S.E.; Anand, I.; Belohlávek, J.; Böhm, M.; Chiang, C.-E.;
+Chopra, V.K.; De Boer, R.A.; et al. Effect of dapagliflozin on worsening heart failure and cardiovascular
+death in patients with heart failure with and without diabetes. JAMA 2020, 323, 1353.
+Piperidou, A.; Sarafidis, P.; Boutou, A.; Thomopoulos, C.; Loutradis, C.; Alexandrou, M.E.; Tsapas, A.;
+Karagiannis, A. The effect of SGLT-2 inhibitors on albuminuria and proteinuria in diabetes mellitus. J.
+Perkovic, V.; De Zeeuw, D.; Mahaffey, K.W.; Fulcher, G.; Erondu, N.; Shaw, W.; Barrett, T.D.; WeidnerWells, M.; Deng, H.; Matthews, D.R.; et al. Canagliflozin and renal outcomes in type 2 diabetes: Results
+from the CANVAS Program randomised clinical trials. Lancet Diabetes Endocrinol. 2018, 6, 691–704.
+A Zelniker, T.; Wiviott, S.D.; Raz, I.; Im, K.; Goodrich, E.; Bonaca, M.P.; Mosenzon, O.; Kato, E.T.; Cahn, A.;
+Furtado, R.H.M.; et al. SGLT2 inhibitors for primary and secondary prevention of cardiovascular and renal
+J. Clin. Med. 2020, 9, 2030
+Farxiga Is the First SGLT2 Inhibitor to Show Meaningful Benefit in Patients with Chronic Kidney Disease
+Post, A.; Groothof, D.; Eisenga, M.F.; Bakker, S.J.L. Sodium-glucose cotransporter 2 inhibitors and kidney
+outcomes: True renoprotection, loss of muscle mass or both? J. Clin. Med. 2020, 9, 1603.
+Cherney, D.Z.I.; Perkins, B.A.; Soleymanlou, N.; Maione, M.; Lai, V.; Lee, A.; Fagan, N.M.; Woerle, H.J.;
+Johansen, O.E.; Broedl, U.C.; et al. Renal hemodynamic effect of sodium-glucose cotransporter 2 inhibition
+in patients with type 1 diabetes mellitus. Circulation 2013, 129, 587–597.
+Uthman, L.; Baartscheer, A.; Bleijlevens, B.; Schumacher, C.A.; Fiolet, J.W.T.; Koeman, A.; Jancev, M.;
+Hollmann, M.W.; Weber, N.C.; Coronel, R.; et al. Class effects of SGLT2 inhibitors in mouse cardiomyocytes
+and hearts: Inhibition of Na+/H+ exchanger, lowering of cytosolic Na+ and vasodilation. Diabetologia 2018,
+Marx, N.; McGuire, D.K. Sodium-glucose cotransporter-2 inhibition for the reduction of cardiovascular
+events in high-risk patients with diabetes mellitus. Eur. Hear. J. 2016, 37, 3192–3200.
+García-Carro, C.; Vergara, A.; Agraz, I.; Soler, M.J.; Espinel, E.; Seron, D.; Soler, M.J. The new era for renocardiovascular treatment in type 2 diabetes. J. Clin. Med. 2019, 8, 864.
+Górriz, J.L.; Navarro-González, J.F.; Ortiz, A.; Vergara, A.; Nuñez, J.; Jacobs-Cachá, C.; Martínez-Castelao,
+A.; Soler, M.J. Sodium-glucose cotransporter 2 inhibition: Towards an indication to treat diabetic kidney
+disease. Nephrol. Dial. Transplant. 2020, 35, i13–i23.
+Vergara, A.; Jacobs-Cachá, C.; Soler, M.J. Sodium-glucose cotransporter inhibitors: Beyond glycaemic
+control. Clin. Kidney J. 2019, 12, 322–325.
+Zhang, H.; Tang, K.; Ma, J.; Zhou, L.; Liu, J.; Zeng, L.; Zhu, L.; Xu, P.; Chen, J.; Wei, K.; et al. Ketogenesisgenerated β-hydroxybutyrate is an epigenetic regulator of CD8+ T-cell memory development. Nature 2019,
+Fontecha-Barriuso, M.; Martín-Sánchez, D.; Martinez-Moreno, J.M.; Carrasco, S.; Ruiz-Andrés, O.;
+Monsalve, M.; Sanchez-Ramos, C.; Gómez, M.J.; Ruiz-Ortega, M.; Sanchez-Niño, M.D.; et al. PGC-1α
+deficiency causes spontaneous kidney inflammation and increases the severity of nephrotoxic AKI. J.
+Andres, O.R.; Suárez-Álvarez, B.; Sanchez-Ramos, C.; Monsalve, M.; Sanchez-Niño, M.D.; Ruiz-Ortega, M.;
+Egido, J.; Ortiz, A.; Sanz, A.; Ortiz, A. The inflammatory cytokine TWEAK decreases PGC-1α expression
+and mitochondrial function in acute kidney injury. Kidney Int. 2016, 89, 399–410.
+Aminian, A.; Zajichek, A.; Arterburn, D.E.; Wolski, K.E.; Brethauer, S.A.; Schauer, P.R.; Nissen, S.E.; Kattan,
+M.W. Erratum. Predicting 10-year risk of end-organ complications of type 2 diabetes with and without
+metabolic surgery: A machine learning approach. Diabetes Care 2020; 43: 852–859. Diabetes Care 2020, 43,
+Seferović, P.M.; Coats, A.J.; Ponikowski, P.; Filippatos, G.; Huelsmann, M.; Jhund, P.S.; Polovina, M.M.;
+Komajda, M.; Seferović, J.; Sari, I.; et al. European Society of Cardiology/Heart Failure Association position
+paper on the role and safety of new glucose-lowering drugs in patients with heart failure. Eur. J. Hear. Fail.
+O’Meara, E.; McDonald, M.; Chan, M.; Ducharme, A.; Ezekowitz, J.A.; Giannetti, N.; Grzeslo, A.; Heckman,
+G.A.; Howlett, J.G.; Koshman, S.L.; et al. CCS/CHFS Heart Failure Guidelines: Clinical trial update on
+functional mitral regurgitation, SGLT2 inhibitors, ARNI in HFpEF, and Tafamidis in Amyloidosis. Can. J.
+Han, Y.; Cho, Y.-E.; Ayon, R.; Guo, R.; Youssef, K.D.; Pan, M.; Dai, A.; Yuan, J.X.-J.; Makino, A. SGLT
+inhibitors attenuate NO-dependent vascular relaxation in the pulmonary artery but not in the coronary
+artery. Am. J. Physiol. Cell. Mol. Physiol. 2015, 309, L1027–L1036.
+Chowdhury, B.; Luu, A.Z.; Luu, V.Z.; Kabir, M.G.; Pan, Y.; Teoh, H.; Quan, A.; Sabongui, S.; Al-Omran, M.;
+Bhatt, D.L.; et al. The SGLT2 inhibitor empagliflozin reduces mortality and prevents progression in
+experimental pulmonary hypertension. Biochem. Biophys. Res. Commun. 2020, 524, 50–56.
+J. Clin. Med. 2020, 9, 2030
+105. Diabetes Tipo 2 en Prevención Secundaria. Recomendaciones de Tratamiento Con la Colaboración de
+their antidiabetic and cardioprotective effects. Int. J. Environ. Res. Public Heal. 2019, 16, 2965.
+107. Goldenberg, R.; Berard, L.; Cheng, A.; Gilbert, J.D.; Verma, S.; Woo, V.C.; Yale, J.-F. SGLT2 inhibitor–
+108. Erondu, N.; Desai, M.; Ways, K.; Meininger, G. Diabetic ketoacidosis and related events in the canaglif lozin
+type 2 diabetes clinical program. Diabetes Care 2015, 38, 1680–1686.
+109. Singh, A.K. Sodium-glucose co-transporter-2 inhibitors and euglycemic ketoacidosis: Wisdom of hindsight.
+Indian J. Endocrinol. Metab. 2015, 19, 722–730.
+110. Down, S. How to advise on sick day rules. Diabetes Primary Care 2018, 20, 15–16.
+111. Roden, D.M.; Harrington, R.A.; Poppas, A.; Russo, A.M. Considerations for drug interactions on QTc
+112. Chatterjee, S. SGLT-2 inhibitors for COVID-19—A miracle waiting to happen or just another beat around
+113. Packer, M. Role of impaired nutrient and oxygen deprivation signaling and deficient autophagic flux in
+diabetic CKD development: Implications for understanding the effects of sodium-glucose cotransporter 2inhibitors. J. Am. Soc. Nephrol. 2020, 31, 907–919.
+114. Tanaka, A.; Node, K. Exploration of the clinical benefits of sodium glucose co-transporter 2 inhibitors in
+diabetic patients with concomitant heart failure. Cardiovasc. Diabetol. 2018, 17, 74.
+115. Esterline, R.L.; Vaag, A.; Oscarsson, J.; Vora, J. Mechanisms in endocrinology: SGLT2 inhibitors: Clinical
+benefits by restoration of normal diurnal metabolism? Eur. J. Endocrinol. 2018, 178, R113–R125.
+116. Ocaranza, M.P.; Godoy, I.; Jalil, J.E.; Varas, M.; Collantes, P.; Pinto, M.; Roman, M.; Ramirez, C.; Copaja,
+M.; Diaz-Araya, G.; et al. Enalapril attenuates downregulation of angiotensin-converting enzyme 2 in the
+late phase of ventricular dysfunction in myocardial infarcted rat. Hypertension 2006, 48, 572–578.
+117. Soler, M.J.; Ye, M.; Wysocki, J.; William, J.; Lloveras, J.; Batlle, D. Localization of ACE2 in the renal
+vasculature: amplification by angiotensin II type 1 receptor blockade using telmisartan. Am. J. Physiol.
+Physiol. 2009, 296, F398–F405.
+119. Zheng, Y.-Y.; Ma, Y.-T.; Zhang, J.-Y.; Xie, X. COVID-19 and the cardiovascular system. Nat. Rev. Cardiol.
+120. Vaduganathan, M.; Vardeny, O.; Michel, T.; McMurray, J.J.; Pfeffer, M.A.; Solomon, S.D. Renin–
+angiotensin–aldosterone system inhibitors in patients with Covid-19. N. Engl. J. Med. 2020, 382, 1653–1659.
+121. Mancia, G.; Rea, F.; Ludergnani, M.; Apolone, G.; Corrao, G. Renin–angiotensin–aldosterone system
+blockers and the risk of covid-19. N. Engl. J. Med. 2020, 382, 2431–2440.
+122. Mehra, M.R.; Desai, S.S.; Kuy, S.; Henry, T.D.; Patel, A.N. Cardiovascular disease, drug therapy, and
+mortality in Covid-19. N. Engl. J. Med. 2020, 382, e102.
+123. Bossi, A.C.; Forloni, F.; Colombelli, P.L. Lack of efficacy of SGLT2-i in severe pneumonia related to novel

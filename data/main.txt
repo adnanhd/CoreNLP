@@ -1,0 +1,393 @@
+Since January 2020 Elsevier has created a COVID-19 resource centre with
+free information in English and Mandarin on the novel coronavirus COVID19. The COVID-19 resource centre is hosted on Elsevier Connect, the
+company's public news and information website.
+Elsevier hereby grants permission to make all its COVID-19-related
+research that is available on the COVID-19 resource centre - including this
+research content - immediately available in PubMed Central and other
+publicly funded repositories, such as the WHO COVID database with rights
+for unrestricted research re-use and analyses in any form or by any means
+with acknowledgement of the original source. These permissions are
+granted for free by Elsevier for as long as the COVID-19 resource centre
+remains active.
+Effects of Hydroxychloroquine Treatment on QT Interval
+Matthew Hooks, MD, Bradley Bart, MD, Orly Vardeny, PharmD, MS, Anders
+Westanmo, PharmD, MBA, Selçuk Adabag, MD, MS
+To appear in:
+Heart Rhythm
+Revised Date:
+during the production process, errors may be discovered which could affect the content, and all legal
+Effects of Hydroxychloroquine Treatment on QT Interval
+Matthew Hooks, MDa, Bradley Bart, MDa,b, Orly Vardeny, PharmD, MSa,c, Anders Westanmo,
+PharmD, MBAd, Selçuk Adabag, MD, MSa,b
+Cardiology, Minneapolis VA Health Care System, Minneapolis, MN, USA; cCenter for Care
+Delivery & Outcomes Research, Minneapolis VA Health Care System, Minneapolis, MN, USA;
+Department of Pharmacy, Minneapolis VA Health Care System, Minneapolis, MN, USA
+Brief Title: Hydroxychloroquine QT
+Word Count: 4139
+Selcuk Adabag, MD, MS
+One Veterans Drive, Division of Cardiology (111C)
+Minneapolis, MN 55417
+Dr. Adabag has obtained research grants from the American Heart Association, Medtronic Inc.,
+Acknowledgements: This research did not receive specific grant from funding agencies in the
+resources and use of facilities of the Minneapolis VA Health Care System. The contents do not
+represent the views of the U.S. Department of Veterans Affairs or the United States
+Background Hydroxychloroquine (HCQ) has been promoted as a potential treatment for
+COVID-19 but there are safety concerns.
+Objectives To determine the effect of HCQ treatment on QT interval
+Methods We retrospectively studied the electrocardiograms of 819 patients treated with HCQ
+for rheumatologic diseases from 2000 to 2020. The primary outcome was corrected QT (QTc)
+interval, by Bazett formula, during HCQ therapy.
+Results The patients were 64.0 (±10.9) years in age and 734 (90%) were men. The median
+dosage and duration of HCQ were 400mg daily and 1006 (471-2075) days, respectively. The
+mean on-treatment QTc was 430.9 (±31.8) msec. In total, 55 (7%) patients had QTc 470-500
+msec and 12 (1.5%) had QTc >500msec. Chronic kidney disease (CKD), history of atrial
+fibrillation (AF) and heart failure were independent risk factors for prolonged QTc. In a subset of
+591 patients who also had a pre-treatment ECG, the mean QTc increased from 424.4 (±29.7)
+msec. to 432.0 (±32.3) msec (p<0.0001) during HCQ treatment. Of these, 23 (3.9%) patients
+had either prolongation of QTc >15% or an on-treatment QTc >500 msec. Over 5.97 (3.3310.11) years of follow-up, 269 (33%) patients died. QTc >470 msec during HCQ treatment was
+associated with a greater mortality risk of (hazard ratio 1.78, 95% confidence interval 1.16-2.71;
+p=0.008) in univariable but not in multivariable analysis.
+Conclusion Hydroxychloroquine is associated with QT prolongation in a significant fraction of
+patients. The risk of QT prolongation is higher among patients with CKD, AF and heart failure,
+who may benefit from greater scrutiny.
+Keywords: long QT syndrome; drugs; drug-induced arrhythmia; mortality; electrocardiogram
+Since December 2019, the novel single-stranded RNA virus known as the Severe Acute
+Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) has caused millions of cases of
+coronavirus disease (COVID-19) in a global pandemic, leading to substantial morbidity and
+mortality1. Clinical trajectories of COVID-19 vary widely, with worse outcomes observed in older
+individuals and those with concomitant medical conditions2. A significant proportion of
+hospitalized patients with COVID-19 have cardiovascular disease. Moreover, COVID-19 has
+been purported to cause several types of cardiac adverse events, including myocardial injury,
+acute myocardial infarction, acute heart failure, myocarditis, and arrhythmias3–5.There is no
+approved treatment for COVID-19, although several strategies are under investigation, such as
+antivirals, antiretrovirals, immune modulators and hydroxychloroquine (HCQ).
+Originally used to treat malaria, HCQ was approved for the treatment of systemic lupus
+erythematosus (SLE) by the FDA in 19556. It is currently the most commonly prescribed
+medication for SLE and is frequently used for a variety of other rheumatologic conditions.
+Cardiac toxicity is rare but there are reports of conduction abnormalities including bundle-branch
+block, atrioventricular block, QT prolongation, torsade de pointes, and sudden cardiac death7–10.
+There is in vitro evidence that chloroquine and HCQ possess antiviral properties11. These data
+have been extrapolated to hypothesize that HCQ may prevent SARS-CoV-2 infection and
+attenuate the course and severity of the COVID-19 disease12. Indeed, on March 28, 2020 the
+phosphate) in certain hospitalized patients being treated for COVID-1913. However, recent
+studies showing no benefit of HCQ in COVID-19 have since led the FDA to remove that
+treated with HCQ describe significant QT prolongation and torsade de pointes which has
+expanded clinical concern regarding the arrhythmogenic risk of HCQ18–21. The purpose of this
+study is to provide information about the effects of HCQ on cardiac conduction abnormalities
+that appear on a 12-lead electrocardiogram (ECG).
+Informed consent requirement was waived.
+Patient Selection
+We identified 2665 patients who received at least one prescription for HCQ dispensed at
+the Minneapolis Veterans Affairs (VA) Health Care System from the year 2000 to 2020. Each
+prescription represented the first dispense of HCQ until a break in prescriptions for at least 150
+days22,23. We excluded patients without an ECG performed while they were receiving HCQ
+treatment (n=1722). After also excluding the 124 duplicate entries, we included 819 unique
+patients who received treatment in this analysis.
+All ECGs were performed with the General Electric MAC 5000 and stored in the
+Marquette Universal System for Electrocardiography database24,25. We selected the first ECG,
+performed at least 5 days after starting the HCQ treatment for analysis. When present, we also
+analyzed the last ECG performed before starting the HCQ treatment. We recorded the
+ventricular rate, QRS duration, QT interval and the corrected QT interval (QTc) calculated via
+the Bazett, Framingham and Friderica formulas. For patients with a QRS >120 msec we used
+the Bogossian formula26 to calculate a modified QT interval (QTm), QTm= QT(measured) –
+48.5%*QRS(measured). The QTm was used to calculate the QTc. We manually measured the
+QT interval, starting from the beginning of the Q wave to the end of the T wave on ECG, using
+electronic calipers in 70 (8.5%) randomly selected patients in the cohort27. The correlation
+coefficient was 0.8.
+The primary outcome variable was the QTc interval during HCQ therapy. We used the
+Bazett formula for QT correction because it is the most commonly used method to calculate
+QTc. QTc > 470 msec represents the 99th percentile of QTc distribution in the general
+population and is a predictor of symptoms in patients with long-QT syndrome28,29. QTc > 500
+msec is associated with a higher risk of life-threatening arrhythmias29. In a subgroup of patients
+who had ECGs before and during HCQ treatment, we also assessed the change in QTc30.
+Secondary outcome variable was time to death or last follow-up from the starting date of the
+HCQ treatment, as recorded in the VA vital status files24,25,31.
+Predictor variables and definitions
+We extracted patient demographics, comorbidities, and laboratory data from the VA
+corporate data warehouse using Structured Query Language. The VA corporate data
+warehouse contains extracts from VA clinical and administrative system that includes complete
+and other medications were also extracted from the VHA CDW22. The ECG data were obtained
+from the Marquette Universal System for Electrocardiography database24,25. Chronic kidney
+disease (CKD) was defined as estimated glomerular filtration rate (eGFR) < 60 ml/min. The
+eGFR was calculated with the Cockcroft-Gault Equation ([140-age] × weight in kg)/(serum
+creatinine × 72; multiplied by 0.85 in women).
+Statistical Analysis
+Data are presented as mean (standard deviation) or median (interquartile range) for continuous
+variables, and number (n) and percentage (%) for categorical variables. Comparisons of
+characteristics among patients with vs. without QTc prolongation were made with chi-square
+test or Fisher’s exact test for categorical variables and unpaired t test for continuous variables.
+The ECG characteristics before vs. during HCQ therapy were compared using paired t-test.
+Independent predictors of prolonged QTc were identified by multivariable logistic regression
+analysis. Survival curves were constructed using the Kaplan–Meier method and the differences
+of survival among patients with vs. without prolonged QTc was examined by the log-rank test.
+Cox proportional hazards analysis was used to assess the association between QTc
+prolongation and mortality, and to calculate the hazard ratio (HR) and 95% confidence interval
+(CI). Statistical analyses were performed with IBM SPSS (version 25; IBM Corp, Armonk, NY,
+Patient characteristics
+64.0 (±10.9) years and 734 (90%) of the patients were male. Cardiovascular comorbidities
+included hypertension (n=532, 65%), coronary artery disease (n=234, 29%), diabetes (n=202,
+25%) and heart failure (n=65, 8%). A total of 99 (12%) patients had chronic kidney disease
+Hydroxychloroquine was prescribed to treat systemic lupus erhythematosus in 786
+(96%) of the patients at a median starting dosage of 400 mg daily. The median (25th-75th
+percentile) duration of HCQ therapy was 1006 (471-2075) days.
+ECG characteristics during HCQ treatment
+A 12-lead ECG was performed 234 (92-586) days after starting HCQ therapy in all study
+rate was 74.8 (±17.3)beats/min. The mean on-treatment QTc, based on Bazett formula, was
+430.9 (±31.8) msec. A total of 55 (7%) patients had on-treatment QTc 470-500 msec. and 12
+prolonged QTc were older and more likely to have CKD, history of atrial fibrillation and history of
+predictors of QTc >470 msec. Notably, the odds of QTc prolongation was >5 times higher (OR
+5.1; 95% CI 1.23-21.1; p=0.025) when eGFR was < 30 ml/min. There was a negative correlation
+Paired ECG before and during HCQ treatment
+A total of 591 (72%) patients had ECGs performed before (median 345 [98-833] days)
+and after (median 204 [84-489] days) starting the HCQ treatment. On these paired ECGs, there
+was a modest prolongation of QTc from 424.4 (±29.7) msec. to 432.0 (±32.3) msec. (p<0.0001)
+QTc or a QTc > 500 msec with HCQ treatment. These patients were more likely to have chronic
+kidney disease (44% vs. 14%; p=0.0001) than the rest of the cohort with paired ECGs.
+Survival in relation to QTc
+Of the 819 patients in the whole study cohort, 269 (33%) died over a median 5.97 (3.3310.11) years of follow up. In comparison to those who survived, the patients who died were
+older, more likely to be men and more likely to have coronary disease, heart failure and CKD. In
+univariable Cox regression analysis, QTc > 470 msec. during HCQ therapy was associated with
+adjustment for age, sex, and comorbidities QTc > 470 msec. during HCQ treatment was no
+longer associated with long-term mortality. In patients with paired ECG, delta QTc was not
+associated with mortality (HR 1.001, 95% CI 0.998-1.005; p=0.51).
+This investigation showed that a significant fraction (8.3%) of the patients prescribed HCQ for
+the treatment of SLE had QTc > 470 msec on ECG, including 1.5% who had QTc > 500 msec.
+Chronic kidney disease, atrial fibrillation and heart failure were associated with QTc
+prolongation. Among patients with ECGs performed both before and during treatment, HCQ had
+a modest effect on QTc (mean increase 8 msec) except in 3.4% of the patients who had > 15%
+increase in QTc. The QTc interval during HCQ treatment was associated with long-term survival
+in univariable analysis, while the change in QTc was not.
+Hydroxychloroquine blocks the KCNH2-encoded hERG/Kv11.1 potassium channel and
+can contribute to prolongation of the QTc interval12. Mutations involving these potassium
+channels cause the long QT syndrome and their blockage by certain drugs can be associated
+with QT prolongation, torsade de pointes, and sudden death. While QT prolongation and
+postings on the FDA Adverse Events Reporting System7,8,10. A retrospective study of 112
+patients with SLE treated with HCQ reported that cardiac conduction abnormalities were present
+in 18% of the subjects. These included incomplete bundle branch blocks and second and third
+degree atrioventricular blocks. The presence of conduction abnormalities were not associated
+with mortality during the first 10 years of follow-up but thereafter, subjects with cardiac
+conduction abnormalities had a higher risk of death33. In a larger series of 453 consecutive SLE
+patients, 84% of whom were taking HCQ, 16% had cardiac conduction abnormalities34. Since
+were not able to attribute them directly to the use of HCQ. In fact, higher cumulative doses of
+HCQ were associated with fewer conduction abnormalities. QTc prolongation was rare and only
+the incidence of conduction delays and QT prolongation was similar to what is expected in the
+general public35.
+There are currently more than 7.15 million confirmed cased of COVID-19 world-wide.
+Initially, HCQ has emerged as a potential therapy for COVID-19 given in vitro evidence of
+antiviral properties11,36. Guidelines quickly emerged cautioning the use of the medication in
+the arrhythmic toxicity risk of HCQ is likely low given the relatively short duration of treatment for
+COVID-1937. They recommend using caution in patients with known congenital long QT
+syndrome, renal insufficiency, on QT prolonging medications (e.g. certain antiarrhythmics,
+antipsychotics, antifungals, and macrolide antibiotics such as azithromycin), or with electrolyte
+caution when using HCQ +/- azithromycin in any patient with a prolonged QTc > 470msec in
+males and >480 msec in females12. Most recently, a small randomized controlled trial and
+several observational studies of COVID-19 patients treated with HCQ showed no evidence of
+benefit and some concerning trends for harm14–17,40. At this moment, the FDA has removed the
+combination with azithromycin, except in the context of a clinical trial41. However, despite the
+negative trials the medication has received significant media attention and it remains possible
+that a significant portion of the population is exposed to the medication. The association of
+impaired kidney function with QTc prolongation is especially concerning since reports from
+China indicate that patients with COVID-19 are more likely to experience renal dysfunction42.
+Given the higher co-morbidity burden and acuity of patients hospitalized with COVID-19, it is
+possible that a higher percentage would exhibit QTc prolongation with HCQ treatment.
+The current report provides contemporary information on the effect of HCQ on QTc to
+support the above recommendations. While the additional prolongation of QTc with HCQ was in
+general modest, substantial prolongation occurred in 3.2% of the patients. Guidelines for
+performing screening ECGs and recommendations for monitoring patients started on HCQ have
+been proposed18,43. Therefore, it is prudent to check a baseline ECG prior to initiating therapy,
+avoid hypokalemia and monitor patients with impaired kidney function and those taking other
+QT prolonging medications closely38,39. Although this study did not include genetic data, extra
+precautions are also recommended in patients with congenital long QT syndrome.
+This study showed that 1.5% of patients taking HCQ had QTc >500 msec. Class III
+antiarrhythmic medications dofetilide and sotalol, used for the treatment atrial fibrillation, can
+also cause QT prolongation. In the DIAMOND-CHF study, dofetilide was discontinued in 2% of
+the patients for QT prolongation44. However, more recent data from general practice showed
+that dofetilide was discontinued in up to 17% of patients due to QT prolongation38. Sotalol, on
+the other hand, was discontinued in 4.3% of patients due to prolonged QT interval45. The results
+of the current study should be evaluated within this context.
+We acknowledge the limitations of this study. There may be a selection bias for patients
+who had ECGs while on therapy. Patients with SLE are different from ill patients with COVID-19
+who are likely to have a higher burden of cardiovascular comorbidities and impaired kidney
+function making them more vulnerable to the adverse effects of HCQ. Further, HCQ has a long
+half-life. Steady state is achieved after 3-4 months of therapy46. The average time on HCQ at
+the time the ECG was performed in this study was 237 (92-575) days suggesting that steady
+state had been achieved. However, patients treated for COVID-19 are likely to receive shorter
+courses of therapy and this study cannot address expected ECG changes in this timeframe.
+Finally, this study was retrospective, lacked genetic diagnostics and largely consisted of men.
+Hydroxychloroquine therapy is associated with QT prolongation in a significant fraction of
+patients who were on chronic therapy with this medication for SLE. While recent trials have not
+supported the expansion of HCQ use for COVID-19, it has raised significant concerns with QT
+prolongation and arrhythmogenic risk. Avoiding hypokalemia and carefully monitoring of QTc
+are warranted; particularly in those with impaired kidney function and those receiving other QT
+prolonging drugs.
+COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at
+Wu Z, McGoogan JM: Characteristics of and Important Lessons From the Coronavirus
+Disease 2019 (COVID-19) Outbreak in China. JAMA [Internet] 2020; 323:1239. Available
+Madjid M, Safavi-Naeini P, Solomon SD, Vardeny O: Potential Effects of Coronaviruses
+on the Cardiovascular System. JAMA Cardiol [Internet] 2020; . Available from:
+Fried JA, Ramasubbu K, Bhatt R, et al.: The Variety of Cardiovascular Presentations of
+COVID-19. Circulation [Internet] Ovid Technologies (Wolters Kluwer Health), 2020;
+141:1930–1936. Available from:
+Vardeny O, Madjid M, Solomon SD: Applying the Lessons of Influenza to COVID-19
+During a Time of Uncertainty. Circulation [Internet] 2020; 141:1667–1669. Available from:
+U.S Food & Drug Administration [Internet]. Available from:
+Morgan ND, Patel S V., Dvorkina O: Suspected Hydroxychloroquine-Associated QTInterval Prolongation in a Patient With Systemic Lupus Erythematosus. J Clin Rheumatol
+[Internet] 2013; 19:286–288. Available from:
+O’Laughlin JP, Mehta PH, Wong BC: Life Threatening Severe QTc Prolongation in
+Patient with Systemic Lupus Erythematosus due to Hydroxychloroquine. Case Reports
+Cardiol [Internet] 2016; 2016:1–4. Available from:
+Chen C-Y, Wang F-L, Lin C-C: Chronic Hydroxychloroquine Use Associated with QT
+Prolongation and Refractory Ventricular Arrhythmia. Clin Toxicol [Internet] 2006; 44:173–
+FDA Adverse Events Reporting System (FAERS) Public Dashboard [Internet]. [cited 2020
+Yao X, Ye F, Zhang M, et al.: In Vitro Antiviral Activity and Projection of Optimized Dosing
+Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome
+Coronavirus 2 (SARS-CoV-2). Clin Infect Dis [Internet] 2020; . Available from:
+Giudicessi JR, Noseworthy PA, Friedman PA, Ackerman MJ: Urgent Guidance for
+Navigating and Circumventing the QTc-Prolonging and Torsadogenic Potential of
+Possible Pharmacotherapies for Coronavirus Disease 19 (COVID-19). Mayo Clin Proc
+[Internet] Elsevier, 2020 [cited 2020 Apr 19]; 95:1213–1221. Available from:
+or Hydroxychloroquine Sulfate Supplied From the Strategic National Stockpile for
+Treatment of 2019 Coronavirus Disease. 2020,.
+Tang W, Cao Z, Han M, et al.: Hydroxychloroquine in patients with mainly mild to
+moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ
+[Internet] 2020; 369:m1849. Available from:
+Mahévas M, Tran V-T, Roumier M, et al.: Clinical efficacy of hydroxychloroquine in
+patients with covid-19 pneumonia who require oxygen: observational comparative study
+using routine care data. BMJ [Internet] 2020; 369:m1844. Available from:
+Geleris J, Sun Y, Platt J, Zucker J, Baldwin M, Hripcsak G, Labella A, Manson DK, Kubin
+C, Barr RG, Sobieszczyk ME, Schluger NW: Observational Study of Hydroxychloroquine
+in Hospitalized Patients with Covid-19. N Engl J Med [Internet] 2020; 382:2411–2418.
+Magagnoli J, Narendran S, Pereira F, Cummings TH, Hardin JW, Sutton SS, Ambati J:
+Outcomes of hydroxychloroquine usage in United States veterans hospitalized with
+Mitra RL, Greenstein SA, Epstein LM: An algorithm for managing QT prolongation in
+coronavirus disease 2019 (COVID-19) patients treated with either chloroquine or
+hydroxychloroquine in conjunction with azithromycin: Possible benefits of intravenous
+lidocaine. Hear Case Reports [Internet] 2020; 6:244–248. Available from:
+Szekely Y, Lichter Y, Shrkihe BA, Bruck H, Oster HS, Viskin S: Chloroquine-induced
+torsades de pointes in a patient with coronavirus disease 2019. Hear Rhythm [Internet]
+2020; S1547-5271(20):30420–3. Available from:
+Jankelson L, Karam G, Becker ML, Chinitz LA, Tsai M-C: QT prolongation, torsades de
+pointes, and sudden death with short courses of chloroquine or hydroxychloroquine as
+Chorin E, Wadhwani L, Magnani S, et al.: QT interval prolongation and torsade de
+pointes in patients with COVID-19 treated with hydroxychloroquine/azithromycin. Hear
+Rhythm [Internet] 2020; S1547-5271(20):30435–5. Available from:
+Rector TS, Adabag S, Cunningham F, Nelson D, Dieperink E: Outcomes of Citalopram
+Dosage Risk Mitigation in a Veteran Population. Am J Psychiatry [Internet] 2016;
+173:896–902. Available from:
+Westermeyer J, Adabag S, Anand V, Thuras P, Yoon G, Batres-y-Carr T: Methadone
+maintenance dose/weight ratio, long QTc, and EKG screening. Am J Addict [Internet]
+Moulki N, Kealhofer J V., Benditt DG, Gravely A, Vakil K, Garcia S, Adabag S:
+and prolonged PR interval on electrocardiogram. J Interv Card Electrophysiol [Internet]
+Coumbe AG, Naksuk N, Newell MC, Somasundaram PE, Benditt DG, Adabag S: Longterm follow-up of older patients with Mobitz type I second degree atrioventricular block.
+Heart [Internet] 2013; 99:334–338. Available from:
+Bogossian H, Frommeyer G, Ninios I, et al.: New formula for evaluation of the QT interval
+in patients with left bundle branch block. Hear Rhythm [Internet] 2014; 11:2273–2277.
+Al-Khatib SM, LaPointe NMA, Kramer JM, Califf RM: What Clinicians Should Know About
+the QT Interval. JAMA [Internet] 2003; 289:2120–2127. Available from:
+Mason JW, Ramseth DJ, Chanter DO, Moon TE, Goodman DB, Mendzelevski B:
+Electrocardiographic reference ranges derived from 79,743 ambulatory subjects. J
+Electrocardiol [Internet] Churchill Livingstone, 2007 [cited 2020 Apr 19]; 40:228-234.e8.
+Available from:
+Issa Z, Miller J: Clinical Arrhythmology and Electrophysiology: A Companion to
+Braunwald’s Heart Disease. 3rd Editio. Elsevier, 2018,.
+Bart G, Wyman Z, Wang Q, Hodges JS, Karim R, Bart BA: Methadone and the QTc
+Interval. J Addict Med [Internet] 2017; 11:489–493. Available from:
+Jain R, Duval S, Adabag S: How Accurate Is the Eyeball Test?: A Comparison of
+Physician’s Subjective Assessment Versus Statistical Methods in Estimating Mortality
+Risk After Cardiac Surgery. Circ Cardiovasc Qual Outcomes [Internet] 2014; 7:151–156.
+Available from:
+Westanmo A, Marshall P, Jones E, Burns K, Krebs EE: Opioid Dose Reduction in a VA
+Health Care System—Implementation of a Primary Care Population-Level Initiative. Pain
+Med [Internet] 2015; 16:1019–1026. Available from:
+Godeau P, Guillevin L, Fechner J, Bletry O HG: Disorders of conduction in lupus
+erythematosus: Frequency and incidence in a group of 112 patient’s. Ann Med Interne
+McGhie TK, Harvey P, Su J, Anderson N, Tomlinson G, Touma Z: Electrocardiogram
+abnormalities related to anti-malarials in systemic lupus erythematosus. Clin Exp
+Costedoat-Chalumeau N, Hulot J-S, Amoura Z, Leroux G, Lechat P, Funck-Brentano C,
+Piette J-C: Heart conduction disorders related to antimalarials toxicity: an analysis of
+electrocardiograms in 85 patients treated with hydroxychloroquine for connective tissue
+Liu J, Cao R, Xu M, Wang X, Zhang H, Hu H, Li Y, Hu Z, Zhong W, Wang M:
+Lakkireddy DR, Chung MK, Gopinathannair R, et al.: Guidance for Cardiac
+Electrophysiology During the COVID-19 Pandemic from the Heart Rhythm Society
+COVID-19 Task Force; Electrophysiology Section of the American College of Cardiology;
+and the Electrocardiography and Arrhythmias Committee of the Council on. Circulation
+[Internet] 2020; 141. Available from:
+Anand V, Vakil K, Tholakanahalli V, Li J-M, McFalls E, Adabag S: Discontinuation of
+Dofetilide From QT Prolongation and Ventricular Tachycardia in the Real World. JACC
+Clin Electrophysiol [Internet] 2016; 2:777–781. Available from:
+Ko B, Garcia S, Mithani S, Tholakanahalli V, Adabag S: Risk of acute kidney injury in
+patients who undergo coronary angiography and cardiac surgery in close succession. Eur
+Heart J [Internet] 2012; 33:2065–2070. Available from:
+Richardson S, Hirsch JS, Narasimhan M, et al.: Presenting Characteristics,
+Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the
+New York City Area. JAMA [Internet] 2020; 323:2052. Available from:
+COVID-19 Treatment Guidelines [Internet]. Natl. Inst. Heal. 2020 [cited 2020 Apr 25],.
+Li Z, Wu M, Yao J, et al.: Caution on Kidney Dysfunctions of COVID-19 Patients. SSRN
+Jain S, Workman V, Ganeshan R, Obasare ER, Burr A, DeBiasi RM, Freeman J V., Akar
+J, Lampert R, Rosenfeld LE: Enhanced ECG monitoring of COVID-19 patients. Hear
+Rhythm [Internet] 2020; S1547-5271:30421–30425. Available from:
+Torp-Pedersen C, Møller M, Bloch-Thomsen PE, Køber L, Sandøe E, Egstrup K, Agner
+E, Carlsen J, Videbæk J, Marchant B, Camm AJ: Dofetilide in Patients with Congestive
+Heart Failure and Left Ventricular Dysfunction. N Engl J Med [Internet] 1999; 341:857–
+Weeke P, Delaney J, Mosley JD, Wells Q, Van Driest S, Norris K, Kucera G, Stubblefield
+T, Roden DM: QT variability during initial exposure to sotalol: experience based on a
+large electronic medical record. EP Eur [Internet] 2013; 15:1791–1797. Available from:
+Jordan P, Brookes JG, Nikolic G, Le Couteur DG, Le Couteur D: Hydroxychloroquine
+Overdose: Toxicokinetics and Management. J Toxicol Clin Toxicol Taylor & Francis,
+therapy was associated with greater mortality in univariable analysis but not after adjustment for
+age, sex and comorbidities.
+All patients (n=819)
+Age, years
+Male, n (%)
+Hypertension, n (%)
+Coronary artery disease, n (%)
+Heart failure, n (%)
+Diabetes, n (%)
+Atrial fibrillation, n (%)
+Chronic kidney disease, n (%)
+End-stage renal failure, n (%)
+SLE, n (%)
+Magnesium, mg/dl
+Potassium, mmol/L
+Creatinine, mg/dl
+eGFR, ml/min/1.73 m2
+eGFR, ml/min
+Continuous variables were represented as mean (±standard deviation)
+Abbreviations: eGFR=estimated glomerular filtration rate; HCQ= hydroxychloroquine; SLE=
+systemic lupus erythematosus
+All patients
+P value*
+Ventricular rate, bpm
+QRS duration, msec
+QT interval, msec
+QTc-Bazett, msec
+QTc-Friderica, msec
+Continuous variables were represented as mean (±standard deviation)
+*Comparison of QTc ≤ 470 msec vs. QTc > 470 msec
+Age, years
+Male, n (%)
+Hypertension, n (%)
+Coronary artery disease, n (%)
+Diabetes, n (%)
+Atrial fibrillation, n (%)
+Chronic kidney disease, n (%)
+Magnesium, mg/dl
+Potassium, mmol/L
+Creatinine, mg/dl
+eGFR, ml/min/1.73 m2
+Heart failure, n (%)
+eGFR, ml/min
+P value*
+Continuous variables were represented as mean (±standard deviation)
+Abbreviations: eGFR=estimated glomerular filtration rate; HCQ= hydroxychloroquine; SLE=
+systemic lupus erythematosus
+*Comparison of QTc ≤ 470 msec vs. QTc > 470 msec
+On treatment
+P value
+Ventricular rate, bpm
+QRS duration, msec
+QT interval, msec
+QTc-Bazett, msec
+QTc-Framingham, msec
+QTc-Friderica, msec
+Continuous variables were represented as mean (±standard deviation)
