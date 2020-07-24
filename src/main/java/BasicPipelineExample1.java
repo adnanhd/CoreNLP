@@ -7,7 +7,7 @@ import edu.stanford.nlp.trees.*;
 import java.util.*;
 
 
-public class coreNLP {
+public class BasicPipelineExample1 {
 
     public static String text = "Joe Smith was born in California. " +
             "In 2017, he went to Paris, France in the summer. " +

@@ -1,7 +1,7 @@
 import edu.stanford.nlp.pipeline.*;
 import java.util.*;
 
-public class BasicPipelineExample {
+public class BasicPipelineExample2 {
 
     public static void main(String[] args) {
 
