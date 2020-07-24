@@ -1,14 +1,14 @@
 import java.util.List;
 
-import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.ling.*;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
-public class TokenizeExample {
-    public static void main(String[] args){
+public class POSExample {
+    public static void main(String[] args) {
         StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
-        String text = "Hey! This is Adnan Dogan";
+        String text = "Hey I am Adnan Harun DOGAN.";
 
         CoreDocument coreDocument = new CoreDocument(text);
 
@@ -16,7 +16,8 @@ public class TokenizeExample {
 
         List<CoreLabel> coreLabels = coreDocument.tokens();
 
-        for (CoreLabel coreLabel  : coreLabels)
-            System.out.println(coreLabel.originalText());;
-    }    
+        for (CoreLabel coreLabel : coreLabels)
+            System.out.println(coreLabel.category());
+
+    }
 }

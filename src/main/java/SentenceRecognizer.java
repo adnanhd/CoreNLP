@@ -1,22 +1,22 @@
 import java.util.List;
-
-import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
+import edu.stanford.nlp.pipeline.CoreSentence;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
-public class TokenizeExample {
+public class SentenceRecognizer {
     public static void main(String[] args){
         StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
-        String text = "Hey! This is Adnan Dogan";
+        String text = "Hey! There  I am using Whatsapp! I am Software Developer.";
 
         CoreDocument coreDocument = new CoreDocument(text);
 
         stanfordCoreNLP.annotate(coreDocument);
 
-        List<CoreLabel> coreLabels = coreDocument.tokens();
+        List<CoreSentence> sentences = coreDocument.sentences();
 
-        for (CoreLabel coreLabel  : coreLabels)
-            System.out.println(coreLabel.originalText());;
-    }    
+        for(CoreSentence sentence : sentences)
+            System.out.println(sentence.toString());
+
+    }
 }
