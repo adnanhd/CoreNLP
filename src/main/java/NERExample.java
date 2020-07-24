@@ -10,7 +10,7 @@ public class NERExample {
     public static void main(String[] args) {
         StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
-        String text = "Hey! My Name is Adnan DOGAN, I have many friends living in Turkey.";
+        String text = "Hey! My Name is Adnan DOGAN, I have many friends living in Istanbul of Turkey.";
 
         CoreDocument coreDocument = new CoreDocument(text);
 
@@ -20,6 +20,5 @@ public class NERExample {
 
         for (CoreLabel coreLabel : coreLabels)
             System.out.println(coreLabel.originalText() + " == " + NamedEntityTagAnnotation.class);
-            
     }
 }
