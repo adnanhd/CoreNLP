@@ -1,6 +1,5 @@
 import java.util.List;
 
-import edu.stanford.nlp.ling.CoreAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 import edu.stanford.nlp.pipeline.CoreDocument;
@@ -19,6 +18,9 @@ public class NERExample {
         List<CoreLabel> coreLabels = coreDocument.tokens();
 
         for (CoreLabel coreLabel : coreLabels)
-            System.out.println(coreLabel.originalText() + " == " + NamedEntityTagAnnotation.class);
+        {
+            String ner = coreLabel.get(NamedEntityTagAnnotation.class);
+            System.out.println(coreLabel.originalText() + " == " + ner);
+        }
     }
 }

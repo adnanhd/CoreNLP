@@ -17,6 +17,10 @@ public class SentimentAnalysis {
         List<CoreSentence> sentences = coreDocument.sentences();
 
         for(CoreSentence sentence : sentences)
-            System.out.println(sentiment() + "\t" + sentence);
+        {
+            String sentiment = sentence.sentiment();
+
+            System.out.println(sentiment + sentence);            
+        }
     }
 }
