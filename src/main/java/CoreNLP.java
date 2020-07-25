@@ -3,6 +3,7 @@
 // Import this class to handle errors
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+import java.text.DecimalFormat;
 import java.util.List;
 // Import the Scanner class to read text files
 
@@ -15,21 +16,21 @@ public class CoreNLP {
     public static void main(String[] args) {
         int count = 0;
         File file = new File("data/");
-        File[] files = {new File("data/10-1055-s-0040-1713678.txt")}; // file.listFiles();
+        File[] files = file.listFiles();
 
         while (count < files.length)
             try {
                 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
-                        new FileOutputStream("ner/" + files[0].getName()), StandardCharsets.UTF_8));
+                        new FileOutputStream("ner/" + files[count].getName()), StandardCharsets.UTF_8));
                 BufferedReader br = new BufferedReader(new InputStreamReader(
-                        new FileInputStream("data/" + files[0].getName()), StandardCharsets.UTF_8));
+                        new FileInputStream("data/" + files[count].getName()), StandardCharsets.UTF_8));
 
                 String line = br.readLine();
 
                 while (line != null) {
                     CoreDocument coreDocument = new CoreDocument(line);
                     StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
-                    
+
                     stanfordCoreNLP.annotate(coreDocument);
 
                     List<CoreLabel> coreLabels = coreDocument.tokens();
@@ -38,6 +39,8 @@ public class CoreNLP {
                         String ner = coreLabel.get(NamedEntityTagAnnotation.class);
                         bw.write(coreLabel.originalText() + " == " + ner);
                     }
+
+                    bw.write(line);
                     line = br.readLine();
                 }
 
