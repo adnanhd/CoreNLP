@@ -1,0 +1,647 @@
+Rev. Latino-Am. Enfermagem
+Effect of income on the cumulative incidence of COVID-19:
+an ecological study*
+Ricardo de Mattos Russo Rafael1,2
+Mercedes Neto1
+Davi Gomes Depret1
+Adriana Costa Gil1,3
+income and the cumulative incidence of COVID-19 in the
+neighborhoods of the city of Rio de Janeiro, RJ, Brazil. Method:
+Mary Hellem Silva Fonseca1,3
+Reinaldo Souza-Santos
+Objective: to analyze the relationship between per capita
+an ecological study using neighborhoods as units of analysis.
+The cumulative incidence rate per 100,000 inhabitants and
+the median of potential confounding variables (sex, race,
+and age) were calculated. Multiple analysis included quantile
+regression, estimating the regression coefficients of the
+variable income for every five percentiles from the 10th to
+90th percentiles to verify the relationship between income
+and incidence. Results: the citys rate was 36.58 new cases
+per 100,000 inhabitants. In general, the highest rates were
+observed in the wealthiest regions. Multiple analysis was
+consistent with this observation since the per capita income
+Health Context.
+Universidade do Estado do Rio de Janeiro, Faculdade de
+an increase of R$ 0.02 in the neighborhoods per capita income
+Scholarship holder at the Universidade do Estado do Rio
+for every unit of incidence. Conclusion: cumulative incident
+Coletiva (CEPESC), Rio de Janeiro, RJ, Brazil.
+Scholarship holder at the Coordenao de Aperfeioamento
+de Pessoal de Nvel Superior (CAPES), Brazil.
+coefficient of 0.02 (p-value <0.001; R2 32.93). That is, there is
+Enfermagem, Rio de Janeiro, RJ, Brazil.
+de Janeiro, Centro de Estudos e Pesquisas em Sade
+affected all percentiles analyzed, with a median regression
+rates of COVID-19 are influenced by ones neighborhood of
+residency, suggesting that access to testing is uneven.
+Fundao Oswaldo Cruz, Escola Nacional de Sade
+Pblica Sergio Arouca, Rio de Janeiro, RJ, Brazil.
+Descriptors: Coronavirus; Pandemics; Uses of Epidemiology;
+Income; Socioeconomic Factors; Incidence
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R. Effect of income on the cumulative
+incidence of COVID-19: an ecological study. Rev. Latino-Am. Enfermagem. 2020;28:e3344. [Access ___ __ ____];
+month day
+Rev. Latino-Am. Enfermagem 2020;28:e3344.
+newspaper presents a report on the possibility of
+With the declaration of the new Coronavirus
+more significant contagion and lethality among Afro-
+disease (COVID-19) pandemic by the World Health
+descendent individuals(13). If we consider that the
+Organization on March 11 , 2020, the escalation of
+relationship of income distribution in Brazil is affected
+studies addressing potential strategies to cope with
+by race, investigations are needed to address these
+the disease has reached a new level(1-2). A COVID-19
+variables in explanatory models.
+vaccine, which is the primary means to decrease the
+Finally, similar to other respiratory infections,
+populations susceptibility, and consequently the best
+advanced age (the elderly) has been appointed as the
+way to flatten epidemic curves, is inexistent up to
+variable leading to the most severe manifestations of
+now. Thus, only measures to intervene in the social
+the disease in most papers investigating the COVID-19
+structure as a way to reduce the speed at which
+pandemic(14-15). In this sense, it seems essential to
+COVID-19 spreads remain .
+control models intended to investigate the relationship
+The need to identify the more vulnerable groups
+between income and COVID-19 for sex, race, and age,
+and the diseases behavior has gained space in the
+to perform a more complex explanatory analysis, an
+aspect that is lacking in the knowledge acquired so far.
+treatment, and containment mechanisms have guided
+though regarding the diseases social dynamics in
+developing countries and more impoverished regions.
+The reason is that accumulated theoretical knowledge
+regarding infectious diseases indicates that there is a
+potential relationship between per capita income and
+the incidence of the disease; its spread dynamics are
+different in European and North American regions,
+where a significant portion of studies addressing
+Therefore, this study presents an alternative
+are directly linked to the per capita income of
+neighborhoods, regardless of the remaining predictors
+Therefore, this studys objective is: to analyze the
+relationship between per capita income and cumulative
+incidence of the COVID-19 in the neighborhoods in the
+city of Rio de Janeiro, RJ, Brazil.
+tuberculosis, and leprosy have already reported this
+This is an ecological study, the units of analysis
+relationship so that it remains to be known how
+of which were 159 neighborhoods in the city of Rio de
+this variable behaves in the case of the COVID-19
+Janeiro, located in the metropolitan region of Rio de
+pandemic, a critical gap so far(7-9).
+Janeiro. The option to investigate at a neighborhood
+Based on the international debate on the topic,
+level, especially in the city of Rio de Janeiro, is because
+this study postulates three other factors related
+of the possibility to understand social nuances and
+to income, mainly due to their possible role as
+inequalities, which may ultimately behave similarly to
+confounding variables in analytical models. The first
+other Brazilian regions.
+postulate found in the Brazilian literature is that
+The databases made available by the Pereira
+per capita income is related to race. Economic and
+social inequalities produce harmful effects on illness
+of Rio de Janeiro were used. The variables concerning
+and access to health services(10). To some extent,
+the population structure were collected through the
+this relationship can be reproduced in the COVID-19
+Data Rio application of the IPP, using data from the
+context, so that these effects need to be investigated
+2010 Census provided by the Instituto Brasileiro
+in analytical models. There is abundant literature
+reporting that women more frequently access health
+Geography and Statistics)(16). They are: population,
+services, either because of the way they conceive the
+distribution of the population according to sex, age
+health-disease construct and understand their self-
+distribution, self-reported race, and per capita income.
+assessment of health, or because of the  already
+The neighborhood was the unit of initial observation.
+agreed upon - harmful effects of the traditional view of
+gender on the male population(11-12). In this sense, the
+Administrative Regions.
+distribution of sex in the composition of the population
+may somehow affect the epidemics behavior.
+The databases of the government of the state of Rio
+de Janeiro that were available to the public were used
+Bringing up this debate in which race and
+in data collection, specifically through the Coronavrus
+socioeconomic class are intimately involved in the
+COVID-19(17) application. The variables collected in
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R.
+this application were: sex, age, date of report, city of
+and Per capita Income presented a Z statistic of 8.63
+residence, neighborhood, and test result. Two aspects
+and 828, respectively. In both cases, the p-value was
+need to be clarified: 1) the unit of observation used
+by the state government system is the individual; 2)
+performed visual tests of distribution, confirming that
+the report of the number of cases, which is updated
+the distribution of data was not normal. Therefore,
+daily, is only available after laboratory confirmation
+of positive testing  information regarding suspected
+considered the characteristics of this distribution.
+cases discarded upon laboratory exam is not disclosed.
+Data were collected from April 7th to 13th 2020.
+the univariate analyses consisted of calculating the
+Considering the speed at which data are produced
+median values of the percentages of women, of those
+due to the progression phase of the COVID-19
+60 years or older, and afro-descendent individuals,
+epidemic in Brazil, it is important to note that data
+and per capita income in Reais (R$) aggregated
+concerning the disease occurred on April 13th, totaling
+2,323 observations. Of these, 11 were excluded:
+established by the city of Rio de Janeiro
+nine because they referred to another city, and two
+A bivariate analysis was performed to measure
+were imported cases (allochthonous). This database
+the association between the exposure variable of
+contains community transmissions from April 5th
+interest and outcome, using Spearmans correlation
+to 13 , 2020. After data collection, variables were
+because the distribution was not normal. This test
+considered the null hypothesis that two variables are
+region, to facilitate the presentation of results.
+independent, considered to be statistically significant
+at 5% (type 1 error).
+Cumulative Incidence Rate, is obtained by dividing
+The effect of the exposure variable on the
+the cumulative number of confirmed cases since
+outcome was estimated using a multiple quantile
+the population in the neighborhood started being
+regression analysis, using the neighborhood as the
+observed, using 100,000 as the basis of the indicator.
+unit of analysis(19). This regression model was chosen
+Thus, the results of this variable were expressed in
+because the distribution was not normal; the outcome
+new cases per 100,000 inhabitants. The exposure
+variable was skewed to the left; and there was high
+variable of interest, per capita income, was collected
+heteroscedasticity in the relationship between the
+and used in the analysis in its original format.
+outcome and exposure of interest variables, observed
+Independent control variables were considered
+by the Breusch-Pagan & Cook-Weisberg test (X2
+according to the theoretical model presented in
+857.89; p-valor: <0.001). This effect makes certain
+the introduction: the percentage of women in the
+percentiles be influenced by the model predictors,
+population, the proportion of elderly individuals above
+while linear regression models based on the least
+the age of 60, and the percentage of afro-descendent
+squares method are not appropriate. In this sense,
+and mixed-race individuals. These variables were
+although not very widespread in the health field,
+constructed by dividing the numerator, where the
+interest information was placed (e.g., the number
+already traditional method in econometric models, is a
+of women in the population) by the neighborhoods
+methodological option.
+population. The results were multiplied by 100.
+The regression coefficients were estimated in this
+The building, cleansing, and statistical processing
+multiple analysis for every five percentiles from the 10th
+of the databases were performed using Stata SE 15
+to 90th percentiles, using the per capita income variable
+(StataCorp LP, College Station, United States). First,
+as the exposure of interest and forcing the entry of
+univariate analysis was performed to apply descriptive
+the remaining independent variables, always from the
+analyses, and then bivariate analysis and multiple
+same regression model and according to this studys
+quantile regression were performed to identify the
+theoretical model. The standard error was calculated
+dependence and effect of the per capita income and
+using the bootstrap replication technique with 20
+COVID-19 incidence rate.
+repetitions. Standard error was calculated using the
+Because the outcome and exposure variables are
+bootstrap technique with 20 repetitions. Taking as
+two continuous numerical variables, the Shapiro-Wilk
+reference the null hypothesis that the effect of the
+test was used to test whether the distribution was
+exposure variable is equal in all the percentiles, the
+normal. The test considered the null hypothesis that
+Wald test was calculated using a reference error of 5%.
+the distribution is normal and close to a Gaussian curve.
+Finally, considering this study presents secondary
+The Shapiro-Wilk test for the variables Incidence Rate
+data analysis and uses databases widely accessible
+Rev. Latino-Am. Enfermagem 2020;28:e3344.
+in public sites, ethical recommendations for studies
+old or older, of Afro-descendent individuals, and per
+addressing human subjects do not apply, and this study
+capita income (R$). Attention is drawn to the fact that
+is exempted from the opinion of a Research Ethics
+Copacabana, Tijuca, and Botafogo rank first in terms
+of median percentages of women and individuals aged
+60 years old or older, and rank last in terms of the
+median percentage of Afro-descendent individuals. At
+the opposite end is Complexo do Alemo, presenting
+neighborhoods in the city of Rio de Janeiro, aggregated
+the lowest per capita income in the city and the lowest
+by administrative regions, according to the variables:
+percentage of women and elderly individuals. The
+number of neighborhoods in the region and the median
+region also presents one of the largest Afro-descendent
+percentage of women, of individuals aged 60 years
+populations in the city, second only to Cidade de Deus.
+according to the variables: number of neighborhoods in the region and the median percentages of women, of individuals
+60 years old or older, of Afro-descendent individuals, and per capita income (R$). Rio de Janeiro, RJ, Brazil, 2020
+Number of
+ 60 year- old
+Per capita
+Barra da Tijuca
+Campo Grande
+Cidade de Deus
+Comp. do Alemo
+Ilha do Governador
+Rio Comprido
+Santa Cruz
+Santa Teresa
+So Cristvo
+Vigrio Geral
+Vila Isabel
+Administrative region
+*Minimum wage R$ 510.00, Brazil, 2010
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R.
+The COVID-19 Cumulative Incidence Rate in the
+Rejecting the null hypothesis that the two variables
+city was 36.58 new cases per 100,000 inhabitants,
+are independent, Spearmans test resulted in Rho 0.524;
+totaling 2,312 new cases confirmed in the period. Of
+these, 599 cases did not provide information regarding
+regression results. Note that per capita income presented
+the neighborhood of residence (34.74%) while 146
+an effect in all the strata analyzes. The  coefficient of
+(11.83%) did not provide information on age, and
+the per capita income variable also increases according
+to the percentile, indicating this variable presents
+by administrative region in the general population,
+higher explanatory power in the model. Note that the
+according to women, men, individuals aged 60 years
+adjusted R2 increases as a function of the Incidence
+old or older, and the non-elderly population (<60 years
+Rate percentile, while the number of predictors with a
+old). Note that the Lagoa region leads with the highest
+statistically significant effect, decreases.
+incidence in all the variables analyzed, followed by Tijuca
+and Copacabana. Ilha de Paquet and Jacarezinho,
+per capita income variable, according to the percentile
+on the other hand, did not present cases so far. Mar
+analyzed. Note the accentuated effect of the variable in
+and Complexo do Alemo present 1.08 and 1.45 new
+the last percentile. Rejecting the null hypothesis that the
+cases per 100,000 inhabitants, respectively. Specifically,
+adjusted per capita income variable is the same in all the
+concerning the incidence rate among 60-year-old or
+percentiles tested, the F statistic was equal to 4.18, with
+older individuals, Rocinha presents the highest result.
+a p-value equal to 0.003.
+Janeiro. RJ. Brazil. 2020
+Barra da Tijuca
+Campo Grande
+Cidade de Deus
+Administrative Region
+Complexo do Alemo
+Ilha de Paquet
+Ilha do Governador
+Rio Comprido
+Santa Cruz
+Santa Teresa
+So Cristvo
+Vigrio Geral
+Vila Isabel
+Rev. Latino-Am. Enfermagem 2020;28:e3344.
+percentages of individuals aged 60 years old or older, Afro-descendent individuals, and women in the neighborhoods
+in the city of Rio de Janeiro, RJ, Brazil, 2020
+Adjusted R2
+% Afro-descendent individuals
+Per capita income
+% 60-year-old or older individuals
+Per capita income
+% Afro-descendent individuals
+% Afro-descendent individuals
+% Afro-descendent individuals
+% 60-year-old or older individuals
+Per capita income
+% 60-year-old or older individuals
+Per capita income
+% 60-year-old or older individuals
+Per capita income
+% 60-year-old or older individuals
+% Afro-descendent individuals
+Per capita income
+*Regression coefficient; Confidence Interval 95%; Lower limit; Upper limit; ||T statistics; Minimum wage R$ 510.00, Brazil, 2010
+incidence rate adjusted for the percentages of individuals aged 60 years old or older, Afro-descendent and women in
+the neighborhoods of the city of Rio de Janeiro, RJ, Brazil, 2020
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R.
+explanations: 1) that the social isolation adopted in
+the wealthiest neighborhoods may positively affect the
+Relating income with the incidence of infectious
+spread chain in the more impoverished neighborhoods;
+diseases is not new, as this relationship has been
+and 2) that underreporting rates are higher in poorer
+diseases(7-9,20). Since the beginning of the pandemic,
+In addition to these explanations, it is important
+to note that the media widely reported that the first
+the behavior of the epidemic in the worlds most
+cases imported into the city were among residents
+impoverished regions(6,21-22). Considering knowledge of
+from the South of the city and Barra da Tijuca, who
+the epidemiological chain of other infectious diseases,
+had recently returned from Europe. Hence, the virus
+many situations may determine a different behavior
+started spreading mainly in these areas, which does
+of COVID-19 in these places. These situations include
+not exclude the remaining hypotheses under analysis.
+greater spread due to the high population and
+The Oswaldo Cruz Foundation, monitoring the
+household density, interaction with other chronic and
+COVID-19 and using Big Data from Instituto de
+infectious diseases coupled with the health systems
+Comunicao e Informao Cientfica e Tecnolgica
+diminished capacity to provide treatment, and greater
+lethality due to the decreased capacity of intensive
+Communication and Information in Health], launched
+care units(23).
+the MonitoraCovid-19. The system monitors variables
+This studys main finding indicates that per capita
+concerning the movement of people, using it as a proxy
+income has a significant effect on the cumulative
+in the assessment of social isolation. The systems
+incidence rate of COVID-19, progressively increasing
+results show decreased use of public transportation in
+the city compared to the period before the pandemic,
+percentiles. Note that, in the groups with the lowest
+especially when the first legal measures were adopted
+incidence, each incidence unit is related to an increase
+to prevent the spread of the disease(25). On the other
+of R$ 0.01 in income, while this increase is of R$0.03
+hand, the results also show certain instability in
+in the 75
+percentiles. In this sense, more
+the flow of people over the days, especially on the
+affluent neighborhoods tend to present higher rates,
+weekends. It is not, however, possible to state that
+regardless of the percentage of elderly individuals,
+groups do not intercommunicate, especially between
+Afro-descendants, and women.
+neighborhoods in a time when people are experiencing
+From what is known about the social structures
+in the city of Rio de Janeiro, considering a higher
+Considering that the largest populations with the
+worst access to services are concentrated in the most
+impoverished neighborhoods, the natural hypothesis is
+impoverished regions, we conclude that the disease is
+that these regions would experience a greater spread
+spreading more rapidly in the regions with the lowest
+of the disease, as it occurs in the epidemiological chain
+per capita income, even though it was initiated in
+of other respiratory diseases
+. Nonetheless, the
+the areas with the highest per capita income(27). For
+practical effect of these findings gains strength in the
+these reasons, it seems unlikely that the relationship
+observation that the wealthiest regions such as Lagoa,
+between income and incidence is a reflex of the social
+Tijuca and Copacabana, present high cumulative
+isolation adopted in the citys wealthiest regions. On
+incidence rates, occupying the first of the five ranks
+the contrary, the explanation likely lies in the second
+of per capita income. On the other hand, Mar and
+hypothesis raised in the UFRRJ report, that is, high
+Complexo do Alemo, which rank last in terms of
+underreporting rates in the poorest regions are the
+income, also present the lowest incidence rates of the
+origin of this phenomenon.
+the increasing precariousness of the workforce(26).
+This paradox was recently raised in a technical
+The key to solving this theoretical imbroglio may
+be linked to three interrelated aspects: classification,
+of Rio de Janeiro (UFRRJ) regarding the COVID-19
+sociospatial dynamics in the program areas of Rio
+de Janeiro and Baixada Fluminense(24). The results
+suspected and probable cases in the calculation of
+reported by this document indicate a higher number
+databases, recommending social isolation without
+of cases in regions with the highest economic power,
+contradicting the distribution typically observed in
+recommended in various official documents that mild
+Brazilian states. The document presents two potential
+and asymptomatic cases remain at home in isolation,
+Rev. Latino-Am. Enfermagem 2020;28:e3344.
+without, however, requiring screening testing. The
+of drug-resistant tuberculosis. The worst results of
+important selection bias expressed in the option of
+this form of the disease were associated with a more
+presenting indicators based only on confirmed cases
+abundant supply of culture tests and better economic
+indicates a considerable and fallacious decrease in the
+indicators, among which income(7). Spatial analysis
+incidence of the disease, preventing the planning of
+of the relationship between HIV infection and social
+more effective public policies .
+determinants presented results that are consistent
+with this studys findings, where the highest infection
+underreporting of the disease. A mathematical model
+rates are present in places with improved living
+produced by the Imperial College London indicates
+conditions, reinforcing the idea that unequal access to
+a mean detection rate well below the actual context
+screening tests of infectious diseases directly affects
+of the pandemic(28). The number of cases in Brazil
+the report of diseases(8).
+is estimated to be 12 to 15 times greater than that
+reported by the Ministry of Health(29-30).
+Therefore, it is expected that approximately
+5% of the infected people will need intensive care,
+One study based on the Chinese experience in
+2.3% will require mechanical ventilation, while Brazil
+Wuhan estimates that 86% of the infectious cases
+presents problems in the number and distribution
+were not documented before the countrys health
+of intensive care beds. Thus, it is urgent to expand
+infectious cases were the source of contamination
+regional inequalities in Brazilian cities
+of approximately 80% of new cases(31). Even though
+mentioning that even in China, where the health
+there is no consensus regarding this matter, a
+system was minimally organized to receive COVID-19
+patients, the influence of disparities in the access to
+continue to spread 8 days after the symptoms cease,
+health services was observed(35). After all, capital-
+highlighting the need to record suspected and probable
+based necropolitics seem to be disseminated to the
+point of reaching poverty and the lives of poor people
+. Ultimately, it means that a lack of proper
+documentation of cases directly affects the adoption
+of preventive measures and other sanitary barriers
+. It is worth
+to contain the epidemic, which directly contributes to
+important to interpret these results considering its
+worsening the epidemic.
+limitations. The low quality of data, verified by the
+A lack of public information regarding the number
+significant percentage of cases without identifying the
+of COVID-19 tests and how they are distributed among
+individuals housing neighborhood, and the partiality
+states and in the interior of each city is also another
+of the cases tested, can produce uncertainty in the
+problem to be faced in the context of the pandemic in
+calculation of incidences. The format used by the
+Brazil. It is known that Brazil is among the countries
+Brazilian Ministry of Health and the government
+that least perform screening testing, which decreases
+of Rio de Janeiro to disclose data is another aspect
+its ability to map cases based on suspected, probable,
+that hinders more in-depth analyses. Although within
+and contact cases
+. Brazil performs 296 tests per 1
+a unit of analysis, such as a neighborhood, may
+million inhabitants while the United States, Spain, and
+coexist distinct and unequal social conditions, this
+Italy test 10,266, 19,896, and 19,490, respectively.
+is the smallest unit of analysis possible to achieve
+Additionally, it is important to note that, due to a
+with the format used by the Brazilian government.
+lack of rapid tests in most health care units, COVID-19
+As previously mentioned, to decrease the influence of
+testing has taken place in specialized laboratories,
+heterogeneity of data, this study considered multiple
+clinics, and hospitals. Specifically in Rio de Janeiro,
+analysis techniques that addressed such disparities,
+social inequality and poor access to health services
+as is the case of quantile regression.
+are probably contributing to the higher cumulative
+The option to use the 2010 Census as the
+incidence in the wealthiest regions, especially in
+population base can also produce a discreet increase
+downtown and the south, with the highest per capita
+in the incident rates, considering that the denominator
+income and the largest number of public and private
+is undersized. However, even if losing its validity, this
+facilities. That is, the explanatory hypothesis is that the
+choice was made to facilitate comparison of results. At
+incident rate is not truly low in the more impoverished
+the limit, the interpretation of incidence rates could be
+regions, but that there is rather a lower capacity to
+even lower, which would constitute more considerable
+detect the diseases in these locations.
+underreporting of COVID-19 cases. Therefore, this
+study represents an advancement in the analysis of
+addressing Brazilian cities profile and the presence
+this phenomenon, mainly because it considers that
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R.
+current investigations have contemplated states and
+cities, without investigating differences existing within
+these places.
+7. Jacobs MG, Pinto-Junior VL. Brazilian cities profile,
+the occurence of tuberculosis and its drug-resistant
+form. Cienc Saude Coletiva. [Internet]. 2019 [cited
+This studys results indicate the hypothesis that
+the diseases incidence rates in the city of Rio de
+Janeiro are related to per capita income, regardless of
+other predictors. Considering the low testing in Brazil,
+and consequent underreporting, already reported by
+other studies, these results indicate that COVID-19
+testing is more widely disseminated in the wealthiest
+regions of the city. Potentially unequal access among
+suspected cases and the functionalist role of capitalbased necropolitics should be considered in future
+9. Pescarini JM, Strina A, Nery JS, Skalinski LM, Andrade
+KVF. Penna MLF, et al. Socioeconomic risk markers of
+analyses addressing this matter, primarily because
+and meta-analysis. PLOS Neglect Trop D. [Internet].
+of the need to better document cases of the disease,
+decreasing potential inequalities in the access to
+health services and designing better public policies to
+10. Goes EF, Menezes GMS, Almeida MCC, Arajo TVB,
+deal with the pandemic.
+Alves SV, Alves MTSSB, et al. Racial vulnerability and
+individual barriers for Brazilian women seeking first
+care following abortion. Cad Saude Publica. [Internet].
+2020 [cited Apr 17, 2020];36(Suppl 1):e00189618.
+11. Novak JR, Peak T, Gast J, Arnell M. Associations
+Men. Am J Mens Health. [Internet]. 2019 [cited
+2. World Health Organization. Naming the coronavirus
+disease (COVID-19) and the virus that causes it.
+[Internet]. 2020 [cited Apr 13, 2020]. Available
+12. Jian-Min J, Peng B, We H, Fei W, Xiao-Fang L,
+De-Min H, et al. Gender differences in patients with
+COVID-19: focus on severity and mortality. MedRxiv
+3. Rafael RMR, Neto M, Carvalho MMB, David HMSL,
+13. Thebault R, Ba Tran A, Williams V. The coronavirus
+Acioli S, Faria MGA. Epidemiology, public policies and
+Covid-19 pandemics in Brazil: what can we expect?
+alarmingly high rate. Washington Post. April 7, 2020
+4. Science in the time of COVID-19. Nat Struct Mol Biol.
+14. Kai L, Ying C, Ruzheng L, Kunyuan H. Clinical
+feature of COVID-19 in elderly patients: A comparison
+what comes next? Science. [Internet]. 2020 [cited
+15. Guan W, Liang W, Zhao Y, Liang H, Chen Z,
+6. Ayebare RR, Flick R, Okware S, Bodo B, Lamorde M.
+Li Y, et al. Comorbidity and its impact on 1590
+Adoption of COVID-19 triage strategies for low-income
+settings. Lancet Resp Med. [Internet] 2020 [cited
+Rev. Latino-Am. Enfermagem 2020;28:e3344.
+26. Pereira SOG, Cabral JPC. Informalidade e crise
+Rio de Janeiro: IPP; 2020 [Acesso 13 abr 2020].
+17. Governo do Estado do Rio de Janeiro. Painel
+27. Liu Y, Gayle AA, Wilder-Smith A, Rocklv J. The
+reproductive number of COVID-19 is higher compared
+to SARS coronavirus. J Travel Med. [Internet]. 2020
+18. Prefeitura da Cidade do Rio de Janeiro. Regies
+28. Walker PGT, Whittaker C, Watson O, Baguelin
+M, Ainslie KEC, Bhatia S, et al. The Global Impact
+J Econ Perspect. [Internet]. 2001 [cited Apr 14,
+20. World Health Organization. Global Tuberculosis
+Report. [Internet] Geneva: WHO; 2019 [cited Apr
+21. Lloyd-Sherlock P, Ebrahim S, Geffen L, McKee M.
+Bearing the brunt of covid-19: older people in low
+and middle income countries. BMJ. [Internet] 2020
+Disease Vulnerability. Rand Health Q. [Internet] 2017
+23. Dahab M, Zandvoort KV, Flasche S, Warsame A,
+Spiegel PB, Waldman RJ, et al. COVID-10 control in
+low-income settings and displaced populations: what
+can realistically be done? [Internet] 2020 [cited Apr
+29. Universidade de So Paulo. Faculdade de Medicina
+de Ribeiro Preto. COVID-19 BRASIL. Monitoramento
+e anlises da situao do Coronavrus no Brasil.
+[Internet]. 2020 [Acesso 17 abr 2020]. Disponvel
+30. Prado M, Bastos L, Batista A, Antunes B, Baio F,
+Maaira P, et al. Nota Tcnica 4  21/03/2020 - Anlise
+de subnotificao do nmero de casos confirmados da
+COVID-19 no Brasil. [Internet]. Rio de Janeiro: Ncleo
+de Operaes e Inteligncia em Sade, PUCRio;
+31. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W,
+et al. Substantial undocumented infection facilitates
+(SARS-CoV2). Science. [Internet]. 2020 [cited Mar
+32. Chang D, Mo G, Yuan X, Tao X, Peng X, Wang F,
+et al. Time Kinetics of Viral Clearance and Resolution
+of Symptoms in Novel Coronavirus Infection. AJRCCM.
+24. Universidade Federal Rural do Rio de Janeiro.
+Dinmica socioespacial da COVID-19 na cidade do
+Rio de Janeiro e na Baixada Fluminense. [Internet].
+Rio de Janeiro: UFRRJ; 2020 [Acesso 16 abr 2020].
+34. Rache B, Rocha R, Nunes L, Spinola P, Malik
+AM, Massuda A. Nota tcnica n. 3 - Necessidades
+de Infraestrutura do SUS em Preparo ao COVID19:
+Leitos de UTI, Respiradores e Ocupao Hospitalar.
+25. Fundao Oswaldo Cruz. Instituto de Comunicao
+[Internet]. Rio de Janeiro: Instituto de Estudos para
+Cientfica e Tecnolgica em Sade. MonitoraCovid-19.
+Polticas de Sade; 2020 [Acesso 23 mar 2020].
+Rafael RMR, Neto M, Depret DG, Gil AC, Fonseca MHS, Souza-Santos R.
+35. Ji Y, Ma Z, Peppelenbosch MP, Pan Q. Potential
+healthcare resource availability. Lancet Glob Health.
+Ricardo Alexandre Arcncio
+Ricardo de Mattos Russo Rafael
+Copyright  2020 Revista Latino-Americana de Enfermagem
+offered. Recommended for maximum dissemination and use of

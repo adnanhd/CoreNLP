@@ -1,0 +1,450 @@
+Emerging Microbes & Infections
+Risk factors associated with COVID-19 infection:
+a retrospective cohort study based on contacts
+Tao Liu , Wenjia Liang , Haojie Zhong , Jianfeng He , Zihui Chen , Guanhao
+He , Tie Song , Shaowei Chen , Ping Wang , Jialing Li , Yunhua Lan , Mingji
+Cheng , Jinxu Huang , Jiwei Niu , Liang Xia , Jianpeng Xiao , Jianxiong Hu ,
+Lifeng Lin , Qiong Huang , Zuhua Rong , Aiping Deng , Weilin Zeng , Jiansen
+Li , Xing Li , Xiaohua Tan , Min Kang , Lingchuan Guo , Zhihua Zhu , Dexin
+Gong , Guimin Chen , Moran Dong & Wenjun Ma
+He , Tie Song , Shaowei Chen , Ping Wang , Jialing Li , Yunhua Lan , Mingji Cheng , Jinxu Huang ,
+Jiwei Niu , Liang Xia , Jianpeng Xiao , Jianxiong Hu , Lifeng Lin , Qiong Huang , Zuhua Rong ,
+Aiping Deng , Weilin Zeng , Jiansen Li , Xing Li , Xiaohua Tan , Min Kang , Lingchuan Guo , Zhihua
+Zhu , Dexin Gong , Guimin Chen , Moran Dong & Wenjun Ma (2020): Risk factors associated with
+COVID-19 infection: a retrospective cohort study based on contacts tracing, Emerging Microbes &
+UK Limited, trading as Taylor & Francis
+Group, on behalf of Shanghai Shangyixun
+Cultural Communication Co., Ltd
+View supplementary material
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+Taylor & Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co., Ltd
+Risk factors associated with COVID-19 infection: a retrospective cohort study based on
+contacts tracing
+Tao Liu1*, Wenjia Liang2*, Haojie Zhong2*, Jianfeng He2*, Zihui Chen1*, Guanhao He1*, Tie Song2,
+Shaowei Chen1, Ping Wang1, Jialing Li2, Yunhua Lan2, Mingji Cheng2, Jinxu Huang2, Jiwei Niu2,
+Liang Xia2, Jianpeng Xiao1, Jianxiong Hu1, Lifeng Lin2, Qiong Huang2, Zuhua Rong1, Aiping Deng2,
+Weilin Zeng1, Jiansen Li2, Xing Li1, Xiaohua Tan2, Min Kang2, Lingchuan Guo1, Zhihua Zhu1,
+Dexin Gong1, Guimin Chen1, Moran Dong1, Wenjun Ma1
+Control and Prevention, Guangzhou, China.
+2. Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, China.
+Correspondence to:
+Disease Control and Prevention, Guangzhou 511430, China
+Running title: Risk factors of COVID-19 infection.
+Total word count: 4941
+Objectives To estimate the attack rates, and identify the risk factors of COVID-19 infection.
+Methods Based on a retrospective cohort study, we investigated 11,580 contacts of COVID-19 cases
+in Guangdong Province from January 10 to March 15, 2020. All contacts were tested by RT-PCR to
+detect their infection of SARS-COV-2. Attack rates by characteristics were calculated, and logistic
+regression was used to estimate the risk factors of infection for COVID-19.
+Results A total of 515 of 11,580 contacts were identified to be infected with SARS-COV-2.
+Compared to young adults aged 20-29 years, the infected risk was higher in children (RR: 2.59,
+95%CI: 1.79-3.76), and old people aged 60-69 years (RR: 5.29, 95%CI: 3.76-7.46). Females also
+had higher infected risk (RR: 1.66, 95%CI: 1.39-2.00). People having close relationship with index
+cases encountered higher risk to be infected (RR for spouse: 20.68, 95%CI: 14.28-29.95; RR for
+non-spouse family members: 9.55, 95%CI: 6.73-13.55; RR for close relatives: 5.90, 95%CI: 4.068.59; RR for other relatives: 3.37, 95%CI: 2.15-5.28). Moreover, contacts exposed to index case in
+symptomatic period (RR: 2.15, 95%CI: 1.67-2.79), with critically severe symptoms (RR: 1.61,
+95%CI: 1.00-2.57), with symptoms of dizzy (RR: 1.58, 95%CI: 1.08-2.30), myalgia (RR: 1.49,
+95%CI: 1.15-1.94), and chill (RR: 1.42, 95%CI: 1.05-1.92) had higher infected risks.
+Conclusion Children, old people, females and family members are susceptible to be infected with
+COVID-19, while index cases in incubation period had lower contagiousness. Our findings will be
+helpful for developing targeted prevention and control strategies to combat the worldwide pandemic.
+Key words: COVID-19; attack rate; risk factors; close contact; China
+Since the Coronavirus Disease 2019 (COVID-19) outbreak on 31 December, 2019 [1], it has hit
+more than 200 countries, areas or territories with 8,525,042 cases and 456,973 deaths as of June 20,
+2020 [2]. World Health Organization (WHO) has declared COVID-19 as a pandemic on March
+11,2020 [3]. Owing to the effective measure taken in China, the chain of transmission has been
+broken and the epidemic has been under control.
+Contact tracing is a major public health response to imports of rare or emerging infectious diseases.
+The main objectives of contact tracing are to identify potentially infected individuals before onset
+of severe symptoms, and to prevent onward transmission from the secondary cases. Contact tracing
+has decisively contributed to the control of many infectious diseases worldwide including severe
+acute respiratory syndrome (SARS), Ebola virus disease, and Middle East respiratory syndrome
+(MERS) [4-7]. Report of the WHO-China Joint Mission on COVID-19 pointed out that China has
+a policy of meticulous case and contact identification for COVID-19 [8]. Previous studies using
+mathematical modeling also theoretically demonstrated that contact tracing and quarantine play
+important roles in controlling the spreading of COVID-19 [9,10]. In addition to this, contact tracing
+also provides a unique opportunity to investigate the epidemiological features of COVID-19.
+Previous researches have analyzed the data of COVID-19 patients and found some risk factors of
+mortality, such as older age, pre-existing cardiovascular or cerebrovascular diseases, low levels of
+CD3+CD8+ T-cells, high levels of cardiac troponin I, higher Sequential Organ Failure Assessment
+score and d-dimer [11,12]. Unfortunately, limited study has paid attention to the risk factors related
+to COVID-19 infection. Recent studies conducted among 1,286 close contacts (98 of them were
+infected by SARS-CoV-2) in Shenzhen and among 2098 close contacts in Guangzhou (134 of them
+were infected by SARS-CoV-2) explored the risk factors for COVID-19 infection, like older age,
+travelling to Hubei, etc [13,14]. Another recent study among 2761 close contact of 100 selected
+index cases in Taiwan identified exposure to index case with severe symptoms as a risk factor [15].
+However, their limited sample size, especially the limited cases, may restrict their ability to perform
+detailed analysis, and reduce the power to detect significant risk factors. Additionally, findings
+within a single city or selected sample may restrict its ability of generalization.
+In the current study, we employed a large dataset including 11,686 close contacts of COVID-19
+cases (449 of them were infected) in Guangdong Province, China to estimate the attack rates, and
+identify risk factors for infection of COVID-19. Under the context of worldwide pandemic,
+understanding this issue can identify high-risk groups and provide evidence to develop targeted
+Setting and definitions
+Guangdong, a province with large population size located in Southern China, is a place early
+affected by COVID-19. The first confirmed case was reported on January 15, 2020, and a total of
+1,361 confirmed cases were reported by March 15, 2020. Since the very early stage of COVID-19
+outbreak, an intensified surveillance was implemented across Guangdong Province to detect
+suspected and confirmed COVID-19 cases, and their close contacts following standardized
+protocols released by the National Health Commission of China. Suspected and confirmed COVID19 cases were defined based on the Diagnosis and Treatment scheme of COVID-19, and close
+contacts were defined by the Prevention and Control Scheme of COVID-19. These two schemes
+Identification and quarantine of contacts
+Once a suspected or confirmed COVID-19 case was identified, the case would be reported as an
+index case and isolated, and the Center for Diseases Control and Prevention (CDC) will conduct a
+field investigation. Information of index cases was collected by clinical workers, including
+demographic information, exposure history, clinical symptoms, date of symptom onset, laboratory
+test results, and the severity. This information was directly reported to the National Internet-Based
+Infectious Diseases Reporting System. Information of contacts was collected by CDC using a
+standardized questionnaire, including general demographic characteristics, relationships with the
+index case, and patterns and frequency of contract. Meanwhile, their throat swabs were collected
+and detected by real-time reverse transcriptase polymerase chain reaction assay (RT-PCR). During
+the quarantine, health status of all contacts was monitored, and their throat swabs were collected
+every several days to test their infection status. Once they were identified with positive of severe
+acute respiratory syndrome coronavirus 2 (SARS-COV-2), they would be transferred to a designated
+hospital for diagnosis and treatment. Clinical symptoms and severity of these infected contacts were
+followed up and recorded by clinical workers. After 14 days quarantine, contacts with negative
+SARS-COV-2 were released.
+Statistical analysis
+Categorical variables were described using percentage (%), and a Chi-square test was used to test
+the differences in distributions of categorical variables between index and secondary cases. If
+conditions for Chi-square test were not satisfied, Fishers exact test was used.
+Attack rate was calculated as the percentage of contacts who were later confirmed to be infected
+with SARS-COV-2. We estimated the attack rates of contacts by gender, age, relationships to index
+cases (household members, relatives, social activities, etc.), transportations (flight, train, public
+transportation, provide car, and the Dream Cruise) where infection occurred, course of disease
+(incubation period, symptomatic period, and different days from symptom onset) of index cases
+when the contact occurred, severity of index cases (mild, moderate, severe, and critically severe),
+and clinical symptoms of index cases. These attack rates were calculated only using sub-datasets of
+the index cases and contacts with detailed information because some cases had no complete
+information for estimate. Logistic regression was also conducted to estimate the risk factors of
+COVID-19. All data analyses were conducted by R software (version 3.5.0, R Foundation for
+Statistical Computing).
+General characteristics of contacts
+As of March 15, 2020, a total of 11,686 contacts were traced and quarantined. The first contact was
+identified on January 10, 2020. Contacts (n=106) without key formation were excluded, and 11,580
+contacts, which peaked (n=574) on January 31. Of total contacts, 6,183 (53.4%) were males; 8,419
+(72.7%) were adults aged 20-59 years, and 9,725 (84.0%) contacts were quarantined in centralized
+stations. The number of contacts occurred at home, in social activities, on transportations, and in
+health care settings were 4,893 (41.0%), 2,016 (16.9%), 3,198 (26.5%) and 1,348 (11.3%),
+respectively. Many contacts were from family members of index cases (4,707, 40.7%), social
+activity contacts (3,344, 28.9%), transportation contacts (2,778, 24.0%), and health care workers
+7.0-8.7) close contacts per index case. The average contacts per index case varied with contact
+quarantine was 6.4 days, and the average duration of quarantine was 9.7 days.
+Attack rates of COVID-19
+Until March 15, 515 (4.4%) contacts were identified to be infected with SARS-COV-2. The attack
+rates varied by age groups with the highest for the group aged 60-69 years (11.1%), and the lowest
+for the group of 20-29 years (2.3%). The attack rate of children < 10 years was 5.7%, and the attack
+rates were higher in children whose index cases aged 30-39 years (8.5%), and 50-59 years (7.0%)
+We also observed a higher attack rate in females (5.6%) than in males (3.5%). In addition, contacts
+having close relationship with index cases had higher attack rate (attack rate: 23.3% for spouse;
+10.6% for non-spouse family members; 7.0% for close relatives; 4.1% for other relatives, 1.3% for
+social activity contacts, etc.). Different attack rates also occurred in various transportations where
+infection occurred. Attack rates were 0.8% on flight, 1.2% on train, 2.1% on public transportation,
+4.2% on private car and 9.4% on the Dream Cruise (9.4%).
+When considering the time contacting with the index cases, attack rates were 3.3% and 7.0% when
+contacts occurred in the index cases incubation period and symptomatic period. In detail, attack
+rate increased from five days prior to the symptom onset of index cases (1.7%), to a peak during 34 days (10.1%) after onset, and then decreased to 4.0% after 17 days of the onset. In addition, attack
+rates increased from 4.6% for the contacts of mild cases to 7.5% for the contacts of critically severe
+and higher attack rates were observed in index cases with dyspnea (11.2%), dizzy (10.6%), muscle
+soreness (10.4%), and shortness of breath (10.0%).
+Risk of infection for COVID-19
+Compared with people aged 20-29 years, children <10 years (RR: 2.59, 95%CI: 1.79-3.76) and
+children aged 10-19 (RR: 1.81, 95%CI: 1.17-2.81) had higher risk to be infected with COVID-19
+50-59 years (RR: 2.30, 95%CI: 1.65-3.27), 60-69 years (RR: 5.29, 95%CI: 3.76-7.46) and 70-79
+years (RR: 3.03, 95%CI: 1.81-5.08). Moreover, young adults (aged 30-39 years), whose index cases
+having close relationship with index cases encountered higher risk to be infected (RR and 95%CI:
+20.68 [14.28-29.95] for spouse; 9.55 [6.73-13.55] for non-spouse family members; 5.90 [4.06-8.59]
+transportations, we did not observe significant difference across various transportations except in
+When considering time contacting with index cases, the risk of exposure to index cases in the
+2E). More specifically, the infected risk increased from five plus days prior to the symptom onset
+2F). Moreover, contact with index cases with critically severe symptoms was associated with a
+for the contacts of index cases with different clinical symptoms compared to fever, and there were
+higher risks in index cases with dizzy (RR: 1.58, 95%CI: 1.08-2.30), myalgia (RR: 1.49, 95%CI:
+1.15-1.94), and chill (RR: 1.42, 95%CI: 1.05-1.92).
+After reporting the first case on January 15, 2020, Guangdong Provincial government mobilized
+enormous resources to respond to the COVID-19 epidemic. More than 11,000 close contacts of
+COVID-19 were traced and quarantined. One third of the total cases reported in Guangdong
+Province were identified from these contacts, which indicate that contact tracing strategy have
+played an important role in containing the spreading of COVID-19. The analysis of index cases and
+their close contacts provides insight into the attack rates and risk factors of infection for COVID19.
+We found that attack rates were higher in the elderly with the highest in the group aged 60-69 years,
+and logistic regression demonstrated the statistical significance. These findings are consistent with
+the results for SARS in Beijing [7]. Recent studies also reported that elderly contacts were more
+observe significant higher infected risk of elderly contacts, which may ascribe its insufficient sample
+size [15]. Our findings thus confirmed greater vulnerability of the elderly. Those contacts aged 6069 years could have more physical activities than older people, which may cause closer contact with
+index case for a longer period [7]. Meanwhile, the immunity of the age may be weaker than younger
+adults, making them more susceptible to infection. Therefore, more efforts are needed to protect the
+elderly from the infection of COVID-19.
+The susceptibility of children to COVID-19 is controversial [8,18]. Clinical data of COVID-19
+considering literatures of COVID-19 in children pointed out that children cases are usually less
+severe than adult cases, and more children cases are asymptomatic infection, which makes them less
+opportunity to be tested and identified [21]. However, we found higher infected risk of COVID-19
+in children <10 years that their RR were larger than contacts aged 10-59 years, which indicates that
+children were also susceptible to COVID-19. Furthermore, we observed a higher attack rate in
+children whose index cases aged 30-39 and 50-59 years. Although limited sample size may cause
+insignificant RR, our results still implicated that the children may be mainly infected by their parents
+and grandparents. Two recent studies reported consistent results with our study [13,22]. For instance,
+Dong et al. analyzed 2,143 pediatric COVID-19 patients across China, and found that children were
+susceptible to COVID-19 [22]. Additionally, young adults (30-39 years) were more likely to be
+years. These findings may be attributed to the status that young adults are the primary caregivers
+once their children and parents got sick, and they are also the individuals who have many social
+protection both at home and in public places. Compared with previous studies, our study
+prospectively collected data based on contacts tracing, which had explicit temporality for causal
+inference and reduced recall bias, and therefore provide more reliable evidence. Our finding is
+helpful for preventing people from being infected with COVID-19.
+We observed that female contacts were more likely to be infected by SARS-CoV-2 than male
+contacts, which is consistent with previous studies [13,14]. For example, a recent study conducted
+in Guangzhou also found higher attack rates in females than in males [14]. This difference in attack
+rate between sex may be due to several reasons: (1) females play predominant roles as caregivers
+within family and may have closer contact and longer contact period with the index cases [23]; (2)
+females comprise a large proportion of health-care workers [24]. Therefore, our findings suggest
+more prevention measures specifically implemented to protect females from infection during the
+epidemic of COVID-19.
+We observed that the relationships between contacts and index cases significantly affected the
+infected risks. Compared with the social activity contacts, the risk of being infected was more than
+20 times higher among the spouse and more than 9 times higher among other family members,
+also found that more infections were acquired in household [15]. Family members are more likely
+to have closer contact with index case for a longer contact period with shorter distance. Another
+possible reason is that family members may have some certain linkage with index cases in living
+habits which may cause higher predisposition in infection than other close contacts. Unfortunately,
+individuals commonly take protective measures in public place like washing hands and wearing
+mask, but neglect personal protection at home. This indicates the necessity for public to pay
+attention to personal protective at home especially when family members develop symptom or have
+travel history of epidemic areas.
+We also compared attack rates occurred on different transportations, and found lower attack rates
+occurred on trains or flights. This result indicates that the possibility of transmission of SARS-COV2 on flight and train was low, which may be related to the advanced air purification system and
+sanitation in these transportations. However, after controlling for age and sex, the results of logistic
+regression did not find significant difference across various transportations except in the Dream
+Cruises. The insignificance may be attributed to the limited sample size and the risk difference may
+actually exist. Future studies with larger sample should be conducted to explore this issue and
+provide evidence to guide the development of prevention in transportations.
+Although previous studies reported that both asymptomatic and symptomatic cases could infect
+other persons [26-28], the differences in contagiousness at different phases of COVID-19 remain
+unclear. Our study shows the contagiousness peaked during 3-4 days after symptom onset, which is
+consistent with previous studies, which showed higher virus shedding during several days after the
+onset of symptoms [29-31]. For example, To et al. found that salivary viral load in COVID-19 cases
+was highest during the first week after symptom onset, and the viral RNA was detected 25 days
+after symptom onset [31]. In addition, we found contacts before the symptom onset could also lead
+to infection, which indicates the transmission of COVID-19 in incubation period. Although viral
+shedding before symptom onset is still limited, Zou et al. reported an asymptomatic patient who had
+similar amount of virus to those symptomatic cases [30]. Another study conducted in children also
+detected positive virus before onset of symptoms in several children cases [20]. These findings
+suggested COVID-19 could be transmitted before onset of symptoms.
+The present study found that severe index cases could cause higher attack rates than mild cases. In
+addition, compared with cases with fever, dizzy, myalgia and chill caused higher infected risks to
+their contacts, while cases with rhinorrhea, expectoration and chest tightness caused lower infected
+risks. To et al.s study showed higher virus load in specimens of severe patients than mild patients
+[31], which verified our findings. However, studies are needed to detect the virus load in cases with
+different clinical symptoms for assessing their contagiousness.
+This study has several strengths. First, our study includes the largest number of close contacts of
+COVID-19 to date. Second, our study is a retrospective cohort study, which provides information
+with explicit temporality for causal inference and the recall bias was reduced. Third, we estimated
+the attack rates and infected risks for different contacts, which is helpful for identifying susceptible
+groups to develop specific protection. Fourth, we estimated the contagiousness across the course of
+Some limitations also need to be noted. First, although we used a large dataset with more than ten
+thousand of contacts, the sample size of cases was limited in some subgroups, which may lead to
+insufficient power to identify the statistical significance. Second, a number of asymptomatic
+infections may be missed and their close contacts cannot be identified. Third, since the imperfect
+sensitivity of the RT-PCR test, some potential infections among close contacts may be missed.
+Fourth, the data were collected by a variety of epidemiological investigation groups across
+Guangdong Province. Despite using the same protocol, the implementation may have inconsistence
+and some noise may be introduced.
+Children, old people, females and family members are susceptible to be infected with COVID-19,
+while index cases in incubation period had lower contagiousness. Our findings will be helpful for
+developing targeted prevention and control strategies to combat the worldwide pandemic.
+Ethical approval and consent to participate
+Data collection and analysis of cases and close contacts were determined by the National Health
+be summarised in media press releases from the Guangdong Provincial Center for Disease Control
+and Prevention.
+Consent for publication
+Not applicable.
+Competing interests
+This study was supported by [the National Key Research and Development Program of China#1]
+under Grant [number 2018YFA0606200, 2018YFA0606202]; [the Science and Technology
+Program of Guangdong Province#2] under Grant [number 2018B020207006, 2019B020208005,
+2019B111103001]; and [Guangzhou Science and technology Plan Project#3] under Grant [number
+conceptualized the paper. TL, JFH, ZHC and GHH analyzed the data, with input from TS, SWC,
+PW, JLL, YHL, MJC, JXH, JWN, LX, JPX, JXH, LFL, QH, ZHR, APD, WLZ, JSL, XL, XHT, MK,
+LCG, ZHZ, DXG, GMC, and MRD. TL, WJL, HJZ, TS, JFH, ZHC, GHH and WJM wrote the
+Data sharing
+No additional data available.
+We thank all members from health departments and CDCs in Guangdong Province for their
+contribution in data collection, COVID-19 control and prevention.
+Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus
+World Health Organization. Coronavirus disease (COVID-19) Situation Report  152. 2020.
+World Health Organization. Coronavirus disease (COVID-19) Situation Report  52. 2020.
+Glasser JW, Hupert N, McCauley MM, et al. Modeling and public health emergency responses:
+Swanson KC, Altare C, Wesseh CS, et al. Contact tracing performance during the Ebola epidemic
+Kang M, Song T, Zhong H, et al. Contact Tracing for Imported Case of Middle East Respiratory
+Pang X, Zhu Z, Xu F, et al. Evaluation of Control Measures Implemented in the Severe Acute
+WHO-China Joint Mission Members. Report of the WHO-China Joint Mission on Coronavirus
+Hellewell J, Abbott S, Gimma A, et al. Feasibility of controlling COVID-19 outbreaks by isolation
+10. Keeling MJ, Hollingsworth TD, Read JM. The Efficacy of Contact Tracing for the Containment of
+11. Du RH, Liang LR, Yang CQ, et al. Predictors of mortality for patients with COVID-19 pneumonia
+12. Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with
+13. Bi Q, Wu Y, Mei S, et al. Epidemiology and transmission of COVID-19 in 391 cases and 1286 of
+14. Jing QL, Liu MJ, Zhang ZB, et al. Household secondary attack rate of COVID-19 and associated
+15. Cheng HY, Jian SW, Liu DP, et al. Contact Tracing Assessment of COVID-19 Transmission
+Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset. JAMA
+18. Lee P, Hu Y, Chen P, et al. Are children less susceptible to COVID-19? J Microbiol Immunol Infect,
+19. Wu Z, McGoogan JM. Characteristics of and important lessons from the coronavirus disease 2019
+(COVID-19) outbreak in China: summary of a report of 72314 cases from the Chinese Center for Disease
+20. Xu Y, Li X, Zhu B, et al. Characteristics of pediatric SARS-CoV-2 infection and potential evidence
+21. Mehta NS, Mytton OT, Mullins EWS, et al. SARS-CoV-2 (COVID-19): What do we know
+22. Dong Y, Mo X, HuY, et al. Epidemiological Characteristics of 2143 Pediatric Patients With 2019
+23. Wenham C, Smith J, Morgan R. COVID-19: the gendered impacts of the outbreak. Lance
+Boniol M, McIsaac M,
+Xu L, et al. Gender equity in the health workforce: Analysis of 104 countries Geneva: World
+25. Pang X, Yang P, Li S, et al. Pandemic (H1N1) 2009 among quarantined close contacts, Beijing,
+26. Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV infection from an
+27. Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA,
+28. Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia associated with the 2019 novel
+coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet, 2020;
+29. Woelfel R, Corman VM, Guggemos W, et al. Clinical presentation and virological assessment of
+hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster. medRxiv, 2020.
+30. Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of
+31. To KK-W, Tsang OT-Y, Leung W-S, et al. Temporal profiles of viral load in posterior oropharyngeal
+saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort
+Places of quarantine
+At home
+Centralized stations
+Contact circumstances
+Social activities
+Public transportation*
+Private car
+The Dream Cruises
+Relationship with index cases
+Family members
+Family members (non-spouse)
+Close relatives
+Other relatives
+Social activity contacts
+Transportation contacts
+Health care workers
+Infection spectrum of contacts
+No infection
+Asymptomatic infections
+Mild confirmed cases
+Moderate confirmed cases
+Severe confirmed cases
+Critically severe confirmed cases
+Dead cases
+*: Indicate other public transportations mainly including bus, taxi, subway, ferry, etc.
+Total contacts
+Total infections
+Attack Rate (%)
+Family members (non-spouse)
+Close relatives
+Other relatives
+Social activity contacts
+Transportation contacts
+Health care workers
+Public transportation*
+Private car
+The Dream Cruises
+Age of contacts (years)
+Relationship to the index case
+Contacts on different transportations
+*: Indicate other public transportations mainly including bus, taxi, subway, ferry, etc.
+Total contacts
+Total infections
+Attack Rate (%)
+Incubation period
+Symptomatic period
+Disease history of confirmed index cases#
+Contacts to the index cases at different time (days to the symptom onset)*
+Critically severe
+Clinical severity of index case
+*: Minus number indicates days before the symptom onset, plus number indicates the days
+after the symptom onset in confirmed cases, and zero indicates the day of symptom onset. In
+order to precisely estimate the contacting time, only the pairs with only one index case and
+one secondary case were included.
+identified from the quarantined contacts in Guangdong Province.
+Panel A: In contacts with different ages;
+Panel B: In males and females;
+Panel C: In contacts who had different relationships to the index case;
+Panel D: In contacts exposed to the index cases on different transportations;
+Panel E: In contacts exposed to the index cases at different time;
+Panel F: In contacts exposed to the index cases in different course of disease;
+Panel G: In contacts exposed to the index cases with different clinical severity;
+Panel H: In contacts exposed to the index cases with different clinical symptoms.
+Confirmed cases
+Asymptomatic infections
+Daily number of quarantined contacts
+Daily number of infections
+Daily number of quarantined contacts
+Adjusted for age and/or sex
+Risk factors associated with COVID-19 infection: a retrospective cohort study based on
+contacts tracing
+Tao Liu1*, Wenjia Liang2*, Haojie Zhong2*, Jianfeng He2*, Zihui Chen1*, Guanhao He1*, Tie Song2,
+Shaowei Chen1, Ping Wang1, Jialing Li2, Yunhua Lan2, Mingji Cheng2, Jinxu Huang2, Jiwei Niu2,
+Liang Xia2, Jianpeng Xiao1, Jianxiong Hu1, Lifeng Lin2, Qiong Huang2, Zuhua Rong1, Aiping Deng2,
+Weilin Zeng1, Jiansen Li2, Xing Li1, Xiaohua Tan2, Min Kang2, Lingchuan Guo1, Zhihua Zhu1,
+Dexin Gong1, Guimin Chen1, Moran Dong1, Wenjun Ma1
+Control and Prevention, Guangzhou, China.
+2. Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, China.
+Correspondence to:
+Disease Control and Prevention, Guangzhou 511430, China
+1.1 Definitions of suspect and confirmed cases
+Considering both the following epidemiological history and clinical manifestations:
+Epidemiological history
+(1) History of travel to or residence in Wuhan and its surrounding areas, or in other communities
+where cases have been reported within 14 days prior to the onset of the disease;
+(2) In contact with novel coronavirus infected people (with positive results for the nucleic acid test)
+within 14 days prior to the onset of the disease;
+(3) In contact with patients who have fever or respiratory symptoms from Wuhan and its
+surrounding area, or from communities where confirmed cases have been reported within 14 days
+before the onset of the disease; or
+(4) Clustered cases (2 or more cases with fever and/or respiratory symptoms in a small area such
+Clinical manifestations
+(1) Fever and/or respiratory symptoms;
+(2) The aforementioned imaging characteristics of novel coronavirus pneumonia (SARS-COV-2);
+(3) Normal or decreased WBC count, normal or decreased lymphocyte count in the early stage of
+A suspect case has any of the epidemiological history plus any two clinical manifestations or all
+three clinical manifestations if there is no clear epidemiological history.
+Confirmed cases
+Suspect cases with one of the following etiological or serological evidences:
+(1) Real-time fluorescent RT-PCR indicates positive for new coronavirus nucleic acid;
+(2) Viral gene sequence is highly homologous to known new coronaviruses.
+with the acute phase.
+1.2 Definition of close contacts to the index case
+A contact is a person who experienced any one of the following exposures during the 2 days before
+and the 14 days after the onset of symptoms of a probable or confirmed case:
+(1) Face-to-face contact with a probable or confirmed case within 1 meter and for more than 15
+(2) Direct physical contact with a probable or confirmed case.
+(3) Direct care for a patient with probable or confirmed COVID-19 disease without using proper
+personal protective equipment. or
+(4) Other situations as indicated by local risk assessments.
+Note: for confirmed asymptomatic cases, the period of contact is measured as the 2 days before
+through the 14 days after the date on which the sample was taken which led to confirmation.
+1.3 Definition of asymptomatic infection
+Asymptomatic infection was defined as those whose specimens are detected with positive of SARSCOV-2 virus, but have no clinical symptoms including fever, cough, etc.
+Average number of contacts linked to one index case*
+Contacts divided by contact circumstances
+Social activity
+Contacts divided by relationship to index cases
+Household member
+Social activity contact
+Transportation contact
+Health care worker
+Average days from exposure to quarantine
+Average days of quarantine
+*: The parameter was estimated in the total contacts.
+clinical symptoms
+Clinical symptoms of index cases
+Number of contacts
+Total infections
+Attack Rate (%)
+Shortness of breath
+Nasal congestion
+Chest tightness
+Poor appetite
+Abdominal pain
+Chest pain
+Adjusted for age and sex.
+Age (years) of the index case (number of infections/number of contacts, %)
+Age of contact
+Age of the index case (years)
+Age of contact
+Adjusted for sex.

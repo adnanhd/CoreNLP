@@ -1,0 +1,533 @@
+WJ C C
+Clinical Cases
+World J Clin Cases 2020 June 26; 8(12): 2554-2565
+ORIGINAL ARTICLE
+Prospective Study
+Epidemiological and clinical characteristics of COVID-19 patients in
+Hengyang, Hunan Province, China
+Zhe-Feng Zhong, Jia Huang, Xia Yang, Jin-Ling Peng, Xiao-Yan Zhang, Yang Hu, Nian Fu, Hai-Lian Lin,
+Bo Jiang, Ya-Ying Tian, Hong-Yi Yao, Li-Pu Deng, Xiao-Qing Tang, Jie-Can Zhou, Jian Tang, Xia Xie,
+Qiong Liu, Jing Liu, Cheng-Yun Dou, Rong-Juan Dai, Bo Yan, Xue-Feng Yang
+(0000-0001-8938-5397); Jia Huang
+(0000-0001-8793-1075); Xia Yang
+Peng (0000-0002-0685-5881); XiaoYan Zhang (0000-0003-0598-1525);
+Yang Hu (0000-0003-0042-7146);
+Nian Fu (0000-0001-8616-453X); HaiLian Lin (0000-0002-2082-0917); Bo
+Jiang (0000-0002-5953-8580); YaYing Tian (0000-0001-6788-8911);
+Hong-Yi Yao (0000-0002-3078-7719);
+Li-Pu Deng (0000-0003-0698-308X);
+Xiao-Qing Tang
+(0000-0001-9151-3730); Jie-Can Zhou
+(0000-0001-8316-3566); Jian Tang
+(0000-0002-5050-5758); Xia Xie
+(0000-0002-2924-2869); Qiong Liu
+(0000-0001-7183-5302); Jing Liu
+Dou (0000-0002-7376-2677); RongJuan Dai (0000-0002-5949-950X); Bo
+Yan (0000-0002-0247-1792); XueFeng Yang (0000-0002-3470-0350).
+and Huang J equally contributed to
+this work; Yang XF and Tang XQ
+designed the study and edited the
+LP, Jiang B, Tian YY, Yao HY,
+Zhou JC, Tang J, Xie X, Liu Q, Liu
+J, Dou CY, and Dai RJ participated
+in data collection; Yang X, Peng JL,
+Zhang XY, Yan B, and Fu N took
+part in data sorting; Yang XF,
+Huang J, and Lin HL carried out
+read and approved the final
+Supported by the Novel
+Coronavirus Pneumonia
+Zhe-Feng Zhong, Bo Jiang, Ya-Ying Tian, Department of Infectious Diseases, the Afliated
+Hunan Province, China
+Jia Huang, Yang Hu, Nian Fu, Hai-Lian Lin, Xue-Feng Yang, Department of Gastroenterology, the
+421002, Hunan Province, China
+Xia Yang, Jin-Ling Peng, Xiao-Yan Zhang, Department of General Practice, the Afliated
+Hunan Province, China
+Hong-Yi Yao, Li-Pu Deng, Department of Intensive Medicine, the Afliated Nanhua Hospital,
+Jie-Can Zhou, Jian Tang, Xia Xie, Qiong Liu, Jing Liu, Cheng-Yun Dou, Rong-Juan Dai,
+Department of Infectious Diseases, the First Affiliated Hospital, Hengyang Medical College,
+Bo Yan, Department of Cardiology, the First Affiliated Hospital, Hengyang Medical College,
+336, Dongfeng Road, Zhuhui District, Hengyang 421002, Hunan Province, China.
+In December 2019, an ongoing outbreak of coronavirus disease 2019 (COVID-19)
+was first identified in Wuhan, China. The characteristics of COVID-19 patients
+treated in local hospitals in Wuhan are not fully representative of patients outside
+Wuhan. Therefore, it is highly essential to analyze the epidemiological and
+clinical characteristics of COVID-19 in areas outside Wuhan or Hubei Province.
+To date, a limited number of studies have concentrated on the epidemiological
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+South China, No. 2020-15 and No.
+2020-25; the Hengyang Science and
+Technology Plan Project-Basic
+Research Project of Prevention and
+Treatment of the Novel
+Coronavirus Pneumonia, No.
+202010031577; the Scientific
+Research Project of Hunan
+Provincial Health and Family
+Planning Commission, No.
+A2017015; the Natural Science
+Foundation of Hunan Province,
+China, No. 2016JJ5010; and the
+National Natural Science
+Foundation of China, No.
+statement: The study was
+conducted in accordance with the
+Declaration of Helsinki, and it was
+approved by the Ethics Committee
+of Afliated Nanhua Hospital of
+Clinical trial registration statement:
+This study is not a clinical trial
+Informed consent statement: All
+the patients signed a written
+informed consent form prior to
+commencing the study.
+Conflict-of-interest statement: All
+conflict of interest.
+Data sharing statement: No
+additional data are available.
+distribute, remix, adapt, build
+on different terms, provided the
+original work is properly cited and
+First decision: March 27, 2020
+Revised: May 15, 2020
+Shen HN, Yu B
+and clinical characteristics of COVID-19 patients with different genders, clinical
+classification, and with or without basic diseases.
+To study the epidemiological and clinical characteristics of COVID-19 patients in
+Hengyang (China) and provide a reliable reference for the prevention and control
+of COVID-19.
+From January 16 to March 2, 2020, a total of 48 confirmed cases of COVID-19
+were reported in Hengyang, and those cases were included in this study. The
+diagnostic criteria, clinical classification, and discharge standard related to
+COVID-19 were in line with the Diagnosis and Treatment Protocol for Novel
+Coronavirus Pneumonia (Trial Version 7) released by National Health
+Commission and National Administration of Traditional Chinese Medicine. The
+presence of SARS-CoV-2 in pharyngeal swab specimens was detected by
+quantitative reverse transcription polymerase chain reaction. All the data were
+imported into the excel worksheet and statistically analyzed by using SPSS 25.0
+A total of 48 cases of COVID-19 were collected, of which 1 was mild, 38 were
+moderate, and 9 were severe. It was unveiled that there were 31 (64.6%) male
+patients and 17 (35.4%) female patients, with a female-to-male ratio of 1.82:1. The
+range of age of patients with COVID-19 was dominantly 30-49 years old [25
+(52.1%) of 48], followed by those aged over 60 years old [11 (22.9%)]. Besides,
+29.2% (14 of 48) of patients had basic diseases, and 57.2% (8 of 14) of patients with
+basic diseases were aged over 60 years old. The occupations of 48 COVID-19
+patients were mainly farmers working in agricultural production [15 (31.5%) of
+48], rural migrant workers from Hengyang to Wuhan [15 (31.5%)], and service
+workers operating in the service sector [8 (16.7%)]. The mean latent period was
+6.86  3.57 d, and the median was 7 [interquartile range (IQR): 4-9] d. The mean
+time from onset of symptoms to the first physician visit was 3.38  2.98 (95%CI:
+2.58-9.18) d, with a median of 2 (IQR: 1-5) d, and the mean time from hospital
+admission to confirmed diagnosis was 2.29  2.11 (95%CI: 1.18-6.42) d, with a
+median of 2 (IQR: 1-3) d. The main symptoms were fever [43 (89.6%) of 48], cough
+and expectoration [41 (85.4%)], fatigue [22 (45.8%)], and chills [22 (45.8%)]. Other
+symptoms included poor appetite [13 (27.1%)], sore throat [9 (18.8%)], dyspnea [9
+(18.8%)], diarrhea [7 (14.6%)], dizziness [5 (10.4%)], headache [5 (10.4%)], muscle
+pain [5 (10.4%)], nausea and vomiting [4 (8.3%)], hemoptysis [4 (8.3%)], and
+runny nose [1 (2.1%)]. The numbers of peripheral blood leukocytes, lymphocytes,
+and eosinophils were significantly reduced in the majority of the patients. The
+levels of C-reactive protein, fibrinogen, blood glucose, lactate dehydrogenase, Ddimer, alanine aminotransferase (ALT), aspartate aminotransferase (AST),
+gamma-glutamyl transferase (-GT), myoglobin (MB), and creatine kinase (CK)
+were increased in 64.6%, 44.7%, 43.2%, 37.0%, 29.5%, 22.9%,20.8%, 21.6%, 13.6%,
+and 12.8% of patients, respectively. The incidence of ALT elevation in male
+patients was remarkably higher than that in females (P < 0.01), while the
+incidences of AST, CK, and blood glucose elevations in severe patients were
+remarkably higher than those in moderate patients (P < 0.05, respectively). Except
+for the mild patients, chest computed tomography showed characteristic
+pulmonary lesions. All the patients received antiviral drugs, 38 (79.2%) accepted
+traditional Chinese medicine, and 2 (4.2%) received treatment of human
+umbilical-cord mesenchymal stem cells. On March 2, 2020, 48 patients with
+COVID-19 were all cured and discharged.
+Based on our results, patients with COVID-19 often have multiple organ
+dysfunction or damage. The incidences of ALT elevation in males, and AST, CK,
+and blood glucose elevations in severe patients are remarkably higher.
+Key words: Novel coronavirus pneumonia; COVID-19; SARS-CoV-2; Epidemiology;
+Hengyang; Coronavirus disease 2019
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+Core tip: To study the epidemiological and clinical characteristics of coronavirus disease
+2019 (COVID-19) patients with different genders, clinical classification, and with or
+without basic diseases could provide more information for COVID-19 prevention and
+control. Our research found that many patients with COVID-19 had multiple organ
+dysfunction or damage. The higher attention of the government and residents on the
+prevention and control of COVID-19 was the key factor to control the development of
+COVID-19 epidemic. Wearing masks and home isolation could effectively cut off
+transmission routes and prevent the spread of the novel coronavirus.
+Citation: Zhong ZF, Huang J, Yang X, Peng JL, Zhang XY, Hu Y, Fu N, Lin HL, Jiang B,
+Tian YY, Yao HY, Deng LP, Tang XQ, Zhou JC, Tang J, Xie X, Liu Q, Liu J, Dou CY, Dai
+RJ, Yan B, Yang XF. Epidemiological and clinical characteristics of COVID-19 patients in
+Hengyang, Hunan Province, China. World J Clin Cases 2020; 8(12): 2554-2565
+On December 31, 2019, an unexplained pneumonia was reported in Wuhan, China[1].
+It was found that this pneumonia was caused by a 2019 novel coronavirus (2019nCoV)[2], which was named severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) by the International Committee on Taxonomy of Viruses. The disease caused
+by SARS-CoV-2 was called coronavirus disease 2019 (COVID-19)[3].
+COVID-19 in Wuhan, and even throughout mainland China; however, from the
+geographical perspective, the data were mainly from the epidemic centers of Hubei
+Province, especially Wuhan[4,5]. However, the characteristics of patients treated in local
+hospitals in Wuhan are not fully representative of patients outside Wuhan. Therefore,
+it is highly essential to analyze the epidemiological and clinical characteristics of
+COVID-19 in areas outside Wuhan or Hubei Province. At the same time, there have
+been limited reports about the differences in the epidemiological and clinical
+characteristics of COVID-19 patients with different genders, clinical classification, and
+with or without basic diseases.
+Since the first COVID-19 patient was discovered on January 16, 2020, a total of 48
+confirmed cases of COVID-19 have been reported in Hengyang (Hunan Province), a
+close neighbor city of Hubei. Until 18:00 on March 2, 2020, all the 48 confirmed cases
+were cured and discharged.
+At present, COVID-19 is affecting many countries and territories worldwide[6]. The
+present study aimed to summarize the epidemiological and clinical characteristics of
+COVID-19 patients in Hengyang (China) and provide a reliable reference for the
+prevention and control of COVID-19.
+MATERIALS AND METHODS
+Patients with COVID-19
+According to the arrangements by the Hengyang Municipal People's Government, all
+the COVID-19 patients were admitted centrally to the Affiliated Nanhua Hospital of
+South China without selectivity. From January 16 to March 2, 2020, all the 48 patients
+with COVID-19 who were treated at these two hospitals were included in the current
+Epidemiological investigation
+According to the Diagnosis and Treatment Protocol for Novel Coronavirus
+Pneumonia (Trial Version 7) released by National Health Commission and National
+Administration of Traditional Chinese Medicine[7], the epidemiological history can be
+divided into the following five conditions: (1) History of travel to or residency in an
+epidemic area within 14 d prior to onset of illness; (2) History of contact with patients
+with COVID-19 within 14 d before onset; (3) History of contact with patients with
+fever or respiratory symptoms from epidemic areas within 14 d prior to onset; (4)
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+Agglomeration; and (5) An unclear epidemic history.
+Diagnosis and treatment
+The diagnostic criteria, clinical classification, and discharge standard related to
+COVID-19 were in line with the Diagnosis and Treatment Protocol for Novel
+Coronavirus Pneumonia (Trial Version 7)[7].
+The presence of SARS-CoV-2 in pharyngeal swab specimens was detected by
+quantitative reverse transcription polymerase chain reaction (PCR). The SARS-CoV-2
+nucleic acid diagnostic kit (PCR-Fluorescence Probing) was provided by Hunan
+Shengxiang Biotechnology Co., Ltd. (Changsha, China). This test utilizes the 2019nCoV ORF 1ab and the specific conserved sequence of the gene coding for
+nucleocapsid protein N as the target regions, which were designed for the conserved
+sequence of the double-target genes, in order to detect sample RNA through
+fluorescent signal changes. The sequences are: Target 1 (ORF1ab)[8]: Forward primer,
+CCCTGTGGGTTTTACACTTAA and reverse primer, ACGATTGTGCATCAGCTGA,
+and the probe 5-VIC-CCGTCTGCGGTATGTGGAAAGGTTATGBHQG-1-3; Target 2
+(N) [8] : Forward primer, GGGGAACTTCTCCTGCTAGAAT and reverse primer,
+CAGACATTTTGCTCTCAAGCTG, and the probe 5-FAM-TTGCTGCTGCTTGACAGATT-TAMRA-3. Conditions for the amplifications were 50C for 30 min,
+95C for 1 min, followed by 45 cycles of 95C for 15 s and 60C for 30 s. The patients
+diagnosed with COVID-19 were positive for the SARS-CoV-2 nucleic acid test, and all
+the patients released from isolation and discharged from hospital were tested for
+SARS-CoV-2 nucleic acid at least twice.
+All the patients received antiviral, traditional Chinese medicine (TCM), and
+symptomatic therapy according to the Diagnosis and Treatment Protocol for Novel
+Coronavirus Pneumonia (Trial Version 7)[7].
+Statistical analysis
+The patients data were collected or supplemented by interviews with patients and
+relatives, and all the data (including epidemiological, demographic, clinical,
+laboratory, treatment, and outcome data) were imported into an excel worksheet and
+statistically analyzed by using SPSS 25.0 software (IBM, Armonk, NY, United States).
+All the data were checked by two physicians (Huang J and Lin HL), and any
+difference in interpretation between the two physicians was adjudicated by a third
+researcher (Yang XF).
+Numerical variables are described using the mean  SD, 95% confidence interval
+(95%CI), median, and interquartile range (IQR) values. Categorical variables are
+described as percentages and were compared using the  2 test. P < 0.05 was
+considered statistically significant.
+Patients demographic characteristics
+A total of 48 cases of COVID-19 were collected, of which 1 was mild, 38 were
+moderate, and 9 were severe. The mean age of the 48 patients was 44.35  15.76
+(95%CI: 3.42-48.24) years old, and the median age was 41 (IQR: 34.75-53.75) years old;
+for moderate cases, the mean age was 43.95  16.24 (95%CI: 12.64-75.36) years old, and
+the median age was 41 (IQR: 11.64-74.36) years old; for severe cases, the mean age was
+49.11  13.45 (95%CI: 22.54-75.46) years old, and the median age was 47 (IQR: 38-65)
+years old. Among all the patients, the maximum and minimum ages were 76 and 11
+years old, respectively. The range of age of patients with COVID-19 was dominantly
+30-49 years old [25 (52.1%) of 48], followed by those aged over 60 years old [11 (22.9%)
+of 48]. There were no children who were aged under 10 years old. Besides, 29.2% (14
+of 48) of patients had basic diseases, and 57.2% (8 of 14) of patients with basic diseases
+were aged over 60 years old. The prevalence of COVID-19 in patients over 60 years
+old with basic diseases was significantly higher than that in patients without basic
+It was unveiled that there were 31 (64.6%) male patients and 17 (35.4%) female
+patients, with a female-to-male ratio of 1.82:1. The occupations of 48 COVID-19
+patients were mainly farmers working in agricultural production [15 (31.5%) of 48],
+rural migrant workers from Hengyang to Wuhan [15 (31.5%)], and service workers
+operating in the service sector [8 (16.7%)]. The patients demographic characteristics
+Epidemiological history
+Among 48 COVID-19 patients, there was no history of wildlife exposure (including
+direct contact with animals and visits to the wildlife market) within 14 d, and 58.3%
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+T (n = 48) A (n = 31) B (n = 17) 2 (P value1) C (n = 14) D (n = 34) 2 (P value2)
+E (n = 38) F (n = 9) 2 (P value3)
+Age (years old)
+Office staff
+Service workers
+Rural migrant
+Indicates differences between male and female patients.
+Denotes differences between patients with and without basic diseases.
+Represents differences between moderate and severe patients. P < 0.05 was considered statistically significant. T: All patients; A: Male; B: Female; C: With
+basic diseases; D: Without basic diseases; E: Moderate; F: Severe.
+(28 of 48) had a history of travel to or residency in Wuhan and surrounding areas. In
+addition, 31.3% (15 of 48) had a history of contact with patients with COVID-19 within
+14 d; 10.4% (5 of 48) had a history of contact with patients with fever or respiratory
+symptoms from the epidemic area within 14 d prior to onset; 22.9% (11 of 48) had
+clustered onset, which occurred in 10 families and 1 community; 8.3% (4 of 48) of
+patients had an unclear epidemic history.
+Date distribution of confirmed cases
+distribution of confirmed cases of COVID-19 by date of onset. It was uncovered that
+there were no new confirmed cases in Hengyang after February 14, 2020.
+Latent period
+The latent period was defined as the time from exposure to the onset of symptoms,
+which was estimated among patients who could provide the exact date of close
+contact with individuals from Wuhan and other epidemic areas with confirmed or
+suspected SARS-CoV-2 infection. The longest latent period was 15 days and the
+shortest was 1 day. The mean latent period was 6.86  3.57 d, and the median was 7
+Mean time of first physician visit and confirmed diagnosis
+The mean time from onset of symptoms to the first physician visit was 3.38  2.98
+(95%CI: 2.58-9.18) d, with a median of 2 (IQR: 1-5) d, and the mean time from hospital
+admission to confirmed diagnosis was 2.29  2.11 (95%CI: 1.18-6.42) d, with a median
+of 2 (IQR: 1-3) d.
+Basic diseases
+It was uncovered that 29.2% (14 of 48) of patients had basic diseases (also known as
+Co-morbidities), including 2 cases of coronary disease, 1 case of hypertension, 1 case
+of coronary disease with hypertension, diabetes, and cerebral infarction, 2 cases of
+diabetes with hypertension and hyperlipidemia, 1 case of diabetes with hypertension
+and gout, and 7 cases of chronic hepatitis B. In the 7 cases of chronic hepatitis B, the
+serum markers of hepatitis B were positive for hepatitis B surface antigen, hepatitis B
+e antibody, and hepatitis B c antibody, 6 cases had HBV-DNA titers < 500 IU/mL,
+and 1 case had an HBV-DNA titer > 500 IU/mL. Except for 1 case with elevated
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+alanine aminotransferase (ALT) and 1 case with elevated aspartate aminotransferase
+(AST), the remaining 5 patients had normal liver function, and 7 patients did not take
+antiviral drugs.
+Symptoms and signs
+The most common symptoms at the time of admission were fever [43 (89.6%) of 48],
+cough and expectoration [41 (85.4%)], chills [22 (45.8%)], and fatigue [22 (45.8%)].
+Other symptoms included poor appetite [13 (27.1%)], sore throat [9 (18.8%)], dyspnea
+[9 (18.8%)], diarrhea [7 (14.6%)], dizziness [5 (10.4%)], headache [5 (10.4%)], muscle
+pain [5 (10.4%)], nausea and vomiting [4 (8.3%)], hemoptysis [4 (8.3%)], and runny
+nose [1 (2.1%)]. At the time of admission, the mean body temperature was 38.3  0.8
+C, and respiratory frequency was 21.17  1.78 times/min. The clinical symptoms are
+Laboratory results
+In the first blood routine examination, the majority [29 (60.4%) of 48] of patients were
+in normal range, and the levels of leucocytes were reduced in about one third of
+patients [18 (37.5%)]. Neutrophil count was in normal range in the majority of patients
+[38 (79.2%)], and it was decreased in some [7 (14.6%)] and increased in a limited
+number of patients [3 (6.2%)]. The lymphocyte count was reduced in the majority of
+patients [34 (70.8%) of 48], was in normal range in about one third of patients [13
+(27.1%)], and was elevated in a small number of cases [1 (2.1%)]. The eosinophil count
+was significantly reduced [48 (100.0%)].
+The liver function tests showed that serum levels of ALT, AST, -GT, and alkaline
+phosphatase were increased in 22.9% (11 of 48), 20.8% (10 of 48), 21.6% (8 of 37), and
+5.4% (2 of 37) of patients, respectively. The abnormal incidence of ALT elevation in
+male patients was significantly higher than that in female patients (P < 0.01), while the
+abnormal incidence of AST elevation in severe patients was significantly increased
+compared with moderate patients (P < 0.05). After patients with liver disease were
+excluded, there were 17.07% (7 of 41) of patients with elevated levels of ALT and AST,
+and 24.24% (8 of 33) with elevated level of -GT.
+The serum myocardial enzyme test revealed that the levels of lactate dehydrogenase (LD-L), myoglobin (MB), and creatine kinase (CK) were increased in 37.0% (17
+of 46), 13.6% (6 of 44), and 12.8% (6 of 47) of patients, respectively. The incidence of
+abnormal CK elevation in severe patients was significantly higher than that in
+moderate patients (P < 0.05). For renal function test, some patients [10 (20.9%) of 48]
+were found to have increased levels of uric acid. In terms of fibrinolysis detection, the
+levels of fibrinogen and D-dimer were increased in 44.7% (21 of 47) and 29.5% (13 of
+44) of patients, respectively. Additionally, elevated serum levels of C-reactive protein
+and blood glucose were noted in 64.6% (31 of 48) and 43.2% (19 of 48) of patients,
+respectively. Compared with moderate patients, the incidence of abnormal levels of
+blood glucose was remarkably increased in the severe patients (P < 0.05). The results
+Chest computed tomography
+Except for 1 mild case, other patients [47 (97.92%) of 48] had pulmonary lesions, of
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+T (n = 48) A (n = 31) B (n = 17) 2 (P value1) C (n = 14) D (n = 34) 2 (P value2) E (n = 38) F (n = 9) 2 (P value3)
+Cough and
+Poor appetite
+Sore throat
+Muscle ache
+Nausea and vomiting
+Runny nose
+Indicates differences between male and female patients.
+Denotes differences between patients with and without basic diseases.
+Represents differences between moderate and severe patients. P < 0.05 was considered statistically significant. T: All patients; A: Male; B: Female; C: With
+basic diseases; D: Without basic diseases; E: Moderate; F: Severe.
+which 8.33% (4 of 48) were single lung lesions and 89.58% (43 of 48) were double lung
+lesions. Pleural effusion appeared in 2 [2 (4.17%)] cases as well. Average time from
+onset to the first appearance of lung lesions in chest computed tomography (CT) was
+3.18  2.71 (95%CI: 3.031-4.63) d. Multiple small patchy shadows and interstitial
+changes in the early stage of lung lesions were evident in the extra-pulmonary zone;
+as the disease progresses, multiple ground glass shadows and invasive lesions may
+illustrates dynamic changes of chest CT in 1 case of severe COVID-19.
+Treatment effect
+All the patients received antiviral drugs, including alpha-interferon (5 million units,
+atomization; average, 11.2 d), lopinavir/ritonavir (500 mg BID; average, 9.9 d), arbidol
+(200 mg TID; average, 7.8 d), and chloroquine phosphate (500 mg BID; average, 7.0 d).
+Moreover, 38 (79.2%) patients were given TCM based on the treatment protocol[7].
+Furthermore, 2 (4.2%) patients received treatment of human umbilical-cord
+mesenchymal stem cells. A number of patients, mainly those with co-infection, were
+treated with antibiotics including moxifloxacin, cefoperazone sodium, and sulbactam
+sodium. Severe patients were given methylprednisolone (1-2 mg/kg per day) and
+immunoglobulin for 3-5 d. On March 2, 2020, all the 48 patients with confirmed
+COVID-19 were cured and discharged.
+Analysis of epidemiological characteristics
+The outbreak of COVID-19 in China is roughly divided into three phases[9,10]. The first
+phase occurred before the end of December 2019. COVID-19 mainly caused a local
+outbreak among people who had contact with seafood markets. In early January 2020,
+the second phase commenced, with clusters of disease in multiple communities or
+families in Wuhan and human-to-human transmission among close contacts[10,11]. In
+mid-to-late January 2020, with the approach of the Spring Festival, personnel mobility
+increased, and the third phase of outbreak appeared. At this time, the epidemic
+spread from Hubei Province to other provinces in mainland China[10].
+Hengyang (Hunan Province), a close neighbor of Hubei Province, began to have an
+outbreak in mid-January 2020, just before commencing the traditional Chinese New
+Year. The first case of COVID-19 onset was found on January 16, 2020, and the onset
+occurred 2 d after he contacted with people from Wuhan. The distribution of
+confirmed cases of COVID-19 by date of onset in Hengyang was mainly concentrated
+from mid-January to late-January. No new cases were found in Hengyang after
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+Urea nitrogen (mmol/L) n = 48
+Uric acid (mol/L)
+Routine blood parameter
+Liver function
+Renal function
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+Creatine kinase (U/L)
+C-reactive protein
+Blood glucose (mmol/L) n = 48
+Myocardial enzymes
+Indicates differences between male and female patients.
+Denotes differences between patients with and without basic diseases.
+Represents differences between moderate and severe patients. P < 0.05 was considered statistically significant. T: All patients; A: Male; B: Female; C: With
+basic diseases; D: Without basic diseases; E: Moderate; F: Severe. ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; LD-L: Lactate
+dehydrogenase; ALP: Alkaline phosphatase; -GT: -glutamyl transpeptidase.
+February 14, due to non-pharmacological interventions adopted in China, including
+wearing masks and home isolation, which effectively cut off the transmission route of
+the virus.
+None of the patients in Hengyang had a history of wild animal contact within 14 d,
+excluding the possibility of animal infection. Approximately 58.3% of the patients had
+a history of travel or residency in the epidemic areas of Wuhan 14 d before onset,
+indicating that the early cases of Hengyang were introduced from Wuhan; 31.3% had
+no contact with the epidemic areas within 14 d, while there was a clear history of
+contact with the patients infected with SARS-CoV-2. Besides, 22.9% had clustered
+onset, of which 10 were in family and 1 in community. The characteristics of the
+clustered onset are similar to those of other regions in China[9,10].
+Among the 48 COVID-19 patients, the mean time from onset of symptoms to the
+first physician visit was 3.78  2.98 d, and the mean time from hospital admission to
+confirmed diagnosis was 2.29  2.11 d, which was shorter than the time reported in
+the literature[9,10]. These are closely related to the government and residents attaching
+great importance to the prevention and treatment of COVID-19 and technological
+advancements in health care.
+Analysis of clinical characteristics
+Totally, 48 patients with COVID-19 were enrolled, of which 1 was mild, 38 were
+moderate, and 9 were severe. Compared with patients who were initially infected
+with SARS-CoV-2 in Wuhan[11], the severity of illness of patients in Hengyang was
+relatively mild.
+The common symptoms of patients with COVID-19 in Hengyang were fever,
+cough, fatigue, and chills. Approximately 10.4% of patients did not have fever and
+were easily ignored in the daily temperature screening. Symptoms of the upper
+respiratory tract were rare, with only 1 case of runny nose, which was favorable for
+distinguishing the disease from the upper respiratory tract. One patient had no
+symptoms, positive signs, or changes in chest CT before and after hospitalization, and
+only SARS-CoV-2 nucleic acid test was positive, which was called asymptomatic
+novel coronavirus infection. The literature has reported that asymptomatic patients
+with novel coronavirus infection are also highly infectious[6]. Wong et al[12] found that
+SARS-CoV-2 can be prevented through basic infection control measures, including
+wearing of masks, washing hands, and environmental hygiene.
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+could be observed in the lower lobe of the right middle lobe and left upper lobe, and consolidation was observed in the lower lobe of both lungs, as well as
+consolidation of the right lung; B: On day 18 of disease onset, the consolidation of the lower lobe of both lungs was significantly reduced, and the structure was
+distorted. The consolidation of the lobe and ground glass was mixed; C: An obvious reduction in consolidation of both lungs and increased ground glass opacities in
+the lower lobe of the left lung could be observed on day 23 of disease onset; D: An obvious absorption and decreased density of bilateral lung lesions, mainly ground
+glass opacities and fiber strand shadow distribution, as well as bronchiectasis of the lower lobe of both lungs could be observed on day 31 of disease onset.
+The laboratory tests showed the following findings: First, the numbers of
+peripheral blood leukocytes, lymphocytes, and eosinophils were significantly
+reduced, especially the number of eosinophils, which was remarkably decreased in all
+the patients. Second, it was revealed that the levels of ALT, AST, and -GT were
+increased in 22.9%, 20.8%, and 21.6% of patients, respectively. At present, it is
+believed that COVID-19 patients suffer from dysfunction or injury in multiple organs
+of the body due to the following three reasons: First, the novel coronavirus directly
+damages the targeted organ[13-15]; second, the novel coronavirus induces systemic
+inflammatory immune response in the human body[5]; third, toxic and side effects of
+some drugs are important during the course of COVID-19 treatment[16]. However,
+further research should be conducted to confirm the above-mentioned findings.
+Except for one mild patient, the other 47 patients had morphological characteristic
+of pulmonary lesions on chest CT, which plays a pivotal role in diagnosing COVID19[17] .
+The pandemic of COVID-19 caused by SARS-CoV-2 presents an unprecedented
+challenge to identify effective drugs for prevention and treatment[18]. The patients in
+the present study were treated with a combination of Western medicine and TCM.
+None of the 38 ordinary patients got worse and became severe, and all 48 patients
+were cured and discharged. In the absence of effective drugs for COVID-19[18], TCM is
+a helpful treatment option.
+The current study was limited by a number of factors that require further attention.
+First, a small number of COVID-19 cases were involved in this study. Second,
+laboratory examination results of a number of patients were missed, resulting in
+incomplete data.
+In conclusion, compared with patients initially infected with SARS-CoV-2 in
+Wuhan, the symptoms of patients with COVID-19 in Hengyang are relatively mild,
+and the mean time from onset of symptoms to the first physician visit and the mean
+time from hospital admission to confirmed diagnosis are shorter. COVID-19 patients
+in the present research have the following characteristics: First, in addition to fever
+and respiratory symptoms, there are other systemic symptoms; second, the numbers
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+of peripheral blood leukocytes, lymphocytes, and eosinophils are significantly
+reduced, especially the number of eosinophils, which is reduced in all the patients;
+third, some morphological characteristics of pulmonary lesions appeared in the chest
+CT scan; fourth, laboratory tests revealed multiple organ abnormality or damage. Our
+outcomes may assist clinicians in diagnosis and treatment of COVID-19.
+ARTICLE HIGHLIGHTS
+Research background
+At present, coronavirus disease 2019 (COVID-19) is influencing 210 countries and territories
+worldwide, which is becoming a severe public health concern.
+Research motivation
+There have been rare reports about the differences in the epidemiological and clinical
+characteristics of COVID-19 patients with different genders, clinical classification, and with or
+without basic diseases.
+Research objectives
+To study the differences in the epidemiological and clinical characteristics of COVID-19 patients
+with different genders, clinical classification, and with or without basic diseases, and provide a
+reliable reference for the prevention and control of COVID-19.
+Research methods
+From January 16 to March 2, 2020, a total of 48 confirmed cases of COVID-19 have been reported
+in Hengyang and were included in this study. All the data were imported into the excel
+worksheet and statistically analyzed by using SPSS25.0 software.
+Research results
+The main symptoms of COVID-19 patients in Hengyang were fever, cough and expectoration,
+fatigue, and chills, and there were multiple organ dysfunction or damage, such as reduced
+peripheral blood leukocytes, lymphocytes, and eosinophils, and increased C-reactive protein,
+fibrinogen, blood glucose, LD-L, D-dimer, ALT, AST, -GT, MB, and CK. Except for the mild
+patients, chest CT showed pulmonary lesions. On March 2, 2020, 48 patients with COVID-19
+were all cured and discharged.
+Research conclusions
+The epidemiological and clinical characteristics of COVID-19 patients with different genders,
+clinical classification, and with or without basic diseases are not very different in most cases, and
+slightly different in individual cases. Clinical manifestations and laboratory tests reveal that
+patients with COVID-19 have multiple organ dysfunction or damage.
+Research perspectives
+The mechanism of COVID-19 combining multiple organ dysfunction or damage is worth further
+Lu H, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The
+Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X,
+Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A
+Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020; 382: 727-733
+Gostic K, Gomez AC, Mummah RO, Kucharski AJ, Lloyd-Smith JO. Estimated effectiveness of symptom
+Cao J, Tu WJ, Cheng W, Yu L, Liu YK, Hu X, Liu Q. Clinical Features and Short-term Outcomes of 102
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei
+Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q,
+Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng
+G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei
+L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY,
+Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus
+Released by National Health Commission National Administration of Traditional Chinese Medicine
+on March 3, 2020. Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia (Trial Version
+Zhong ZF et al. Epidemiological and clinical characteristics of COVID-19
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang
+X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected
+Epidemiology Working Group for NCIP Epidemic Response, Chinese Center for Disease Control
+and Prevention. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases
+Special Expert Group for Control of the Epidemic of Novel Coronavirus Pneumonia of the Chinese
+Preventive Medicine Association. An update on the epidemiological characteristics of novel coronavirus
+Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang
+N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Liu M, Tu W, Chen C, Jin L, Yang R, Wang Q, Zhou S,
+Wang R, Liu H, Luo Y, Liu Y, Shao G, Li H, Tao Z, Yang Y, Deng Z, Liu B, Ma Z, Zhang Y, Shi G, Lam
+TTY, Wu JT, Gao GF, Cowling BJ, Yang B, Leung GM, Feng Z. Early Transmission Dynamics in
+Wong SC, Kwong RT, Wu TC, Chan JWM, Chu MY, Lee SY, Wong HY, Lung DC. Risk of nosocomial
+transmission of coronavirus disease 2019: an experience in a general ward setting in Hong Kong. J Hosp
+Zhang C, Shi L, Wang FS. Liver injury in COVID-19: management and challenges. Lancet Gastroenterol
+Chau TN, Lee KC, Yao H, Tsang TY, Chow TC, Yeung YC, Choi KW, Tso YK, Lau T, Lai ST, Lai CL.
+SARS-associated viral hepatitis caused by a novel coronavirus: report of three cases. Hepatology 2004; 39:
+Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, Ng OT, Marimuthu K, Ang LW, Mak TM,
+Lau SK, Anderson DE, Chan KS, Tan TY, Ng TY, Cui L, Said Z, Kurupatham L, Chen MI, Chan M,
+Vasoo S, Wang LF, Tan BH, Lin RTP, Lee VJM, Leo YS, Lye DC; Singapore 2019 Novel Coronavirus
+Lee EYP, Ng MY, Khong PL. COVID-19 pneumonia: what has CT taught us? Lancet Infect Dis 2020; 20:
+Sanders JM, Monogue ML, Jodlowski TZ, Cutrell JB. Pharmacologic Treatments for Coronavirus
+7041 Koll Center Parkway, Suite 160, Pleasanton, CA 94566, USA

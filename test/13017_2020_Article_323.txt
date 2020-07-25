@@ -1,0 +1,350 @@
+RESEARCH ARTICLE
+Open Access
+Iron metabolism and lymphocyte
+characterisation during Covid-19 infection
+in ICU patients: an observational cohort
+Giuliano Bolondi1* , Emanuele Russo1, Emiliano Gamberini1, Alessandro Circelli1, Manlio Cosimo Claudio Meca1,
+Etrusca Brogi1, Lorenzo Viola1, Luca Bissoni1, Venerino Poletti2,3 and Vanni Agnoletti1
+Background: Iron metabolism and immune response to SARS-CoV-2 have not been described yet in intensive care
+patients, although they are likely involved in Covid-19 pathogenesis.
+Methods: We performed an observational study during the peak of pandemic in our intensive care unit, dosing Ddimer, C-reactive protein, troponin T, lactate dehydrogenase, ferritin, serum iron, transferrin, transferrin saturation,
+transferrin soluble receptor, lymphocyte count and NK, CD3, CD4, CD8 and B subgroups of 31 patients during the
+first 2 weeks of their ICU stay. Correlation with mortality and severity at the time of admission was tested with the
+Spearman coefficient and MannWhitney test. Trends over time were tested with the KruskalWallis analysis.
+Results: Lymphopenia is severe and constant, with a nadir on day 2 of ICU stay (median 0.555 109/L; interquartile
+range (IQR) 0.450 109/L); all lymphocytic subgroups are dramatically reduced in critically ill patients, while CD4/CD8
+ratio remains normal. Neither ferritin nor lymphocyte count follows significant trends in ICU patients. Transferrin
+saturation is extremely reduced at ICU admission (median 9%; IQR 7%), then significantly increases at days 3 to 6
+(median 33%, IQR 26.5%, p value 0.026). The same trend is observed with serum iron levels (median 25.5 g/L, IQR
+69 g/L at admission; median 73 g/L, IQR 56 g/L on days 3 to 6) without reaching statistical significance.
+Hyperferritinemia is constant during intensive care stay: however, its dosage might be helpful in individuating
+patients developing haemophagocytic lymphohistiocytosis. D-dimer is elevated and progressively increases from
+admission (median 1319 g/L; IQR 1285 g/L) to days 3 to 6 (median 6820 g/L; IQR 6619 g/L), despite not
+reaching significant results. We describe trends of all the abovementioned parameters during ICU stay.
+Conclusions: The description of iron metabolism and lymphocyte count in Covid-19 patients admitted to the
+intensive care unit provided with this paper might allow a wider understanding of SARS-CoV-2 pathophysiology.
+Keywords: MeSH repository (3-10), Iron, COVID-19, SARS-CoV-2, Coronavirus, Critical care, Lymphocytes,
+Lymphopenia, Ferritins, Immunity, Coagulation
+The work was conducted in the Anesthesia and Intensive Care Unit of the
+Bufalini Hospital in Cesena (Italy).
+Anesthesia and Intensive Care Unit, AUSL Romagna  Bufalini Hospital, viale
+Ghirotti 286, 47521 Cesena, FC, Italy
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+Covid-19 has been declared a pandemic by World
+Health Organization (WHO) on the 11th of March. The
+high contagiousness and the previously unknown clinical
+features of this new viral infection put under pressure
+healthcare systems and clinicians worldwide.
+Early reports from the Chinese province of Hubei described some predictive biomarkers for the clinical outcome of hospitalised patients, namely lymphopenia and
+the elevation of D-dimer, ferritin, interleukin 6 (IL-6),
+troponin and myoglobin, C-reactive protein (CRP) and
+lactate dehydrogenase (LDH) [1, 2]. LDH is a marker of
+parenchymal lung damage, and troponin and myoglobin
+are markers of myocardial and muscular involvement,
+while the remaining molecules belong to the group of
+positive acute-phase proteins (APP).
+Ferritin is a crucial component of iron metabolism,
+one of the most ancestral systems of host protection
+from pathogen infections [3]. Iron is a micronutrient necessary for both energy production at a mitochondrial
+level and nucleic acid replication at cytoplasmic and nuclear level. For its scarcity in the human body and the
+fundamental processes in which it is involved, pathogens
+(bacterial, viral or fungal) compete with the host for iron
+availability in order to guarantee their own replication.
+When innate immunity is activated and cytokine cascades start, IL-1 and IL-6 stimulate hepcidin expression
+in the liver, reducing iron bioavailability by decreasing
+its gut absorption and hiding it into ferritin, a shell-like
+molecule deposited in macrophages. These mechanisms
+Lymphopenia and specific T cell lineage affection
+are characteristic features of Covid-19 and have been
+correlated with poorer prognosis [911]. In previous
+coronavirus outbreaks, such as SARS, the peak of
+viral load occurred 7 days after symptoms development, followed by elevation in IL-6 and IL-8, nadir
+lymphocyte count and successive pulmonary infiltrates. This description suggests that clinical symptoms might be mediated by the immune system
+deregulation rather than direct viral damage [12]. The
+distribution of different subtypes of T cells in peripheral blood of symptomatic critical and non-critical
+Covid-19 patients has been described [1316].
+With this observational study, we aim to provide a detailed description of iron metabolism and lymphocyte
+subpopulations in ICU Covid-19 population. It can lead
+to a better understanding of the underlying physiopathology of this unknown disease, foreseeing some possible alternative therapeutic targets.
+Reported cases
+In-hospital pre-ICU LOS (days)
+ICU LOS
+CT scan (L:H)
+Intubated patients (%)
+Pro-coagulative disorders (%)
+Admitted from other centres (%)
+4 men still admitted in our ICU
+BMI body mass index, CRRT continuous renal-replacement therapy, CT scan computed tomography (only those with both images and radiologic report
+availableH stays for high-elastance pattern and L stays for low-elastance pattern), ICU intensive care unit, IQR interquartile range, LOS length of stay, Mortality 21
+men over 25 enrolled because 4 are still in our ICU, PFmed means PaO2/FiO2 ratio during the first 24 h of ICU stay, PLR platelet-to-lymphocyte ratio on the day of
+ICU admission, Pnx pneumothorax, Pro-coagulative disorders deep-vein thrombosis, ischaemic stroke or massive pulmonary embolism, VAP
+ventilator-acquired pneumonia
+Study population
+This is a single-centre retrospective observational cohort
+study. The first COVID-19-positive patient in our ICU
+has been admitted on the 5th of March 2020. Data collection goes from the 6th of March to the 6th of April 2020,
+following the local peak of epidemic. A protocol was
+established to test predictive biomarkers. On the day of
+ICU admission and then twice-a-week (on Monday and
+Thursday), every ICU patient was tested for ferritin, serum
+iron, transferrin and transferrin saturation (TfSat), soluble
+receptor of transferrin, CRP, D-dimer, LDH, troponin,
+lymphocyte count and characterisation of T cells (CD3,
+CD4 and CD8), B cells and NK cells. Then, data were
+divided in the following sub-categories: TI1-2 (first dosage
+made on ICU admission), TI3-6 (dosage between days 3
+and 6 of ICU stay), TI 7-10 and TI 11-14. We observed
+their trends during the first 2 weeks of ICU stay. Due to
+laboratory restrictions, just 9 patients were tested for
+interleukin-6 (IL6) only on the day of admission [17].
+Inclusion criteria
+Every SARS-CoV-2-positive patient (oropharyngeal swab
+or bronchoalveolar lavage sample, PCR test) admitted to
+our ICU was automatically enrolled in the study. Overall,
+31 patients entered in the final data analysis fulfilling inclusion criteria. Importantly, we count ICU length of
+stay (LOS) from the day of admission in the first ICU:
+Fig. 1 Iron parameters. Distribution over time of the tested iron parameters with their units of measure. Box plots indicate median with
+interquartile range, and dots indicate outliers. Groups specify the timing by which the dosage was effectuated form the moment of ICU
+admission, and round brackets in the lower line indicate the number of patients tested for each group. In e, asterisk indicates significant
+difference (p value > 0.05)
+this means that dosages of patients transferred to our
+unit from other ICUs do not start from day 1.
+Data collection ended with the following criteria
+Data collection was stopped after day 18 of ICU stay;
+iron-related data analysis was stopped or not taken
+into account for the final analysis if bacterial infection
+occurred, since we considered it a known confounding factor for inflammatory response; patients were
+discharged from our analysis on the date of extracorporeal membrane oxygenation (ECMO) start (3 patients) or death.
+Fig. 2 Lymphocytes count. Distribution over time of lymphocytes and their tested subgroups, with their units of measure. Box plots indicate
+median with interquartile range, and dots indicate outliers. Groups specify the timing by which the dosage was effectuated form the moment of
+over time more readable
+Serum iron (g/L)
+Transferrin Saturation (%)
+Transferrin Receptor (mg/L)
+Data are all expressed as median, interquartile range between brackets and number of measured cases in the second line
+Exclusion criteria
+All patients admitted for strict clinical monitoring and
+discharged within 48 h from ICU; all admitted patients
+who tested negative for SARS-CoV-2; and no underage
+patients were included. Overall, 6 patients were initially
+tested but then excluded from the final analysis for the
+abovementioned criteria.
+The primary outcome was a descriptive analysis of iron
+metabolism values and lymphocyte count in ICU patients. Then, as a secondary outcome, we tried to correlate iron metabolism parameters and lymphocyte count
+with mortality or severity at the moment of ICU admission. Severity at the moment of ICU admission was
+quantified with two parameters: mean PaO2/FiO2 ratio
+Measurement technology
+Iron parameters were tested with Cobas analyser systems
+(Roche), while lymphocyte subpopulations with the
+Navios EX flow cytometer (Beckman Coultrer).
+Statistical analysis
+The formula used to estimate TfSat (TfSat = serum
+iron/(transferrin  1.42)  100) is not reliable for ferritin
+values above 1200 g/L: in this case, those values were
+not included in final analysis. Statistical analysis was performed using the software IBM SPSS 22.0. Data are reported as mean with standard deviation (std. dev.),
+median with interquartile range (IQR), number and percentage, depending on underlying distribution. Students
+t test, MannWhitney, KruskalWallis, Spearman correlation and 2 tests were used for statistical analysis.
+particularly elevated because in our Hospital are present
+sub-intensive care units and because ICU stay lower
+than 48 h (only for strict monitoring purposes) was an
+exclusion criteria. It is therefore likely the analysis accounts for a population of severely affected patients. CT
+scan patterns of low (L) or high (H) elastance refer to
+the phenotypes proposed by Gattinoni et al. [20]. Due to
+the exiguity of our sample and the different focus of our
+A significant increase of TfSat levels (%) occurs between the first 48 h of ICU stay and days 3 to 6 (Mann
+Whitney, p value = 0.026, Fig. 1). No other significant
+trends and modifications of iron parameters and
+lymphocyte subpopulations were found during ICU stay.
+Lymphocytes and their subpopulations do not show significant trends of modification either.
+Trends and modifications of iron parameters are reported
+in Fig. 1, while trends and modifications of lymphocytes
+count and lymphocytic subgroups are reported in Fig. 2.
+Looking to secondary outcomes, neither iron parameters nor lymphocyte count correlate with mortality,
+The already described survival predictors in general
+hospital population (LDH, troponin, CRP and D-dimer)
+Data are all expressed as median, interquartile range between brackets and
+number of measured cases in the second line
+Data are all expressed as median, interquartile range between brackets and number of measured cases in the second line
+are not significantly associated with outcome, PLR or
+D-dimer shows a non-significant tendency to increase
+after ICU admission (KruskalWallis, p value = 0.108,
+Fig. 3). IL6 elevation is lower than reported by other
+studies on critically ill Covid-19 patients [21]. We found
+a debile correlation between IL6 levels and lymphocyte
+count on the day of ICU admission (8 cases, Spearman
+rho 0.714, p value = 0.047), but the analysis is limited by
+the low amount of cases.
+Cytokines release hyper-expresses hepcidin, leading to
+ferroportin internalisation and reduced iron absorption
+and availability in body fluids [22, 23]. Serum iron and
+TfSat are known to decrease early after infections, inhibiting iron availability to the pathogen, but then return
+to almost-normal values within 710 days [24, 25]. The
+role of dysregulated iron response in Covid-19 has been
+Serum iron does not show significant modifications,
+but it follows the same trend of TfSat being part of the
+formula to calculate it. They both remain lower than the
+normal reference values during the whole infection. It is
+difficult to hypothesise the reason of their trend without
+proper laboratory research: the dramatic low levels at
+ICU admission might be expected, but the following increase during an acute phase of inflammatory response
+seems counter-intuitive. The described patients arrived
+in our ICU after a median of 7 to 9 days from symptoms
+onset: the physiologic progressive restoration of normal
+TfSat after 1 week of infection and the dysregulated
+cytokine response might contribute to TfSat elevation.
+Also, it has been described that acute respiratory distress
+syndrome (ARDS) causes reduced serum iron levels [27]:
+intubated Covid-19 patients suffer of this syndrome,
+while protective ventilation might theoretically restore
+normal iron levels.
+Ferritin is a very early and non-specific indicator of inflammation. It resulted to be the first severely elevated
+biomarker together with lymphopenia [1]: thus, its early
+dosage in at-home symptomatic patients might be extremely useful in individuating those who can benefit of
+early hospital admission. After its initial rise, ferritin can
+take longer than a month to normalise after an infection
+[24]. Thus, it remains elevated during ICU stay of
+Covid-19 patients. Despite being apparently futile, its
+dosage constitutes the key element to suspect secondary
+haemophagocytic lymphohistiocytosis (sHLH). sHLH is
+a frequently misdiagnosed syndrome related to viral infections and thus of primary importance in this Covid19 pandemic. Overall, despite unable of a more detailed
+description, we demonstrate how iron metabolism is deranged in severe forms of Covid-19.
+Lymphocytes are constantly reduced in ICU Covid-19
+patients with respect to reference values. All the subsets
+are also dramatically reduced, more than reported by
+other recent publications referring to non-ICU populations [9, 28]. We observe a conserved CD4/CD8 ratio.
+The nadir of lymphopenia is on day 2 of ICU stay; a progressive tendency towards normalisation is more evident
+in patients experiencing positive outcome and ICU discharge. Similar timing of lymphocyte modifications was
+observed during severe acute respiratory disease (SARS)
+outbreak, despite with less dramatic reduction [29, 30].
+Troponin T (ng/L)
+Fig. 3 D-dimer levels. D-dimer levels over time from the moment of ICU admission. It is observable a non-significant trend towards increase after
+the first 48 h. It might be relevant to explain the increased tendency to hypercoagulability of Covid-19 patients. Box plots indicate median with
+interquartile range, and dots indicate outliers. Groups specify the timing by which the dosage was effectuated form the moment of
+ICU admission
+Being referred to critically ill patients, this more severe
+reduction of all lymphocyte subgroups might be an indicator of severity. To date, no other publications are
+available about ICU populations on lymphocytes
+Being such a specific subset of critically ill patients, many
+significant differences were not observable between survivors and non. These data might be relevant to researchers
+for a better understanding of the altered immunologic response in severely affected patients and to ICU clinicians.
+The study is affected by some limitations. The sanitary
+emergency and the previously unknown characteristics of
+this disease led to many difficulties. During the initial
+phase, it has been difficult to create an effective protocol
+shared between the operators and some data have been
+missed. We have frequently acted as a backup hospital to
+relieve other overloaded ICUs nearby: this means that, for
+a part of the reported cases, the first few days of ICU stay
+occurred in a different unit and the dosage of relevant
+markers was missed during that initial phase. Being a
+monocentric study conceived during an emergency phase,
+the sample size is limited and cannot be increased: this led
+to the impossibility to detect and describe some more subtle physiologic processes. Finally, slightly different therapeutic approaches have been applied to patients following
+ongoing findings and different complications (ventilatoracquired pneumonia, pro-coagulative states, renal and
+hepatic insufficiency) have affected patients evolution: it is
+not possible to quantify how these differences affected
+iron metabolism and lymphocyte count.
+We describe iron metabolism, lymphocyte subgroups
+count and other biomarkers in critically ill Covid-19
+patients. This might be relevant for clinicians dealing
+with critical patients and provide further hints about the
+pathophysiology of this disease.
+Iron metabolism has been repeatedly proposed as a
+potential therapeutic target during infections [31, 32].
+Pharmacologic advances have made available safer iron
+chelators [33]. This testifies the relevance of the topics
+investigated and how they might contribute to the development of novel therapeutic strategies against Covid-19.
+APP: Acute phase-proteins; ARDS: Acute respiratory distress syndrome;
+CRP: C-reactive protein; CRRT: Continuous renal replacement therapy;
+ECMO: Extracorporeal membrane oxygenation; HLH: Haemophagocytic
+lymphohistiocytosis; IL-6: Interleukin 6; IQR: Interquartile range; LDH: Lactate
+dehydrogenase; LOS: Length of stay; MOF: Multiple organ failure;
+PCR: Polymerase chain reaction; PFmed: Mean PaO2/FiO2 ratio during the
+first 24 h of ICU admission; PLR: Platelet-to-lymphocyte ratio on the day of
+ICU admission; PPE: Personal protective equipment; SARS: Severe acute
+respiratory syndrome; SARS-CoV-2: SARS coronavirus type 2; TfSat: Transferrin
+saturation (%); VAP: Ventilator-acquired pneumonia; WHO: World Health
+investigation protocol in such a difficult time; we also thank Prof. Drakesmith
+incitation in continuing our data collection and Prof. Antonio Lucariello
+(Universit degli Studi di Napoli, Federico II) for his contribution to the
+understanding of iron metabolism.
+BG conceived the study project, wrote the paper and collected scientific
+analysis and contributed to the drafting; GE, CA, MMCC, BE, VL and BL
+contributed to the data collection, database curation and drafting; PV and
+Availability of data and materials
+The datasets used and analysed during the current study are available from
+Ethics approval and consent to participate
+Protocol IR-COV, version 21st of April 2020, approved by the Romagna Ethical
+Consent for publication
+All clinical data are completely anonymised; discharged patients are being
+telephonically contacted to get informed consent.
+Competing interests
+Anesthesia and Intensive Care Unit, AUSL Romagna  Bufalini Hospital, viale
+Ghirotti 286, 47521 Cesena, FC, Italy. 2Department of Respiratory Diseases &
+Respiratory Diseases, AUSL Romagna - Morgagni Hospital, Forl, Italy.
+1. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, et al. Clinical course and risk factors
+for mortality of adult inpatients with COVID-19 in Wuhan, China: a
+retrospective cohort study. Lancet. 2020;6736:19.
+2. Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality
+due to COVID - 19 based on an analysis of data of 150 patients from
+3. Pietrangelo A. Pathogens, metabolic adaptation, and human diseases - an
+iron-thrifty genetic model. Gastroenterology. 2015;149:834.
+4. Cassat JE, Skaar EP. Iron in infection and immunity. Cell Host Microbe. 2013;
+5. Drakesmith H, Prentice A. Viral infection and iron metabolism. Nat Rev
+6. Drakesmith H, Prentice AM. Hepcidin and the iron-infection axis. Science.
+7. Litton E, Lim J. Iron metabolism: an emerging therapeutic target in critical
+illness. Crit Care Critical Care. 2019;23:18.
+8. Ganz T. Anemia of inflammation. N Engl J Med. 2019;381:114857.
+9. Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, et al. Dysregulation of
+immune response in patients with COVID-19 in Wuhan, China Chuan. Clin
+10. Huang I, Pranata R. Lymphopenia in severe coronavirus disease-2019
+11. Velavan TP, Meyer CG. Mild versus severe COVID-19: laboratory markers. Int J
+Infect Dis. 2020;95:3047.
+12. Wang W, Chen S, I-Jun L, Kao C, Chen H, Chiang B, et al. Temporal
+relationship of viral load, ribavirin, interleukin (IL)6, IL-8, and clinical
+progression in patients with severe acute respiratory syndrome. Clin Infect
+13. Cossarizza A, De Biasi S, Guaraldi G, Girardis M, Mussini C. Modena Covid-19
+Working Group (MoCo19). SARS-CoV-2, the virus that causes COVID-19:
+cytometry and the new challenge for global health. Cytometry A. 2020;97:
+14. Liu R, Wang Y, Li J, Han H, Xia Z, Liu F, et al. Decreased T cell populations
+contribute to the increased severity of COVID-19. Clin Chim Acta. 2020;508:
+15. Wan S, Yi Q, Fan S, Lv J, Zhang X, Guo L, et al. Relationships among
+lymphocyte subsets, cytokines, and the pulmonary inflammation index in
+coronavirus (COVID-19) infected patients. Br J Haematol. 2020;189:42837.
+16. Wang F, Nie J, Wang H, Zhao Q, Xiong Y, Deng L, et al. Characteristics of
+peripheral lymphocyte subset alteration in COVID-19 pneumonia. J Infect
+17. Aziz M, Fatima R, Assaly R. Elevated interleukin-6 and severe COVID-19: a
+18. Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E,
+et al. Acute respiratory distress syndrome: The Berlin definition. JAMA. 2012;
+19. Qu R, Ling Y, Zhang Y, Wei L, Chen X, Li X, et al. Platelet-to-lymphocyte
+ratio is associated with prognosis in patients with coronavirus disease-19.
+20. Gattinoni L, Chiumello D, Caironi P, Busana M, Romitti F, Brazzi L, et al.
+COVID-19 pneumonia: different respiratory treatment for different
+21. Tu W-J, Cao J, Yu L, Hu X, Liu Q. Clinicolaboratory study of 25 fatal cases of
+22. Nemeth E, Tuttle MS, Powelson J, Vaughn MD, Donovan A, Ward DMV, et al.
+Hepcidin regulates cellular iron efflux by binding to ferroportin and
+inducing its internalization. Science. 2004;306:20903.
+23. Sabelli M, Montosi G, Garuti C, Caleffi A, Oliveto S, Biffo S, et al. Human
+macrophage ferroportin biology and the basis for the ferroportin disease.
+24. Eskeland B, Baerheim A, Ulvik R, Hunskaar S. Influence of mild infections on
+iron status parameters in women of reproductive age. Scand J Prim Health
+25. Punnonen K, Irjala K, Rajamki A. Serum transferrin receptor and its ratio to
+serum ferritin in the diagnosis of iron deficiency. Blood. 1997;89:10527.
+26. Edeas M, Saleh J, Peyssonnaux C. Iron: innocent bystander or vicious culprit
+in COVID-19 pathogenesis? Int J Infect Dis. Int J Infect Dis; 2020; Available
+27. Stites SW, Nelson ME, Wesselius LJ. Transferrin concentrations in serum and
+lower respiratory tract fluid of mechanically ventilated patients with COPD
+or ARDS. Chest. 1995;107:16815.
+29. He Z, Zhao C, Dong Q, Zhuang H, Song S, Peng G, et al. Effects of severe
+acute respiratory syndrome (SARS) coronavirus infection on peripheral
+blood lymphocytes and their subsets. Int J Infect Dis. 2005;9:32330.
+30. Wong RSM, Wu A, To KF, Lee N, Lam CWK, Wong CK, et al. Haematological
+manifestations in patients with severe acute respiratory syndrome:
+Retrospective analysis. Br Med J. 2003;326:135862.
+31. Dalamaga M, Karampela I, Mantzoros CS. Commentary: Could iron chelators
+prove to be useful as an adjunct to COVID-19 treatment regimens?
+32. Liu W, Zhang S, Nekhai S, Liu S. Depriving iron supply to the virus
+represents a promising adjuvant therapeutic against viral survival. Curr. Clin.
+33. Bernhardt PV. Coordination chemistry and biology of chelators for the
+treatment of iron overload disorders. Dalton Trans. 2007;30:321420.

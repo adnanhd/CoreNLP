@@ -1,0 +1,558 @@
+Pathological Role of Angiotensin II in Severe COVID-19
+Wolfgang Miesbach1
+Frankfurt, Frankfurt, Germany
+Address for correspondence Wolfgang Miesbach, MD, Department of
+TH Open 2020;4:e138e144.
+The activated reninangiotensin system induces a prothrombotic state resulting from
+the imbalance between coagulation and brinolysis. Angiotensin II is the central
+effector molecule of the activated reninangiotensin system and is degraded by the
+angiotensin-converting enzyme 2 to angiotensin (17). The novel coronavirus infection
+(classied as COVID-19) is caused by the new coronavirus SARS-CoV-2 and is characterized by an exaggerated inammatory response that can lead to severe manifestations such as acute respiratory distress syndrome, sepsis, and death in a proportion of
+patients, mostly elderly patients with preexisting comorbidities. SARS-CoV-2 uses the
+angiotensin-converting enzyme 2 receptor to enter the target cells, resulting in
+activation of the reninangiotensin system. After downregulating the angiotensinconverting enzyme 2, the vasoconstrictor angiotensin II is increasingly produced and
+its counterregulating molecules angiotensin (17) reduced. Angiotensin II increases
+thrombin formation and impairs brinolysis. Elevated levels were strongly associated
+with viral load and lung injury in patients with severe COVID-19. Therefore, the complex
+clinical picture of patients with severe complications of COVID-19 is triggered by the
+various effects of highly expressed angiotensin II on vasculopathy, coagulopathy, and
+inammation. Future treatment options should focus on blocking the thrombogenic
+and inammatory properties of angiotensin II in COVID-19 patients.
+Coronavirus disease (COVID-19) is a recent pandemic infection
+caused by an enveloped, nonsegmented single-stranded ribonucleic acid (RNA)- coronavirus 2 (SARS-CoV-2). SARS-CoV-2
+is the seventh member of the coronavirus1 that can cause
+various symptoms ranging from a mild cold to severe respiratory diseases such as severe acute respiratory syndrome
+(SARS) and Middle Eastern respiratory syndrome (MERS)
+with mortality rates of 10% for SARS and 37% for MERS.2
+In recent years, two other coronary viral infections have
+spread and led to severe respiratory diseases: SARS and MERS.
+SARS-CoV rst appeared 18 years ago.3 During the SARS
+epidemic in 2002, more than 8,000 infected patients of all
+ages and 744 deaths were documented in 26 countries on 5
+continents. The main clinical manifestations were upper
+accepted after revision
+respiratory symptoms, rapid progression of pneumonia,
+and approximately 20 to 30% had to be admitted to intensive
+care.4 In patients over 65 years of age, the mortality rate was
+over 50%. Of the patients treated or dying in the intensive
+care unit, 11.4% developed disseminated intravascular
+COVID-19 is characterized by an exaggerated inammatory response that can lead to severe complications, acute
+respiratory distress syndrome (ARDS), and sepsis shortly
+after the onset of symptoms.5 Thrombotic events and coagulopathy have also been described in COVID-19.6
+The transition from mild to severe in patients with COVID19 can be rapid without predicting symptoms, and older
+male and obese patients with comorbidities have a higher
+risk of developing severe symptoms.7
+ 2020 Georg Thieme Verlag KG
+Stuttgart  New York
+Pathological Role of Angiotensin II in Severe COVID-19
+Acute lung failure is a pathology of many diseases, and a
+combination of antiviral and anti-inammatory treatments
+is recommended for COVID-19.8 Unfortunately, no specic
+drug or vaccine has yet been approved for the treatment of
+human coronavirus.
+Therefore, the underlying pathomechanism of COVID-19induced changes should be investigated to identify specic
+treatment options.
+Clinical COVID-19 Manifestations
+Chinese Centre for Disease Control and Prevention, 81% had
+mild symptoms, 14% severe, and 5% critical manifestations.9
+The case fatality rate was 2.3 and 14.8% in patients aged 80.
+Older patients and patients with comorbidities and higher
+body mass index are more likely to have serious complications of COVID-19. Severe and critical cases suffer from
+sepsis and ARDS, and coagulopathy occurs in 50% of cases.10
+Sepsis, cytokine storm, and viral bypassing of the cellular
+immune response have been described in connection with
+human coronavirus infections11,12 associated with neutrophilia and pulmonary inltration of neutrophils and macrophages in respiratory syndromes.13,14
+Pulmonary symptoms and pneumonia are predominant
+in COVID-19.15 Pneumonia can be complicated by hypoxic
+pulmonary vasoconstriction, which is a homeostatic reex
+contraction of the pulmonary vascular smooth muscle in
+response to low regional oxygen partial pressure that redirects blood to more oxygenated lung segments.16 In a study
+using remdesivir, a nucleoside analogue drug that inhibits
+viral RNA polymerases there is a mortality rate of 18% in
+ventilated COVID-19 patients.17
+Sepsis is the most common cause of acute lung injury and
+ARDS.18 ARDS is characterized by diffuse alveolar damage and
+is often complicated by pulmonary hypertension.19 In patients
+with ARDS, a subgroup of ARDS survivors develop a bropro-
+liferative response characterized by broblast accumulation
+and deposition of collagen and other extracellular matrix
+components in the lung. The development of severe broproliferative lung disease is associated with a poor prognosis with
+high mortality and/or prolonged ventilator dependence.20
+All patients with severe complications experienced extrapulmonary symptoms and organ injuries. In a multivariable
+analysis comparing clinical and laboratory parameters of 137
+surviving patients from 54 nonsurvivors, death occurred
+median on the 18th day of hospital treatment after mechanical
+ventilation for 14.5 days.10 In three patients an attempt was
+made to perform extracorporeal membrane oxygenation. All
+54 deceased patients developed sepsis (100 vs. 42% of survivors), 53 patients suffered from respiratory failure (98 vs. 36%),
+50 patients suffered from ARDS (93 vs. 7%), 28 patients suffered
+from heart failure (52 vs. 12%), and 38 patients suffered from
+septic shock (70 vs. 0%). The rate of patients with organ injury
+was signicantly higher in patients with severe outcome. Of 54
+patients, 32 patients had a heart injury, 25 had heart failure,
+and 27 had a kidney injury.
+In China, several studies investigated the clinical course of
+COVID-19, differentiating between severe and nonsevere
+outcome and collecting data on organ injury. In 6 studies,
+the clinical course of 1,841 patients was investigated, 21% of
+whom developed a severe manifestation of the disease.7,10,12,2123 Median age ranged from 49 to 71.5 years
+and was up to 28.5 years older than in patients with nonsevere course. Male patients were more affected by severe
+manifestations from 57.8 to 78%. All patients with severe
+manifestations had organ injuries, up to 55% heart injuries
+Angiotensin-converting enzyme 2 (ACE2) is critical for heart
+function. Angiotensin II (Ang II) infusions in mice resulted in
+increased blood pressure, myocardial hypertrophy, and brosis, whereas these effects could be counteracted with recombinant human ACE2.24 Loss of ACE2 can further exacerbate
+cardiac damage.25
+Male sex in severe
+Zhou et al10
+Guan et al
+Yang et al21
+Wang et al
+Huang et al12
+QI et al
+TH Open
+Pathological Role of Angiotensin II in Severe COVID-19
+Myocardial infarction appears to be an important complication of the disease, which, according to Chen et al, was also
+found in the autopsy of a 53-year-old female patient.5 In a
+meta-analysis, cardiac troponin I levels are signicantly
+increased in patients with severe COVID-19 infection compared with patients with milder forms of the disease.26
+Cardiac injury has been shown in a cross-sectional study
+with 150 patients included, 126 mild and 24 severe cases5 and
+has been conrmed as common condition among hospitalized
+patients associated with higher risk of in-hospital mortality.27
+Of a total of 416 patients, 19.7% had cardiac injury and highly
+signicant elevated levels of high-sensitive troponin I levels.
+The mortality of these patients was signicantly higher with
+51.2% than those without cardiac injury (4.5%).
+Laboratory and imaging ndings suggest an increased risk
+of thrombotic events in patients with COVID-19 infection,
+but the incidence of thrombosis in patients with COVID-19
+has not been determined.
+Coagulopathy has been described in up to 50% of severe
+manifestations of COVID-19. It has been shown that increased
+D-dimers measured at hospital admission can predict the
+severe course of COVID-19.10 D-dimer derives from the cleavage of cross-linked brin and reects both thrombin production and activation of brinolysis. Besides the known variability
+in healthy subjects and its tendency to increase with age, there
+is an association of increased D-dimer levels and brin degradation products under all conditions with an activated coagulation system, such as thrombosis, infection, or malignancy.28 A
+large study included 1,099 COVID positive patients from
+552 hospitals in China. D-dimer levels above the threshold
+of 0.5 g/L were detected in 46.4% of patients; 60% among
+them developed severe manifestations. In these patients, Ddimer levels were fourfold increased at 2.12 ug/mL (0.775.27)
+compared with nonsevere patients (0.61 ug/mL, 0.351.29).
+Interestingly, none of the nonsevere patients had D-dimer
+levels increasing more than three times at admission.7
+In a study of 184 critically ill patients with COVID-19 from 3
+Dutch hospitals, there was a 31% incidence of thrombosis
+instead of the use of standard doses of thromboprophylaxis
+with low molecular weight heparin. The majority of patients
+suffered from lung embolism, but stroke also occurred in three
+In addition, microthrombosis was described in a case
+series of four autopsies of COVID-19 infected patients from
+New Orleans with sudden respiratory decompensation. The
+autopsy ndings showed small vessels with thromboembolism and small thrombi together with scattered areas of
+diffuse alveolar damage. These ndings usually worsened
+the course of the disease and could hardly be diagnosed early.
+The D-dimers found at the time of death were elevated in
+only two patients, which shows that microthrombosis does
+not usually lead to generalized coagulation activation.30
+The ReninAngiotensin System
+The reninangiotensin system (RAS) was rst described
+more than 40 years ago and has led to a broader understanding of cardiovascular pathophysiology.31 The RAS is known
+TH Open
+for its role in the regulation of blood pressure, electrolyte
+balance, and vascular remodeling.32 Continuous basic and
+clinical research has enabled signicant advances in therapy
+and developed the treatment of hypertension and left ventricular dysfunction as well as severe heart failure.
+Renin is released by the kidney in response to renal
+hypoperfusion, reduced sodium intake, and sympathetic
+activation. A cascade of proteolytic reactions leads to the
+formation of Ang peptides with different functions. The ACE
+is a zinc-dependent peptidase responsible for the conversion
+of Ang I into vasoconstrictive Ang II. ACE2 counteracts the
+activity of ACE by reducing the amount of Ang II, increasing
+Ang,17 and cleaving Ang I to Ang19 and thereby attenuating
+the effects of Ang II. The RAS produces opposite effects and
+Ang17 directly antagonizes the effects of Ang II and mediates
+vasodilatory and antiproliferative effects because it induces
+the release of nitric oxide and prostaglandin I2 after stimulation of the endothelial AT2 receptor.33,34
+ACE2 is expressed predominantly by vascular endothelial
+cells of the lung, but also of extrapulmonary tissue, heart,
+nervous system, intestine, kidneys, blood vessels, and muscles
+on cell surfaces.35,36
+In addition, ACE2 has functions that are independent of
+RAS. In vitro and in vivo studies have shown that ACE2 acts as
+a functional SARS-CoV-2 receptor as well as the transmembrane serine protease TMPRSS2, which is required for host
+cell entry and subsequent viral replication.37
+Remarkably, the SARS-CoV-2 protein recognizes human
+ACE2 with an even higher binding afnity than the spike of
+SARS-CoV.38 Preclinical studies have shown that after binding of SARS-CoV to its receptor, ACE2 activates RAS leading to
+downregulation of the expression of ACE2, which in turn
+results in excessive production of Ang II.3942
+Therefore, ACE2 plays a dual role in COVID-19: Initially, it
+acts as a receptor for SARS-CoV-2 entry, then, in the context
+of SARS-CoV-2 infection, ACE2 is downregulated, which
+increases Ang II.
+The Role of Angiotensin II
+Ang II is the central effector molecule of activated RAS.
+Elevated levels of Ang II have been reported mostly in
+patients with hypertension and heart failure, indicating
+the benet of RAS inhibitors.43
+There are two Ang II receptors, type 1 and type 2, which
+indicate the effect of RAS inhibitors.43 Most cardiovascular
+effects of Ang II are attributed to the type 1 receptor.
+Notably, Ang II is one of the most potent vasopressors
+known when linked to its type 1 Ang receptor. The vasopressor effects of Ang II were investigated in a multinational,
+double-blind, randomized controlled trial (ATHOS-3) in 163
+patients with vasodilatory shock.44 Ang II effectively raised
+blood pressure in patients with vasodilatory shock who did
+not respond to high doses of conventional vasopressors.
+However, a high rate of thrombosis was observed in 12.9%
+of patients and the use of thromboprophylaxis was recommended.45 Interestingly, skin problems possibly caused by
+thrombosis of small vessels were also observed.
+Pathological Role of Angiotensin II in Severe COVID-19
+There is evidence for the important role of Ang II in
+vascular cell growth and tissue remodeling after hypertension, vascular injury, heart failure, and atherosclerosis.46,47
+Recently, Ang II has been shown to stimulate the production of pulmonary broblast procollagen via the AT1 receptor in lung injury.48 In addition, Ang II promotes the growth
+of vascular smooth muscle cells (VSMCs), which induces
+cellular hypertrophy in the pathology of hypertension and
+Ang II contributes to endothelial dysfunction, the development of arteriosclerosis, and microvascular thrombosis.
+Ang II stimulates tissue factor (TF) expression both in vitro
+and in vivo.49 TF is the physiological initiator of blood
+coagulation and as a consequence of its activation, TF
+becomes dominant over TF pathway inhibitor, resulting in
+prothrombotic endothelium. In addition, Ang II stimulates
+platelet-derived growth factor production and increases
+platelet aggregation. Arterial thrombotic events such as
+stroke or myocardial infarction are associated with increased
+platelet aggregation.50
+key players in the pathogenesis of vascular diseases, inammation, coagulation, and angiogenesis are increased in many
+age-related vascular diseases such as coronary artery disease, but also stimulated by Ang II.51
+It has also been shown that Ang II infusion leads to abnormal inammatory and thrombotic reactions in the microcirculation. In hypertensive rats, Ang II accelerates arterial
+thrombosis of the carotid artery via the AT1 receptor.52
+The prothrombogenic effects are not restricted to large
+arteries. There is also accelerated microvascular thrombosis
+in arterioles and to a lesser extent in venules after Ang II
+Clinical data also support the role of Ang II in brinolysis.
+Plasminogen activator inhibitor 1 (PAI-1) is the major inhibitor of the brinolytic system and elevated levels have been
+found to be associated with coronary artery disease, deep
+vein thrombosis, and malignancy.54 Mature fat cells are an
+important source of PAI-1, and its expression correlates with
+visceral fat mass. In vitro and vivo studies have shown that
+Ang II stimulates the expression and release of PAI-1. Ang II
+also stimulates the expression of PAI-1 messenger RNA
+(mRNA) in endothelial cells and increases plasma PAI-1 levels
+in a dose-dependent manner. The infusion of Ang II in
+healthy volunteers led to a signicant increase in PAI-1
+In the HEART study, PAI-1 concentrations were signicantly lower when administering both ramipril and captopril,56 both of which can suppress the formation of Ang II in
+adipose tissue.54
+In addition, inhalation of plasminogen, whose conversion
+to plasmin is inhibited by PAI-1, improves lung lesions and
+hypoxemia in patients with COVID-19.57
+There is an association between activated RAS, increased
+Ang II, and inammatory cytokine expression and activation.
+Ang II has proinammatory properties, including the increase of interleukin (IL)-6, which was demonstrated after
+infusion of Ang II in healthy controls.58 Furthermore, Ang II
+has been shown to induce IL-6 transcription in VSMC.59 In
+VSMC, the expression of IL-6 could be induced by Ang II,60
+which may explain the underlying mechanism in the progression of Ang II-induced atherosclerosis.
+IL-6 is a multifunctional cytokine that mediates the
+proliferation of B-lymphocytes during antibody synthesis.
+Ang II stimulates the release of IL-6, contributing to cytokine
+storm and poorer outcomes in patients with COVID-19.59
+The function of ACE2 has also been demonstrated in an
+ACE2 knockout mouse model: The loss of ACE2 expression
+preceded acute lung damage in various models. ACE2 knockout mice showed more severe lung damage caused by
+increased hydrostatic pressure, reduced perfusion, and severe pulmonary edema.41 Administration of recombinant
+ACE2 protects the lungs from severe lung damage. Consequently, Ang II is directly associated with lung tissue damage
+and ACE2 is inversely associated with lung tissue damage.
+Organ damage to the lung, heart, and kidney is a major
+cause of severe clinical manifestations in COVID patients.
+Already in 2005, ACE2 was shown to protect the mouse
+lungs from ARDS in ACE2 knockout mice. In particular, the
+injection of SARS-CoV spikes into mice exacerbates acute
+lung failure in vivo, which can be attenuated by blocking the
+reninangiotensin signaling pathway, suggesting that activation of pulmonary RAS inuences the pathogenesis of
+ARDS and SARS.39,41 In autopsies of patients who died from
+SARS, 35% of heart samples showed the presence of SARSCoV associated with reduced ACE2 expression.61
+Remarkably, the unbalanced RAS was found in COVID-19
+patients. In an investigation of epidemiological, clinical,
+laboratory chemical, and radiological characteristics and
+potential biomarkers to predict disease severity in 2019nCoV-infected patients in Shenzhen, Ang II levels in the
+plasma sample of 2019-nCoV-infected patients were shown
+to be signicantly elevated and linearly associated with viral
+load and lung damage in critically ill patients.62
+clinical symptoms of COVID-19 patients. The complex clinical picture of patients with severe complications of COVID19 is triggered by the different effects of highly expressed
+Ang II on vasculopathy, coagulopathy, and inammation.
+Treatment Options of Angiotension 2Related Clinical Symptoms
+It could be shown that patients with COVID-19 have an
+unbalanced RAS with highly expressed Ang levels. In addition, the presence of comorbidities such as arterial hypertension is signicantly associated with a worse outcome. Of a
+total of 1,430 patients in 3 studies, hypertension was common in up to 48% of patients and there were signicantly
+more severe manifestations in 36 to 48% of patients compared with severe manifestations in 14 to 24% of patients
+The presence of hypertension is associated with signicantly higher mortality. The odds ratio for mortality in
+hypertension is between 1.70 (0.923.13)12 and 3.05 (1.6
+- 5.9).10 However, the data were not adjusted to other risk
+TH Open
+Pathological Role of Angiotensin II in Severe COVID-19
+Ang II-induced
+Increase of
+Organ injury
+Increase of IL-6 (5961)
+Increased hydrostatic
+Vascular smooth
+muscle cells60,61
+Ang II-induced
+and thrombosis
+Vascular smooth
+muscle cells60,61
+Vascular smooth muscle cells60,61
+Increase of TF49 and PAI-154,55
+Increased platelet aggregation50,67
+and increase of PDGF50
+Ang II-induced
+Abbreviations: ANG II, angiotensin II; ARDS, acute respiratory distress syndrome; IL-6, interleukin-6; PAI-1, plasminogen activator inhibitor 1; PDGF,
+platelet-derived growth factor; TF, tissue factor.
+Guan et al7
+Zhou et al
+Zhang et al
+Patients with
+Worse outcome of
+patients with hypertension versus
+of patients with no hypertension
+factors and it became not clear from the studies whether
+the hypertension was previously known or was only diagnosed during the hospital stay and whether treatment, for
+example, with RAS-inhibiting drugs, was administered.
+Therefore, RAS-inhibiting drugs, such as ACE inhibitors
+(ACEIs) or angiotensin receptor blockers (ARBs), may be
+used in COVID-19-infected patients to treat hypertension
+and other Ang II-related complications. A preclinical study
+showed that ARB drugs, especially losartan, are effective
+in relieving acute lung injury caused by SARS-CoV in mice.62
+However, ACEI and ARB have shown an increase in ACE2
+expression (in heart tissue) in animal models.63 There is
+concern that a possible higher expression of pulmonary
+membrane-bound ACE2 (which has not been conrmed to
+date) may lead to easier entry of the virus into respiratory
+cells when RAS-inhibiting drugs are taken.
+On the other hand, both ACEI (lisinopril) and ARB
+(losartan) can upregulate cardiac ACE2 mRNA by a factor
+of 3 to 4. In an animal model, the ACEI enalapril attenuated
+the downregulation of cardiac ACE2 after myocardial
+There is a clear benet of ACEI and ARB in reducing
+thrombotic effects in hypertensive patients.66,67 Protection
+against severe lung damage could also be achieved by
+administering recombinant ACE2. ACE2 knockout mice
+showed more severe lung damage caused by increased
+hydrostatic pressure, reduced perfusion, and severe pulmonary edema.41 Administration of recombinant ACE2 protects
+the lungs from severe lung damage. Consequently, Ang II is
+TH Open
+directly associated with lung tissue damage and ACE2 is
+inversely associated with lung tissue damage.
+Recently, it could be shown that human recombinant
+soluble ACE2 can block early stages of SARS-CoV-2 infections68 and could in the future also be used to treat COVID-19
+patients, which is currently being tested in a phase 2 clinical
+Currently, numerous drugs are studied in clinical trials. A
+small cohort of critically ill patients was treated with
+remdesivir, a nucleoside analogue that inhibits viral RNA
+polymerases, and a clinical improvement was observed in 36
+of 53 patients (68%).17 Randomized controlled trials are
+ongoing and will soon provide more evidence of the safety
+and efcacy of remdesivir for Covid-19.
+Finally, considering COVID-19 as a procoagulant disease,
+prophylactic anticoagulation with low molecular weight
+heparin should be initiated as soon as possible to prevent
+thrombotic events and to counteract the proinammatory
+inuence of cytokines.69
+The transition from mild to severe symptoms can occur
+rapidly in patients with COVID-19 without predicting signals, and older male and obese patients with comorbidities
+have a higher risk of developing severe symptoms.
+The RAS plays an important role in COVID-19. ACE2 acts as
+functional SARS-CoV-2 receptor, which leads to a downregulation of ACE2 and a higher expression of Ang II. ACE2 is
+Pathological Role of Angiotensin II in Severe COVID-19
+predominantly expressed by vascular endothelial cells of the
+lung, but also in extrapulmonary tissue, heart, nervous
+system, intestine, kidneys, blood vessels, and muscles on
+cell surfaces, which may explain the multiorgan dysfunction
+observed in patients with COVID-19.
+The complex clinical picture of patients with severe
+complications of COVID-19 includes pneumonia, ARDS, sepsis, coagulopathy, high rate of thrombosis, and organ damage
+and is triggered by various effects of highly expressed Ang II
+on vasculopathy, coagulopathy, and inammation.
+The combination of numerous pathophysiological
+changes caused by Ang II in COVID-19 could explain the
+rapid development of severe patients and why older and
+obese patients are particularly affected.
+Future treatment options should focus on blocking the
+thrombogenic and inammatory properties of Ang II in
+COVID-19 patients.
+14 Kim ES, Choe PG, Park WB, et al. Clinical progression and cytokine
+Conict of Interest
+None declared.
+1 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia
+associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. Lancet 2020;395
+de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and
+MERS: recent insights into emerging coronaviruses. Nat Rev
+Drosten C, Gnther S, Preiser W, et al. Identication of a novel
+coronavirus in patients with severe acute respiratory syndrome.
+N Engl J Med 2003;348(20):19671976
+Zhong NS, Zheng BJ, Li YM, et al. Epidemiology and cause of severe
+Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan,
+China: a descriptive study. Lancet 2020;395(10223):507513
+Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are
+associated with poor prognosis in patients with novel coronavirus
+pneumonia. J Thromb Haemost 2020;18(04):844847
+Guan WJ, Ni ZY, Hu Y, et al. China Medical Treatment Expert
+Group for Covid-19. Clinical characteristics of coronavirus disease
+2019 in China. N Engl J Med 2020
+Stebbing J, Phelan A, Grifn I, et al. COVID-19: combining antiviral
+and anti-inammatory treatments. Lancet Infect Dis 2020;20
+Wu Z, McGoogan JM. Characteristics of and important lessons
+from the coronavirus disease 2019 (COVID-19) outbreak in China:
+summary of a report of 72 314 cases from the Chinese Center for
+Disease Control and Prevention. JAMA 2020;323(13):12391242
+Zhou F, Yu T, Du R, et al. Clinical course and risk factors for
+mortality of adult inpatients with COVID-19 in Wuhan, China: a
+retrospective cohort study. Lancet 2020;395(10229):10541062
+Zhang J, Dong X, Cao Y, et al. Clinical characteristics of 140
+patients infected with SARS-CoV-2 in Wuhan, China. Allergy;
+Huang C, Wang Y, Li X, et al. Clinical features of patients infected
+with 2019 novel coronavirus in Wuhan, China. Lancet 2020;395
+Channappanavar R, Perlman S. Pathogenic human coronavirus
+infections: causes and consequences of cytokine storm and
+immunopathology. Semin Immunopathol 2017;39(05):529539
+proles of Middle East respiratory syndrome coronavirus infection. J Korean Med Sci 2016;31(11):17171725
+Xu Z, Shi L, Wang Y, et al. Pathological ndings of COVID-19
+associated with acute respiratory distress syndrome. Lancet
+Respir Med 2020;8(04):420422
+Dunham-Snary KJ, Wu D, Sykes EA, et al. Hypoxic pulmonary
+vasoconstriction: from molecular mechanisms to medicine. Chest
+Grein J, Ohmagari N, Shin D, et al. Compassionate use of remdesivir for patients with severe Covid-19. N Engl J Med 2020. Doi:
+Mayr FB, Yende S, Angus DC. Epidemiology of severe sepsis.
+Ryan D, Frohlich S, McLoughlin P. Pulmonary vascular dysfunction
+in ARDS. Ann Intensive Care 2014;4:28
+Burnham EL, Janssen WJ, Riches DWH, Moss M, Downey GP. The
+broproliferative response in acute respiratory distress syndrome: mechanisms and clinical signicance. Eur Respir J 2014;
+Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically
+ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a
+single-centered, retrospective, observational study. Lancet Respir
+Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in
+Wuhan, China. JAMA 2020;201585:19
+Qi D YX, Tang X eal. Epidemiological and clinical features of 2019nCoV acute respiratory disease cases in Chongqing municipality,
+China: a retrospective, descriptive, multiple-center study. Medrxiv 2019
+Zhong J, Basu R, Guo D, et al. Angiotensin-converting enzyme 2
+suppresses pathological hypertrophy, myocardial brosis, and
+cardiac dysfunction. Circulation 2010;122(07):717728, 18, 728
+Kassiri Z, Zhong J, Guo D, et al. Loss of angiotensin-converting
+enzyme 2 accelerates maladaptive left ventricular remodeling in
+response to myocardial infarction. Circ Heart Fail 2009;2(05):
+Lippi G. Lavie CJ, Sanchis-Gomar F. Cardiac troponin I in patients
+with coronavirus disease 2019 (COVID-19): evidence from a
+meta-analysis. Prog Cardiovasc Dis 2020
+Shi S, Qin M, Shen B, et al. Association of cardiac injury with
+mortality in hospitalized patients with COVID-19 in Wuhan,
+China. JAMA; 2020
+Engelmann B, Massberg S. Thrombosis as an intravascular effector
+Klok FA, et al. Incidence of thrombotic complications in critically
+ill ICU patients with COVID-19. Thromb Res 2020
+Fox SE, et al. Pulmonary and cardiac pathology in COVID-19: the
+rst autopsy series from New Orleans. Chemrxiv Pre-Print 2020
+Skeggs LT Jr, Kahn JR, Lentz K, Shumway NP. The preparation,
+purication, and amino acid sequence of a polypeptide renin
+substrate. J Exp Med 1957;106(03):439453
+Nehme A, Zouein FA, Zayeri ZD, Zibara K. An update on the tissue
+renin angiotensin system and its role in physiology and pathology. J Cardiovasc Dev Dis 2019;6(02):14
+Paz Ocaranza M, Riquelme JA, Garca L, et al. Counter-regulatory
+renin-angiotensin system in cardiovascular disease. Nat Rev
+Crackower MA, Sarao R, Oudit GY, et al. Angiotensin-converting
+enzyme 2 is an essential regulator of heart function. Nature 2002;
+Hamming I, Timens W, Bulthuis MLC, Lely AT, Navis G, van Goor H.
+Tissue distribution of ACE2 protein, the functional receptor for
+SARS coronavirus. A rst step in understanding SARS pathogenesis. J Pathol 2004;203(02):631637
+TH Open
+Pathological Role of Angiotensin II in Severe COVID-19
+36 Forrester SJ, Booz GW, Sigmund CD, et al. Angiotensin II signal
+54 Skurk T, Lee YM, Hauner H. Angiotensin II and its metabolites
+transduction: an update on mechanisms of physiology and
+Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS. Angiotensinconverting enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular
+mechanisms and potential therapeutic target. Intensive Care Med
+Ou X, Liu Y, Lei X, et al. Characterization of spike glycoprotein of
+SARS-CoV-2 on virus entry and its immune cross-reactivity with
+SARS-CoV. Nat Commun 2020;11(01):1620
+Kuba K, Imai Y, Rao S, Jiang C, Penninger JM. Lessons from SARS:
+control of acute lung failure by the SARS receptor ACE2. J Mol Med
+Huang F, Guo J, Zou Z, et al. Angiotensin II plasma levels are linked
+to disease severity and predict fatal outcomes in H7N9-infected
+patients. Nat Commun 2014;5:3595
+Imai Y, Kuba K, Rao S, et al. Angiotensin-converting enzyme 2 protects
+from severe acute lung failure. Nature 2005;436(7047):112116
+Zou Z, Yan Y, Shu Y, et al. Angiotensin-converting enzyme 2
+protects from lethal avian inuenza A H5N1 infections. Nat
+Packer M, McMurray JJV. Importance of endogenous compensatory vasoactive peptides in broadening the effects of inhibitors of
+the renin-angiotensin system for the treatment of heart failure.
+Khanna A, English SW, Wang XS, et al; ATHOS-3 Investigators.
+Angiotensin II for the treatment of vasodilatory shock. N Engl J
+Farina N, Bixby A, Alaniz C. Angiotensin II brings more questions
+than answers. P&T 2018;43(11):685687
+Powell JS, Clozel JP, Mller RK, et al. Inhibitors of angiotensinconverting enzyme prevent myointimal proliferation after vascular injury. Science 1989;245(4914):186188
+Prescott MF, Webb RL, Reidy MA. Angiotensin-converting enzyme
+inhibitor versus angiotensin II, AT1 receptor antagonist. Effects on
+smooth muscle cell migration and proliferation after balloon
+catheter injury. Am J Pathol 1991;139(06):12911296
+Marshall RP, Gohlke P, Chambers RC, et al. Angiotensin II and the
+broproliferative response to acute lung injury. Am J Physiol Lung
+Cell Mol Physiol 2004;286(01):L156L164
+Celi A, Cianchetti S, DellOmo G, Pedrinelli R. Angiotensin II, tissue
+factor and the thrombotic paradox of hypertension. Expert Rev
+Cardiovasc Ther 2010;8(12):17231729
+Puurunen MK, Hwang SJ, Larson MG, et al. ADP platelet hyperreactivity predicts cardiovascular disease in the FHS (Framingham
+Heart Study). J Am Heart Assoc 2018;7(05):e008522
+Markiewicz M, Richard E, Marks N, Ludwicka-Bradley A. Impact of
+angiogenesis in age-related vascular diseases. J Aging Res 2013;
+Kamiska M, Mogielnicki A, Stankiewicz A, et al. Angiotensin II via
+AT1 receptor accelerates arterial thrombosis in renovascular
+hypertensive rats. J Physiol Pharmacol 2005;56(04):571585
+Senchenkova EY, Russell J, Yildirim A, Granger DN, Gavins FNE.
+Novel role of T Cells and IL-6 (interleukin-6) in angiotensin IIinduced microvascular dysfunction. Hypertension 2019;73(04):
+stimulate PAI-1 protein release from human adipocytes in primary culture. Hypertension 2001;37(05):13361340
+Ridker PM, Gaboury CL, Conlin PR, Seely EW, Williams GH,
+Vaughan DE. Stimulation of plasminogen activator inhibitor in
+vivo by infusion of angiotensin II. Evidence of a potential interaction between the renin-angiotensin system and brinolytic function. Circulation 1993;87(06):19691973
+Vaughan DE, Rouleau JL, Ridker PM, Arnold JM, Menapace FJ,
+Pfeffer MA; HEART Study Investigators. Effects of ramipril on
+plasma brinolytic balance in patients with acute anterior myocardial infarction. Circulation 1997;96(02):442447
+Wu Y, Wang T, Guo C, et al. Plasminogen improves lung lesions
+and hypoxemia in patients with COVID-19. QJM 2020:hcaa121
+Ekholm M, Kahan T, Jrneskog G, Brijersen A, Walln NH.
+Angiotensin II infusion in man is proinammatory but has no
+short-term effects on thrombin generation in vivo. Thromb Res
+Han Y, Runge MS, Brasier AR. Angiotensin II induces interleukin-6
+transcription in vascular smooth muscle cells through pleiotropic
+activation of nuclear factor-kappa B transcription factors. Circ Res
+Funakoshi Y, Ichiki T, Ito K, Takeshita A. Induction of interleukin-6
+expression by angiotensin II in rat vascular smooth muscle cells.
+Oudit GY, Kassiri Z, Jiang C, et al. SARS-coronavirus modulation of
+myocardial ACE2 expression and inammation in patients with
+SARS. Eur J Clin Invest 2009;39(07):618625
+Liu Y, Yang Y, Zhang C, et al. Clinical and biochemical indexes from
+2019-nCoV infected patients linked to viral loads and lung injury.
+Sci China Life Sci 2020;63(03):364374
+Ferrario CM. ACE2: more of Ang-(1-7) or less Ang II? Curr Opin
+Nephrol Hypertens 2011;20(01):16
+Gallagher PE, Ferrario CM, Tallant EA. Regulation of ACE2 in
+cardiac myocytes and broblasts. Am J Physiol Heart Circ Physiol
+Ocaranza MP, Godoy I, Jalil JE, et al. Enalapril attenuates downregulation of angiotensin-converting enzyme 2 in the late phase
+of ventricular dysfunction in myocardial infarcted rat. Hypertension 2006;48(04):572578
+Skowasch D, Viktor A, Schneider-Schmitt M, Lderitz B, Nickenig
+G, Bauriedel G. Differential antiplatelet effects of angiotensin
+converting enzyme inhibitors: comparison of ex vivo platelet
+aggregation in cardiovascular patients with ramipril, captopril
+and enalapril. Clin Res Cardiol 2006;95(04):212216
+Montn M, Jimnez A, Nez A, et al. Comparative effects of
+angiotensin II AT-1-type receptor antagonists in vitro on human
+platelet activation. J Cardiovasc Pharmacol 2000;35(06):
+Monteil V, Kwon H, Prado P, et al. Inhibition of SARS-CoV-2
+infections in engineered human tissues using clinical-grade
+soluble human ACE2. Cell 2020;181(04):905913.e7
+Burger D, Montezano AC, Nishigaki N, He Y, Carter A, Touyz RM.
+via Ang II receptor type I/NADPH oxidase/ Rho kinase pathways
+targeted to lipid rafts. Arterioscler Thromb Vasc Biol 2011;31(08):
+TH Open

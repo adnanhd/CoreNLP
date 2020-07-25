@@ -15,7 +15,7 @@ import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 public class CoreNLP {
     public static void main(String[] args) {
         int count = 0;
-        File file = new File("data/");
+        File file = new File("test/");
         File[] files = file.listFiles();
 
         while (count < files.length)
@@ -23,7 +23,7 @@ public class CoreNLP {
                 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
                         new FileOutputStream("ner/" + files[count].getName()), StandardCharsets.UTF_8));
                 BufferedReader br = new BufferedReader(new InputStreamReader(
-                        new FileInputStream("data/" + files[count].getName()), StandardCharsets.UTF_8));
+                        new FileInputStream("test/" + files[count].getName()), StandardCharsets.UTF_8));
 
                 String line = br.readLine();
 
@@ -37,7 +37,7 @@ public class CoreNLP {
 
                     for (CoreLabel coreLabel : coreLabels) {
                         String ner = coreLabel.get(NamedEntityTagAnnotation.class);
-                        bw.write(coreLabel.originalText() + " == " + ner);
+                        bw.write(coreLabel.originalText() + " == " + ner + "\n");
                     }
 
                     bw.write(line);

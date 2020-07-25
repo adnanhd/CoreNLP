@@ -1,0 +1,270 @@
+COMUNICAO BREVE
+BRIEF COMMUNICATION
+Caring in the age of COVID-19: lessons from
+science and society
+Cuidar em tempos da COVID-19: lies aprendidas
+entre a cincia e a sociedade
+Cuidar en tiempos del COVID-19: lecciones
+aprendidas entre la ciencia y la sociedad
+Claudia Teresa Vieira de Souza 1
+Clarice Silva de Santana 1
+Patrcia Ferreira 2
+Joo Arriscado Nunes 2
+Maria de Lourdes Benamor Teixeira 1
+Maria Isabel Fragoso da Silveira Gouva 1
+This paper focuses on our research and intervention in health promotion
+with patients and communities affected by various infectious diseases, in the
+Foundation, Rio de Janeiro, Brazil, and promotes the continuing involvement
+of health researchers and professionals in the collaborative production of knowledge on health with patients and community groups and in their training
+as community health promoters. The new epidemic scenario created the demand for a space of dialogue and knowledge-sharing on the prevention of
+COVID-19 transmission. Due to the interruption of regular activities in the
+Knowledge-Sharing Platform, a strategy was launched to serve as a link
+between science and society and help overcome the social isolation imposed by
+the COVID-19 pandemic. The WhatsApp group allowed project members to
+participate by addressing questions (audio) on COVID-19 through mediation
+by community group leaders. The main questions by participants related to
+risk factors, transmission, immunity to the novel coronavirus, care related to
+prevention, symptoms, and treatment; and COVID-19 and influenza vaccine.
+The educational material Caring in the Age of COVID-19 was produced
+and shared with community leaders and distributed to the respective groups
+and was eventually shared in their communities as a response to a demand for
+knowledge that responds to the concerns of people already exposed to structural vulnerability.
+C. T. V. Souza
+Fundao Oswaldo Cruz.
+Av. Brasil 4365, Rio de Janeiro, RJ 21040-900, Brasil.
+Fundao Oswaldo Cruz, Rio de Janeiro, Brasil.
+Centro de Estudos Sociais, Universidade de Coimbra, Coimbra,
+Citizen Participation in Science and Technology; Health Promotion; Social
+Isolation; COVID-19
+any medium, without restrictions, as long as the original work is correctly
+Cad. Sade Pblica 2020; 36(6):e00115020
+Souza CTV et al.
+In keeping with international guidelines, the preventive measures recommended by the Brazilian
+Ministry of Health to minimize COVID-19 transmission in places with community transmission
+include social distancing 1,2.
+Given the exposure to the risk of contagion and the incapacity to access preventive measures
+involving other health problems, which can thus be aggravated, situations of structural vulnerability 3
+may be expanded in the context of the COVID-19 pandemic. It is thus important to act on the links
+between scientific knowledge related to prevention of transmission in the more vulnerable communities and the continuity of promotion of their quality of life. Aspects involving health literacy and the
+basic sanitation, running water, and healthcare in poor communities, thus require urgent attention,
+integrated into the promotion of relations between individual and community care to confront this
+epidemics challenges.
+The project Knowledge-Sharing Platform: Community Involvement and Participation in Innovative
+Practices in Health Promotion and Knowledge Production has been developed since 2012 by the Research
+Laboratory in Epidemiology and Social Determination of Health (LAP-EPIDSS) at the National
+The project seeks to build new practices in health promotion and forms of collaborative knowledge
+production involving epidemiologists, social scientists, infectious disease experts, other health professionals, patients, and members of community groups, developing public-interest health actions,
+allowing active participation by society, especially in the control of infectious diseases (e.g., HIV infection, Chagas disease, etc.), chronic and degenerative diseases (e.g., neoplasms), and other health and
+health-related problems that impact the populations quality of life. The principal activities involve
+educational talks on topics of interest to the participants, visits to scientific installations, incomegeneration workshops, and extension courses focused on relations between science and society in
+teaching, research, and clinical care settings.
+The social partners of the Knowledge-Sharing Platform include the Association of Friends of the INI
+Struggling for Life (ALCA-INI), which provides support for patients receiving treatment for infectious diseases at the INI and their families, the Amigas da Mama Club (CAM), a group of women living with or who have lived with breast cancer and that encourages a support network for confronting
+the disease; and the Community Advisory Committee of the Clinical Research Center in HIV/AIDS
+of the Nova Iguau General Hospital (CCA-HGNI), which provides an interface between researchers
+and the community in HIV/AIDS prevention and treatment. These three groups participate actively
+in publicizing the projects activities.
+The projects participants are already living in situations of structural vulnerability 3, aggravated
+by social exclusion, difficulties in access to healthcare for surveillance and control of other health
+problems, and daily struggles against health inequalities and which the collective activities promoted by the project seek to support. Most of the participants see their vulnerability exacerbated by
+COVID-19, since they have other infectious diseases and/or chronic noncommunicable diseases.
+Within the projects activities, the community groups demand access to scientific knowledge
+related to situations and processes that can seriously affect or contribute to the exacerbation of their
+health condition and that of the people living and in contact with them. This community action
+fosters involvement by the projects researchers with experiences pursuing better health conditions
+based on horizontal relations and focused on the communitys concerns and problems related to
+health and quality of life. In this context, both the community groups and researchers informally grasp
+the role of community health promoters.
+The most recent community demand has been for knowledge on COVID-19, given the participants concern over the circulation of fake news. To respond to this demand, we organized a chat
+circle entitled Contributions by Community Health Promoters to the Prevention and Control of COVID-19,
+scheduled for March 19, 2020, with participation by epidemiologists, infectious disease experts, and
+specialists in hospital infection, aimed at involving the community in the shared construction of
+knowledge on the pandemic.
+Cad. Sade Pblica 2020; 36(6):e00115020
+CARING IN THE AGE OF COVID-19
+the implementation of measures during the public health emergency of international concern resulting from COVID-19, including social isolation in the state of Rio de Janeiro as a way of decreasing
+community transmission 4, made cancellation of the event unavoidable due to the concern with distancing and isolation of the projects participants.
+The projects focus on individuals that are already vulnerable due to the undervaluation of their
+experiences and knowledge led us to create a space for action and response to situations of illness and
+vulnerability and demands for various forms of care during the epidemic 5. Given the social isolation, the relations of trust and care built through health promotion activities motivated us to adopt
+WhatsApp as a communications tool for collectively dealing with the challenges, keeping the projects
+activities alive, now in a virtual environment.
+The current paper aims to share and present the building of this space for dialogue and exchange
+of experiences for building knowledge on COVID-19 in a virtual environment already familiar to the
+participants in the projects scope and/or in their personal relations.
+The paper reports on the experience with a health activity based on the collective construction of an
+educational tool to contribute to the prevention and management of COVID-19.
+We have attempted to value the shared questions, responding with the group to the new challenges. We adopted WhatsApp as the platform for participatory construction, aimed at promoting
+individual empowerment, collective participation by the projects stakeholders, and community
+engagement based on the use of participatory methodologies 6,7,8.
+The WhatsApp group called Caring to Avoid COVID-19 aimed to develop the activity with the
+LAP-EPIDSS team and 3 community groups (ALCA-INI, CAM, and CCA-HGNI) as mediators
+between the project and the groups members. We chose this app since it is the virtual media most
+widely used by these social groups to communicate with their members.
+We defined leaders as people that participate in and are dedicated to their community groups,
+inspiring trust and offering individualized attention and care and seeking solutions with their community members. A proposal was thus presented to the 4 community leaders (LGC in portuguese)
+project participants to collectively develop educational materials on COVID-19, with WhatsApp as
+the platform. Since the community groups represented by their LGC have a WhatsApp group, the
+proposal was for them to share the following question with their groups participants: What information on the new coronavirus do you consider important to share with the community?.
+The survey ran from March 23 to 26, 2020. We included in the WhatsApp group a message with
+the proposals underlying question and an audio to explain the activitys proposal to the LGC participants in the Knowledge-Sharing Platform, as a way to promote access and understanding for everyone
+The WhatsApp group Caring to Avoid COVID-19 was created on March 23, 2020. It consists of 5 members from the Knowledge-Sharing Platform team and 4 LGC from community groups that participate
+directly in the projects activities. Two leaders from ALCA-INI also participated. Everyone agreed to
+participate and confirmed that the initiative was a way to feel that they belonged and were valued in
+the process of producing and sharing knowledge on COVID-19.
+The participants main questions involved risk factors, transmission, immunity to the new virus,
+care related to prevention, symptoms, and treatment, and COVID-19 and influenza vaccine.
+Cad. Sade Pblica 2020; 36(6):e00115020
+Souza CTV et al.
+After compiling the questions raised by each groups participants, the team prepared the answers
+based on the websites of the World Health Organization, U.S. Centers for Disease Control and Prevention, Brazilian Society of Infectious Diseases, and Ministry of Health.
+Since it was urgent to provide feedback, the consolidation and layout of the material Caring in the
+Age of COVID-19 were shared with the LGC from the participating community groups. Following
+revision and evaluation by the LGC, especially concerning the content, language, and display, the
+material was approved and distributed by the leaders to their respective community groups, totaling
+approximately 100 people who had access to it. Some LGC also shared the material in other states of
+Brazil (Pernambuco, Bahia, Esprito Santo, and So Paulo). Members of the project team also asked
+to share the material in their work groups (health and teaching institutions), in addition to groups of
+We believe that the material reached more people than initially estimated, which has been a common experience in the project. The material was deposited in the Institutional Repository of the
+The Knowledge-Sharing Platform has a long track record of action-based research focused on collaborative knowledge production in clinical, epidemiological, and social research in infectious diseases and
+in the creation of innovative health promotion. The platform is also a space to join and build relations
+of trust and care through health promotion activities.
+Social distancing and isolation are necessary measures, but they concern us because isolation and
+social exclusion are a central part of the structural vulnerability 3 affecting the participants (and their
+communities). Based on dialogue and exchange of experiences in a virtual setting, we thus built this
+strategy to overcome the distancing between the projects participants and support the demands for
+knowledge on dealing with COVID-19.
+The initiative had not been planned initially in the activities of the Knowledge-Sharing Platform,
+but it emerged as a response to the need for an immediate intervention due to the characteristics of
+The WhatsApp group Caring to Avoid COVID-19 served as a space for dialogue and knowledgesharing in COVID-19 prevention, mobilizing all the stakeholders in this participatory process. As we
+hoped, the individual reports shared through the projects solidarity network have allowed attenuating the social isolation experienced by many participants and have continued to strengthen the relations as a form of care. The Knowledge-Sharing Platform views caring as kind of relationship and an
+ethnical stance in research and intervention that highlight the relevance of attitudes and moral values,
+affective relations, and our responsibility to involvement, understanding, and respect for vulnerable
+individuals and communities 9,10.
+The new view of care problematizes and seeks to contribute to social transformation of health
+professionals role 11 and all the participants relations through new experiences with caring for other
+under exceptional conditions.
+Dialogue, creativity, and attentive listening to participants demands for promoting this form of
+care, which expresses the way health is viewed by the project, is inherent to planning the proposed
+activities. This experience reconfirms our view that health promotion requires mutual promotion of
+caring with empowerment and well-being. The production of such care contributes to the survival
+and flourishing of caregivers and those receiving the care and to the acknowledgement of interdependence as a condition for life with dignity.
+Given the urgent need for new forms of intervention in the COVID-19 epidemic, we believe
+that this experience can expand the scope of future public health measures based on scientific commitment to the struggles for health by these communities and the communities strengthening that
+results from this involvement. This strength is expressed in the solidarity of the community health
+promoters, working to control transmission of the disease in their communities, but also as a lesson
+and a process in the production of new forms of knowledge and skills, expanded in their experience
+and dialogue with health researchers and professionals 12,13.
+Cad. Sade Pblica 2020; 36(6):e00115020
+CARING IN THE AGE OF COVID-19
+We conclude that the complex social and political dimensions of the COVID-19 pandemic must be
+addressed as part of this expanded construction of health promotion and public health.
+We intend to continue this experience as a space for dialogue and construction of knowledge and
+care, based on prevention and health promotion, since it represents our ethical position and commitment to those experiencing this epidemic.
+This brief paper also serves to reflect on a view of the new processes of social determination of
+health and the production of new knowledge resulting from the interface between scientific knowledge and knowledge born from experience during a health emergency.
+C. T. V. Souza, C. S. Santana, and P. Ferreira contributed to the studys conception and design, data
+collection, analysis, and interpretation, drafting and
+relevant critical revision of the intellectual content,
+and approval of the final version, guaranteeing its
+accuracy and integrity. J. A. Nunes, M. L. B. Teixeira, and M. I. F. S. Gouva contributed to the data
+collection, analysis, and interpretation, drafting and
+relevant critical revision of the intellectual content,
+and approval of the final version, guaranteeing its
+accuracy and integrity.
+the study, Marcos Maurcio Braga Cardozo, Valdinei
+da Silva, Joelma Arajo Tavares Ali, Juciara Nicomedio, and the other participants in the project Knowledge-Sharing Platform, as well as the projects team
+members, Jos Liporage Teixeira (pharmacist) and
+Aline Fabrcia Santos da Silva Bistene, Ana Carolina de Freitas Guimares, and Karina Diniz Pinto
+Additional informations
+(0000-0002-6896-0089); Maria Isabel Fragoso da
+Silveira Gouva (0000-0002-1772-1942).
+Cad. Sade Pblica 2020; 36(6):e00115020
+Souza CTV et al.
+Secretaria de Ateno Primria  Sade, Ministrio da Sade. Protocolo de manejo clnico
+virus-2019 (accessed on 29/Apr/2020).
+Bourgois P, Holmes SM, Sue K, Quesada J.
+Strutural vulnerability: operationalizing the
+concept to adress health disparities in clinical
+care. Acad Med 2017; 3:299-307.
+Rio de Janeiro. Decreto no 46.973, de 16 de
+maro de 2020. Reconhece a situao de emergncia na sade pblica do Estado do Rio de
+Janeiro em razo do contgio e adota medidas
+de enfrentamento da propagao decorrente
+do novo coronavrus (COVID-19); e d outras
+providncias. Dirio Oficial do Estado do Rio
+de Janeiro 2020; 17 mar.
+Ferreira P, Souza CTV, Santana CS, Nunes
+JA. Caring in times of COVID-19. Somatosphere: Science, Medicine, and Anthropology
+Lima ICV, Galvo MTG, Pedrosa SC, Cunha
+GH, Costa AKB. Uso do aplicativo Whatsapp
+no acompanhamento em sade de pessoas com
+HIV: uma anlise temtica. Esc Anna Nery Rev
+Cad. Sade Pblica 2020; 36(6):e00115020
+Silva RC. Metodologias participativas para trabalhos de promoo de sade e cidadania. So
+Paulo: Vetor; 2002.
+Queiroz AG, Couto ACP. Metodologia participativa, subjetividade individual e social: facilitao de reunies de moradores em Residncias Teraputicas. Pesqui Prt Psicossociais
+Waldow VR. Cuidar: expresso humanizadora
+Waldow VR. Enfermagem: a prtica do cuidado sob o ponto de vista filosfico. Investigacin en Enfermera: Imagen y Desarrollo 2015;
+Barros S, Oliveira MAF, Silva ALA. Prticas
+Enferm USP 2007; 41(Esp):815-9.
+Lima FA, Galimbertti PA. Sentidos da participao social na sade para lideranas comunitrias e profissionais da Estratgia Sade da
+Famlia do territrio de Vila Unio, em Sobral
+ CE. Physis (Rio J.) 2016; 26:157-75.
+Santos BS. O fim do imprio cognitivo. Belo
+CARING IN THE AGE OF COVID-19
+Esta comunicao  centrada na nossa pesquisa e
+interveno em promoo da sade com pacientes
+e comunidades afetadas por diversas doenas infecciosas, no projeto Plataforma de Saberes. Esse projeto  desenvolvido no Instituto Nacional de
+Infectologia Evandro Chagas, Fundao Oswaldo
+Cruz, no Rio de Janeiro, Brasil, e promove o envolvimento continuado de pesquisadores e profissionais de sade na produo colaborativa de conhecimento sobre sade com pacientes e grupos comunitrios, e na sua capacitao como promotores
+de sade comunitria. Face ao novo cenrio epidmico, surgiu a demanda de um espao de dilogo e partilha de conhecimento sobre preveno da
+transmisso da COVID-19. Devido  interrupo
+das atividades regulares do Plataforma de Saberes, foi promovida uma estratgia que servisse de
+elo integrador entre cincia e sociedade e ajudasse
+a superar o isolamento social imposto pela pandemia da COVID-19. O grupo de WhatsApp possibilitou aos integrantes do projeto participarem por
+meio de formulao de perguntas (udio) sobre a
+COVID-19, por intermdio da mediao dos lderes de grupos comunitrios. Os principais questionamentos dos participantes esto relacionados com
+fatores de risco; formas de transmisso; imunidade
+ao novo vrus; cuidados relacionados  preveno,
+sintomas e tratamento; COVID-19 e vacina da
+influenza. O material educativo Cuidar em tempos da COVID-19 foi produzido e compartilhado
+com os lderes comunitrios e disponibilizado aos
+respectivos grupos, e veio a ser disseminado nas
+suas comunidades como resposta a uma demanda de conhecimento que responde s preocupaes
+vividas pelos que j se encontram em situao de
+vulnerabilidade estrutural.
+Esta comunicacin se centra en nuestra investigacin e intervencin en la promocin de la salud
+con pacientes y comunidades afectadas por diversas enfermedades infecciosas, en el proyecto Plataforma de Saberes. Este proyecto est desarrollado en el Instituto Nacional de Infectologa Evandro Chagas/Fundacin Oswaldo Cruz, en Ro de
+Janeiro, Brasil, y promueve la implicacin continuada de investigadores y profesionales de salud
+en la produccin colaborativa de conocimiento
+sobre salud con pacientes y grupos comunitarios,
+y en su capacitacin como promotores de salud
+comunitaria. Frente al nuevo escenario epidmico, surgi la demanda de un espacio de dilogo e
+intercambio de conocimiento sobre la prevencin
+de la transmisin de la COVID-19. Debido a la
+interrupcin de las actividades regulares de la Plataforma de Saberes, se promovi una estrategia
+que sirviese de vnculo integrador entre ciencia y
+sociedad y ayudase a superar el aislamiento social impuesto por la pandemia de la COVID-19.
+El grupo de WhatsApp posibilit a los integrantes
+del proyecto, que participaran mediante la formulacin de preguntas (audio) sobre la COVID-19,
+a travs de la mediacin de los lderes de grupos
+comunitarios. Los principales cuestionamientos de
+los participantes se relacionaron con factores de
+riesgo; formas de transmisin; inmunidad ante el
+nuevo virus; cuidados relacionados con la prevencin, sntomas y tratamiento; COVID-19 y vacuna de la gripe. El material educativo Cuidar em
+tempos da COVID-19 se produjo y se comparti
+con los lderes comunitarios y fue puesto a disposicin de los respectivos grupos, as como difundido
+en sus comunidades, en respuesta a una demanda
+de conocimiento que responde a las preocupaciones
+vividas por los que ya se encuentran en situacin
+de vulnerabilidad estructural.
+Participao Cidad em Cincia e Tecnologia;
+Promoo da Sade; Isolamento Social;
+Participacin Ciudadana en Ciencia y
+Tecnologa; Promocin de la Salud; Aislamiento
+Social; COVID-19
+Submitted on 07/May/2020
+Final version resubmitted on 17/May/2020
+Approved on 26/May/2020
+Cad. Sade Pblica 2020; 36(6):e00115020

@@ -1,0 +1,261 @@
+PLOS ONE
+RESEARCH ARTICLE
+A scalable method of applying heat and
+humidity for decontamination of N95
+respirators during the COVID-19 crisis
+Loc Anderegg ID1,2*, Cole Meisenhelder ID1, Chiu Oan Ngooi ID3, Lei Liao4, Wang Xiao4,
+Steven Chu5,6, Yi Cui7,8, John M. Doyle1,2
+Center for Ultracold Atoms, Cambridge, MA, United States of America, 3 Environmental Health and Safety,
+Sciences, Menlo Park, CA, United States of America
+OPEN ACCESS
+Citation: Anderegg L, Meisenhelder C, Ngooi CO,
+Liao L, Xiao W, Chu S, et al. (2020) A scalable
+method of applying heat and humidity for
+decontamination of N95 respirators during the
+COVID-19 crisis. PLoS ONE 15(7): e0234851.
+Copyright:  2020 Anderegg et al. This is an open
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+Data Availability Statement: The data are available
+org/). 4C Air provided support in the form of
+any additional role in the study design, data
+contributions section.
+A lack of N95 Filtering Facepiece Respirators (FFRs) during the COVID-19 crisis has placed
+healthcare workers at risk. It is important for any N95 reuse strategy to determine the effects
+that proposed protocols would have on the physical functioning of the mask, as well as the
+practical aspects of implementation. Here we propose and implement a method of heating
+N95 respirators with moisture (85C, 60-85% humidity). We test both mask filtration efficiency and fit to validate this process. Our tests focus on the 3M 1860, 3M 1870, and 3M
+8210 Plus N95 models. After five cycles of the heating procedure, all three respirators pass
+both quantitative fit testing (score of >100) and show no degradation of mask filtration efficiency. We also test the Chen Heng V9501 KN95 and HKYQ N95 finding no degradation of
+mask filtration efficiency, however even for unheated masks these scored <50 for every fit
+test. The heating method presented here is scalable from individual masks to over a thousand a day with a single industrial convection oven, making this method practical for local
+application inside health-care facilities.
+While N95 filtering facepiece respirators (FFRs) were made for single use operation, the ongoing COVID-19 pandemic has caused a shortage worldwide of these FFRs. COVID-19, caused
+by the SARS-CoV-2 virus, has been shown to be very contagious and spread through aerosolized droplets. These aerosols can remain in the air for hours, increasing the risk of contagion
+to those nearby [1, 2]. In order for an N95 mask to be reused more safely, the mask should be
+decontaminated of SARS-CoV-2 while maintaining its filtration efficiency and fit factor [36].
+Currently, limited information is known about SARS-CoV-2 inactivation. Initial data indicate
+PLOS ONE
+following competing interests: S.C. and Y.C. are the
+co-founders of 4C Air and owns the shares of 4C
+Air. L.L and W.X. are paid employees of 4C Air. S.C.
+and Y.C. report non-financial support from 4C Air
+have a patent PCT/US2015/065608 (Air filter for
+4C Air tested face masks from several
+manufacturers that include 4C Airs masks and
+those of other manufacturers. This does not alter
+our adherence to PLOS ONE policies on sharing
+data and materials.
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+that 70C dry heat for one hour was sufficient to achieve >3 log reduction in SARS-CoV-2 on
+FFRs [7]. The addition of moisture possibly plays a role in the inactivation of some viruses [8
+10]. A study found viral inactivation at 70C for 5 minutes [11] while in a buffered solution.
+SARS-CoV-1 has also been shown to be inactivated at temperatures of 60-75C for 5-30 minutes in various liquid media [1214]. Other enveloped viruses, such as H1N1 and H5N1 Influenza strains have been shown to be inactivated with moist heat at 65C and over 50% humidity
+[810]. These studies also found that dry heat alone was not enough to deactivate H1N1.
+While previous studies have looked at the effects of moist heat on N95 FFRs, these were done
+at substantially lower temperatures of 60-65C [8, 10, 15, 16]. We also note that recent CDC
+guidelines have indicated that moist heat is a reasonable method for reusing N95 FFRs [3].
+The resistance of Clostridium difficile (C. diff.) spores at elevated temperature and moisture
+was also studied and found temperatures of 85C resulted in a 5 to 6 log reduction in 15 minutes of heating in a buffer solution [17]. Here we present a scalable method of heating N95
+effects of heating under various humidity conditions and for multiple cycles of mask reuse
+N95 respirators are typically made of meltblown polypropylene fabric. While this naturally
+efficiency plummets, even if there are no visual signs of degradation to the mask [18]. Thus it
+is critical to run filtration tests on any decontamination procedure. Physical characteristics of
+the FFRs, such as the elasticity of the straps, which impact fit may be altered by decontamination. Fit of the FFR must also be considered, as degradation of the fit factor would indicate
+unfiltered air entering the users lungs.
+There are many practical considerations which must be taken into account when trying to
+apply a decontamination method to hospital-scale operations [3, 4]. Masks should ideally be
+returned to the same individual for many reasons, including fit and decreased risk of spreading
+other diseases. Avoiding any cross contamination between masks is also important. Hospitals
+with limited PPE allocations would also benefit from rapid time turnaround capabilities if
+there is a critical shortage of N95 FFRs, ideally decontaminating a clinicians mask between
+shifts. Finally, the decontamination method must also be effective in inactivating the target
+species [7], with 3 log reduction required [19]. We note this method has now been employed
+in a hospital setting achieving the requite 3 log reduction for biological indicators [20].
+Heating protocol
+Here we place an N95 FFR in a 1.25 quart hard walled polypropylene container (Ziploc
+medium square), Fig 1. This ensures that both the charged layer of the mask and the container
+are made of the same material, which decreases the likelihood of material incompatibility,
+which could damage the inner layer or spoil the FFR. We found in our tests that the rigid container is preferable to a bag as it ensures constant volume, leading to a constant humidity and
+provides protection to the mask in the handling process. In each container is added a small
+(2.5x2.5) paper towel (2-ply), which is wetted with 500(40) uL of water. The amount of
+water was initially calibrated with a fixed number of water drops. This was later replaced by a
+single channel pipette (Eppendorf Research Plus) capable of delivering volumes with 5L
+accuracy, which improved the repeatability of the humidity achieved (Fig 2b shows the humidity prior to this improvement.). In a hospital setting this could be replaced with an insulin
+syringe for example. The containers are sealed by placing the cover on and then placed in a
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+Fig 1. Experimental method. A: Each N95 FFR (1) was placed into a plastic container with a paper towel (2) with 500
+uL of water. Both the mask (3) and container (4) were labeled with a Sharpie black permanent ink marker, which
+would allow the mask to be identified by the correct healthcare worker and avoid cross contamination. B/C: For testing
+purposes, the lid of each container was modified to have a temperature and humidity sensor (B: SHT30 C: SHT31).
+convection oven (Despatch LAC1-38-8, 3.7 cu. Ft.). We note that a convection oven produces
+to less than 1C regardless of the number of containers we place into this oven (1-45 containers), Fig 2a. It is important to note that a convection oven has no direct line of sight to any
+radiative heat sources, which would have the potential to damage the masks. For testing purposes, the lids of the containers were modified to allow a temperature and humidity sensor
+(SHT30 DFR0588 or SEK-SHT31-Sensors) inside. We found that the humidity will drop rapidly in the presence of a small hole in the lid. The gap between the wires and the lid was thus
+sealed with 10 minute epoxy with a working temperature of 93C. For temperature verification, we also used both a K type thermocouple (readout with a SR630) and an IR thermometer
+Fig 3 shows the humidity as a function of time within each container for various volumes of
+water at various temperatures. We also find that the humidity takes between 10-15 minutes to
+reach the 60% level. This is an important consideration when applying this method as at least
+Fig 2. Temperature and humidity traces. A: Temperature rise to the set point in around 10 minutes with 45 containers vs only 6 containers, the
+temperature rise time is similar and final temperature are identical. Inset Left: 6 containers with humidity and temperature logging. Inset Right: 3.7 cu ft
+oven fully loaded with 45 containers. B: Temperature and humidity of 3M masks which underwent filter testing during 5 heat cycles. The shaded region
+indicates our target range of 60-85% humidity.
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+Fig 3. Humidity versus water volume at various temperatures. Humidity curves for various water volumes at A: 70C B: 75C C: 80C d: 85C in a
+1.25 qt. container. Each humidity curve shown is an average of 3 runs.
+10 additional minutes should be added to the heating cycle to achieve the desired time at target
+humidity. The temperature rises to within 2C of the target temperature in a similar time.
+The containers are placed into the convection oven for 40 minutes. This is due to the fact
+that it takes approximately 10 minutes to reach the 60% humidity level inside the container.
+lid was opened and rotated 45 degrees and placed back on top of the container, leaving air to
+naturally flow around the FFR. This is done while the container is still warm and we find that
+the processed mask is dry in under 5 minutes and the atmosphere inside the container is the
+same or slightly below ambient humidity after the lid is resealed. For storage in the container
+(or a bag, if moved out of the container) the humidity could be further reduced if desired by
+adding a very inexpensive small desiccant pouch into the container.
+To test whether any degradation of the masks occured, we measure the filtration efficiency after five decontamination cycles. This number of cycles was chosen as previous
+reports, which also considered the 3M 1860, have shown that in the absence of any decontamination treatment five cycles of donning could be performed safely before fit tests began
+to fail consistently [21]. We tested the 3M 1860 (The 1860 masks available were manufactured in 2006, with a shelf life of 5 years. Hence they were 9 years expired at the time of testing. The CDC states that model 1860 masks beyond the manufacturer shelf life have been
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+Fig 4. Masks after 5 heat cycles. A: 3M 1860; Slight blurring of printed label, no other visible changes. B: 3M 8210
+Plus; Slight blurring of the printed label. C: 3M 1870; Delamination of part of the foam nose bridge shown here after 5
+cycles. The foam was reset in place prior to donning and still passed all fit tests.
+shown to still be in accordance with NIOSH performance standards [22].) surgical N95, 3M
+1870 surgical N95, 3M 8210 Plus N95, Chen Heng V9501 KN95 (certified to the GB26262006 standard), and a HKYQ N95(Zhejiang FDA Medical Device Product Certificate
+20120065, certified to the GB19083 standard). We perform quantitative fit test measurements after each decontamination cycle. We used a separate batch of masks for the filtration
+and fit tests as the masks used for fit testing must be modified to adapt to the fit testing apparatus and are worn by a user.
+After the decontamination cycles the masks are inspected for any qualitative degradation.
+The most prominent effect observed was the delamination of the foam nose bridge on the
+1870 mask, Fig 4c. Noticeable blurring of the printed labels on the 1860 and 8210 plus models,
+Fig 4a and 4b, was also seen.
+Fit test methods and results
+The fit tests were performed with a TSI PortaCount Respirator Fit Tester 8038 using NaCl
+for variability in face structure. The user gave verbal consent to participate in the study. We
+used the OSHA modified ambient aerosol Condensation Nuclei Counter (CNC) Quantitative
+Fit Test for Filtering Facepiece Respirators. This produces a quantitative fit factor score for
+each of the four test components (bending over, talking, head side to side, head up and down)
+as well as an overall fit factor computed as the geometric mean of these four scores. A passing
+score is given in each category for a fit factor 100, but any individual category may be failed
+so long as the overall fit factor is 100 in order to pass the OSHA test. Additionally, the system
+does not provide a fit factor score greater than 200, and instead gives a maximum possible
+score of 200+. Each fit test sequence takes approximately two minutes and 30 seconds. For
+these tests each mask was punctured and fitted with a metal hose adapter to connect to the
+PortaCount via 3/16 ID tubing.
+Prior to starting each fit test measurement, the user donned the mask and performed a
+exhaling. The user then made small adjustments to the fit of the mask based on the results of
+this seal check. After each fit test measurement the user doffed the mask to simulate the wear
+and tear produced through donning and doffing masks.
+The protocol we performed used two masks of each type, one of which was treated as the
+control, and did not undergo heating, and one mask which went through five decontamination cycles. Each mask in the test group was fit tested prior to the decontamination cycles to
+ensure that the mask was not defective. Masks in the test group that passed this initial fit test
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+failure of the fit test. Green shaded cells indicate successful fit tests. The cycle number indicates the number of heating cycles the test group had undergone at the time of fit
+Mask Type
+HKYQ N95
+Control or Test
+Overall Fit Factor
+HKYQ N95
+Chen Heng V9501 KN95
+Chen Heng V9501 KN95
+were then run through the decontamination cycle five times. Between each cycle the test mask
+was removed from the container and fit tested. The control group masks were fit tested six
+times to correspond to the initial fit test and the fit test the test group masks would receive
+after each decontamination cycle. After the fifth decontamination cycle for the test group
+masks, we performed three additional fit tests. This was done to provide a better sampling of
+any variance in the users ability to form a tight seal with the mask and demonstrate whether
+there had been any degradation at the very end of the cycles.
+HKYQ N95 mask both failed the initial qualitative user seal checks, and the fit test. As a result,
+we declined to process these masks through the decontamination cycles and only performed
+further tests on the control group to determine their fit factor. The two 3M mask models, 8210
+Plus and 1860, both passed the fit test on every trial, and achieved the maximum possible fit
+factors after five heating cycles. The 3M 1870 also passed all fit tests, however with lower fit factors after the decontamination procedure. This is most likely due to the delamination of the
+nose bridge foam from the mask, Fig 4c. This foam was pressed back into place by the user
+prior to donning.
+There is a trend in which fit tests of the 1860, and to a lesser degree the 8210 Plus and 1870,
+which were performed earlier in the experiment showed lower fit factors than those performed
+later. This is best explained by both a training effect as the user gained experience with the particular mask models and identifying potential leaks during user seal checks and a break-in
+period of the mask adjusting to the users face. This effect is less clear for the other two mask
+models, as the user was unable to perform a satisfactory user seal check in any test.
+Filtration testing methods and results
+The filtration tests were performed with a TSI Inc. Automated Filter Tester 8130A using 0.26
+m (mass mean diameter) NaCl as the aerosol source under a flow rate of 85 L/min. With this
+system we were able to determine the filtration efficiency for the challenge aerosol and the
+pressure drop across the mask. For these measurements we report the initial filtration efficiency as opposed to the minimum loaded efficiency, as we do not expect a significant difference in the loading curves for treated vs untreated masks.
+For our filtration testing protocol we included one of each mask type in the control group
+and two of each type in the test group. The test group masks were each put through five
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+pressure drop shown for the test group masks is an average of the two masks of each type tested. Variation between the two samples was minimal. Testing performed with
+a TSI Inc. Automated Filter Tester 8130A.
+Mask Type
+Control Group
+5 Cycles at 85C + 60-85% Humidity
+Filtration Efficiency (%)
+Pressure Drop (Pa)
+Filtration Efficiency (%)
+Pressure Drop (Pa)
+Chen Heng V9501 KN95
+HKYQ N95
+heating cycles, while the control group was not heated. After the five cycles the masks were all
+For all four mask types studied, there was no significant drop between the control group
+and the test group masks. Additionally, all of the masks demonstrated a filtration efficiency
+above the 95% threshold for N95 respirators. The test group mask results were averaged
+together, but there were also no individual masks that showed an efficiency below the 95%
+standard. One mask of each type was also run through a 30 minute loading test to simulate the
+test, the minimum efficiency for all masks remained over the 95% standard. While the pressure
+drop for each mask changed by up to 20%, all masks were still well below the maximum resistance to airflow specified by NIOSH ([23] 42 CFR 84.180).
+With a total cycle time of about 50 minutes, including 10 minutes for loading and unloading
+the oven, a 3.7 cu ft oven, as was used here, can treat approximately 1,300 masks per 24 hours
+under constant processing conditions. Larger convection ovens are available. The equipment
+needed to implement this method requires the convection oven, containers, paper towels, and
+a pipette. For verification and validation, a few low cost sensors are used. This makes such a
+method accessible to all scales of health services.
+Although the original ink labeling on the masks blurred, the labels we applied to the masks
+and containers with sharpie were still clear after the five cycles. This suggests a clear method for
+ensuring that each mask is always returned to the same user. This will be important in healthcare settings both for maintaining good fit, and because this decontamination protocol may not
+sterilize all potential pathogens on the masks at the temperature chosen. Additionally, the ability
+to label closed containers could both help to protect workers who process masks through a
+decontamination protocol, and to prevent cross contamination of masks during the process.
+This research studied the effect of five cycles of heating to 85C for 30 min with a relative
+humidity of 60-85% on a selection of N95 FFRs. We found that for all of the N95 models we
+investigated there was no significant difference in filtration efficacy between the test groups of
+masks and the untreated control masks. For the 3M 1860 and 3M 8210 Plus, there was no measurable degradation of fit after each decontamination cycle, nor relative to the control group
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+KN95 and HKYQ N95 showed no degradation in the filtration tests, but their fit factor value
+was in the 4-45 and 5-28 ranges respectively (where 100 is normally considered passing). Further work is still required to ensure viral inactivation of SARS-CoV-2 on FFRs under the given
+We would like to thank Robert Gustafson for useful discussions and the suggestion of using
+rigid polypropylene containers.
+Investigation: Loc Anderegg, Cole Meisenhelder, Chiu Oan Ngooi, Lei Liao, Wang Xiao.
+Supervision: Steven Chu, Yi Cui, John M. Doyle.
+National Research Council. Rapid Expert Consultation on the Possibility of Bioaerosol Spread of
+SARS-CoV-2 for the COVID-19 Pandemic. 2020;
+van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et al. Aerosol
+Centers for Disease Control and Prevention. Decontamination and Reuse of Filtering Facepiece Respirators. 2020;.
+N95DECON. Technical Report for Heat-Humidity-Based N95 Reuse Risk Management. 2020;.
+Viscusi DJ, Bergman MS, Eimer BC, Shaffer RE. Evaluation of Five Decontamination Methods for Filtering Facepiece Respirators. The Annals of Occupational Hygiene. 2009; 53(8):815827.
+Lin TH, Chen CC, Huang SH, Kuo CW, Lai CY, Lin WY. Filter quality of electret masks in filtering 14.6
+Fischer R, Morris DH, van Doremalen N, Sarchette S, Matson J, Bushmaker T, et al. Assessment of
+N95 respirator decontamination and re-use for SARS-CoV-2. medRxiv. 2020;
+Lore MB, Heimbuch BK, Brown TL, Wander JD, Hinrichs SH. Effectiveness of Three Decontamination
+Treatments against Influenza Virus Applied to Filtering Facepiece Respirators. The Annals of Occupational Hygiene. 2011; 56(1):92101.
+McDevitt J, Rudnick S, First M, Spengler J. Role of Absolute Humidity in the Inactivation of Influenza
+Chin AWH, Chu JTS, Perera MRA, Hui KPY, Yen HL, Chan MCW, et al. Stability of SARS-CoV-2 in different environmental conditions. The Lancet Microbe. 2020;
+Rabenau HF, Cinatl J, Morgenstern B, Bauer G, Preiser W, Doerr HW. Stability and inactivation of
+SARS coronavirus. Medical Microbiology and Immunology. 2004; 194(1-2):16.
+Darnell MER, Taylor DR. Evaluation of inactivation methods for severe acute respiratory syndrome
+Bergman MS, Viscusi DJ, Heimbuch BK, Wander DJD, Sambol AR, Shaffer DRE. Evaluation of Multiple
+Fibers and Fabrics. 2010; 5(4):155892501000500405.
+3M. Disinfection of Front Facing Respirators. 2020;.
+PLOS ONE
+A scalable method of applying humid heat for decontamination of N95 respirators during the COVID-19 crisis
+Liao L, Xiao W, Zhao M, Yu X, Wang H, Wang Q, et al. Can N95 respirators be reused after disinfection? And for how many times? 2020;
+FDA. Enforcement Policy for Face Masks and Respirators During the Coronavirus Disease (COVID-19)
+Public Health Emergency. 2020;.
+Centers for Disease Control and Prevention. Release of Stockpiled N95 Filtering Facepiece Respirators
+Beyond the Manufacturer-Designated Shelf Life: Considerations for the COVID-19 Response. 2020;.
+NIOSH. Code of Federal Regulations (42 CFR 84.180); Airflow resistance tests. 2020;.

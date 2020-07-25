@@ -1,0 +1,408 @@
+Since January 2020 Elsevier has created a COVID-19 resource centre with
+free information in English and Mandarin on the novel coronavirus COVID19. The COVID-19 resource centre is hosted on Elsevier Connect, the
+company's public news and information website.
+Elsevier hereby grants permission to make all its COVID-19-related
+research that is available on the COVID-19 resource centre - including this
+research content - immediately available in PubMed Central and other
+publicly funded repositories, such as the WHO COVID database with rights
+for unrestricted research re-use and analyses in any form or by any means
+with acknowledgement of the original source. These permissions are
+granted for free by Elsevier for as long as the COVID-19 resource centre
+remains active.
+ARTICLE IN PRESS
+ARTIGO DE REVISO
+Assistncia perioperatria de paciente com infecco
+pelo SARS-CoV-2 (COVID-19) submetido a ressecco
+de tumor de hipse urgente. Relato de caso
+e diretrizes para manejo de via area
+Christiano dos Santos e Santos a, , Luiz M. da Costa Lima Filho a ,
+Cristiane A. Tuma Santos b , James S. Neill c , Henrique F. Vale a
+e Lakshmi N. Kurnutala a
+Recebido em 22 de maio de 2020; aceito em 31 de maio de 2020
+Tumor pituitrio;
+Infecco por
+Resumo A pandemia de 2020 causada pelo novo coronavrus, COVID-19, teve seu epicentro na
+China. Causa Sndrome Respiratria Aguda Grave pelo Coronavrus 2 (SARS-CoV-2) e apresenta
+um amplo espectro de manifestaces clnicas, que vo desde nenhum sintoma a insucincia
+respiratria aguda grave e bito. Com a expectativa de um nmero signicativo de pacientes
+dependentes de ventilador, vrias instituices estrategicamente adiaram cirurgias eletivas. Esse
+ o caso principalmente de procedimentos envolvendo a mucosa nasal, como a via transesfenoidal para a hipse, devido ao nvel imenso de disseminaco de material viral. No obstante,
+casos crticos requerem resoluco acelerada. Essas situaces so grave apoplexia hiposria,
+diminuico do nvel de conscincia ou risco de perda visual aguda. O presente caso relata o
+manejo perioperatrio bem sucedido de urgncia de paciente do sexo masculino de 47 anos
+de idade com COVID-19 que chegou ao Pronto Socorro com cefaleia frontal  esquerda que
+culminou com diplopia, ptose do olho esquerdo e perda de acuidade visual  esquerda aps
+5 dias. A hiposectomia transesfenoidal ocorreu sem intercorrncias e o paciente recebeu
+alta do hospital no quarto dia do ps-operatrio. Adicionalmente, descrevemos em detalhe
+infectados pelo novo coronavrus e que necessitam de atenco cirrgica de emergncia.
+Autor para correspondncia.
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+Pituitary tumor;
+Airway management;
+SARS-CoV-2 infection
+Pituitary tumor resection in a patient with SARS-CoV-2 (COVID-19) infection. A case
+report and suggested airway management guidelines
+Abstract The 2020 pandemic caused by the novel coronavirus, COVID-19, had its headquarters
+in China. It causes Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and presents
+a broad spectrum of clinical manifestations, ranging from entirely asymptomatic through severe
+acute respiratory failure and death. Presuming a signicant quantity of ventilator-dependent
+patients, several institutions strategically delayed elective surgeries. Particularly procedures
+performed involving the nasal mucosa, such as a transsphenoidal approach of the pituitary
+gland, considering the tremendous level of viral shedding. Nevertheless, critical cases demand
+expeditious resolution. Those situations are severe pituitary apoplexy, declining consciousness
+level, or risk of acute visual loss. This case presents a successful urgent perioperative management of a 47 year-old male COVID-19 positive patient who presented to the Emergency
+Department with a left frontal headache that culminated with diplopia, left eye ptosis, and
+left visual acuity loss after 5 days. Transsphenoidal hypophysectomy was uneventfully performed, and the patient was discharged from the hospital on postoperative day four. It additionally
+for patients infected with the novel coronavirus who need emergent surgical attention.
+Um surto mundial de Sndrome Respiratria Aguda Grave por
+Coronavrus 2 (SARS-CoV-2) causada pelo novo coronavrus,
+COVID-19, teve seu epicentro na cidade de Wuhan, Hubei
+Provncia da China.1 Nessa cidade, de 31 de dezembro de
+2019 a 3 de janeiro de 2020, 48 pacientes com pneumonia,
+naquele momento de etiologia desconhecida, foram detectados e noticados  Organizaco Mundial da Sade (OMS).1
+Nas semanas que se sucederam, o vrus RNA envelopado,
+no-segmentado de sentido positivo, pertencente  famlia
+Coronaviridae2 se disseminou para todos os continentes com
+consequncias econmicas e de sade pblica devastadoras. As caractersticas clnicas mais frequentes da doenca
+so febre, tosse, mal-estar, mialgia, anosmia e sintomas
+O espectro de manifestaces clnicas  amplo, indo desde
+nenhum sintoma  insucincia respiratria aguda grave e
+bito.3,4 A infecco  altamente contagiosa e mesmo pacientes pr-sintomticos/assintomticos podem transmitir o
+vrus, principalmente atravs de gotculas respiratrias.5 A
+transmissibilidade viral a partir de pacientes assintomticos
+contribui para o alto risco de infecco, no s para o pblico
+no hospital, mas tambm para os prossionais de sade, que
+so extremamente expostos durante o perodo de pandemia.
+Na expectativa de um nmero extraordinrio de pacientes crticos dependentes de ventilaco mecnica devido 
+infecco por SARS-CoV-2, e com o objetivo de disponibilidade de nmero abundante de leitos de terapia intensiva
+e equipamento, todos os casos eletivos foram estrategicamente adiados, recomendando-se a realizaco somente
+de casos de emergncia.6 Isso se referiu principalmente a
+procedimentos realizados em mucosa nasal, nasofaringe e
+placa cribiforme, tais como abordagem transesfenoidal para
+a hipse, tendo em conta o nvel imenso de disseminaco
+de material viral.7
+No presente relato de caso, gostaramos de compartilhar nossa experincia em paciente positivo para
+COVID-19, submetido a ressecco de tumor hiposrio de
+urgncia e com recente deterioraco do campo visual e
+compresso de nervo craniano. O objetivo deste artigo
+foi tambm descrever o protocolo de manejo de via
+procedimentos cirrgicos em pacientes conrmados positivos para COVID-19. Por essa razo, o relato apresenta
+descrico detalhada dos perodos pr- e ps-operatrios,
+incluindo nossos protocolos para induco de anestesia,
+instrumentaco de via area, transporte de paciente e
+Relato de caso
+Descrevemos manejo perioperatrio urgente bem-sucedido
+de paciente do sexo masculino de 47 anos de idade
+(175,3 cm; 94,3 kg; IMC = 30,7 kg.m-2 ) sem antecedentes clnicos dignos de nota e que chegou ao Pronto Socorro (PS) com
+cefaleia frontal  esquerda h 5 dias. Seguiram-se diplopia, ptose do olho esquerdo e perda da acuidade visual 
+esquerda, 48 horas antes do primeiro contato com o hospital. A cefaleia era constante e no cedia com nenhuma
+medicaco. O paciente negava sensaco de queimaco,
+irradiaco ou latejamento. Tambm armou que os sintomas oftalmolgicos indolores se iniciaram repentinamente.
+A cefaleia estava piorando no momento em que pediu para
+ir ao PS. O paciente armou que trs semanas antes desse
+evento, todos no priso apresentavam dores musculares,
+possivelmente associadas ao surto de COVID-19. O tratamento da dor com ibuprofeno no surtiu efeito. O paciente
+no apresentava histria cirrgica relevante. Os sinais vitais
+estavam dentro de limites normais e foi solicitada Tomograa Computadorizada (TC) da cabeca (g. 1 a e b). Com
+base nos achados da TC, foi obtida imagem de Resonncia
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+Ressecco de tumor hiposrio e infecco pelo SARS-CoV-2 (COVID-19)
+Figura 1 (a e b) Tomograa computadorizada sem contraste. Cortes axial (a) e coronal (b) mostram predomnio de massa selar
+hiperdensa medindo 1,9 2,8 2,0 cm, ecntrica  esquerda com extenso para a cisterna supraselar, pincamento do quiasma timo
+esquerdo e deiscncia bilateral das paredes do seio esfenoide posterior.
+Figura 2 (a-c) RM hiposria com e sem contraste. (a) Massa selar sagital T1 com obscurecimento da haste hiposria. (b e
+c) T2 coronal e axial-T2 heterogneo perifericamente isointenso centralmente, massa escura com realce diminudo na sela turca
+estendendo-se para a cisterna supraselar com efeito de massa local. Elevaco do quiasma ptico e da porco pr-quiasmtica 
+esquerda maior do que no nervo ptico direito. Achados compatveis com macroadenoma hiposrio com deposico central de
+hemosiderina sugerindo hemorragia remota.
+Magntica (RM) da hipse (g. 2 a, b e c). O paciente foi
+internado na enfermaria de neurocirurgia.
+Alm disso, o painel SARS-CoV-2 RNA por RT-PCR resultou
+positivo um dia aps a internaco (2 dia). Foi transferido
+para o andar COVID-19. No 3 dia, o paciente se queixou de piora da acuidade visual  esquerda sem melhora
+da cefaleia. Em funco de possvel perda visual denitiva,
+a neurocirurgia decidiu agendar ressecco de tumor hiposrio por via transesfenoidal de urgncia para a manh
+seguinte (5 dia).
+No 5 dia, o paciente foi transferido para a rea do
+Centro Cirrgico, diretamente para a sala de induco de
+presso negativa. O paciente foi totalmente coberto por
+campo plstico. O monitoramento e o monitor de bloqueio
+neuromuscular padro da Sociedade Americana de Anestesiologia foram congurados, seguido por pr-oxigenaco
+por cinco minutos com fraco inspirada de oxignio (FiO2 )
+a 100%. Segurou-se a mscara facial com as duas mos com
+o objetivo de selamento perfeito e consequente diminuico
+da taxa de contaminaco externa e os uxos inspiratrios e
+expiratrios passarem pelo ltro viral. Um coxim de ombro
+foi posicionado para melhor alinhamento do eixo da via
+area, o que auxiliou no sucesso da intubaco traqueal
+na primeira tentativa. Os sinais vitais se encontravam
+dentro dos limites da normalidade. A induco anestsica
+com a tcnica de sequncia rpida foi escolhida principalmente para diminuir o risco potencial de aerossolizaco
+do vrus a partir da via area do paciente. Foram usados
+lidocana a 1% (1 mg.kg-1 ), fentanil (1 mcg.kg-1 ), propofol
+(3 mg.kg-1 ), e succinilcolina (1 mg.kg-1 ). Imediatamente
+aps a induco, foi administrada dose de etresse de 100
+mg de hidrocortisona. A intubaco ocorreu sem nenhum
+problema usando videolaringoscpio. Aps a induco, outro
+acesso intravenoso foi obtido e uma linha arterial radial foi
+estabelecida. O paciente foi transferido da sala de Presso
+Negativa (PN) para sala de cirurgia com Presso Positiva
+(PP). A remoco do tumor hiposrio por via transesfenoidal
+transcorreu sem intercorrncias, e o paciente permaneceu
+entubado ao nalizar o caso para transporte para a UTI e
+extubaco. A manutenco da anestesia foi realizada com
+infuses de propofol (80-100 g.kg-1 .min-1 ) e remifentanil
+(0,08-0,12 g.kg-1 .min-1 ) e Concentraco Alveolar Mnima
+(CAM) de 0,5 de desurano. Para o transporte para a UTI,
+foi iniciada dexmedetomidina a 0,6 g.kg-1 .h-1 para reduzir
+tosse durante a extubaco. A avaliaco ps-operatria da
+endocrinologia revelou nvel baixo de cortisol matinal, T4
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+dentro dos limites padro e nenhum dbito urinrio signicativo. Dose de manutenco de 20 mg de hidrocortisona
+pela manh e 10 mg  noite foi iniciada devido  sndrome
+de insucincia adrenal central. O paciente foi transferido
+da UTI para o andar no dia seguinte. Recebeu alta hospitalar
+no quarto dia do ps-operatrio sem complicaces.
+Plano A
+Estilete C-Mac / Estilete tradicional
+Fita adesiva 1
+Seringa de 10 mL
+Cinta de cabeca
+Campo claro
+TET, Tubo Endotraqueal.
+A abordagem pela regio selar para ressecco de tumor
+hiposrio em cirurgia endoscpica transesfenoidal  mais
+comum do que a craniotomia.8 O SARS-CoV-2 coloniza intensamente a mucosa nasal, e devido ao exacerbado grau de
+disseminaco de material viral,  altamente contagioso. O
+Colgio Americano de Cirurgia recomendou o adiamento de
+toda cirurgia eletiva durante a pandemia do COVID-19.9 No
+obstante, a hiposectomia de emergncia devido a apoplexia hiposria grave, nvel de conscincia em declnio ou
+risco de perda visual aguda no podia ser adiada.8 Nessas
+circunstncias, a via transcraniana seria a preferencial em
+detrimento da base do crnio.10 A deciso deve ser tomada
+caso a caso.8  a combinaco da preferncia do cirurgio e
+o grau de conforto para realizar o procedimento cirrgico.
+O manejo da via area para pacientes positivos para o
+COVID-19  um imenso desao. Por essa razo, decidimos
+para o manejo perioperatrio de pacientes infectados
+com SARS-CoV-2. A seco  dividida em trs fases:
+assistncia pr-operatria, fase intraoperatria e perodo
+ML de intubaco
+MLs: iGel 4, 5
+Vias areas orais: 9, 10
+Lminas McGrath descartveis:
+n 3, n 4
+Cabo do laringoscpio
+Lmina de laringoscpio: Miller
+Plano C
+Material para cricotiroidotomia a ser realizada pelo
+Assistncia pr-operatria
+O guia perioperatrio de manipulaco da via area da UMMC
+para cirurgias urgentes em pacientes com infecco conrmada ou suspeita pelo COVID-19 segue:
+1. Logstica e pessoal: Quatro indivduos usando Equipamento de Proteco Individual (EPI) transportam o
+paciente do andar/Unidade de Terapia Intensiva (UTI)
+para sala de induco (presso negativa) no centro
+cirrgico. So eles um anestesiologista, um enfermeiro
+anestesista/residente de anestesiologia, um enfermeiro
+circulante e um tcnico de anestesia. O tcnico de anestesia carrega o kit de emergncia e abre o caminho
+(abertura de portas, chamada de elevadores) com a
+ajuda do enfermeiro circulante. O tcnico de anestesia
+e enfermeiro circulante cam a 6 ps (2 metros) de distncia e evitam contato com o paciente. A intubaco,
+extubaco e recuperaco so realizados na sala de PN,
+enquanto o procedimento cirrgico  realizado na sala
+de cirurgia com PP.
+2. Paciente cirrgico: Anteriormente na UTI ou PS, o paciente  intubado e ento transferido diretamente para
+a sala de cirurgia com PP. O paciente levado do andar
+para o centro cirrgico  primeiramente transferido para
+a sala de PN, onde ocorre a abordagem da via area,
+para ento ser transferido para a sala de cirurgia com
+PP. A face do paciente precisa ser tricotomizada antes
+Plano B
+da intubaco para prevenir a aerossolizaco do vrus
+durante a pr-oxigenaco.
+Preparo pr-operatrio: Reunir todo o material necessrio na sala de PN (induco e extubaco) e sala de
+cirurgia de PP. Vericar se o kit de material para anestesia para COVID-19 rotulado Plano A, B, C (tabelas 1,
+2 e 3), e o kit de drogas. Drogas Cirurgia COVID-19
+armazenado nos armrios Omnicell esto preparados.
+Providenciar todas as substncias controladas e todas as
+seringas necessrias para o caso inteiro. Mscara facial
+simples e cateter nasal para oxignio no ps-operatrio
+para transporte para o andar devem estar disponveis.
+Ter C-Mac ou sistema Glidescope extra prontos como retaguarda. Providenciar uma rea para colocaco (donning)
+e remoco (dofng) de EPI e retirar todo material no
+essencial da sala de cirurgia. Armrios e gavetas devem
+ser fechados. Um gerente (runner) exclusivo do CC 
+escalado para providenciar quaisquer outros materiais
+para a sala.O Plano C inclui material para cricotiroidotomia a ser realizada pelo anestesiologista. Outros
+equipamentos necessrios so Ambu, vlvula de Presso Expiratria Positiva (PEEP), ltro para vrus, sistema
+de aspiraco fechada Ballard, soluco salina para
+lavagem, estetoscpio descartvel, Bougie, e conector
+Escalaco: Escalar os prossionais mais experientes disponveis para realizar a intubaco, caso seja possvel.
+No  permitida intubaco por indivduos em treinamento (estudantes ou residentes junior).
+Evitar: Sistema de aquecimento de paciente por ar
+forcado e intubaco acordada com broscpio devido 
+aerossolizaco do vrus.
+Antes de entrar no CC: Colocar EPI, que inclui mscara N95, prop, uniforme, escudo facial e luvas (duas
+luvas cirrgicas necessrias para equipe de anestesia).
+Na intubaco difcil, vericar se um cirurgio que est a
+vontade com colocaco de via aerea de emergncia se
+encontra presente.
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+Ressecco de tumor hiposrio e infecco pelo SARS-CoV-2 (COVID-19)
+intubaco, colocar Mscara Larngea de Intubaco (MLI)
+de via area e ventilar com volume corrente baixo (no
+mais do que 6 mL.kg-1 ) e sem PEEP. Determinar se o paciente precisa de tentativa adicional para ser acordado ou
+instrumentaco de via area cirrgica. Sistema Ballard
+in-line de aspiraco fechada deve estar disponvel no
+caso de o paciente precisar de aspiraco traqueal. Inserir
+quaisquer linhas intravenosas adicionais e linha arterial
+nesse momento.
+2. Equipamento descartvel usado no CC: Laringoscpio e
+estilete so descartados em balde dentro de saco para
+material infectado. O saco vermelho est disponvel no
+CC para descarte de todo material usado que foi aberto.
+Todas as outras embalagens de instrumentos no abertas
+so limpas e re-estocadas.
+Figura 3 Campo plstico sobre o paciente durante a
+manipulaco para assegurar a via area.
+Fase intraoperatria
+No permitir trfego de entrada ou sada. A equipe que inicia
+o caso deve completar o caso. O gerente verica se o EPI de
+todos est sendo usado corretamente e entrega o material
+necessrio via corredor sub-estril. Aplicar o monitoramento
+e monitor bloqueador neuromuscular padro ASA. Colocar o
+coxim de ombro para alinhar a via area melhor e aumentar
+a taxa de sucesso da intubaco. Colocar o campo plstico
+sobre o paciente para diminuir a taxa de contaminaco.
+(g. 3). O leito/maca do paciente deve permanecer na sala
+todo o tempo.
+1. Intubaco: Pr-oxigenar o paciente por 5 minutos com
+FiO2 a 100% com uxo de 5 L.min-1 . Sem PEEP. Assegurar limite de presso ajustvel ou que a vlvula de alvio
+(pop-off) esteja totalmente aberta. Realizar induco de
+sequncia rpida para evitar ventilaco por presso positiva e potencial aerossolizaco do vrus a partir da via
+area. Alta dose de rocurnio (1,2 mg.kg-1 )  uma opco
+para pacientes com contraindicaco de succinilcolina.
+O videolaringoscpio  usado em todos os pacientes.
+Aquecimento de qualidade superior e ltro de troca de
+umidade para remover pelo menos 99,97% das partculas
+de veiculaco area de 0,3 microns ou mais  colocado
+entre a mscara facial e o circuito de respiraco, ou entre
+a mscara facial e saco reservatrio. No caso de falha de
+1- Higiene das mos
+com desinfetante espuma
+de mo antissptico
+7- Mscara cirgica
+comum sobre a N95
+Perodo ps-operatrio
+1. Transporte: Aps o trmino do caso, o paciente  transportado de volta para a sala de extubaco de presso
+negativa, ou uma equipe de transporte limpa leva o
+paciente para a UTI. Durante o transporte do paciente
+intubado, a EPI  necessria, e o TET, sempre conectado
+a ltro e ao Ambu ou ventilador de transporte. Se o ltro
+viral precisa ser desconectado do TET por qualquer razo
+que seja, deve ser clampeado para evitar aerossolizaco
+da via area.
+2. Extubaco: O paciente  transferido de volta para a
+sala de PN para extubaco. Sugammadex (2, 4 ou 16
+mg.kg-1 , seguindo as diretrizes da instituico)  usado
+para qualquer paciente recebendo rocurnio para prevenir falha de extubaco e possvel re-intubaco.11 A meta
+ > 90% de recuperaco no monitor quantitativo. Um
+frasco de 200 mg se encontra na bolsa de medicaco. Se
+mais for necessrio, pedir ao gerente para buscar mais
+do armrio Core Omnicell. A sala de PN funciona como
+unidade de Recuperaco Ps-Anestsica (RPA) at que
+o paciente esteja em condices de ser transferido para
+a sala de origem. Todo pessoal de assistncia envolvido
+na assistncia/transporte do paciente obrigatoriamente
+troca de uniforme. Se o paciente for extubado na UTI,
+a sedaco de escolha para transporte  dexmedetomidina, j que  a droga mais efetiva na reduco de tosse
+moderada ou grave aps anestesia geral com intubaco
+3- Higiene das mos
+com desinfetante
+espuma de mo
+8- Proteo ocular
+4- Primeiro par de
+luvas cirrgicas
+9- Segundo par de luvas
+Ordem Donning (protocolo UMMC) para pacientes positivos para COVID-1913 .
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+1- Higiene das
+com luvas
+(luvas por cima)
+8- Higiene das
+3- Higiene das
+4- Proteo ocular
+10- Higiene das
+5- Higiene das
+11- Luvas cirrgicas
+cirgica comum
+12- Higiene das
+Figura 5 Ordem Dofng (protocolo UMMC) para pacientes positivos para COVID-1914 . Higiene das mos**: Desinfetante de mo
+antissptico espuma para higiene das mos.
+3. Aps sada do CC: Isolar a sala de cirurgia por uma hora
+para permitir troca do ar. Em seguida, higienizar pelo
+servico de limpeza. Finalmente, colocar luz Ultravioleta
+(UV) na sala aps a concluso da limpeza. O tempo de
+giro  aproximadamente duas horas. O gerente escreve
+todos os tempos pertinentes na porta da sala. A Lista
+de Sala Pronta  raticada pelo anestesiologista.
+4. Colocaco (Donning) e remoco (Dofng) de EPI: A
+colocaco (donning) (g. 4) e remoco (dofng) (g. 5)
+so pontos cruciais com relaco a pacientes infectados
+pelo vrus SARS-CoV-2. Os procedimentos devem seguir
+o protocolo institucional, e uma terceira pessoa deve
+vericar se foi seguido adequadamente.
+At o momento, no se conhece tratamento ou vacina
+efetivos que facam frente ao surto do novo coronavrus.
+As incertezas dessa nova era exigem particular atenco 
+seguranca dos pacientes e equipe. Entre as ambiguidades
+e diferentes opinies que podem preceder um algoritmo
+mundial, alguns pontos so extremamente relevantes. Idealmente, a equipe de anestesia precisa ser exaustivamente
+treinada em laboratrio de simulaco, se apoderando das
+tcnicas de manejo de via area sob essas circunstncias
+adversas.14 Ao se familiarizar com a diretriz da instituico,
+sentem-se mais comfortvies e precisos para realizar suas
+tarefas sem correria ou atraso.14 Recomendamos fortemente
+que cada instituico tenha uma diretriz atualizada para
+manejo de via area para pacientes infectados com SARS-CoV-2 que se aplique a cada realidade local.  a forma mais
+efetiva para melhorar o desfecho dos pacientes e proteger
+a forca de trabalho da assistncia  sade.
+Conitos de interesse
+Os autores declaram no haver conitos de interesse.
+1. WHO. Novel coronavirus (2019-nCoV). Situation report-1.
+2. Huang C, Wang Y, Li X, et al. Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan, China. Lancet
+3. Gandhi RT, Lynch JB, Del Rio C. Mild or moderate COVID-19. N
+of print.
+4. Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the
+asymptomatic proportion of coronavirus disease 2019 (COVID19) cases on board the Diamond Princess cruise ship, Yokohama
+Japan, 2020. Euro Surveill. 2020;25:2000180.
+5. Gandhi M, Yokoe DS, Havlir DV. Asymptomatic transmission, the
+achilles heel of current strategies to control Covid-19. N Engl
+J Med. 2020;382:2158---60.
+6. Cenzato M, DiMeco F, Fontanella M, Locatelli D, Servadei F.
+of print.
+7. Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper
+Respiratory Specimens of Infected Patients. N Engl J Med.
+8. Flexman AM, Abcejo A, Avitisian R, et al. Neuroanesthesia practice during the COVID-19 pandemic: recommendations from
+Society for Neuroscience in Anesthesiology & Critical Care
+Management of Elective Surgical Procedures. 2020
+10. Patel ZM, Fernandez-Miranda J, Hwang PH, et al. Letter: Precautions for Endoscopic Transnasal Skull Base Surgery During
+11. Cada DJ, Levien TL, Baker DE. Sugammadex. Hosp Pharm.
+12. Tung A, Fergusson NA, Ng N, Hu V, Dormuth C, Griesdale DEG.
+network meta-analysis. Br J Anaesth. 2020.
+14. Cook TM, El-Boghdadly K, McGuire B, McNarry AF, Patel A, Higgs
+A. Consensus guidelines for managing the airway in patients
+with COVID-19: Guidelines from the Difcult Airway Society,
+the Association of Anaesthetists the Intensive Care Society, the
+Faculty of Intensive Care Medicine and the Royal College of
+Anaesthetists. Anaesthesia. 2020;75:785---9.
+Como citar este artigo: Santos CS, et al. Assistncia perioperatria de paciente com infecco pelo SARS-CoV-2 (COVID-19)
