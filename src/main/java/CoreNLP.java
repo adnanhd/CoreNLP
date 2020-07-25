@@ -5,11 +5,6 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 // Import the Scanner class to read text files
-import java.util.*;
-import java.util.logging.FileHandler;
-import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
-import java.util.regex.Pattern;
 
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
@@ -20,7 +15,7 @@ public class CoreNLP {
     public static void main(String[] args) {
         int count = 0;
         File file = new File("data/");
-        File[] files = file.listFiles();
+        File[] files = {new File("data/10-1055-s-0040-1713678.txt")}; // file.listFiles();
 
         while (count < files.length)
             try {
@@ -48,6 +43,7 @@ public class CoreNLP {
 
                 bw.close();
                 br.close();
+                count++;
 
             } catch (FileNotFoundException e) {
                 System.err.println("File " + args[count] + "not found...");
