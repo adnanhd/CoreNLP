@@ -12,7 +12,7 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 
 public class CoreNLP {
-    private static String input_path = "./tst/", output_path = "./ner/";
+    private static String input_path = "./test/", output_path = "./ner/";
     private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir]";
     private static String version = "version 2.0.0";
     //private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
@@ -52,12 +52,11 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
-        int index = 0;
-
-        while (index < args.length)
-            run(args[index++]);
-
+        File file = new File(input_path);
+        File[] files = file.listFiles();
         
+        for (File _file : files)
+            run(_file.getName());
     }
 }
 
