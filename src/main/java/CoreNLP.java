@@ -15,7 +15,7 @@ public class CoreNLP {
     private static String input_path = "./test/", output_path = "./ner/";
     private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir]";
     private static String version = "version 2.0.0";
-    //private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
+    private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
     private static void run(String filename) {
         try {
@@ -25,7 +25,6 @@ public class CoreNLP {
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(new FileInputStream(input_path + filename), StandardCharsets.UTF_8));
-                    StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
             String line = br.readLine();
 
