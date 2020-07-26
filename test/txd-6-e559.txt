@@ -1,80 +1,132 @@
-Evaluating Potential Deceased Donor Renal
-Transplant Recipients for Asymptomatic COVID-19
-Quan Yao Ho, MRCP, MMed,1,2 Shimin Jasmine Chung, MRCP,2,3 Shoen Choon Seng Low, FRCR, MMed,4
-Robert Chun Chen, MD,4 Swee Ping Teh, MRCP,1 Fu Zi Yvonne Chan, MRCP, MMed,3 Ban Hock Tan, FRCP,2,3
-and Terence Yi Shern Kee, FRCP, FACP1,2
-e present a case of asymptomatic coronavirus disease 2019 (COVID-19) diagnosed in a hemodialysis
-patient during deceased donor renal transplantation (DDRT)
-evaluation and discuss the challenges of excluding COVID-19
-before transplantation.
-A 50-year-old woman with end-stage renal disease
-secondary to IgA nephropathy on hemodialysis was
-called up as first on the waitlist. She was screened for
-with the addition of a chest computed tomography (CT)
-Our patient and her brother, her only household contact, were asymptomatic, had no known contact with
-COVID-19 cases or suspects, and had not travelled
-overseas for 3 months. She continued her work as a
-hawker but wore a cloth mask for all activities outside her home, except during exercise. On admission,
-she was afebrile, with a respiratory rate of 18 breaths/
-min and her pulse oximetry reading was 96% on room
-air. Physical examination revealed bilateral basal lung
-crepitations without signs of volume overload. She had
-lymphopenia though her white cell count was normal.
-Her chest radiograph revealed bilateral mild, ill-defined
-patchy opacities, while CT of the chest showed bilateral nodular air space consolidation, predominantly
-Department of Renal Medicine, Singapore General Hospital, Singapore.
-SingHealth Duke-NUS Transplant Centre, Singapore.
-Department of Infectious Diseases, Singapore General Hospital, Singapore.
-Department of Diagnostic Radiology, Singapore General Hospital, Singapore.
-Correspondence: Quan Yao Ho, MRCP, MMed, Department of Renal Medicine,
-(CCBY-NC-ND), where it is permissible to download and share the work provided
-Transplantation DIRECT
-Nasopharyngeal swab for severe acute respiratory syndrome coronavirus 2 later returned positive on the same
-Transplantation was held off, and the patient was
-immediately transferred to an isolation ward. She developed a temperature of 37.6C the following morning and
-mild symptoms (eg, cough, myalgia, vomiting, and diarrhea) only from day 3 of admission (D3). She did not
-require supplemental oxygen, and her symptoms resolved
-on D10. Repeat respiratory swabs first returned negative
-on D20.
-The optimal strategy to exclude COVID-19 before
-DDRT is unclear. With significant unlinked community
-transmission and an incubation period of approximately
-2 weeks, COVID-19 cannot be confidently excluded with
-clinical and epidemiological history. Dialysis patients may
-have minimal symptoms or present atypically (eg, with
-predominantly gastrointestinal symptoms).2 Home isolation is impossible if they require regular hemodialysis in
-the community. Laboratory findings such as lymphopenia
-are nonspecific.
-Real-time reverse transcriptase polymerase chain reaction for severe acute respiratory syndrome coronavirus 2
-on respiratory specimens is used to confirm COVID-19,
-but its sensitivity may be affected by the patients functional status, type of respiratory specimen, and collection
-technique3 and has been reported to be initially negative, especially in mild or early illness.4 The sensitivity of
-respiratory swabs within a short time frame to exclude
-COVID-19 may be limited.
-Chest radiography may be a useful adjunct in the
-screening of COVID-19 but is not sensitive in mild
-or early disease. In a recent meta-analysis, CT was
-suggested to be more sensitive than real-time reverse
-transcriptase polymerase chain reaction3 but can be
-also negative in mild or early disease.5 CT findings
-are nonspecific (eg, pulmonary congestion may mimic
-viral pneumonia) which can add further complexity to
-patient assessment.
-Given the potentially devastating consequences
-of peritransplant COVID-19, we find it necessary to
-exclude COVID-19 as best as possible before DDRT,
-but this will likely remain challenging. A combination
-of clinical, molecular, and radiological investigations
-may help detect early COVID-19 but may not eliminate
-Transplantation DIRECT
-the risk of COVID-19 especially given the time sensitivity of DDRT. The risks and benefits of proceeding with transplantation during this pandemic needs
-to be carefully considered and also discussed with the
-1. Chung SJ, Tan EK, Kee T, et al. Practical considerations for solid organ
-transplantation during the COVID-19 global outbreak: the experience
-from Singapore. Transplant Direct. 2020;6:e554.
-2. Wang R, Liao C, He H, et al. COVID-19 in hemodialysis patients: a
-3. Kim H, Hong H, Yoon SH. Diagnostic performance of CT and reverse
-transcriptase-polymerase chain reaction for coronavirus disease
-4. Young BE, Ong SWX, Kalimuddin S, et al. Epidemiologic features and
-clinical course of patients infected with SARS-CoV-2 in Singapore.
-5. Bernheim A, Mei X, Huang M, et al. Chest CT findings in coronavirus disease-19 (COVID-19): relationship to duration of infection.
+Evaluating  Potential  Deceased Donor Renal Transplant Recipients
+for Asymptomatic COVID‐19 Quan Yao Ho, MRCP, MMed,1,2 Shimin Jas‐
+mine  Chung,  MRCP,2,3  Shoen Choon Seng Low, FRCR, MMed,4 Robert
+Chun Chen, MD,4 Swee Ping Teh, MRCP,1 Fu Zi  Yvonne  Chan,  MRCP,
+MMed,3  Ban  Hock  Tan,  FRCP,2,3 and Terence Yi Shern Kee, FRCP,
+FACP1,2 e present a case of asymptomatic coronavirus disease 2019
+(COVID‐19)  diagnosed  in  a hemodialysis patient during deceased
+donor renal transplantation (DDRT)  evaluation  and  discuss  the
+challenges  of  excluding  COVID‐19  before  transplantation.   A
+50‐year‐old woman with end‐stage renal disease secondary  to  IgA
+nephropathy  on  hemodialysis was called up as first on the wait‐
+list. She was screened for with the addition of a chest  computed
+tomography  (CT)  Our patient and her brother, her only household
+contact, were asymptomatic, had no known  contact  with  COVID‐19
+cases  or  suspects, and had not travelled overseas for 3 months.
+She continued her work as a hawker but wore a cloth mask for  all
+activities  outside  her  home, except during exercise. On admis‐
+sion, she was afebrile, with a respiratory rate  of  18  breaths/
+min  and her pulse oximetry reading was 96% on room air. Physical
+examination revealed bilateral basal  lung  crepitations  without
+signs  of  volume  overload. She had lymphopenia though her white
+cell count was normal.  Her chest radiograph  revealed  bilateral
+mild,  ill‐defined patchy opacities, while CT of the chest showed
+bilateral nodular air space consolidation, predominantly  Depart‐
+ment  of  Renal  Medicine, Singapore General Hospital, Singapore.
+SingHealth Duke‐NUS Transplant Centre, Singapore.  Department  of
+Infectious  Diseases, Singapore General Hospital, Singapore.  De‐
+partment of Diagnostic  Radiology,  Singapore  General  Hospital,
+Singapore.   Correspondence:  Quan Yao Ho, MRCP, MMed, Department
+of Renal Medicine, (CCBY‐NC‐ND), where it is permissible to down‐
+load  and share the work provided Transplantation DIRECT Nasopha‐
+ryngeal swab for severe acute respiratory syndrome coronavirus  2
+later returned positive on the same Transplantation was held off,
+and the patient was immediately transferred to an isolation ward.
+She  developed  a  temperature of 37.6C the following morning and
+mild symptoms (eg, cough, myalgia, vomiting, and  diarrhea)  only
+from  day  3  of admission (D3). She did not require supplemental
+oxygen, and her symptoms  resolved  on  D10.  Repeat  respiratory
+swabs  first  returned  negative on D20.  The optimal strategy to
+exclude COVID‐19 before DDRT is  unclear.  With  significant  un‐
+linked community transmission and an incubation period of approx‐
+imately 2 weeks, COVID‐19 cannot  be  confidently  excluded  with
+clinical  and epidemiological history. Dialysis patients may have
+minimal symptoms or present atypically  (eg,  with  predominantly
+gastrointestinal symptoms).2 Home isolation is impossible if they
+require regular hemodialysis in the community.  Laboratory  find‐
+ings  such  as  lymphopenia  are  nonspecific.  Real‐time reverse
+transcriptase polymerase chain reaction for severe acute respira‐
+tory  syndrome  coronavirus 2 on respiratory specimens is used to
+confirm COVID‐19, but its sensitivity may be affected by the  pa‐
+tients  functional status, type of respiratory specimen, and col‐
+lection technique3 and has been reported to  be  initially  nega‐
+tive,  especially  in  mild or early illness.4 The sensitivity of
+respiratory swabs within a short time frame to  exclude  COVID‐19
+may be limited.  Chest radiography may be a useful adjunct in the
+screening of COVID‐19 but is not sensitive in mild or early  dis‐
+ease. In a recent meta‐analysis, CT was suggested to be more sen‐
+sitive than real‐time reverse transcriptase polymerase chain  re‐
+action3  but  can  be also negative in mild or early disease.5 CT
+findings are nonspecific (eg, pulmonary congestion may mimic  vi‐
+ral  pneumonia)  which  can add further complexity to patient as‐
+sessment.  Given the potentially devastating consequences of per‐
+itransplant COVID‐19, we find it necessary to exclude COVID‐19 as
+best as possible before DDRT, but this will likely  remain  chal‐
+lenging.  A  combination of clinical, molecular, and radiological
+investigations may help detect early COVID‐19 but may not  elimi‐
+nate Transplantation DIRECT the risk of COVID‐19 especially given
+the time sensitivity of DDRT. The risks and benefits of  proceed‐
+ing  with  transplantation during this pandemic needs to be care‐
+fully considered and also discussed with the 1. Chung SJ, Tan EK,
+Kee T, et al. Practical considerations for solid organ transplan‐
+tation during the COVID‐19 global outbreak: the  experience  from
+Singapore. Transplant Direct. 2020;6:e554.  2. Wang R, Liao C, He
+H, et al. COVID‐19 in hemodialysis patients: a 3. Kim H, Hong  H,
+Yoon  SH. Diagnostic performance of CT and reverse transcriptase‐
+polymerase chain reaction for coronavirus disease  4.  Young  BE,
+Ong SWX, Kalimuddin S, et al. Epidemiologic features and clinical
+course of patients infected with  SARS‐CoV‐2  in  Singapore.   5.
+Bernheim  A,  Mei  X, Huang M, et al. Chest CT findings in coron‐
+avirus disease‐19 (COVID‐19): relationship to duration of  infec‐
+tion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

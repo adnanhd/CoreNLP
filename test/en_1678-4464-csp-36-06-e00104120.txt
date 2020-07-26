@@ -1,295 +1,396 @@
-ESPAO TEMTICO: COVID-19  CONTRIBUIES DA SADE COLETIVA
-THEMATIC SECTION: COVID-19  PUBLIC HEALTH CONTRIBUTIONS
-The role of primary care in the Brazilian
-healthcare system: limits and possibilities
-O papel da ateno primria na rede de ateno
- sade no Brasil: limites e possibilidades no
-enfrentamento da COVID-19
-Regina Paiva Daumas 1
-Gulnar Azevedo e Silva 2
-Renato Tasca 3
-Iuri da Costa Leite 1
-El papel de la atencin primaria en el sistema de
-salud brasileo: lmites y posibilidades para
-combatir COVID-19
-Patrcia Brasil 4
-Dirceu B. Greco 5
-Victor Grabois 1
-Gasto Wagner de Sousa Campos 6
-Escola Nacional de Sade
-Pblica Sergio Arouca,
-Fundao Oswaldo Cruz,
-Rio de Janeiro, Brasil.
-2 Instituto de Medicina
-Social, Universidade do
-Estado do Rio de Janeiro,
-Rio de Janeiro, Brasil.
-3 Organizao Pan-Americana da Sade/
-Organizao Mundial da
-Sade, Braslia, Brasil.
-4 Instituto Nacional de
-Infectologia Evandro
-Chagas, Fundao Oswaldo
-Cruz, Rio de Janeiro,
-5 Faculdade de Medicina,
-Universidade Federal
-de Minas Gerais, Belo
-Horizonte, Brasil.
-6 Faculdade de Cincias
-Mdicas, Universidade
-Estadual de Campinas,
-Campinas, Brasil.
-On March 12, 2020, the World Health Organization (WHO) declared the disease caused by the novel
-coronavirus (SARS-CoV-2) a pandemic 1. The infection (COVID-19) is more transmissible and has a
-higher case-fatality rate than influenza, estimated at some 14 times greater 2. The high infection rate,
-with each case infecting 2 to 3 other individuals on average, leads to the epidemics expansion in geometric progression 3. In Brazil, where community transmission throughout the country was declared
-on March 20, more than 147,000 cases and 10,000 deaths from COVID-19 had been confirmed as
-of May 9, 2020 4. Isolation of cases and contacts and social distancing of the general population have
-been the main strategies recommended to delay the expansion of COVID-19 and allow the health
-systems adjustment to the rapidly increasing demand for hospital beds, especially in intensive care,
-avoiding the collapse of hospital care 5,6.
-The initial clinical presentation of COVID-19 is flu-like, with fever, cough, sore throat, and coryza. About 80% of patients recover without complications and are classified as mild or moderate cases
-(either without pneumonia or with mild viral pneumonia) 7. The other 20% evolve with dyspnea and
-hypoxemia secondary to extensive viral pneumonia and require hospitalization for oxygen therapy
-and other interventions 8. One fourth of these (some 5% of the total) evolve to critical conditions due
-to respiratory failure, disseminated intravascular coagulation, circulatory shock, or multiple organ
-dysfunction, requiring intensive care. Case-fatality in the latter group is more than 40% 9,10.
-COVID-19 treatment aims to meet the patients needs in different phases of the infection and
-throughout the spectrum of severity, in a line of care that ranges from monitoring mild cases in isolation at home, with instructions on management of symptoms and the identification of early warning
-signs, to admission in intensive care units (ICUs) and post-discharge rehabilitation. Mitigation of
-risks of infection to health professionals and other patients should guide the choice of the best strategies for organizing the health care system to meet these needs 11.
-To reduce transmission and limit mortality from COVID-19, government should create the conditions for individuals and families to maintain social distancing while preparing the health system to
-deal with the pandemic. In Brazil, the Unified National Health System (SUS) should prepare to provide care for the growing number of COVID-19 patients, maintain care for other acute and chronic
-illnesses, and ensure the safety of health professionals and patients during care 12.
-any medium, without restrictions, as long as the original work is correctly
-I. C. Leite
-Escola Nacional de Sade
-Pblica Sergio Arouca,
-Fundao Oswaldo Cruz.
-Rua Leopoldo Bulhes 1480,
-Rio de Janeiro, RJ 21041-210,
-Cad. Sade Pblica 2020; 36(6):e00104120
-Daumas RP et al.
-Recommendations for preparing the health system for COVID-19 care
-The health systems capacity to fully perform its roles in the context of the pandemic requires not only
-expanding the number of hospital and ICU beds, but also reorganizing the pathways along the health
-system, redefining the roles of different units and levels of care and new points of entry, especially
-remotely 11. All modalities of telehealth remote communications (remote health counseling, consulting, monitoring and bed management) play a central role from this moment on 13,14. A plan with protocols for all levels of care is crucial to link all these activities, including standards for health workers
-protection and precautionary measures to avoid the spread of SARS-CoV-2 in healthcare units 15.
-The WHO suggests creating 24-hour healthcare call centers, training attendants in the use of
-protocols that allow distinguishing between mild, moderate, and severe cases, as well as advising
-mild cases on home isolation measures. Serious cases should be transported to reference hospitals
-for COVID-19 in ambulances reserved exclusively for this purpose, with qualified and adequately
-protected personnel, according to the recommended infection prevention measures 11.
-When preparing the health system for COVID-19 care, we also need health facilities with low and
-medium-complexity beds in COVID-19 wards to hospitalize suspected cases at high risk for severe
-disease or those who cannot stay at home in self-isolation, such as those with comorbidities, those
-who live alone and those who are most affected by the disease, although not seriously ill. These services should be adequately equipped to conduct therapeutic interventions, monitor signs of clinical
-deterioration, and provide timely transfer to higher complexity beds when necessary. These units
-should also admit patients that are discharged from reference hospitals but who still require hospital
-care, thus helping free up high-complexity beds for critical patients 11,16.
-The description of COVID-19 care demands emphasizes that the direct role of primary healthcare
-(PHC) in moderate and severe cases is quite limited. Face-to-face care for suspected cases of COVID-19
-in PHC units should be avoided whenever possible (besides having little impact on the outcome of
-the disease), since it involves high risk of infection both to the healthcare team and to other patients.
-The role of PHC during the COVID-19 pandemic
-Although PHC has limited capacity to act on the case-fatality of serious cases, a strong and wellorganized PHC system with qualified personnel in adequate numbers can help decrease the infections incidence in the population in its covered area, with a direct impact on drecreasing morbidity
-and mortality. Through community work, PHC can act to reduce the infections spread, monitor
-mild cases in home isolation, support communities during social distancing, identify and deal with
-situations of individual or collective vulnerability, and especially guarantee access to healthcare and
-the necessary referrals during the epidemics most critical phases. PHC can thus play a central role in
-mitigating the pandemics effects, maintaining and extending its attributes such as access to the firstcontact access, long-term person-fosused care, comprehensive care, and coordination of care, and
-especially cultural competence and family and community orientation 17.
-By reaffirming its calling for community action, PHC can expand the local response capacity not
-only to reduce the infections spread, but also to attenuate the social and economic effects of social
-distancing measures. For example, through social medias and community radios, family health teams
-can advise the population on the modes of transmission and inform people about health care call
-centers. The work by community health agents can help identify the most vulnerable individuals and
-families, in situations of greater vulnerability, assist the distribution of food and other essential items,
-and mobilize resources within the community itself.
-In individual clinical care, using telehealth modalities, PHC professionals can adivide suspected
-cases on self-isolation and identification of warning signs; identify patients who cannot be cared for
-at home; monitor the clinical evolution of these suspected cases; conduct teleconsultations for more
-complex cases; and request referral to a hospital when signs of clinical deterioration are identified.
-All these measures help reduce demand and the risks of infection in emergency units and allow concentrating the latters resources on treatment of more serious cases.
-Cad. Sade Pblica 2020; 36(6):e00104120
-THE ROLE OF PRIMARY CARE FOR FIGHTING COVID-19
-In order to maintain access to healthcare for other conditions, the work by PHC during the pandemic should also focus on: (1) continuity of preventive activities such as vaccination; (2) follow-up of
-chronic patients and priority groups like pregnant women and infants; and (3) care for minor emergencies and acute exacerbations of chronic illnesses. The suspension of these activities for several
-weeks could result in increased morbidity and mortality from other causes, expanding the pandemics
-effects, as reported in situation in which the choice was made for a clinical care model centered only
-on hospital care 18.
-continuous-use medications or even clinical evaluation, which can often be performed by teleconsultation. Face-to-face care at the PHC unit would be reserved for patients with acute non-respiratory
-complaints and for those with acute complications of chronic diseases, in which the approach can be
-via PHC, with up to a few hours of treatment and clinical observation, avoiding the patients visit to
-hospital and emergency services, which will tend to be increasingly overloaded during the pandemic.
-The availability of personal protective equipment and updates on infection prevention and control
-measures according to the best available evidence, with periodic training, supports the safe maintenance of healthcare activities at the PHC unit and at home.
-In addition to telecare, home visits by physicians and nurses can ensure maintenance of care for
-patients with more complex conditions and higher risk, including those who need to change bandages
-and dressings. Home visits by community health agents, conducted in the peridomicile, obeying social
-distancing, allow follow-up of patients who do not have telephones and the delivery of medications
-and basic inputs to the population, thus avoiding patients unnecessary visits to the PHC unit.
-Even with all the effort to expand teleconsultations, and although call centers to handle suspected
-cases of COVID-19 are prioritized, a substantial portion of the population in the territory will continue to visit PHC services and hospital emergency departments. Patients should thus be screened
-at the first point of contact with any health service, and all precautions should be taken to control
-infection, according to the prevailing guidelines, which include care in open-air areas, limitation of
-physical contact, modifications to patient flows, separation of examination areas and waiting areas,
-distancing, physical barriers, and availability and rational use of personal protective equipament
-(PPE), according to the activity and type of contact performed 1. As the epidemic progresses, the risk
-of infection in health units increases, even with patients not reporting respiratory symptoms, since
-cases of asymptomatic infection and atypical presentations become more numerous. This justifies
-expanding the use of PPE and infection control measures to diverse situations and areas of care 19.
-The risks of COVID-19 transmission in health services and the high costs of implementing biosafety standards justify the widespread use of telecare tools and all the necessary financial support
-to implement them. Based on the strategies, it becomes possible for the restriction and regulation of
-physical access to PHC services not to represent total restriction of access, but to be replaced by safer
-and more cost-effective forms of care. To implement the necessary changes for full functioning of
-PHC during the pandemic, investments in structures such as tents for external care, vehicles to support home care, and cellphones and internet will be indispensable, as well as free access to internet
-for all users.
-The creation of dedicated COVID-19 hubs for handling suspected cases, conducting initial management, and facilitating referrals when necessary is a valid alternative where it is not feasible to
-adjust the PHC unit to conduct these activities safely 11. However, it is impossible to function properly without the effective exchange of information between these hubs and PHC units, essential for
-the latter to maintain surveillance and coordination of care in their respective coverage areas. Only
-strong PHC connected to the other points of care, with greater community action and capacity for
-coordination, will be capable of minimizing the pandemics harms and avoiding the breakdown of
-care for chronic and acute conditions.
-Cad. Sade Pblica 2020; 36(6):e00104120
-Daumas RP et al.
-Limits to action by PHC given the deficiencies in the network of care for COVID-19
-The full exercise of activities inherent to PHC that might otherwise reduce the pandemics magnitude
-and impact in populations is diminished, especially by the shortage of hospital beds and the lack of
-definition of patient flows, problems that already existed before COVID-19.
-For example, in the city of Rio de Janeiro, where the Mobile Emergency Medical Service (SAMU)
-does not conduct home care for urgent COVID-19 cases and the PHC units (USBs in Portuguese) are
-responsible for receiving patients with respiratory symptoms and requesting vacancies for hospital
-admission, COVID-19 cases, especially the more severe ones, accumulate in these units while waiting for hospital beds. A similar process occurs in the Emergency Care Units (UPAs in Portuguese),
-another portal of entry for COVID-19 beds and which are experiencing growing difficulty in referring their patients to specialized beds 20.
-In the same city of Rio de Janeiro, the lack of basic and intermediate beds for COVID-19 cases
-has meant that many patients referred to the emergency-care UPAs are returned to the PHC units,
-invariably in worse condition than before. The impossibility of hospitalizing patients without signs
-of respiratory failure but with high risk of clinical deterioration or with contraindication to home
-isolation 21 has delayed the implementation of adequate clinical support and raised major apprehension among health teams, who are acutely aware of the risk of patients arriving at the PHC unit in
-respiratory failure or of dying at home without medical care.
-The shortage of designated COVID-19 beds, alongside the flow of access to these beds via PHC
-and emergency units, as in the city of Rio de Janeiro, tends to seriously jeopardize the capacity of these
-health services to provide healthcare for patients with other diseases, while also increasing the risks
-of COVID-19 transmission. Transportation of severe patients from home directly to the reference
-hospital for COVID-19 treatment, as suggested by the WHO 11, should be considered a top priority,
-since it speeds up arrival to the site where the definitive therapy can be performed and reduces the
-points of the patients contact with other health units and transportation teams, highly vulnerable to
-SARS-CoV-2 infection.
-available resources, telehealth resources need to be connected to prehospital care (SAMU-COVID)
-and regulation of beds by the SUS. Protocols for triage and classification of cases as mild, moderate,
-and severe, with and without risk of complications, need to be implemented to support decisions on
-emergency telehealth and PHC. Complete and consistent communications among all components of
-the health system and with the population must be created urgently to guarantee their effectiveness
-and transparency 13.
-inefficient use of resources. The health systems capacity to save lives in this pandemic will depend
-not only on the number of ICU beds and ventilators, but also on the organization of the network of
-care to guarantee timely access to these beds, maintenance of care pathways for other diseases, and
-treatment of various types of urgent and emergency conditions. The specific solutions for this organization should be adapted to each context, respecting the general premises and local response capacity,
-with the understanding that Brazil is a continental-sized and heterogeneous country. In Brazils large
-cities, where the disease has spread more quickly, much can be done with the existing infrastructures,
-complemented by new resources and initiatives.
-The results of these efforts at reorganization will be limited if the deficiencies in the health care
-system are not resolved. These networks are weak and fragmented with persistently insufficient
-PHC in many places of Brazil to deal with an emergency like the current pandemic, which depends
-on effective services projected to the community. Despite the expansion of PHC in Brazil in recent
-years, the lack of mechanisms to guarantee its sustainability continues to threaten the continuity
-Cad. Sade Pblica 2020; 36(6):e00104120
-THE ROLE OF PRIMARY CARE FOR FIGHTING COVID-19
-of care throughout the country 22. The lack of coordination between levels of care and of systemic
-flows in the healthcare system, as identified previously 23, has become even more critical in the
-pandemic, revealing the importance of adopting strategies that allow effective coordination of care
-with PHC teams.
-The COVID-19 epidemic reached Brazil after Congress had unwisely imposed a cap on expenditures in health and education by passing Constitutional Amendment n. 95 24, which freezes or drastically
-curtails budget funds for health. At the same time, important structural policies for PHC came under
-serious assault. These featured the Brazils More Doctors Program, created to address the shortage of
-physicians in PHC and whose discontinuity exacerbated healthcare voids in highly vulnerable localities. Next, the new model for financing primary care 25 imposed by the current Federal administration
-places the systems universal coverage in serious jeopardy 22. Although new resources can be allocated
-for the SUS during the pandemic, it is impossible to ignore the negative impact of the chronic underfinancing of the SUS on the populations health, since the majority of the Brazilian population depend
-on this public system.
-system to deal with the crisis makes this an especially appropriate moment for reinforcing and adequately financing the SUS. In addition, the extremely serious current health emergency highlights
-the privileged position of primary care for guaranteeing access to healthcare and for acting on health
-determinants in the face of an emerging challenge. The prioritization of PHC, with the expansion
-of the Family Health Strategy and strengthening of all its attributes, emphasizing so-called derived
-attributes (cultural competence and family and community orientation) 17 are essential measures for
-containing the spread of COVID-19 in the population.
-Azevedo e Silva, R. Tasca, I. C. Leite, P. Brasil, D. B.
-Greco, V. Grabois, and G. W. S. Campos contributed
-break-a-pandemic (accessed on 18/Apr/2020).
-2. Verity R, Okell LC, Dorigatti I, Winskill P,
-Whittaker C, Imai N, et al. Estimates of the
-severity of coronavirus disease 2019: a model-based analysis. Lancet Infect Dis 2020;
-3. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y,
-et al. Early transmission dynamics in Wuhan,
-China, of novel coronavirus-infected pneumonia. N Engl J Med 2020; 382:1199-207.
-4. Dong E, Du H, Gardner L. An interactive webbased dashboard to track COVID-19 in real
-time. Lancet Infect Dis 2020; 20:533-4.
-stract=3561244 (accessed on 24/Apr/2020).
-6. Prem K, Liu Y, Russell TW, Kucharski AJ, Eggo RM, Davies N, et al. The effect of control
-strategies to reduce social mixing on outcomes
-of the COVID-19 epidemic in Wuhan, China:
-a modelling study. Lancet Public Health 2020;
-7. Wu Z, McGoogan JM. Characteristics of and
-important lessons from the coronavirus disease
-2019 (COVID-19) outbreak in China: summary
-of a report of 72314 cases from the Chinese
-Center for Disease Control and Prevention.
-Additional informations
-da Costa Leite (0000-0002-9136-8948); Patrcia
-Brasil (0000-0001-9555-7976); Dirceu B. Greco
-(0000-0002-4419-5634); Victor Grabois (00000003-3310-4212); Gasto Wagner de Sousa Campos (0000-0001-5195-0215).
-Cad. Sade Pblica 2020; 36(6):e00104120
-Daumas RP et al.
-8. Negri EM, Piloto B, Morinaga LK, Jardim CVP,
-Lamy SAE-D, Ferreira MA, et al. Heparin therapy improving hypoxia in COVID-19 patients
-9. Centers for Disease Control and Prevention. Interim clinical guidance for management of patients with confirmed coronavirus
-ance-management-patients.html (accessed on
-10. World Health Organization. Clinical care for
-severe acute respiratory infection: toolkit:
-COVID-19 adaptation. Geneva: World Health
-11. World Health Organization. Operational considerations for case management of COVID-19
-siderations-for-case-management-of-covid19-in-health-facility-and-community-interimguidance,-19-march-2020 (accessed on 11/
-12. Cho SY, Kang J-M, Ha YE, Park GE, Lee JY,
-Ko J-H, et al. MERS-CoV outbreak following a
-single patient exposure in an emergency room
-in South Korea: an epidemiological outbreak
-study. Lancet 2016; 388:994-1001.
-13. Centers for Disease Control and Prevention. Outpatient and ambulatory care settings:
-responding to community transmission of
-ambulatory-care-settings.html (accessed on
-14. Greenhalgh T, Koh GCH, Car J. Covid-19: avaliao remota em Ateno Primria  Sade.
-15. Associao Brasileira de Sade Coletiva. Entidades enviam carta ao ministro sobre o risco de
-disseminao da Covid-19 nas unidades bsicas
-covid_19/46432/ (accessed on 28/Apr/2020).
-16. Organizacin Panamericana de la Salud. Recomendaciones para la reorganizacin y ampliacin progresiva de los servicios de salud para la
-va-servicios-salud-para-respuesta (accessed on
-17. Starfield B. Ateno primria: equilbrio entre
-necessidades de sade, servios e tecnologia.
-18. Nacoti M, Ciocca A, Giupponi A, Brambillasca
-P, Lussana F, Pisano M, et al. At the epicenter of
-19. Public Health England. COVID-19 personal
-trol/covid-19-personal-protective-equipmentppe (acessado em 19/Abr/2020).
-20. Altino L. Com UPAs lotadas, pacientes com
-falta de oxignio aguardam horas e enfrentam
-21. Prefeitura Municipal do Rio de Janeiro. Resoluo SMS no 4345 de 30 de maro de 2020. Aprova e concede efeito normativo  Nota Tcnica
-Conjunta SUBREG e SUBHUE - COVID -19
-de 27 de maro de 2020. Dirio Oficial do Municpio do Rio de Janeiro 2020; 31 mar.
-22. Giovanella L, Franco CM, Almeida PF. Poltica
-Nacional de Ateno Bsica: para onde vamos?
-Cinc Sade Colet 2020; 25:1475-82.
-23. Viana ALdA, Bousquat A, Melo GA, Negri Filho AD, Medina MG. Regionalizao e Redes de
-Sade. Cinc Sade Colet 2018; 23:1791-8.
-24. Brasil. Emenda Constitucional no 95, de 15 de
-dezembro de 2016. Altera o Ato das Disposies Constitucionais Transitrias, para instituir
-o Novo Regime Fiscal, e d outras providncias.
-Dirio Oficial da Unio 2016; 15 dez.
-25. Ministrio da Sade. Portaria no 2.979, de 12 de
-novembro de 2019. Institui o Programa Previne
-Brasil, que estabelece novo modelo de financiamento de custeio da Ateno Primria  Sade no mbito do Sistema nico de Sade, por
-meio da alterao da Portaria de Consolidao
-no 6/GM/MS, de 28 de setembro de 2017. Dirio Oficial da Unio 2019; 13 nov.
-Submitted on 30/Apr/2020
-Final version resubmitted on 11/May/2020
-Approved on 15/May/2020
-Cad. Sade Pblica 2020; 36(6):e00104120
+ESPAO  TEMTICO:  COVID‐19   CONTRIBUIES DA SADE COLETIVA THEMATIC
+SECTION: COVID‐19  PUBLIC HEALTH CONTRIBUTIONS The role of prima‐
+ry care in the Brazilian healthcare system: limits and possibili‐
+ties O papel da ateno primria na rede de ateno
+ sade no Brasil: limites e  possibilidades  no  enfrentamento  da
+COVID‐19  Regina  Paiva  Daumas 1 Gulnar Azevedo e Silva 2 Renato
+Tasca 3 Iuri da Costa Leite 1 El papel de la atencin primaria  en
+el sistema de salud brasileo: lmites y posibilidades para combat‐
+ir COVID‐19 Patrcia Brasil 4 Dirceu B. Greco 5 Victor  Grabois  1
+Gasto  Wagner  de  Sousa  Campos 6 Escola Nacional de Sade Pblica
+Sergio Arouca, Fundao Oswaldo Cruz, Rio de  Janeiro,  Brasil.   2
+Instituto  de  Medicina  Social, Universidade do Estado do Rio de
+Janeiro, Rio de Janeiro, Brasil.  3  Organizao  Pan‐Americana  da
+Sade/  Organizao  Mundial  da Sade, Braslia, Brasil.  4 Instituto
+Nacional de Infectologia Evandro Chagas, Fundao Oswaldo Cruz, Rio
+de  Janeiro, 5 Faculdade de Medicina, Universidade Federal de Mi‐
+nas Gerais, Belo Horizonte, Brasil.  6 Faculdade de Cincias  Mdi‐
+cas,  Universidade  Estadual  de  Campinas, Campinas, Brasil.  On
+March 12, 2020, the World Health Organization (WHO) declared  the
+disease  caused  by the novel coronavirus (SARS‐CoV‐2) a pandemic
+1. The infection (COVID‐19) is more transmissible and has a high‐
+er  case‐fatality rate than influenza, estimated at some 14 times
+greater 2. The high infection rate, with each case infecting 2 to
+3  other individuals on average, leads to the epidemics expansion
+in geometric progression 3. In Brazil, where community  transmis‐
+sion  throughout  the country was declared on March 20, more than
+147,000 cases and 10,000 deaths from COVID‐19 had been  confirmed
+as  of  May 9, 2020 4. Isolation of cases and contacts and social
+distancing of the general population have been the  main  strate‐
+gies recommended to delay the expansion of COVID‐19 and allow the
+health systems adjustment to the rapidly  increasing  demand  for
+hospital  beds,  especially  in intensive care, avoiding the col‐
+lapse of hospital care 5,6.  The initial clinical presentation of
+COVID‐19 is flu‐like, with fever, cough, sore throat, and coryza.
+About 80% of patients recover without complications and are clas‐
+sified  as  mild  or  moderate cases (either without pneumonia or
+with mild viral pneumonia) 7. The other 20% evolve  with  dyspnea
+and  hypoxemia secondary to extensive viral pneumonia and require
+hospitalization for oxygen therapy and other interventions 8. One
+fourth  of these (some 5% of the total) evolve to critical condi‐
+tions due to respiratory failure, disseminated intravascular  co‐
+agulation,  circulatory shock, or multiple organ dysfunction, re‐
+quiring intensive care. Case‐fatality in the latter group is more
+than  40%  9,10.   COVID‐19  treatment  aims to meet the patients
+needs in different phases of the  infection  and  throughout  the
+spectrum of severity, in a line of care that ranges from monitor‐
+ing mild cases in isolation at home, with instructions on manage‐
+ment  of  symptoms and the identification of early warning signs,
+to admission in intensive care units  (ICUs)  and  post‐discharge
+rehabilitation.  Mitigation  of risks of infection to health pro‐
+fessionals and other patients should guide the choice of the best
+strategies  for  organizing  the health care system to meet these
+needs 11.   To  reduce  transmission  and  limit  mortality  from
+COVID‐19, government should create the conditions for individuals
+and families to maintain social distancing  while  preparing  the
+health  system  to deal with the pandemic. In Brazil, the Unified
+National Health System (SUS) should prepare to provide  care  for
+the  growing number of COVID‐19 patients, maintain care for other
+acute and chronic illnesses, and ensure the safety of health pro‐
+fessionals  and patients during care 12.  any medium, without re‐
+strictions, as long as the original work is correctly I. C. Leite
+Escola  Nacional  de  Sade  Pblica  Sergio Arouca, Fundao Oswaldo
+Cruz.  Rua Leopoldo Bulhes 1480, Rio de  Janeiro,  RJ  21041‐210,
+Cad.  Sade  Pblica 2020; 36(6):e00104120 Daumas RP et al.  Recom‐
+mendations for preparing the health system for COVID‐19 care  The
+health systems capacity to fully perform its roles in the context
+of the pandemic requires not only expanding the number of  hospi‐
+tal  and  ICU  beds, but also reorganizing the pathways along the
+health system, redefining the roles of different units and levels
+of  care  and  new  points  of entry, especially remotely 11. All
+modalities of telehealth  remote  communications  (remote  health
+counseling,  consulting,  monitoring  and  bed management) play a
+central role from this moment on 13,14. A plan with protocols for
+all  levels  of care is crucial to link all these activities, in‐
+cluding standards for health workers protection and precautionary
+measures  to  avoid  the spread of SARS‐CoV‐2 in healthcare units
+15.  The WHO suggests creating 24‐hour healthcare  call  centers,
+training  attendants  in  the use of protocols that allow distin‐
+guishing between mild, moderate, and severe cases, as well as ad‐
+vising  mild  cases  on  home  isolation  measures. Serious cases
+should be transported to reference hospitals for COVID‐19 in  am‐
+bulances  reserved  exclusively  for this purpose, with qualified
+and adequately protected personnel, according to the  recommended
+infection prevention measures 11.  When preparing the health sys‐
+tem for COVID‐19 care, we also need health  facilities  with  low
+and  medium‐complexity beds in COVID‐19 wards to hospitalize sus‐
+pected cases at high risk for severe disease or those who  cannot
+stay at home in self‐isolation, such as those with comorbidities,
+those who live alone and those who are most affected by the  dis‐
+ease,  although  not seriously ill. These services should be ade‐
+quately equipped to conduct  therapeutic  interventions,  monitor
+signs  of  clinical deterioration, and provide timely transfer to
+higher complexity beds when necessary. These  units  should  also
+admit  patients  that are discharged from reference hospitals but
+who still require hospital care, thus helping free  up  high‐com‐
+plexity  beds  for  critical  patients 11,16.  The description of
+COVID‐19 care demands emphasizes that the direct role of  primary
+healthcare  (PHC)  in moderate and severe cases is quite limited.
+Face‐to‐face care for suspected cases of COVID‐19  in  PHC  units
+should be avoided whenever possible (besides having little impact
+on the outcome of the disease), since it involves  high  risk  of
+infection both to the healthcare team and to other patients.  The
+role of PHC during the COVID‐19 pandemic Although PHC has limited
+capacity  to  act on the case‐fatality of serious cases, a strong
+and wellorganized PHC system with qualified personnel in adequate
+numbers can help decrease the infections incidence in the popula‐
+tion in its covered area, with a  direct  impact  on  drecreasing
+morbidity  and  mortality. Through community work, PHC can act to
+reduce the infections spread, monitor mild cases in  home  isola‐
+tion,  support communities during social distancing, identify and
+deal with situations of individual or  collective  vulnerability,
+and  especially  guarantee access to healthcare and the necessary
+referrals during the epidemics most critical phases. PHC can thus
+play  a  central  role in mitigating the pandemics effects, main‐
+taining and extending its attributes such as access to the first‐
+contact  access,  long‐term  person‐fosused  care,  comprehensive
+care, and coordination of care, and  especially  cultural  compe‐
+tence  and  family  and community orientation 17.  By reaffirming
+its calling for community action, PHC can expand  the  local  re‐
+sponse capacity not only to reduce the infections spread, but al‐
+so to attenuate the social and economic effects  of  social  dis‐
+tancing measures. For example, through social medias and communi‐
+ty radios, family health teams can advise the population  on  the
+modes  of  transmission  and inform people about health care call
+centers. The work by community health agents  can  help  identify
+the  most  vulnerable  individuals and families, in situations of
+greater vulnerability, assist the distribution of food and  other
+essential  items, and mobilize resources within the community it‐
+self.  In individual clinical care, using telehealth  modalities,
+PHC  professionals  can adivide suspected cases on self‐isolation
+and identification of warning signs; identify patients who cannot
+be  cared  for  at  home; monitor the clinical evolution of these
+suspected cases; conduct teleconsultations for more complex  cas‐
+es; and request referral to a hospital when signs of clinical de‐
+terioration are identified.  All these measures help  reduce  de‐
+mand and the risks of infection in emergency units and allow con‐
+centrating the latters resources on  treatment  of  more  serious
+cases.  Cad. Sade Pblica 2020; 36(6):e00104120 THE ROLE OF PRIMA‐
+RY CARE FOR FIGHTING COVID‐19 In  order  to  maintain  access  to
+healthcare  for other conditions, the work by PHC during the pan‐
+demic should also focus on: (1) continuity of preventive  activi‐
+ties  such  as vaccination; (2) follow‐up of chronic patients and
+priority groups like pregnant women and infants; and (3) care for
+minor  emergencies  and acute exacerbations of chronic illnesses.
+The suspension of these activities for several weeks could result
+in increased morbidity and mortality from other causes, expanding
+the pandemics effects, as reported  in  situation  in  which  the
+choice was made for a clinical care model centered only on hospi‐
+tal care 18.  continuous‐use medications or even clinical evalua‐
+tion,  which can often be performed by teleconsultation. Face‐to‐
+face care at the PHC unit would be  reserved  for  patients  with
+acute non‐respiratory complaints and for those with acute compli‐
+cations of chronic diseases, in which the  approach  can  be  via
+PHC,  with  up  to a few hours of treatment and clinical observa‐
+tion, avoiding the patients visit to hospital and emergency  ser‐
+vices,  which  will tend to be increasingly overloaded during the
+pandemic.  The availability of personal protective equipment  and
+updates on infection prevention and control measures according to
+the best available evidence, with periodic training, supports the
+safe  maintenance of healthcare activities at the PHC unit and at
+home.  In addition to telecare, home  visits  by  physicians  and
+nurses can ensure maintenance of care for patients with more com‐
+plex conditions and higher risk,  including  those  who  need  to
+change  bandages  and  dressings. Home visits by community health
+agents, conducted in the peridomicile, obeying social distancing,
+allow  follow‐up  of  patients who do not have telephones and the
+delivery of medications and basic inputs to the population,  thus
+avoiding  patients unnecessary visits to the PHC unit.  Even with
+all the effort to expand  teleconsultations,  and  although  call
+centers  to handle suspected cases of COVID‐19 are prioritized, a
+substantial portion of the population in the territory will  con‐
+tinue  to  visit PHC services and hospital emergency departments.
+Patients should thus be screened at the first  point  of  contact
+with  any  health service, and all precautions should be taken to
+control infection, according to the prevailing guidelines,  which
+include  care  in open‐air areas, limitation of physical contact,
+modifications to patient flows, separation of  examination  areas
+and waiting areas, distancing, physical barriers, and availabili‐
+ty and rational use of personal protective equipament (PPE),  ac‐
+cording  to  the activity and type of contact performed 1. As the
+epidemic progresses, the risk of infection in  health  units  in‐
+creases,  even  with patients not reporting respiratory symptoms,
+since cases of asymptomatic infection and atypical  presentations
+become more numerous. This justifies expanding the use of PPE and
+infection control measures to diverse  situations  and  areas  of
+care  19.   The risks of COVID‐19 transmission in health services
+and the high costs of implementing  biosafety  standards  justify
+the widespread use of telecare tools and all the necessary finan‐
+cial support to implement them. Based on the strategies,  it  be‐
+comes possible for the restriction and regulation of physical ac‐
+cess to PHC services not to represent total  restriction  of  ac‐
+cess,  but  to be replaced by safer and more cost‐effective forms
+of care. To implement the necessary changes for full  functioning
+of  PHC  during  the  pandemic, investments in structures such as
+tents for external care, vehicles to support home care, and cell‐
+phones and internet will be indispensable, as well as free access
+to internet for all users.  The creation  of  dedicated  COVID‐19
+hubs for handling suspected cases, conducting initial management,
+and facilitating referrals when necessary is a valid  alternative
+where  it is not feasible to adjust the PHC unit to conduct these
+activities safely 11. However, it is impossible to function prop‐
+erly  without the effective exchange of information between these
+hubs and PHC units, essential for the latter to maintain surveil‐
+lance  and  coordination of care in their respective coverage ar‐
+eas. Only strong PHC connected to the other points of care,  with
+greater  community  action and capacity for coordination, will be
+capable of minimizing the pandemics harms and avoiding the break‐
+down  of care for chronic and acute conditions.  Cad. Sade Pblica
+2020; 36(6):e00104120 Daumas RP et al.  Limits to action  by  PHC
+given  the  deficiencies  in the network of care for COVID‐19 The
+full exercise of activities inherent to PHC that might  otherwise
+reduce  the  pandemics magnitude and impact in populations is di‐
+minished, especially by the shortage of  hospital  beds  and  the
+lack of definition of patient flows, problems that already exist‐
+ed before COVID‐19.  For example, in the city of Rio de  Janeiro,
+where  the  Mobile Emergency Medical Service (SAMU) does not con‐
+duct home care for urgent COVID‐19 cases and the PHC units  (USBs
+in Portuguese) are responsible for receiving patients with respi‐
+ratory symptoms and requesting vacancies for hospital  admission,
+COVID‐19  cases,  especially  the more severe ones, accumulate in
+these units while waiting for hospital beds.  A  similar  process
+occurs  in the Emergency Care Units (UPAs in Portuguese), another
+portal of entry for COVID‐19  beds  and  which  are  experiencing
+growing  difficulty  in  referring  their patients to specialized
+beds 20.  In the same city of Rio de Janeiro, the lack  of  basic
+and  intermediate beds for COVID‐19 cases has meant that many pa‐
+tients referred to the emergency‐care UPAs are  returned  to  the
+PHC  units, invariably in worse condition than before. The impos‐
+sibility of hospitalizing patients without signs  of  respiratory
+failure but with high risk of clinical deterioration or with con‐
+traindication to home isolation 21 has delayed the implementation
+of  adequate clinical support and raised major apprehension among
+health teams, who are acutely aware of the risk of  patients  ar‐
+riving at the PHC unit in respiratory failure or of dying at home
+without medical care.  The shortage of designated COVID‐19  beds,
+alongside  the flow of access to these beds via PHC and emergency
+units, as in the city of Rio de Janeiro, tends to seriously jeop‐
+ardize  the  capacity of these health services to provide health‐
+care for patients with other diseases, while also increasing  the
+risks of COVID‐19 transmission. Transportation of severe patients
+from home directly to the reference hospital for COVID‐19  treat‐
+ment, as suggested by the WHO 11, should be considered a top pri‐
+ority, since it speeds up arrival to the site where  the  defini‐
+tive  therapy  can be performed and reduces the points of the pa‐
+tients contact with other health units and transportation  teams,
+highly  vulnerable to SARS‐CoV‐2 infection.  available resources,
+telehealth resources need to be  connected  to  prehospital  care
+(SAMU‐COVID)  and  regulation  of  beds by the SUS. Protocols for
+triage and classification of cases as mild, moderate, and severe,
+with and without risk of complications, need to be implemented to
+support decisions on emergency telehealth and PHC.  Complete  and
+consistent communications among all components of the health sys‐
+tem and with the population must be created urgently to guarantee
+their  effectiveness and transparency 13.  inefficient use of re‐
+sources. The health systems capacity to save lives in  this  pan‐
+demic will depend not only on the number of ICU beds and ventila‐
+tors, but also on the organization of  the  network  of  care  to
+guarantee  timely access to these beds, maintenance of care path‐
+ways for other diseases, and treatment of various types of urgent
+and emergency conditions. The specific solutions for this organi‐
+zation should be adapted to each context, respecting the  general
+premises and local response capacity, with the understanding that
+Brazil is  a  continental‐sized  and  heterogeneous  country.  In
+Brazils  large cities, where the disease has spread more quickly,
+much can be done with the existing infrastructures,  complemented
+by  new  resources and initiatives.  The results of these efforts
+at reorganization will be limited  if  the  deficiencies  in  the
+health  care system are not resolved. These networks are weak and
+fragmented with persistently insufficient PHC in many  places  of
+Brazil to deal with an emergency like the current pandemic, which
+depends on effective services projected to the community. Despite
+the expansion of PHC in Brazil in recent years, the lack of mech‐
+anisms to guarantee its sustainability continues to threaten  the
+continuity  Cad.  Sade  Pblica  2020; 36(6):e00104120 THE ROLE OF
+PRIMARY CARE FOR FIGHTING COVID‐19 of care throughout the country
+22.  The  lack of coordination between levels of care and of sys‐
+temic flows in the healthcare system,  as  identified  previously
+23,  has become even more critical in the pandemic, revealing the
+importance of adopting strategies that allow effective  coordina‐
+tion  of  care  with  PHC  teams.   The COVID‐19 epidemic reached
+Brazil after Congress had unwisely imposed a cap on  expenditures
+in health and education by passing Constitutional Amendment n. 95
+24, which  freezes  or  drastically  curtails  budget  funds  for
+health.  At  the same time, important structural policies for PHC
+came under serious assault. These featured the Brazils More  Doc‐
+tors  Program,  created  to address the shortage of physicians in
+PHC and whose discontinuity exacerbated healthcare voids in high‐
+ly  vulnerable localities. Next, the new model for financing pri‐
+mary care 25 imposed by the current Federal administration places
+the  systems  universal coverage in serious jeopardy 22. Although
+new resources can be allocated for the SUS during  the  pandemic,
+it is impossible to ignore the negative impact of the chronic un‐
+derfinancing of the SUS on the populations health, since the  ma‐
+jority  of the Brazilian population depend on this public system.
+system to deal with the crisis makes this an especially appropri‐
+ate  moment  for reinforcing and adequately financing the SUS. In
+addition, the extremely serious current  health  emergency  high‐
+lights  the  privileged position of primary care for guaranteeing
+access to healthcare and for acting on health determinants in the
+face  of  an  emerging challenge. The prioritization of PHC, with
+the expansion of the Family Health Strategy and strengthening  of
+all  its  attributes,  emphasizing  so‐called  derived attributes
+(cultural competence and family and community orientation) 17 are
+essential  measures  for containing the spread of COVID‐19 in the
+population.  Azevedo e Silva, R. Tasca, I. C. Leite,  P.  Brasil,
+D.  B.  Greco, V. Grabois, and G. W. S. Campos contributed break‐
+a‐pandemic (accessed on 18/Apr/2020).  2.  Verity  R,  Okell  LC,
+Dorigatti I, Winskill P, Whittaker C, Imai N, et al. Estimates of
+the severity of coronavirus disease 2019: a model‐based analysis.
+Lancet  Infect  Dis  2020; 3. Li Q, Guan X, Wu P, Wang X, Zhou L,
+Tong Y, et al. Early transmission dynamics in  Wuhan,  China,  of
+novel   coronavirus‐infected   pneumonia.  N  Engl  J  Med  2020;
+382:1199‐207.  4. Dong E, Du H, Gardner L.  An  interactive  web‐
+based dashboard to track COVID‐19 in real time. Lancet Infect Dis
+2020; 20:533‐4.  stract=3561244 (accessed  on  24/Apr/2020).   6.
+Prem  K,  Liu  Y, Russell TW, Kucharski AJ, Eggo RM, Davies N, et
+al. The effect of control strategies to reduce social  mixing  on
+outcomes  of  the  COVID‐19 epidemic in Wuhan, China: a modelling
+study. Lancet Public Health 2020; 7. Wu Z, McGoogan  JM.  Charac‐
+teristics  of  and important lessons from the coronavirus disease
+2019 (COVID‐19) outbreak in China: summary of a report  of  72314
+cases from the Chinese Center for Disease Control and Prevention.
+Additional informations da Costa Leite (0000‐0002‐9136‐8948); Pa‐
+trcia    Brasil    (0000‐0001‐9555‐7976);    Dirceu    B.   Greco
+(0000‐0002‐4419‐5634); Victor Grabois (00000003‐3310‐4212); Gasto
+Wagner  de  Sousa Campos (0000‐0001‐5195‐0215).  Cad. Sade Pblica
+2020; 36(6):e00104120 Daumas RP et al.  8. Negri  EM,  Piloto  B,
+Morinaga  LK, Jardim CVP, Lamy SAE‐D, Ferreira MA, et al. Heparin
+therapy improving hypoxia in COVID‐19  patients  9.  Centers  for
+Disease  Control  and  Prevention.  Interim clinical guidance for
+management of patients with  confirmed  coronavirus  ance‐manage‐
+ment‐patients.html  (accessed  on  10. World Health Organization.
+Clinical care for severe acute  respiratory  infection:  toolkit:
+COVID‐19  adaptation. Geneva: World Health 11. World Health Orga‐
+nization.  Operational  considerations  for  case  management  of
+COVID‐19 siderations‐for‐case‐management‐of‐covid19‐in‐health‐fa‐
+cility‐and‐community‐interimguidance,‐19‐march‐2020 (accessed  on
+11/  12. Cho SY, Kang J‐M, Ha YE, Park GE, Lee JY, Ko J‐H, et al.
+MERS‐CoV outbreak following a single patient exposure in an emer‐
+gency  room  in  South  Korea: an epidemiological outbreak study.
+Lancet 2016; 388:994‐1001.  13. Centers for Disease  Control  and
+Prevention.  Outpatient  and ambulatory care settings: responding
+to community transmission of  ambulatory‐care‐settings.html  (ac‐
+cessed on 14. Greenhalgh T, Koh GCH, Car J. Covid‐19: avaliao re‐
+mota em Ateno Primria  Sade.  15. Associao Brasileira de Sade Co‐
+letiva.  Entidades enviam carta ao ministro sobre o risco de dis‐
+seminao da Covid‐19 nas unidades bsicas covid_19/46432/ (accessed
+on  28/Apr/2020).   16. Organizacin Panamericana de la Salud. Re‐
+comendaciones para la reorganizacin y ampliacin progresiva de los
+servicios de salud para la va‐servicios‐salud‐para‐respuesta (ac‐
+cessed on 17. Starfield B. Ateno primria: equilbrio entre  neces‐
+sidades  de  sade, servios e tecnologia.  18. Nacoti M, Ciocca A,
+Giupponi A, Brambillasca P, Lussana F, Pisano M, et  al.  At  the
+epicenter   of  19.  Public  Health  England.  COVID‐19  personal
+trol/covid‐19‐personal‐protective‐equipmentppe    (acessado    em
+19/Abr/2020).  20. Altino L. Com UPAs lotadas, pacientes com fal‐
+ta de oxignio aguardam horas e enfrentam 21. Prefeitura Municipal
+do  Rio  de  Janeiro.  Resoluo SMS no 4345 de 30 de maro de 2020.
+Aprova e concede efeito normativo  Nota Tcnica Conjunta SUBREG  e
+SUBHUE ‐ COVID ‐19 de 27 de maro de 2020. Dirio Oficial do Munic‐
+pio do Rio de Janeiro 2020; 31 mar.  22. Giovanella L, Franco CM,
+Almeida  PF.  Poltica  Nacional  de Ateno Bsica: para onde vamos?
+Cinc Sade Colet 2020; 25:1475‐82.  23. Viana  ALdA,  Bousquat  A,
+Melo GA, Negri Filho AD, Medina MG. Regionalizao e Redes de Sade.
+Cinc Sade Colet 2018; 23:1791‐8.  24.  Brasil.  Emenda  Constitu‐
+cional  no  95,  de 15 de dezembro de 2016. Altera o Ato das Dis‐
+posies Constitucionais Transitrias, para instituir o Novo  Regime
+Fiscal,  e  d outras providncias.  Dirio Oficial da Unio 2016; 15
+dez.  25. Ministrio da Sade. Portaria no 2.979, de 12 de novembro
+de  2019. Institui o Programa Previne Brasil, que estabelece novo
+modelo de financiamento de custeio  da  Ateno  Primria   Sade  no
+mbito do Sistema nico de Sade, por meio da alterao da Portaria de
+Consolidao no 6/GM/MS, de 28 de setembro de 2017.  Dirio  Oficial
+da Unio 2019; 13 nov.  Submitted on 30/Apr/2020 Final version re‐
+submitted on 11/May/2020 Approved on 15/May/2020 Cad. Sade Pblica
+2020; 36(6):e00104120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

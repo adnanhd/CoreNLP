@@ -1,395 +1,528 @@
-Applied and Environmental Science
-Increasing Temperature and Relative Humidity Accelerates
-Inactivation of SARS-CoV-2 on Surfaces
-Security Science and Technology Directorate, Fort Detrick, Maryland, USA
-Censeo Consulting Group Inc., Washington, DC, USA
-ABSTRACT Coronavirus disease 2019 (COVID-19) was rst identied in China in late
-2019 and is caused by newly identied severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Previous studies had reported the stability of SARS-CoV-2 in cell
-culture media and deposited onto surfaces under a limited set of environmental
-conditions. Here, we broadly investigated the effects of relative humidity, temperature, and droplet size on the stability of SARS-CoV-2 in a simulated clinically relevant
-matrix dried on nonporous surfaces. The results show that SARS-CoV-2 decayed
-more rapidly when either humidity or temperature was increased but that droplet
-volume (1 to 50 l) and surface type (stainless steel, plastic, or nitrile glove) did not
-signicantly impact decay rate. At room temperature (24C), virus half-life ranged
-from 6.3 to 18.6 h depending on the relative humidity but was reduced to 1.0 to
-8.9 h when the temperature was increased to 35C. These ndings suggest that a
-potential for fomite transmission may persist for hours to days in indoor environments and have implications for assessment of the risk posed by surface contamination in indoor environments.
-IMPORTANCE Mitigating the transmission of SARS-CoV-2 in clinical settings and
-public spaces is critically important to reduce the number of COVID-19 cases while
-effective vaccines and therapeutics are under development. SARS-CoV-2 transmission
-is thought to primarily occur through direct person-to-person transfer of infectious
-respiratory droplets or through aerosol-generating medical procedures. However,
-contact with contaminated surfaces may also play a signicant role. In this context,
-understanding the factors contributing to SARS-CoV-2 persistence on surfaces will
-enable a more accurate estimation of the risk of contact transmission and inform
-mitigation strategies. To this end, we have developed a simple mathematical model
-that can be used to estimate virus decay on nonporous surfaces under a range of
-conditions and which may be utilized operationally to identify indoor environments
-in which the virus is most persistent.
-KEYWORDS COVID-19, SARS-CoV-2, contamination, coronavirus, fomite, half-life,
-humidity, temperature, transmission
-everal studies have reported the presence of severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2) genetic material on surfaces in coronavirus disease
-2019 (COVID-19) patient rooms and throughout hospital wards, indicating environmental contamination. Commonly contaminated items included ofce equipment (e.g.,
-mice, keyboards, printers) and metal furnishings (e.g., doorknobs, handrails) (15).
-However, those studies did not evaluate the presence of infectious virus on surfaces in
-Citation Biryukov J, Boydston JA, Dunning RA,
-Yeager JJ, Wood S, Reese AL, Ferris A, Miller D,
-Weaver W, Zeitouni NE, Phillips A, Freeburger
-D, Hooper I, Ratnesar-Shumate S, Yolitz J,
-Krause M, Williams G, Dawson DG, Herzog A,
-Dabisch P, Wahl V, Hevey MC, Altamura LA.
-2020. Increasing temperature and relative
-Copyright  2020 Biryukov et al. This is an
-Address correspondence to Louis A. Altamura,
-Jennifer Biryukov,a Jeremy A. Boydston,a Rebecca A. Dunning,a John J. Yeager,a Stewart Wood,a Amy L. Reese,a
-Allison Ferris,a David Miller,a Wade Weaver,a Nathalie E. Zeitouni,a Aaron Phillips,a Denise Freeburger,a Idris Hooper,a
-Shanna Ratnesar-Shumate,a Jason Yolitz,a Melissa Krause,a Gregory Williams,a David G. Dawson,a Artemas Herzog,b
-Paul Dabisch,a Victoria Wahl,a Michael C. Hevey,a Louis A. Altamuraa
-Biryukov et al.
-a clinical setting. Disposable exam gloves also represent a source of fomite transmission, and this risk is likely elevated when they are used by individuals unaccustomed to
-proper use, dofng, and disposal of personal protective equipment (PPE).
-Two previous laboratory studies demonstrated persistence of infectious SARS-CoV-2
-on numerous surfaces over extended periods; however, each of these studies evaluated
-only a single set of indoor environmental conditions and used virus suspended in cell
-culture media. Using 50 l of virus-containing droplets deposited onto nonporous
-(copper, stainless steel, and plastic) and porous (cardboard) surfaces at 21 to 23C and
-40% relative humidity (RH), van Doremalen et al. were able to show persistence of virus
-on plastic and stainless steel for up to 72 h, whereas the durations of persistence on
-cardboard (24 h) and copper (4 h) were much shorter (6). Chin et al. evaluated the
-stability of 5-l droplets of SARS-CoV-2 deposited on several porous (paper, wood,
-cloth, banknote, face mask) and nonporous (glass, stainless steel, and plastic) surfaces
-at 22C and 65% RH. Infectious virus was detected on nonporous surfaces for 2 to
-4 days, whereas stability on porous surfaces lasted 30 min to 2 days (7). Although these
-initial studies provided valuable insights into the potential for fomite transmission in a
-variety of contexts, it is difcult to fully interpret and generalize these results. First, the
-previous studies did not assess the efciency of virus recovery from surfaces, and so
-infectious decay cannot be separated from potential physical losses. Also, it is unclear
-what degree of precision was achieved in maintaining temperature and RH in the prior
-studies. More broadly, viral persistence under indoor conditions is complex and may be
-driven by many factors, including surface type, temperature, relative humidity (RH), and
-matrix (e.g., bodily uids) (812). Here, we report the rst analysis of the stability of
-SARS-CoV-2 in simulated saliva, to represent a relevant clinical matrix (13, 14), using
-droplets of various sizes deposited on surfaces and incubated under a range of
-controlled temperature and RH conditions, thereby providing a more complete understanding of factors that inuence SARS-CoV-2 environmental persistence.
-To determine the stability of SARS-CoV-2 on surfaces, virus was diluted 1:10 in
-simulated saliva and droplets were deposited onto stainless steel, acrylonitrile butadiene styrene (ABS) plastic, or nitrile rubber glove coupons. These surfaces were chosen
-to represent two common sources of fomite transmission (door knobs/handles and
-ofce electronics) and also to address the risks associated with contaminated PPE. Virus
-stability was measured using multiple RH and temperature combinations ranging from
-approximately 20 to 80% RH and 24 to 35C. Coupons were placed in an environmentally controlled testing plenum, which maintained RH and temperature set points with
-low variability over a total of 32 trials. During each trial, virus was recovered from three
-randomized coupons into culture medium at predetermined time points over a period
-of 48 h. The amount of infectious virus remaining was determined using a quantitative
-cell-based infection assay. Virus infectivity data collected over time were tted to
-statistical models to estimate the infectivity decay rate and half-life (t1/2) for each set of
-experimental conditions. A single coupon loaded with 0.1-m-diameter uorescently
-labeled polystyrene latex microspheres was also collected at each time point, resuspended in buffer, and then evaluated for uorescence. These controls showed that
-there was not a signicant decrease in uorescence over time (Fig. 1A), and the data
-suggest that there was no signicant physical loss but that the reduction in virus titers
-represented biological decay. In a subset of the trials (n  6), we also quantitated viral
-RNA using reverse transcription quantitative real-time PCR (RT-qPCR) as a second
-measure of physical losses but observed that its decay rate was dependent on both
-temperature and humidity conditions and thus concluded that viral RNA could not be
-used as a physical tracer (data not shown). Although this observation requires further
-experimental validation, these data suggest that the utility of viral RNA for contamination surveillance may be confounded by environmental conditions.
-Using virus deposited onto stainless steel coupons at ambient indoor temperature
-(24C) and maintained using various levels of RH (20, 40, 60, and 80%), we found that
-droplet size was not a signicant factor inuencing the half-life of SARS-CoV-2 (one-way
-analysis of variance [ANOVA], P  0.39; Bartletts test, P  0.28); as a result, we did not
-SARS-CoV-2 Surface Stability
-FIG 1 Impact of droplet size, surface type, temperature, and relative humidity on SARS-CoV-2 decay. SARS-CoV-2 or uorescently
-labeled polystyrene latex (PSL) beads were diluted 1:10 in simulated saliva, and then droplets (1, 5, or 50 l) were deposited onto
-stainless steel (SS), acrylonitrile butadiene styrene (ABS) plastic, or nitrile glove (NG) coupons and incubated within an environmentally
-controlled chamber. During each experiment, three virus test coupons and one PSL bead coupon were chosen randomly at various
-time points over a period of 48 h. Both virus and PSL beads were recovered by resuspension into culture medium and then either
-quantied by a cell-based infectivity assay on Vero cells to determine the median tissue culture infectious dose (TCID50/ml) or assayed
-for uorescence with a multimode plate reader. The mean half-life estimates (measured in hours) for SARS-CoV-2 in simulated saliva
-under each set of conditions were derived from tting a generalized linear model with a normal distribution and identity link function
-to infectivity data from each trial over time. (A) Representative data comparing SARS-CoV-2 infectivity (TCID50/ml) and PSL microsphere
-relative uorescence units (RFU) across a range of temperature and RH conditions. Data from six of the trials are shown where 5-l
-droplets were deposited onto stainless steel. Red horizontal dashed lines indicate the lower limit of detection for the TCID50 assay (0.2
-log10 TCID50/ml). Error bars indicate standard deviations for each time point. (B) Estimated virus half-life on different surfaces from all
-32 trials across a range of a droplet sizes, temperatures, and relative humidities. Individual half-life estimates are shown as points, and
-the mean half-life value for each surface is indicated by a horizontal line. (C and D) Comparisons of virus half-life estimates among
-various RH (20 to 80%) conditions (C) and temperature (24 and 35C) and RH (20 to 80%) conditions (D). Bars represent means of results
-from each group, and error bars indicate standard deviations. Statistical signicance (P  0.05) is indicated by brackets and asterisks
-(*). A one-way ANOVA and a Students t test were used to calculate the data presented in panels C and D, respectively.
-further evaluate droplet size on ABS plastic or nitrile rubber. Comparison of levels of
-virus decay determined from all 32 trials, which used a variety of volumes, temperatures
-(24, 28, and 35C), and RH conditions, showed there was not a signicant difference in
-half-life estimates between virus deposited on stainless steel, ABS plastic, or nitrile
-Biryukov et al.
-FIG 2 Temperature and humidity response model for SARS-CoV-2 decay. (A) Using empirically determined
-estimates of SARS-CoV-2 half-life data collected under various temperature and RH conditions (24 to 35C, 20 to
-60% RH), a regression analysis was performed to determine a predictive decay model. The equation shown, where
-xT is temperature (C) and xRH is percent RH, can be used to estimate half-life (t1/2) (in hours) for SARS-CoV-2 on
-stainless steel, ABS plastic, or nitrile glove rubber within the range of environmental conditions tested in this study.
-Actual half-life data are plotted against predicted half-life estimates. The mean of all data is indicated by a
-horizontal blue line. The regression t line is shown in red. The shaded region indicates the 95% condence interval
-of the regression t line. RMSE, root mean square error. (B) Contour plot representing the predicted estimates of
-SARS-CoV-2 half-life data in simulated saliva on stainless steel, ABS plastic, or nitrile rubber as a function of
-temperature and RH.
-glove coupons (one-way ANOVA, P  0.93; Bartletts test, P  0.26) (Fig. 1B). Based on
-these comparisons, data from all trials were combined for subsequent analyses.
-We estimated the mean half-life values in hours ( standard deviations [SD]) for RH
-of 20% (t1/2  15.33  2.75), 40% (t1/2  11.52  1.72), 60% (t1/2  9.15  3.39), and
-80% (t1/2  8.33  1.80) at 24C, with the results indicating that virus at ambient indoor
-conditions at 24C performed using the Tukey-Kramer method found the half-life at
-20% RH to be signicantly different from the half-life at both 60 and 80% RH
-(P  0.0038 and P  0.0023, respectively). We also evaluated the effect of temperature
-on the surface stability of SARS-CoV-2 (Fig. 1D). When temperature was increased from
-24 to 35C, the higher temperature resulted in faster virus decay and shorter half-life at
-20% RH (t1/2  7.33  1.33), 40% RH (t1/2  7.52  1.22), and 60% RH (t1/2 
-2.26  1.42). Pairwise comparisons of mean half-life results between 24 and 35C under
-each set of RH conditions (Students t test) demonstrated that these differences were
-signicant (P  0.0016, 0.0327, and 0.0170, respectively). At 40% RH, virus decay was
-also evaluated at 28C (t1/2  6.11  3.02) and found to be signicantly faster (Students
-t test; P  0.0163). The combination of 35C and 80% RH could not be evaluated due
-to test system limitations.
-Analysis of estimated half-life data from 28 trials by two-way ANOVA demonstrated
-that both temperature and RH were signicant factors inuencing virus decay
-(P  0.0001 for both). Furthermore, we were able to t a linear regression equation
-(adjusted R2  0.71) that models the half-life of SARS-CoV-2 in simulated saliva on
-nonporous surfaces (stainless steel, ABS plastic, and nitrile rubber) (Fig. 2A). This model
-can also be represented as a contour plot and used to estimate mean viral persistence
-at any combination of temperature and RH conditions within the design space (i.e., 20
-to 60% RH and 24 to 35C) (Fig. 2B). Trials performed at the 80% RH condition (n  4)
-were not included in the model, as we were able to evaluate 80% RH only at 24C.
-Although our data indicate that the virus half-life was inversely proportional to increasing temperature and RH, extrapolated estimates for conditions beyond those empirically tested may not be valid.
-These data provide the rst evidence that increasing temperature and/or RH decreased how long SARS-CoV-2 remained infectious on two hard, nonporous surfaces
-representative of commonly contaminated objects, suggesting that persistence and,
-SARS-CoV-2 Surface Stability
-ultimately, exposure risk may vary signicantly depending on environmental conditions. In addition, our data on virus stability on nitrile gloves serve as a reminder that
-PPE, when used inappropriately, has the potential to be a source of contamination.
-Although indoor temperatures can be effectively controlled by HVAC (heating,
-ventilation, and air conditioning) systems, in the absence of active humidity control,
-indoor RH is inuenced by outdoor weather conditions. The data shown here are most
-relevant for indoor conditions as they do not address the signicant effect of solar
-radiation upon virus decay (15). However, these data could be applied to virus decay on
-surfaces under outdoor conditions at night when environmental conditions are within
-the range tested in this study. These data can inform disinfection protocols for hospital
-rooms or mobile COVID-19 treatment facilities, as environments with relatively low
-humidity may warrant more frequent cleaning. Temporarily increasing temperature
-and/or RH in these spaces once they are vacated may also complement cleaning with
-chemical disinfectants to reduce the risk of potential fomite transmission.
-While we have demonstrated the impact of RH and temperature on the stability of
-SARS-CoV-2 on stainless steel and ABS plastic as representative nonporous surfaces, the
-applicability of these results to porous surfaces (e.g., clothing, masks, cardboard packaging) is currently unknown and bears further investigation. In addition, data regarding
-the amount of infectious virus present on surfaces in patient rooms are required in
-order to determine how long such surfaces would remain a source of virus transmission. Finally, the infectious dose of SARS-CoV-2 is currently unknown and thus it is
-difcult to evaluate the risk of infection following contact with a contaminated fomite.
-Despite these caveats, these data can be used to determine how long it would take to
-reduce levels of infectious virus on nonporous surfaces by a specic factor (e.g., 99.9%
-reduction after 10  t1/2) under a wider range of environmental conditions than was
-previously possible.
-Cell culture. Vero (ATCC CCL-81) cells were used to propagate SARS-CoV-2 and in
-virus microtitration assays. Cells were cultured at 37C and 5% CO2 in complete growth
-medium (gMEM) as previously described (16). A ViaFill reagent dispenser (Integra
-Biosciences Corp.) was utilized to seed cells into 96-well, clear-bottom plates for virus
-microtitration assays. Cells were seeded at a density appropriate to achieve approximately conuent monolayers on the day of infection.
-Virus stock production. SARS-CoV-2 isolate USA-WA1/2020 (NR-52281) was deposited by the Centers for Disease Control and Prevention and obtained through BEI
-Resources, NIAID, NIH. This virus (passage 4) was propagated twice in Vero cells to yield
-the working stocks (passage 6) that were used for this work. Briey, a volume of
-2.4  106 Vero cells suspended in 30 ml of gMEM was combined with SARS-CoV-2 at a
-multiplicity of infection equal to 0.01 and was then seeded into a T-150 ask and
-incubated at 37C and 5% CO2. After 24 h, a suspension of 1.2  106 uninfected Vero
-cells mixed in 0.5 ml gMEM was added to the infected cells. At 72 h postinfection, the
-asks were frozen at  80C for at least 1 h and then thawed at 37C, and a cell scraper
-was used to remove any remaining cells from the ask. The combination of the infected
-cell lysate and culture supernatant was claried by centrifugation at 1,000  g for 10
-min at 4C. Virus was aliquoted and stored at  80C prior to use in experiments. The
-viral stocks were sequenced and found to match the consensus sequence previously
-described (MN985325.1). All work with SARS-CoV-2 was performed under conditions of
-biosafety level 3 containment.
-Test matrix. SARS-CoV-2 was diluted 1:10 in simulated saliva to approximate the
-behavior of virus in a relevant bodily uid. Simulated saliva was prepared according to
-and found to be similar to that described in previous reports (17, 18). The pH was
-measured using a SevenExcellence pH meter (Mettler-Toledo). Surface tension was
-measured at settings of both 15 and 750 ms on a SITA pro line t15 bubble pressure
-Biryukov et al.
-TABLE 1 Composition of simulated saliva
-MgCl2  6 H2O
-CaCl2  H2O
-Distilled water
-To volume
-porcine gastric mucin type III (Millipore Sigma).
-tensiometer (SITA Process Solutions). Viscosity was measured using a SV-1A tuning fork
-vibro viscometer (A&D Company, Ltd.). Percentages of solids were analyzed using a
-MA35 infrared moisture analyzer (Sartorius). To quantify protein content, a Pierce
-bicinchoninic acid (BCA) protein assay kit (Thermo Fisher Scientic; catalog no. 23225)
-was used with an albumin standard, and tests were read on a SpectraMax M5 plate
-reader (Molecular Devices). Simulated saliva was stored at 4C for up to 2 weeks prior
-to use in experiments.
-Surface decay test system. To determine the biological decay rate (i.e., loss of
-infectivity) of SARS-CoV-2 on stainless steel or plastic, virus-laden wet droplets were
-deposited onto coupons, which were then incubated under various RH and temperature conditions, followed by recovery of virus from the coupons for microtitration
-infectivity assays. For each test performed on either grade 304 stainless steel (Diamond
-Perforated Metals) or ABS plastic, sterilized 19-mm-diameter circular coupons were
-loaded with 1, 5, or 50 l of SARS-CoV-2 diluted 1:10 in simulated saliva. For each test
-performed on nitrile gloves, a 0.25-in. square cut from nitrile gloves was placed on a
-stainless steel coupon and loaded with 5 l of SARS-CoV-2 diluted 1:10 in simulated
-saliva. The coupons were immediately placed into a custom 20-port temperature- and
-relative humidity-controlled plenum supplied with constant airow at 5 liters/min.
-Humidity control was performed by mixing streams of HEPA-ltered dry and humidied
-air with mass ow controllers (Alicat Scientic). Humid air was generated by circulating
-ultrapure water through Naon gas humidication bundles (Perma Pure). For temperatures in the range of 24C, the plenum was equilibrated to room temperature. For
-temperatures outside this range, the plenum temperature was controlled by circulating
-a sealed loop of chilled or heated water around the plenum. Temperature and RH were
-monitored continuously via temperature/RH probes inserted directly into the plenum
-(Vaisala), and data were collected with either LabVIEW (National Instruments) or Vaisala
-Insight PC software. During the experiments, temperature uctuated 2C and RH (20,
-40, 60, or 80%) was controlled at 10%. In each experiment, the initial virus titer was
-determined by immediately placing virus-laden coupons into 4 ml gMEM, vortex mixing
-for 30 s at 2,400 rpm, and then quantifying infectivity via microtitration assay as
-described below. To control for physical efciency and sample extraction, 0.1-mdiameter green uorescent polystyrene latex microspheres (Thermo Fisher Scientic;
-TABLE 2 Characterization of simulated saliva
-Protein concn
-Surface tension (15 ms)
-Surface tension (750 ms)
-SARS-CoV-2 Surface Stability
-catalog no. G100B) diluted 1:1 in gMEM were spotted onto coupons (1, 5, or 50 l),
-incubated in the test plenum with the virus-laden coupons, and recovered as described
-for the virus, and uorescence (expressed in relative uorescence units [RFU]) was
-measured on a GloMax luminometer (Promega). Viral RNA was quantied (as described
-below) in a subset of the samples. All coupons were processed identically at 0.75-, 3-,
-9-, 24-, and 48-h time points.
-Virus microtitration assay. Virus containing samples were serially diluted (101
-through 104) in 96-well, clear-bottom plates containing conuent monolayers of Vero
-cells. For each dilution, a total of 10 replicate wells were infected. The infected plates
-were incubated at 37C and 5% CO2 for 4 days, and then individual wells were visually
-inspected using a Nikon TS100 microscope for the presence of virus-induced cytopathic
-effects (CPE) at each dilution compared to a negative (medium only) control. The
-median 50% tissue culture infectious dose (TCID50) was estimated for each of the
-samples using the Spearman-Karber method (19, 20).
-Viral nucleic acid quantication. SARS-CoV-2 RNA was quantied by a reverse
-transcription quantitative real-time PCR (RT-qPCR) assay using an Applied Biosystems
-7500 Fast real-time PCR instrument and SuperScript III one-step RT-PCR MasterMix with
-Platinum Taq DNA polymerase. The target of the PCR assay is a conserved region of the
-viral RNA-dependent RNA polymerase (RdRp) gene. Briey, viral RNA from test samples
-was isolated and puried using the Qiagen Viral RNA Mini Kit centrifugation protocol
-per the manufacturers instructions. The PCR master mix was composed of sterile,
-molecular biology-grade water, 1 SuperScript reaction mix, 1 SuperScript reverse
-transcriptase, 0.2 M forward and reverse primers, and 0.1 M 6-carboxyuorescein
-(FAM)-labeled uorescent probe. The primers and probe were based on primer and
-replace the redundant bases with consensus bases. Reaction plates were set up by
-combining 5 l of RNA and 15 l of PCR master mix per well. Each plate also had a
-7-point standard curve based on a synthetic DNA positive control representing the
-assays target amplicon (gBlocks; Integrated DNA Technologies). Cycling conditions
-were run as follows: hold for 50C for 30 min, 95C for 10 min, and then 40 cycles of 95C
-for 15 s and 60C for 1 min. Quantication was determined by the number of cycles
-required to cross a threshold of 0.02 (values reported as threshold cycles [CT]). Data
-representing numbers of viral RNA copies present in test samples per milliliter were
-interpolated from the standard curves.
-Design of experiments. Trials performed on both stainless steel and ABS plastic
-encompassed a complete design space that included 5-l droplets incubated at 24C
-(20, 40, 60, and 80% RH), 28C (40% RH), and 35C (20, 40, and 60% RH). On stainless
-steel, additional trials were performed using 1-l and 50-l droplets at 24C (20, 40, 60,
-and 80% RH). For analyses using nitrile glove rubber, a reduced design space was
-utilized that permitted comparison between surface types, and trials were performed at
-24C (20 and 60% RH) and 35C (20 and 60% RH).
-Statistical analysis. ANOVA was used to compare the effects of droplet size and
-surface on the decay half-life. Bartletts test was used to show that there was no
-statistical difference in half-life variance across the droplet size or surface type data.
-Analysis of the data indicated that virus decay was biphasic and was related to the
-drying time of virus-containing droplets. Thus, each data set was divided into a wet
-phase and a dry phase. For 20, 40, and 60% RH, the wet phase was dened from time
-point 0 to 0.75 h and the dry phase was from time point 0.75 h to 48 h. For 80% RH,
-the wet phase was dened from time point 0 to 3 h and the dry phase was from time
-point 3 h to 48 h. These estimates were based on observations of droplet drying during
-experiments as well as on RH data collected from the surface test decay system (data
-not shown).
-A logarithm (base 10) transformation was applied to the TCID50 data, and a linear
-model was tted using MATLABs FITGLM with an identify link function and a normal
-Biryukov et al.
-distribution. Points that were below the assays limit of detection (0.2 log10 TCID50/ml)
-were removed from the analysis. The half-life (t1/2) was also determined as follows:
-Regression analysis was applied to determine the dependence of the virus half-life
-on temperature and relative humidity. The following model was initially assumed
-where xT represents temperature in degrees Celsius, xRH represents percent relative
-humidity, and the  terms represent coefcients:
-t12xT, xRH  0  1xT  2xRH  3xTxRH  4xT2  5xRH
-Stepwise regression (MATLAB STEPWISELM.M) was then used to identify and remove
-predictors that were insignicant using a backward elimination approach. The stepwise
-procedure starts with the full model and then measures the contribution of each predictor
-to the residual sum of squared errors (SSE) using an F-test on the ratio of the SSE with and
-without that predictor; the most statistically insignicant predictor (if there is one) is then
-removed, and the process is repeated until no further predictors can be removed without
-a statistically signicant loss in the SSE. After determining the model, an F-test was
-performed to conrm that the model provided a better t than an intercept-only model.
-The tted residuals were then analyzed to verify the absence of any apparent structure, and
-the Shapiro-Wilke test was used to verify residual normality. The nal model for the decay
-of SARS-CoV-2 on stainless steel, ABS plastic, and nitrile rubber as a function of temperature
-in degrees Celsius and percent relative humidity is as follows:
-t12xT, xRH  32.426272  0.622108xT  0.153707xRH
-It should be noted that this model is valid for the range of conditions tested;
-extrapolation outside the range of temperature and relative humidity values tested is
-not advised and should be done with caution.
-Data visualization. GraphPad Prism version 8.4 was used to generate graphs. JMP
-Genomics version 9.1 was used to prepare a contour plot of half-life versus temperature
-and RH.
-We recognize all members of the National Biological Threat Characterization Center
-and the many NBACC staff members who assisted in the SARS-CoV-2 work or supported
-laboratory operations during this time. Staff members of the National Bioforensic
-Analysis Center were instrumental in providing early support in virus propagation and
-also in sequencing virus stocks. Finally, we also thank the members of the Department
-of Homeland Security (DHS) Science and Technology (S&T) Probabilistic Analysis of
-National Threats Hazards and Risks (PANTHR) team (Matthew Moe, Lloyd Hough, Justin
-Taylor, Elizabeth Lapatovich, and Kelly Johnston).
-This work was funded under agreement no. HSHQDC-15-C-00064 awarded to Battelle
-operation of the NBACC, a federally funded research and development center.
-The views and conclusions contained in this document are ours and should not be
-interpreted as necessarily representing the ofcial policies, either expressed or implied,
-services mentioned in this presentation. In no event shall the DHS, BNBI, or NBACC have
-any responsibility or liability for any use of, misuse of, inability to use, or reliance upon
-the information presented here.
-1. Chia PY, Coleman KK, Tan YK, Ong SWX, Gum M, Lau SK, Lim XF, Lim AS,
-Sutjipto S, Lee PH, Son TT, Young BE, Milton DK, Gray GC, Schuster S,
-Barkham T, De PP, Vasoo S, Chan M, Ang BSP, Tan BH, Leo YS, Ng OT,
-Wong MSY, Marimuthu K, Singapore Novel Coronavirus Outbreak Research Team. 2020. Detection of air and surface contamination by
-SARS-CoV-2 in hospital rooms of infected patients. Nat Commun 11:
-2. Guo Z-D, Wang Z-Y, Zhang S-F, Li X, Li L, Li C, Cui Y, Fu R-B, Dong Y-Z,
-Chi X-Y, Zhang M-Y, Liu K, Cao C, Liu B, Zhang K, Gao Y-W, Lu B, Chen W.
-2020. Aerosol and surface distribution of severe acute respiratory synmsphere.asm.org 8
-SARS-CoV-2 Surface Stability
-13. To KK, Tsang OT, Leung WS, Tam AR, Wu TC, Lung DC, Yip CC, Cai JP,
-Chan JM, Chik TS, Lau DP, Choi CY, Chen LL, Chan WM, Chan KH, Ip JD,
-Ng AC, Poon RW, Luo CT, Cheng VC, Chan JF, Hung IF, Chen Z, Chen H,
-Yuen KY. 2020. Temporal proles of viral load in posterior oropharyngeal
-saliva samples and serum antibody responses during infection by SARSCoV-2: an observational cohort study. Lancet Infect Dis 20:565574.
-14. Chau NVV, Thanh Lam V, Thanh Dung N, Yen LM, Minh NNQ, Hung LM,
-Ngoc NM, Dung NT, Man DNH, Nguyet LA, Nhat LTH, Nhu LNT, Ny NTH,
-Hong NTT, Kestelyn E, Dung NTP, Xuan TC, Hien TT, Thanh Phong N, Tu
-TNH, Geskus RB, Thanh TT, Thanh Truong N, Binh NT, Thuong TC,
-Thwaites G, Tan LV, OUCRU COVID-19 research group. 2020. The natural
-15. Ratnesar-Shumate S, Williams G, Green B, Krause M, Holland B, Wood S,
-Bohannon J, Boydston J, Freeburger D, Hooper I, Beck K, Yeager J,
-Altamura LA, Biryukov J, Yolitz J, Schuit M, Wahl V, Hevey M, Dabisch P.
-2020. Simulated sunlight rapidly inactivates SARS-CoV-2 on surfaces. J
-16. Schuit M, Gardner S, Wood S, Bower K, Williams G, Freeburger D, Dabisch
-P. 2020. The inuence of simulated sunlight on the inactivation of
-17. Woo MH, Hsu YM, Wu CY, Heimbuch B, Wander J. 2010. Method for
-contamination of ltering facepiece respirators by deposition of MS2
-18. Zuo Z, Kuehn TH, Bekele AZ, Mor SK, Verma H, Goyal SM, Raynor PC, Pui
-19. Karber G. 1931. Beitrag zur kollektiven Behandlung pharmakologischer
-20. Spearman C. 1908. The method of right and wrong cases (constant
-21. Corman V, Bleicker T, Brunink S, Drosten C, Landt O, Koopmans M, Peiris
-?sfvrsna9ef618c_2. Accessed 8 May 2020.
-drome coronavirus 2 in hospital wards, Wuhan, China, 2020. Emerg
-Ong SWX, Tan YK, Chia PY, Lee TH, Ng OT, Wong MSY, Marimuthu K. 2020.
-Air, surface environmental, and personal protective equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from
-Wu S, Wang Y, Jin X, Tian J, Liu J, Mao Y. 2020. Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease
-Ye G, Lin H, Chen L, Wang S, Zeng Z, Wang W, Zhang S, Rebmann T, Li
-Y, Pan Z, Yang Z, Wang Y, Wang F, Min Qian Z, Wang X. 2020. Environmental contamination of SARS-CoV-2 in healthcare premises. J Infect
-van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A,
-Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI, LloydSmith JO, de Wit E, Munster VJ. 2020. Aerosol and surface stability of
-SARS-CoV-2 as compared with SARS-CoV-1. N Engl J Med 382:
-Chin AWH, Chu JTS, Perera MRA, Hui KPY, Yen H-L, Chan MCW, Peiris M,
-Casanova LM, Jeon S, Rutala WA, Weber DJ, Sobsey MD. 2010. Effects of
-van Doremalen N, Bushmaker T, Munster VJ. 2013. Stability of Middle
-Kampf G, Todt D, Pfaender S, Steinmann E. 2020. Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents.
-Chan KH, Peiris JS, Lam SY, Poon LL, Yuen KY, Seto WH. 2011. The effects of
-temperature and relative humidity on the viability of the SARS coronavirus.
-Schuit M, Miller DM, Reddick-Elick MS, Wlazlowski CB, Filone CM, Herzog
-A, Colf LA, Wahl-Jensen V, Hevey M, Noah JW. 2016. Differences in the
-comparative stability of Ebola virus Makona-C05 and Yambuku-Mayinga
+Applied and Environmental Science Increasing Temperature and Rel‐
+ative Humidity Accelerates Inactivation of SARS‐CoV‐2 on Surfaces
+Security  Science and Technology Directorate, Fort Detrick, Mary‐
+land, USA Censeo Consulting Group Inc., Washington, DC,  USA  AB‐
+STRACT  Coronavirus  disease  2019 (COVID‐19) was rst identied in
+China in late 2019 and is caused by newly identied  severe  acute
+respiratory syndrome coronavirus 2 (SARS‐CoV‐2). Previous studies
+had reported the stability of SARS‐CoV‐2 in  cell  culture  media
+and  deposited onto surfaces under a limited set of environmental
+conditions. Here, we broadly investigated the effects of relative
+humidity, temperature, and droplet size on the stability of SARS‐
+CoV‐2 in a simulated clinically relevant  matrix  dried  on  non‐
+porous  surfaces.  The  results show that SARS‐CoV‐2 decayed more
+rapidly when either humidity or  temperature  was  increased  but
+that  droplet  volume  (1  to  50  l) and surface type (stainless
+steel, plastic, or nitrile glove) did not signicantly impact  de‐
+cay  rate. At room temperature (24C), virus half‐life ranged from
+6.3 to 18.6 h depending on the relative humidity but was  reduced
+to  1.0 to 8.9 h when the temperature was increased to 35C. These
+ndings suggest that a potential for fomite transmission may  per‐
+sist  for  hours to days in indoor environments and have implica‐
+tions for assessment of the risk posed by  surface  contamination
+in  indoor  environments.  IMPORTANCE Mitigating the transmission
+of SARS‐CoV‐2 in clinical settings and public spaces is critical‐
+ly  important to reduce the number of COVID‐19 cases while effec‐
+tive vaccines and therapeutics are under development.  SARS‐CoV‐2
+transmission is thought to primarily occur through direct person‐
+to‐person transfer of infectious respiratory droplets or  through
+aerosol‐generating medical procedures. However, contact with con‐
+taminated surfaces may also play a signicant role. In  this  con‐
+text,  understanding  the factors contributing to SARS‐CoV‐2 per‐
+sistence on surfaces will enable a more  accurate  estimation  of
+the  risk  of  contact transmission and inform mitigation strate‐
+gies. To this end, we have developed a simple mathematical  model
+that  can  be  used to estimate virus decay on nonporous surfaces
+under a range of conditions and  which  may  be  utilized  opera‐
+tionally  to  identify  indoor environments in which the virus is
+most persistent.  KEYWORDS COVID‐19,  SARS‐CoV‐2,  contamination,
+coronavirus,  fomite, half‐life, humidity, temperature, transmis‐
+sion everal studies have reported the presence  of  severe  acute
+respiratory  syndrome coronavirus 2 (SARS‐CoV‐2) genetic material
+on surfaces in coronavirus disease 2019 (COVID‐19) patient  rooms
+and  throughout hospital wards, indicating environmental contami‐
+nation.  Commonly  contaminated  items  included  ofce  equipment
+(e.g.,  mice,  keyboards,  printers) and metal furnishings (e.g.,
+doorknobs, handrails) (15).  However, those studies did not eval‐
+uate  the  presence  of  infectious virus on surfaces in Citation
+Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Reese AL,
+Ferris A, Miller D, Weaver W, Zeitouni NE, Phillips A, Freeburger
+D, Hooper I, Ratnesar‐Shumate S, Yolitz J, Krause M, Williams  G,
+Dawson  DG,  Herzog  A, Dabisch P, Wahl V, Hevey MC, Altamura LA.
+2020.  Increasing  temperature  and  relative   Copyright    2020
+Biryukov et al. This is an Address correspondence to Louis A. Al‐
+tamura, Jennifer Biryukov,a Jeremy A. Boydston,a Rebecca A.  Dun‐
+ning,a  John  J.  Yeager,a  Stewart Wood,a Amy L. Reese,a Allison
+Ferris,a David Miller,a  Wade  Weaver,a  Nathalie  E.  Zeitouni,a
+Aaron Phillips,a Denise Freeburger,a Idris Hooper,a Shanna Ratne‐
+sar‐Shumate,a Jason Yolitz,a Melissa Krause,a Gregory  Williams,a
+David G. Dawson,a Artemas Herzog,b Paul Dabisch,a Victoria Wahl,a
+Michael C. Hevey,a Louis A. Altamuraa Biryukov et al.  a clinical
+setting. Disposable exam gloves also represent a source of fomite
+transmission, and this risk is likely elevated when they are used
+by individuals unaccustomed to proper use, dofng, and disposal of
+personal protective equipment  (PPE).   Two  previous  laboratory
+studies  demonstrated persistence of infectious SARS‐CoV‐2 on nu‐
+merous surfaces over extended periods;  however,  each  of  these
+studies  evaluated only a single set of indoor environmental con‐
+ditions and used virus suspended in cell culture media. Using  50
+l  of virus‐containing droplets deposited onto nonporous (copper,
+stainless steel, and plastic) and porous (cardboard) surfaces  at
+21  to  23C  and 40% relative humidity (RH), van Doremalen et al.
+were able to show persistence of virus on plastic  and  stainless
+steel  for  up  to  72 h, whereas the durations of persistence on
+cardboard (24 h) and copper (4 h) were much shorter (6). Chin  et
+al.  evaluated  the  stability  of 5‐l droplets of SARS‐CoV‐2 de‐
+posited on several porous (paper,  wood,  cloth,  banknote,  face
+mask)  and  nonporous  (glass, stainless steel, and plastic) sur‐
+faces at 22C and 65% RH. Infectious virus was  detected  on  non‐
+porous surfaces for 2 to 4 days, whereas stability on porous sur‐
+faces lasted 30 min to 2 days (7). Although these initial studies
+provided  valuable  insights into the potential for fomite trans‐
+mission in a variety of contexts, it is difcult to  fully  inter‐
+pret  and  generalize  these results. First, the previous studies
+did not assess the efciency of virus recovery from surfaces,  and
+so  infectious  decay cannot be separated from potential physical
+losses. Also, it is unclear what degree of precision was achieved
+in  maintaining  temperature  and  RH  in the prior studies. More
+broadly, viral persistence under indoor conditions is complex and
+may  be  driven by many factors, including surface type, tempera‐
+ture, relative humidity (RH),  and  matrix  (e.g.,  bodily  uids)
+(812). Here, we report the rst analysis of the stability of SARS‐
+CoV‐2 in simulated saliva, to represent a relevant  clinical  ma‐
+trix  (13, 14), using droplets of various sizes deposited on sur‐
+faces and incubated under a range of controlled  temperature  and
+RH conditions, thereby providing a more complete understanding of
+factors that inuence SARS‐CoV‐2  environmental  persistence.   To
+determine  the stability of SARS‐CoV‐2 on surfaces, virus was di‐
+luted 1:10 in simulated saliva and droplets were  deposited  onto
+stainless  steel,  acrylonitrile butadiene styrene (ABS) plastic,
+or nitrile rubber glove coupons. These surfaces  were  chosen  to
+represent   two  common  sources  of  fomite  transmission  (door
+knobs/handles and ofce electronics) and also to address the risks
+associated  with  contaminated  PPE. Virus stability was measured
+using multiple RH and temperature combinations ranging  from  ap‐
+proximately 20 to 80% RH and 24 to 35C. Coupons were placed in an
+environmentally controlled testing plenum,  which  maintained  RH
+and  temperature  set points with low variability over a total of
+32 trials. During each trial, virus was recovered from three ran‐
+domized  coupons into culture medium at predetermined time points
+over a period of 48 h. The amount of infectious  virus  remaining
+was  determined  using a quantitative cell‐based infection assay.
+Virus infectivity data collected over time were tted to statisti‐
+cal  models  to estimate the infectivity decay rate and half‐life
+(t1/2) for each set of experimental conditions. A  single  coupon
+loaded  with 0.1‐m‐diameter uorescently labeled polystyrene latex
+microspheres was also collected at each time  point,  resuspended
+in  buffer,  and  then  evaluated  for uorescence. These controls
+showed that there was not a signicant decrease in uorescence over
+time  (Fig. 1A), and the data suggest that there was no signicant
+physical loss but that the reduction in virus titers  represented
+biological decay. In a subset of the trials (n  6), we also quan‐
+titated viral RNA using reverse transcription quantitative  real‐
+time PCR (RT‐qPCR) as a second measure of physical losses but ob‐
+served that its decay rate was dependent on both temperature  and
+humidity  conditions  and thus concluded that viral RNA could not
+be used as a physical tracer (data not shown). Although this  ob‐
+servation  requires  further  experimental validation, these data
+suggest that the utility of viral RNA for contamination  surveil‐
+lance may be confounded by environmental conditions.  Using virus
+deposited onto stainless steel coupons at ambient indoor tempera‐
+ture (24C) and maintained using various levels of RH (20, 40, 60,
+and 80%), we found that droplet size was not a  signicant  factor
+inuencing  the half‐life of SARS‐CoV‐2 (one‐way analysis of vari‐
+ance [ANOVA], P  0.39; Bartletts test, P  0.28); as a result,  we
+did  not  SARS‐CoV‐2  Surface  Stability  FIG 1 Impact of droplet
+size, surface type, temperature, and relative humidity  on  SARS‐
+CoV‐2  decay. SARS‐CoV‐2 or uorescently labeled polystyrene latex
+(PSL) beads were diluted  1:10  in  simulated  saliva,  and  then
+droplets  (1,  5,  or  50  l) were deposited onto stainless steel
+(SS), acrylonitrile butadiene styrene (ABS) plastic,  or  nitrile
+glove  (NG)  coupons and incubated within an environmentally con‐
+trolled chamber. During each experiment, three virus test coupons
+and  one  PSL  bead  coupon  were chosen randomly at various time
+points over a period of 48 h. Both virus and PSL beads  were  re‐
+covered  by  resuspension  into  culture  medium  and then either
+quantied by a cell‐based infectivity assay on Vero cells  to  de‐
+termine  the median tissue culture infectious dose (TCID50/ml) or
+assayed for uorescence with a multimode plate  reader.  The  mean
+half‐life  estimates  (measured in hours) for SARS‐CoV‐2 in simu‐
+lated saliva under each set of conditions were derived from tting
+a generalized linear model with a normal distribution and identi‐
+ty link function to infectivity data from each trial  over  time.
+(A)   Representative   data   comparing   SARS‐CoV‐2  infectivity
+(TCID50/ml) and PSL microsphere relative uorescence  units  (RFU)
+across a range of temperature and RH conditions. Data from six of
+the trials are shown  where  5‐l  droplets  were  deposited  onto
+stainless  steel.  Red horizontal dashed lines indicate the lower
+limit of detection for the TCID50 assay  (0.2  log10  TCID50/ml).
+Error  bars indicate standard deviations for each time point. (B)
+Estimated virus half‐life on different surfaces from all 32  tri‐
+als across a range of a droplet sizes, temperatures, and relative
+humidities. Individual half‐life estimates are shown  as  points,
+and  the  mean half‐life value for each surface is indicated by a
+horizontal line. (C and D) Comparisons of virus  half‐life  esti‐
+mates among various RH (20 to 80%) conditions (C) and temperature
+(24 and 35C) and RH (20 to 80%) conditions  (D).  Bars  represent
+means  of  results from each group, and error bars indicate stan‐
+dard deviations. Statistical signicance (P  0.05) is indicated by
+brackets and asterisks (*). A one‐way ANOVA and a Students t test
+were used to calculate the data presented in panels C and D,  re‐
+spectively.   further evaluate droplet size on ABS plastic or ni‐
+trile rubber. Comparison of levels of virus decay determined from
+all 32 trials, which used a variety of volumes, temperatures (24,
+28, and 35C), and RH conditions, showed there was not a signicant
+difference  in  half‐life  estimates  between  virus deposited on
+stainless steel, ABS plastic, or nitrile Biryukov et al.   FIG  2
+Temperature and humidity response model for SARS‐CoV‐2 decay. (A)
+Using empirically determined estimates  of  SARS‐CoV‐2  half‐life
+data collected under various temperature and RH conditions (24 to
+35C, 20 to 60% RH), a regression analysis was performed to deter‐
+mine  a  predictive  decay model. The equation shown, where xT is
+temperature (C) and xRH is percent RH, can be  used  to  estimate
+half‐life  (t1/2)  (in  hours) for SARS‐CoV‐2 on stainless steel,
+ABS plastic, or nitrile glove rubber within the range of environ‐
+mental  conditions  tested  in this study.  Actual half‐life data
+are plotted against predicted half‐life estimates.  The  mean  of
+all data is indicated by a horizontal blue line. The regression t
+line is shown in red. The shaded region indicates  the  95%  con‐
+dence  interval  of the regression t line. RMSE, root mean square
+error. (B) Contour plot representing the predicted  estimates  of
+SARS‐CoV‐2 half‐life data in simulated saliva on stainless steel,
+ABS plastic, or nitrile rubber as a function of  temperature  and
+RH.   glove  coupons  (one‐way  ANOVA, P  0.93; Bartletts test, P
+0.26) (Fig. 1B). Based on these comparisons, data from all trials
+were  combined  for  subsequent  analyses.  We estimated the mean
+half‐life values in hours ( standard deviations [SD]) for  RH  of
+20% (t1/2  15.33  2.75), 40% (t1/2  11.52  1.72), 60% (t1/2  9.15
+3.39), and 80% (t1/2  8.33  1.80) at 24C, with the results  indi‐
+cating  that  virus at ambient indoor conditions at 24C performed
+using the Tukey‐Kramer method found the half‐life at 20% RH to be
+signicantly different from the half‐life at both 60 and 80% RH (P
+0.0038 and P  0.0023, respectively). We also evaluated the effect
+of  temperature on the surface stability of SARS‐CoV‐2 (Fig. 1D).
+When temperature was increased from 24 to 35C, the higher temper‐
+ature resulted in faster virus decay and shorter half‐life at 20%
+RH (t1/2  7.33  1.33), 40% RH (t1/2   7.52   1.22),  and  60%  RH
+(t1/2 2.26  1.42). Pairwise comparisons of mean half‐life results
+between 24 and 35C under each set of RH  conditions  (Students  t
+test)  demonstrated  that  these  differences  were  signicant (P
+0.0016, 0.0327, and 0.0170, respectively). At 40% RH, virus decay
+was also evaluated at 28C (t1/2  6.11  3.02) and found to be sig‐
+nicantly faster (Students t test; P  0.0163). The combination  of
+35C  and 80% RH could not be evaluated due to test system limita‐
+tions.  Analysis of estimated half‐life data from  28  trials  by
+two‐way ANOVA demonstrated that both temperature and RH were sig‐
+nicant factors inuencing virus decay (P  0.0001 for  both).  Fur‐
+thermore, we were able to t a linear regression equation (adjust‐
+ed R2  0.71) that models the half‐life of SARS‐CoV‐2 in simulated
+saliva  on  nonporous surfaces (stainless steel, ABS plastic, and
+nitrile rubber) (Fig. 2A). This model can also be represented  as
+a contour plot and used to estimate mean viral persistence at any
+combination of temperature and RH conditions  within  the  design
+space  (i.e.,  20 to 60% RH and 24 to 35C) (Fig. 2B). Trials per‐
+formed at the 80% RH condition (n  4) were not  included  in  the
+model,  as we were able to evaluate 80% RH only at 24C.  Although
+our data indicate that the virus half‐life was inversely  propor‐
+tional  to  increasing temperature and RH, extrapolated estimates
+for conditions beyond those empirically tested may not be  valid.
+These  data  provide the rst evidence that increasing temperature
+and/or RH decreased how long SARS‐CoV‐2  remained  infectious  on
+two  hard, nonporous surfaces representative of commonly contami‐
+nated objects, suggesting that persistence and,  SARS‐CoV‐2  Sur‐
+face Stability ultimately, exposure risk may vary signicantly de‐
+pending on environmental conditions. In  addition,  our  data  on
+virus  stability  on nitrile gloves serve as a reminder that PPE,
+when used inappropriately, has the potential to be  a  source  of
+contamination.   Although  indoor temperatures can be effectively
+controlled by HVAC (heating, ventilation, and  air  conditioning)
+systems,  in the absence of active humidity control, indoor RH is
+inuenced by outdoor weather conditions. The data shown  here  are
+most  relevant  for  indoor conditions as they do not address the
+signicant effect of solar radiation upon virus decay (15). Howev‐
+er,  these data could be applied to virus decay on surfaces under
+outdoor conditions at night  when  environmental  conditions  are
+within the range tested in this study. These data can inform dis‐
+infection protocols for hospital rooms or mobile COVID‐19  treat‐
+ment facilities, as environments with relatively low humidity may
+warrant more frequent cleaning. Temporarily  increasing  tempera‐
+ture  and/or  RH  in  these spaces once they are vacated may also
+complement cleaning with chemical  disinfectants  to  reduce  the
+risk of potential fomite transmission.  While we have demonstrat‐
+ed the impact of RH and temperature on  the  stability  of  SARS‐
+CoV‐2  on  stainless steel and ABS plastic as representative non‐
+porous surfaces, the applicability of  these  results  to  porous
+surfaces (e.g., clothing, masks, cardboard packaging) is current‐
+ly unknown and bears further investigation. In addition, data re‐
+garding the amount of infectious virus present on surfaces in pa‐
+tient rooms are required in order to determine how long such sur‐
+faces  would  remain a source of virus transmission. Finally, the
+infectious dose of SARS‐CoV‐2 is currently unknown and thus it is
+difcult  to evaluate the risk of infection following contact with
+a contaminated fomite.  Despite these caveats, these data can  be
+used  to determine how long it would take to reduce levels of in‐
+fectious virus on nonporous surfaces by a  specic  factor  (e.g.,
+99.9%  reduction  after 10  t1/2) under a wider range of environ‐
+mental conditions than was previously  possible.   Cell  culture.
+Vero (ATCC CCL‐81) cells were used to propagate SARS‐CoV‐2 and in
+virus microtitration assays. Cells were cultured at  37C  and  5%
+CO2  in  complete  growth  medium  (gMEM) as previously described
+(16). A ViaFill reagent dispenser (Integra Biosciences Corp.) was
+utilized  to  seed  cells  into  96‐well, clear‐bottom plates for
+virus microtitration assays. Cells were seeded at a  density  ap‐
+propriate  to achieve approximately conuent monolayers on the day
+of infection.  Virus stock production.  SARS‐CoV‐2  isolate  USA‐
+WA1/2020 (NR‐52281) was deposited by the Centers for Disease Con‐
+trol and Prevention and obtained through  BEI  Resources,  NIAID,
+NIH. This virus (passage 4) was propagated twice in Vero cells to
+yield the working stocks (passage 6)  that  were  used  for  this
+work.  Briey,  a volume of 2.4  106 Vero cells suspended in 30 ml
+of gMEM was combined with SARS‐CoV‐2 at a multiplicity of  infec‐
+tion equal to 0.01 and was then seeded into a T‐150 ask and incu‐
+bated at 37C and 5% CO2. After 24 h, a suspension of 1.2  106 un‐
+infected Vero cells mixed in 0.5 ml gMEM was added to the infect‐
+ed cells. At 72 h postinfection, the asks were frozen at  80C for
+at  least 1 h and then thawed at 37C, and a cell scraper was used
+to remove any remaining cells from the ask.  The  combination  of
+the  infected  cell lysate and culture supernatant was claried by
+centrifugation at 1,000  g for 10 min at 4C. Virus was  aliquoted
+and  stored at  80C prior to use in experiments. The viral stocks
+were sequenced and found to match the consensus  sequence  previ‐
+ously  described  (MN985325.1). All work with SARS‐CoV‐2 was per‐
+formed under conditions of biosafety level 3  containment.   Test
+matrix.  SARS‐CoV‐2  was  diluted 1:10 in simulated saliva to ap‐
+proximate the behavior of virus in a relevant bodily  uid.  Simu‐
+lated saliva was prepared according to and found to be similar to
+that described in previous reports (17, 18). The pH was  measured
+using  a  SevenExcellence pH meter (Mettler‐Toledo). Surface ten‐
+sion was measured at settings of both 15 and 750 ms on a SITA pro
+line  t15 bubble pressure Biryukov et al.  TABLE 1 Composition of
+simulated saliva MgCl2  6 H2O CaCl2  H2O Distilled water To  vol‐
+ume  porcine gastric mucin type III (Millipore Sigma).  tensiome‐
+ter (SITA Process Solutions).  Viscosity  was  measured  using  a
+SV‐1A  tuning fork vibro viscometer (A&D Company, Ltd.). Percent‐
+ages of solids were analyzed using a MA35 infrared moisture  ana‐
+lyzer  (Sartorius).  To quantify protein content, a Pierce bicin‐
+choninic acid (BCA) protein assay kit  (Thermo  Fisher  Scientic;
+catalog  no.  23225) was used with an albumin standard, and tests
+were read on a SpectraMax M5 plate  reader  (Molecular  Devices).
+Simulated  saliva was stored at 4C for up to 2 weeks prior to use
+in experiments.  Surface decay test system. To determine the bio‐
+logical  decay  rate (i.e., loss of infectivity) of SARS‐CoV‐2 on
+stainless steel or plastic, virus‐laden  wet  droplets  were  de‐
+posited  onto coupons, which were then incubated under various RH
+and temperature conditions, followed by recovery  of  virus  from
+the  coupons for microtitration infectivity assays. For each test
+performed on either grade 304 stainless steel (Diamond Perforated
+Metals)   or  ABS  plastic,  sterilized  19‐mm‐diameter  circular
+coupons were loaded with 1, 5, or 50 l of SARS‐CoV‐2 diluted 1:10
+in simulated saliva. For each test performed on nitrile gloves, a
+0.25‐in. square cut from nitrile gloves was placed on a stainless
+steel  coupon  and  loaded with 5 l of SARS‐CoV‐2 diluted 1:10 in
+simulated saliva. The coupons were immediately placed into a cus‐
+tom  20‐port temperature‐ and relative humidity‐controlled plenum
+supplied with constant airow at 5 liters/min.   Humidity  control
+was  performed  by mixing streams of HEPA‐ltered dry and humidied
+air with mass ow controllers (Alicat  Scientic).  Humid  air  was
+generated by circulating ultrapure water through Naon gas humidi‐
+cation bundles (Perma Pure). For temperatures  in  the  range  of
+24C, the plenum was equilibrated to room temperature. For temper‐
+atures outside this range, the plenum temperature was  controlled
+by  circulating  a  sealed loop of chilled or heated water around
+the plenum. Temperature and RH were  monitored  continuously  via
+temperature/RH   probes   inserted   directly   into  the  plenum
+(Vaisala), and data were collected with either LabVIEW  (National
+Instruments)  or  Vaisala Insight PC software. During the experi‐
+ments, temperature uctuated 2C and RH (20, 40, 60,  or  80%)  was
+controlled  at  10%.  In each experiment, the initial virus titer
+was determined by immediately placing virus‐laden coupons into  4
+ml  gMEM, vortex mixing for 30 s at 2,400 rpm, and then quantify‐
+ing infectivity via microtitration assay as described  below.  To
+control  for physical efciency and sample extraction, 0.1‐mdiame‐
+ter green uorescent polystyrene latex microspheres (Thermo Fisher
+Scientic;  TABLE  2  Characterization of simulated saliva Protein
+concn Surface tension (15 ms) Surface tension (750 ms) SARS‐CoV‐2
+Surface  Stability  catalog  no.  G100B) diluted 1:1 in gMEM were
+spotted onto coupons (1, 5, or  50  l),  incubated  in  the  test
+plenum  with  the virus‐laden coupons, and recovered as described
+for the virus, and uorescence (expressed in  relative  uorescence
+units  [RFU]) was measured on a GloMax luminometer (Promega). Vi‐
+ral RNA was quantied (as described below) in a subset of the sam‐
+ples.  All  coupons  were processed identically at 0.75‐, 3‐, 9‐,
+24‐, and 48‐h time points.   Virus  microtitration  assay.  Virus
+containing  samples  were  serially  diluted (101 through 104) in
+96‐well, clear‐bottom plates  containing  conuent  monolayers  of
+Vero cells. For each dilution, a total of 10 replicate wells were
+infected. The infected plates were incubated at 37C  and  5%  CO2
+for 4 days, and then individual wells were visually inspected us‐
+ing a Nikon TS100 microscope for the  presence  of  virus‐induced
+cytopathic  effects (CPE) at each dilution compared to a negative
+(medium only) control. The median 50% tissue  culture  infectious
+dose  (TCID50)  was  estimated  for each of the samples using the
+Spearman‐Karber method (19, 20).  Viral  nucleic  acid  quantica‐
+tion.  SARS‐CoV‐2  RNA  was  quantied  by a reverse transcription
+quantitative real‐time  PCR  (RT‐qPCR)  assay  using  an  Applied
+Biosystems 7500 Fast real‐time PCR instrument and SuperScript III
+one‐step RT‐PCR MasterMix with Platinum Taq DNA  polymerase.  The
+target  of  the PCR assay is a conserved region of the viral RNA‐
+dependent RNA polymerase (RdRp) gene. Briey, viral RNA from  test
+samples  was  isolated and puried using the Qiagen Viral RNA Mini
+Kit centrifugation protocol per the  manufacturers  instructions.
+The  PCR  master  mix was composed of sterile, molecular biology‐
+grade water, 1 SuperScript reaction mix,  1  SuperScript  reverse
+transcriptase,  0.2  M  forward  and  reverse  primers, and 0.1 M
+6‐carboxyuorescein (FAM)‐labeled uorescent probe. The primers and
+probe  were  based on primer and replace the redundant bases with
+consensus bases. Reaction plates were set up by combining 5 l  of
+RNA  and  15  l of PCR master mix per well. Each plate also had a
+7‐point standard curve based on a synthetic DNA positive  control
+representing  the assays target amplicon (gBlocks; Integrated DNA
+Technologies). Cycling conditions were run as follows:  hold  for
+50C  for 30 min, 95C for 10 min, and then 40 cycles of 95C for 15
+s and 60C for 1 min. Quantication was determined by the number of
+cycles  required to cross a threshold of 0.02 (values reported as
+threshold cycles [CT]). Data representing numbers  of  viral  RNA
+copies  present  in test samples per milliliter were interpolated
+from the standard curves.  Design  of  experiments.  Trials  per‐
+formed on both stainless steel and ABS plastic encompassed a com‐
+plete design space that included 5‐l droplets  incubated  at  24C
+(20,  40, 60, and 80% RH), 28C (40% RH), and 35C (20, 40, and 60%
+RH). On stainless steel, additional trials were  performed  using
+1‐l and 50‐l droplets at 24C (20, 40, 60, and 80% RH). For analy‐
+ses using nitrile glove rubber, a reduced design space  was  uti‐
+lized that permitted comparison between surface types, and trials
+were performed at 24C (20 and 60% RH) and 35C (20  and  60%  RH).
+Statistical  analysis.  ANOVA  was used to compare the effects of
+droplet size and surface on the decay half‐life.  Bartletts  test
+was  used  to  show  that  there was no statistical difference in
+half‐life variance across the droplet size or surface type  data.
+Analysis  of the data indicated that virus decay was biphasic and
+was related to the  drying  time  of  virus‐containing  droplets.
+Thus, each data set was divided into a wet phase and a dry phase.
+For 20, 40, and 60% RH, the wet phase was dened from time point 0
+to  0.75  h and the dry phase was from time point 0.75 h to 48 h.
+For 80% RH, the wet phase was dened from time point 0 to 3 h  and
+the  dry  phase  was from time point 3 h to 48 h. These estimates
+were based on observations of droplet drying  during  experiments
+as  well as on RH data collected from the surface test decay sys‐
+tem (data not shown).  A logarithm (base 10)  transformation  was
+applied  to  the  TCID50  data, and a linear model was tted using
+MATLABs FITGLM with  an  identify  link  function  and  a  normal
+Biryukov  et al.  distribution. Points that were below the assays
+limit of detection (0.2 log10 TCID50/ml) were  removed  from  the
+analysis.  The  half‐life  (t1/2) was also determined as follows:
+Regression analysis was applied to determine  the  dependence  of
+the  virus  half‐life  on  temperature and relative humidity. The
+following model was initially assumed where xT represents temper‐
+ature in degrees Celsius, xRH represents percent relative humidi‐
+ty, and the  terms represent coefcients: t12xT, xRH  0  1xT  2xRH
+3xTxRH   4xT2  5xRH Stepwise regression (MATLAB STEPWISELM.M) was
+then used to identify and remove predictors that were insignicant
+using  a  backward  elimination  approach. The stepwise procedure
+starts with the full model and then measures the contribution  of
+each  predictor to the residual sum of squared errors (SSE) using
+an F‐test on the ratio of the SSE with and without  that  predic‐
+tor;  the  most  statistically insignicant predictor (if there is
+one) is then removed, and the process is repeated until  no  fur‐
+ther  predictors can be removed without a statistically signicant
+loss in the SSE. After determining the model, an F‐test was  per‐
+formed to conrm that the model provided a better t than an inter‐
+cept‐only model.  The tted residuals were then analyzed to verify
+the absence of any apparent structure, and the Shapiro‐Wilke test
+was used to verify residual normality. The nal model for the  de‐
+cay  of  SARS‐CoV‐2  on stainless steel, ABS plastic, and nitrile
+rubber as a function of temperature in degrees Celsius  and  per‐
+cent  relative  humidity  is  as  follows:  t12xT, xRH  32.426272
+0.622108xT  0.153707xRH It should be noted  that  this  model  is
+valid  for  the range of conditions tested; extrapolation outside
+the range of temperature and relative humidity values  tested  is
+not advised and should be done with caution.  Data visualization.
+GraphPad Prism version 8.4 was used to generate graphs.  JMP  Ge‐
+nomics  version  9.1  was used to prepare a contour plot of half‐
+life versus temperature and RH.  We recognize all members of  the
+National  Biological  Threat Characterization Center and the many
+NBACC staff members who assisted in the SARS‐CoV‐2 work  or  sup‐
+ported  laboratory  operations during this time. Staff members of
+the National Bioforensic Analysis  Center  were  instrumental  in
+providing early support in virus propagation and also in sequenc‐
+ing virus stocks. Finally, we also thank the members of  the  De‐
+partment  of Homeland Security (DHS) Science and Technology (S&T)
+Probabilistic Analysis of  National  Threats  Hazards  and  Risks
+(PANTHR) team (Matthew Moe, Lloyd Hough, Justin Taylor, Elizabeth
+Lapatovich, and Kelly Johnston).   This  work  was  funded  under
+agreement  no. HSHQDC‐15‐C‐00064 awarded to Battelle operation of
+the NBACC, a federally funded research  and  development  center.
+The views and conclusions contained in this document are ours and
+should not be interpreted as necessarily representing the  ofcial
+policies, either expressed or implied, services mentioned in this
+presentation. In no event shall the DHS, BNBI, or NBACC have  any
+responsibility  or liability for any use of, misuse of, inability
+to use, or reliance upon the information presented here.  1. Chia
+PY,  Coleman  KK, Tan YK, Ong SWX, Gum M, Lau SK, Lim XF, Lim AS,
+Sutjipto S, Lee PH, Son TT, Young BE, Milton DK, Gray GC,  Schus‐
+ter  S,  Barkham  T, De PP, Vasoo S, Chan M, Ang BSP, Tan BH, Leo
+YS, Ng OT, Wong MSY, Marimuthu  K,  Singapore  Novel  Coronavirus
+Outbreak  Research  Team. 2020. Detection of air and surface con‐
+tamination by SARS‐CoV‐2 in hospital rooms of infected  patients.
+Nat Commun 11: 2. Guo Z‐D, Wang Z‐Y, Zhang S‐F, Li X, Li L, Li C,
+Cui Y, Fu R‐B, Dong Y‐Z, Chi X‐Y, Zhang M‐Y, Liu K, Cao C, Liu B,
+Zhang  K,  Gao Y‐W, Lu B, Chen W.  2020. Aerosol and surface dis‐
+tribution of severe acute respiratory synmsphere.asm.org 8  SARS‐
+CoV‐2 Surface Stability 13. To KK, Tsang OT, Leung WS, Tam AR, Wu
+TC, Lung DC, Yip CC, Cai JP, Chan JM, Chik TS, Lau DP,  Choi  CY,
+Chen  LL,  Chan WM, Chan KH, Ip JD, Ng AC, Poon RW, Luo CT, Cheng
+VC, Chan JF, Hung IF, Chen Z, Chen H,  Yuen  KY.  2020.  Temporal
+proles  of  viral  load in posterior oropharyngeal saliva samples
+and serum antibody responses during infection  by  SARSCoV‐2:  an
+observational  cohort  study.  Lancet  Infect Dis 20:565574.  14.
+Chau NVV, Thanh Lam V, Thanh Dung N, Yen LM, Minh NNQ,  Hung  LM,
+Ngoc  NM, Dung NT, Man DNH, Nguyet LA, Nhat LTH, Nhu LNT, Ny NTH,
+Hong NTT, Kestelyn E, Dung NTP, Xuan TC, Hien TT, Thanh Phong  N,
+Tu  TNH, Geskus RB, Thanh TT, Thanh Truong N, Binh NT, Thuong TC,
+Thwaites G, Tan LV, OUCRU COVID‐19 research group. 2020. The nat‐
+ural  15. Ratnesar‐Shumate S, Williams G, Green B, Krause M, Hol‐
+land B, Wood S, Bohannon J, Boydston J, Freeburger D,  Hooper  I,
+Beck  K,  Yeager  J, Altamura LA, Biryukov J, Yolitz J, Schuit M,
+Wahl V, Hevey M, Dabisch P.  2020. Simulated sunlight rapidly in‐
+activates SARS‐CoV‐2 on surfaces. J 16. Schuit M, Gardner S, Wood
+S, Bower K, Williams G, Freeburger D, Dabisch P. 2020.  The  inu‐
+ence of simulated sunlight on the inactivation of 17. Woo MH, Hsu
+YM, Wu CY, Heimbuch B, Wander J. 2010. Method  for  contamination
+of  ltering facepiece respirators by deposition of MS2 18. Zuo Z,
+Kuehn TH, Bekele AZ, Mor SK, Verma H, Goyal SM,  Raynor  PC,  Pui
+19. Karber G. 1931. Beitrag zur kollektiven Behandlung pharmakol‐
+ogischer 20. Spearman C. 1908. The method of right and wrong cas‐
+es  (constant  21.  Corman  V,  Bleicker T, Brunink S, Drosten C,
+Landt O, Koopmans M, Peiris  ?sfvrsna9ef618c_2.  Accessed  8  May
+2020.  drome coronavirus 2 in hospital wards, Wuhan, China, 2020.
+Emerg Ong SWX, Tan  YK,  Chia  PY,  Lee  TH,  Ng  OT,  Wong  MSY,
+Marimuthu K. 2020.  Air, surface environmental, and personal pro‐
+tective equipment contamination by severe acute respiratory  syn‐
+drome  coronavirus  2 (SARS‐CoV‐2) from Wu S, Wang Y, Jin X, Tian
+J, Liu J, Mao Y. 2020. Environmental contamination by  SARS‐CoV‐2
+in  a  designated  hospital  for coronavirus disease Ye G, Lin H,
+Chen L, Wang S, Zeng Z, Wang W, Zhang S, Rebmann T, Li Y, Pan  Z,
+Yang  Z,  Wang Y, Wang F, Min Qian Z, Wang X. 2020. Environmental
+contamination of SARS‐CoV‐2 in healthcare premises. J Infect  van
+Doremalen  N,  Bushmaker  T,  Morris  DH,  Holbrook MG, Gamble A,
+Williamson BN, Tamin A, Harcourt JL,  Thornburg  NJ,  Gerber  SI,
+LloydSmith  JO,  de  Wit E, Munster VJ. 2020. Aerosol and surface
+stability of SARS‐CoV‐2 as compared with SARS‐CoV‐1. N Engl J Med
+382:  Chin  AWH, Chu JTS, Perera MRA, Hui KPY, Yen H‐L, Chan MCW,
+Peiris M, Casanova LM, Jeon S, Rutala WA, Weber  DJ,  Sobsey  MD.
+2010.  Effects of van Doremalen N, Bushmaker T, Munster VJ. 2013.
+Stability of Middle Kampf G, Todt D,  Pfaender  S,  Steinmann  E.
+2020.  Persistence  of  coronaviruses  on  inanimate surfaces and
+their inactivation with biocidal agents.  Chan KH, Peiris JS, Lam
+SY,  Poon  LL, Yuen KY, Seto WH. 2011. The effects of temperature
+and relative humidity on the viability of the  SARS  coronavirus.
+Schuit  M, Miller DM, Reddick‐Elick MS, Wlazlowski CB, Filone CM,
+Herzog A, Colf LA, Wahl‐Jensen V, Hevey M, Noah JW. 2016. Differ‐
+ences  in the comparative stability of Ebola virus Makona‐C05 and
+Yambuku‐Mayinga
+
+
+
+
+
+

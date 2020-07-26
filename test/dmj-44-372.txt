@@ -1,441 +1,594 @@
-Diabetes Metab J 2020;44:372-381
-DIABETES & METABOLISM JOURNAL
-Coronavirus Disease 2019 and Diabetes: The Epidemic
-and the Korean Diabetes Association Perspective
-Junghyun Noh1, Hyun-Ha Chang2, In-Kyung Jeong3, Kun Ho Yoon4
-Diabetes has been associated with more severe outcomes and higher mortality in coronavirus disease 2019 (COVID-19) patients
-compare to morbidity and mortality in patients without diabetes. Several mechanisms may play a role in this greater morbidity
-and mortality, especially uncontrolled hyperglycemia, an impaired immune system, pre-existing proinflammatory states, multiple
-comorbidities, and dysregulated angiotensin-converting enzyme 2 signaling. Thus, the diabetes medical community emergently
-needs to know about COVID-19 and its effects on patients with diabetes, as they must take precautions to carefully manage these
-patients during the COVID-19 pandemic. The Korean Diabetes Association provides some guidance and practical recommendations for the management of diabetes during the pandemic. This report provides insight into the association between diabetes and
-COVID-19, proper management of diabetes in patients with COVID-19 and an official suggestion by the Korean Diabetes Association for managing the COVID-19 outbreak.
-Keywords: COVID-19; Diabetes mellitus; Severe acute respiratory syndrome coronavirus 2
-After clusters of pneumonia caused by severe acute respiratory
-syndrome coronavirus-2 (SARS-CoV-2) emerged in Wuhan,
-China in early December, 2019, and then rapid spreading of
-SARS-CoV-2 was occurred throughout the globe at present. As
-of June 12, 2020, 7,273,958 confirmed cases, including 413,372
-deaths, have been reported across 216 countries [1]. After a
-huge outbreak occurred on February 20, 2020, as a result of a
-super-spreading event within a religious group, in Daegu in
-southern South Korea, 12,003 confirmed cases and 277 deaths
-Seoul 05278, Korea
-though the fatality rate of coronavirus disease 2019 (COVID-19) is lower than that of severe acute respiratory syndrome
-caused by severe acute respiratory syndrome coronavirus-1
-(SARS-CoV-1) and Middle East respiratory syndrome (MERS)
-caused by Middle East respiratory syndrome-related coronavirus (MERS-CoV), the absolute number of fatalities as a result
-of COVID-19 is extremely high because of the high prevalence
-of COVID-19 [3]. The severity of disease varies from asymptomatic infection, to mild self-limiting upper respiratory tract
-illness to severe pneumonia with respiratory failure, multi-organ dysfunction, and death. Although a large majority of cases
-are mild, some are severe and fatal.
-medium, provided the original work is properly cited.
-Kun Ho Yoon
-Division of Endocrinology and Metabolism, Department of Internal Medicine, College
-Copyright  2020 Korean Diabetes Association
-COVID-19 and diabetes
-Many people with COVID-19 have comorbidities such as
-diabetes, cardiovascular disease, and hypertension [4-6]. Diabetic patients have been strongly suggested to have more severe outcomes and higher mortality due to COVID-19 than
-those without diabetes [7]. Thus, the diabetic community urgently needs to know about COVID-19 and its effects on patients with diabetes, and special precautions should be taken in
-their management during the COVID-19 pandemic. This report aims to describe the association between diabetes and
-COVID-19, and provides the official suggestions of the Korean
-Diabetes Association (KDA) for the COVID-19 outbreak.
-ASSOCIATION BETWEEN DIABETES AND
-People with diabetes are at an increased risk of serious infection [8]. Diabetes was identified as a major contributor to disease severity and fatality in H1N1 (pandemic influenza virus)
-infection and MERS [9,10].
-Currently, most available data come from hospitalized cohorts with a reported prevalence of diabetes in COVID-19
-ranging from 5.3% to 26.4% worldwide [5,11-19]. A small
-number of nationwide studies are available. A recent population-based cohort study using the Korean Health Insurance
-population prevalence of diabetes in COVID-19 patients to be
-approximately 5.3% to 11%, which is not higher than the prevalence of diabetes in the general population [7,20]. According
-to the report from the Centers for Disease Control and Prevention (CDC) of United States, 10.9% of COVID-19 patients
-have diabetes [21]. To summarize these reports, diabetes is one
-of the most common comorbidities of COVID-19 infection. It
-is still unclear whether people with diabetes are more susceptible to COVID-19 infection.
-The disease severity and mortality in patients with diabetes
-were higher than those in patients without diabetes among
-those with COVID-19 in several studies. A two-center retrospective study performed at hospitals in Wuhan showed a
-higher proportion of intensive care unit (ICU) admissions
-(17.6% vs. 7.8%, P =0.01) and more fatal cases (20.3% vs.
-10.5%, P=0.017) were identified in COVID-19 patients with
-diabetes than in sex- and age-matched patients without diabetes [22]. Another retrospective, multi-center study of 7,337
-Diabetes Metab J 2020;44:372-381
-cases of COVID-19 in China found, subjects with type 2 diabetes mellitus required more medical interventions and had a
-significantly higher mortality (7.8% vs. 2.7%; adjusted hazard
-ratio [HR], 1.49) than non-diabetic individuals [23]. In a single-center study conducted in Korea, mortality was significantly higher in patients with diabetes (17.2%) than in those
-without diabetes (1.2%) [19]. A study based on the nationwide
-surveillance data, among 63 fatal cases of COVID-19, 36.5%
-were found to have diabetes in Korea [6]. According to a nationwide population-based cohort study conducted in Korea,
-the prevalence of diabetes among COVID-19 patients who
-were hospitalized, received oxygen supply, applied mechanical
-ventilator, and who died were 14.7%, 28.1%, 41.3%, and 44.6%
-with composite poor outcomes including mortality, severe
-COVID-19, acute respiratory distress syndrome (ARDS), need
-for ICU care, and disease progression (risk ratio, 2.38 [1.88 to
-3.03], P<0.001; I 2 =62%) [7]. These results suggest an association between diabetes and poor prognosis and increased mortality of COVID-19. Publications that have investigated the association between diabetes and severity in patients with COVID-19 are shown Fig. 1.
-POTENTIAL MECHANISMS OF LINKING
-BETWEEN DIABETES AND COVID-19
-There are several suggested mechanisms that might play a role
-in an association between diabetes and COVID-19 (Fig. 2).
-Uncontrolled hyperglycemia was reported as a significant predictor of severity and fatality of different viral diseases, including SARS-CoV, 2009 pandemic influenza, and 2012 MERSCoV infection [9,10]. In an observational study conducted in
-France, long-term glycemic control as assessed using glycosylated hemoglobin (HbA1c) was not associated with COVID-19
-a predictor of the severity of COVID 19 in multivariable models [24]. HbA1c was also not a predictor of COVID 19 severity
-in a single center study in Korea [19]. A retrospective multicenter study conducted in China showed that well-controlled
-blood glucose as assessed using glycemic variability was associated with markedly lower mortality than in individuals with
-DM prevalence among total COVID-19 patients (%)
-Noh J, et al.
-DM prevalence
-among non-severe cases
-DM prevalence
-among severe cases
-Mortality in
-Mortality in
-poorly controlled blood glucose (adjusted HR, 0.14) during
-hospitalization after adjusting for age, sex, COVID-19 severity,
-comorbidities, and side effects in patients with COVID-19 and
-pre-existing type 2 diabetes mellitus [23]. A single center study
-from Italy reported that the group treated with insulin infusion
-had better glycemic control and less severe COVID-19 [25].
-These findings provide clinical evidence that uncontrolled hy374
-DM prevalence
-among survivors
-DM prevalence
-among non-survivors
-Fig. 1. Outcomes of coronavirus disease 2019 (COVID-19) in
-patients with diabetes. Diabetes prevalence among (A) all COVID-19 patients, (B) non-severe cases and severe cases, and
-(C) survivors and non-survivors. (D) Mortality in patients
-with and without diabetes. DM, diabetes mellitus.
-perglycemia during hospitalization is associated with poor
-outcomes in COVID-19 patients with diabetes. Prospective
-controlled studies are needed to clarify the effect of hyperglycemia on the prognosis of COVID-19.
-Diabetes might be associated with immune system impairment and may affect the inflammatory response to pathogens.
-Poorly controlled diabetes is linked to inhibited lymphocyte
-Diabetes Metab J 2020;44:372-381
-COVID-19 and diabetes
-Fig. 2. The potential mechanisms linking diabetes and coronavirus disease 2019 (COVID-19). There are several suggested mechanisms that might play a role in an association between diabetes and COVID-19. Uncontrolled hyperglycemia, impaired immune
-system, pre-existing proinflammatory state, diabetic complications, multiple comorbidities, dysregulated state of angiotensinconverting enzyme 2 (ACE2) signaling. SARS-CoV-2, severe acute respiratory syndrome coronavirus-2.
-proliferative responses to different stimuli [26], and impaired
-macrophage and neutrophil functions [27]. Furthermore, bactericidal activity following stimulation is decreased and bacterial phagocytosis and killing mechanisms are reduced in diabetic patients [28]. It was demonstrated that the respiratory
-burst of monocytes in patients with poorly controlled disease
-with hyperglycemia was severely impaired when compared to
-that in patients with well-controlled disease and healthy people
-[29]. Influenza virus infection and replication were significantly increased when pulmonary epithelial cells were exposed to
-high glucose concentrations [30].
-Low-grade chronic inflammation is a common feature in
-subjects with type 2 diabetes mellitus. C-reactive protein (CRP),
-a well-established marker of the development of inflammation,
-tumor necrosis factor , an inflammatory marker, and interleukin 6 are strongly associated with diabetes [31]. Cytokines
-play a key role in promoting atherosclerosis and, therefore,
-cardiovascular disease [32]. Interestingly, ARDS in patients
-Diabetes Metab J 2020;44:372-381
-with COVID-19 is driven by severe hypoxemia despite relatively well-preserved lung mechanics [33]. A pre-existing proinflammatory state could accentuate the hyper-inflammatory
-response (cytokine storm), which is believed to be responsible
-for ARDS as well as multi-organ dysfunction in COVID-19
-Comorbidities of diabetes might cause more susceptibility of
-COVID-19 in diabetic patients. Common demographics and
-comorbidities of diabetes such as older age, male sex, cardiovascular disease, hypertension, and obesity have been associated with poor outcomes in COVID-19 [11,35]. A retrospective
-single-center study conducted in Korea reported that age was
-an independent risk factor for severe outcomes in patients with
-diabetes [19]. In a study assessing the prognostic value of clinical and biological features, age, microvascular and macrovascular diabetic complications, treated obstructive sleep apnea,
-dyspnea, increased aspartate transaminase and CRP, and decreased estimated glomerular filtration rate and platelet count
-Noh J, et al.
-were independently associated with the risk of early death in
-patients with diabetes hospitalized for COVID-19 [24]. Obesity is also known as an independent risk factor of severity in
-COVID-19 patients [36].
-Angiotensin-converting enzyme 2 (ACE2) protein, which is
-an important element in the regulation of blood pressure, metabolism, and inflammation, was also identified as the receptor
-for the coronavirus spike protein. SARS-CoV-2 enters the cell
-by binding to ACE2 [37]. There is experimental evidence for
-the downregulation of ACE2 in diabetes [38], which might reduce the entry of the virus into cells. Furthermore, ACE2 is expressed in pancreatic beta cells, SARS-CoV-2 might enter islets
-cells and cause beta-cell dysfunction [39]. On the other hand,
-ACE2 has been suggested to have a protective effect against inflammation-induced damage. Ang-(1-7) formed from AngII
-by ACE2 exerts inhibitory effects on inflammation and on vascular and cellular growth mechanisms by acting via the Mas receptor [40]. Downregulation of ACE2 in diabetes might make
-cells vulnerable to inflammation following viral infection.
-Dipeptidyl peptidase-4 (DPP-4) inhibitors are one of the
-most frequently used medications in patients with type 2 diabetes mellitus. From in vitro experiments, DPP-4 was identified as a functional receptor for MERS-CoV for its entry into
-the cell [41]. Antibodies directed against DPP-4 inhibited
-MERS-CoV infection of primary cells [42]. DPP-4 may also
-have a role as an entry route for SARS-CoV-2, although it is
-not proven yet. In vitro treatment of DPP-4 inhibitors did not
-block the entry of coronavirus into cells [42]. On the other
-hand, the DPP-4 enzyme is known to be involved in the immune system and increases inflammation in type 2 diabetes
-mellitus [43]. Whether the DPP-4 enzyme also plays a role in
-the association between diabetes and COVID-19 is currently
-MANAGEMENT OF DIABETES IN COVID-19
-Management of hyperglycemia in COVID-19 patients with
-Based on mounting evidence supporting the effect of proper
-glycemic control on the prognosis of COVID-19, intensified
-glycemic control is recommended in COVID-19 patients with
-diabetes. Infection with SARS-CoV-2 might trigger stress conditions and increased secretion of stress hormones, such as
-cortisol and catecholamines, which result in the elevation of
-blood glucose and extreme glycemic excursion. In practice,
-cases of acute hyperglycemic crisis were reported in COVID-19 patients with diabetes [44,45]. There was a case report of
-the successful management of high-risk patients with type 1
-diabetes mellitus and diabetic ketoacidosis using telehealth
-[46]. It is thought that during the pandemic, when health providers or diabetic patients are required to minimize contact
-and may even be quarantined, telehealth could provide alternative support in preventing acute complications and controlling sever hyperglycemia. People with diabetes who are not infected with the SARS-CoV-2 are also recommended to maintain optimal glycemic control as part of the primary prevention of COVID-19. COVID-19 patients without diabetes need
-to be monitored for new onset diabetes. Viral infection can
-trigger the onset of diabetes, and 28% of COVID-19 patients
-with hyperglycemia had not been diagnosed as having diabetes
-before hospitalization in a single center study [25]. Also, during COVID-19 pandemic, social distancing, decrease of attendances to hospital facilities, limited access for patients, and remote consultations are easy to miss the urgent situations of diabetic complications such as diabetic foot, acute coronary syndrome, severe diabetic retinopathy, and so on. Therefore, doctors, healthcare providers, and patients need to be alert with
-regards to development and deterioration of diabetic complications.
-Special considerations for anti-diabetic medication in
-COVID-19 patients with diabetes
-Metformin is recommended as the first-line treatment of
-choice and one of the most frequently prescribed medications
-for type 2 diabetes mellitus. Metformin is contraindicated in
-people with concomitant sepsis or severe impairment of hepatic and renal function. As COVID-19 patients are vulnerable
-to dehydration and multi-organ failure, patients should follow
-the sick day rule and metformin should be stopped if severe
-renal or hepatic dysfunction is confirmed. Careful monitoring
-of renal function is needed during illness. Euglycemic ketoacidosis is rarely reported in type 2 diabetes mellitus treated with
-a sodium-glucose cotransporter-2 (SGLT-2) inhibitor. SGLT2
-inhibitors should be discontinued for patients with renal dysfunction or severe SARS-CoV-2 infection who are dehydrated
-and have a risk of ketoacidosis. However, prophylactic discontinuation of these medications is not recommended for patients with mild symptoms or without any symptoms/organ
-failure. As previously described, a DPP-4 inhibitor was sugDiabetes Metab J 2020;44:372-381
-COVID-19 and diabetes
-gested to have a protective role against MERS [42]. There is a
-lack of evidence of SARS-CoV2 binding to DPP-4. DPP-4 inhibitors and glucagon-like peptide-1 receptor agonists may exert anti-inflammatory actions in human subjects and have
-been successfully used to control glucose levels in hospitalized
-patients [43]. A study using Korean national insurance claim
-data, analyzed 832 confirmed COVID-19 subjects with DM
-and, showed that use of a DPP-4 inhibitor is associated with
-better clinical outcomes in patients with COVID-19 [47].
-However, whether DPP-4 inhibitors influence the course of the
-COVID-19 remains unclear. Insufficient secretion of insulin as
-a result of beta cell dysfunction can develop in patients with
-multiple stresses triggered by COVID-19. For intensive glucose control, the use of insulin is feasible. Treatment with insulin infusion showed better glycemic control and less severe
-COVID-19 in a retrospective study [25]. Because of the possibility of extreme blood excursion in patients with severe COVID-19, the risk of hypoglycemia should be carefully monitored
-with insulin use. Good glycemic control is important in improving the outcomes of patients with COVID-19. Anti-diabetic medications that effectively control blood glucose should
-have a beneficial effect on COVID-19 prognosis. Some antidiabetic medications are suggested to have immune-modulating effects expected to have additional benefits, but neither of
-them has been proven yet. Larger cohort studies are needed to
-prove specific anti-diabetic medication is beneficial independent of glycemic control in COVID-19 patients.
-Renin-angiotensin aldosterone system inhibitors
-Regarding the association between COVID-19 and ACE2, an
-increased risk of SARS-CoV-2 infection due to elevated expression of ACE2 in patients treated with ACE inhibitors or
-angiotensin II receptor blockers (ARBs) has been hypothesized. There is controversy over whether renin-angiotensin aldosterone system (RAAS) inhibitors are harmful or protective
-with respect to COVID-19. A positive test for COVID-19 or in
-the risk of severe COVID-19 were not increased in who patients take RAAS inhibitors [48]. A retrospective single-center
-study conducted in Korea also showed that use of ARB or ACE
-inhibitor medications was not associated with a critical outcome, but showed protective effects against acute cardiac injury (odds ratio [OR], 0.048; P=0.05) in diabetic patients with
-COVID-19 [19]. A study from Korea using national insurance
-claim data also showed no effect of RAAS blockade on clinical
-outcomes in COVID-19 in patients with diabetes [47]. In a
-meta-analysis of 12 studies involving more than 19,000 COVID-19 cases, RAAS inhibitor exposure was not associated with
-a higher risk of COVID-19. Among those with COVID-19 in-
-General health practice
-Refrain from going out or visiting crowded areas.
-Make sure to wash your hands and keep cough etiquette.
-Do not touch your eyes, nose, and mouth with unwashed hands.
-Put on a mask before you visit a medical institution, avoid crowds, and avoid contacting someone with fever or
-respiratory symptoms.
-frequently touched.
-Practice for blood sugar
-Make sure to keep oral medication and insulin administration more strict than usual.
-Conduct and check self-monitoring of blood sugar more frequently. Once after waking up in the morning, once
-2 hours after meals, that is conduct self-monitoring of blood sugar at least twice a day. If the result is
-consistently higher than usual, visit your doctor or use the phone helpline.
-as well.
-Drink plenty of water to prevent infection.
-Exercise is necessary in order to maintain immunity. Do a certain amount (minimum 30 minutes) of aerobic
-exercises regularly every day at home. Do resistance exercise twice a week.
-Contact the community healthcare center for such symptoms as a cough, phlegm, and a fever. Contact the
-doctor for sudden blood sugar increase. If it is difficult to visit the doctor, consult through the phone helpline
-allowed temporarily.
-Diabetes Metab J 2020;44:372-381
-Noh J, et al.
-fection, RAAS inhibitor exposure was also not associated with
-a higher risk of severe outcomes or mortality. On the contrary,
-RAAS inhibitor exposure was associated with a lower risk of
-mortality compared to those on non-RAAS inhibitor antihypertensive drugs (OR, 0.48; 95% confidence interval [CI], 0.29
-to 0.81; P=0.006) [49]. It is strongly recommended that patients who are taking ACE inhibitors or ARBs should not withdraw their current treatment regimens because of COVID-19.
-THE KDAS SUGGESTIONS FOR COVID-19
-As there is the possibility for patients with diabetes, a typically
-immunosuppressive condition, to develop serious COVID-19,
-the KDA would like to make some official suggestions regarding the COVID-19 epidemiological emergency.
-The KDA suggests that patients with diabetes, particularly,
-those over 70 years old, should have the opportunity to be tested and hospitalized when symptoms are first detected. In this
-situation, when nationwide spread is already suspected beyond
-local infection, preferential screening and hospitalization of
-high risk groups such as elderly patients with diabetes, who
-can progress to a serious condition will decrease the entire
-death toll and the number of deaths in the aged older population. This should prevent the development of serious illness,
-which would be an efficient response to COVID-19.
-The KDA also provides COVID-19 prevention guidelines
-health providers should be aware that they are more likely to
-develop serious illness than otherwise healthy people and follow strict prevention guidelines. In particular, patients with diabetes aged over 70 years are a high-risk group and require
-special care. The more difficult the situation is, the more important it is to measure blood sugar closely and strictly maintain life style. The KDA suggests refraining from going out or
-visiting crowded areas, ensuring good hand washing, maintaining cough etiquette, avoiding touching the face with unwashed hands, putting on a mask before visiting a medical institution, and avoiding contacting someone with fever or respiratory symptoms. The KDA also recommends avoiding personal contact at home as much as possible and always wiping
-oral medications and administering insulin more strictly than
-usual, and self-monitoring blood sugar more frequently. Selfmonitoring of blood sugar should be performed at least twice a
-day (after waking up in the morning and once 2 hours after
+Diabetes  Metab  J  2020;44:372‐381 DIABETES & METABOLISM JOURNAL
+Coronavirus Disease 2019 and Diabetes: The Epidemic and the Kore‐
+an   Diabetes  Association  Perspective  Junghyun  Noh1,  Hyun‐Ha
+Chang2, In‐Kyung Jeong3, Kun Ho Yoon4 Diabetes has been associat‐
+ed  with more severe outcomes and higher mortality in coronavirus
+disease 2019 (COVID‐19) patients compare to morbidity and mortal‐
+ity  in  patients without diabetes. Several mechanisms may play a
+role in this greater morbidity and mortality,  especially  uncon‐
+trolled  hyperglycemia,  an  impaired immune system, pre‐existing
+proinflammatory states, multiple comorbidities, and  dysregulated
+angiotensin‐converting  enzyme  2  signaling.  Thus, the diabetes
+medical community emergently needs to know about COVID‐19 and its
+effects  on patients with diabetes, as they must take precautions
+to carefully manage these patients during the COVID‐19  pandemic.
+The  Korean Diabetes Association provides some guidance and prac‐
+tical recommendations for the management of diabetes  during  the
+pandemic.  This  report provides insight into the association be‐
+tween diabetes and COVID‐19, proper management of diabetes in pa‐
+tients with COVID‐19 and an official suggestion by the Korean Di‐
+abetes Association for managing the COVID‐19 outbreak.  Keywords:
+COVID‐19;  Diabetes  mellitus;  Severe acute respiratory syndrome
+coronavirus 2 After clusters of pneumonia caused by severe  acute
+respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) emerged in Wuhan,
+China in early December, 2019, and then rapid spreading of  SARS‐
+CoV‐2  was  occurred  throughout the globe at present. As of June
+12, 2020, 7,273,958 confirmed cases,  including  413,372  deaths,
+have  been  reported  across 216 countries [1]. After a huge out‐
+break occurred on February 20, 2020, as  a  result  of  a  super‐
+spreading  event  within  a religious group, in Daegu in southern
+South Korea, 12,003 confirmed cases and 277 deaths  Seoul  05278,
+Korea  though  the  fatality  rate  of  coronavirus  disease 2019
+(COVID‐19) is lower than that of severe  acute  respiratory  syn‐
+drome  caused  by severe acute respiratory syndrome coronavirus‐1
+(SARS‐CoV‐1) and Middle East respiratory syndrome  (MERS)  caused
+by  Middle  East  respiratory syndrome‐related coronavirus (MERS‐
+CoV), the absolute number of fatalities as a result  of  COVID‐19
+is extremely high because of the high prevalence of COVID‐19 [3].
+The severity of disease varies from  asymptomatic  infection,  to
+mild  self‐limiting  upper  respiratory  tract  illness to severe
+pneumonia with respiratory failure, multi‐organ dysfunction,  and
+death.  Although a large majority of cases are mild, some are se‐
+vere and fatal.  medium, provided the original work  is  properly
+cited.  Kun Ho Yoon Division of Endocrinology and Metabolism, De‐
+partment of Internal Medicine, College Copyright  2020 Korean Di‐
+abetes   Association  COVID‐19  and  diabetes  Many  people  with
+COVID‐19 have comorbidities such as diabetes, cardiovascular dis‐
+ease, and hypertension [4‐6]. Diabetic patients have been strong‐
+ly suggested to have more severe outcomes  and  higher  mortality
+due  to  COVID‐19 than those without diabetes [7]. Thus, the dia‐
+betic community urgently needs to know about COVID‐19 and its ef‐
+fects  on  patients with diabetes, and special precautions should
+be taken in their management during the COVID‐19  pandemic.  This
+report  aims  to  describe  the  association between diabetes and
+COVID‐19, and provides the official suggestions of the Korean Di‐
+abetes  Association (KDA) for the COVID‐19 outbreak.  ASSOCIATION
+BETWEEN DIABETES AND People with diabetes  are  at  an  increased
+risk of serious infection [8]. Diabetes was identified as a major
+contributor to disease severity and fatality  in  H1N1  (pandemic
+influenza  virus)  infection  and  MERS  [9,10].  Currently, most
+available data come from hospitalized  cohorts  with  a  reported
+prevalence  of  diabetes  in  COVID‐19 ranging from 5.3% to 26.4%
+worldwide [5,11‐19]. A small number  of  nationwide  studies  are
+available. A recent population‐based cohort study using the Kore‐
+an Health Insurance population prevalence of diabetes in COVID‐19
+patients  to  be  approximately  5.3% to 11%, which is not higher
+than the prevalence of diabetes in the general population [7,20].
+According  to the report from the Centers for Disease Control and
+Prevention (CDC) of United States,  10.9%  of  COVID‐19  patients
+have  diabetes  [21]. To summarize these reports, diabetes is one
+of the most common comorbidities of  COVID‐19  infection.  It  is
+still  unclear  whether people with diabetes are more susceptible
+to COVID‐19 infection.  The disease severity and mortality in pa‐
+tients  with  diabetes were higher than those in patients without
+diabetes among those with COVID‐19 in several studies. A two‐cen‐
+ter  retrospective study performed at hospitals in Wuhan showed a
+higher proportion of intensive care unit (ICU) admissions  (17.6%
+vs.  7.8%,  P  =0.01)  and  more  fatal  cases (20.3% vs.  10.5%,
+P=0.017) were identified in COVID‐19 patients with diabetes  than
+in  sex‐  and age‐matched patients without diabetes [22]. Another
+retrospective, multi‐center  study  of  7,337  Diabetes  Metab  J
+2020;44:372‐381  cases  of COVID‐19 in China found, subjects with
+type 2 diabetes mellitus required more medical interventions  and
+had  a  significantly  higher  mortality (7.8% vs. 2.7%; adjusted
+hazard ratio [HR], 1.49) than non‐diabetic individuals [23]. In a
+single‐center  study  conducted  in Korea, mortality was signifi‐
+cantly higher in patients with diabetes  (17.2%)  than  in  those
+without  diabetes  (1.2%)  [19].  A study based on the nationwide
+surveillance data, among 63 fatal cases of COVID‐19,  36.5%  were
+found  to  have  diabetes in Korea [6]. According to a nationwide
+population‐based cohort study conducted in Korea, the  prevalence
+of  diabetes  among  COVID‐19 patients who were hospitalized, re‐
+ceived oxygen supply, applied mechanical ventilator, and who died
+were  14.7%, 28.1%, 41.3%, and 44.6% with composite poor outcomes
+including mortality, severe COVID‐19, acute respiratory  distress
+syndrome (ARDS), need for ICU care, and disease progression (risk
+ratio, 2.38 [1.88 to 3.03], P<0.001; I 2 =62%) [7]. These results
+suggest  an  association  between diabetes and poor prognosis and
+increased mortality of COVID‐19. Publications that have  investi‐
+gated  the  association between diabetes and severity in patients
+with COVID‐19 are shown Fig. 1.  POTENTIAL MECHANISMS OF  LINKING
+BETWEEN  DIABETES AND COVID‐19 There are several suggested mecha‐
+nisms that might play a role in an association  between  diabetes
+and  COVID‐19  (Fig. 2).  Uncontrolled hyperglycemia was reported
+as a significant predictor of severity and fatality of  different
+viral  diseases, including SARS‐CoV, 2009 pandemic influenza, and
+2012 MERSCoV infection [9,10]. In an observational study conduct‐
+ed in France, long‐term glycemic control as assessed using glyco‐
+sylated hemoglobin (HbA1c) was not  associated  with  COVID‐19  a
+predictor  of  the  severity  of COVID 19 in multivariable models
+[24]. HbA1c was also not a predictor of COVID 19  severity  in  a
+single  center  study  in Korea [19]. A retrospective multicenter
+study conducted in China showed that well‐controlled  blood  glu‐
+cose  as  assessed using glycemic variability was associated with
+markedly lower mortality than in individuals with  DM  prevalence
+among  total  COVID‐19  patients (%) Noh J, et al.  DM prevalence
+among non‐severe cases DM prevalence among severe cases Mortality
+in  Mortality  in  poorly  controlled blood glucose (adjusted HR,
+0.14)  during  hospitalization  after  adjusting  for  age,  sex,
+COVID‐19  severity,  comorbidities,  and side effects in patients
+with COVID‐19 and pre‐existing type 2 diabetes mellitus  [23].  A
+single  center  study  from Italy reported that the group treated
+with insulin infusion had better glycemic control and less severe
+COVID‐19 [25].  These findings provide clinical evidence that un‐
+controlled hy374 DM  prevalence  among  survivors  DM  prevalence
+among  non‐survivors Fig. 1. Outcomes of coronavirus disease 2019
+(COVID‐19) in patients with diabetes. Diabetes  prevalence  among
+(A) all COVID‐19 patients, (B) non‐severe cases and severe cases,
+and (C) survivors and non‐survivors. (D)  Mortality  in  patients
+with  and  without  diabetes. DM, diabetes mellitus.  perglycemia
+during  hospitalization  is  associated  with  poor  outcomes  in
+COVID‐19  patients  with diabetes. Prospective controlled studies
+are needed to clarify the effect of hyperglycemia on the  progno‐
+sis of COVID‐19.  Diabetes might be associated with immune system
+impairment and may affect the inflammatory response to pathogens.
+Poorly controlled diabetes is linked to inhibited lymphocyte Dia‐
+betes Metab J 2020;44:372‐381 COVID‐19 and diabetes Fig.  2.  The
+potential  mechanisms  linking  diabetes  and coronavirus disease
+2019 (COVID‐19). There  are  several  suggested  mechanisms  that
+might  play  a  role  in  an  association  between  diabetes  and
+COVID‐19. Uncontrolled  hyperglycemia,  impaired  immune  system,
+pre‐existing  proinflammatory state, diabetic complications, mul‐
+tiple comorbidities, dysregulated state of  angiotensinconverting
+enzyme  2  (ACE2) signaling. SARS‐CoV‐2, severe acute respiratory
+syndrome coronavirus‐2.   proliferative  responses  to  different
+stimuli  [26],  and  impaired macrophage and neutrophil functions
+[27]. Furthermore, bactericidal activity following stimulation is
+decreased  and  bacterial phagocytosis and killing mechanisms are
+reduced in diabetic patients [28]. It was demonstrated  that  the
+respiratory burst of monocytes in patients with poorly controlled
+disease with hyperglycemia was severely impaired when compared to
+that  in patients with well‐controlled disease and healthy people
+[29]. Influenza virus infection and replication were significant‐
+ly increased when pulmonary epithelial cells were exposed to high
+glucose concentrations [30].  Low‐grade chronic inflammation is a
+common feature in subjects with type 2 diabetes mellitus. C‐reac‐
+tive protein (CRP), a well‐established marker of the  development
+of  inflammation, tumor necrosis factor , an inflammatory marker,
+and interleukin 6 are strongly associated with diabetes [31]. Cy‐
+tokines  play a key role in promoting atherosclerosis and, there‐
+fore, cardiovascular disease [32].  Interestingly,  ARDS  in  pa‐
+tients  Diabetes  Metab J 2020;44:372‐381 with COVID‐19 is driven
+by severe hypoxemia despite relatively  well‐preserved  lung  me‐
+chanics [33]. A pre‐existing proinflammatory state could accentu‐
+ate the hyper‐inflammatory response (cytokine  storm),  which  is
+believed  to  be responsible for ARDS as well as multi‐organ dys‐
+function in COVID‐19 Comorbidities of diabetes might  cause  more
+susceptibility  of  COVID‐19  in  diabetic patients. Common demo‐
+graphics and comorbidities of diabetes such as  older  age,  male
+sex,  cardiovascular disease, hypertension, and obesity have been
+associated with poor outcomes in COVID‐19 [11,35].  A  retrospec‐
+tive single‐center study conducted in Korea reported that age was
+an independent risk factor for severe outcomes in  patients  with
+diabetes [19]. In a study assessing the prognostic value of clin‐
+ical and biological features, age, microvascular and  macrovascu‐
+lar diabetic complications, treated obstructive sleep apnea, dys‐
+pnea, increased aspartate transaminase and CRP, and decreased es‐
+timated  glomerular  filtration rate and platelet count Noh J, et
+al.  were independently associated with the risk of  early  death
+in patients with diabetes hospitalized for COVID‐19 [24]. Obesity
+is also known as  an  independent  risk  factor  of  severity  in
+COVID‐19  patients  [36].  Angiotensin‐converting enzyme 2 (ACE2)
+protein, which is an important element in the regulation of blood
+pressure,  metabolism,  and  inflammation, was also identified as
+the receptor for the coronavirus spike protein. SARS‐CoV‐2 enters
+the  cell by binding to ACE2 [37]. There is experimental evidence
+for the downregulation of ACE2 in diabetes [38], which might  re‐
+duce  the entry of the virus into cells. Furthermore, ACE2 is ex‐
+pressed in pancreatic beta cells, SARS‐CoV‐2 might  enter  islets
+cells  and  cause  beta‐cell dysfunction [39]. On the other hand,
+ACE2 has been suggested to have a protective effect  against  in‐
+flammation‐induced  damage.  Ang‐(1‐7)  formed from AngII by ACE2
+exerts inhibitory effects on inflammation  and  on  vascular  and
+cellular  growth  mechanisms by acting via the Mas receptor [40].
+Downregulation of ACE2 in diabetes might make cells vulnerable to
+inflammation  following  viral infection.  Dipeptidyl peptidase‐4
+(DPP‐4) inhibitors are one of the most  frequently  used  medica‐
+tions  in  patients  with type 2 diabetes mellitus. From in vitro
+experiments, DPP‐4 was identified as a  functional  receptor  for
+MERS‐CoV  for  its  entry into the cell [41]. Antibodies directed
+against DPP‐4 inhibited MERS‐CoV infection of primary cells [42].
+DPP‐4  may also have a role as an entry route for SARS‐CoV‐2, al‐
+though it is not proven yet. In  vitro  treatment  of  DPP‐4  in‐
+hibitors  did not block the entry of coronavirus into cells [42].
+On the other hand, the DPP‐4 enzyme is known to  be  involved  in
+the  immune  system and increases inflammation in type 2 diabetes
+mellitus [43]. Whether the DPP‐4 enzyme also plays a role in  the
+association between diabetes and COVID‐19 is currently MANAGEMENT
+OF DIABETES IN COVID‐19 Management of hyperglycemia  in  COVID‐19
+patients with Based on mounting evidence supporting the effect of
+proper glycemic control on the prognosis of COVID‐19, intensified
+glycemic  control  is  recommended in COVID‐19 patients with dia‐
+betes. Infection with SARS‐CoV‐2 might trigger stress  conditions
+and  increased secretion of stress hormones, such as cortisol and
+catecholamines, which result in the elevation  of  blood  glucose
+and  extreme  glycemic excursion. In practice, cases of acute hy‐
+perglycemic crisis were reported in COVID‐19 patients  with  dia‐
+betes  [44,45]. There was a case report of the successful manage‐
+ment of high‐risk patients with type 1 diabetes mellitus and dia‐
+betic ketoacidosis using telehealth [46]. It is thought that dur‐
+ing the pandemic, when health providers or diabetic patients  are
+required  to  minimize contact and may even be quarantined, tele‐
+health could provide alternative support in preventing acute com‐
+plications  and controlling sever hyperglycemia. People with dia‐
+betes who are not infected with the SARS‐CoV‐2  are  also  recom‐
+mended to maintain optimal glycemic control as part of the prima‐
+ry prevention of COVID‐19.  COVID‐19  patients  without  diabetes
+need  to be monitored for new onset diabetes. Viral infection can
+trigger the onset of diabetes, and 28% of COVID‐19 patients  with
+hyperglycemia  had  not  been diagnosed as having diabetes before
+hospitalization in a  single  center  study  [25].  Also,  during
+COVID‐19  pandemic, social distancing, decrease of attendances to
+hospital facilities, limited access for patients, and remote con‐
+sultations  are  easy  to  miss the urgent situations of diabetic
+complications such as diabetic foot, acute coronary syndrome, se‐
+vere diabetic retinopathy, and so on. Therefore, doctors, health‐
+care providers, and patients need to be alert with regards to de‐
+velopment  and  deterioration of diabetic complications.  Special
+considerations for anti‐diabetic medication in COVID‐19  patients
+with  diabetes  Metformin is recommended as the first‐line treat‐
+ment of choice and one of the most frequently prescribed  medica‐
+tions  for type 2 diabetes mellitus. Metformin is contraindicated
+in people with concomitant sepsis or severe impairment of hepatic
+and  renal function. As COVID‐19 patients are vulnerable to dehy‐
+dration and multi‐organ failure, patients should follow the  sick
+day  rule  and metformin should be stopped if severe renal or he‐
+patic dysfunction is confirmed. Careful monitoring of renal func‐
+tion  is needed during illness. Euglycemic ketoacidosis is rarely
+reported in type 2 diabetes mellitus treated with  a  sodium‐glu‐
+cose  cotransporter‐2 (SGLT‐2) inhibitor. SGLT2 inhibitors should
+be discontinued for patients with  renal  dysfunction  or  severe
+SARS‐CoV‐2  infection  who  are dehydrated and have a risk of ke‐
+toacidosis. However, prophylactic discontinuation of these  medi‐
+cations  is  not  recommended  for patients with mild symptoms or
+without any symptoms/organ failure. As  previously  described,  a
+DPP‐4  inhibitor was sugDiabetes Metab J 2020;44:372‐381 COVID‐19
+and diabetes gested to have a protective role against MERS  [42].
+There  is a lack of evidence of SARS‐CoV2 binding to DPP‐4. DPP‐4
+inhibitors and glucagon‐like peptide‐1 receptor agonists may  ex‐
+ert  anti‐inflammatory  actions  in  human subjects and have been
+successfully used to control glucose levels in  hospitalized  pa‐
+tients  [43]. A study using Korean national insurance claim data,
+analyzed 832 confirmed COVID‐19 subjects with DM and, showed that
+use  of a DPP‐4 inhibitor is associated with better clinical out‐
+comes in patients with COVID‐19 [47].  However, whether DPP‐4 in‐
+hibitors  influence  the  course of the COVID‐19 remains unclear.
+Insufficient secretion of insulin as a result of beta  cell  dys‐
+function can develop in patients with multiple stresses triggered
+by COVID‐19. For intensive glucose control, the use of insulin is
+feasible.  Treatment with insulin infusion showed better glycemic
+control and less severe COVID‐19 in a retrospective  study  [25].
+Because of the possibility of extreme blood excursion in patients
+with severe COVID‐19, the risk of hypoglycemia should be careful‐
+ly monitored with insulin use. Good glycemic control is important
+in improving the outcomes of patients with COVID‐19. Anti‐diabet‐
+ic medications that effectively control blood glucose should have
+a beneficial effect on COVID‐19 prognosis. Some antidiabetic med‐
+ications are suggested to have immune‐modulating effects expected
+to have additional benefits, but neither of them has been  proven
+yet. Larger cohort studies are needed to prove specific anti‐dia‐
+betic medication is beneficial independent of glycemic control in
+COVID‐19  patients.   Renin‐angiotensin  aldosterone  system  in‐
+hibitors Regarding the association between COVID‐19 and ACE2,  an
+increased risk of SARS‐CoV‐2 infection due to elevated expression
+of ACE2 in patients treated with ACE inhibitors or angiotensin II
+receptor  blockers (ARBs) has been hypothesized. There is contro‐
+versy over whether renin‐angiotensin  aldosterone  system  (RAAS)
+inhibitors  are harmful or protective with respect to COVID‐19. A
+positive test for COVID‐19 or in the risk of severe COVID‐19 were
+not increased in who patients take RAAS inhibitors [48]. A retro‐
+spective single‐center study conducted in Korea also showed  that
+use of ARB or ACE inhibitor medications was not associated with a
+critical outcome, but showed  protective  effects  against  acute
+cardiac  injury  (odds ratio [OR], 0.048; P=0.05) in diabetic pa‐
+tients with COVID‐19 [19]. A study from Korea using national  in‐
+surance  claim  data  also  showed  no effect of RAAS blockade on
+clinical outcomes in COVID‐19 in patients with diabetes [47].  In
+a meta‐analysis of 12 studies involving more than 19,000 COVID‐19
+cases, RAAS inhibitor exposure was not associated with  a  higher
+risk  of  COVID‐19.  Among those with COVID‐19 in‐ General health
+practice Refrain from going out or visiting crowded areas.   Make
+sure  to  wash your hands and keep cough etiquette.  Do not touch
+your eyes, nose, and mouth with unwashed hands.  Put  on  a  mask
+before  you  visit a medical institution, avoid crowds, and avoid
+contacting someone with fever or respiratory symptoms.  frequent‐
+ly touched.  Practice for blood sugar Make sure to keep oral med‐
+ication and insulin administration more strict than usual.   Con‐
+duct  and  check  self‐monitoring of blood sugar more frequently.
+Once after waking up in the morning, once 2  hours  after  meals,
+that  is  conduct self‐monitoring of blood sugar at least twice a
+day. If the result is consistently higher than usual, visit  your
+doctor  or use the phone helpline.  as well.  Drink plenty of wa‐
+ter to prevent infection.  Exercise  is  necessary  in  order  to
+maintain  immunity.  Do  a certain amount (minimum 30 minutes) of
+aerobic exercises regularly every day at home. Do resistance  ex‐
+ercise twice a week.  Contact the community healthcare center for
+such symptoms as a cough, phlegm, and a fever. Contact the doctor
+for  sudden blood sugar increase. If it is difficult to visit the
+doctor, consult through the phone helpline  allowed  temporarily.
+Diabetes Metab J 2020;44:372‐381 Noh J, et al.  fection, RAAS in‐
+hibitor exposure was also not associated with a  higher  risk  of
+severe outcomes or mortality. On the contrary, RAAS inhibitor ex‐
+posure was associated with a lower risk of mortality compared  to
+those on non‐RAAS inhibitor antihypertensive drugs (OR, 0.48; 95%
+confidence interval [CI], 0.29 to  0.81;  P=0.006)  [49].  It  is
+strongly  recommended that patients who are taking ACE inhibitors
+or ARBs should not withdraw their current treatment regimens  be‐
+cause of COVID‐19.  THE KDAS SUGGESTIONS FOR COVID‐19 As there is
+the possibility for patients with diabetes, a  typically  immuno‐
+suppressive condition, to develop serious COVID‐19, the KDA would
+like to make some official  suggestions  regarding  the  COVID‐19
+epidemiological  emergency.   The KDA suggests that patients with
+diabetes, particularly, those over 70 years old, should have  the
+opportunity to be tested and hospitalized when symptoms are first
+detected. In this situation, when nationwide  spread  is  already
+suspected beyond local infection, preferential screening and hos‐
+pitalization of high risk groups such as  elderly  patients  with
+diabetes,  who  can progress to a serious condition will decrease
+the entire death toll and the number of deaths in the aged  older
+population.  This  should prevent the development of serious ill‐
+ness, which would be an efficient response to COVID‐19.  The  KDA
+also  provides  COVID‐19  prevention  guidelines health providers
+should be aware that they are more likely to develop serious ill‐
+ness  than  otherwise healthy people and follow strict prevention
+guidelines. In particular, patients with diabetes  aged  over  70
+years  are  a  high‐risk group and require special care. The more
+difficult the situation is, the more important it is  to  measure
+blood  sugar  closely  and  strictly maintain life style. The KDA
+suggests refraining from going out or visiting crowded areas, en‐
+suring  good  hand washing, maintaining cough etiquette, avoiding
+touching the face with unwashed hands, putting on a  mask  before
+visiting  a  medical institution, and avoiding contacting someone
+with fever or  respiratory  symptoms.  The  KDA  also  recommends
+avoiding  personal contact at home as much as possible and always
+wiping oral medications and administering insulin  more  strictly
+than  usual,  and  self‐monitoring  blood  sugar more frequently.
+Selfmonitoring of blood sugar should be performed at least  twice
+a  day  (after  waking  up  in the morning and once 2 hours after
 meals). If the result is consistently higher than usual, patients
-should visit their doctor or use the phone helpline. Proper nutrition therapy is also important. Sugar consumption should be
-limited. Regular three meals and balanced diet are essential.
-to prevent infection. Exercise is necessary in order to maintain
-immunity. A certain amount (minimum 30 minutes) of regular aerobic exercise is recommended every day at home. Regular resistance exercises are also recommended at least twice a
-week. Contacting the community healthcare center is needed
-if there are any symptoms such as a cough, phlegm, or fever.
-Immediate contact with a doctor is also needed when blood
-sugar levels reveal a sudden and consistent increase. If it is difficult to visit a doctor, consult through the phone helpline allowed temporarily.
-Close attention and timely adequate care are essential for the
-prevention and proper treatment of COVID-19 in diabetic patients. Expanding our knowledge about COVID-19, developing
-medications for SARS-CoV-2 infection, and conducting studies for identifying unanswered questions about the pathogenic
-pathway, risk factors, and effects of anti-diabetic medications
-on COVID-19 outcomes and the best practice for managing
-diabetes during pandemic are essential. For the future another
-infectious disease pandemic, we have to prepare nationwide remote monitoring and couching system for diabetic patients as
-overcome the current difficulties related to COVID-19.
-CONFLICTS OF INTEREST
-Diabetes Metab J 2020;44:372-381
-COVID-19 and diabetes
-This research did not receive any specific grant from funding
-We want to thank the support of the members of board of
-directors of Korean Diabetes Associations: Hak Chul Jang
-(President of KDA), Kun Ho Yoon (Chairman, Board of Directors), Yeon-Ah Sung, Minho Shong, Cheol Soo Choi, Kang
-Hee Sim, Sei Hyun Baik, Young Sik Choi, Sung Rae Kim, Kyu
-Chang Won, Sang Yong Kim, Hyuk Sang Kwon, Won Young
-Lee, Kee Ho Song, Chong Hwa Kim, Seungjoon Oh, SeungHyun Ko, Jaehyeon Kim, Eun Seok Kang, Seak Ki Yun, Young
-Min Cho, Nan Hee Kim, Chang Beom Lee, Sin Gon Kim,
-Sung-Woo Ha, Bon Jeong Ku, Cheol-Young Park, You-Cheol
-Hwang, Eun Jung Rhee, So Hun Kim, Seung-Hwan Lee, Jang
-Won Son, Sang Soo Kim, Bo Kyung Koo, Jung Hwan Park,
-Chang-Hee Jung. We especially thank the Ji Oh Mok (Director,
-Committee of Media-Public Relation) and Sung Hee Choi (Director, Committee of International Liaison).
-Baghbanzadeh M, Aghamohammadi N, Zhang W, Haque U.
-4. Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z,
-Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical
-course and outcomes of critically ill patients with SARS-CoV-2
-pneumonia in Wuhan, China: a single-centered, retrospective,
-observational study. Lancet Respir Med 2020;8:475-81.
-5. Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan
-H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC,
-Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ,
-Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen
-Diabetes Metab J 2020;44:372-381
-Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS;
-China Medical Treatment Expert Group for Covid-19. Clinical
-characteristics of coronavirus disease 2019 in China. N Engl J
-COVID-19 National Emergency Response Center, Epidemiology and Case Management Team, Korea Centers for Disease
-Control and Prevention. Coronavirus disease-19: the first 7,755
-Huang I, Lim MA, Pranata R. Diabetes mellitus is associated
-with increased mortality and severity of disease in COVID-19
-Carey IM, Critchley JA, DeWilde S, Harris T, Hosking FJ, Cook
-DG. Risk of infection in type 1 and type 2 diabetes compared
-with the general population: a matched cohort study. Diabetes
-Schoen K, Horvat N, Guerreiro NFC, de Castro I, de Giassi KS.
-Spectrum of clinical and radiographic findings in patients with
-diagnosis of H1N1 and correlation with clinical severity. BMC
-Infect Dis 2019;19:964.
-Song Z, Xu Y, Bao L, Zhang L, Yu P, Qu Y, Zhu H, Zhao W, Han
-Y, Qin C. From SARS to MERS, thrusting coronaviruses into
-the spotlight. Viruses 2019;11:59.
-Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L,
-Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J,
-Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng
-J, Song Y. Risk factors associated with acute respiratory distress
-syndrome and death in patients with coronavirus disease 2019
-pneumonia in Wuhan, China. JAMA Intern Med 2020 Mar 13
-Deng Y, Liu W, Liu K, Fang YY, Shang J, Zhou L, Wang K, Leng
-F, Wei S, Chen L, Liu HG. Clinical characteristics of fatal and
-recovered cases of coronavirus disease 2019 in Wuhan, China:
-a retrospective study. Chin Med J (Engl) 2020;133:1261-7.
-Chen Q, Zheng Z, Zhang C, Zhang X, Wu H, Wang J, Wang S,
-Zheng C. Clinical characteristics of 145 patients with corona
-virus disease 2019 (COVID-19) in Taizhou, Zhejiang, China.
-Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H,
-Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. JAMA 2020;323:
-Noh J, et al.
-15. Zhang JJ, Dong X, Cao YY, Yuan YD, Yang YB, Yan YQ, Akdis
-CA, Gao YD. Clinical characteristics of 140 patients infected
-with SARS-CoV-2 in Wuhan, China. Allergy 2020 Feb 19
-16. Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song
-B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen
-H, Cao B. Clinical course and risk factors for mortality of adult
-inpatients with COVID-19 in Wuhan, China: a retrospective
-cohort study. Lancet 2020;395:1054-62.
-17. Guo W, Li M, Dong Y, Zhou H, Zhang Z, Tian C, Qin R, Wang
-H, Shen Y, Du K, Zhao L, Fan H, Luo S, Hu D. Diabetes is a risk
-18. Yan Y, Yang Y, Wang F, Ren H, Zhang S, Shi X, Yu X, Dong K.
-Clinical characteristics and outcomes of patients with severe
-COVID-19 with diabetes. BMJ Open Diabetes Res Care 2020;
-19. Chung SM, Lee YY, Ha E, Yoon JS, Won KC, Lee HW, Hur J,
-Hong KS, Jang JG, Jin HJ, Choi EY, Shin KC, Chung JH, Lee
-KH, Ahn JH, Moon JS. The risk of diabetes on clinical outcomes in patients with coronavirus disease 2019: a retrospective cohort study. Diabetes Metab J 2020;44:405-13.
-20. The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. Vital surveillances: the epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases
-(COVID-19): China, 2020. China CDC Wkly 2020;2:113-22.
-21. CDC COVID-19 Response Team. Preliminary estimates of the
-prevalence of selected underlying health conditions among patients with coronavirus disease 2019: United States, February
-12-March 28, 2020. MMWR Morb Mortal Wkly Rep 2020;69:
-22. Shi Q, Zhang X, Jiang F, Zhang X, Hu N, Bimu C, Feng J, Yan S,
-Guan Y, Xu D, He G, Chen C, Xiong X, Liu L, Li H, Tao J, Peng
-Z, Wang W. Clinical characteristics and risk factors for mortality of COVID-19 patients with diabetes in Wuhan, China: a
-two-center, retrospective study. Diabetes Care 2020 May 14
-23. Zhu L, She ZG, Cheng X, Qin JJ, Zhang XJ, Cai J, Lei F, Wang H,
-Xie J, Wang W, Li H, Zhang P, Song X, Chen X, Xiang M,
-Zhang C, Bai L, Xiang D, Chen MM, Liu Y, Yan Y, Liu M, Mao
-W, Zou J, Liu L, Chen G, Luo P, Xiao B, Zhang C, Zhang Z, Lu
-Z, Wang J, Lu H, Xia X, Wang D, Liao X, Peng G, Ye P, Yang J,
-Yuan Y, Huang X, Guo J, Zhang BH, Li H. Association of blood
-glucose control and outcomes in patients with COVID-19 and
-pre-existing type 2 diabetes. Cell Metab 2020;31:1068-77.
-24. Cariou B, Hadjadj S, Wargny M, Pichelin M, Al-Salameh A,
-Allix I, Amadou C, Arnault G, Baudoux F, Bauduceau B, Borot
-S, Bourgeon-Ghittori M, Bourron O, Boutoille D, CazenaveRoblot F, Chaumeil C, Cosson E, Coudol S, Darmon P, Disse E,
-Ducet-Boiffard A, Gaborit B, Joubert M, Kerlan V, Laviolle B,
-Marchand L, Meyer L, Potier L, Prevost G, Riveline JP, Robert
-R, Saulnier PJ, Sultan A, Thebaut JF, Thivolet C, Tramunt B,
-Vatier C, Roussel R, Gautier JF, Gourdy P; CORONADO investigators. Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study.
-25. Sardu C, DOnofrio N, Balestrieri ML, Barbieri M, Rizzo MR,
-Messina V, Maggi P, Coppola N, Paolisso G, Marfella R. Outcomes in patients with hyperglycemia affected by COVID-19:
-can we do more on glycemic control? Diabetes Care 2020 May
-26. Moutschen MP, Scheen AJ, Lefebvre PJ. Impaired immune responses in diabetes mellitus: analysis of the factors and mechanisms involved. Relevance to the increased susceptibility of diabetic patients to specific infections. Diabete Metab 1992;18:
-28. Delamaire M, Maugendre D, Moreno M, Le Goff MC, Allannic
-H, Genetet B. Impaired leucocyte functions in diabetic patients. Diabet Med 1997;14:29-34.
-29. Chang FY, Shaio MF. Respiratory burst activity of monocytes
-from patients with non-insulin-dependent diabetes mellitus.
-Diabetes Res Clin Pract 1995;29:121-7.
-30. Kohio HP, Adamson AL. Glycolytic control of vacuolar-type
-ATPase activity: a mechanism to regulate influenza viral infection. Virology 2013;444:301-9.
-31. Bastard JP, Jardel C, Bruckert E, Vidal H, Hainque B. Variations
-in plasma soluble tumour necrosis factor receptors after dietinduced weight loss in obesity. Diabetes Obes Metab 2000;2:
-32. Ross R. Atherosclerosis: an inflammatory disease. N Engl J
-33. Gattinoni L, Coppola S, Cressoni M, Busana M, Rossi S, Chiumello D. COVID-19 does not lead to a typical acute respiratory distress syndrome. Am J Respir Crit Care Med 2020;201:
-34. Maddaloni E, Buzzetti R. Covid-19 and diabetes mellitus: unDiabetes Metab J 2020;44:372-381
-COVID-19 and diabetes
-veiling the interaction of two pandemics. Diabetes Metab Res
-Zheng Z, Peng F, Xu B, Zhao J, Liu H, Peng J, Li Q, Jiang C,
-Cai Q, Chen F, Wang T, Luo F, Liu X, Wu Q, He Q, Wang Z, Liu
-Y, Liu L, Chen J, Xu L. Obesity and COVID-19 severity in a
-designated hospital in Shenzhen, China. Diabetes Care 2020
-Hoffmann M, Kleine-Weber H, Schroeder S, Kruger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH, Nitsche A,
-Muller MA, Drosten C, Pohlmann S. SARS-CoV-2 cell entry
-depends on ACE2 and TMPRSS2 and is blocked by a clinically
-proven protease inhibitor. Cell 2020;181:271-80.
-Li XC, Zhang J, Zhuo JL. The vasoprotective axes of the reninangiotensin system: physiological relevance and therapeutic
-implications in cardiovascular, hypertensive and kidney diseases. Pharmacol Res 2017;125(Pt A):21-38.
-Yang JK, Lin SS, Ji XJ, Guo LM. Binding of SARS coronavirus
-to its receptor damages islets and causes acute diabetes. Acta
-Rodrigues Prestes TR, Rocha NP, Miranda AS, Teixeira AL, Simoes-E-Silva AC. The anti-inflammatory potential of ACE2/
-angiotensin-(1-7)/mas receptor axis: evidence from basic and
-clinical research. Curr Drug Targets 2017;18:1301-13.
-Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T,
-Baillie JK, Al-Omari A, Hajeer AH, Senga M, Denison MR,
-Nguyen-Van-Tam JS, Shindo N, Bermingham A, Chappell JD,
-Van Kerkhove MD, Fowler RA. Middle East respiratory syn-
-Diabetes Metab J 2020;44:372-381
-drome. N Engl J Med 2017;376:584-94.
-42. Raj VS, Mou H, Smits SL, Dekkers DH, Muller MA, Dijkman
-R, Muth D, Demmers JA, Zaki A, Fouchier RA, Thiel V, Drosten C, Rottier PJ, Osterhaus AD, Bosch BJ, Haagmans BL. Dipeptidyl peptidase 4 is a functional receptor for the emerging
-human coronavirus-EMC. Nature 2013;495:251-4.
-43. Drucker DJ. Coronavirus infections and type 2 diabetes-shared
-44. Kim NY, Ha E, Moon JS, Lee YH, Choi EY. Acute hyperglycemic crises with coronavirus disease-19: case reports. Diabetes
-Metab J 2020;44:349-53.
-45. Li J, Wang X, Chen J, Zuo X, Zhang H, Deng A. COVID-19 infection may cause ketosis and ketoacidosis. Diabetes Obes
-46. Garg SK, Rodbard D, Hirsch IB, Forlenza GP. Managing newonset type 1 diabetes during the COVID-19 pandemic: challenges and opportunities. Diabetes Technol Ther 2020;22:4319.
-47. Rhee SY, Lee J, Nam H, Kyoung DS, Kim DJ. Effects of a DPP-4
-inhibitor and RAS blockade on clinical outcomes of patients
-48. Reynolds HR, Adhikari S, Pulgarin C, Troxel AB, Iturrate E,
-Johnson SB, Hausvater A, Newman JD, Berger JS, Bangalore S,
-Katz SD, Fishman GI, Kunichoff D, Chen Y, Ogedegbe G, Hochman JS. Renin-angiotensin-aldosterone system inhibitors
-and risk of COVID-19. N Engl J Med 2020;382:2441-8.
+should  visit  their doctor or use the phone helpline. Proper nu‐
+trition therapy is also important. Sugar  consumption  should  be
+limited. Regular three meals and balanced diet are essential.  to
+prevent infection. Exercise is necessary in order to maintain im‐
+munity.  A certain amount (minimum 30 minutes) of regular aerobic
+exercise is recommended every day at home. Regular resistance ex‐
+ercises  are  also  recommended at least twice a week. Contacting
+the community healthcare center is needed if there are any  symp‐
+toms such as a cough, phlegm, or fever.  Immediate contact with a
+doctor is also needed when blood sugar levels reveal a sudden and
+consistent  increase.  If it is difficult to visit a doctor, con‐
+sult through the phone helpline allowed temporarily.   Close  at‐
+tention and timely adequate care are essential for the prevention
+and proper treatment of COVID‐19 in diabetic patients.  Expanding
+our  knowledge  about  COVID‐19, developing medications for SARS‐
+CoV‐2 infection, and conducting  studies  for  identifying  unan‐
+swered  questions about the pathogenic pathway, risk factors, and
+effects of anti‐diabetic medications on COVID‐19 outcomes and the
+best  practice  for  managing diabetes during pandemic are essen‐
+tial. For the future another infectious disease pandemic, we have
+to  prepare  nationwide remote monitoring and couching system for
+diabetic patients as overcome the current difficulties related to
+COVID‐19.  CONFLICTS OF INTEREST Diabetes Metab J 2020;44:372‐381
+COVID‐19 and diabetes This research did not receive any  specific
+grant from funding We want to thank the support of the members of
+board of directors of Korean Diabetes Associations: Hak Chul Jang
+(President  of  KDA), Kun Ho Yoon (Chairman, Board of Directors),
+Yeon‐Ah Sung, Minho Shong, Cheol Soo Choi, Kang Hee Sim, Sei Hyun
+Baik, Young Sik Choi, Sung Rae Kim, Kyu Chang Won, Sang Yong Kim,
+Hyuk Sang Kwon, Won Young Lee, Kee Ho Song, Chong  Hwa  Kim,  Se‐
+ungjoon  Oh,  SeungHyun  Ko, Jaehyeon Kim, Eun Seok Kang, Seak Ki
+Yun, Young Min Cho, Nan Hee Kim, Chang Beom  Lee,  Sin  Gon  Kim,
+Sung‐Woo Ha, Bon Jeong Ku, Cheol‐Young Park, You‐Cheol Hwang, Eun
+Jung Rhee, So Hun Kim, Seung‐Hwan Lee, Jang  Won  Son,  Sang  Soo
+Kim,  Bo Kyung Koo, Jung Hwan Park, Chang‐Hee Jung. We especially
+thank the Ji Oh Mok (Director, Committee  of  Media‐Public  Rela‐
+tion) and Sung Hee Choi (Director, Committee of International Li‐
+aison).  Baghbanzadeh M, Aghamohammadi N, Zhang W, Haque  U.   4.
+Yang  X,  Yu  Y,  Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z,
+Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan  S,  Shang  Y.  Clinical
+course  and  outcomes  of critically ill patients with SARS‐CoV‐2
+pneumonia in Wuhan, China: a single‐centered, retrospective,  ob‐
+servational  study. Lancet Respir Med 2020;8:475‐81.  5. Guan WJ,
+Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei  CL,  Hui
+DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen
+PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y,  Hu
+YH,   Peng   P,   Wang   JM,   Liu  JY,  Chen  Diabetes  Metab  J
+2020;44:372‐381 Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu  SY,
+Zhong  NS;  China  Medical  Treatment  Expert Group for Covid‐19.
+Clinical characteristics of coronavirus disease 2019 in China.  N
+Engl  J COVID‐19 National Emergency Response Center, Epidemiology
+and Case Management Team, Korea Centers for Disease  Control  and
+Prevention.  Coronavirus disease‐19: the first 7,755 Huang I, Lim
+MA, Pranata R. Diabetes mellitus  is  associated  with  increased
+mortality and severity of disease in COVID‐19 Carey IM, Critchley
+JA, DeWilde S, Harris T, Hosking FJ, Cook DG. Risk  of  infection
+in  type  1 and type 2 diabetes compared with the general popula‐
+tion: a matched cohort study. Diabetes Schoen K, Horvat N,  Guer‐
+reiro  NFC,  de Castro I, de Giassi KS.  Spectrum of clinical and
+radiographic findings in patients with diagnosis of H1N1 and cor‐
+relation  with  clinical  severity.  BMC  Infect Dis 2019;19:964.
+Song Z, Xu Y, Bao L, Zhang L, Yu P, Qu Y, Zhu H, Zhao W,  Han  Y,
+Qin  C. From SARS to MERS, thrusting coronaviruses into the spot‐
+light. Viruses 2019;11:59.  Wu C, Chen X, Cai Y, Xia J,  Zhou  X,
+Xu  S,  Huang  H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S,
+Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong  W,  Xu  L,  Zhou  F,
+Jiang  J,  Bai  C,  Zheng J, Song Y. Risk factors associated with
+acute respiratory distress syndrome and death  in  patients  with
+coronavirus  disease  2019 pneumonia in Wuhan, China. JAMA Intern
+Med 2020 Mar 13 Deng Y, Liu W, Liu K, Fang YY, Shang J,  Zhou  L,
+Wang  K,  Leng F, Wei S, Chen L, Liu HG. Clinical characteristics
+of fatal and recovered  cases  of  coronavirus  disease  2019  in
+Wuhan,   China:   a   retrospective  study.  Chin  Med  J  (Engl)
+2020;133:1261‐7.  Chen Q, Zheng Z, Zhang C, Zhang X, Wu  H,  Wang
+J, Wang S, Zheng C. Clinical characteristics of 145 patients with
+corona virus disease 2019 (COVID‐19) in Taizhou, Zhejiang, China.
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng
+Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z.  Clinical  characteris‐
+tics of 138 hospitalized patients with 2019 novel coronavirus‐in‐
+fected pneumonia in Wuhan, China. JAMA 2020;323: Noh  J,  et  al.
+15. Zhang JJ, Dong X, Cao YY, Yuan YD, Yang YB, Yan YQ, Akdis CA,
+Gao YD. Clinical characteristics of 140  patients  infected  with
+SARS‐CoV‐2 in Wuhan, China. Allergy 2020 Feb 19 16. Zhou F, Yu T,
+Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L,
+Wei  Y,  Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical
+course and risk factors for mortality of  adult  inpatients  with
+COVID‐19  in  Wuhan,  China: a retrospective cohort study. Lancet
+2020;395:1054‐62.  17. Guo W, Li M, Dong Y, Zhou H, Zhang Z, Tian
+C,  Qin R, Wang H, Shen Y, Du K, Zhao L, Fan H, Luo S, Hu D. Dia‐
+betes is a risk 18. Yan Y, Yang Y, Wang F, Ren H, Zhang S, Shi X,
+Yu  X, Dong K.  Clinical characteristics and outcomes of patients
+with severe COVID‐19 with diabetes. BMJ Open  Diabetes  Res  Care
+2020; 19. Chung SM, Lee YY, Ha E, Yoon JS, Won KC, Lee HW, Hur J,
+Hong KS, Jang JG, Jin HJ, Choi EY, Shin KC, Chung JH, Lee KH, Ahn
+JH,  Moon  JS.  The  risk of diabetes on clinical outcomes in pa‐
+tients with coronavirus  disease  2019:  a  retrospective  cohort
+study.  Diabetes  Metab  J  2020;44:405‐13.  20. The Novel Coron‐
+avirus Pneumonia  Emergency  Response  Epidemiology  Team.  Vital
+surveillances: the epidemiological characteristics of an outbreak
+of 2019 novel coronavirus diseases (COVID‐19): China, 2020. China
+CDC Wkly 2020;2:113‐22.  21. CDC COVID‐19 Response Team. Prelimi‐
+nary estimates of the prevalence of  selected  underlying  health
+conditions  among  patients with coronavirus disease 2019: United
+States, February 12‐March 28, 2020. MMWR  Morb  Mortal  Wkly  Rep
+2020;69: 22. Shi Q, Zhang X, Jiang F, Zhang X, Hu N, Bimu C, Feng
+J, Yan S, Guan Y, Xu D, He G, Chen C, Xiong X, Liu L, Li  H,  Tao
+J,  Peng Z, Wang W. Clinical characteristics and risk factors for
+mortality of COVID‐19 patients with diabetes in Wuhan,  China:  a
+two‐center,  retrospective  study.  Diabetes Care 2020 May 14 23.
+Zhu L, She ZG, Cheng X, Qin JJ, Zhang XJ, Cai J, Lei F,  Wang  H,
+Xie  J,  Wang W, Li H, Zhang P, Song X, Chen X, Xiang M, Zhang C,
+Bai L, Xiang D, Chen MM, Liu Y, Yan Y, Liu M, Mao W, Zou  J,  Liu
+L,  Chen  G, Luo P, Xiao B, Zhang C, Zhang Z, Lu Z, Wang J, Lu H,
+Xia X, Wang D, Liao X, Peng G, Ye P, Yang J, Yuan Y, Huang X, Guo
+J,  Zhang BH, Li H. Association of blood glucose control and out‐
+comes in patients with COVID‐19 and pre‐existing type 2 diabetes.
+Cell  Metab  2020;31:1068‐77.  24. Cariou B, Hadjadj S, Wargny M,
+Pichelin M, Al‐Salameh A, Allix I, Amadou C, Arnault  G,  Baudoux
+F,   Bauduceau  B,  Borot  S,  Bourgeon‐Ghittori  M,  Bourron  O,
+Boutoille D, CazenaveRoblot F, Chaumeil C, Cosson  E,  Coudol  S,
+Darmon P, Disse E, Ducet‐Boiffard A, Gaborit B, Joubert M, Kerlan
+V, Laviolle B, Marchand L, Meyer L, Potier L, Prevost G, Riveline
+JP, Robert R, Saulnier PJ, Sultan A, Thebaut JF, Thivolet C, Tra‐
+munt B, Vatier C, Roussel R, Gautier JF, Gourdy P;  CORONADO  in‐
+vestigators.  Phenotypic  characteristics  and prognosis of inpa‐
+tients with COVID‐19 and diabetes: the CORONADO study.  25. Sardu
+C,  DOnofrio  N, Balestrieri ML, Barbieri M, Rizzo MR, Messina V,
+Maggi P, Coppola N, Paolisso G, Marfella R. Outcomes in  patients
+with  hyperglycemia  affected  by  COVID‐19:  can  we  do more on
+glycemic control? Diabetes Care 2020 May 26. Moutschen MP, Scheen
+AJ,  Lefebvre PJ. Impaired immune responses in diabetes mellitus:
+analysis of the factors and mechanisms involved. Relevance to the
+increased  susceptibility of diabetic patients to specific infec‐
+tions. Diabete Metab  1992;18:  28.  Delamaire  M,  Maugendre  D,
+Moreno  M,  Le Goff MC, Allannic H, Genetet B. Impaired leucocyte
+functions in diabetic patients. Diabet  Med  1997;14:29‐34.   29.
+Chang  FY, Shaio MF. Respiratory burst activity of monocytes from
+patients with non‐insulin‐dependent diabetes mellitus.   Diabetes
+Res  Clin  Pract  1995;29:121‐7.   30. Kohio HP, Adamson AL. Gly‐
+colytic control of vacuolar‐type ATPase activity: a mechanism  to
+regulate influenza viral infection. Virology 2013;444:301‐9.  31.
+Bastard JP, Jardel C, Bruckert E, Vidal H, Hainque B.  Variations
+in  plasma soluble tumour necrosis factor receptors after dietin‐
+duced weight loss in obesity. Diabetes  Obes  Metab  2000;2:  32.
+Ross  R.  Atherosclerosis:  an inflammatory disease. N Engl J 33.
+Gattinoni L, Coppola S, Cressoni M, Busana M, Rossi S,  Chiumello
+D. COVID‐19 does not lead to a typical acute respiratory distress
+syndrome. Am J Respir Crit Care Med 2020;201:  34.  Maddaloni  E,
+Buzzetti  R.  Covid‐19  and diabetes mellitus: unDiabetes Metab J
+2020;44:372‐381 COVID‐19 and diabetes veiling the interaction  of
+two  pandemics. Diabetes Metab Res Zheng Z, Peng F, Xu B, Zhao J,
+Liu H, Peng J, Li Q, Jiang C, Cai Q, Chen F, Wang T, Luo  F,  Liu
+X,  Wu  Q,  He Q, Wang Z, Liu Y, Liu L, Chen J, Xu L. Obesity and
+COVID‐19 severity in a designated hospital  in  Shenzhen,  China.
+Diabetes  Care  2020  Hoffmann  M,  Kleine‐Weber  H, Schroeder S,
+Kruger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH,
+Nitsche  A, Muller MA, Drosten C, Pohlmann S. SARS‐CoV‐2 cell en‐
+try depends on ACE2 and TMPRSS2 and is blocked  by  a  clinically
+proven protease inhibitor. Cell 2020;181:271‐80.  Li XC, Zhang J,
+Zhuo JL. The vasoprotective axes of the reninangiotensin  system:
+physiological  relevance  and therapeutic implications in cardio‐
+vascular,  hypertensive  and  kidney  diseases.   Pharmacol   Res
+2017;125(Pt A):21‐38.  Yang JK, Lin SS, Ji XJ, Guo LM. Binding of
+SARS coronavirus to its receptor damages islets and causes  acute
+diabetes.  Acta Rodrigues Prestes TR, Rocha NP, Miranda AS, Teix‐
+eira AL, Simoes‐E‐Silva AC. The  anti‐inflammatory  potential  of
+ACE2/  angiotensin‐(1‐7)/mas  receptor  axis: evidence from basic
+and clinical research. Curr Drug Targets 2017;18:1301‐13.   Arabi
+YM,  Balkhy  HH,  Hayden  FG, Bouchama A, Luke T, Baillie JK, Al‐
+Omari A, Hajeer AH, Senga M, Denison MR, Nguyen‐Van‐Tam JS, Shin‐
+do N, Bermingham A, Chappell JD, Van Kerkhove MD, Fowler RA. Mid‐
+dle East respiratory syn‐ Diabetes Metab J 2020;44:372‐381 drome.
+N  Engl  J  Med  2017;376:584‐94.   42.  Raj VS, Mou H, Smits SL,
+Dekkers DH, Muller MA, Dijkman R, Muth D,  Demmers  JA,  Zaki  A,
+Fouchier  RA, Thiel V, Drosten C, Rottier PJ, Osterhaus AD, Bosch
+BJ, Haagmans BL. Dipeptidyl peptidase 4 is a functional  receptor
+for  the  emerging  human coronavirus‐EMC. Nature 2013;495:251‐4.
+43. Drucker DJ. Coronavirus infections and type 2 diabetes‐shared
+44.  Kim  NY, Ha E, Moon JS, Lee YH, Choi EY. Acute hyperglycemic
+crises with coronavirus disease‐19: case reports. Diabetes  Metab
+J 2020;44:349‐53.  45. Li J, Wang X, Chen J, Zuo X, Zhang H, Deng
+A. COVID‐19 infection may cause ketosis  and  ketoacidosis.  Dia‐
+betes Obes 46. Garg SK, Rodbard D, Hirsch IB, Forlenza GP. Manag‐
+ing newonset type 1 diabetes during the COVID‐19 pandemic:  chal‐
+lenges  and  opportunities.  Diabetes  Technol Ther 2020;22:4319.
+47. Rhee SY, Lee J, Nam H, Kyoung DS, Kim DJ. Effects of a  DPP‐4
+inhibitor  and  RAS blockade on clinical outcomes of patients 48.
+Reynolds HR, Adhikari S, Pulgarin C, Troxel AB, Iturrate E, John‐
+son  SB, Hausvater A, Newman JD, Berger JS, Bangalore S, Katz SD,
+Fishman GI, Kunichoff D, Chen Y, Ogedegbe G, Hochman  JS.  Renin‐
+angiotensin‐aldosterone system inhibitors and risk of COVID‐19. N
+Engl J Med 2020;382:2441‐8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

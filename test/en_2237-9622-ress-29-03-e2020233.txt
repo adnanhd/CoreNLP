@@ -1,754 +1,594 @@
-of the most frequent signs and symptoms among
-confirmed cases
-Universidade do Sul de Santa Catarina, Programa de Ps-Graduao em Cincias da Sade, Tubaro SC, Brazil
-Universidade do Sul de Santa Catarina, Faculdade de Medicina, Tubaro, SC, Brazil
-Objective: to describe the most frequent signs and symptoms of infection by severe acute respiratory syndrome coronavirus
-publications. Results: the spectrum of clinical disease was wide; fever, coughing and dyspnea were the most frequent signs/
-symptoms, however, they may not be present, thus hindering case definition; gastrointestinal symptoms and loss of taste or
-smell have been reported among mild cases; dyspnea was frequent among severe and fatal cases. Conclusion: considering
-the scarcity of diagnostic tests and the diversity of symptoms, health services should use a sensitive case definition, in order
-to adopt appropriate surveillance, prevention and treatment actions.
-Betine Pinto Moehlecke Iser - Av. Jos Accio Moreira, No. 787, Bairro Dehon, Caixa Postal 370, Tubaro, SC, Brazil.
-Epidemiol. Serv. Saude, Braslia, 29(3):e2019354, 2020
-Suspected COVID-19 case definition
-The coronavirus 2 pandemic related to severe acute
-respiratory syndrome (SARS-CoV-2), which causes
-coronavirus disease 2019 (COVID-19), emerged at the end
-of 2019 in Wuhan, Hubei Province, China, and has spread
-rapidly across all continents, exponentially increasing
-the number of infected people and causing thousands
-of deaths worldwide.1 It is estimated that as at April 26th
-2020, more than 2.8 million people had been infected
-and over 193,000 had died from causes related to the
-disease caused by the novel coronavirus (COVID-19).2
-Given its vast magnitude and the diverse supplies
-needed to control it, such as availability of diagnostic tests
-for affected people, combating COVID-19 has become
-a challenge, especially for low and middle-income
-countries such as Brazil which depend on technologies
-produced in other countries.3
-Assessing clinical signs and symptoms
-shown by infected people can
-help establish the healthcare flow
-and indicate the need to perform
-confirmatory tests.
-How can SARS-CoV-2 infection be diagnosed or defined,
-if health centers do not have sufficient laboratory tests
-available? Moreover, diagnostic tests are intended to be
-used at specific times of infection and, depending on
-the stage of the disease, may not be very accurate.4,5 As
-such, assessing clinical signs and symptoms shown by
-infected people can help establish the healthcare flow
-and indicate the need to perform confirmatory tests.6
-The objective of this study was to describe the most
-frequent signs and symptoms of SARS-CoV-2 infection,
-in order to guide case suspicion based on clinical
-manifestations and to characterize case severity.
-art of a given subject and enable more in-depth discussion.
-that presented a description of the clinical picture of the
-first COVID-19 cases.
-The searches were based on the following research
-question: What are the most frequent signs and symptoms
-of SARS-CoV-2 infection? The bibliographic search was
-performed on the Scopus, medRXiv, MEDLINE, SciELO
-and Google Scholar databases, and it was complemented
-with a manual search on the lists of references of the
-papers selected and also on the Brazilian Health Ministry
-website. No limitations were set for date, study country
-or area of knowledge. The following terms were use for
-the search: Signs, symptoms clinical, laboratory,
-combined with Novel coronavirus Novel coronavirus
-2019, 2019 nCoV, COVID-19, Wuhan coronavirus,
-Wuhan pneumonia and SARS-CoV-2.
-and Portuguese. In situations in which more than one
-interest, those with smaller sample sizes and/or which
-were older were excluded.
-Most frequent signs and symptoms among
-confirmed COVID-19 cases
-Ten studies were selected which describe the first
-confirmed COVID-19 cases and the most common signs and
-According to the Brazilian Ministry of Health,
-information is still limited for characterizing the
-spectrum of the clinical disease. The Ministry therefore
-establishes flu-like syndrome (FS) as being the most
-common manifestation, this being defined as an acute
-respiratory clinical picture, characterized by sensation
-of fever or fever, even if reported, accompanied by
-coughing, sore throat or runny nose or difficulty in
-breathing.7 If breathing difficulties are present, severe
-acute respiratory syndrome (SARS) may be considered,8
-defined by FS showing dyspnea/breathing discomfort or
-persistent pressure in the thorax or O2 saturation below
-95% in ambient air or lips or face with a bluish color.9
-According to the World Health Organization (WHO),2
-the initial signs/symptoms of the disease appear like those
-of influenza, but vary from person to person, and can
-be mild, in the form of pneumonia, severe pneumonia
-and SARS. The majority of infected people have the mild
-form of the disease, with symptoms such as malaise,
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-RT-PCR for
-RT-PCR+ for
-Retrospective series
-with 69 cases hospitalized at the Union
-Hospital, in Wuhan,
-between January 16
-Retrospective series of
-214 hospitalized cases;
-data retrieved from
-medical records
-Wang Z et al.,
-Mao L et al.,
-Series with 24 cases
-RT-PCR+ for
-18 years old hospitali- COVID-19
-zed in ITU
-Bhatraju PK et
-RT-PCR+ for
-Retrospective case
-series, that (i) died
-(n=113) and (ii) that
-Chen T et al.,
-Symptoms such as diarrhea, nausea, vomiting and headache
-were present; 32% of total cases and 38% of cases admitted to
-ITU had comorbidities, of which diabetes was the most common
-(20%). All cases had pneumonia, 98% bilateral.
-Fever (98%) + coughing (76%) + myalgia/
-fatigue (44%), dyspnea (55%), sputum
-production (28%), headache (8%), (5%) and
-Coughing (67.8%) + fever (43.8% at
-15% had the severe form of the disease; 23.7% had at least one
-admission and 88.7% during hospitalization) comorbidity (38% of severe cases).
-Common symptoms
-All 14 deaths (20%) had saturation 90%, were older (70.5
-years vs 37 years), had more comorbidities (hypertension 36%
-vs 7%), cardiovascular disease (36% vs 5%) and diabetes (43%
-vs 2%), and increased inflammatory cytokines.
-Severe cases were older (58.7  15.0 years vs 48.9  14.7 years),
-had more comorbidities (42 [47.7%] vs 41 [32.5%]), hyperInflammatory response patFever
-tension (32 [36.4%] vs 19 [15.1%]), and had fewer symptoms
-tern, principally in severe cases: and anorexia (68 [31.8%]). CNS: dizziness
-considered typical such as fever (40 [45.5%] vs92 [73%]) and
-more leukocytes and neutro(16.8%) and headache (13.1%). PNS: anos- coughing (30 [34.1%] vs 77 [61.1%]). Severe cases presented
-phils, fewer lymphocytes and mia
-(5.1%) and ageusia (5.6%)
-damage to liver, kidneys and muscles. NS symptoms were more
-higher CRP levels
-common in severe cases, but with no laboratory differences
-between those who did or did not have PNS symptoms.
-to be continue
-Reduction in neutrophils (39%),
-eosinophils (72%) and lym(87%), coughing (55%), fatigue (42%),
-phocytes; lymphopenia (42%), Fever
-higher among deaths (79%
-63% of cases that died and 39% of those that recovered had at
-least one chronic disease: hypertension (48%), cardiovascular
-Lymphopenia in 39% of deaths Fever (~90%) + coughing (~66-70%) +
-diseases (14%) and cerebrovascular diseases (4%). Deaths
-and 5% of recovered and
-milder symptoms; dyspnea and tight chest presented tachycardia (50%) and tachypnea (27%), and satuleukocytosis in 50% of deaths more common among deaths, as well as loss ration  93% (64%); 8% of cases that died and 10% of those
-and 4% of recovered
-of consciousness
-that recovered did not have fever, but did have fatigue (~50%),
-coughing (68%), dyspnea (44%), myalgia (22%) or diarrhea
-(28%) as initial symptoms.
-Dyspnea and coughing (88%) + fever
-58% had diabetes and 14% had asthma and the disease was
-75% lymphopenia and search (50%); sputum production (42%), rhinorwith use of glucocorticoids; 22% were smokers;
-for other pathogens
-rhea (17%), sore throat (8%) and headache exacerbated
-than one chronic condition.
-Cohorta of 1,099 cases RT-PCR+ for
-from 552 hospitals in 30 COVID-19
-Guan WJ et al.,
-Laboratory test
-Leukopenia (25%) and
-Seriesa comprised of 41
-cases hospitalized as at
-Huang et al.,
-RT-PCR+ for
-Type of study and
-Place of
-Betine Pinto Moehlecke Iser et al.
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Place of
-RT-PCR: reverse transcription polymerase chain reaction.
-COVID-19: disease caused by SARS-CoV-2.
-ITU: intensive therapy unit.
-CRP: C-reactive protein.
-CNS: central nervous system.
-PNS: peripheral nervous system.
-NS: nervous system.
-IQR: interquartile range.
-AST: aspartate aminotransferase enzyme.
-ALT: alanine aminotransferase enzyme.
-GI: gastrointestinal.
-vs: versus.
-Jin X et al.,
-RT-PCR for
-Not reported
-Retrospective study
-with 651 hospitalized
-Zhejiang, cases and clinical/ epi- RT-PCR+ for
-demiological analysis of COVID-19
-74 cases with digestive
-Cross-sectional study:
-204 hospitalized cases
-Brief communication:
-Not reported
-Type of study and
-Cross-sectional study
-with 88 hospitalized
-cases; 59 interviewed
-Pan L et al.,
-Vaira LA et al.,
-Giacomelli A et Milan,
-Increased AST and ALT in the
-group of patients with ALT
-(20.4%) and AST (16.5%)
-digestive symptoms, compared
-to the group with no ALT (5.9%)
-and AST (5.0%) digestive
-Increase in AST isolated in
-patients with GI symptoms
-greater than in those with no GI
-symptoms (29.35 vs 24.4). No
-significant different in makers
-related to CRP infection and
-Not reported
-Not reported
-Laboratory test
-Digestive symptoms (diarrhea, vomiting,
-nausea) in 11.4% of total cases. Fever
-(85.54%), coughing (71.62%), sputum
-(39.19%), fatigue (31.08%) and headache
-50.5% of hospitalized patients had digestive
-symptoms: loss of appetite (78.64%),
-diarrhea (34%) and vomiting (3.9%).
-Concomitantly, 94% had respiratory
-symptoms: fever (92.23%) and
-Retrospective study. Chronic liver disease rate was higher in
-cases with GI symptoms in relation to those with no GI symptoms (10.81% vs 2.95%). Severe/critical type rate was greater
-in cases with GI symptoms than in those without symptoms
-Descriptive, cross-section and multicenter study. Cases with
-digestive symptoms had longer hospitalization time in relation
-to patients without digestive symptoms (9 days vs 7.3 days).
-However, there was no significant difference in the time of
-hospital discharge, days in ITU or mortality between the groups .
-Fever (72.8%), coughing (37.3%), dyspnea Symptoms appeared more in women (52.6% vs 25%) and
-(25.4%), arthralgia (5.1%), at least one smell younger people (median 56 years, IQR 47-60 years vs 66 years,
-or taste sense disorder (33.9%) or both
-IQR 52-77). 72.8% had pneumonia at hospital admission.
-Anosmia and ageusia associated with fever.
-Some kind of dysfunction: 19.4% (not
-accompanied by nasal obstruction or rhinitis
-Common symptoms
-Suspected COVID-19 case definition
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Betine Pinto Moehlecke Iser et al.
-Flu-like syndrome: Individual with acute
-respiratory clinical picture, characterized by
-feverish sensation or fever*, even if self-reported,
-together with coughing OR sore throat OR runny
-nose OR breathing difficulty.* Fever may not be
-present in suspected COVID-19 cases.
-Children: nasal obstruction can also be considered,
-in the absence of other specific diagnosis.
-Elderly: fever may be absent. Other specific
-criteria indicating worsening condition should
-be considered such as syncope, mental confusion,
-excessive sleepiness, irritability and loss of appetite.
-Case Definitions
-Severe acute respiratory syndrome: Flu-like
-syndrome presenting: dyspnea/breathing
-discomfort OR persistent tight chest OR O2
-saturation below 95% in ambient air OR lips
-or face with bluish color.
-Children: in addition to the preceding items,
-observe beating of wings of the nose, cyanosis,
-intercostal muscle straining, dehydration and
-loss of appetite.
-Situation 1: Fever AND at least one respiratory
-sign or symptom (coughing, breathing difficulty,
-beating of wings of the nose, among others) +
-History of traveling to an area with local
-transmission in the 14 days prior to onset of
-signs or symptoms.
-Traveler: Person who presents fever AND at least one
-respiratory sign or symptom + History of traveling
-to a country with sustained transmission OR area with
-local transmission in the last 14 days.
-Situation 2: Fever AND at least one respiratory
-sign or symptom +history of close contact
-with suspected case of COVID-19, in the
-14 days prior to onset of signs or symptoms.
-Situation 3: fever OR at least one respiratory
-sign or symptom + close contact with
-laboratory-confirmed case, in the 14 days
-prior to onset of signs or symptoms.
-Close contact: Person who presents fever OR at least
-one respiratory sign or symptom + history of contact
-with suspected or confirmed case of COVID-19, in
-the last 14 days.
-Household contact: person who presents fever
-OR at least one respiratory sign or symptom # +
-household contact with confirmed case of COVID-19
-in the last 14 days.
-# observe presence of other signs and symptoms such
-as: fatigue, myalgia/arthralgia, headache, shivering, red
-patches on the body, swollen lymph glands, diarrhea,
-nausea, vomiting, dehydration and loss of appetite.
-Legend: COVID-19, diseases caused by Sars-CoV-2; EB, Brazilian Health Ministry Epidemiological Bulletin.
-fever, tiredness, coughing, mild dyspnea, anorexia, sore
-throat, aching body, headache or blocked nose, some
-may also have diarrhea, nausea and vomiting. Signs
-and symptoms in elderly and immunocompromised
-people may be atypical and worsen rapidly, which can
-cause death, especially in the case of the elderly and
-people with pre-existing comorbidities.
-The case definitions adopted by the Brazilian Health
-Ministry were established in February10 and March
-were initially based on the occurrence of fever and at
-least one respiratory sign or symptom, with a history
-of the person having traveled to places with local
-transmission or contact with a confirmed case.11
-However, fever is not necessarily present in all affected
-individuals,7 considering that elderly people or even
-people with no comorbidities have not presented
-this specific sign. Moreover, the criterion for defining
-fever is not standardized, whereby it can be measured
-as temperature 37.5C,12 temperature 37.8C,7
-recorded on medical records for hospitalized cases13 or
-even reported by the individual without confirmation
-by measuring their temperature.7
-Be that as it may, the most common signs and
-symptoms are considered to be fever (temperature
-37.8C), coughing, dyspnea (breathing difficulty),
-myalgia and fatigue.11 A study of 41 confirmed cases in
-China identified that 98% of them had fever, followed
-by coughing (76%), dyspnea (55%) and myalgia/fatigue
-(44%).14 Wang et al.15 described 69 cases in China and
-identified that some 15% of individuals analyzed had
-fever, coughing and dyspnea. A case report in Seattle,
-United States,13 showed that 50% of cases did not have
-fever and that coughing and dyspnea were the most
-reported symptoms, accounting for 88% of cases. In
-findings for confirmed COVID-19 cases,16 the most
-common clinical manifestations were fever (88.7%
-[95%CI 84.5; 92.9%]), coughing (57.6% [95%CI 40.8;
-74.4%]) and dyspnea (45.6% [95%CI 10.9; 80.4%]),
-although they may not be present. Prevalence of fever
-was greater in adults than in children.16
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Suspected COVID-19 case definition
-There are also reports of less common symptoms
-that are hard to measure objectively, such as anosmia
-(loss of sense of smell), hyposmia (reduction in sense
-of smell) and ageusia (loss of sense of taste). Specialist
-organizations propose that anosmia, hyposmia and
-ageusia should be included as part of screening for
-SARS-CoV-2 infection, principally in the absence of
-other respiratory diseases, such as allergic rhinitis and
-acute or chronic rhinosinusitis.17 There is evidence of
-a significant number of people who developed these
-symptoms and later had positive COVID-19 test results.18-20
-A study with hospitalized individuals who tested positive
-for COVID-19 in Italy19 found that 33.9% of them had
-either changes to sense of smell or taste while 18.6%
-had changes to both. Loss of sense of taste occurred
-in 91% before they were hospitalized. These symptoms
-were more frequently reported by women (52.6%
-versus 25%) and by less elderly people (median of 56
-years, IQR 47-60 years versus 66 years, IQR 52-77). In
-Germany, anosmia was found in more than two thirds
-of individuals studied, while Italian and Swiss doctors
-are reporting similar symptoms, with many also having
-ageusia. In South Korea, anosmia was the main symptom
-in 30% of respondents with COVID-19.18
-In a cross-sectional study with 204 laboratoryconfirmed cases in China,21 gastrointestinal symptoms
-were reported by 50.5% at the time they were admitted to
-hospital, in addition to fever and respiratory symptoms.
-Their symptoms included ageusia, reported by 78.6%
-of cases, diarrhea in 34% of cases, as well as vomiting
-(3.9%) and abdominal pain (1.9%). In a retrospective
-study conducted in the Chinese Province of Zhejiang,22
-with 651 people hospitalized with diagnosis of COVID-19,
-11.4% had gastrointestinal symptoms when they were
-admitted to hospital. The most prevalent digestive
-symptoms were diarrhea (71.62%), vomiting (14.86%)
-and nausea (13.51%).
-Diagnosis criteria
-In the document entitled Guidelines for COVID-19
-Diagnosis and Treatment, given the inespecificity and
-heterogeneity of clinical presentation, the Ministry of
-Health considers a confirmed case to be a case with
-conclusive laboratory confirmation of SARS-CoV-2,
-regardless of signs or symptoms.11 However, in the
-absence of confirmatory diagnostic tests for all suspect
-cases, health services have had to adopt a very sensitive
-suspect case definition, especially for cases with mild
-symptoms, considering the symptoms reported by
-individuals, in view of the recommendation for people
-not to go to hospitals or health centers for clinical
-evaluation, in the absence of breathing discomfort as
-a sign of the disease becoming worse.8
-As such, using the clinical/epidemiological criterion,
-a suspect FS or SARS case is considered to be when
-there is a history of close or household contact with a
-laboratory confirmed COVID-19 case during the seven
-days prior to onset of symptoms and when it was not
-possible to perform specific laboratory investigation.
-As such, any flu-like symptom has been considered
-to indicate a suspect case, above all with the aim of
-individual isolation so as to avoid virus transmission.
-Notwithstanding, it is known that the majority of these
-cases considered to be suspect will not be confirmed,
-unless they get worse and need to be hospitalized, or
-voluntarily have rapid tests available in some places.
-According to the Ministry of Health, stratification
-of the severity of suspect FS cases should take place
-during a medical consultation, indicating that mild cases
-(without dyspnea or signs and symptoms of severity)
-can be accompanied completely by Primary Health
-Care and Family Health Strategy (PHC/FHS) services in
-view of these cases being less severe.8 Those who have
-FS with dyspnea or signs and symptoms of severity, or
-together with comorbidities that contraindicate home
-isolation, need stabilization at in PHC/FHS services
-and referral to Reference/Urgency/Hospital centers for
-24-hour observation or interventions involving greater
-technological density. For these people who seek care at
-a health service facility, suspect findings in laboratory
-tests and in images can be used as indications of the
-disease, assisting with suspect case diagnosis.16,23
-Molecular tests, such as reverse transcription
-polymerase chain reaction (RT-PCR), which identify
-SARS-CoV-2 virus RNA, should be used between the 3rd
-and 7th day of symptoms using nasopharyngeal secretion
-samples, in order to ensure greater precision of the method
-and to reduce false-negative results.24 Due to the high
-them, RT-PCR tests are used for hospitalized symptomatic
-individuals and health workers. Immunochromatographic
-serological tests, known as rapid tests, have become
-an option for people with light to moderate symptoms
-who do not require hospitalization; for the general
-population, when screening asymptomatic cases;6 and
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Betine Pinto Moehlecke Iser et al.
-for observing immunity/recovery of confirmed cases.
-In this case, rapid tests should be used after seven days
-following onset of symptoms.25
-Development of a serological response to virus
-infection depends on the host and takes time. In the case
-of SARS-CoV-2, initial studies suggest that the majority
-of cases seroconvert between 7 and 11 days following
-exposure to the virus. As a result of this natural delay,
-an antibody test may not be useful in the case of acute
-disease or for early assessment of infection. Moreover,
-the sensitivity and specificity of serological tests varies
-according to the manufacturer. In general, the sensitivity
-of the tests approved in Brazil by the National Health
-Surveillance Agency (ANVISA) was greater than 85%,
-and specificity was greater than 94%.4 It is important
-to highlight that diagnostic tests with low sensitivity can
-result in a higher proportion of false-negative results,
-and this could interfere in the social isolation measures
-adopted, principally for asymptomatic individuals, thus
-having a direct influence on virus transmissibility.
-As such, SARS-CoV-2 antibody tests can facilitate
-contact screening; serological surveillance at the local,
-regional, state and national level; and identification
-of those who have already been exposed and may
-possibly be immune, considering the existence of
-protective immunity.
-Characteristics of case severity
-Some COVID-19 cases have serious complications,
-leading to the need for care in intensive therapy units
-(ITU) or even leading to death. According to the Ministry
-of Health, besides the percentage of asymptomatic cases,
-among those who have COVID-19, around 80% are mild
-cases, 14% are severe cases and 5% are critical cases.7
-As for more complex cases, they either progress from
-the initial symptoms mentioned above, or they already
-manifest SARS-CoV-2 infection through SARS, by having
-dyspnea or clinical signs such as reduction in saturation
-or cyanosis.8 In addition to the higher mortality rate due
-to SARS, there is also a group considered to be at risk
-because of greater lethality. Those belonging to this group
-are: elderly people aged 60 and over, high-risk pregnant
-women and people with a variety of comorbidities.9 As
-such, individuals of all ages who have chronic diseases
-related to the lungs, asthma, those who currently have
-tuberculosis or sequelae of previous tuberculosis, diabetes,
-hypertension, severe obesity, chronic kidney disease,
-liver disease, immunodeficiency and heart problems
-also belong to the risk group. Recent studies12,26-28
-report diabetes mellitus, systemic arterial hypertension,
-cerebrovascular disease and age as more decisive risk
-factors in relation to hospitalization in ITUs and death.
-A retrospective study that assessed neurological
-aspects of confirmed COVID-19 cases29 indicated
-that 41.1% were considered severe. Compared to the
-milder cases, the severe cases were older individuals
-(58.7  15.0 years versus 48.9  14.7 years), had
-more comorbidities (42 [47.7%] versus 41 [32.5%]),
-especially hypertension (32 [36.4%] versus 19 [15.1%]),
-and had fewer symptoms considered to be typical, such
-as fever (40 [45.5%] versus 92 [73%]) and coughing
-(30 [34.1%] versus 77 [61.1%]).
-Another study that described the characteristics
-of cases that died compared to cases that recovered30
-found at least one chronic disease with greater frequency
-among cases that died (63% of those who died and
-39% of those who recovered), whereby the main
-diseases were: systemic arterial hypertension (48%),
-cardiovascular diseases (14%) and cerebrovascular
-diseases (4%), versus 24%, 4% and 0%, respectively,
-in recovered cases. The following were also found to
-be more frequent among those who died: dyspnea
-(62% versus 31%), tight chest (49% versus 30%) and
-loss of consciousness (22% versus 1%); lymphopenia
-(39%) and leukocytosis (50%) (versus 5% and 4% of
-those who recovered, respectively), saturation 93%
-(64% versus 12%), tachycardia (50% versus 30%) and
-tachypnea (27% versus 3%), as well as complications
-that can arise from the length of time spent in ITUs and
-the need for invasive procedures.
-The study conducted by Wang et al.15 assessed 69
-people with COVID-19 in Wuhan, China, and indicated
-that all those who had saturation 90% (n= 14.20%)
-died, and that those who died were older (median of
-70.5 years versus 37 years), with comorbidities such
-as systemic arterial hypertension (36% versus 7%),
-cardiovascular disease (36% versus 5%) and diabetes
-mellitus (43% versus 2%), and had a substantial
-increase in inflammatory cytokines. Fever was evident
-at the onset of symptoms (93% versus 85%) and on the
-10th day of illness (64% versus 38%). Dyspnea (50%
-versus 24%) and lymphopenia (79% versus 32%) were
-also more frequent in this group.
-A study that investigated the characteristics and the
-prognosis factors of COVID-19 infection in a sample
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Suspected COVID-19 case definition
-comprised of 339 elderly people (60 years old)
-with positive SARS-CoV-2 test results,30 found that the
-number of critical and severe cases was greater in the
-group analyzed compared to cases under 60 years
-old. The study indicated that 23.6% were classified as
-being in a critical state, while a further 46.9% were in
-a severe state.30
-The Chinese Center for Disease Control and Prevention
-carried out a study with 1,023 positive COVID-19
-cases.23 Among those who became severely ill, the
-most common clinical signs were dyspnea, respiratory
-rate greater than 30 bpm and oxygen saturation under
-93%. Among the more critical cases, the signs most
-found were respiratory insufficiency, septic shock and
-dysfunction or failure of multiple organs. Lethality was
-2.3% in that sample. However, if only the lethality of
-the critical cases were assessed, the proportion would
-be much higher, i.e. 49%.
-the most common signs and symptoms by sex and age,
-although age is more related to the diseases severity
-criteria. It is important to consider that signs and
-symptoms can vary between the stages of the disease,
-oscillating between absence of signs and symptoms and
-septic shock, when the clinical picture becomes worse.
-It should also be noted that in addition to the diversity
-of clinical manifestations, some 80% of infected people
-can remain asymptomatic. It is therefore suggested that
-suspect cases should be monitored constantly, in view
-of the manifestations of diverse symptoms, so as not to
-rule out cases by only considering clinical presentation
-which, in many cases, is subjective.
-Given the imminence of Brazil becoming the worlds
-new epicenter of the COVID-19 pandemic, it is suggested
-that health services opt for over-reporting, considering
-the high sensitivity of the surveillance system, so that
-whenever signs and symptoms appear that may be
-related to SARS-CoV-2 infection, isolation measures
-can be indicated for cases and their contacts, in
-addition to constant real-time monitoring, based on
-case investigation and local epidemiological reality. In
-addition, health services can establish, based on the
-cases they care for, a set of signs and symptoms that
-best defines their cases and which guides screening
-in accordance with the specific situation. Use of
-telemedicine is a fundamental tool in providing care
-to suspect and confirmed cases that can stay at home,
-so as to accompany the progression of their clinical
-presentation and identify early any worsening of the
-case, so that appropriate measures can be taken.
-Whenever possible, it is essential to use molecular or
-serological diagnostic tests, depending on the day the
-symptoms started, in addition to laboratory tests and
-image examinations, to confirm diagnosis of COVID-19.
-Final considerations
-against it using the best available evidence. Due to its
-multiple presentations in all age ranges, the concept
-of diagnosis continues to be very broad and sensitive,
-so that it is not possible to define so much as a single
-obligatory sign/symptom for determining presence of
-infection. Nevertheless, it appears to be consensus that
-people with existing comorbidities and people who are
-older are susceptible to being more intensely affected
-and having worse disease progression, so that they need
-to be targeted with preventive actions.
-Considering the high percentage of asymptomatic
-people and people with mild symptoms, who will not
-be completely captured by the surveillance system, by
-means of investigation and laboratory confirmation, health
-services need to take great care with regard to symptom
-heterogeneity and clinical presentation of the disease. In
-this situation, nonpharmaceutical prevention measures
-need to be adopted for the entire population, including
-wearing facemasks, constant sanitization of hands and
-environments, in addition to social distancing. It also
-continues to be essential to increase access to diagnostic
-tests, in order to have knowledge of the epidemiological
-situation in each place and achieve better guidance of
-measures to control virus dissemination.
-Brazil continues to be in a state of alert, with the aim
-of slowing down the new case infection curve so as not
-to overburden the health system. Further studies need to
-be conducted so that the case definition becomes more
-precise in relation to signs and symptoms, assisting
-classification of the population and guiding the gradual
-return to routine activities, while complying with indicated
-protection measures, with the aim of minimizing the
-consequences of the pandemic.
-Iser BPM, Schuelter-Trevisol F and Bobinski F contributed
-to the study concept and design. Iser BPM coordinated
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Betine Pinto Moehlecke Iser et al.
-the research team. Sliva I, Raymundo VT and Poleto MB
-BPM, Schuelter-Trevisol F, Bobinski F, Sliva I, Raymundo VT
-and Poleto MB contributed to data interpretation, drafting
-including the guarantee of its accuracy and integrity.
-1. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A
-novel coronavirus from patients with pneumonia in
-China, 2019. N Engl J Med [Internet]. 2020 Feb [cited
-2. World Health Organization - WHO. Coronavirus
-disease (COVID-19) pandemic [Internet]. Geneva:
-World Health Organization; 2019 [cited 2020 Apr 26].
-3. Croda J, Oliveira WK, Frutuoso RL, Mandetta LH,
-Baia-da-Silva DC, Brito-Sousa JD, et al. COVID-19
-in Brazil: advantages of a socialized unified health
-Bras Med Trop [Internet]. 2020 Apr [cited 2020
-4. Ministrio da Sade (BR). Secretaria de Cincia,
-Tecnologia, Inovao e Insumos Estratgicos em
-Sade. Acurcia dos testes diagnsticos registrados
-para a COVID-19: verso 1 [Internet]. Braslia:
-Ministrio da Sade; 2020 [citado 2020 jun 1]. 19 p.
-5. Zitek T. The appropriate use of testing for COVID-19.
-West J Emerg Med [Internet]. 2020 Apr [cited 2020
-6. Tolia VM, Chan TC, Castillo EM. Preliminary results
-of initial testing for coronavirus (COVID-19) in the
-emergency department. West J Emerg Med [Internet].
-2020 Mar [cited 2020 Jun 1];21(3):503-6. Available
-7. Ministrio da Sade (BR). Secretaria de Vigilncia
-em Sade. Centro de Operaes de Emergncias
-em Sade Pblica. Doena pelo coronavrus 2019:
-ampliao da vigilncia, medidas no farmacolgicas
-e descentralizao do diagnstico laboratorial. Bol
-Epidemiol [Internet]. 2020 mar [citado 2020 jun 1];5.
-8. Ministrio da Sade (BR). Secretaria de Vigilncia em
-Sade. Guia de vigilncia epidemiolgica emergncia
-de sade pblica de importncia nacional pela doena
-pelo coronavrus 2019 [Internet]. Braslia: Ministrio
-da Sade; 2020 [citado 2020 jun 1]. 34 p. Disponvel
-9. Ministrio da Sade. Secretaria de Vigilncia em
-Sade. Centro de Operaes de Emergncias em
-Sade Pblica. Especial: doena pelo coronavrus
-2019. Bol Epidemiol [Internet]. 2020 abr [citado
-10. Ministrio da Sade (BR). Secretaria de Vigilncia
-em Sade. Centro de Operaes de Emergncias
-em Sade Pblica. Infeco humana pelo novo
-coronavrus (2019-nCoV). Bol Epidemiol [Internet].
-2020 jan [citado 2020 jun 1];1. Disponvel em:
-11. Ministrio da Sade (BR). Secretaria de Cincia,
-Tecnologia, Inovao e Insumos Estratgicos em
-Sade. Diretrizes para diagnstico e tratamento da
-COVID-19 [Internet]. Braslia: Ministrio da Sade;
-2020 [citado 2020 jun 1]. 87 p. Disponvel em:
-12. Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. Clinical
-characteristics of coronavirus disease 2019 in China.
-N Engl J Med [Internet]. 2020 Apr [cited 2020 Jun
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Suspected COVID-19 case definition
-13. Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R,
-Jerome KR, Nalla AK, et al. Covid-19 in critically
-Ill patients in the Seattle Region  case series.
-N Engl J Med [Internet]. 2020 Mar [cited 2020
-14. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al.
-Clinical features of patients infected with 2019 novel
-coronavirus in Wuhan, China. Lancet [Internet]. 2020
-Feb [cited 2020 Jun 1];395(10223):497-506. Available
-15. Wang Z, Yang B, Li Q, Wen L, Zhang R. Clinical
-features of 69 cases with coronavirus disease 2019 in
-Wuhan, China. Clin Infect Dis [Internet]. Fothcoming.
-16. Rodriguez-Morales AJ, Cardona-Ospina JA, GutirrezOcampo E, Villamizar-Pea R, Holguin-Rivera Y,
-Escalera-Antezana JP, et al. Clinical, laboratory and
-and meta-analysis. Travel Med Infect Dis [Internet].
-2020 Mar-Abr [cited 2020 Jun 1];34:101623. Available
-17. Sociedade Brasileira de Cirurgia de Cabea e Pescoo
-- SBCCP. Anosmia, hiposmia e ageusia - sintomas
-na infeco por COVID-19? So Paulo: Sociedade
-Brasileira de Cirurgia de Cabea e Pescoo; 2020
-18. Gautier JF, Ravussin Y. A new symptom of COVID-19:
-loss of taste and smell. Obesity [Internet]. 2020 Apr
-19. Giacomelli A, Pezzati L, Conti F, Bernacchia D, Siano
-M, Oreni L, et al. Self-reported olfactory and taste
-disorders in SARS-CoV-2 patients: a cross-sectional
-study. Clin Infect Dis [Internet]. Fothcoming 2020
-20. Vaira LA, Salzano G, Deiana G, De Riu G. Anosmia
-and ageusia: common findings in COVID-19 patients.
-Laryngoscope [Internet]. Forthcoming 2020 Apr [cited
-21. Pan L, Mu M, Yang P, Sun Y, Yan J, Li P, et al. Clinical
-characteristics of COVID-19 patients with digestive
-symptoms in Hubei, China: a descriptive, crosssectional, multicenter study. Am J Gastroenterol
-22. Jin X, Lian J-S, Hu J-H, Gao J, Zheng L, Zhang
-Y-M, et al. Epidemiological, clinical and virological
-characteristics of 74 cases of coronavirus-infected
-disease 2019 (COVID-19) with gastrointestinal
-symptoms. Gut [Internet]. 2020 Jun [cited 2020
-23. Wu Z, McGoogan JM. Characteristics of and
-important lessons from the coronavirus disease 2019
-(COVID-19) outbreak in china: summary of a report
-of 72 314 cases from the chinese center for disease
-control and prevention. JAMA [Internet]. 2020 Fev
-[cited 2020 Jun 1];323(13):1239-42. Available from:
-24. Woelfel R, Corman VM, Guggemos W, Seilmaier M,
-Zange S, Mueller MA, et al. Clinical presentation
-and virological assessment of hospitalized cases
-of coronavirus disease 2019 in a travel-associated
-transmission cluster. medRxiv [Internet].
-Forthcoming 2020 Mar [cited 2020 Jun 1]. Available
-25. Hadaya J, Schumm M, Livingston EH. Testing
-individuals for coronavirus disease 2019
-(COVID-19). JAMA [Internet].2020 Apr [cited 2020
-26. Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et al.
-Prevalence of comorbidities in the novel Wuhan
-and meta-analysis. Int J Infect Dis [Internet]. 2020
-May [cited 2020 Jun 1];94:91-5. Available from:
-27. Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, et al. Clinical
-course and outcomes of critically ill patients with
-SARS-CoV-2 pneumonia in Wuhan, China: a singlecentered, retrospective, observational study. Lancet
-Respir Med [Internet]. 2020 May [cited 2020
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
-Betine Pinto Moehlecke Iser et al.
-28. Zhang J-J, Dong X, Cao Y-Y, Yuan Y-D, Yang Y-B, Yan
-Y-Q, et al. Clinical characteristics of 140 patients
-infected with SARS-CoV-2 in Wuhan, China. Allergy
-[Internet]. Forthcoming 2020 Feb [cited 2020 Jun 1].
-29. Mao L, Wang M, Chen S, He Q, Chang J, Hong C, et al.
-Neurological manifestations of hospitalized patients
-with COVID-19 in Wuhan, China: a retrospective case
-series study. JAMA Neurol [Internet]. Forthcoming
-30. Chen T, Wu D, Chen H, Yan W, Yang D, Chen G, et al.
-Clinical characteristics of 113 deceased patients with
-coronavirus disease 2019: retrospective study. BMJ
-[Internet]. 2020 Mar [cited 2020 Jun 1];368:m1091.
-Approved on 26/05/2020
-Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
+of  the  most  frequent  signs and symptoms among confirmed cases
+Universidade do Sul de Santa Catarina, Programa de Ps‐Graduao  em
+Cincias  da  Sade, Tubaro SC, Brazil Universidade do Sul de Santa
+Catarina, Faculdade de Medicina, Tubaro, SC, Brazil Objective: to
+describe the most frequent signs and symptoms of infection by se‐
+vere acute respiratory  syndrome  coronavirus  publications.  Re‐
+sults: the spectrum of clinical disease was wide; fever, coughing
+and dyspnea were the most frequent signs/ symptoms, however, they
+may  not  be  present,  thus hindering case definition; gastroin‐
+testinal symptoms and loss of taste or smell have  been  reported
+among  mild  cases;  dyspnea  was frequent among severe and fatal
+cases. Conclusion: considering the scarcity of  diagnostic  tests
+and  the diversity of symptoms, health services should use a sen‐
+sitive case definition, in order to  adopt  appropriate  surveil‐
+lance,  prevention and treatment actions.  Betine Pinto Moehlecke
+Iser ‐ Av. Jos Accio Moreira, No. 787, Bairro Dehon, Caixa Postal
+370,  Tubaro,  SC,  Brazil.   Epidemiol.  Serv.  Saude,  Braslia,
+29(3):e2019354, 2020 Suspected COVID‐19 case definition The coro‐
+navirus  2  pandemic related to severe acute respiratory syndrome
+(SARS‐CoV‐2), which causes coronavirus disease  2019  (COVID‐19),
+emerged  at  the end of 2019 in Wuhan, Hubei Province, China, and
+has spread rapidly across all continents, exponentially  increas‐
+ing the number of infected people and causing thousands of deaths
+worldwide.1 It is estimated that as at April 26th 2020, more than
+2.8  million  people  had been infected and over 193,000 had died
+from causes related to the disease caused  by  the  novel  coron‐
+avirus (COVID‐19).2 Given its vast magnitude and the diverse sup‐
+plies needed to control it, such as  availability  of  diagnostic
+tests  for affected people, combating COVID‐19 has become a chal‐
+lenge, especially for low and  middle‐income  countries  such  as
+Brazil which depend on technologies produced in other countries.3
+Assessing clinical signs and symptoms shown  by  infected  people
+can  help  establish the healthcare flow and indicate the need to
+perform confirmatory tests.  How can SARS‐CoV‐2 infection be  di‐
+agnosed or defined, if health centers do not have sufficient lab‐
+oratory tests available? Moreover, diagnostic tests are  intended
+to  be  used at specific times of infection and, depending on the
+stage of the disease, may not be very accurate.4,5 As  such,  as‐
+sessing  clinical signs and symptoms shown by infected people can
+help establish the healthcare flow and indicate the need to  per‐
+form  confirmatory tests.6 The objective of this study was to de‐
+scribe the most frequent signs and symptoms of SARS‐CoV‐2  infec‐
+tion, in order to guide case suspicion based on clinical manifes‐
+tations and to characterize case severity.  art of a  given  sub‐
+ject  and  enable more in‐depth discussion.  that presented a de‐
+scription of the clinical picture of the  first  COVID‐19  cases.
+The  searches were based on the following research question: What
+are the most frequent signs and symptoms of SARS‐CoV‐2 infection?
+The  bibliographic  search  was performed on the Scopus, medRXiv,
+MEDLINE, SciELO and Google Scholar databases, and it was  comple‐
+mented with a manual search on the lists of references of the pa‐
+pers selected and also on the Brazilian Health Ministry  website.
+No limitations were set for date, study country or area of knowl‐
+edge. The following terms were use for the search:  Signs,  symp‐
+toms  clinical, laboratory, combined with Novel coronavirus Novel
+coronavirus 2019, 2019 nCoV, COVID‐19, Wuhan  coronavirus,  Wuhan
+pneumonia and SARS‐CoV‐2.  and Portuguese. In situations in which
+more than one interest, those with smaller  sample  sizes  and/or
+which were older were excluded.  Most frequent signs and symptoms
+among confirmed COVID‐19 cases Ten studies  were  selected  which
+describe  the  first confirmed COVID‐19 cases and the most common
+signs and According to the Brazilian Ministry of Health, informa‐
+tion  is  still  limited  for  characterizing the spectrum of the
+clinical disease. The  Ministry  therefore  establishes  flu‐like
+syndrome  (FS) as being the most common manifestation, this being
+defined as an acute respiratory clinical  picture,  characterized
+by  sensation of fever or fever, even if reported, accompanied by
+coughing, sore throat or runny nose or difficulty in  breathing.7
+If  breathing  difficulties are present, severe acute respiratory
+syndrome (SARS) may be considered,8 defined by FS  showing  dysp‐
+nea/breathing  discomfort or persistent pressure in the thorax or
+O2 saturation below 95% in ambient air or lips  or  face  with  a
+bluish color.9 According to the World Health Organization (WHO),2
+the initial signs/symptoms of the disease appear  like  those  of
+influenza,  but  vary  from person to person, and can be mild, in
+the form of pneumonia, severe pneumonia and SARS. The majority of
+infected  people have the mild form of the disease, with symptoms
+such as malaise, Epidemiol. Serv. Saude, Braslia, 29(3):e2020233,
+2020  RT‐PCR  for  RT‐PCR+ for Retrospective series with 69 cases
+hospitalized at the Union Hospital, in Wuhan, between January  16
+Retrospective  series  of  214 hospitalized cases; data retrieved
+from medical records Wang Z et al., Mao L et al., Series with  24
+cases  RT‐PCR+  for  18  years old hospitali‐ COVID‐19 zed in ITU
+Bhatraju PK et RT‐PCR+ for Retrospective case  series,  that  (i)
+died  (n=113) and (ii) that Chen T et al., Symptoms such as diar‐
+rhea, nausea, vomiting and headache were present;  32%  of  total
+cases  and  38%  of  cases  admitted to ITU had comorbidities, of
+which diabetes was the most common (20%). All cases  had  pneumo‐
+nia,  98% bilateral.  Fever (98%) + coughing (76%) + myalgia/ fa‐
+tigue (44%), dyspnea (55%),  sputum  production  (28%),  headache
+(8%), (5%) and Coughing (67.8%) + fever (43.8% at 15% had the se‐
+vere form of the disease; 23.7% had at least  one  admission  and
+88.7%  during hospitalization) comorbidity (38% of severe cases).
+Common symptoms All 14 deaths (20%) had saturation 90%, were old‐
+er (70.5 years vs 37 years), had more comorbidities (hypertension
+36% vs 7%), cardiovascular disease (36% vs 5%) and diabetes  (43%
+vs  2%), and increased inflammatory cytokines.  Severe cases were
+older (58.7  15.0 years vs 48.9  14.7 years), had more comorbidi‐
+ties  (42 [47.7%] vs 41 [32.5%]), hyperInflammatory response pat‐
+Fever tension (32 [36.4%] vs 19 [15.1%]), and had fewer  symptoms
+tern,  principally  in  severe  cases: and anorexia (68 [31.8%]).
+CNS: dizziness considered typical such as fever (40 [45.5%]  vs92
+[73%])   and  more  leukocytes  and  neutro(16.8%)  and  headache
+(13.1%). PNS: anos‐ coughing (30 [34.1%] vs 77  [61.1%]).  Severe
+cases presented phils, fewer lymphocytes and mia (5.1%) and ageu‐
+sia (5.6%) damage to liver, kidneys and muscles. NS symptoms were
+more  higher CRP levels common in severe cases, but with no labo‐
+ratory differences between those who did  or  did  not  have  PNS
+symptoms.    to  be  continue  Reduction  in  neutrophils  (39%),
+eosinophils (72%) and lym(87%), coughing  (55%),  fatigue  (42%),
+phocytes;  lymphopenia  (42%), Fever higher among deaths (79% 63%
+of cases that died and 39% of those that recovered had  at  least
+one chronic disease: hypertension (48%), cardiovascular Lymphope‐
+nia in 39% of deaths Fever (~90%) + coughing (~66‐70%) + diseases
+(14%)  and cerebrovascular diseases (4%). Deaths and 5% of recov‐
+ered and milder  symptoms;  dyspnea  and  tight  chest  presented
+tachycardia  (50%)  and  tachypnea (27%), and satuleukocytosis in
+50% of deaths more common among deaths, as well  as  loss  ration
+93%  (64%);  8% of cases that died and 10% of those and 4% of re‐
+covered of consciousness that recovered did not have  fever,  but
+did  have  fatigue (~50%), coughing (68%), dyspnea (44%), myalgia
+(22%) or diarrhea (28%) as initial symptoms.  Dyspnea and  cough‐
+ing  (88%)  +  fever  58% had diabetes and 14% had asthma and the
+disease was 75% lymphopenia and search (50%);  sputum  production
+(42%),  rhinorwith  use of glucocorticoids; 22% were smokers; for
+other pathogens rhea (17%), sore throat (8%) and headache exacer‐
+bated than one chronic condition.  Cohorta of 1,099 cases RT‐PCR+
+for from 552 hospitals in 30 COVID‐19 Guan WJ et al.,  Laboratory
+test Leukopenia (25%) and Seriesa comprised of 41 cases hospital‐
+ized as at Huang et al., RT‐PCR+ for Type of study and  Place  of
+Betine  Pinto  Moehlecke  Iser  et  al.   Epidemiol. Serv. Saude,
+Braslia, 29(3):e2020233, 2020 Place of RT‐PCR: reverse transcrip‐
+tion  polymerase  chain  reaction.   COVID‐19:  disease caused by
+SARS‐CoV‐2.  ITU: intensive therapy unit.  CRP:  C‐reactive  pro‐
+tein.  CNS: central nervous system.  PNS: peripheral nervous sys‐
+tem.  NS: nervous system.  IQR: interquartile range.  AST: aspar‐
+tate  aminotransferase enzyme.  ALT: alanine aminotransferase en‐
+zyme.  GI: gastrointestinal.  vs: versus.  Jin X et  al.,  RT‐PCR
+for  Not  reported Retrospective study with 651 hospitalized Zhe‐
+jiang, cases and clinical/ epi‐ RT‐PCR+ for demiological analysis
+of  COVID‐19  74  cases with digestive Cross‐sectional study: 204
+hospitalized cases Brief  communication:  Not  reported  Type  of
+study  and  Cross‐sectional  study with 88 hospitalized cases; 59
+interviewed Pan L et al., Vaira LA et al., Giacomelli A et Milan,
+Increased  AST  and ALT in the group of patients with ALT (20.4%)
+and AST (16.5%) digestive symptoms, compared to the group with no
+ALT  (5.9%)  and AST (5.0%) digestive Increase in AST isolated in
+patients with GI symptoms greater than in those with no GI  symp‐
+toms  (29.35 vs 24.4). No significant different in makers related
+to CRP infection and Not reported Not  reported  Laboratory  test
+Digestive symptoms (diarrhea, vomiting, nausea) in 11.4% of total
+cases. Fever (85.54%), coughing (71.62%),  sputum  (39.19%),  fa‐
+tigue  (31.08%)  and  headache 50.5% of hospitalized patients had
+digestive symptoms: loss of appetite (78.64%), diarrhea (34%) and
+vomiting  (3.9%).   Concomitantly,  94% had respiratory symptoms:
+fever (92.23%) and Retrospective  study.  Chronic  liver  disease
+rate  was  higher  in cases with GI symptoms in relation to those
+with no GI symptoms (10.81% vs 2.95%). Severe/critical type  rate
+was greater in cases with GI symptoms than in those without symp‐
+toms Descriptive, cross‐section and multicenter study. Cases with
+digestive symptoms had longer hospitalization time in relation to
+patients without digestive symptoms (9 days vs 7.3 days).  Howev‐
+er,  there  was no significant difference in the time of hospital
+discharge, days in ITU or mortality between the groups  .   Fever
+(72.8%), coughing (37.3%), dyspnea Symptoms appeared more in wom‐
+en (52.6% vs 25%) and (25.4%), arthralgia (5.1%),  at  least  one
+smell  younger  people  (median  56  years, IQR 47‐60 years vs 66
+years, or taste sense disorder (33.9%) or both IQR 52‐77).  72.8%
+had pneumonia at hospital admission.  Anosmia and ageusia associ‐
+ated with fever.  Some kind of dysfunction: 19.4%  (not  accompa‐
+nied  by  nasal obstruction or rhinitis Common symptoms Suspected
+COVID‐19  case  definition  Epidemiol.  Serv.   Saude,   Braslia,
+29(3):e2020233, 2020 Betine Pinto Moehlecke Iser et al.  Flu‐like
+syndrome: Individual with  acute  respiratory  clinical  picture,
+characterized  by  feverish sensation or fever*, even if self‐re‐
+ported, together with coughing OR sore throat OR  runny  nose  OR
+breathing  difficulty.*  Fever  may  not  be present in suspected
+COVID‐19 cases.  Children: nasal obstruction can also be  consid‐
+ered, in the absence of other specific diagnosis.  Elderly: fever
+may be absent. Other specific criteria indicating worsening  con‐
+dition  should  be  considered such as syncope, mental confusion,
+excessive sleepiness, irritability and loss  of  appetite.   Case
+Definitions  Severe acute respiratory syndrome: Flu‐like syndrome
+presenting:  dyspnea/breathing  discomfort  OR  persistent  tight
+chest  OR  O2 saturation below 95% in ambient air OR lips or face
+with bluish color.  Children: in addition to the preceding items,
+observe  beating of wings of the nose, cyanosis, intercostal mus‐
+cle straining, dehydration and loss of  appetite.   Situation  1:
+Fever  AND  at  least  one respiratory sign or symptom (coughing,
+breathing difficulty, beating of wings of the nose, among others)
++  History of traveling to an area with local transmission in the
+14 days prior to onset of signs or  symptoms.   Traveler:  Person
+who presents fever AND at least one respiratory sign or symptom +
+History of traveling to a country with sustained transmission  OR
+area  with  local transmission in the last 14 days.  Situation 2:
+Fever AND at least one respiratory sign or  symptom  +history  of
+close  contact  with  suspected  case of COVID‐19, in the 14 days
+prior to onset of signs or symptoms.  Situation 3:  fever  OR  at
+least  one respiratory sign or symptom + close contact with labo‐
+ratory‐confirmed case, in the 14 days prior to onset of signs  or
+symptoms.   Close  contact: Person who presents fever OR at least
+one respiratory sign or symptom + history of  contact  with  sus‐
+pected  or  confirmed  case  of  COVID‐19,  in  the last 14 days.
+Household contact: person who presents fever OR at least one res‐
+piratory  sign  or  symptom  # + household contact with confirmed
+case of COVID‐19 in the last 14 days.  # observe presence of oth‐
+er  signs  and  symptoms  such  as:  fatigue, myalgia/arthralgia,
+headache, shivering, red  patches  on  the  body,  swollen  lymph
+glands,  diarrhea,  nausea, vomiting, dehydration and loss of ap‐
+petite.  Legend: COVID‐19, diseases  caused  by  Sars‐CoV‐2;  EB,
+Brazilian   Health  Ministry  Epidemiological  Bulletin.   fever,
+tiredness, coughing, mild dyspnea, anorexia, sore throat,  aching
+body, headache or blocked nose, some may also have diarrhea, nau‐
+sea and vomiting. Signs and symptoms in elderly and immunocompro‐
+mised  people may be atypical and worsen rapidly, which can cause
+death, especially in the case of the elderly and people with pre‐
+existing  comorbidities.   The  case  definitions  adopted by the
+Brazilian Health Ministry  were  established  in  February10  and
+March  were  initially  based  on  the occurrence of fever and at
+least one respiratory sign or symptom, with a history of the per‐
+son  having traveled to places with local transmission or contact
+with a  confirmed  case.11  However,  fever  is  not  necessarily
+present  in  all  affected individuals,7 considering that elderly
+people or even people with no comorbidities  have  not  presented
+this specific sign. Moreover, the criterion for defining fever is
+not standardized, whereby  it  can  be  measured  as  temperature
+37.5C,12 temperature 37.8C,7 recorded on medical records for hos‐
+pitalized cases13 or even reported by the individual without con‐
+firmation by measuring their temperature.7 Be that as it may, the
+most common signs and symptoms are considered to be  fever  (tem‐
+perature  37.8C), coughing, dyspnea (breathing difficulty), myal‐
+gia and fatigue.11 A study of 41 confirmed cases in China identi‐
+fied that 98% of them had fever, followed by coughing (76%), dys‐
+pnea (55%) and myalgia/fatigue (44%).14 Wang et  al.15  described
+69 cases in China and identified that some 15% of individuals an‐
+alyzed had fever, coughing and dyspnea. A case report in Seattle,
+United  States,13 showed that 50% of cases did not have fever and
+that coughing and dyspnea were the most  reported  symptoms,  ac‐
+counting  for  88%  of  cases. In findings for confirmed COVID‐19
+cases,16 the  most  common  clinical  manifestations  were  fever
+(88.7% [95%CI 84.5; 92.9%]), coughing (57.6% [95%CI 40.8; 74.4%])
+and dyspnea (45.6% [95%CI 10.9; 80.4%]), although they may not be
+present.  Prevalence of fever was greater in adults than in chil‐
+dren.16 Epidemiol. Serv.  Saude,  Braslia,  29(3):e2020233,  2020
+Suspected COVID‐19 case definition There are also reports of less
+common symptoms that are hard to  measure  objectively,  such  as
+anosmia (loss of sense of smell), hyposmia (reduction in sense of
+smell) and ageusia (loss of sense of taste). Specialist organiza‐
+tions  propose  that  anosmia, hyposmia and ageusia should be in‐
+cluded as part of screening for SARS‐CoV‐2 infection, principally
+in  the  absence  of other respiratory diseases, such as allergic
+rhinitis and acute or chronic rhinosinusitis.17 There is evidence
+of  a  significant  number of people who developed these symptoms
+and later had positive COVID‐19 test results.18‐20 A  study  with
+hospitalized  individuals  who  tested  positive  for COVID‐19 in
+Italy19 found that 33.9% of them had either changes to  sense  of
+smell  or taste while 18.6% had changes to both. Loss of sense of
+taste occurred in 91% before they were hospitalized. These  symp‐
+toms  were  more  frequently reported by women (52.6% versus 25%)
+and by less elderly people (median of 56 years, IQR  47‐60  years
+versus  66  years,  IQR  52‐77). In Germany, anosmia was found in
+more than two thirds of individuals studied,  while  Italian  and
+Swiss doctors are reporting similar symptoms, with many also hav‐
+ing ageusia. In South Korea, anosmia was the main symptom in  30%
+of  respondents  with COVID‐19.18 In a cross‐sectional study with
+204 laboratoryconfirmed cases in China,21 gastrointestinal  symp‐
+toms  were  reported  by  50.5% at the time they were admitted to
+hospital, in addition to fever and respiratory  symptoms.   Their
+symptoms  included  ageusia, reported by 78.6% of cases, diarrhea
+in 34% of cases, as well as vomiting (3.9%)  and  abdominal  pain
+(1.9%).  In  a retrospective study conducted in the Chinese Prov‐
+ince of Zhejiang,22 with 651 people hospitalized  with  diagnosis
+of  COVID‐19,  11.4% had gastrointestinal symptoms when they were
+admitted to hospital. The most prevalent digestive symptoms  were
+diarrhea  (71.62%), vomiting (14.86%) and nausea (13.51%).  Diag‐
+nosis criteria In the document entitled Guidelines  for  COVID‐19
+Diagnosis and Treatment, given the inespecificity and heterogene‐
+ity of clinical presentation, the Ministry of Health considers  a
+confirmed  case to be a case with conclusive laboratory confirma‐
+tion of SARS‐CoV‐2, regardless of signs or  symptoms.11  However,
+in  the  absence of confirmatory diagnostic tests for all suspect
+cases, health services have had to adopt a very sensitive suspect
+case definition, especially for cases with mild symptoms, consid‐
+ering the symptoms reported by individuals, in view of the recom‐
+mendation for people not to go to hospitals or health centers for
+clinical evaluation, in the absence of breathing discomfort as  a
+sign  of  the  disease becoming worse.8 As such, using the clini‐
+cal/epidemiological criterion, a suspect FS or SARS case is  con‐
+sidered  to be when there is a history of close or household con‐
+tact with a laboratory confirmed COVID‐19 case during  the  seven
+days  prior  to onset of symptoms and when it was not possible to
+perform specific laboratory investigation.  As such, any flu‐like
+symptom has been considered to indicate a suspect case, above all
+with the aim of individual isolation so as to avoid virus  trans‐
+mission.  Notwithstanding, it is known that the majority of these
+cases considered to be suspect will not be confirmed, unless they
+get  worse and need to be hospitalized, or voluntarily have rapid
+tests available in some places.  According  to  the  Ministry  of
+Health, stratification of the severity of suspect FS cases should
+take place during a medical consultation,  indicating  that  mild
+cases  (without dyspnea or signs and symptoms of severity) can be
+accompanied completely by Primary Health Care and  Family  Health
+Strategy (PHC/FHS) services in view of these cases being less se‐
+vere.8 Those who have FS with dyspnea or signs  and  symptoms  of
+severity, or together with comorbidities that contraindicate home
+isolation, need stabilization at in PHC/FHS services and referral
+to  Reference/Urgency/Hospital centers for 24‐hour observation or
+interventions involving greater technological density. For  these
+people  who seek care at a health service facility, suspect find‐
+ings in laboratory tests and in images can be used as indications
+of  the  disease,  assisting  with  suspect  case diagnosis.16,23
+Molecular tests, such as reverse transcription  polymerase  chain
+reaction (RT‐PCR), which identify SARS‐CoV‐2 virus RNA, should be
+used between the 3rd and 7th day of symptoms using nasopharyngeal
+secretion  samples,  in  order to ensure greater precision of the
+method and to reduce false‐negative results.24 Due  to  the  high
+them, RT‐PCR tests are used for hospitalized symptomatic individ‐
+uals and health workers. Immunochromatographic serological tests,
+known as rapid tests, have become an option for people with light
+to moderate symptoms who do not require hospitalization; for  the
+general  population, when screening asymptomatic cases;6 and Epi‐
+demiol. Serv. Saude, Braslia, 29(3):e2020233, 2020  Betine  Pinto
+Moehlecke  Iser  et  al.  for observing immunity/recovery of con‐
+firmed cases.  In this case, rapid tests  should  be  used  after
+seven  days following onset of symptoms.25 Development of a sero‐
+logical response to virus infection depends on the host and takes
+time. In the case of SARS‐CoV‐2, initial studies suggest that the
+majority of cases seroconvert between 7 and 11 days following ex‐
+posure  to the virus. As a result of this natural delay, an anti‐
+body test may not be useful in the case of acute disease  or  for
+early  assessment  of  infection.  Moreover,  the sensitivity and
+specificity of serological tests varies according to the manufac‐
+turer.  In  general,  the  sensitivity  of  the tests approved in
+Brazil by the National Health Surveillance  Agency  (ANVISA)  was
+greater  than  85%,  and specificity was greater than 94%.4 It is
+important to highlight that diagnostic tests with low sensitivity
+can  result in a higher proportion of false‐negative results, and
+this could interfere in the social  isolation  measures  adopted,
+principally  for  asymptomatic  individuals, thus having a direct
+influence on virus transmissibility.  As such,  SARS‐CoV‐2  anti‐
+body tests can facilitate contact screening; serological surveil‐
+lance at the local, regional, state and national level; and iden‐
+tification  of those who have already been exposed and may possi‐
+bly be immune, considering the existence of protective  immunity.
+Characteristics of case severity Some COVID‐19 cases have serious
+complications, leading to the need for care in intensive  therapy
+units  (ITU)  or even leading to death. According to the Ministry
+of Health, besides the percentage of  asymptomatic  cases,  among
+those  who  have COVID‐19, around 80% are mild cases, 14% are se‐
+vere cases and 5% are critical cases.7 As for more complex cases,
+they  either  progress from the initial symptoms mentioned above,
+or they already manifest SARS‐CoV‐2 infection  through  SARS,  by
+having  dyspnea or clinical signs such as reduction in saturation
+or cyanosis.8 In addition to the higher  mortality  rate  due  to
+SARS,  there  is also a group considered to be at risk because of
+greater lethality. Those belonging to  this  group  are:  elderly
+people aged 60 and over, high‐risk pregnant women and people with
+a variety of comorbidities.9 As such, individuals of all ages who
+have  chronic  diseases  related  to the lungs, asthma, those who
+currently have tuberculosis or sequelae of previous tuberculosis,
+diabetes,  hypertension,  severe obesity, chronic kidney disease,
+liver disease, immunodeficiency and heart problems also belong to
+the  risk group. Recent studies12,26‐28 report diabetes mellitus,
+systemic arterial hypertension, cerebrovascular disease  and  age
+as  more  decisive risk factors in relation to hospitalization in
+ITUs and death.  A retrospective study that assessed neurological
+aspects  of  confirmed COVID‐19 cases29 indicated that 41.1% were
+considered severe. Compared to the milder cases, the severe cases
+were  older  individuals  (58.7   15.0  years  versus  48.9  14.7
+years), had more comorbidities (42 [47.7%]  versus  41  [32.5%]),
+especially  hypertension  (32 [36.4%] versus 19 [15.1%]), and had
+fewer symptoms considered  to  be  typical,  such  as  fever  (40
+[45.5%]  versus  92  [73%])  and  coughing  (30 [34.1%] versus 77
+[61.1%]).  Another study that described  the  characteristics  of
+cases that died compared to cases that recovered30 found at least
+one chronic disease with greater frequency among cases that  died
+(63%  of  those who died and 39% of those who recovered), whereby
+the main diseases were:  systemic  arterial  hypertension  (48%),
+cardiovascular  diseases (14%) and cerebrovascular diseases (4%),
+versus 24%, 4% and 0%, respectively, in recovered cases. The fol‐
+lowing  were also found to be more frequent among those who died:
+dyspnea (62% versus 31%), tight chest (49% versus 30%)  and  loss
+of  consciousness (22% versus 1%); lymphopenia (39%) and leukocy‐
+tosis (50%) (versus 5% and 4% of those who recovered, respective‐
+ly),  saturation  93%  (64%  versus 12%), tachycardia (50% versus
+30%) and tachypnea (27% versus 3%), as well as complications that
+can  arise from the length of time spent in ITUs and the need for
+invasive procedures.  The study conducted by Wang  et  al.15  as‐
+sessed  69  people  with  COVID‐19 in Wuhan, China, and indicated
+that all those who had saturation 90% (n= 14.20%) died, and  that
+those who died were older (median of 70.5 years versus 37 years),
+with comorbidities such as systemic  arterial  hypertension  (36%
+versus  7%),  cardiovascular disease (36% versus 5%) and diabetes
+mellitus (43% versus 2%), and had a substantial increase  in  in‐
+flammatory  cytokines. Fever was evident at the onset of symptoms
+(93% versus 85%) and on the 10th day of illness (64% versus 38%).
+Dyspnea  (50%  versus  24%) and lymphopenia (79% versus 32%) were
+also more frequent in this group.  A study that investigated  the
+characteristics  and  the prognosis factors of COVID‐19 infection
+in a sample Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020
+Suspected  COVID‐19 case definition comprised of 339 elderly peo‐
+ple (60 years old) with positive SARS‐CoV‐2 test results,30 found
+that  the  number of critical and severe cases was greater in the
+group analyzed compared to cases under 60 years  old.  The  study
+indicated  that  23.6%  were  classified  as  being in a critical
+state, while a further 46.9% were in a severe state.30  The  Chi‐
+nese  Center  for  Disease  Control  and Prevention carried out a
+study with 1,023 positive COVID‐19 cases.23 Among those  who  be‐
+came  severely  ill, the most common clinical signs were dyspnea,
+respiratory rate greater than 30 bpm and oxygen saturation  under
+93%.  Among  the  more  critical cases, the signs most found were
+respiratory insufficiency, septic shock and dysfunction or  fail‐
+ure of multiple organs. Lethality was 2.3% in that sample. Howev‐
+er, if only the lethality of the critical  cases  were  assessed,
+the  proportion  would be much higher, i.e. 49%.  the most common
+signs and symptoms by sex and age, although age is  more  related
+to  the  diseases  severity criteria. It is important to consider
+that signs and symptoms can vary between the stages of  the  dis‐
+ease,  oscillating between absence of signs and symptoms and sep‐
+tic shock, when the clinical picture becomes  worse.   It  should
+also be noted that in addition to the diversity of clinical mani‐
+festations, some 80% of infected people can remain  asymptomatic.
+It  is therefore suggested that suspect cases should be monitored
+constantly, in view of the manifestations of diverse symptoms, so
+as  not  to rule out cases by only considering clinical presenta‐
+tion which, in many cases, is subjective.  Given the imminence of
+Brazil  becoming the worlds new epicenter of the COVID‐19 pandem‐
+ic, it is suggested that health services opt for  over‐reporting,
+considering  the  high sensitivity of the surveillance system, so
+that whenever signs and symptoms appear that may  be  related  to
+SARS‐CoV‐2  infection,  isolation  measures  can be indicated for
+cases and their contacts, in addition to constant real‐time moni‐
+toring, based on case investigation and local epidemiological re‐
+ality. In addition, health services can establish, based  on  the
+cases  they  care  for, a set of signs and symptoms that best de‐
+fines their cases and which guides screening in  accordance  with
+the specific situation. Use of telemedicine is a fundamental tool
+in providing care to suspect and confirmed cases that can stay at
+home,  so  as to accompany the progression of their clinical pre‐
+sentation and identify early any worsening of the case,  so  that
+appropriate  measures can be taken.  Whenever possible, it is es‐
+sential to use molecular or serological diagnostic tests, depend‐
+ing  on  the  day the symptoms started, in addition to laboratory
+tests and image examinations, to confirm diagnosis  of  COVID‐19.
+Final  considerations  against  it  using the best available evi‐
+dence. Due to its multiple presentations in all age  ranges,  the
+concept of diagnosis continues to be very broad and sensitive, so
+that it is not possible to define so much as a single  obligatory
+sign/symptom for determining presence of infection. Nevertheless,
+it appears to be consensus that people with  existing  comorbidi‐
+ties  and  people who are older are susceptible to being more in‐
+tensely affected and having worse disease  progression,  so  that
+they  need  to  be targeted with preventive actions.  Considering
+the high percentage of asymptomatic people and people  with  mild
+symptoms, who will not be completely captured by the surveillance
+system, by means of investigation  and  laboratory  confirmation,
+health  services  need  to take great care with regard to symptom
+heterogeneity and clinical presentation of the disease.  In  this
+situation,  nonpharmaceutical  prevention  measures  need  to  be
+adopted for the entire population, including  wearing  facemasks,
+constant  sanitization  of hands and environments, in addition to
+social distancing. It also continues to be essential to  increase
+access  to  diagnostic  tests,  in order to have knowledge of the
+epidemiological situation in each place and achieve better  guid‐
+ance  of measures to control virus dissemination.  Brazil contin‐
+ues to be in a state of alert, with the aim of slowing  down  the
+new  case infection curve so as not to overburden the health sys‐
+tem. Further studies need to be conducted so that the case  defi‐
+nition  becomes  more  precise in relation to signs and symptoms,
+assisting classification of the population and guiding the gradu‐
+al  return  to routine activities, while complying with indicated
+protection measures, with the aim of minimizing the  consequences
+of  the  pandemic.  Iser BPM, Schuelter‐Trevisol F and Bobinski F
+contributed to the study concept and design. Iser BPM coordinated
+Epidemiol. Serv. Saude, Braslia, 29(3):e2020233, 2020 Betine Pin‐
+to Moehlecke Iser et al.  the research team. Sliva I, Raymundo VT
+and  Poleto  MB  BPM,  Schuelter‐Trevisol F, Bobinski F, Sliva I,
+Raymundo VT and Poleto MB  contributed  to  data  interpretation,
+drafting  including  the guarantee of its accuracy and integrity.
+1. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al.  A  novel
+coronavirus from patients with pneumonia in China, 2019. N Engl J
+Med [Internet]. 2020 Feb [cited 2. World  Health  Organization  ‐
+WHO.  Coronavirus disease (COVID‐19) pandemic [Internet]. Geneva:
+World Health Organization; 2019 [cited 2020 Apr 26].  3. Croda J,
+Oliveira  WK,  Frutuoso RL, Mandetta LH, Baia‐da‐Silva DC, Brito‐
+Sousa JD, et al. COVID‐19 in Brazil: advantages of  a  socialized
+unified  health Bras Med Trop [Internet]. 2020 Apr [cited 2020 4.
+Ministrio da Sade (BR). Secretaria de Cincia, Tecnologia,  Inovao
+e  Insumos  Estratgicos  em  Sade. Acurcia dos testes diagnsticos
+registrados para a COVID‐19: verso 1  [Internet].  Braslia:  Min‐
+istrio  da Sade; 2020 [citado 2020 jun 1]. 19 p.  5. Zitek T. The
+appropriate use of testing for COVID‐19.  West J Emerg  Med  [In‐
+ternet].  2020 Apr [cited 2020 6. Tolia VM, Chan TC, Castillo EM.
+Preliminary results of initial testing for coronavirus (COVID‐19)
+in  the  emergency department. West J Emerg Med [Internet].  2020
+Mar [cited 2020 Jun 1];21(3):503‐6.  Available  7.  Ministrio  da
+Sade  (BR). Secretaria de Vigilncia em Sade. Centro de Operaes de
+Emergncias em Sade Pblica. Doena pelo coronavrus 2019: ampliao da
+vigilncia, medidas no farmacolgicas e descentralizao do diagnsti‐
+co laboratorial. Bol Epidemiol [Internet]. 2020 mar [citado  2020
+jun  1];5.  8. Ministrio da Sade (BR). Secretaria de Vigilncia em
+Sade. Guia de vigilncia epidemiolgica emergncia de sade pblica de
+importncia  nacional  pela doena pelo coronavrus 2019 [Internet].
+Braslia: Ministrio da Sade; 2020  [citado  2020  jun  1].  34  p.
+Disponvel  9. Ministrio da Sade. Secretaria de Vigilncia em Sade.
+Centro de Operaes de Emergncias em Sade Pblica.  Especial:  doena
+pelo  coronavrus 2019. Bol Epidemiol [Internet]. 2020 abr [citado
+10. Ministrio da Sade (BR). Secretaria de Vigilncia em Sade. Cen‐
+tro  de  Operaes de Emergncias em Sade Pblica. Infeco humana pelo
+novo coronavrus (2019‐nCoV). Bol Epidemiol [Internet].  2020  jan
+[citado  2020 jun 1];1. Disponvel em: 11. Ministrio da Sade (BR).
+Secretaria de Cincia, Tecnologia, Inovao e Insumos Estratgicos em
+Sade. Diretrizes para diagnstico e tratamento da COVID‐19 [Inter‐
+net]. Braslia: Ministrio da Sade; 2020 [citado 2020 jun 1]. 87 p.
+Disponvel em: 12. Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al.
+Clinical characteristics of coronavirus disease 2019 in China.  N
+Engl  J Med [Internet]. 2020 Apr [cited 2020 Jun Epidemiol. Serv.
+Saude, Braslia, 29(3):e2020233, 2020 Suspected COVID‐19 case def‐
+inition  13. Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R, Jerome
+KR, Nalla AK, et al. Covid‐19 in critically Ill patients  in  the
+Seattle  Region   case series.  N Engl J Med [Internet]. 2020 Mar
+[cited 2020 14. Huang C, Wang Y, Li X, Ren L, Zhao J,  Hu  Y,  et
+al.  Clinical features of patients infected with 2019 novel coro‐
+navirus in Wuhan, China. Lancet [Internet]. 2020 Feb [cited  2020
+Jun  1];395(10223):497‐506.  Available  15. Wang Z, Yang B, Li Q,
+Wen L, Zhang R. Clinical features of 69  cases  with  coronavirus
+disease  2019  in Wuhan, China. Clin Infect Dis [Internet]. Foth‐
+coming.  16. Rodriguez‐Morales AJ, Cardona‐Ospina JA,  GutirrezO‐
+campo  E,  Villamizar‐Pea  R, Holguin‐Rivera Y, Escalera‐Antezana
+JP, et al. Clinical, laboratory and and meta‐analysis. Travel Med
+Infect   Dis   [Internet].    2020   Mar‐Abr   [cited   2020  Jun
+1];34:101623. Available 17. Sociedade Brasileira de  Cirurgia  de
+Cabea e Pescoo ‐ SBCCP. Anosmia, hiposmia e ageusia ‐ sintomas na
+infeco por COVID‐19? So Paulo: Sociedade Brasileira  de  Cirurgia
+de Cabea e Pescoo; 2020 18. Gautier JF, Ravussin Y. A new symptom
+of COVID‐19: loss of taste and smell.  Obesity  [Internet].  2020
+Apr  19. Giacomelli A, Pezzati L, Conti F, Bernacchia D, Siano M,
+Oreni L, et al. Self‐reported olfactory and  taste  disorders  in
+SARS‐CoV‐2  patients:  a  cross‐sectional  study. Clin Infect Dis
+[Internet]. Fothcoming 2020 20. Vaira LA, Salzano G, Deiana G, De
+Riu G. Anosmia and ageusia: common findings in COVID‐19 patients.
+Laryngoscope [Internet]. Forthcoming 2020 Apr [cited 21.  Pan  L,
+Mu M, Yang P, Sun Y, Yan J, Li P, et al. Clinical characteristics
+of COVID‐19 patients with digestive symptoms in Hubei,  China:  a
+descriptive,  crosssectional,  multicenter  study. Am J Gastroen‐
+terol 22. Jin X, Lian J‐S, Hu J‐H, Gao J, Zheng L, Zhang Y‐M,  et
+al.  Epidemiological, clinical and virological characteristics of
+74 cases of coronavirus‐infected  disease  2019  (COVID‐19)  with
+gastrointestinal  symptoms.  Gut [Internet]. 2020 Jun [cited 2020
+23. Wu Z, McGoogan JM. Characteristics of and  important  lessons
+from  the  coronavirus disease 2019 (COVID‐19) outbreak in china:
+summary of a report of 72 314 cases from the chinese  center  for
+disease  control and prevention. JAMA [Internet]. 2020 Fev [cited
+2020 Jun 1];323(13):1239‐42. Available from: 24. Woelfel R,  Cor‐
+man  VM,  Guggemos  W,  Seilmaier  M, Zange S, Mueller MA, et al.
+Clinical presentation and virological assessment of  hospitalized
+cases  of  coronavirus disease 2019 in a travel‐associated trans‐
+mission cluster. medRxiv [Internet].  Forthcoming 2020 Mar [cited
+2020  Jun  1].  Available  25. Hadaya J, Schumm M, Livingston EH.
+Testing individuals for coronavirus disease 2019 (COVID‐19). JAMA
+[Internet].2020 Apr [cited 2020 26. Yang J, Zheng Y, Gou X, Pu K,
+Chen Z, Guo Q, et al.  Prevalence of comorbidities in  the  novel
+Wuhan  and  meta‐analysis.  Int J Infect Dis [Internet]. 2020 May
+[cited 2020 Jun 1];94:91‐5. Available from: 27. Yang X, Yu Y,  Xu
+J,  Shu  H,  Xia J, Liu H, et al. Clinical course and outcomes of
+critically ill patients with SARS‐CoV‐2 pneumonia in Wuhan,  Chi‐
+na:  a singlecentered, retrospective, observational study. Lancet
+Respir Med [Internet]. 2020  May  [cited  2020  Epidemiol.  Serv.
+Saude,  Braslia, 29(3):e2020233, 2020 Betine Pinto Moehlecke Iser
+et al.  28. Zhang J‐J, Dong X, Cao Y‐Y, Yuan Y‐D, Yang  Y‐B,  Yan
+Y‐Q,  et  al.  Clinical  characteristics of 140 patients infected
+with SARS‐CoV‐2 in Wuhan, China. Allergy [Internet].  Forthcoming
+2020  Feb  [cited  2020 Jun 1].  29. Mao L, Wang M, Chen S, He Q,
+Chang J, Hong C, et al.  Neurological manifestations of hospital‐
+ized patients with COVID‐19 in Wuhan, China: a retrospective case
+series study. JAMA Neurol [Internet]. Forthcoming 30. Chen T,  Wu
+D,  Chen  H, Yan W, Yang D, Chen G, et al.  Clinical characteris‐
+tics of 113 deceased patients with coronavirus disease 2019: ret‐
+rospective  study.  BMJ  [Internet].  2020  Mar  [cited  2020 Jun
+1];368:m1091.  Approved on  26/05/2020  Epidemiol.  Serv.  Saude,
+Braslia, 29(3):e2020233, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+

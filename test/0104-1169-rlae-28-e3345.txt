@@ -1,416 +1,330 @@
-Rev. Latino-Am. Enfermagem
-Estimation and prediction of COVID-19 cases in Brazilian metropolises*
-George J Bezerra Sousa1,2
-Thiago Santos Garces1,3
-epidemiological peak, and the number of deaths by the new
-Virna Ribeiro Feitosa Cestari1,3
-coronavirus. Method: a mathematical and epidemiological
-Thereza Maria Magalhes Moreira1,4
-model of susceptible, infected, and recovered cases was
-applied to the nine Brazilian capitals with the highest number
-Raquel Sampaio Florncio1,3
-of cases of the infection. The number of cases for the 80
-Maria Lcia Duarte Pereira
-days following the first case was estimated by solving the
-differential equations. The results were logarithmized and
-compared with the actual values to observe the model fit. In all
-scenarios, it was considered that no preventive measures had
-been taken. Results: the nine metropolises studied showed an
-upward curve of confirmed cases of COVID-19. The prediction
-data point to the peak of the infection between late April and
-early May. Fortaleza and Manaus had the highest transmission
-rates (20 and 18, respectively). Rio de Janeiro may
-have the largest number of infected people (692,957) and
-Health Context.
-Florianpolis the smallest (24,750). Conclusion: the estimates
-Universidade Estadual do Cear, Fortaleza, CE, Brazil.
-Scholarship holder at the Fundao Cearense de Apoio
-of the transmission rate, epidemiological peak, and number of
-ao Desenvolvimento Cientfico e Tecnolgico (FUNCAP),
-Scholarship holder at the Coordenao de Aperfeioamento
-de Pessoal de Nvel Superior (CAPES), Brazil.
-Desenvolvimento Cientfico e Tecnolgico (CNPq), Brazil.
-deaths from coronavirus in Brazilian metropolises presented
-expressive and important numbers the Brazilian Ministry of
-Health needs to consider. The results confirm the rapid spread
-of the virus and its high mortality in the country.
-Forecasting; Epidemiology; Epidemiologic Models; Nursing.
-Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Florencio RS, Pereira MLD. Estimation and prediction
-of COVID-19 cases in Brazilian metropolises. Rev. Latino-Am. Enfermagem. 2020;28:e3345. [Access ___ __ ____];
-month day
-Rev. Latino-Am. Enfermagem 2020;28:e3345.
-and their social acceptance. Given the above, this
-research aimed to estimate the transmission rate,
-The new coronavirus (SARS-CoV-2) belongs to a
-epidemiological peak, and the number of deaths
-family of viruses that cause diseases in the human
-by COVID-19 in the nine Brazilian capitals with the
-respiratory system. Previous outbreaks of coronavirus
-highest number of cases.
-(CoVs) include Severe Acute Respiratory Syndrome
-(SARS)-CoV and Middle East respiratory syndrome
-(MERS)-CoV as major threats to public health(1).
-December 2019 in Wuhan, Hubei province, Peoples
-provinces(2). Due to its high spread rate, China
-declared COVID-19 a second-class infectious disease,
-with management measures for a first-class infectious
-disease (the most dangerous category of infection)(3).
-The spread of COVID-19 was rapid and global.
-Thailand, on January 13th, 2020. Next, cases of the
-disease were confirmed in Japan (January 16th);
-South Korea (January 20th); Taiwan and the United
-States (January 21st); Hong Kong and Macau from
-France, Nepal, and Vietnam (January 24th); Malaysia
-and Australia (January 25th); Canada (January 26th);
-Cambodia (January 27th); Germany (January 28th);
-Finland, United Arab Emirates and Sri Lanka (January
-29th); Italy, India and the Philippines (January 30th);
-United Kingdom (January 31st)(4), and the geographical
-expansion of this pandemic continues.
-In this scenario, it remains to be established that
-the ongoing pandemic of COVID-19 is devastating,
-measures. On January 30th, 2020, the World Health
-Organization (WHO) characterized the disease as a
-pandemic, being declared a Public Health Emergency
-of International Importance. As of April 1st, 2020,
-823,626 cases of Covid-19 were confirmed, with
-40,598 deaths worldwide(5).
-In an analysis of the COVID-19 case panel in
-Brazil until April 1st, 6,836 cases were confirmed by
-the countrys Ministry of Health, in addition to 241
-deaths and a fatality rate of 3.5%. The cases are
-distributed throughout the national territory, with a
-greater concentration in the Southeast (4,223 cases;
-62%), followed by the Northeast (1,007 cases; 15%),
-South (765 cases; 11%), Midwest (504 cases; 7%)
-and North (337 cases; 5%)(6).
-research is urgent to estimate the risk of this pandemic
-exposed urban centers that face the heaviest disease
-burden, it is imperative to closely monitor changes in
-epidemiology, the effect of public health strategies,
-The first case of COVID-19 was diagnosed on
-February 27th, 2020 in So Paulo. On February 3rd, a
-public health emergency was decreed in the country,
-and on March 20th, 2020, community transmission of
-the disease was announced in the country(7).
-Thus, to understand this diseases dynamics in the
-population, the SIR epidemiologic model proposed by
-Kermack and McKendric(8) was applied. This model rests
-on the idea that there are three groups of individuals:
-susceptible (S), infected (I), and recovered (R). The
-mathematical expression of the model uses three
-differential equations, where  is the parameter that
-controls the transition between S and I, and  is the
-parameter of the transition between I and R.
-cities with the highest number of cases until March
-27th, 2020 was investigated, which corresponds to
-nine capital cities (out of twenty-seven). According
-(IBGE), the estimated Brazilian population amounts
-to 208,494,900 inhabitants living in 5,571 cities,
-distributed in five great regions. The selected capitals
-were Belo Horizonte, So Paulo and Rio de Janeiro
-in the Southeast region; Curitiba, Florianpolis and
-Porto Alegre in the South; Manaus in the North;
-Salvador and Fortaleza in the Northeast. Brasilia, in
-the Midwest, would be added, but was removed from
-the pool of investigated cities due to difficulties to find
-official data.
-Data were extracted from the daily epidemiological
-reports since the first day of confirmed cases until
-March 30th, 2020 and the capitals population was
-according to the IBGE(9). Initially, graphs were created
-with the actual number of confirmed cases in each
-city until the end date, followed by their logarithmic
-transformation to show growth patterns. Then, the
-differential equations were solved for each of the nine
-scenarios and the number of cases was predicted
-until the 80th day of infection since day one. To test
-the models fit, the natural logarithm of the observed
-and predicted number of cases was used. They
-were graphically presented for the sake of a better
-Moreover, the diseases basic reproduction rate
-(R0) could be identified, which shows how many
-Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Florencio RS, Pereira MLD.
-healthy people an ill person can infect. The predicted
-Southeast, So Paulo (SP), Rio de Janeiro (RJ), and
-number of cases, the day of peak, and the possible
-Belo Horizonte (BH) notified the first cases on February
-number of deaths were also investigated, considering
-22nd, March 6th, and March 16th, respectively. Until the
-the maximum number of people who can be sick
-end of data collection, there were notified 1,233 cases
-and 1% lethality. These values were considered as if
-in SP, 553 in RJ, and 163 in BH.
-Regarding the number of predicted cases, the
-no prevention measure had been taken. Data were
-observed cases were superior to the modeled number.
-analyzed in R software, using the package deSolve.
-This work did not require Ethics Committee approval
-In BH, some degree of stability was observed since
-because the state health department freely distributed
-day 14, with the number of cases remaining inferior to
-Brazilian resolution 466/2012 on ethics for research.
-and Porto Alegre notified the first cases as from
-March 5th (Porto Alegre) and March 12th (Curitiba and
-Florianpolis). Until March 30th, the number of confirmed
-In total, 2,829 confirmed cases of COVID-19
-were analyzed in nine Brazilian capital cities. In the
-cases increased to 77 in Curitiba, 50 in Florianpolis,
-and 143 in Porto Alegre.
-Rio de Janeiro
-Rio de Janeiro
-So Paulo
-So Paulo
-Belo Horizonte
-Belo Horizonte
-Nl = Natural logarithm
-Fortaleza, CE, 2020
-Rev. Latino-Am. Enfermagem 2020;28:e3345.
-The cases estimated with the help of the SIR model
-In the Northeast Region, Salvador and Fortaleza
-in Curitiba, Florianpolis, and Porto Alegre showed that
-notified the first cases on March 13th and 16th,
-the observed and predicted case numbers were similar
-respectively. The number of confirmed cases until March
-than the model until the twentieth day of infection. From
-that point, the number of observed cases remained
-relatively constant and inferior to the model.
-In the North Region, Manaus was the only city
-30th was 117 in Salvador and 382 in Fortaleza. In the
-predictive model, Salvador and Fortaleza presented a
-outcomes predicted for COVID-19 in the capital cities
-under study. The prediction data appoint the occurrence
-investigated. The first case of COVID-19 in the city
-of the infection peak between the end of April and the
-was registered on March 13th and, on the last day of
-beginning of May. Fortaleza and Manaus have the highest
-the investigation, 140 cases had been registered. The
-transmission rates (20 and 18, respectively). Rio de
-sharp increase in the number of cases was similar to the
-Janeiro may have the largest number of infected people
-(692,957) and Florianpolis the smallest (24,750).
-Porto Alegre
-Porto Alegre
-Nl = Natural logarithm
-Fortaleza, CE, Brazil, 2020
-Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Florencio RS, Pereira MLD.
-Nl = Natural logarithm
-Fortaleza, CE, Brazil, 2020
-Nl = Natural logarithm
-Fortaleza, CE, Brazil, 2020
-Number of days from the first
-case to the peak
-Peak date
-Maximum number of
-infected people
-number of deaths
-Belo Horizonte
-Porto Alegre
-Rio de Janeiro
-So Paulo
-Rev. Latino-Am. Enfermagem 2020;28:e3345.
-city, with 2.1 million inhabitants and one of the largest
-tourist destinations in Brazil. The growth of cases in the
-city is expressive and linked to a social scene where
-geographical differences, whether in the levels of health
-relations between the cities prevail, in addition to an
-risks or the access to the resources available in the
-insufficient health service network with difficulties to
-countrys health system(10). Endemics, epidemics, and
-maintain human resources(14).
-pandemics have historical and social roots, and their
-In the Northeast region, the cases of COVID-19
-main determinants are the poor living conditions of the
-were analyzed in Salvador and Fortaleza, cities with
-population, the different forms of spatial occupation,
-a great international travel flow. Salvador is the most
-and the lack of access to services.
-populous city in the Northeast and the third in the
-Unlike other infectious diseases, COVID-19 affects
-country. Fortaleza, the state capital of Cear, has the
-developed and developing countries, making no social
-distinction. The results of this investigation showed the
-capitals. In these cities, an exponential growth pattern
-highest number of cases of COVID-19 in the Southeast
-of cases was observed and Fortaleza also presented
-region, distributed in the cities of SP and RJ, considered
-the highest transmission rate. Currently, Fortaleza
-the largest and most developed national metropolises
-concentrates 91% of COVID-19 cases in the state of
-and, to a lesser extent, in BH. So Paulo is the main
-Cear, concentrated in neighborhoods of different social
-financial, corporate, and mercantile center in South
-and economic levels.
-America, being the most influential Brazilian city at
-In this context, the number of national and
-the global level. RJ is the largest international tourist
-international tourists who seek Brazil as a destination has
-destination in Brazil, a characteristic that led to the
-increased every year. Capitals such as So Paulo, Rio de
-appearance of the first case of the disease in the country.
-Also in the Southeast, BH showed an upward
-the most popular destinations for tourists, whether
-pattern of the disease curve. In comparison with SP
-for their natural landscapes, culture, or economic
-and RJ, however, it presented a lower number of cases,
-attractions. To accommodate this number of tourists,
-which can be justified by having a smaller population
-Brazil has become one of the emerging countries with the
-than the two other cities, and by the more uniform
-greatest potential for the development of air transport.
-distribution of basic health services and their scope.
-This is due to the countrys territorial dimension and
-In BH, human resources, health actions, and services
-high geographical and social mobility of its population,
-offered by the Unified Health System are distributed
-the accelerated displacement of economic frontiers,
-to offer quality services, with greater equity and easy
-Brazils competitive insertion in global markets and
-and timely access to meet the needs of a larger portion
-monetary stability, and the increased purchasing power
-of the population
-for consumers(15). The establishment of hubs in several
-, which can contribute to the early
-diagnosis and containment of disease cases.
-Moving on, the South region, with the cities of
-airports has enhanced the entrance of foreigners in
-different countries of the world.
-Curitiba, Florianpolis and Porto Alegre, had a lower
-The economic advantages of tourism in Brazil are
-number of cases. These cities represent a major tourist,
-undeniable, however, the issues of travel and health
-economic, and cultural center with European influence,
-are an existing concern. The profiles of travelers differ
-evidenced in its predominantly elderly population. People
-in terms of origin and destination, which can directly
-living in cities in the South region have greater access
-influence the occurrence of epidemics and pandemics,
-to health services when compared to other Brazilian
-often of unexpected magnitude and severity(16), such as
-COVID-19. Also, limited coverage and access to health
-It is worth noting that the unequal distribution
-of COVID-19 cases among Brazilian regions is also
-services in the country can corroborate the spread of
-influenced by underreporting. The North and Northeast
-While a small portion of the Brazilian population has
-regions are marked by a worse assessment of the health
-access to health services, many people face a decrease
-status, greater restriction of activities, and lesser use of
-in the availability of hospital beds(17). This factor, linked
-health services, despite the greater coverage of public
-to COVID-19s pandemic potential, put the response
-capacity of epidemiological surveillance services at the
-Representing the North region, Manaus, the state
-center of attention and required preventive measures
-capital of Amazonas, is the main financial, corporate and
-from the Brazilian government, such as confinement and
-social distancing.
-Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Florencio RS, Pereira MLD.
-Extensive measures are needed to reduce the
-of Health should take into account. All metropolises
-interpersonal transmission of COVID-19 . Some of the
-showed an exponential growth in the number of cases.
-measures adopted, such as spraying disinfectant and
-The transmission rate was higher in Fortaleza and in
-alcohol in the air, on roads, vehicles, and people have
-Manaus, where many deaths are expected. Thus, the
-not been effective though(3). More expanded measures
-results confirm the rapid spread of the virus and its high
-include isolation of cases, identification and monitoring
-mortality in Brazil.
-of contacts, environmental disinfection, and use of
-personal protective equipment(4). Regarding the control
-strategies, social distancing stood out as a strategy that
-limits human-to-human transmission, as well as reducing
-secondary infections between close contacts and health
-events, and reducing or delaying the dissemination of
-the virus.
-Moreover, epidemics and pandemics paralyze the
-economic, social, political, and cultural development,
-interfering in the demographic trajectory of the locations
-where they spread(18). The emergence of COVID-19 and
-its consequences has left the worldwide population
-with feelings of fears, concerns, and anxiety, which can
-further expand the disease data(19).
-The biological, mental, emotional, social, and
-economic chaos caused by COVID-19 requires a quick
-response from the federal government and open and
-effective communication with state governors. In Brazil,
-divergences are observed between members of the
-state and federal governments as to the best measures
-to adopt to face this crisis. This lack of understanding is
-factual and may result in a greater number of deaths, as
-a result of the characteristics of the virus and unequal
-access to the health system and health technologies in
-the country.
-The publication of the expected number of cases
-new. This evidence allows managers to organize health
-services, based on public policies such as the creation
-of hospital beds, purchasing of medical equipment,
-and development of health education actions to assure
-quarantine or social distancing.
-The main limitation of this study arises from the
-use of a secondary database, as data for some cases
-were incomplete. Furthermore, underreporting and/or
-insufficient testing might influence the predicted peak.
-It is also important to highlight that the results did not
-consider social distancing measures that aim to reduce
-the transmission rate of the virus.
-1. Rothan HA, Byrareddy SN. The epidemiology and
-pathogenesis of coronavirus disease (COVID-2019)
-2. Ji W, Wang W, Zhao X, Zai J, Li X.
-Cross species
-transmission of the newly identified coronavirus 2019nCoV. J Med Virol. [Internet]. 2020 [cited Apr 20, 2020];
-3. Xiao Y, Torok ME. Taking the right measures to control
-COVID-19. Lancet Infec Dis. [Internet]. 2020 [cited
-4. Adhikari SP, Mend S, Wu YJ, Mao YP, Ye RX, Wand QZ,
-et al. Epidemiology, causes, clinical manifestation and
-diagnosis, prevention and control of coronavirus disease
-(COVID-19) during the early outbreak period: a scoping
-5. Organizao Pan-Americana da Sade. Organizao
-Mundial da Sade. Folha informativa  COVID-19
-(doena causada pelo novo coronavrus). [Internet].
-6. Ministrio da Sade (BR). Painel de casos de doena
-Ministrio da Sade. [Internet]. 2020 [Acesso 20 abr
-7. Dirio Oficial da Unio (BR). Portaria n 454, de 20 de
-maro de 2020. Declara, em todo o territrio nacional,
-o estado de transmisso comunitria do coronavrus
-(covid-19). Dirio Oficial da Unio. 20 mar 2020 [Acesso
-surveillance professionals in the Brazilian states.
-epidemiological peak, and number of deaths by COVID-19
-in the Brazilian metropolises presented expressive
-8. Kermack WO, McKendrick AG. Contributions to the
-and important numbers which the Brazilian Ministry
-mathematical theory of epidemics. P Roy Soc A-Math
-Rev. Latino-Am. Enfermagem 2020;28:e3345.
-18. Bassanezi MSB, Cunha MF. One place, two epidemic
-moments: yellow fever (1896-1897) and influenza
-9. Instituto Brasileiro de Geografia (BR). Cidades IBGE.
-Braslia: IBGE; 2020 [Acesso 20 abr 2020]. Disponvel
-Est Pop. [Internet]. 2019 [cited Apr 20, 2020];36:1-29.
-10. Barreto ML. Health inequalities: a global perspective.
-19. Ahorsu DK, Lin CY, Imani V, Saffari M, Griffiths MD,
-Cienc Saude Colet. [Internet]. 2017 [cited Apr 20,
-Pakpour AH. The fear of COVID-19 Scale: development
-and initial validation. Int J Mental Health Addict.
-11. Souza RCF, Oliveira VB, Pereira DB, Costa HSM, Caiaffa
-WT. Living near health at Belo Horizonte. Cad Metrop.
-[Internet]. 2016 [cited Apr 20, 2020];18(36):325-44.
-12. Stopa SR, Malta DC, Monteiro CN, Szwarcwald
-CL, Goldbaum M, Cesar CLG. Use of and access to
-health services in Brazil, 2013 National Health Survey.
-13. Viacava F, Bellido JG. Health, access to services
-and sources of payment, according to household
-regionalization in Amazonas: progress and challenges.
-Cienc Saude Coletiva. [Internet]. 2017 [cited Apr 20,
-15. Pereira APC. Who are they? Where do they go? the
-regional airline sector in Brazil. Confins. [Internet]. 2016
-16. Teixeira MG, Costa MNC, Paixo ES, Carmo EH,
-Barreto FR, Penna GO. The achievements of the SUS
-in tackling the communicable diseases. Cienc. Saude
-17. Albuquerque MV, Viana ALA, Lima LD, Ferreira
-MP, Fusaro ER, Iozzi FL. Regional health inequalities:
-Evelin Capellari Crnio
-Raquel Sampaio Florncio
-Copyright  2020 Revista Latino-Americana de Enfermagem
-offered. Recommended for maximum dissemination and use of
+Rev.  Latino‐Am. Enfermagem Estimation and prediction of COVID‐19
+cases in Brazilian metropolises* George J Bezerra Sousa1,2 Thiago
+Santos  Garces1,3  epidemiological peak, and the number of deaths
+by the new Virna Ribeiro Feitosa Cestari1,3 coronavirus.  Method:
+a  mathematical  and  epidemiological Thereza Maria Magalhes Mor‐
+eira1,4 model of susceptible, infected, and recovered  cases  was
+applied  to  the  nine Brazilian capitals with the highest number
+Raquel Sampaio Florncio1,3 of cases of the infection. The  number
+of  cases for the 80 Maria Lcia Duarte Pereira days following the
+first case was estimated by solving the  differential  equations.
+The  results were logarithmized and compared with the actual val‐
+ues to observe the model fit. In all scenarios, it was considered
+that no preventive measures had been taken. Results: the nine me‐
+tropolises studied showed an upward curve of confirmed  cases  of
+COVID‐19.  The prediction data point to the peak of the infection
+between late April and early May. Fortaleza and  Manaus  had  the
+highest  transmission  rates  (20  and  18, respectively). Rio de
+Janeiro may have the largest number of infected people  (692,957)
+and  Health Context.  Florianpolis the smallest (24,750). Conclu‐
+sion: the estimates Universidade Estadual do Cear, Fortaleza, CE,
+Brazil.   Scholarship  holder  at the Fundao Cearense de Apoio of
+the transmission rate, epidemiological peak, and number of ao De‐
+senvolvimento Cientfico e Tecnolgico (FUNCAP), Scholarship holder
+at the Coordenao de Aperfeioamento de Pessoal  de  Nvel  Superior
+(CAPES),  Brazil.  Desenvolvimento Cientfico e Tecnolgico (CNPq),
+Brazil.  deaths from coronavirus in Brazilian  metropolises  pre‐
+sented expressive and important numbers the Brazilian Ministry of
+Health needs to consider. The results confirm the rapid spread of
+the  virus  and  its high mortality in the country.  Forecasting;
+Epidemiology; Epidemiologic Models; Nursing.  Sousa  GJB,  Garces
+TS,  Cestari VRF, Moreira TMM, Florencio RS, Pereira MLD. Estima‐
+tion and prediction of COVID‐19 cases in Brazilian  metropolises.
+Rev.  Latino‐Am. Enfermagem. 2020;28:e3345. [Access ___ __ ____];
+month day Rev. Latino‐Am. Enfermagem  2020;28:e3345.   and  their
+social  acceptance. Given the above, this research aimed to esti‐
+mate the transmission rate, The new coronavirus (SARS‐CoV‐2)  be‐
+longs  to a epidemiological peak, and the number of deaths family
+of viruses that cause diseases in the human by  COVID‐19  in  the
+nine  Brazilian  capitals  with  the respiratory system. Previous
+outbreaks of coronavirus highest number of cases.  (CoVs) include
+Severe Acute Respiratory Syndrome (SARS)‐CoV and Middle East res‐
+piratory  syndrome  (MERS)‐CoV  as  major   threats   to   public
+health(1).  December 2019 in Wuhan, Hubei province, Peoples prov‐
+inces(2). Due to its high spread rate, China declared COVID‐19  a
+second‐class  infectious  disease, with management measures for a
+first‐class infectious disease (the most  dangerous  category  of
+infection)(3).   The  spread  of  COVID‐19  was rapid and global.
+Thailand, on January 13th, 2020. Next, cases of the disease  were
+confirmed  in  Japan  (January 16th); South Korea (January 20th);
+Taiwan and the United States (January 21st); Hong Kong and  Macau
+from France, Nepal, and Vietnam (January 24th); Malaysia and Aus‐
+tralia (January 25th); Canada (January 26th);  Cambodia  (January
+27th);  Germany (January 28th); Finland, United Arab Emirates and
+Sri Lanka (January 29th); Italy, India and the Philippines (Janu‐
+ary 30th); United Kingdom (January 31st)(4), and the geographical
+expansion of this pandemic continues.  In this scenario,  it  re‐
+mains  to be established that the ongoing pandemic of COVID‐19 is
+devastating, measures. On January 30th, 2020,  the  World  Health
+Organization (WHO) characterized the disease as a pandemic, being
+declared a Public Health Emergency of  International  Importance.
+As  of April 1st, 2020, 823,626 cases of Covid‐19 were confirmed,
+with 40,598 deaths worldwide(5).  In an analysis of the  COVID‐19
+case  panel in Brazil until April 1st, 6,836 cases were confirmed
+by the countrys Ministry of Health, in addition to 241 deaths and
+a fatality rate of 3.5%. The cases are distributed throughout the
+national territory, with a greater concentration in the Southeast
+(4,223 cases; 62%), followed by the Northeast (1,007 cases; 15%),
+South (765 cases; 11%), Midwest (504 cases; 7%)  and  North  (337
+cases;  5%)(6).   research is urgent to estimate the risk of this
+pandemic exposed urban centers that  face  the  heaviest  disease
+burden, it is imperative to closely monitor changes in epidemiol‐
+ogy, the effect of public health strategies, The  first  case  of
+COVID‐19  was  diagnosed  on  February 27th, 2020 in So Paulo. On
+February 3rd, a public health emergency was decreed in the  coun‐
+try,  and on March 20th, 2020, community transmission of the dis‐
+ease was announced in the country(7).  Thus, to  understand  this
+diseases  dynamics in the population, the SIR epidemiologic model
+proposed by Kermack and  McKendric(8)  was  applied.  This  model
+rests  on  the  idea  that there are three groups of individuals:
+susceptible (S), infected (I), and recovered (R). The  mathemati‐
+cal  expression  of  the model uses three differential equations,
+where  is the parameter that controls the  transition  between  S
+and  I,  and  is the parameter of the transition between I and R.
+cities with the highest number of cases until  March  27th,  2020
+was  investigated,  which corresponds to nine capital cities (out
+of twenty‐seven). According (IBGE), the estimated Brazilian popu‐
+lation amounts to 208,494,900 inhabitants living in 5,571 cities,
+distributed in five great regions. The selected capitals were Be‐
+lo  Horizonte,  So  Paulo and Rio de Janeiro in the Southeast re‐
+gion; Curitiba, Florianpolis and Porto Alegre in the South;  Man‐
+aus  in  the  North;  Salvador  and  Fortaleza  in the Northeast.
+Brasilia, in the Midwest, would be added, but  was  removed  from
+the pool of investigated cities due to difficulties to find offi‐
+cial data.  Data were extracted from  the  daily  epidemiological
+reports  since the first day of confirmed cases until March 30th,
+2020 and the capitals population was according  to  the  IBGE(9).
+Initially,  graphs  were  created  with the actual number of con‐
+firmed cases in each city until the end date, followed  by  their
+logarithmic  transformation  to  show  growth patterns. Then, the
+differential equations were solved for each of the nine scenarios
+and  the  number of cases was predicted until the 80th day of in‐
+fection since day one. To test the models fit, the natural  loga‐
+rithm  of  the  observed  and predicted number of cases was used.
+They were graphically presented for the sake of  a  better  More‐
+over,  the diseases basic reproduction rate (R0) could be identi‐
+fied, which shows how many Sousa GJB,  Garces  TS,  Cestari  VRF,
+Moreira  TMM,  Florencio  RS, Pereira MLD.  healthy people an ill
+person can infect. The predicted Southeast, So Paulo (SP), Rio de
+Janeiro  (RJ), and number of cases, the day of peak, and the pos‐
+sible Belo Horizonte (BH) notified the first  cases  on  February
+number  of deaths were also investigated, considering 22nd, March
+6th, and March 16th, respectively. Until the the  maximum  number
+of  people who can be sick end of data collection, there were no‐
+tified 1,233 cases and 1% lethality. These values were considered
+as  if  in SP, 553 in RJ, and 163 in BH.  Regarding the number of
+predicted cases, the no prevention measure had been  taken.  Data
+were  observed  cases  were superior to the modeled number.  ana‐
+lyzed in R software, using the package deSolve.   This  work  did
+not  require Ethics Committee approval In BH, some degree of sta‐
+bility was observed since because  the  state  health  department
+freely distributed day 14, with the number of cases remaining in‐
+ferior to Brazilian resolution 466/2012 on ethics  for  research.
+and Porto Alegre notified the first cases as from March 5th (Por‐
+to Alegre) and March  12th  (Curitiba  and  Florianpolis).  Until
+March  30th,  the  number  of confirmed In total, 2,829 confirmed
+cases of COVID‐19 were analyzed in nine Brazilian capital cities.
+In the cases increased to 77 in Curitiba, 50 in Florianpolis, and
+143 in Porto Alegre.  Rio de Janeiro Rio de Janeiro So  Paulo  So
+Paulo  Belo Horizonte Belo Horizonte Nl = Natural logarithm Fort‐
+aleza, CE, 2020 Rev. Latino‐Am.  Enfermagem  2020;28:e3345.   The
+cases  estimated  with the help of the SIR model In the Northeast
+Region, Salvador and Fortaleza  in  Curitiba,  Florianpolis,  and
+Porto  Alegre  showed that notified the first cases on March 13th
+and 16th, the observed and predicted case  numbers  were  similar
+respectively.  The number of confirmed cases until March than the
+model until the twentieth day of infection. From that point,  the
+number of observed cases remained relatively constant and inferi‐
+or to the model.  In the North Region, Manaus was the  only  city
+30th  was 117 in Salvador and 382 in Fortaleza. In the predictive
+model, Salvador and Fortaleza presented a outcomes predicted  for
+COVID‐19  in  the capital cities under study. The prediction data
+appoint the occurrence investigated. The first case  of  COVID‐19
+in  the  city  of the infection peak between the end of April and
+the was registered on March 13th and, on the last day  of  begin‐
+ning of May. Fortaleza and Manaus have the highest the investiga‐
+tion, 140 cases had been registered. The transmission  rates  (20
+and  18,  respectively).  Rio  de sharp increase in the number of
+cases was similar to the Janeiro may have the largest  number  of
+infected people (692,957) and Florianpolis the smallest (24,750).
+Porto Alegre Porto Alegre Nl = Natural logarithm  Fortaleza,  CE,
+Brazil, 2020 Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Flo‐
+rencio RS, Pereira MLD.  Nl = Natural  logarithm  Fortaleza,  CE,
+Brazil,  2020  Nl = Natural logarithm Fortaleza, CE, Brazil, 2020
+Number of days from the first case to the peak Peak date  Maximum
+number  of  infected people number of deaths Belo Horizonte Porto
+Alegre  Rio  de  Janeiro  So  Paulo  Rev.  Latino‐Am.  Enfermagem
+2020;28:e3345.  city, with 2.1 million inhabitants and one of the
+largest tourist destinations in Brazil. The growth  of  cases  in
+the  city  is  expressive and linked to a social scene where geo‐
+graphical differences, whether in the levels of health  relations
+between the cities prevail, in addition to an risks or the access
+to the resources available in  the  insufficient  health  service
+network  with  difficulties  to  countrys  health system(10). En‐
+demics, epidemics, and maintain human  resources(14).   pandemics
+have  historical and social roots, and their In the Northeast re‐
+gion, the cases of COVID‐19 main determinants are the poor living
+conditions of the were analyzed in Salvador and Fortaleza, cities
+with population, the different forms  of  spatial  occupation,  a
+great  international  travel  flow.  Salvador is the most and the
+lack of access to services.  populous city in the  Northeast  and
+the  third  in the Unlike other infectious diseases, COVID‐19 af‐
+fects country. Fortaleza, the state capital of Cear, has the  de‐
+veloped  and  developing countries, making no social distinction.
+The results of this investigation showed the capitals.  In  these
+cities,  an exponential growth pattern highest number of cases of
+COVID‐19 in the Southeast of cases was observed and Fortaleza al‐
+so presented region, distributed in the cities of SP and RJ, con‐
+sidered the highest transmission rate. Currently,  Fortaleza  the
+largest and most developed national metropolises concentrates 91%
+of COVID‐19 cases in the state of and, to a lesser extent, in BH.
+So  Paulo is the main Cear, concentrated in neighborhoods of dif‐
+ferent social financial,  corporate,  and  mercantile  center  in
+South  and  economic levels.  America, being the most influential
+Brazilian city at In this context, the number of national and the
+global  level.  RJ  is the largest international tourist interna‐
+tional tourists who seek Brazil as a destination has  destination
+in Brazil, a characteristic that led to the increased every year.
+Capitals such as So Paulo, Rio de appearance of the first case of
+the  disease in the country.  Also in the Southeast, BH showed an
+upward the most popular destinations for tourists,  whether  pat‐
+tern  of the disease curve. In comparison with SP for their natu‐
+ral landscapes, culture, or economic and RJ, however, it present‐
+ed a lower number of cases, attractions. To accommodate this num‐
+ber of tourists, which can be justified by having a smaller popu‐
+lation  Brazil  has become one of the emerging countries with the
+than the two other cities, and by the more uniform  greatest  po‐
+tential  for  the  development of air transport.  distribution of
+basic health services and their scope.  This is due to the  coun‐
+trys territorial dimension and In BH, human resources, health ac‐
+tions, and services high geographical and social mobility of  its
+population,  offered by the Unified Health System are distributed
+the accelerated displacement  of  economic  frontiers,  to  offer
+quality  services,  with greater equity and easy Brazils competi‐
+tive insertion in global markets and and timely  access  to  meet
+the  needs  of  a  larger portion monetary stability, and the in‐
+creased purchasing power of the population for consumers(15). The
+establishment  of  hubs  in several , which can contribute to the
+early diagnosis and containment of disease cases.  Moving on, the
+South  region,  with  the cities of airports has enhanced the en‐
+trance of foreigners in different countries of  the  world.   Cu‐
+ritiba,  Florianpolis  and Porto Alegre, had a lower The economic
+advantages of tourism in Brazil are number of cases. These cities
+represent  a  major  tourist,  undeniable, however, the issues of
+travel and health economic, and cultural center with European in‐
+fluence,  are an existing concern. The profiles of travelers dif‐
+fer evidenced in its predominantly elderly population. People  in
+terms  of  origin  and  destination, which can directly living in
+cities in the South region have greater access influence the  oc‐
+currence of epidemics and pandemics, to health services when com‐
+pared to other Brazilian often of unexpected magnitude and sever‐
+ity(16),  such  as COVID‐19. Also, limited coverage and access to
+health It is  worth  noting  that  the  unequal  distribution  of
+COVID‐19  cases  among  Brazilian regions is also services in the
+country can corroborate the spread of influenced by  underreport‐
+ing. The North and Northeast While a small portion of the Brazil‐
+ian population has regions are marked by a  worse  assessment  of
+the health access to health services, many people face a decrease
+status, greater restriction of activities, and lesser use  of  in
+the availability of hospital beds(17). This factor, linked health
+services, despite the greater coverage  of  public  to  COVID‐19s
+pandemic  potential, put the response capacity of epidemiological
+surveillance services at the Representing the North region,  Man‐
+aus,  the  state center of attention and required preventive mea‐
+sures capital of Amazonas, is the main financial,  corporate  and
+from  the  Brazilian  government,  such as confinement and social
+distancing.  Sousa GJB, Garces TS, Cestari VRF, Moreira TMM, Flo‐
+rencio  RS, Pereira MLD.  Extensive measures are needed to reduce
+the of Health should take into account. All  metropolises  inter‐
+personal  transmission  of COVID‐19 . Some of the showed an expo‐
+nential growth in the number of cases.  measures adopted, such as
+spraying  disinfectant  and  The  transmission rate was higher in
+Fortaleza and in alcohol in the air, on roads, vehicles, and peo‐
+ple  have  Manaus,  where many deaths are expected. Thus, the not
+been effective though(3). More expanded measures results  confirm
+the  rapid  spread of the virus and its high include isolation of
+cases, identification and monitoring  mortality  in  Brazil.   of
+contacts, environmental disinfection, and use of personal protec‐
+tive equipment(4). Regarding the control strategies, social  dis‐
+tancing stood out as a strategy that limits human‐to‐human trans‐
+mission, as well as reducing secondary infections  between  close
+contacts and health events, and reducing or delaying the dissemi‐
+nation of the virus.  Moreover, epidemics and pandemics  paralyze
+the economic, social, political, and cultural development, inter‐
+fering in the demographic trajectory of the locations where  they
+spread(18).  The  emergence  of COVID‐19 and its consequences has
+left the worldwide population with feelings of  fears,  concerns,
+and  anxiety, which can further expand the disease data(19).  The
+biological, mental, emotional, social, and economic chaos  caused
+by COVID‐19 requires a quick response from the federal government
+and open and effective communication  with  state  governors.  In
+Brazil, divergences are observed between members of the state and
+federal governments as to the best measures to adopt to face this
+crisis. This lack of understanding is factual and may result in a
+greater number of deaths, as a result of the  characteristics  of
+the  virus  and  unequal  access  to the health system and health
+technologies in the country.  The  publication  of  the  expected
+number  of  cases  new. This evidence allows managers to organize
+health services, based on public policies such as the creation of
+hospital  beds,  purchasing of medical equipment, and development
+of health education actions to assure quarantine or  social  dis‐
+tancing.   The  main limitation of this study arises from the use
+of a secondary database, as data for some cases were  incomplete.
+Furthermore, underreporting and/or insufficient testing might in‐
+fluence the predicted peak.  It is also  important  to  highlight
+that the results did not consider social distancing measures that
+aim to reduce the transmission rate of the virus.  1. Rothan  HA,
+Byrareddy  SN.  The  epidemiology and pathogenesis of coronavirus
+disease (COVID‐2019) 2. Ji W, Wang W, Zhao X, Zai J, Li X.  Cross
+species   transmission   of   the  newly  identified  coronavirus
+2019nCoV. J Med Virol. [Internet]. 2020 [cited Apr 20, 2020];  3.
+Xiao  Y, Torok ME. Taking the right measures to control COVID‐19.
+Lancet Infec Dis. [Internet]. 2020 [cited 4. Adhikari SP, Mend S,
+Wu YJ, Mao YP, Ye RX, Wand QZ, et al. Epidemiology, causes, clin‐
+ical manifestation and diagnosis, prevention and control of coro‐
+navirus  disease  (COVID‐19)  during the early outbreak period: a
+scoping 5. Organizao Pan‐Americana da Sade. Organizao Mundial  da
+Sade. Folha informativa  COVID‐19 (doena causada pelo novo coron‐
+avrus). [Internet].  6. Ministrio da Sade (BR). Painel  de  casos
+de  doena  Ministrio  da Sade. [Internet]. 2020 [Acesso 20 abr 7.
+Dirio Oficial da Unio (BR). Portaria n 454,  de  20  de  maro  de
+2020.  Declara,  em todo o territrio nacional, o estado de trans‐
+misso comunitria do coronavrus (covid‐19). Dirio Oficial da Unio.
+20  mar  2020 [Acesso surveillance professionals in the Brazilian
+states.  epidemiological peak, and number of deaths  by  COVID‐19
+in the Brazilian metropolises presented expressive 8. Kermack WO,
+McKendrick AG. Contributions to the and important  numbers  which
+the  Brazilian  Ministry  mathematical theory of epidemics. P Roy
+Soc A‐Math Rev. Latino‐Am. Enfermagem  2020;28:e3345.   18.  Bas‐
+sanezi  MSB,  Cunha  MF.  One place, two epidemic moments: yellow
+fever (1896‐1897) and influenza 9. Instituto  Brasileiro  de  Ge‐
+ografia  (BR).  Cidades IBGE.  Braslia: IBGE; 2020 [Acesso 20 abr
+2020].  Disponvel  Est  Pop.  [Internet].  2019  [cited  Apr  20,
+2020];36:1‐29.   10.  Barreto  ML.  Health inequalities: a global
+perspective.  19. Ahorsu DK, Lin CY, Imani V,  Saffari  M,  Grif‐
+fiths  MD,  Cienc  Saude  Colet.  [Internet]. 2017 [cited Apr 20,
+Pakpour AH. The fear of COVID‐19 Scale: development  and  initial
+validation.  Int J Mental Health Addict.  11. Souza RCF, Oliveira
+VB, Pereira DB, Costa HSM, Caiaffa WT. Living near health at Belo
+Horizonte.   Cad   Metrop.    [Internet].  2016  [cited  Apr  20,
+2020];18(36):325‐44.  12. Stopa SR, Malta DC, Monteiro CN, Szwar‐
+cwald CL, Goldbaum M, Cesar CLG. Use of and access to health ser‐
+vices in Brazil, 2013 National Health  Survey.   13.  Viacava  F,
+Bellido  JG.  Health,  access to services and sources of payment,
+according to household regionalization in Amazonas: progress  and
+challenges.   Cienc  Saude  Coletiva. [Internet]. 2017 [cited Apr
+20, 15. Pereira APC. Who are they? Where do they go? the regional
+airline  sector in Brazil. Confins. [Internet]. 2016 16. Teixeira
+MG, Costa MNC, Paixo ES, Carmo EH,  Barreto  FR,  Penna  GO.  The
+achievements  of  the  SUS in tackling the communicable diseases.
+Cienc. Saude 17. Albuquerque MV, Viana ALA, Lima LD, Ferreira MP,
+Fusaro  ER, Iozzi FL. Regional health inequalities: Evelin Capel‐
+lari Crnio Raquel Sampaio Florncio Copyright  2020 Revista  Lati‐
+no‐Americana  de Enfermagem offered. Recommended for maximum dis‐
+semination and use of
+
+
+
+
+
+

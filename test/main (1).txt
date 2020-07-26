@@ -1,715 +1,792 @@
-Since January 2020 Elsevier has created a COVID-19 resource centre with
-free information in English and Mandarin on the novel coronavirus COVID19. The COVID-19 resource centre is hosted on Elsevier Connect, the
-company's public news and information website.
-Elsevier hereby grants permission to make all its COVID-19-related
-research that is available on the COVID-19 resource centre - including this
-research content - immediately available in PubMed Central and other
-publicly funded repositories, such as the WHO COVID database with rights
-for unrestricted research re-use and analyses in any form or by any means
-with acknowledgement of the original source. These permissions are
-granted for free by Elsevier for as long as the COVID-19 resource centre
-remains active.
-Critical Role of Type III Interferon in Controlling
-SARS-CoV-2 Infection in Human Intestinal Epithelial
-Graphical Abstract
-Megan L. Stanifer, Carmon Kee,
-Mirko Cortese, ..., Theodore Alexandrov,
-Ralf Bartenschlager, Steeve Boulant
-In Brief
-Stanifer et al. find that SARS-CoV-2 could
-infect the human gastrointestinal tract
-and efficiently produce new viruses.
-Importantly, they find that the cytokines
-type I and III interferons, which are
-naturally made by cells in response to
-viral infection, are protective and could be
-used as an antiviral strategy.
-Human intestinal epithelium cells (hIECs) can be infected by
-hIECs support SARS-CoV-2 replication and produce de novo
-SARS-CoV-2 infection can be controlled in hIECs by type I
-and III interferons
-Stanifer et al., 2020, Cell Reports 32, 107863
-OPEN ACCESS
-Critical Role of Type III Interferon
-in Controlling SARS-CoV-2 Infection
-in Human Intestinal Epithelial Cells
-Megan L. Stanifer,1,2,* Carmon Kee,2,3 Mirko Cortese,1 Camila Metz Zumaran,3 Sergio Triana,4,5 Markus Mukenhirn,3
-Hans-Georg Kraeusslich,3 Theodore Alexandrov,4,6 Ralf Bartenschlager,1,7,8 and Steeve Boulant2,3,9,*
-Group Cellular polarity and viral infection, German Cancer Research Center (DKFZ), Heidelberg 69120, Germany
-4Structural and Computational Biology Unit, European Molecular Biology Laboratory, Heidelberg 69117, Germany
-7Division Virus-associated Carcinogenesis, German Cancer Research Center (DKFZ), Heidelberg 69120, Germany
-8German Center for Infection Research, Heidelberg Partner site, Heidelberg 69120, Germany
-Severe acute respiratory syndrome-related coronavirus-2 (SARS-CoV-2) is an unprecedented worldwide
-health problem that requires concerted and global approaches to stop the coronavirus 2019 (COVID-19)
-pandemic. Although SARS-CoV-2 primarily targets lung epithelium cells, there is growing evidence that
-the intestinal epithelium is also infected. Here, using both colon-derived cell lines and primary non-transformed colon organoids, we engage in the first comprehensive analysis of the SARS-CoV-2 life cycle in human intestinal epithelial cells (hIECs). Our results demonstrate that hIECs fully support SARS-CoV-2 infection,
-extremely robust intrinsic immune response where interferon-mediated responses are efficient at controlling
-SARS-CoV-2 replication and de novo virus production. Taken together, our data demonstrate that hIECs are a
-productive site of SARS-CoV-2 replication and suggest that the enteric phase of SARS-CoV-2 may participate in the pathologies observed in COVID-19 patients by contributing to increasing patient viremia and
-fueling an exacerbated cytokine response.
-Coronaviridae is a large family of single-stranded positive-sense
-enveloped RNA viruses that can infect most animal species (human as well as domestic and wild animals). They are known to
-have the largest viral RNA genome and are composed of four
-genera (Cui et al., 2019). Generally, infection by human coronaviruses results in mild respiratory tract symptoms, and they are
-known to be one of the leading causes of the common cold (Moriyama et al., 2020; Paules et al., 2020). However, in the last 18
-years, we have witnessed the emergence of highly pathogenic
-human coronaviruses, including the severe-acute-respiratorysyndrome-related coronavirus (SARS-CoV-1), the Middle-Eastrespiratory-syndrome-related coronavirus (MERS-CoV), and, at
-the end of 2019, the severe-acute-respiratory-syndrome-related
-coronavirus-2 (SARS-CoV-2) (Lu et al., 2020). SARS-CoV-2 is
-responsible for the coronavirus-associated acute respiratory
-disease or coronavirus disease 19 (COVID-19) and represents
-a major global health threat, and coordinated efforts are urgently
-needed to treat the viral infection and stop the pandemic.
-Although SARS-CoV-2 primarily targets cells of the lung
-epithelium, causing respiratory infection, there is growing evidence that the intestinal epithelium can also be infected. Multiple
-studies have reported gastrointestinal symptoms such as diarrhea at the onset of the disease and have detected the prolonged
-shedding of large amounts of coronavirus genomes in the feces
-et al., 2020b; Xiao et al., 2020; Xing et al., 2020; Xu et al., 2020b;
-Wolfel et al., 2020). Although one study revealed the isolation of
-to date, it remains unclear how many people shed infectious viruses in feces. Most critically, it remains unknown whether or not
-there is a possibility for fecal transmission of SARS-CoV-2, but
-multiple health agencies worldwide have highlighted this possibility. The presence of such a large amount of coronavirus genomes in feces is hardly explainable by a swallowing virus replicating in the throat or by a loss of barrier function of the intestinal
-epithelium, which will allow the release of viruses or genomes
-from the inside of the body (circulation or lamina propria) to the
-lumen of the gut. Instead, it is likely due to an active replication
-OPEN ACCESS
-T84 and Caco-2 cells were infected with SARS-CoV-2 at a MOI of 0.5.
-(A) At indicated time points, cells were fixed and indirect immunofluorescence was performed against the viral N protein (red) and dsRNA (green). Nuclei were
-stained with DAPI (blue). Representative images are shown. Scale bars, 10 mm.
-2 Cell Reports 32, 107863, July 7, 2020
-OPEN ACCESS
-in the intestinal epithelium. Recently, intestinal biopsies of
-SARS-CoV-2 infected patients clearly show the presence of
-replicating viruses in epithelial cells of the small and large intestine (Xiao et al., 2020). SARS-CoV-2 infection of the gastrointestinal tract is supported by the fact that ACE2, the virus receptor
-(Hoffmann et al., 2020), is expressed in intestinal epithelial cells
-(Zhao et al., 2020; Lukassen et al., 2020; Wu et al., 2020a; Venkatakrishnan et al., 2020), and single-cell sequencing analysis
-suggest that its expression is even higher on intestinal cells
-compared to lung cells (Xu et al., 2020a). This highlights that
-SARS-CoV-2 is not restricted to the lung and also infects the
-gastrointestinal tract. Importantly, many animal coronaviruses
-are well known to be enteric and are transmitted via the fecaloral route (Wang et al., 2019; Wang and Zhang, 2016). Additionally, the presence of human pathogenic coronaviruses in the
-gastrointestinal tract was previously reported for SARS-CoV-1
-and MERS-CoV but remained seriously understudied (Leung
-et al., 2003; Wong et al., 2020; Zhou et al., 2017). Although it is
-now clear that human coronaviruses, particularly SARS-CoV-2,
-are found in feces and can infect the gastrointestinal tract, the
-importance of its enteric phase for viremia, pathogenesis, and
-patient prognosis remains unknown.
-To combat the current pandemic of COVID-19 and prepare
-for potential future emerging zoonotic coronaviruses, we
-need to gain a better understanding of the molecular basis of
-SARS-CoV-2 infection, replication, and de novo infectious virus
-production in a tissue-specific manner. Here, we engaged in
-studying SARS-CoV-2 infection of human intestinal cells. For
-this, we exploited both human intestinal epithelial cell (hIEC)
-lines and human organoid culture models to characterize how
-these cells support SARS-CoV-2 replication and de novo infectious virus production and how they respond to viral infection.
-Direct comparison of both primary and transformed cells
-shows that hIECs fully support SARS-CoV-2 infection and
-viral infection elicited a robust intrinsic immune response where
-interferon (IFN) mediated responses were efficient at controlling
-SARS-CoV-2 replication and de novo infectious virus production. Importantly, human primary intestinal epithelial cells responded to SARS-CoV-2 infection by producing only type III
-IFN. Taken together, our data clearly highlight the importance
-of the enteric phase of SARS-CoV-2, and this should be
-taken into consideration when developing hygienic/containment measures and antiviral strategies and when determining
-patient prognosis.
-in human intestinal epithelial cells (IECs). First, SARS-CoV-2
-(strain BavPat1) was propagated in the green monkey cell line
-Vero. To detect viral infection, we used an antibody directed
-against a region of the nucleoprotein (N) that is conserved between of SARS-CoV-1 and SARS-CoV-2. Additionally, we
-used the J2 antibody, which detects double-stranded RNA
-(dsRNA), which is a hallmark of RNA virus replication (TargettAdams et al., 2008). Cells positive for N were always positive
-for dsRNA; the N signal was found to be dispersed within the
-cytosolic area, whereas dsRNA was found in discrete foci likely
-were collected at 48 h post-infection (hpi), and the amount
-with SARS-CoV-2 at a MOI of 0.5 (as determined in Vero cells).
-and S1D). At different times post-infection, T84 and Caco-2
-Similar results were observed in the T84 cells, but detection of
-infection was slightly delayed compared to Caco-2 cells, and,
-although the same amount of SARS-CoV-2 was used to infect
-of hIECs by SARS-CoV-2 was associated with the generation of
-an IFN-mediated intrinsic immune response. Concomitant with
-the differences observed in virus replication and de novo virus
-production observed between T84 and Caco-2 cells, T84 cells
-mounted a much stronger immune response than Caco-2 cells
-IFN was under the detection limit (data not shown). Altogether,
-these results show that IECs are readily infected by SARSCoV-2 and that infection of Caco-2 cells lead to a weaker
-intrinsic immune response that is associated with more
-de novo infectious virus production compared to T84 cells.
-This observation suggests that the IFN-mediated immune
-response controls SARS-CoV-2 infection in IECs.
-IFN Hinders SARS-CoV-2 Infection in hIECs
-To directly test the function of IFNs in controlling/restricting
-SARS-CoV-2 replication and de novo infectious virus production
-in hIECs, T84 and Caco-2 cells were mock-treated or pretreated
-with type I (IFN-b1) or type III (IFN-l) IFNs. 24 h post-treatment,
-Efficient Infection of hIECs by SARS-CoV-2
-As there is growing evidence that the gastrointestinal tract is infected by SARS-CoV-2, we engaged in studying virus infection
-(B) Same as (A), except the number of SARS-CoV-2-positive cells was quantified in 10 fields of view for each time point.
-(C) At indicated time points, RNA was harvested, and q-RT-PCR was used to evaluate the copy number of the SARS-CoV-2 genome.
-(D) At indicated time points, supernatants were collected from infected T84 and Caco-2 cells. The amount of de novo virus present in the supernatants was
-determined using a TCID50 assay.
-(E) Same as (C), except the upregulation of IFN-b1 and IFN-l was evaluated.
-Error bars indicate standard deviation. n = 3 biological replicates.
-Cell Reports 32, 107863, July 7, 2020 3
-OPEN ACCESS
-Infection of hIECs
-(A) Schematic describing the experimental setup.
-(B) T84 and Caco-2 cells were pretreated with IFNs
-24 h prior to infection. 24 hpi, virus infection was
-evaluated by indirect immunofluorescence for the viral
-N protein (red) and dsRNA (green). Nuclei were stained
-with DAPI (blue). Representative images are shown.
-The number of SARS-CoV-2-positive cells was quantified in 10 fields of view for each time point. Scale bars,
-(C) Same as (B), except RNA was harvested and
-qRT-PCR was used to evaluate the copy number of
-SARS-CoV-2 genome.
-(D) 24 hpi, supernatants were collected from infected
-T84 and Caco-2 cells. The amount of de novo virus
-present in the supernatants was determined using a
-TCID50 assay.
-n = 3 biological replicates. Error bars indicate standard
-4 Cell Reports 32, 107863, July 7, 2020
-OPEN ACCESS
-(AD) WT T84 cells and T84 cells depleted of the type I IFN receptor (AR / ), the type III IFN receptor (LR / ), or both (dKO) were infected with SARS-CoV-2 at an
-MOI of 0.1. (A) 24 hpi, infection was analyzed by indirect immunofluorescence of the viral N protein (red). Nuclei were stained with DAPI (blue). Representative
-images are shown. Scale bars, 10 mm. (B) Same as (A), except the number of SARS-CoV-2-positive cells was quantified in 10 fields of view for each cell type. (C)
-24 hpi, RNA was harvested and the change in the copy number of SARS-CoV-2 genome was evaluated by qRT-PCR. (D) 24 hpi, supernatants were collected from
-all cell types. The amount of de novo virus present in the supernatants was determined using a TCID50 assay.
-(EG) WT T84 cells were mock-treated or pretreated with pyridine-6, a pan-JAK inhibitor, for 2 h prior to SARS-CoV-2 infection. (E) 24 hpi, infection was analyzed
-by indirect immunofluorescence of the viral N protein (red). Nuclei were stained with DAPI (blue). Representative images are shown. Scale bars, 10 mm. (F) 24 hpi,
-RNA was harvested and the change in the copy number of SARS-CoV-2 genome was evaluated by qRT-PCR. (G) 24 hpi, supernatants were collected from mocktreated or pan-JAK-treated cells. The amount of de novo virus present in the supernatants was determined using a TCID50 assay.
-n = 3 biological replicates. Error bars indicate standard deviation.
-of cells with either IFN significantly interfered with SARS-CoV-2
-of the number of SARS-CoV-2-infected cells pretreated with
-either IFN was associated with an inhibition of the increase in
-in trans can induce an efficient antiviral state in IECs preventing/
-controlling SARS-CoV-2 infection. This strongly suggests that
-the IFN-mediated immune response can control SARS-CoV-2
-infection in human IECs.
-IFN-Mediated Intrinsic Immune Response Controls
-SARS-CoV-2 Infection in HIECs
-To address whether the endogenous levels of IFNs generated by
-IECs controls SARS-CoV-2 replication and de novo infectious virus production, we exploited our previously reported IECs
-depleted of either the type I IFN receptor (IFNAR1; AR / ) or
-the type III IFN receptor (IFNLR1; LR / ) or depleted of both
-IFN receptors (double knockout [dKO]). To control that our cells
-were functionally knocked out for the type I IFN (AR / ) and/or
-the type III IFN receptor (LR / ), T84 cells were treated with
-either IFN, and the production of the IFN-stimulated gene (ISG)
-IFIT1 was evaluated. As expected, type I IFN receptor knockout
-Cell Reports 32, 107863, July 7, 2020 5
-OPEN ACCESS
-(A) Bright-field and immunofluorescence images showing human colon organoids that express markers for enterocytes (E-cadherin [E-Cad]), goblet cells (mucin
-[MUC-2]), and enteroendocrine cells (synaptophysin [SYP]). Representative images are shown. Scale bars, 25 mm.
-(B) Colon organoids were differentiated prior to infection with SARS-CoV-2. Differentiation was confirmed by qRT-PCR for stem cell markers (OLFM4), enterocytes (sucrase isomaltase [SI]), and goblet cells (MUC-2).
-6 Cell Reports 32, 107863, July 7, 2020
-were infected with SARS-CoV-2 at a MOI of 0.1 (as determined in
-T84 cells). 24 hpi, cells were immunostained using the anti-N
-antibody, and the number of infected cells was quantified using
-in the number of infected cells. Importantly, depletion of the type
-III IFN receptor (LR / ) resulted in a significant increase of cell
-infectivity by a factor of approximately seven. Similar results
-were obtained when both the type I and type III IFN receptors
-the number of infected cells upon depletion of the type III IFN receptor (LR / ) was associated with a significant increase in viral
-SARS-CoV-2 infection in human IECs.
-To unambiguously address the importance of the IFN-mediated antiviral response, we used the pan-JAK inhibitor (pyridone-6) to inhibit the STAT1 phosphorylation activation and
-block the production of ISGs. As we previously reported, treatment of T84 cells with the pan-JAK inhibitor fully inhibits signal
-transduction downstream both the type I and type III IFN receptors (Pervolaraki et al., 2017; and data not shown). Mock-treated
-and pyridone-6 pretreated T84 cells were infected with SARSCoV-2 for 24 h and analyzed using fluorescence microscopy
-following immunostaining using the anti-N antibody. Results
-show both a significant increase in the number of infected cells
-agreement with the results observed in cells depleted of the type
-III IFN receptor, this increase in infectivity was also associated
-where type-III-IFN-mediated signaling controls SARS-CoV-2
-infection in hIECs.
-Human Primary Intestinal Organoids Support SARSCoV-2 Infection, Replication, and De Novo Infectious
-Virus Production
-To address whether primary hIECs can be infected by SARSCoV-2 and support de novo virus production, we used humancolon-derived organoids from two distinct donors. Intact ultrastructural organization and differentiation to all cell types (e.g.,
-enterocytes, Goblet cells, enteroendocrine cells, and stem cells)
-was confirmed using confocal fluorescent microscopy (Fig-
-OPEN ACCESS
-protocols to differentiate and infect human intestinal organoids
-in two dimensions with viruses (Ettayebi et al., 2016; Stanifer
-et al., 2020). Nondifferentiated organoids were seeded on human-collagen-coated iBIDI chambers. At 24 h post-seeding, differentiation was induced by removal of Wnt3a and reducing the
-amounts of R-spondin and Noggin for 4 days. Upon full differentiation, organoids were infected with SARS-CoV-2. At 24 hpi,
-infection was analyzed by immunostaining using the anti-N and
-show that independent of the donor, colon organoids were
-readily infected by SARS-CoV-2, as noted by the presence of
-revealed that 8%13% of cells were infected in each donor
-of organoids led to no type I IFN (IFN-b1) production but an
-S2B, and S3B). To determine if exogenously added IFNs could
-prevent SARS-CoV-2 infection, colon organoids were mocktreated or pretreated with IFN-b1 and IFN-l and then subsequently infected with SARS-CoV-2 for 24 h. Results show that
-pretreatment of colon organoids with both IFN-b1 and IFN-l
-organoids can support SARS-CoV-2 infection, replication, and
-de novo infectious virus production and that the type III IFN
-response plays a critical role in controlling virus replication.
-Increasing numbers of clinical reports detail that COVID-19 patients not only have severe respiratory symptoms but also
-show indications of gastrointestinal pathologies. To efficiently
-combat the pandemic, it is necessary to fully appreciate the
-complexity of the disease, and this requires that the virus life cycle and its interaction with the host are characterized for each
-site of infection (e.g., lung versus gut). Here, we report that
-hIECs, including primary non-transformed epithelial cells, fully
-support SARS-CoV-2 infection, replication, and de novo infectious virus production. Interestingly, infection of primary hIECs
-by SARS-CoV-2 induces a robust intrinsic immune response
-characterized by the production of type III IFNs, but not type I
-(C) Schematic describing method for infection of 2D colon organoids with SARS-CoV-2.
-(DG) Colon organoids were seeded in 2D and differentiated prior SARS-CoV-2 infection. 24 hpi, cells were analyzed for virus replication and immune response.
-(D) Infection was analyzed by indirect immunofluorescence of the viral N protein (red) and dsRNA (green). Nuclei were stained with DAPI (blue). Representative
-images are shown. Scale bars, 10 mm. (E) The number of SARS-CoV-2-positive cells were quantified in 10 fields for each donor. (F) RNA was harvested, and the
-change in the copy number of SARS-CoV-2 genome was evaluated by qRT-PCR. (G) Same as F, except the upregulation of IFN-b1 and IFN-l was evaluated.
-(HJ) Colon organoids were pretreated with IFNs 24 h prior to infection. (H) 24 hpi, virus infection was evaluated by indirect immunofluorescence for the viral N
-protein (red) and dsRNA (green). Nuclei were stained with DAPI (blue). Representative images are shown. The number of SARS-CoV-2-positive cells was
-quantified in 10 fields of view for each time point. Scale bars, 10 mm. (I) RNA was harvested, and qRT-PCR was used to evaluate the copy number of SARS-CoV-2
-genome. (J) Supernatants were collected from infected organoids. The amount of de novo viruses present in the supernatants was determined using a TCID50
-n = 3 biological replicates. Error bars indicate standard deviation.
-Cell Reports 32, 107863, July 7, 2020 7
-OPEN ACCESS
-IFN. Pretreatment of hIECs with exogenous IFNs prior to SARSCoV-2 infection results in a major drop of the number of infected
-cells, a reduction of viral replication, and a significant decrease in
-its specific receptor results in a significant increase of SARSCoV-2 replication and secretion. Together, our results demonstrate that hIECs are a productive site of SARS-CoV-2 replication, and this may have critical implications for the etiology of
-both SARS-CoV-2 infection and the pathologies observed in
-COVID-19 patients. Additionally, our work highlights the central
-role of type III IFN in controlling SARS-CoV-2 at the intestinal
-Primary hIECs cells support robust replication of SARS-CoV-2
-10% of the cells are infected in a human-colon-derived organoid, leading to a modest but significant increase in viral genome
-is explained by the fact that (1) only a small fraction of the cells
-are infected by SARS-CoV-2, and (2) as shown in this work,
-and 3), and organoids are highly immunoresponsive upon viral
-agreement with recent work from Lamers et al. showing that
-infection of human intestinal organoids by SARS-CoV-2 induces
-a strong immune response characterized by a strong expression
-of ISGs (Lamers et al., 2020). Interestingly, in this work, expression of type III IFN was shown to be very low. This is contrary to
-our data showing high production of type III IFN; however, we
-monitored IFN-l2/3 levels, while the other study monitored
-IFN-l1 levels. Further work is necessary to address if different
-subtypes of type III IFNs are induced by SARS-CoV-2. It is well
-known that in vivo intestinal epithelium cells are less immunoresponsive because of the gut microenvironment (e.g., microbiota
-and tissue-specific immune cells) and as such they will very likely
-show a severely dampened immune response allowing for an
-even greater SARS-CoV-2 replication.
-Analysis of the single-cell RNA sequencing data from the Colon Atlas revealed that only 3.8% of human colon epithelial cells
-ACE-2 appears to be more expressed (Qi et al., 2020). This low
-S4CS4E). Interestingly, q-RT-PCR and western blot analysis do
-not support single-cell analysis and clearly show that ACE-2 is
-expressed in both our carcinoma derived lines and our colon
-the single-cell RNA sequencing and classical molecular and
-biochemical approaches is likely the results of (1) the sequencing
-being not deep enough to detect ACE-2 in individual cells and (2)
-RNA expression not necessarily matching the protein expression
-levels. These observations highlight that although analyzing data
-from single-cell RNA sequencing atlases could be very informative, their findings should be validated in tissues, as they may be
-misleading or miss important sites of virus replication.
-8 Cell Reports 32, 107863, July 7, 2020
-Human colon carcinoma Caco-2 cells produce very large
-obtained in Vero cells, which are commonly used to isolate and
-replication, and, compared to green monkey cells, Caco-2 cells
-and did not show cytopathic effects (Mossel et al., 2005). These
-observations that Caco-2 are excellent culture models supporting both SARS-CoV-2 and SARS-CoV-1 further highlight the
-potentially central role of intestinal epithelial cells in COVID-19
-patients. Intriguingly, T84 cells, which are also colon-carcinoma-derived cells, supported SARS-CoV-2 infection, replication, and de novo infectious virus production but to a much lesser
-extent compared to Caco-2 cells. Analysis of the intrinsic immune response generated upon infection of both cell lines revealed that T84 cells are more immunoresponsive than Caco-2
-cells. In light of the results obtained by pretreating cells with
-exogenous IFNs, we propose that T84 cells, by being able to
-mount a stronger and faster immune response than Caco-2 cells,
-can better restrict SARS-CoV-2 infection. This model is fully
-supported by our IFN receptor knockout T84 cells, in which
-virus replication and de novo virus production are drastically
-increased to levels similar to the ones observed in Caco-2 cells.
-Exogenously added type I and III IFNs induce an antiviral state
-in our hIECs, thereby restricting SARS-CoV-2 replication in these
-cells. Similar observations were made with type I IFN in Vero cells
-(Mantlo et al., 2020). Interestingly, infection of Calu-3 human lung
-epithelial cells by SARS-CoV-2 also seems to mount an immune
-response (Lokugamage et al., 2020), whereas in A549 cells, in
-ferret models and human lung tissues, SARS-CoV-2 infection
-leads to the induction of a restricted and muted immune
-response lacking the induction of type I and type III IFNs
-(Blanco-Melo et al., 2020; Chu et al., 2020). The reason for the
-difference in the amount of IFN made upon infection of lung
-versus intestinal epithelial cells is currently unclear. Like intestinal epithelial cells (Pervolaraki et al., 2017, 2018; Pott et al.,
-2011), lung epithelial cells are normally highly immunoresponsive
-and make IFNs upon viral infection (Crotta et al., 2013; Ye et al.,
-2019). The lack of IFN in lung epithelial cells following SARSCoV-2 infection might be specific for this virus in this tissue
-(Blanco-Melo et al., 2020), as SARS-CoV-1 induces IFN production in infected lung tissue (Chu et al., 2020). Importantly, our
-work shows that compared to the airway epithelium, the intestinal epithelium produces a typical antiviral response. This highlights that host-pathogen interaction should be considered in a
-tissue-specific manner, as different cellular responses and viral
-countermeasures might be established among the lung, gut,
-and other organs.
-Interestingly, in human colon organoids, we observed that only
-type III IFN is made upon SARS-CoV-2 infection, although human intestinal organoids are capable of making both type I and
-III IFN upon enteric virus infection (Pervolaraki et al., 2018; Stanifer et al., 2020). The lack of type I induction could be due to a kinetic delay of type I IFN production compared to type III IFN but
-this will need to be carefully addressed in further experiments.
-Another possibility is that SARS-CoV-2 encodes a specific
-antagonist that counteracts the production of type I IFN only.
-However, further studies are necessary to prove this novel
-concept. Additionally, the observation that the knockout of the
-type III IFN receptor leads to a much greater increase of
-SARS-Cov-2 infection, replication, and de novo virus production
-further highlights the central role of type III IFN in SARS-CoV-2
-infection of human intestinal epithelium cells.
-We propose that the gut is an active site of replication for
-SARS-CoV-2, and this could account for the viremia observed
-in COVID-19 patients and the presence of large amounts of
-SARS-CoV-2 genomes in the feces. The origin of the replicating
-SARS-CoV-2 in the intestinal epithelium is still not clear. To date,
-only one paper reported the isolation of infectious virus from
-stool samples (Wang et al., 2020). Further characterization of
-the SARS-CoV-2 enteric life cycle is necessary to determine
-whether the viral infection observed in the gut is due to fecal/
-oral transmission or is a manifestation of virus spreading from
-the lung to the gut. In the context of the gut we foresee that at
-the onset of SARS-CoV-2 infection, hIECs will mount an antiviral
-response through the type III IFN signaling pathway. As immune
-cells participate in mounting an innate immune response, type I
-IFN will be secreted from these cells and will be able to act on intestinal epithelial cells further reinforcing their antiviral state
-against SARS-CoV-2. In respect to the severe pathologies
-observed in the lung, which are believed to be caused by a cytokine storm, the findings that lung epithelial cells mount a muted
-immune response upon SARS-CoV-2 infection suggests that the
-cytokines are coming from an alternative source. This source
-could be from local immune cells or the gastrointestinal mucosa
-given the large immune response generated by primary hIECs.
-As a matter of fact, many cytokines are released from epithelial
-cells toward the lamina propria (tissue side) (Stanifer et al.,
-2016) and will quickly enter the circulation to potentially fuel
-and promote the inflammation and pathology observed in the
-and include the following:
-KEY RESOURCES TABLE
-RESOURCE AVAILABILITY
-B Lead Contact
-B Materials Availability
-B Data and Code Availability
-EXPERIMENTAL MODEL AND SUBJECT DETAILS
-B Cells
-B Viruses
-B Human organoid cultures
-METHOD DETAILS
-B Antibodies and Inhibitors
-B Viral infections
-B 2D organoid seeding
-B RNA isolation, cDNA, and qPCR
-OPEN ACCESS
-Indirect Immunofluorescence Assay
-In-cell Western
-B Western blot
-B ELISA
-B Re-processing of the single-cell RNaseq Human Colon
-QUANTIFICATION AND STATISTICAL ANALYSIS
-SUPPLEMENTAL INFORMATION
-This work was supported by a research grant from the Chica and Heinz Schaller Foundation and Deutsche Forschungsgemeinschaft (DFG) project numbers
-272983813 (TRR179) (S.B.) and DFG project number 416072091 (M.L.S.).
-S.T. was supported by the Darwin Trust of Edinburgh. Work of R.B. was supported by DFG project numbers 272983813 (TRR179), 240245660 (SFB1129),
-and BA1505/8-1. T.A. is supported by the European Research Council (grant
-agreement 773089). We would like to acknowledge Vibor Laketa and the Infectious Diseases Imaging Platform (IDIP) in Heidelberg, Germany for support
-with image acquisition and analysis. We also thank Christian Drosten at the
-Charite, Berlin and the European Virus Archive (EVAg) for the provision of
-the SARS-CoV-2 strain BavPat1.
-AUTHOR CONTRIBUTIONS
-M.L.S. conceived and carried out experiments, interpreted the results, and
-analyzed the single-cell data. M.C., H.G.K., T.A., and R.B. contributed to the
-DECLARATION OF INTERESTS
-Revised: May 18, 2020
-Blanco-Melo, D., Nilsson-Payant, B.E., Liu, W.-C., Mller, R., Panis, M.,
-Sachs, D., Albrecht, R.A., and tenOever, B.R. (2020). SARS-CoV-2 launches
-a unique transcriptional signature from in vitro, ex vivo, and in vivo systems.
-Chu, H., Chan, J.F.-W., Wang, Y., Yuen, T.T.-T., Chai, Y., Hou, Y., Shuai, H.,
-Yang, D., Hu, B., Huang, X., et al. (2020). Comparative replication and immune
-activation profiles of SARS-CoV-2 and SARS-CoV in human lungs: an ex vivo
-study with implications for the pathogenesis of COVID-19. Clin. Infect. Dis.
-Crotta, S., Davidson, S., Mahlakoiv, T., Desmet, C.J., Buckwalter, M.R., Albert,
-M.L., Staeheli, P., and Wack, A. (2013). Type I and type III interferons drive
-redundant amplification loops to induce a transcriptional signature in influenza-infected airway epithelia. PLoS Pathog. 9, e1003773.
-Cui, J., Li, F., and Shi, Z.-L. (2019). Origin and evolution of pathogenic coronaviruses. Nat. Rev. Microbiol. 17, 181192.
-Ettayebi, K., Crawford, S.E., Murakami, K., Broughman, J.R., Karandikar, U.,
-Tenge, V.R., Neill, F.H., Blutt, S.E., Zeng, X.-L., Qu, L., et al. (2016). Replication
-Cell Reports 32, 107863, July 7, 2020 9
-OPEN ACCESS
-of human noroviruses in stem cell-derived human enteroids. Science 353,
-and inter-cellular rewiring of the human colon during ulcerative colitis. Cell 178,
-Harak, C., and Lohmann, V. (2015). Ultrastructure of the replication sites of
-positive-strand RNA viruses. Virology 479-480, 418433.
-Stanifer, M.L., Rippert, A., Kazakov, A., Willemsen, J., Bucher, D., Bender, S.,
-Bartenschlager, R., Binder, M., and Boulant, S. (2016). Reovirus intermediate
-Harcourt, J., Tamin, A., Lu, X., Kamili, S., Sakthivel, S., Kumar, Murray, J.,
-ger, N., Herrler, T., ErichHoffmann, M., Kleine-Weber, H., Schroeder, S., Kru
-sen, S., Schiergens, T.S., Herrler, G., Wu, N.-H., Nitsche, A., et al. (2020).
-SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by
-a clinically proven protease inhibitor. Cell 181, 271280.e8.
-Lamers, M.M., Beumer, J., van der Vaart, J., Knoops, K., Puschhof, J., Breugem, T.I., Ravelli, R.B.G., Paul van Schayck, J., Mykytyn, A.Z., Duimel, H.Q.,
-Leung, W.K., To, K.F., Chan, P.K.S., Chan, H.L.Y., Wu, A.K.L., Lee, N., Yuen,
-K.Y., and Sung, J.J.Y. (2003). Enteric involvement of severe acute respiratory
-syndrome-associated coronavirus infection. Gastroenterology 125, 1011
-Lokugamage, K.G., Hage, A., Schindewolf, C., Rajsbaum, R., and Menachery,
-V.D. (2020). SARS-CoV-2 sensitive to type I interferon pretreatment. bioRxiv,
-Lu, H., Stratton, C.W., and Tang, Y.-W. (2020). Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J. Med. Virol.
-Lukassen, S., Lorenz Chua, R., Trefzer, T., Kahn, N.C., Schneider, M.A., Muley,
-T., Winter, H., Meister, M., Veith, C., Boots, A.W., et al. (2020). ). SARS-CoV-2
-receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient
-secretory cells. EMBO J. 39, e105114.
-Stanifer, M.L., Mukenhirn, M., Muenchau, S., Pervolaraki, K., Kanaya, T., Albrecht, D., Odendall, C., Hielscher, T., Haucke, V., Kagan, J.C., et al. (2020).
-Asymmetric distribution of TLR3 leads to a polarized immune response in human intestinal epithelial cells. Nat. Microbiol. 5, 181191.
-Targett-Adams, P., Boulant, S., and McLauchlan, J. (2008). Visualization of
-double-stranded RNA in cells supporting hepatitis C virus RNA replication.
-J. Virol. 82, 21822195.
-Venkatakrishnan, A.J., Puranik, A., Anand, A., Zemmour, D., Yao, X., Wu, X.,
-Chilaka, R., Murakowski, D.K., Standish, K., Raghunathan, B., et al. (2020).
-Knowledge synthesis from 100 million biomedical documents augments
-the deep expression profiling of coronavirus receptors. BioRxiv,
-Wang, L., and Zhang, Y. (2016). Animal coronaviruses: a brief introduction. In
-Wang, Q., Vlasova, A.N., Kenney, S.P., and Saif, L.J. (2019). Emerging and reemerging coronaviruses in pigs. Curr. Opin. Virol. 34, 3949.
-Wang, W., Xu, Y., Gao, R., Lu, R., Han, K., Wu, G., and Tan, W. (2020). Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA.
-Wolfel, R., Corman, V.M., Guggemos, W., Seilmaier, M., Zange, S., Mu
-M.A., Niemeyer, D., Jones, T.C., Vollmar, P., Rothe, C., et al. (2020). Virological
-assessment of hospitalized patients with COVID-2019. Nature 581, 465469.
-Mantlo, E., Bukreyeva, N., Maruyama, J., Paessler, S., and Huang, C. (2020).
-Potent antiviral activities of type I interferons to SARS-CoV-2 infection. bioRxiv, 2020.04.02.022764.
-Wu, C., Zheng, S., Chen, Y., and Zheng, M. (2020a). Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCoV, in the nasal
-Wu, Y., Guo, C., Tang, L., Hong, Z., Zhou, J., Dong, X., Yin, H., Xiao, Q., Tang,
-Y., Qu, X., et al. (2020b). Prolonged presence of SARS-CoV-2 viral RNA in
-faecal samples. Lancet Gastroenterol. Hepatol., 0.
-Mossel, E.C., Huang, C., Narayanan, K., Makino, S., Tesh, R.B., and Peters,
-C.J. (2005). Exogenous ACE2 expression allows refractory cell lines to support
-severe acute respiratory syndrome coronavirus replication. J. Virol. 79, 3846
-Xiao, F., Tang, M., Zheng, X., Liu, Y., Li, X., and Shan, H. (2020). Evidence for
-gastrointestinal infection of SARS-CoV-2. Gastroenterology 158, 1831
-Paules, C.I., Marston, H.D., and Fauci, A.S. (2020). Coronavirus infections:
-more than just the common cold. JAMA 323, 707708.
-nchau, S., Renn, L.A., Albrecht, D., Kurzhals,
-Pervolaraki, K., Stanifer, M.L., Mu
-S., Sens, E., Grimm, D., Schroder-Braunstein, J., Rabin, R.L., and Boulant, S.
-(2017). Type I and type III interferons display different dependency on mitogenactivated protein kinases to mount an antiviral state in the human gut. Front.
-Pervolaraki, K., Rastgou Talemi, S., Albrecht, D., Bormann, F., Bamford, C.,
-Mendoza, J.L., Garcia, K.C., McLauchlan, J., Hofer, T., Stanifer, M.L., and
-Boulant, S. (2018). Differential induction of interferon stimulated genes between type I and type III interferons is independent of interferon receptor abundance. PLoS Pathog. 14, e1007420.
-Pott, J., Mahlakoiv, T., Mordstein, M., Duerr, C.U., Michiels, T., Stockinger, S.,
-Staeheli, P., and Hornef, M.W. (2011). IFN-l determines the intestinal epithelial
-antiviral host defense. Proc. Natl. Acad. Sci. USA 108, 79447949.
-Qi, F., Qian, S., Zhang, S., and Zhang, Z. (2020). Single cell RNA sequencing of
-13 human tissues identify cell types and receptors of human coronaviruses.
-Biochem. Biophys. Res. Commun. 526, 135140.
-Smillie, C.S., Biton, M., Ordovas-Montanes, J., Sullivan, K.M., Burgin, G., Graham, D.B., Herbst, R.H., Rogel, N., Slyper, M., Waldman, J., et al. (2019). Intra-
-10 Cell Reports 32, 107863, July 7, 2020
-Xing, Y.-H., Ni, W., Wu, Q., Li, W.-J., Li, G.-J., Wang, W.-D., Tong, J.-N., Song,
-X.-F., Wing-Kin Wong, G., and Xing, Q.-S. (2020). Prolonged viral shedding in
-feces of pediatric patients with coronavirus disease 2019. J. Microbiol. Immunol. Infect. 53, 473480.
-Xu, H., Zhong, L., Deng, J., Peng, J., Dan, H., Zeng, X., Li, T., and Chen, Q.
-(2020a). High expression of ACE2 receptor of 2019-nCoV on the epithelial cells
-of oral mucosa. Int. J. Oral Sci. 12, 8.
-Xu, Y., Li, X., Zhu, B., Liang, H., Fang, C., Gong, Y., Guo, Q., Sun, X., Zhao, D.,
-Shen, J., et al. (2020b). Characteristics of pediatric SARS-CoV-2 infection and
-potential evidence for persistent fecal viral shedding. Nat. Med. 26, 502505.
-Ye, L., Schnepf, D., Becker, J., Ebert, K., Tanriver, Y., Bernasconi, V., Gad,
-H.H., Hartmann, R., Lycke, N., and Staeheli, P. (2019). Interferon-l enhances
-adaptive mucosal immunity by boosting release of thymic stromal lymphopoietin. Nat. Immunol. 20, 593601.
-Zhao, Y., Zhao, Z., Wang, Y., Zhou, Y., Ma, Y., and Zuo, W. (2020). Single-cell
-RNA expression profiling of ACE2, the receptor of SARS-CoV-2. bioRxiv.
-Zhou, J., Li, C., Zhao, G., Chu, H., Wang, D., Yan, H.H.-N., Poon, V.K.-M., Wen,
-L., Wong, B.H.-Y., Zhao, X., et al. (2017). Human intestinal tract serves as an
-alternative infection route for Middle East respiratory syndrome coronavirus.
-Sci. Adv. 3, eaao4966.
-OPEN ACCESS
-KEY RESOURCES TABLE
-REAGENT or RESOURCE
-Mouse monoclonal anti-SARS CoV NP
-Sino Biologicals
-Mouse monoclonal anti-dsRNA (J2)
-Cat#10010200; RRID:AB_2651015
-Mouse monoclonal anti-E-cadherin
-BD Transductions
-Rabbit polyclonal anti-ACE2
-Rabbit polyclonal anti-Mucin-2
-Santa Cruz Biotech
-Cat# sc-15334; RRID:AB_2146667
-Mouse monoclonal anti-SYP
-Santa Cruz Biotech
-Cat#sc-17750; RRID:AB_628311
-Mouse polyclonal anti-beta actin
-Sigma Aldrich
-Alexa Fluor Goat anti mouse 488
-Thermo Fischer Scientific
-Cat#A-11001; RRID:AB_2534069
-Alexa Fluor Goat anti rabbit 488
-Thermo Fischer Scientific
-Cat#A-11034; RRID:AB_2576217
-Alexa Fluor Goat anti mouse 568
-Thermo Fischer Scientific
-Cat#A-21124; RRID:AB_2535766
-Alexa Fluor Goat anti rabbit 568
-Thermo Fischer Scientific
-Cat#A-11011; RRID:AB_143157
-Anti-Mouse IgG IRDye CW800
-Cat#926-32212; RRID:AB_621847
-Anti-rabbit IgG IRDye CW800
-Cat#926-32213; RRID:AB_621848
-Anti-mouse IgG IRDye CW680
-Cat#926-68072; RRID:AB_10953628
-European Virology Archives
-Bacterial and Virus Strains
-Biological Samples
-Human colon resections
-Chemicals, Peptides, and Recombinant Proteins
-Advanced DMEM/F12
-Thermo Fischer Scientific
-Thermo Fischer Scientific
-Thermo Fischer Scientific
-Thermo Fischer Scientific
-Sigma Aldrich
-MatriGel. GFR, LDEV free
-Thermo Fischer Scientific
-Sigma Aldrich
-Cat# A9165
-Recombinant mouse EGF
-Thermo Fischer Scientific
-Cat# PMG8043
-[Leu15]-Gastrin I
-Cat# G9145
-Recombinant human IGF-1
-Recombinant human FGF basic
-Caymann Chemicals
-Mouse recombinant noggin
-Human recombinant IFN-beta 1
-Recombinant human IFNL1
-Recombinant human IFNL2
-Recombinant human IFNL3
-Collagen from human placenta
-Sigma Aldrich
-Thermo Fischer Scientific
-iTaq Universal SYBR green Supermix
-Sigma Aldrich
-Triton X-100
-Sigma Aldrich
-Cell Reports 32, 107863, July 7, 2020 e1
-OPEN ACCESS
-REAGENT or RESOURCE
-Sigma Aldrich
-Fetal Bovine Serum
-DMEM, high glucose
-Thermo Fischer Scientific
-Thermo Fischer Scientific
-Beta propiolactone
-Sigma Aldrich
-RNAeasy RNA extraction kit
-iSCRIPT cDNA synthesis kit
-DIY IFNL2/3 ELISA
-PBL Interferon source
-Smillie et al., 2019
-Single Cell Portal, accession number SCP259
-Deposited Data
-Single-cell RNA sequencing data of human
-colon samples.
-Experimental Models: Cell Lines
-T84 human colon carcinoma cells
-T84 IFNLR /
-Pervolaraki et al., 2018
-T84 IFNAR /
-T84 IFNLR/IFNAR /
-Pervolaraki et al., 2018
-Pervolaraki et al., 2018
-Caco-2 human colorectal adenocarcinoma
-Vero E6
-Human colon organoids
-This paper
-TBP for ccactcacagactctcacaac
-TBP rev ccactcacagactctcacaac
-HPRT1 for cctggcgtcgtgattagtgat
-HPRT1 rev agacgttcagtcctgtccataa
-IFNL2/3 for gccacatagcccagttcaag
-IFNL2/3 rev tgggagaggatatggtgcag
-IFNb1 for gccgcattgaccatctat
-IFNb1 rev gtctcattccagccagtg
-OLFM4 for acctttcccgtggacagagt
-OLFM4 rev tggacatattccctcactttgga
-SI for aatccttttggcatccagatt
-SI rev gcagccaagaatcccaaat
-MUC-2 for tgtaggcatcgctcttctca
-MUC-2 rev gacaccatctacctcacccg
-ACE-2 for tcaaggaggccgagaagttc
-ACE-2 rev ttcctgggtccgttagcatg
-TMPRSS2 for acctgatcacaccagccatg/
-TMPRSS2 rev cttcgaagtgaccagaggcc
-COV1 for gcctcttctgttcctcatcac
-COV1 rev agacagcatcaccgccattg
-Comprehensive R Archive
-Seurat R package (version 3.1.4)
-R package
-Software and Algorithms
-e2 Cell Reports 32, 107863, July 7, 2020
-OPEN ACCESS
-RESOURCE AVAILABILITY
-Lead Contact
-Further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Megan L.
-Materials Availability
-This study did not generate new unique reagents.
-Data and Code Availability
-This study did not generate any unique datasets or code. No custom code was used to analyze these data and all methods and packages used are cited in the methods section.
-EXPERIMENTAL MODEL AND SUBJECT DETAILS
-T84 human colon carcinoma cells (ATCC CCL-248) and their knock-out clones were maintained in a 50:50 mixture of Dulbeccos
-modified Eagles medium (DMEM) and F12 (GibCo) supplemented with 10% fetal bovine serum and 1% penicillin/streptomycin
-(GIBCO). Caco-2 human colorectal adenocarcinoma (ATCC HTB-37) and Vero E6 (ATCC CRL 1586) were maintained in Dulbeccos
-modified Eagles medium (DMEM) (GibCo) supplemented with 10% fetal bovine serum and 1% penicillin/streptomycin (GIBCO).
-SARS-CoV-2 (strain BavPat1) was obtained from Prof. Christian Drosten at the Charite in Berlin, Germany and provided via the
-European Virology Archive. The virus was amplified in Vero E6 cells.
-Human organoid cultures
-the Declaration of Helsinki. All samples were received and maintained in an anonymized manner. The protocol was approved by the
-enriched in crypts were filtered with 70 mM filters and the fractions were observed under a light microscope. Fractions containing
-the highest number of crypts were pooled and spun again. The supernatant was removed, and crypts were re-suspended in Matrigel.
-METHOD DETAILS
-Antibodies and Inhibitors
-Mouse monoclonal antibody against SARS-CoV NP (Sino biologicals MM05), mouse monoclonal against J2 (scions), mouse monoclonal against E-cadherin (BD Transductions #610181), mouse monoclonal anti-SYP (Santa Cruz Biotechnology sc-17750), and rabbit polyclonal anti-Mucin-2 (Santa Cruz Biotechnology# sc-15334) were used at 1:500 for immunofluorescence. Rabbit polyclonal
-ACE-2 antibody (Abcam) was used at 1:500 and mouse polyclonal actin was used at 1:5000 for western blot. Secondary antibodies
-were conjugated with AF488 (Molecular Probes), AF568 (Molecular Probes), CW680 (Li-Cor) or CW800 (Li-Cor) directed against the
-animal source. Human recombinant IFN-beta1a (IFNb) was obtained from Biomol (#86421) was used at a final concentration of
-2,000IU/mL. Recombinant human IFNl 1 (IL-29) (#300-02L), IFNl 2 (IL28A) (#300-2K)) were purchased from Peprotech and and
-IFNl 3 (IL-28B) was purchased from BioMol. All three lambda interferons were combined and were used at a concentration of
-100ng/mL each to make a final concentration of 300ng/mL, Pyridone 6 (Calbiochem #420099-500)was used at a final concentration
-Viral infections
-All SARS-CoV-2 infections were performed the MOI indicated in the text. Media was removed from cells and virus was added to cells
-for 1 hour at 37 C. Virus was removed, cells were wash 1x with PBS and media or media containing inhibitors/cytokines was added
-back to the cells.
-2D organoid seeding
-8-well iBIDI glass bottom chambers were coated with 2.5% human collagen in water for 1 h prior to organoids seeding. Organoids
-were collected at a ratio of 100 organoids/transwell. Collected organoids were spun at 450 g for 5 mins and the supernatant was
-removed. Organoids were washed 1X with cold PBS and spun at 450 g for 5 mins. PBS was removed and organoids were digested
-Cell Reports 32, 107863, July 7, 2020 e3
-OPEN ACCESS
-with 0.05% Trypsin-EDTA (Life technologies) for 5 mins at 37 C. Digestion was stopped by addition of serum containing medium.
-Organoids were spun at 450 g for 5 mins and the supernatant was removed and organoids were re-suspended in normal growth
-media at a ratio of 250 mL media/well. The collagen mixture was removed from the iBIDI chambers and 250 mL of organoids were
-added to each well.
-RNA isolation, cDNA, and qPCR
-RNA was harvested from cells using RNAeasy RNA extraction kit (QIAGEN) as per manufactures instructions. cDNA was made using
-iSCRIPT reverse transcriptase (BioRad) from 250 ng of total RNA as per manufactures instructions. q-RT-PCR was performed using
-iTaq SYBR green (BioRad) as per manufacturers instructions, TBP or HPRT1 were used as normalizing genes. Primer used:
-Indirect Immunofluorescence Assay
-Cells seeded on iBIDI glass bottom 8-well chamber slides. At indicated times post-infection, cells were fixed in 4% paraformaldehyde
-(PFA) for 20 mins at room temperature (RT). Cells were washed and permeabilized in 0.5% Triton-X for 15 mins at RT. Primary antibodies were diluted in phosphate-buffered saline (PBS) and incubated for 1h at RT. Cells were washed in 1X PBS three times and
-incubated with secondary antibodies and DAPI for 45 mins at RT. Cells were washed in 1X PBS three times and maintained in PBS.
-Cells were imaged by epifluorescence on a Nikon Eclipse Ti-S (Nikon).
-In-cell Western
-20,000 Vero E6 cells were seeded per well into a 96-well dish 24h prior to infection. 100uL of harvested supernatant was added to the
-first well. Seven 1:10 dilutions were made (all samples were performed in triplicate). Infections were allowed to proceed for 24h. 24h
-post-infection cells were fixed in 2% PFA for 20mins at RT. PFA was removed and cells were washed twice in 1X PBS and then permeabilized for 10mins at RT in 0.5% Triton-X. Cells were blocked in a 1:2 dilution of Li-Cor blocking buffer (Li-Cor) for 30mins at RT.
-Cells were stained with 1/1000 dilution anti-dsRNA (J2) for 1h at RT. Cells were washed three times with 0.1% Tween in PBS. Secondary antibody (anti-mouse CW800) and DNA dye Draq5 (Abcam) were diluted 1/10,000 in blocking buffer and incubated for 1h at
-RT. Cells were washed three times with 0.1% Tween/PBS. Cells were imaged in 1X PBS on a LICOR (Li-Cor) imager.
-Western blot
-At time of harvest, media was removed, cells were rinsed once with 1X PBS and lysed with 1X RIPA (150 mM sodium chloride, 1.0%
-Triton X-100, 0.5% sodium deoxycholate, 0.1% sodium dodecyl sulfate (SDS), 50 mM Tris, pH 8.0 with phosphatase and protease
-inhibitors (Sigma-Aldrich)) for 5 mins at room temperature (RT). Lysates were collected and equal protein amounts were separated by
-SDS-PAGE and blotted onto a nitrocellulose membrane by wet-blotting (Bio-Rad). Membranes were blocked with Li-Cor blocking
-buffer (Li-Cor) for one hour at RT. Primary antibodies were diluted in blocking buffer and incubated overnight at 4 C. Membranes
-were washed 3X in TBS-T for 5 mins at RT. Secondary antibodies were diluted in blocking buffer and incubated at RT for 1 hour
-with rocking. Membranes were washed 3X in TBS-T for 5 mins at RT and scanned on a Li-Cor scanner.
-Supernatants were collected at indicated time points. Virus in supernatants was inactivated with 0,05% beta propiolactone (BPL)
-(Sigma-Aldrich) overnight at 4 C. BPL was hydrolyzed at 37 C for 2 hours prior to ELISA. ELISA standards were also diluted in
-0.05% BPL overnight following 2h hydrolyzation at 37 C. IFNl2/3 was evaluated using the IFNl2/3 DIY ELISA (PBL Interferon source)
-as per manufacturers instructions.
-Re-processing of the single-cell RNaseq Human Colon Atlas
-having fewer than 500 genes and more than 30% of UMI count mapped to mitochondrial genes were discarded. Consecutively, the
-resulting datasets were normalized, scaled and high-variance genes genes were selected. Reciprocal PCA-based data integration
-was done to merge the samples. Afterward, the resulting batch-corrected counts were used for calculating PCA-based dimensionality reduction and unsupervised Louvain clustering. Furthermore, UMAP visualization was calculated using 50 neighboring points for
-the local approximation of the manifold structure. Cell type annotation was based on the unsupervised clustering and the metadata
-provided by the colon atlas (Smillie et al., 2019).
-QUANTIFICATION AND STATISTICAL ANALYSIS
-Unless otherwise stated, P values were calculated by a two-tailed unpaired t test using the GraphPad Prism software package. All
-samples were analyzed without blinding or exclusion of samples. N values indicate the number of biological replicates for a sample.
+Since  January 2020 Elsevier has created a COVID‐19 resource cen‐
+tre with free information in English and Mandarin  on  the  novel
+coronavirus  COVID19.  The  COVID‐19 resource centre is hosted on
+Elsevier Connect, the company’s public news and information  web‐
+site.    Elsevier  hereby  grants  permission  to  make  all  its
+COVID‐19‐related research that is available on the  COVID‐19  re‐
+source  centre  ‐  including  this research content ‐ immediately
+available in PubMed Central and other publicly  funded  reposito‐
+ries, such as the WHO COVID database with rights for unrestricted
+research re‐use and analyses in any form or by any means with ac‐
+knowledgement  of  the  original  source.  These  permissions are
+granted for free by Elsevier for as long as the COVID‐19 resource
+centre  remains  active.  Critical Role of Type III Interferon in
+Controlling SARS‐CoV‐2 Infection in Human  Intestinal  Epithelial
+Graphical  Abstract Megan L. Stanifer, Carmon Kee, Mirko Cortese,
+..., Theodore Alexandrov, Ralf Bartenschlager, Steeve Boulant  In
+Brief Stanifer et al. find that SARS‐CoV‐2 could infect the human
+gastrointestinal tract and efficiently produce new viruses.   Im‐
+portantly,  they find that the cytokines type I and III interfer‐
+ons, which are naturally made by cells in response to  viral  in‐
+fection, are protective and could be used as an antiviral strate‐
+gy.  Human intestinal epithelium cells (hIECs) can be infected by
+hIECs  support  SARS‐CoV‐2  replication and produce de novo SARS‐
+CoV‐2 infection can be controlled in hIECs by type I and III  in‐
+terferons Stanifer et al., 2020, Cell Reports 32, 107863 OPEN AC‐
+CESS Critical Role of Type III Interferon  in  Controlling  SARS‐
+CoV‐2  Infection  in  Human  Intestinal Epithelial Cells Megan L.
+Stanifer,1,2,* Carmon Kee,2,3 Mirko  Cortese,1  Camila  Metz  Zu‐
+maran,3  Sergio  Triana,4,5 Markus Mukenhirn,3 Hans‐Georg Kraeus‐
+slich,3 Theodore  Alexandrov,4,6  Ralf  Bartenschlager,1,7,8  and
+Steeve  Boulant2,3,9,*  Group  Cellular polarity and viral infec‐
+tion, German Cancer Research  Center  (DKFZ),  Heidelberg  69120,
+Germany  4Structural  and  Computational  Biology  Unit, European
+Molecular Biology Laboratory, Heidelberg 69117, Germany 7Division
+Virus‐associated  Carcinogenesis,  German  Cancer Research Center
+(DKFZ), Heidelberg 69120, Germany 8German  Center  for  Infection
+Research,  Heidelberg Partner site, Heidelberg 69120, Germany Se‐
+vere  acute  respiratory  syndrome‐related  coronavirus‐2  (SARS‐
+CoV‐2) is an unprecedented worldwide health problem that requires
+concerted and global approaches  to  stop  the  coronavirus  2019
+(COVID‐19)  pandemic.  Although SARS‐CoV‐2 primarily targets lung
+epithelium cells, there is growing evidence that  the  intestinal
+epithelium  is also infected. Here, using both colon‐derived cell
+lines and primary non‐transformed colon organoids, we  engage  in
+the  first comprehensive analysis of the SARS‐CoV‐2 life cycle in
+human intestinal epithelial cells  (hIECs).  Our  results  demon‐
+strate  that  hIECs fully support SARS‐CoV‐2 infection, extremely
+robust intrinsic immune response  where  interferon‐mediated  re‐
+sponses  are  efficient at controlling SARS‐CoV‐2 replication and
+de novo virus production. Taken together,  our  data  demonstrate
+that  hIECs  are  a productive site of SARS‐CoV‐2 replication and
+suggest that the enteric phase of SARS‐CoV‐2 may  participate  in
+the  pathologies observed in COVID‐19 patients by contributing to
+increasing patient viremia and fueling  an  exacerbated  cytokine
+response.   Coronaviridae  is  a  large family of single‐stranded
+positive‐sense enveloped RNA viruses that can infect most  animal
+species  (human  as  well as domestic and wild animals). They are
+known to have the largest viral RNA genome and  are  composed  of
+four  genera  (Cui  et  al., 2019). Generally, infection by human
+coronaviruses results in mild  respiratory  tract  symptoms,  and
+they are known to be one of the leading causes of the common cold
+(Moriyama et al., 2020; Paules et al.,  2020).  However,  in  the
+last  18  years, we have witnessed the emergence of highly patho‐
+genic human coronaviruses, including the  severe‐acute‐respirato‐
+rysyndrome‐related  coronavirus (SARS‐CoV‐1), the Middle‐Eastres‐
+piratory‐syndrome‐related coronavirus (MERS‐CoV), and, at the end
+of  2019,  the  severe‐acute‐respiratory‐syndrome‐related  coron‐
+avirus‐2 (SARS‐CoV‐2) (Lu et al., 2020). SARS‐CoV‐2 is  responsi‐
+ble  for  the coronavirus‐associated acute respiratory disease or
+coronavirus disease 19 (COVID‐19) and represents a  major  global
+health  threat,  and  coordinated  efforts are urgently needed to
+treat the viral infection and stop the pandemic.  Although  SARS‐
+CoV‐2  primarily  targets  cells  of the lung epithelium, causing
+respiratory infection, there is growing  evidence  that  the  in‐
+testinal  epithelium  can also be infected. Multiple studies have
+reported gastrointestinal symptoms such as diarrhea at the  onset
+of  the disease and have detected the prolonged shedding of large
+amounts of coronavirus genomes in the feces et al.,  2020b;  Xiao
+et al., 2020; Xing et al., 2020; Xu et al., 2020b; Wolfel et al.,
+2020). Although one study revealed the isolation of to  date,  it
+remains unclear how many people shed infectious viruses in feces.
+Most critically, it remains unknown whether or  not  there  is  a
+possibility  for  fecal  transmission of SARS‐CoV‐2, but multiple
+health agencies worldwide have highlighted this possibility.  The
+presence  of  such a large amount of coronavirus genomes in feces
+is hardly explainable by a swallowing virus  replicating  in  the
+throat or by a loss of barrier function of the intestinal epithe‐
+lium, which will allow the release of viruses or genomes from the
+inside  of  the body (circulation or lamina propria) to the lumen
+of the gut. Instead, it is likely due to  an  active  replication
+OPEN ACCESS T84 and Caco‐2 cells were infected with SARS‐CoV‐2 at
+a MOI of 0.5.  (A) At indicated time points, cells were fixed and
+indirect  immunofluorescence  was  performed  against the viral N
+protein (red) and dsRNA (green). Nuclei were  stained  with  DAPI
+(blue).  Representative  images  are shown. Scale bars, 10 mm.  2
+Cell Reports 32, 107863, July 7, 2020 OPEN ACCESS in the intesti‐
+nal  epithelium.  Recently, intestinal biopsies of SARS‐CoV‐2 in‐
+fected patients clearly show the presence of replicating  viruses
+in  epithelial  cells  of  the small and large intestine (Xiao et
+al., 2020). SARS‐CoV‐2 infection of the gastrointestinal tract is
+supported  by the fact that ACE2, the virus receptor (Hoffmann et
+al., 2020), is expressed in intestinal epithelial cells (Zhao  et
+al., 2020; Lukassen et al., 2020; Wu et al., 2020a; Venkatakrish‐
+nan et al., 2020), and single‐cell  sequencing  analysis  suggest
+that  its  expression is even higher on intestinal cells compared
+to lung cells (Xu et al., 2020a). This highlights that SARS‐CoV‐2
+is not restricted to the lung and also infects the gastrointesti‐
+nal tract. Importantly, many animal coronaviruses are well  known
+to  be  enteric and are transmitted via the fecaloral route (Wang
+et al., 2019; Wang and Zhang, 2016). Additionally,  the  presence
+of  human  pathogenic coronaviruses in the gastrointestinal tract
+was previously reported for SARS‐CoV‐1 and MERS‐CoV but  remained
+seriously  understudied  (Leung  et al., 2003; Wong et al., 2020;
+Zhou et al., 2017). Although it is now clear  that  human  coron‐
+aviruses, particularly SARS‐CoV‐2, are found in feces and can in‐
+fect the gastrointestinal tract, the importance  of  its  enteric
+phase  for  viremia,  pathogenesis, and patient prognosis remains
+unknown.  To combat the current pandemic of COVID‐19 and  prepare
+for  potential future emerging zoonotic coronaviruses, we need to
+gain a better understanding of the molecular basis of  SARS‐CoV‐2
+infection,  replication,  and de novo infectious virus production
+in a tissue‐specific manner. Here, we engaged in  studying  SARS‐
+CoV‐2 infection of human intestinal cells. For this, we exploited
+both human intestinal epithelial  cell  (hIEC)  lines  and  human
+organoid  culture  models to characterize how these cells support
+SARS‐CoV‐2 replication and de novo  infectious  virus  production
+and  how  they  respond to viral infection.  Direct comparison of
+both primary and transformed cells shows that hIECs fully support
+SARS‐CoV‐2  infection  and  viral infection elicited a robust in‐
+trinsic immune response where interferon (IFN) mediated responses
+were  efficient at controlling SARS‐CoV‐2 replication and de novo
+infectious virus production. Importantly, human primary  intesti‐
+nal epithelial cells responded to SARS‐CoV‐2 infection by produc‐
+ing only type III IFN. Taken together, our data clearly highlight
+the  importance  of  the  enteric  phase  of SARS‐CoV‐2, and this
+should be taken into consideration when developing  hygienic/con‐
+tainment  measures  and antiviral strategies and when determining
+patient prognosis.  in human intestinal epithelial cells  (IECs).
+First,  SARS‐CoV‐2  (strain  BavPat1) was propagated in the green
+monkey cell line Vero. To detect viral infection, we used an  an‐
+tibody directed against a region of the nucleoprotein (N) that is
+conserved between of SARS‐CoV‐1 and SARS‐CoV‐2. Additionally,  we
+used  the J2 antibody, which detects double‐stranded RNA (dsRNA),
+which is a hallmark of RNA  virus  replication  (TargettAdams  et
+al.,  2008). Cells positive for N were always positive for dsRNA;
+the N signal was found to be dispersed within the cytosolic area,
+whereas dsRNA was found in discrete foci likely were collected at
+48 h post‐infection (hpi), and the amount with  SARS‐CoV‐2  at  a
+MOI of 0.5 (as determined in Vero cells).  and S1D). At different
+times post‐infection, T84 and Caco‐2  Similar  results  were  ob‐
+served  in the T84 cells, but detection of infection was slightly
+delayed compared to Caco‐2 cells, and, although the  same  amount
+of SARS‐CoV‐2 was used to infect of hIECs by SARS‐CoV‐2 was asso‐
+ciated with the generation of an  IFN‐mediated  intrinsic  immune
+response.  Concomitant  with  the  differences  observed in virus
+replication and de novo virus production observed between T84 and
+Caco‐2  cells,  T84 cells mounted a much stronger immune response
+than Caco‐2 cells IFN was under the  detection  limit  (data  not
+shown).  Altogether, these results show that IECs are readily in‐
+fected by SARSCoV‐2 and that infection of Caco‐2 cells lead to  a
+weaker  intrinsic immune response that is associated with more de
+novo infectious virus production compared to T84 cells.  This ob‐
+servation suggests that the IFN‐mediated immune response controls
+SARS‐CoV‐2 infection in IECs.  IFN Hinders  SARS‐CoV‐2  Infection
+in hIECs To directly test the function of IFNs in controlling/re‐
+stricting SARS‐CoV‐2 replication and  de  novo  infectious  virus
+production  in  hIECs,  T84 and Caco‐2 cells were mock‐treated or
+pretreated with type I (IFN‐b1) or type III (IFN‐l)  IFNs.  24  h
+post‐treatment,  Efficient  Infection  of  hIECs by SARS‐CoV‐2 As
+there is growing evidence that the gastrointestinal tract is  in‐
+fected  by SARS‐CoV‐2, we engaged in studying virus infection (B)
+Same as (A), except the number of SARS‐CoV‐2‐positive  cells  was
+quantified  in 10 fields of view for each time point.  (C) At in‐
+dicated time points, RNA was harvested, and q‐RT‐PCR was used  to
+evaluate  the copy number of the SARS‐CoV‐2 genome.  (D) At indi‐
+cated time points, supernatants were collected from infected  T84
+and  Caco‐2 cells. The amount of de novo virus present in the su‐
+pernatants was determined using a TCID50 assay.  (E) Same as (C),
+except the upregulation of IFN‐b1 and IFN‐l was evaluated.  Error
+bars indicate standard deviation. n =  3  biological  replicates.
+Cell  Reports 32, 107863, July 7, 2020 3 OPEN ACCESS Infection of
+hIECs (A) Schematic describing the experimental setup.   (B)  T84
+and  Caco‐2  cells were pretreated with IFNs 24 h prior to infec‐
+tion. 24 hpi, virus  infection  was  evaluated  by  indirect  im‐
+munofluorescence for the viral N protein (red) and dsRNA (green).
+Nuclei were stained with DAPI (blue). Representative  images  are
+shown.  The number of SARS‐CoV‐2‐positive cells was quantified in
+10 fields of view for each time point. Scale bars,  (C)  Same  as
+(B),  except  RNA  was harvested and qRT‐PCR was used to evaluate
+the copy number of SARS‐CoV‐2 genome.  (D) 24  hpi,  supernatants
+were  collected from infected T84 and Caco‐2 cells. The amount of
+de novo virus present in the supernatants was determined using  a
+TCID50  assay.   n = 3 biological replicates. Error bars indicate
+standard 4 Cell Reports 32, 107863, July 7, 2020 OPEN ACCESS (AD)
+WT  T84  cells  and T84 cells depleted of the type I IFN receptor
+(AR / ), the type III IFN receptor (LR / ), or  both  (dKO)  were
+infected  with SARS‐CoV‐2 at an MOI of 0.1. (A) 24 hpi, infection
+was analyzed by indirect immunofluorescence of the viral  N  pro‐
+tein  (red). Nuclei were stained with DAPI (blue). Representative
+images are shown. Scale bars, 10 mm. (B) Same as (A), except  the
+number  of  SARS‐CoV‐2‐positive cells was quantified in 10 fields
+of view for each cell type. (C) 24 hpi, RNA was harvested and the
+change  in  the copy number of SARS‐CoV‐2 genome was evaluated by
+qRT‐PCR. (D) 24 hpi, supernatants were collected  from  all  cell
+types.  The  amount  of de novo virus present in the supernatants
+was determined using a TCID50 assay.   (EG)  WT  T84  cells  were
+mock‐treated  or pretreated with pyridine‐6, a pan‐JAK inhibitor,
+for 2 h prior to SARS‐CoV‐2 infection. (E) 24 hpi, infection  was
+analyzed  by  indirect  immunofluorescence of the viral N protein
+(red). Nuclei were stained with DAPI (blue).  Representative  im‐
+ages  are shown. Scale bars, 10 mm. (F) 24 hpi, RNA was harvested
+and the change in the copy number of SARS‐CoV‐2 genome was evalu‐
+ated  by  qRT‐PCR.  (G)  24 hpi, supernatants were collected from
+mocktreated or pan‐JAK‐treated cells. The amount of de novo virus
+present  in the supernatants was determined using a TCID50 assay.
+n = 3 biological replicates. Error bars indicate standard  devia‐
+tion.   of  cells  with  either IFN significantly interfered with
+SARS‐CoV‐2 of the number of SARS‐CoV‐2‐infected cells  pretreated
+with either IFN was associated with an inhibition of the increase
+in in trans can induce an efficient antiviral state in IECs  pre‐
+venting/ controlling SARS‐CoV‐2 infection. This strongly suggests
+that the IFN‐mediated immune response can control SARS‐CoV‐2  in‐
+fection  in  human  IECs.  IFN‐Mediated Intrinsic Immune Response
+Controls SARS‐CoV‐2 Infection in HIECs To address whether the en‐
+dogenous  levels  of  IFNs  generated by IECs controls SARS‐CoV‐2
+replication and de novo infectious virus production, we exploited
+our  previously  reported  IECs depleted of either the type I IFN
+receptor (IFNAR1; AR / ) or the type III IFN receptor (IFNLR1; LR
+/ ) or depleted of both IFN receptors (double knockout [dKO]). To
+control that our cells were functionally knocked out for the type
+I IFN (AR / ) and/or the type III IFN receptor (LR / ), T84 cells
+were treated with either IFN, and the production of the IFN‐stim‐
+ulated  gene  (ISG)  IFIT1 was evaluated. As expected, type I IFN
+receptor knockout Cell Reports 32, 107863, July 7,  2020  5  OPEN
+ACCESS (A) Bright‐field and immunofluorescence images showing hu‐
+man colon organoids that express markers for enterocytes  (E‐cad‐
+herin [E‐Cad]), goblet cells (mucin [MUC‐2]), and enteroendocrine
+cells (synaptophysin [SYP]).  Representative  images  are  shown.
+Scale bars, 25 mm.  (B) Colon organoids were differentiated prior
+to infection with SARS‐CoV‐2. Differentiation  was  confirmed  by
+qRT‐PCR  for stem cell markers (OLFM4), enterocytes (sucrase iso‐
+maltase [SI]), and goblet cells  (MUC‐2).   6  Cell  Reports  32,
+107863,  July  7,  2020 were infected with SARS‐CoV‐2 at a MOI of
+0.1 (as determined in T84 cells). 24  hpi,  cells  were  immunos‐
+tained  using  the  anti‐N  antibody,  and the number of infected
+cells was quantified using in the number of infected  cells.  Im‐
+portantly, depletion of the type III IFN receptor (LR / ) result‐
+ed in a significant increase of cell infectivity by a  factor  of
+approximately  seven. Similar results were obtained when both the
+type I and type III IFN receptors the number  of  infected  cells
+upon depletion of the type III IFN receptor (LR / ) was associat‐
+ed with a significant increase in viral SARS‐CoV‐2  infection  in
+human  IECs.  To unambiguously address the importance of the IFN‐
+mediated antiviral response, we used the pan‐JAK inhibitor (pyri‐
+done‐6) to inhibit the STAT1 phosphorylation activation and block
+the production of ISGs. As we previously reported,  treatment  of
+T84 cells with the pan‐JAK inhibitor fully inhibits signal trans‐
+duction downstream both the type I and  type  III  IFN  receptors
+(Pervolaraki  et al., 2017; and data not shown). Mock‐treated and
+pyridone‐6 pretreated T84 cells were infected with SARSCoV‐2  for
+24  h  and  analyzed  using fluorescence microscopy following im‐
+munostaining using the anti‐N antibody. Results show both a  sig‐
+nificant  increase in the number of infected cells agreement with
+the results observed in cells depleted of the type III IFN recep‐
+tor, this increase in infectivity was also associated where type‐
+III‐IFN‐mediated  signaling  controls  SARS‐CoV‐2  infection   in
+hIECs.   Human Primary Intestinal Organoids Support SARSCoV‐2 In‐
+fection, Replication, and De Novo Infectious Virus Production  To
+address  whether  primary  hIECs can be infected by SARSCoV‐2 and
+support de novo  virus  production,  we  used  humancolon‐derived
+organoids  from two distinct donors. Intact ultrastructural orga‐
+nization and differentiation to all  cell  types  (e.g.,  entero‐
+cytes,  Goblet  cells, enteroendocrine cells, and stem cells) was
+confirmed using confocal fluorescent microscopy (Fig‐ OPEN ACCESS
+protocols  to differentiate and infect human intestinal organoids
+in two dimensions with viruses (Ettayebi et al.,  2016;  Stanifer
+et  al., 2020). Nondifferentiated organoids were seeded on human‐
+collagen‐coated iBIDI chambers. At 24 h post‐seeding, differenti‐
+ation was induced by removal of Wnt3a and reducing the amounts of
+R‐spondin and Noggin  for  4  days.  Upon  full  differentiation,
+organoids were infected with SARS‐CoV‐2. At 24 hpi, infection was
+analyzed by immunostaining using the anti‐N and show  that  inde‐
+pendent  of  the  donor, colon organoids were readily infected by
+SARS‐CoV‐2, as noted by the presence of revealed  that  8%13%  of
+cells  were  infected in each donor of organoids led to no type I
+IFN (IFN‐b1) production but an S2B, and S3B). To determine if ex‐
+ogenously  added  IFNs  could prevent SARS‐CoV‐2 infection, colon
+organoids were mocktreated or pretreated with  IFN‐b1  and  IFN‐l
+and  then subsequently infected with SARS‐CoV‐2 for 24 h. Results
+show that pretreatment of colon organoids with  both  IFN‐b1  and
+IFN‐l  organoids  can  support SARS‐CoV‐2 infection, replication,
+and de novo infectious virus production and that the type III IFN
+response  plays a critical role in controlling virus replication.
+Increasing numbers of clinical reports detail that  COVID‐19  pa‐
+tients  not  only  have severe respiratory symptoms but also show
+indications of gastrointestinal pathologies. To efficiently  com‐
+bat  the  pandemic,  it is necessary to fully appreciate the com‐
+plexity of the disease, and this requires that the virus life cy‐
+cle  and its interaction with the host are characterized for each
+site of infection (e.g., lung versus gut). Here, we  report  that
+hIECs,  including primary non‐transformed epithelial cells, fully
+support SARS‐CoV‐2 infection, replication, and de novo infectious
+virus  production.  Interestingly,  infection of primary hIECs by
+SARS‐CoV‐2 induces a robust intrinsic immune response  character‐
+ized  by  the  production  of  type  III IFNs, but not type I (C)
+Schematic describing method for infection of 2D  colon  organoids
+with SARS‐CoV‐2.  (DG) Colon organoids were seeded in 2D and dif‐
+ferentiated prior SARS‐CoV‐2 infection. 24 hpi, cells  were  ana‐
+lyzed  for  virus replication and immune response.  (D) Infection
+was analyzed by indirect immunofluorescence of the viral  N  pro‐
+tein  (red)  and  dsRNA  (green).  Nuclei  were stained with DAPI
+(blue). Representative images are shown. Scale bars, 10  mm.  (E)
+The  number  of  SARS‐CoV‐2‐positive  cells were quantified in 10
+fields for each donor. (F) RNA was harvested, and the  change  in
+the  copy  number  of SARS‐CoV‐2 genome was evaluated by qRT‐PCR.
+(G) Same as F, except the upregulation of IFN‐b1  and  IFN‐l  was
+evaluated.   (HJ)  Colon organoids were pretreated with IFNs 24 h
+prior to infection. (H) 24 hpi, virus infection was evaluated  by
+indirect  immunofluorescence  for  the  viral N protein (red) and
+dsRNA (green). Nuclei were stained with DAPI (blue).  Representa‐
+tive  images  are  shown. The number of SARS‐CoV‐2‐positive cells
+was quantified in 10 fields of view for each  time  point.  Scale
+bars, 10 mm. (I) RNA was harvested, and qRT‐PCR was used to eval‐
+uate the copy number of SARS‐CoV‐2 genome. (J) Supernatants  were
+collected  from infected organoids. The amount of de novo viruses
+present in the supernatants was determined using a TCID50 n  =  3
+biological  replicates.  Error  bars indicate standard deviation.
+Cell Reports 32, 107863, July 7, 2020 7  OPEN  ACCESS  IFN.  Pre‐
+treatment  of hIECs with exogenous IFNs prior to SARSCoV‐2 infec‐
+tion results in a major drop of the number of infected  cells,  a
+reduction of viral replication, and a significant decrease in its
+specific receptor results in a significant increase of  SARSCoV‐2
+replication and secretion. Together, our results demonstrate that
+hIECs are a productive site of SARS‐CoV‐2 replication,  and  this
+may  have  critical  implications  for the etiology of both SARS‐
+CoV‐2 infection and the  pathologies  observed  in  COVID‐19  pa‐
+tients.  Additionally,  our  work  highlights the central role of
+type III IFN in controlling SARS‐CoV‐2 at the intestinal  Primary
+hIECs  cells  support robust replication of SARS‐CoV‐2 10% of the
+cells are infected in a human‐colon‐derived organoid, leading  to
+a modest but significant increase in viral genome is explained by
+the fact that (1) only a small fraction of the cells are infected
+by  SARS‐CoV‐2,  and  (2)  as  shown  in  this  work, and 3), and
+organoids are highly immunoresponsive upon viral  agreement  with
+recent  work  from  Lamers et al. showing that infection of human
+intestinal organoids by SARS‐CoV‐2 induces a  strong  immune  re‐
+sponse  characterized  by  a strong expression of ISGs (Lamers et
+al., 2020). Interestingly, in this work, expression of  type  III
+IFN  was shown to be very low. This is contrary to our data show‐
+ing high production of type III IFN; however, we  monitored  IFN‐
+l2/3  levels, while the other study monitored IFN‐l1 levels. Fur‐
+ther work is necessary to address if different subtypes  of  type
+III IFNs are induced by SARS‐CoV‐2. It is well known that in vivo
+intestinal epithelium cells are less immunoresponsive because  of
+the  gut  microenvironment  (e.g., microbiota and tissue‐specific
+immune cells) and as such they will very likely show  a  severely
+dampened  immune response allowing for an even greater SARS‐CoV‐2
+replication.  Analysis of the  single‐cell  RNA  sequencing  data
+from  the  Colon Atlas revealed that only 3.8% of human colon ep‐
+ithelial cells ACE‐2 appears to be more  expressed  (Qi  et  al.,
+2020). This low S4CS4E). Interestingly, q‐RT‐PCR and western blot
+analysis do not support single‐cell  analysis  and  clearly  show
+that  ACE‐2  is expressed in both our carcinoma derived lines and
+our colon the single‐cell RNA sequencing and classical  molecular
+and  biochemical  approaches is likely the results of (1) the se‐
+quencing being not deep enough  to  detect  ACE‐2  in  individual
+cells and (2) RNA expression not necessarily matching the protein
+expression levels. These observations highlight that although an‐
+alyzing  data  from  single‐cell  RNA sequencing atlases could be
+very informative, their findings should be validated in  tissues,
+as they may be misleading or miss important sites of virus repli‐
+cation.  8 Cell Reports 32, 107863, July 7, 2020 Human colon car‐
+cinoma  Caco‐2  cells  produce very large obtained in Vero cells,
+which are commonly used to isolate and replication, and, compared
+to  green  monkey cells, Caco‐2 cells and did not show cytopathic
+effects (Mossel et al., 2005). These observations that Caco‐2 are
+excellent  culture  models  supporting  both SARS‐CoV‐2 and SARS‐
+CoV‐1 further highlight the potentially central role of  intesti‐
+nal  epithelial  cells  in  COVID‐19  patients. Intriguingly, T84
+cells, which are also  colon‐carcinoma‐derived  cells,  supported
+SARS‐CoV‐2  infection,  replication, and de novo infectious virus
+production but to a much lesser extent compared to Caco‐2  cells.
+Analysis  of  the intrinsic immune response generated upon infec‐
+tion of both cell lines revealed that  T84  cells  are  more  im‐
+munoresponsive  than  Caco‐2  cells.  In light of the results ob‐
+tained by pretreating cells with exogenous IFNs, we propose  that
+T84  cells,  by  being able to mount a stronger and faster immune
+response than Caco‐2 cells, can better restrict SARS‐CoV‐2 infec‐
+tion.  This model is fully supported by our IFN receptor knockout
+T84 cells, in which virus replication and de novo  virus  produc‐
+tion  are drastically increased to levels similar to the ones ob‐
+served in Caco‐2 cells.  Exogenously added type I  and  III  IFNs
+induce an antiviral state in our hIECs, thereby restricting SARS‐
+CoV‐2 replication in these cells. Similar observations were  made
+with type I IFN in Vero cells (Mantlo et al., 2020). Interesting‐
+ly, infection of Calu‐3 human lung epithelial cells by SARS‐CoV‐2
+also seems to mount an immune response (Lokugamage et al., 2020),
+whereas in A549 cells, in ferret models and human  lung  tissues,
+SARS‐CoV‐2  infection  leads to the induction of a restricted and
+muted immune response lacking the induction of type  I  and  type
+III IFNs (Blanco‐Melo et al., 2020; Chu et al., 2020). The reason
+for the difference in the amount of IFN made  upon  infection  of
+lung  versus  intestinal  epithelial  cells is currently unclear.
+Like intestinal epithelial cells (Pervolaraki et al., 2017, 2018;
+Pott et al., 2011), lung epithelial cells are normally highly im‐
+munoresponsive and make IFNs upon viral infection (Crotta et al.,
+2013;  Ye et al., 2019). The lack of IFN in lung epithelial cells
+following SARSCoV‐2 infection might be specific for this virus in
+this tissue (Blanco‐Melo et al., 2020), as SARS‐CoV‐1 induces IFN
+production in infected lung tissue (Chu et al., 2020). Important‐
+ly,  our  work  shows that compared to the airway epithelium, the
+intestinal epithelium produces a typical antiviral response. This
+highlights that host‐pathogen interaction should be considered in
+a tissue‐specific manner, as different cellular responses and vi‐
+ral countermeasures might be established among the lung, gut, and
+other organs.  Interestingly, in human colon  organoids,  we  ob‐
+served  that only type III IFN is made upon SARS‐CoV‐2 infection,
+although human intestinal organoids are capable  of  making  both
+type  I  and III IFN upon enteric virus infection (Pervolaraki et
+al., 2018; Stanifer et al., 2020). The lack of type  I  induction
+could be due to a kinetic delay of type I IFN production compared
+to type III IFN but this will need to be carefully  addressed  in
+further  experiments.  Another possibility is that SARS‐CoV‐2 en‐
+codes a specific antagonist that counteracts  the  production  of
+type I IFN only.  However, further studies are necessary to prove
+this novel concept. Additionally, the observation that the knock‐
+out of the type III IFN receptor leads to a much greater increase
+of SARS‐Cov‐2 infection, replication, and de novo  virus  produc‐
+tion further highlights the central role of type III IFN in SARS‐
+CoV‐2 infection of human intestinal epithelium cells.  We propose
+that the gut is an active site of replication for SARS‐CoV‐2, and
+this could account for the viremia observed in COVID‐19  patients
+and  the  presence  of large amounts of SARS‐CoV‐2 genomes in the
+feces. The origin of the replicating SARS‐CoV‐2 in the intestinal
+epithelium  is  still not clear. To date, only one paper reported
+the isolation of infectious virus from  stool  samples  (Wang  et
+al.,  2020).  Further  characterization of the SARS‐CoV‐2 enteric
+life cycle is necessary to determine whether the viral  infection
+observed  in  the  gut is due to fecal/ oral transmission or is a
+manifestation of virus spreading from the lung to the gut. In the
+context of the gut we foresee that at the onset of SARS‐CoV‐2 in‐
+fection, hIECs will mount an antiviral response through the  type
+III  IFN signaling pathway. As immune cells participate in mount‐
+ing an innate immune response, type I IFN will be  secreted  from
+these  cells  and  will  be  able to act on intestinal epithelial
+cells further reinforcing their  antiviral  state  against  SARS‐
+CoV‐2. In respect to the severe pathologies observed in the lung,
+which are believed to be caused by a cytokine storm, the findings
+that  lung  epithelial  cells  mount a muted immune response upon
+SARS‐CoV‐2 infection suggests that the cytokines are coming  from
+an  alternative  source.  This  source could be from local immune
+cells or the gastrointestinal mucosa given the large  immune  re‐
+sponse generated by primary hIECs.  As a matter of fact, many cy‐
+tokines are released from epithelial cells toward the lamina pro‐
+pria (tissue side) (Stanifer et al., 2016) and will quickly enter
+the circulation to potentially fuel and promote the  inflammation
+and  pathology observed in the and include the following: KEY RE‐
+SOURCES TABLE RESOURCE AVAILABILITY B Lead  Contact  B  Materials
+Availability  B Data and Code Availability EXPERIMENTAL MODEL AND
+SUBJECT DETAILS B Cells  B  Viruses  B  Human  organoid  cultures
+METHOD  DETAILS  B Antibodies and Inhibitors B Viral infections B
+2D organoid seeding B RNA isolation, cDNA, and qPCR  OPEN  ACCESS
+Indirect  Immunofluorescence Assay In‐cell Western B Western blot
+B ELISA B Re‐processing of the  single‐cell  RNaseq  Human  Colon
+QUANTIFICATION  AND STATISTICAL ANALYSIS SUPPLEMENTAL INFORMATION
+This work was supported by a research grant from  the  Chica  and
+Heinz  Schaller  Foundation  and  Deutsche Forschungsgemeinschaft
+(DFG) project numbers 272983813 (TRR179) (S.B.) and  DFG  project
+number  416072091  (M.L.S.).   S.T.  was  supported by the Darwin
+Trust of Edinburgh. Work of R.B. was  supported  by  DFG  project
+numbers  272983813 (TRR179), 240245660 (SFB1129), and BA1505/8‐1.
+T.A. is supported by the European Research Council (grant  agree‐
+ment  773089).  We would like to acknowledge Vibor Laketa and the
+Infectious Diseases Imaging Platform (IDIP) in  Heidelberg,  Ger‐
+many  for  support  with  image acquisition and analysis. We also
+thank Christian Drosten at the Charite, Berlin and  the  European
+Virus  Archive  (EVAg) for the provision of the SARS‐CoV‐2 strain
+BavPat1.  AUTHOR CONTRIBUTIONS M.L.S. conceived and  carried  out
+experiments,  interpreted  the  results, and analyzed the single‐
+cell data. M.C., H.G.K., T.A., and R.B. contributed to the DECLA‐
+RATION  OF INTERESTS Revised: May 18, 2020 Blanco‐Melo, D., Nils‐
+son‐Payant, B.E., Liu, W.‐C., Mller, R., Panis,  M.,  Sachs,  D.,
+Albrecht,  R.A., and tenOever, B.R. (2020). SARS‐CoV‐2 launches a
+unique transcriptional signature from in vitro, ex vivo,  and  in
+vivo  systems.   Chu, H., Chan, J.F.‐W., Wang, Y., Yuen, T.T.‐T.,
+Chai, Y., Hou, Y., Shuai, H., Yang, D., Hu, B., Huang, X., et al.
+(2020). Comparative replication and immune activation profiles of
+SARS‐CoV‐2 and SARS‐CoV in human lungs: an ex vivo study with im‐
+plications  for  the pathogenesis of COVID‐19. Clin. Infect. Dis.
+Crotta, S., Davidson, S., Mahlakoiv, T., Desmet,  C.J.,  Buckwal‐
+ter,  M.R., Albert, M.L., Staeheli, P., and Wack, A. (2013). Type
+I and type III interferons drive redundant amplification loops to
+induce  a  transcriptional signature in influenza‐infected airway
+epithelia. PLoS Pathog. 9, e1003773.  Cui, J., Li, F.,  and  Shi,
+Z.‐L.  (2019).  Origin and evolution of pathogenic coronaviruses.
+Nat. Rev. Microbiol. 17, 181192.  Ettayebi, K.,  Crawford,  S.E.,
+Murakami,  K.,  Broughman,  J.R.,  Karandikar,  U.,  Tenge, V.R.,
+Neill, F.H., Blutt, S.E., Zeng, X.‐L., Qu,  L.,  et  al.  (2016).
+Replication  Cell  Reports 32, 107863, July 7, 2020 9 OPEN ACCESS
+of human noroviruses in stem cell‐derived human  enteroids.  Sci‐
+ence  353,  and inter‐cellular rewiring of the human colon during
+ulcerative colitis. Cell 178, Harak, C., and Lohmann, V.  (2015).
+Ultrastructure  of  the  replication sites of positive‐strand RNA
+viruses. Virology 479‐480, 418433.  Stanifer, M.L., Rippert,  A.,
+Kazakov,  A.,  Willemsen,  J.,  Bucher,  D.,  Bender, S., Barten‐
+schlager, R., Binder, M., and Boulant, S. (2016). Reovirus inter‐
+mediate  Harcourt,  J., Tamin, A., Lu, X., Kamili, S., Sakthivel,
+S., Kumar, Murray, J., ger, N., Herrler, T.,  ErichHoffmann,  M.,
+Kleine‐Weber,  H.,  Schroeder, S., Kru sen, S., Schiergens, T.S.,
+Herrler, G., Wu, N.‐H., Nitsche, A., et al.  (2020).   SARS‐CoV‐2
+cell entry depends on ACE2 and TMPRSS2 and is blocked by a clini‐
+cally proven protease inhibitor. Cell  181,  271280.e8.   Lamers,
+M.M.,  Beumer,  J.,  van der Vaart, J., Knoops, K., Puschhof, J.,
+Breugem, T.I., Ravelli, R.B.G., Paul van  Schayck,  J.,  Mykytyn,
+A.Z.,  Duimel,  H.Q.,  Leung, W.K., To, K.F., Chan, P.K.S., Chan,
+H.L.Y., Wu, A.K.L., Lee, N., Yuen, K.Y., and Sung, J.J.Y. (2003).
+Enteric  involvement of severe acute respiratory syndrome‐associ‐
+ated coronavirus infection. Gastroenterology 125,  1011  Lokugam‐
+age,  K.G.,  Hage, A., Schindewolf, C., Rajsbaum, R., and Menach‐
+ery, V.D. (2020). SARS‐CoV‐2 sensitive to type I interferon  pre‐
+treatment.  bioRxiv,  Lu,  H.,  Stratton,  C.W.,  and Tang, Y.‐W.
+(2020). Outbreak of pneumonia of unknown etiology in Wuhan,  Chi‐
+na:  The  mystery  and the miracle. J. Med. Virol.  Lukassen, S.,
+Lorenz Chua, R., Trefzer, T., Kahn, N.C., Schneider, M.A., Muley,
+T.,  Winter,  H.,  Meister,  M.,  Veith,  C., Boots, A.W., et al.
+(2020). ). SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily ex‐
+pressed  in  bronchial  transient  secretory  cells.  EMBO J. 39,
+e105114.  Stanifer, M.L., Mukenhirn, M., Muenchau, S., Pervolara‐
+ki,  K.,  Kanaya,  T., Albrecht, D., Odendall, C., Hielscher, T.,
+Haucke, V., Kagan, J.C., et al. (2020).  Asymmetric  distribution
+of  TLR3 leads to a polarized immune response in human intestinal
+epithelial cells. Nat. Microbiol. 5, 181191.  Targett‐Adams,  P.,
+Boulant,  S., and McLauchlan, J. (2008). Visualization of double‐
+stranded RNA in cells supporting hepatitis C virus  RNA  replica‐
+tion.   J.  Virol. 82, 21822195.  Venkatakrishnan, A.J., Puranik,
+A., Anand, A., Zemmour, D., Yao, X., Wu,  X.,  Chilaka,  R.,  Mu‐
+rakowski,  D.K.,  Standish,  K.,  Raghunathan, B., et al. (2020).
+Knowledge synthesis from 100 million  biomedical  documents  aug‐
+ments  the  deep  expression  profiling of coronavirus receptors.
+BioRxiv, Wang, L., and Zhang, Y. (2016). Animal coronaviruses:  a
+brief introduction. In Wang, Q., Vlasova, A.N., Kenney, S.P., and
+Saif, L.J. (2019). Emerging and reemerging coronaviruses in pigs.
+Curr.  Opin. Virol. 34, 3949.  Wang, W., Xu, Y., Gao, R., Lu, R.,
+Han, K., Wu, G., and Tan, W. (2020). Detection of  SARS‐CoV‐2  in
+Different Types of Clinical Specimens. JAMA.  Wolfel, R., Corman,
+V.M., Guggemos, W., Seilmaier, M., Zange, S., Mu M.A.,  Niemeyer,
+D., Jones, T.C., Vollmar, P., Rothe, C., et al. (2020). Virologi‐
+cal assessment of hospitalized patients with  COVID‐2019.  Nature
+581,  465469.  Mantlo, E., Bukreyeva, N., Maruyama, J., Paessler,
+S., and Huang, C. (2020).  Potent antiviral activities of type  I
+interferons  to SARS‐CoV‐2 infection. bioRxiv, 2020.04.02.022764.
+Wu, C., Zheng, S., Chen, Y., and Zheng, M.  (2020a).  Single‐cell
+RNA  expression profiling of ACE2, the putative receptor of Wuhan
+2019‐nCoV, in the nasal Wu, Y., Guo,  C.,  Tang,  L.,  Hong,  Z.,
+Zhou,  J.,  Dong, X., Yin, H., Xiao, Q., Tang, Y., Qu, X., et al.
+(2020b). Prolonged presence of SARS‐CoV‐2  viral  RNA  in  faecal
+samples. Lancet Gastroenterol. Hepatol., 0.  Mossel, E.C., Huang,
+C., Narayanan, K., Makino,  S.,  Tesh,  R.B.,  and  Peters,  C.J.
+(2005). Exogenous ACE2 expression allows refractory cell lines to
+support severe acute respiratory  syndrome  coronavirus  replica‐
+tion.  J. Virol. 79, 3846 Xiao, F., Tang, M., Zheng, X., Liu, Y.,
+Li, X., and Shan, H. (2020). Evidence for gastrointestinal infec‐
+tion  of  SARS‐CoV‐2.  Gastroenterology  158,  1831 Paules, C.I.,
+Marston, H.D., and Fauci, A.S.  (2020).  Coronavirus  infections:
+more  than  just  the  common cold. JAMA 323, 707708.  nchau, S.,
+Renn, L.A., Albrecht, D., Kurzhals,  Pervolaraki,  K.,  Stanifer,
+M.L., Mu S., Sens, E., Grimm, D., Schroder‐Braunstein, J., Rabin,
+R.L., and Boulant, S.  (2017). Type I and  type  III  interferons
+display  different dependency on mitogenactivated protein kinases
+to mount an antiviral state in the human gut. Front.   Pervolara‐
+ki,  K.,  Rastgou Talemi, S., Albrecht, D., Bormann, F., Bamford,
+C., Mendoza, J.L., Garcia, K.C., McLauchlan, J., Hofer, T., Stan‐
+ifer, M.L., and Boulant, S. (2018). Differential induction of in‐
+terferon stimulated genes between type I and type III interferons
+is independent of interferon receptor abundance. PLoS Pathog. 14,
+e1007420.  Pott, J., Mahlakoiv, T., Mordstein, M.,  Duerr,  C.U.,
+Michiels,  T.,  Stockinger,  S.,  Staeheli,  P., and Hornef, M.W.
+(2011). IFN‐l determines the intestinal epithelial antiviral host
+defense. Proc. Natl. Acad. Sci. USA 108, 79447949.  Qi, F., Qian,
+S., Zhang, S., and Zhang, Z. (2020). Single cell  RNA  sequencing
+of  13  human  tissues identify cell types and receptors of human
+coronaviruses.   Biochem.  Biophys.  Res.  Commun.  526,  135140.
+Smillie,  C.S.,  Biton, M., Ordovas‐Montanes, J., Sullivan, K.M.,
+Burgin, G., Graham, D.B., Herbst, R.H., Rogel,  N.,  Slyper,  M.,
+Waldman,  J.,  et  al. (2019). Intra‐ 10 Cell Reports 32, 107863,
+July 7, 2020 Xing, Y.‐H., Ni, W., Wu, Q., Li, W.‐J.,  Li,  G.‐J.,
+Wang,  W.‐D.,  Tong,  J.‐N.,  Song, X.‐F., Wing‐Kin Wong, G., and
+Xing, Q.‐S. (2020). Prolonged viral shedding in  feces  of  pedi‐
+atric  patients  with coronavirus disease 2019. J. Microbiol. Im‐
+munol. Infect. 53, 473480.  Xu, H., Zhong, L.,  Deng,  J.,  Peng,
+J.,  Dan,  H.,  Zeng, X., Li, T., and Chen, Q.  (2020a). High ex‐
+pression of ACE2 receptor of 2019‐nCoV on the epithelial cells of
+oral  mucosa.  Int. J. Oral Sci. 12, 8.  Xu, Y., Li, X., Zhu, B.,
+Liang, H., Fang, C., Gong, Y., Guo, Q., Sun, X., Zhao, D.,  Shen,
+J.,  et  al. (2020b). Characteristics of pediatric SARS‐CoV‐2 in‐
+fection and potential evidence for persistent fecal  viral  shed‐
+ding.  Nat.  Med.  26,  502505.  Ye, L., Schnepf, D., Becker, J.,
+Ebert, K., Tanriver, Y., Bernasconi, V., Gad, H.H., Hartmann, R.,
+Lycke,  N.,  and Staeheli, P. (2019). Interferon‐l enhances adap‐
+tive mucosal immunity by boosting release of thymic stromal  lym‐
+phopoietin.  Nat. Immunol. 20, 593601.  Zhao, Y., Zhao, Z., Wang,
+Y., Zhou, Y., Ma, Y., and Zuo, W. (2020). Single‐cell RNA expres‐
+sion  profiling  of  ACE2,  the  receptor of SARS‐CoV‐2. bioRxiv.
+Zhou, J., Li, C., Zhao, G., Chu,  H.,  Wang,  D.,  Yan,  H.H.‐N.,
+Poon,  V.K.‐M.,  Wen, L., Wong, B.H.‐Y., Zhao, X., et al. (2017).
+Human intestinal tract serves as an alternative  infection  route
+for  Middle  East respiratory syndrome coronavirus.  Sci. Adv. 3,
+eaao4966.  OPEN ACCESS KEY RESOURCES TABLE  REAGENT  or  RESOURCE
+Mouse  monoclonal  anti‐SARS  CoV NP Sino Biologicals Mouse mono‐
+clonal anti‐dsRNA (J2) Cat#10010200; RRID:AB_2651015 Mouse  mono‐
+clonal  anti‐E‐cadherin  BD Transductions Rabbit polyclonal anti‐
+ACE2 Rabbit  polyclonal  anti‐Mucin‐2  Santa  Cruz  Biotech  Cat#
+sc‐15334;  RRID:AB_2146667  Mouse  monoclonal anti‐SYP Santa Cruz
+Biotech Cat#sc‐17750; RRID:AB_628311 Mouse  polyclonal  anti‐beta
+actin Sigma Aldrich Alexa Fluor Goat anti mouse 488 Thermo Fisch‐
+er Scientific Cat#A‐11001; RRID:AB_2534069 Alexa Fluor Goat  anti
+rabbit 488 Thermo Fischer Scientific Cat#A‐11034; RRID:AB_2576217
+Alexa  Fluor  Goat  anti  mouse  568  Thermo  Fischer  Scientific
+Cat#A‐21124;  RRID:AB_2535766  Alexa  Fluor  Goat anti rabbit 568
+Thermo Fischer Scientific Cat#A‐11011; RRID:AB_143157  Anti‐Mouse
+IgG  IRDye  CW800  Cat#926‐32212;  RRID:AB_621847 Anti‐rabbit IgG
+IRDye CW800 Cat#926‐32213; RRID:AB_621848  Anti‐mouse  IgG  IRDye
+CW680  Cat#926‐68072; RRID:AB_10953628 European Virology Archives
+Bacterial and Virus Strains Biological Samples Human colon resec‐
+tions  Chemicals,  Peptides,  and  Recombinant  Proteins Advanced
+DMEM/F12 Thermo  Fischer  Scientific  Thermo  Fischer  Scientific
+Thermo Fischer Scientific Thermo Fischer Scientific Sigma Aldrich
+MatriGel. GFR, LDEV free Thermo Fischer Scientific Sigma  Aldrich
+Cat#  A9165  Recombinant mouse EGF Thermo Fischer Scientific Cat#
+PMG8043 [Leu15]‐Gastrin I Cat# G9145 Recombinant human IGF‐1  Re‐
+combinant  human  FGF  basic  Caymann Chemicals Mouse recombinant
+noggin Human recombinant IFN‐beta 1 Recombinant human  IFNL1  Re‐
+combinant human IFNL2 Recombinant human IFNL3 Collagen from human
+placenta Sigma Aldrich Thermo Fischer Scientific  iTaq  Universal
+SYBR green Supermix Sigma Aldrich Triton X‐100 Sigma Aldrich Cell
+Reports 32, 107863, July 7, 2020 e1 OPEN ACCESS  REAGENT  or  RE‐
+SOURCE Sigma Aldrich Fetal Bovine Serum DMEM, high glucose Thermo
+Fischer Scientific Thermo Fischer Scientific  Beta  propiolactone
+Sigma  Aldrich  RNAeasy RNA extraction kit iSCRIPT cDNA synthesis
+kit DIY IFNL2/3 ELISA PBL Interferon source Smillie et al.,  2019
+Single  Cell  Portal, accession number SCP259 Deposited Data Sin‐
+gle‐cell RNA sequencing data of human colon samples.   Experimen‐
+tal  Models: Cell Lines T84 human colon carcinoma cells T84 IFNLR
+/ Pervolaraki et al., 2018 T84 IFNAR /  T84  IFNLR/IFNAR  /  Per‐
+volaraki  et al., 2018 Pervolaraki et al., 2018 Caco‐2 human col‐
+orectal adenocarcinoma Vero E6 Human colon organoids  This  paper
+TBP for ccactcacagactctcacaac TBP rev ccactcacagactctcacaac HPRT1
+for  cctggcgtcgtgattagtgat   HPRT1   rev   agacgttcagtcctgtccataa
+IFNL2/3 for gccacatagcccagttcaag IFNL2/3 rev tgggagaggatatggtgcag
+IFNb1 for gccgcattgaccatctat IFNb1 rev  gtctcattccagccagtg  OLFM4
+for acctttcccgtggacagagt OLFM4 rev tggacatattccctcactttgga SI for
+aatccttttggcatccagatt SI rev gcagccaagaatcccaaat MUC‐2 for tgtag‐
+gcatcgctcttctca  MUC‐2  rev gacaccatctacctcacccg ACE‐2 for tcaag‐
+gaggccgagaagttc ACE‐2 rev ttcctgggtccgttagcatg TMPRSS2 for  acct‐
+gatcacaccagccatg/  TMPRSS2  rev cttcgaagtgaccagaggcc COV1 for gc‐
+ctcttctgttcctcatcac COV1 rev agacagcatcaccgccattg Comprehensive R
+Archive  Seurat  R package (version 3.1.4) R package Software and
+Algorithms e2 Cell Reports 32, 107863, July 7, 2020  OPEN  ACCESS
+RESOURCE  AVAILABILITY  Lead  Contact Further information and re‐
+quests for resources and reagents should be directed to and  will
+be fulfilled by the Lead Contact, Megan L.  Materials Availabili‐
+ty This study did not generate new  unique  reagents.   Data  and
+Code Availability This study did not generate any unique datasets
+or code. No custom code was used to analyze these  data  and  all
+methods  and packages used are cited in the methods section.  EX‐
+PERIMENTAL MODEL AND SUBJECT DETAILS T84  human  colon  carcinoma
+cells  (ATCC  CCL‐248) and their knock‐out clones were maintained
+in a 50:50 mixture of Dulbeccos modified Eagles medium (DMEM) and
+F12 (GibCo) supplemented with 10% fetal bovine serum and 1% peni‐
+cillin/streptomycin (GIBCO). Caco‐2 human colorectal  adenocarci‐
+noma (ATCC HTB‐37) and Vero E6 (ATCC CRL 1586) were maintained in
+Dulbeccos modified Eagles medium (DMEM) (GibCo) supplemented with
+10%  fetal  bovine  serum and 1% penicillin/streptomycin (GIBCO).
+SARS‐CoV‐2 (strain BavPat1) was  obtained  from  Prof.  Christian
+Drosten  at  the  Charite in Berlin, Germany and provided via the
+European Virology Archive. The virus was  amplified  in  Vero  E6
+cells.   Human organoid cultures the Declaration of Helsinki. All
+samples were received and maintained in an anonymized manner. The
+protocol  was  approved  by  the enriched in crypts were filtered
+with 70 mM filters and the fractions were observed under a  light
+microscope.  Fractions  containing  the  highest number of crypts
+were pooled and spun again.  The  supernatant  was  removed,  and
+crypts  were re‐suspended in Matrigel.  METHOD DETAILS Antibodies
+and Inhibitors Mouse  monoclonal  antibody  against  SARS‐CoV  NP
+(Sino  biologicals  MM05),  mouse monoclonal against J2 (scions),
+mouse monoclonal against E‐cadherin (BD  Transductions  #610181),
+mouse  monoclonal  anti‐SYP  (Santa Cruz Biotechnology sc‐17750),
+and rabbit polyclonal  anti‐Mucin‐2  (Santa  Cruz  Biotechnology#
+sc‐15334) were used at 1:500 for immunofluorescence. Rabbit poly‐
+clonal ACE‐2 antibody (Abcam) was used at 1:500 and  mouse  poly‐
+clonal actin was used at 1:5000 for western blot. Secondary anti‐
+bodies were  conjugated  with  AF488  (Molecular  Probes),  AF568
+(Molecular  Probes),  CW680  (Li‐Cor)  or CW800 (Li‐Cor) directed
+against the animal source. Human  recombinant  IFN‐beta1a  (IFNb)
+was  obtained from Biomol (#86421) was used at a final concentra‐
+tion of 2,000IU/mL. Recombinant human IFNl 1 (IL‐29)  (#300‐02L),
+IFNl  2  (IL28A) (#300‐2K)) were purchased from Peprotech and and
+IFNl 3 (IL‐28B) was purchased from BioMol. All three  lambda  in‐
+terferons  were  combined  and  were  used  at a concentration of
+100ng/mL each to make a final concentration of 300ng/mL, Pyridone
+6 (Calbiochem #420099‐500)was used at a final concentration Viral
+infections All SARS‐CoV‐2 infections were performed the MOI indi‐
+cated  in  the  text.  Media was removed from cells and virus was
+added to cells for 1 hour at 37 C. Virus was removed, cells  were
+wash  1x  with  PBS  and media or media containing inhibitors/cy‐
+tokines was added back to the cells.  2D organoid seeding  8‐well
+iBIDI  glass bottom chambers were coated with 2.5% human collagen
+in water for 1 h prior to organoids seeding. Organoids were  col‐
+lected at a ratio of 100 organoids/transwell. Collected organoids
+were spun at 450 g for 5 mins and the  supernatant  was  removed.
+Organoids  were  washed  1X with cold PBS and spun at 450 g for 5
+mins. PBS was removed and organoids were  digested  Cell  Reports
+32,  107863,  July 7, 2020 e3 OPEN ACCESS with 0.05% Trypsin‐EDTA
+(Life technologies) for 5 mins at 37 C. Digestion was stopped  by
+addition  of serum containing medium.  Organoids were spun at 450
+g for 5 mins and the supernatant was removed and  organoids  were
+re‐suspended  in  normal  growth  media  at a ratio of 250 mL me‐
+dia/well. The collagen mixture was removed from the  iBIDI  cham‐
+bers and 250 mL of organoids were added to each well.  RNA isola‐
+tion, cDNA, and qPCR RNA was harvested from cells  using  RNAeasy
+RNA extraction kit (QIAGEN) as per manufactures instructions. cD‐
+NA was made using iSCRIPT reverse transcriptase (BioRad) from 250
+ng  of  total  RNA as per manufactures instructions. q‐RT‐PCR was
+performed using iTaq SYBR green (BioRad) as per manufacturers in‐
+structions,  TBP  or HPRT1 were used as normalizing genes. Primer
+used: Indirect Immunofluorescence Assay  Cells  seeded  on  iBIDI
+glass  bottom  8‐well chamber slides. At indicated times post‐in‐
+fection, cells were fixed in 4%  paraformaldehyde  (PFA)  for  20
+mins  at  room  temperature (RT). Cells were washed and permeabi‐
+lized in 0.5% Triton‐X for 15 mins at RT. Primary antibodies were
+diluted  in  phosphate‐buffered saline (PBS) and incubated for 1h
+at RT. Cells were washed in 1X PBS three times and incubated with
+secondary  antibodies  and  DAPI  for  45  mins at RT. Cells were
+washed in 1X PBS three times and maintained in PBS.   Cells  were
+imaged  by  epifluorescence on a Nikon Eclipse Ti‐S (Nikon).  In‐
+cell Western 20,000 Vero E6 cells were seeded  per  well  into  a
+96‐well  dish  24h  prior to infection. 100uL of harvested super‐
+natant was added to the first well.  Seven  1:10  dilutions  were
+made  (all samples were performed in triplicate). Infections were
+allowed to proceed for 24h. 24h post‐infection cells  were  fixed
+in 2% PFA for 20mins at RT. PFA was removed and cells were washed
+twice in 1X PBS and then permeabilized for 10mins at RT  in  0.5%
+Triton‐X. Cells were blocked in a 1:2 dilution of Li‐Cor blocking
+buffer (Li‐Cor) for 30mins at RT.  Cells were stained with 1/1000
+dilution  anti‐dsRNA  (J2)  for 1h at RT. Cells were washed three
+times with 0.1% Tween  in  PBS.  Secondary  antibody  (anti‐mouse
+CW800)  and DNA dye Draq5 (Abcam) were diluted 1/10,000 in block‐
+ing buffer and incubated for 1h at RT. Cells  were  washed  three
+times with 0.1% Tween/PBS. Cells were imaged in 1X PBS on a LICOR
+(Li‐Cor) imager.  Western blot At time of harvest, media was  re‐
+moved,  cells were rinsed once with 1X PBS and lysed with 1X RIPA
+(150 mM sodium chloride, 1.0% Triton X‐100,  0.5%  sodium  deoxy‐
+cholate,  0.1%  sodium  dodecyl sulfate (SDS), 50 mM Tris, pH 8.0
+with phosphatase and protease inhibitors (Sigma‐Aldrich))  for  5
+mins  at  room temperature (RT). Lysates were collected and equal
+protein amounts were separated by SDS‐PAGE and blotted onto a ni‐
+trocellulose  membrane  by wet‐blotting (Bio‐Rad). Membranes were
+blocked with Li‐Cor blocking buffer (Li‐Cor) for one hour at  RT.
+Primary  antibodies were diluted in blocking buffer and incubated
+overnight at 4 C. Membranes were washed 3X in TBS‐T for 5 mins at
+RT.  Secondary antibodies were diluted in blocking buffer and in‐
+cubated at RT for 1 hour with rocking. Membranes were  washed  3X
+in  TBS‐T  for 5 mins at RT and scanned on a Li‐Cor scanner.  Su‐
+pernatants were collected at indicated time points. Virus in  su‐
+pernatants  was  inactivated  with 0,05% beta propiolactone (BPL)
+(Sigma‐Aldrich) overnight at 4 C. BPL was hydrolyzed at 37 C  for
+2  hours  prior  to  ELISA.  ELISA standards were also diluted in
+0.05% BPL overnight following 2h hydrolyzation at 37  C.  IFNl2/3
+was evaluated using the IFNl2/3 DIY ELISA (PBL Interferon source)
+as per manufacturers instructions.  Re‐processing of the  single‐
+cell  RNaseq  Human  Colon  Atlas having fewer than 500 genes and
+more than 30% of UMI count mapped  to  mitochondrial  genes  were
+discarded. Consecutively, the resulting datasets were normalized,
+scaled and high‐variance genes genes  were  selected.  Reciprocal
+PCA‐based  data integration was done to merge the samples. After‐
+ward, the resulting batch‐corrected counts were used  for  calcu‐
+lating  PCA‐based  dimensionality reduction and unsupervised Lou‐
+vain clustering. Furthermore, UMAP visualization  was  calculated
+using  50  neighboring  points for the local approximation of the
+manifold structure. Cell type annotation was based on  the  unsu‐
+pervised  clustering and the metadata provided by the colon atlas
+(Smillie et al., 2019).  QUANTIFICATION AND STATISTICAL  ANALYSIS
+Unless otherwise stated, P values were calculated by a two‐tailed
+unpaired t test using the GraphPad Prism  software  package.  All
+samples were analyzed without blinding or exclusion of samples. N
+values indicate the number of biological replicates for a sample.
 e4 Cell Reports 32, 107863, July 7, 2020
+
+
+
+
+

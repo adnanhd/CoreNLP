@@ -1,122 +1,132 @@
-Mulholland and Sinha BMC Medicine
-Open Access
-Ethnicity and COVID-19 infection: are the
-pieces of the puzzle falling into place?
-Rachel H. Mulholland1 and Ian P. Sinha2,3*
-Keywords: COVID-19, Ethnic inequalities, UK Biobank, Public health, Epidemiology
-The COVID-19 pandemic is exposing problems within
-our societies, and as always, vulnerable groups are hit
-hardest. One key story around COVID-19, particularly
-in the UK and USA, has been inequality in COVID-19
-outcomes between people from different ethnic backgrounds. Reports of such differences initially emerged
-from certain states in the USA, where rates of hospitalisation and death from COVID-19 were higher in Black
-people than would be expected from the ethnic composition of the population [1]. Similar findings are shown in
-the UK, where Black and South Asian people have disproportionately high rates in intensive care [2], mortality
-amongst healthcare workers [3] and the general population [4], and the development of paediatric inflammatory
-multisystem syndrome (a paediatric hyperinflammatory
-state related to COVID-19) [5]. The question is, why?
-Linking data between UK Biobank and Public
-Health England
-The linked paper by Niedzwiedz et al. [6] adds muchneeded new information. This study links participants in
-the UK Biobank to COVID-19 testing data from Public
-Health England (PHE). The study recruited 4070-yearolds and recorded their baseline characteristics between
-2006 and 2010 [7]. Associations between the baseline data,
-in particular, self-reported ethnicity and socioeconomic
-Alder Hey Childrens Hospital, Liverpool, UK
-status (deprivation and highest education), were explored
-and compared in COVID-19 testing, testing positive and
-testing positive in a hospital setting. Results were adjusted
-for potential confounding and mediating factors that
-reflected the health and social status of the participants.
-Of 392,116 participants in the cohort, 2658 were tested
-for COVID-19, of whom 948 tested positive. Compared
-to the White British population, positive tests were more
-likely in Black (relative risk (RR) 3.35 (95% CI 2.48
-4.53)), South Asian (RR 2.42 (95% CI 1.753.36) and
-White Irish (RR 1.42 (95% CI 1.002.03)) people. When
-breaking down into more detailed categories, Black
-Caribbean (RR 3.51 (95% CI 2.395.15) and Pakistani
-(RR 3.24 (95% CI 1.736.07)) ethnic groups had respectively the highest risk ratio in the Black and South Asian
-ethnic backgrounds. The risk of a positive test was also
-linked to socioeconomic status and education, where
-those living in the most disadvantaged quartile (RR 2.19
-(95% CI 1.802.66)) and those with lower levels of education (RR 2.00 (95% CI 1.662.42)) having the highest
-risk of confirmed COVID-19 infection. Adjusting for potential risk factors, including country of birth, whether
-they are a healthcare worker, socioeconomic status and
-pre-existing health, did not fully explain these ethnic
-differences. Socioeconomic differences, however, appeared to make the most substantial contribution to
-these ethnic variations.
-Collaborations such as these are needed to address
-Biobank UK and PHE) should be commended for enabling and conducting a linked data study of this scale so
-quickly. Insights are extremely useful and further evidence of what has been previously seen in ethnic groups
-which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
-licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
-Mulholland and Sinha BMC Medicine
-and socioeconomic backgrounds in relation to COVID19.
-Nonetheless, there are potential limitations to cohort
-studies using UK Biobank. Firstly, the cohort consists of
-volunteers meaning results may not reflect the whole
-UK with complete accuracy. In particular, this study only
-uses participants from English assessment centres who
-were aged 4070 years when recruited and therefore
-cannot be generalised nationally. Secondly, the baseline
-characteristics of participants were recorded over 10
-years ago and may have changed since they were enrolled. In addition, the models only adjust for risk factors
-and do not explore potential interactions between the
-exposures and risk factors. Investigating these may add
-extra value to insights to evaluate whether ethnic differences occur differently in the potential confounding factors. Alongside this analysis, further data from people in
-hospitals and care homes would help identify where
-along the patient pathways the problems lie.
-Where next?
-In order for population-level interventions and policies
-to be impactful, we urgently need to develop a mechanistic understanding of the increased risk to different
-communities. A holistic approach should be adopted,
-alongside more detailed and up-to-date information
-around social issues that differ between ethnic groups,
-such as environmental conditions (including overcrowding, intergenerational living, standards of accommodation and exposure to pollution), income, type of
-employment and working conditions. Linking data with
-health records would enable a more accurate exploration
-of the role of relevant comorbiditiesnot just in terms
-of prevalence and disease control but also the quality of
-care. Public health messaging to different ethnic groups
-requires examination, to ensure it is clear and culturally
-appropriate at the local and governmental levels. There
-is interest in genetic and biological reasons that explain
-these ethnic inequalities, but to date, this is only speculative. Theories around the expression of human
-leukocyte antigen haplotypes, angiotensin-converting enzyme receptors and vitamin D levels in dark-skinned
-people have not been validated. The role of these factors
-in COVID-19 disease is poorly understood, and no
-group has yet linked them with ethnicity and COVID-19
-outcome in a meaningful way to explain the stark inequalities [810].
-Research on ethnic inequalities from COVID-19 is still
-lacking, and most countries with high levels of infection
-have not yet released data around this issue. Further
-qualitative and quantitative research, grounded in public
-health and social sciences, is urgently needed. Resources
-like the UK Biobank will enable both epidemiological
-and biological research, and the linked study is an example of how useful studies can be done rapidly. The
-ethnic inequalities in COVID-19 are of grave importance. The response needs to be collaborative, meaningful, transparent, sensitive, holistic and swift.
-COVID-19: Coronavirus disease 2019; PHE: Public Health England; RR: Relative
-Not applicable
-No external sources of funding
-Availability of data and materials
-Not applicable
-Ethics approval and consent to participate
-Not applicable
-Consent for publication
-Not applicable
-Competing interests
-1. Garg S, Kim L, Whitaker M, et al. Hospitalization rates and characteristics of
-patients hospitalized with laboratory-confirmed coronavirus disease
-2019COVID-NET, 14 States, March 130. MMWR Morb Mortal Wkly Rep.
-2. Intensive Care National Audit and Research Centre (ICNARC). ICNARC report
-3. M. Weaver, A. Mohdin, H. Pidd, et al. So much living to do: stories of UKs
-4. The Office for National Statistics (ONS). Coronavirus (COVID-19) related
-deaths by ethnic group, England and Wales: 2 March 2020 to 10 April 2020.
-5. Riphagen S, Gomez X, Gonzalez-Martinez C, et al. Hyperinflammatory shock
-6. Niedzwiedz CL, ODonnell CA, Jani BD, et al. Ethnic and socioeconomic
-differences in SARS-CoV-2 infection: prospective cohort study using UK
-8. Hastie CE, MacKay DF, Ho F, et al. Vitamin D concentrations and COVID-19
-Mulholland and Sinha BMC Medicine
-Li Q, Cao Z, Rahman P, et al. Genetic variability of human angiotensinconverting enzyme 2 (hACE2) among various ethnic populations. bioRxiv.
-10. Nguyen A, David JK, Maden SK, et al. Human leukocyte antigen
+Mulholland  and  Sinha  BMC  Medicine  Open  Access Ethnicity and
+COVID‐19 infection: are the pieces of  the  puzzle  falling  into
+place?   Rachel  H.  Mulholland1  and  Ian P. Sinha2,3* Keywords:
+COVID‐19, Ethnic inequalities, UK Biobank,  Public  health,  Epi‐
+demiology  The  COVID‐19 pandemic is exposing problems within our
+societies, and as always, vulnerable groups are hit hardest.  One
+key  story  around  COVID‐19, particularly in the UK and USA, has
+been inequality in COVID‐19 outcomes between people from  differ‐
+ent  ethnic  backgrounds.  Reports  of such differences initially
+emerged from certain states in the USA, where rates of hospitali‐
+sation  and  death from COVID‐19 were higher in Black people than
+would be expected from the ethnic composition of  the  population
+[1].  Similar findings are shown in the UK, where Black and South
+Asian people have disproportionately high rates in intensive care
+[2],  mortality  amongst  healthcare  workers [3] and the general
+population [4], and the development  of  paediatric  inflammatory
+multisystem syndrome (a paediatric hyperinflammatory state relat‐
+ed to COVID‐19) [5]. The question is, why?  Linking data  between
+UK  Biobank  and  Public  Health  England  The  linked  paper  by
+Niedzwiedz et al. [6] adds muchneeded new information. This study
+links  participants  in  the  UK Biobank to COVID‐19 testing data
+from  Public  Health   England   (PHE).   The   study   recruited
+4070‐yearolds and recorded their baseline characteristics between
+2006 and 2010 [7]. Associations between  the  baseline  data,  in
+particular,  self‐reported  ethnicity and socioeconomic Alder Hey
+Childrens Hospital, Liverpool, UK status (deprivation and highest
+education), were explored and compared in COVID‐19 testing, test‐
+ing positive and testing positive in a hospital setting.  Results
+were  adjusted  for  potential  confounding and mediating factors
+that reflected the health and social status of the  participants.
+Of  392,116  participants  in  the  cohort,  2658 were tested for
+COVID‐19, of whom 948 tested  positive.  Compared  to  the  White
+British  population,  positive  tests  were  more likely in Black
+(relative risk (RR) 3.35 (95% CI 2.48  4.53)),  South  Asian  (RR
+2.42  (95%  CI  1.753.36)  and  White  Irish  (RR  1.42  (95%  CI
+1.002.03)) people. When breaking down into  more  detailed  cate‐
+gories,  Black Caribbean (RR 3.51 (95% CI 2.395.15) and Pakistani
+(RR 3.24 (95% CI 1.736.07)) ethnic groups  had  respectively  the
+highest  risk  ratio  in  the  Black and South Asian ethnic back‐
+grounds. The risk of a positive test was also linked to socioeco‐
+nomic status and education, where those living in the most disad‐
+vantaged quartile (RR 2.19 (95% CI 1.802.66)) and those with low‐
+er  levels  of  education  (RR 2.00 (95% CI 1.662.42)) having the
+highest risk of confirmed COVID‐19 infection. Adjusting  for  po‐
+tential  risk  factors,  including country of birth, whether they
+are a healthcare worker, socioeconomic  status  and  pre‐existing
+health, did not fully explain these ethnic differences. Socioeco‐
+nomic differences, however, appeared to make the most substantial
+contribution  to these ethnic variations.  Collaborations such as
+these are needed to address Biobank UK and PHE)  should  be  com‐
+mended  for  enabling  and conducting a linked data study of this
+scale so quickly. Insights are extremely useful and further  evi‐
+dence  of  what  has  been previously seen in ethnic groups which
+permits use, sharing, adaptation, distribution  and  reproduction
+in any medium or format, as long as you give licence and your in‐
+tended use is not permitted by statutory  regulation  or  exceeds
+the  permitted  use, you will need to obtain Mulholland and Sinha
+BMC  Medicine  and  socioeconomic  backgrounds  in  relation   to
+COVID19.   Nonetheless, there are potential limitations to cohort
+studies using UK Biobank. Firstly, the cohort consists of  volun‐
+teers  meaning results may not reflect the whole UK with complete
+accuracy. In particular, this study only uses  participants  from
+English assessment centres who were aged 4070 years when recruit‐
+ed and therefore cannot be generalised nationally. Secondly,  the
+baseline  characteristics  of  participants were recorded over 10
+years ago and may have changed since they were enrolled. In addi‐
+tion,  the models only adjust for risk factors and do not explore
+potential interactions between the exposures  and  risk  factors.
+Investigating  these  may add extra value to insights to evaluate
+whether ethnic differences occur  differently  in  the  potential
+confounding  factors.  Alongside this analysis, further data from
+people in hospitals and care  homes  would  help  identify  where
+along the patient pathways the problems lie.  Where next?  In or‐
+der for population‐level interventions and policies to be impact‐
+ful,  we  urgently need to develop a mechanistic understanding of
+the increased risk to different communities. A holistic  approach
+should  be adopted, alongside more detailed and up‐to‐date infor‐
+mation around social issues that differ  between  ethnic  groups,
+such  as environmental conditions (including overcrowding, inter‐
+generational living, standards of accommodation and  exposure  to
+pollution),  income,  type  of employment and working conditions.
+Linking data with health records would enable a more accurate ex‐
+ploration  of the role of relevant comorbiditiesnot just in terms
+of prevalence and disease control but also the quality  of  care.
+Public health messaging to different ethnic groups requires exam‐
+ination, to ensure it is clear and culturally appropriate at  the
+local  and  governmental levels. There is interest in genetic and
+biological reasons that explain these ethnic inequalities, but to
+date, this is only speculative. Theories around the expression of
+human leukocyte antigen haplotypes, angiotensin‐converting enzyme
+receptors  and  vitamin  D levels in dark‐skinned people have not
+been validated. The role of these factors in COVID‐19 disease  is
+poorly understood, and no group has yet linked them with ethnici‐
+ty and COVID‐19 outcome in a meaningful way to explain the  stark
+inequalities   [810].    Research  on  ethnic  inequalities  from
+COVID‐19 is still lacking, and most countries with high levels of
+infection  have  not yet released data around this issue. Further
+qualitative and quantitative research, grounded in public  health
+and  social  sciences,  is urgently needed. Resources like the UK
+Biobank will enable both epidemiological and biological research,
+and  the  linked study is an example of how useful studies can be
+done rapidly. The ethnic inequalities in COVID‐19  are  of  grave
+importance.  The  response needs to be collaborative, meaningful,
+transparent, sensitive, holistic  and  swift.   COVID‐19:  Coron‐
+avirus disease 2019; PHE: Public Health England; RR: Relative Not
+applicable No external sources of funding  Availability  of  data
+and  materials Not applicable Ethics approval and consent to par‐
+ticipate Not applicable Consent for  publication  Not  applicable
+Competing  interests  1. Garg S, Kim L, Whitaker M, et al. Hospi‐
+talization rates and  characteristics  of  patients  hospitalized
+with  laboratory‐confirmed  coronavirus disease 2019COVID‐NET, 14
+States, March 130. MMWR Morb Mortal Wkly Rep.  2. Intensive  Care
+National  Audit and Research Centre (ICNARC). ICNARC report 3. M.
+Weaver, A. Mohdin, H. Pidd, et al. So much living to do:  stories
+of  UKs  4. The Office for National Statistics (ONS). Coronavirus
+(COVID‐19) related deaths by ethnic group, England and  Wales:  2
+March  2020  to 10 April 2020.  5. Riphagen S, Gomez X, Gonzalez‐
+Martinez C, et al.  Hyperinflammatory  shock  6.  Niedzwiedz  CL,
+ODonnell CA, Jani BD, et al. Ethnic and socioeconomic differences
+in SARS‐CoV‐2 infection: prospective cohort  study  using  UK  8.
+Hastie  CE,  MacKay DF, Ho F, et al. Vitamin D concentrations and
+COVID‐19 Mulholland and Sinha BMC Medicine Li Q, Cao Z, Rahman P,
+et  al. Genetic variability of human angiotensinconverting enzyme
+2 (hACE2) among various ethnic populations. bioRxiv.  10.  Nguyen
+A, David JK, Maden SK, et al. Human leukocyte antigen
+
+
+
+
+
+
+

@@ -1,977 +1,858 @@
-Behavioral Sciences
-Strategies to deal with the COVID-19
-Paulo NADANOVSKY(a, b)
-Ana Paula Pires dos SANTOS(c)
-Fundao Oswaldo Cruz  Fiocruz, Escola
-Nacional de Sade Pblica, Departamento
-de Epidemiologia e Mtodos Quantitativos
-em Sade, Rio de Janeiro, RJ, Brazil.
-Universidade do Estado do Rio de Janeiro
- UERJ, Instituto de Medicina Social,
-Departamento de Epidemiologia, Rio de
-Janeiro, RJ, Brazil.
-Universidade do Estado do Rio de Janeiro
- UERJ, Faculdade de Odontologia,
-Departamento de Odontologia Preventiva e
-Comunitria, Rio de Janeiro, RJ, Brazil.
-associative interest that represents a conflict
-Paulo Nadanovsky
-Submitted: May 20, 2020
-Last revision: June 4, 2020
-Abstract: The World Health Organization declared a COVID-19
-pandemic on March 11, 2020, when there were 4,293 confirmed
-cumulative deaths. By May 17, 2020 this number increased to 315,005.
-The risk of death is higher above the age of 60, but there are many deaths
-below 60 (for example, in Sao Paulo, 25%). Due to the lack of a vaccine
-or specific treatment, there are at least three types of interventions used
-in the first wave of this pandemic: increased alertness and hygiene
-(e.g. Sweden); identification and isolation of infected people and their
-contacts (e.g. South Korea); lockdown (e.g. Italy). These interventions are
-complementary. Choices of the right mix of interventions will vary from
-society to society and in the same society at different times. The search
-for a miracle drug is dangerous because it is based on the mistaken
-belief that any treatment option is better than nothing. Brazilian
-society will not be able to maintain lockdown for a long period.
-Naturally, in the near future, regardless of the advice from scientists,
-In order to implement any strategy aimed to control the pandemic and
-preserve the economy, the country needs leadership that centralizes
-and coordinates actions. Unfortunately, the Brazilian government is
-not fulfilling this role; on the contrary, it is a hindrance. This negative
-leadership and lack of coordination are causing many deaths and are
-severely damaging the lives of survivors by delaying the resuming of
-economic and social activities.
-Keywords: Coronavirus Infections; COVID-19; Pandemics; Public
-Health; Evidence-Based Practice.
-The World Health Organization (WHO) declared a COVID-19 pandemic,
-the disease caused by the new coronavirus SARS-CoV-2 (Severe Acute
-Respiratory Syndrome - Coronavirus - 2), on March 11, 2020,1 the day on
-which 269 new deaths were confirmed in the world (with 4,293 cumulative
-deaths confirmed as of that date). Brazil had the first recorded death on
-March 17, 2020, the day on which 596 new deaths were confirmed in the
-world; on May 17, 2020 Brazil and the world accumulated 16,118 and
-315,005 deaths, respectively.2
-The threat of COVID-19 is revealed not only by the numbers of people
-infected and deaths, but mainly by the number of susceptible people in
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-the population who may become infected and the rate
-at which this occurs. SARS-CoV-2 is a new virus to
-which the human population has no immunity. The
-transmission occurs mainly through droplets and
-aerosols when the person talks, coughs or sneezes.
-The incubation period is five days (median) and
-ranges from two to 14 days. 3 It appears that 25%
-of infected people are asymptomatic, i.e., they do
-not present symptoms during the entire period of
-infection, but new and better serological surveys can
-reveal different percentages. People presenting the
-symptomatic forms of the disease go through a presymptomatic phase, which appears to last for about
-four days, and may infect other people during this
-phase.4,5 It seems that the viral load is highest at the
-time the symptoms appear, suggesting that infectivity
-peaks before the symptoms appear, which can lead
-to much pre-symptomatic transmission.6
-Why is each person potentially responsible
-for the death of others?
-We are facing a virus with relatively high or
-moderate transmissibility and apparently low lethality
-(infection fatality ratio), although over 60 years of age
-the mortality among symptomatic cases is high: 60
-to 69 years 4%; 70 to 79 years old 8%; over 80 years
-old 15%.7 The problem is that even a relatively low
-lethality, when spread over a large number of people,
-leads to a large number of deaths in the population.8
-This is because there is no specific effective treatment
-to cure or prevent death by COVID-19. Another
-problem is that although SARS-CoV-2 often causes
-asymptomatic or mild illness (cough, fever, pain,
-and malaise), a small proportion will develop severe
-morbidity requiring specialized care, including
-respirators and intensive care unit beds. Even in the
-absence of effective specific treatment, care is crucial
-to limit suffering.
-In other words, the probability of a healthy person
-under the age of 60 contracting the virus and requiring
-hospitalization is small. However, as there are millions
-of healthy people under the age of 60 in the population,
-even this small probability leads to a large number
-of people being admitted to hospital. In So Paulo,
-between March 17 and April 30, 2020, 3,877 people
-died with suspected or confirmed COVID-19, being
-Braz. Oral Res. 2020;34:e068
-966 under 60 (25%) and 2,911 60 or over (we used data
-from Sao Paulo because it is the most reliable data
-in Brazil; data until April 30 2020 because there is a
-delay in the register of deaths; accessed May 17 2020).
-In order to cause 966 deaths, the number of people
-in this age range who were infected must have been
-at least 100 times higher, i.e., 96,600, since lethality
-is less than 1% in this age range. As each infected
-person infects on average two to three people, 96,600
-infected people can, in less than two weeks, infect
-241,500 (96,600 x 2.5) new persons and so on.9
-The circulation of infected people is common, as
-many are asymptomatic and pre-symptomatic. So,
-when you circulate around the city (playing football
-in the park or on the beach and socializing with a
-group of friends), you can contract the virus and,
-without realizing it, infect two to three people. When
-your infection has generated 100 infected people, the
-probability of a person among those 100 dying by
-COVID-19 is high. So, the probability of 100 infected
-people generating a death is high, but of one infected
-person (e.g. you) dying is low. That is why staying
-at home during an epidemic outbreak, where the
-number of infected people is rising and there is no
-vaccine or effective treatment, is an altruistic act.10
-How do we know whether the pandemic is
-We must understand the importance of time
-(or speed) to measure the severity of the COVID-19
-situation. The number of deaths or of patients that
-need hospital intensive care may not be extraordinary
-if we use an annual time scale. However, on a daily,
-weekly and possibly monthly time scale, the severity
-of the COVID-19 pandemic is extraordinary.
-There is an indicator of the transmissibility potential
-of an infectious disease called R0 (R nought, or basic
-reproductive number), which denotes, on average, the
-number of people who get infected by each infected
-person in a population of susceptible individuals.
-Similarly, there is RE (effective reproductive number),
-which is the actual transmissibility of the disease
-during the epidemic when there is an increasing
-number of people with antibodies to the virus. R0 can
-be understood as what can potentially occur and RE
-what actually (effectively) occurs. The only difference
-Nadanovsky P, Santos APP
-between R0 and RE is that RE is not dependent on the
-whole population being susceptible.11 R0 depends not
-only on intrinsic aspects of the virus, but also on
-environmental circumstances, be they cultural (e.g.
-habit of hugging, kissing, physical contact in general)
-or housing (e.g. slums with small houses, very close
-to each other and with many people living together).
-In addition, home confinement and social isolation
-measures also influence R0.12 In this case, R0 will
-vary depending on economic aspects (difficulty in
-adhering to the recommendation to stay at home, as
-there is a need to work daily to survive; lack of access
-to piped water) and on social aspects (little confidence
-formal education making it difficult to obtain correct
-information on how to deal with this pandemic). This
-means that the SARS-CoV-2 R0 may be different in two
-countries or two cities even if the virus is genetically
-identical in those places.
-The lower the R0 or RE the better, as it means that
-the epidemic is spreading less. Values of RE>1 mean
-that the epidemic is increasing, RE = 1 it is stabilized
-and RE < 1 the epidemic is decreasing.
-A more reliable response about the spreading
-of the virus in Brazil will come when serological
-surveys for specific antibodies to SARS-CoV-2 are
-performed periodically on representative samples
-of the population. Fortunately, these studies are
-already being conducted. The first state to start was
-Rio Grande do Sul (RS) on April 11, 2020 and four
-phases with a two-week interval between them were
-planned.13 In the first phase, 4,189 people were tested
-on April 11-13 and two were positive for antibodies
-(IgM and IgG). Two weeks later on April 25-27, 4,500
-people were tested and six were positive. On May
-9-11, 4,500 were tested and 10 were positive. The
-population in RS had antibodies in the first phase,
-0.13% in the second and 0.22% in the third. These
-numbers translated to 5,650 people with antibodies
-in RS on April 13, 15,066 on April 27 and 24,860 on
-of the third survey that, for every million inhabitants
-in RS, 2,200 were infected. As at that time there were
-only 248 reported cases, they concluded that for each
-case reported in the RS there were nine unreported
-the case fatality ratio in RS based on COVID-19
-with this ratio based on the real number of cases
-estimated in the third RS survey (24,860). As there
-were 105 confirmed COVID-19 deaths in RS, the case
-fatality ratio (lethality) applying these two alternative
-denominators was 4.0% and 0.42%, respectively.14
-This study is being conducted in the other Brazilian
-states (133 cities that will represent the dissemination
-of SARS-CoV-2 in each of the 27 states) and it was
-planned to consist of three surveys (phases) on May
-12, May 21 and June 7, with 33,250 participants in each.
-Non-pharmacological measures to combat
-the pandemic
-Since there is no vaccine, which would reduce the
-number of susceptible people in the population, what
-would be the other way to reduce this number? By
-allowing the infection to follow its natural course so
-that after a period of time the number of people who
-have created antibodies reaches a sufficient proportion
-to achieve RE < 1. Depending on the R0, there is a
-proportion of people in the population who has to
-develop antibodies in order to eliminate the disease
-((R0-1)/R0). For example, if COVID-19 R0 = 3 in Brazil,
-when 67% of the population has created antibodies
-to SARS-CoV-2, we can assume that the epidemic
-will not sustain itself and will soon be eliminated.
-To get a perspective of what this means in real
-life, let us look at what happened in Spain during the
-most critical period of the first wave of the pandemic
-in that country. There, between March 5 and May 17,
-2020, there were 27,650 deaths recorded by COVID19 (the peak was in early April 2020 with 950 deaths
-recorded daily). It is estimated that, despite this
-large number of deaths, only 5% of the population
-has been infected and has produced antibodies.15 If
-it is necessary that 60% of the population develop
-immunity in order to achieve RE < 1, Spain would
-have to experience what it went through at that
-Fortunately, it appears that lockdown as of March
-14 substantially reduced the pandemic in Spain and
-there was already a reduction in the number of new
-deaths detected three weeks after the start of the
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-lockdown;16 this reduction has shown itself to be
-large and consistent since then.17,18
-There are at least three types of non-pharmacological
-interventions that have been used to deal with the
-first wave of this pandemic: a) Increased alertness and
-hygiene (e.g. Sweden); b) Identification and isolation of
-infected people and their contacts (e.g. South Korea);
-c) Lockdown (e.g. Italy).
-A) Increased alertness and hygiene (e.g. Sweden)
-Increased alertness and hygiene are changes in
-behaviour aimed at the entire population, so that
-everybody is alert to avoid agglomeration, physical
-contact and intensify hand washing, cleaning of
-personal objects and surfaces. It is necessary to
-involve the whole population, because asymptomatic
-and pre-symptomatic people can transmit the virus
-for several days without knowing that they are
-infected. This increased alertness and hygiene were
-also adopted in the places where interventions b and
-c above were applied; that is, interventions b and c
-include intervention a.
-There are differences within each of these three
-types of intervention. For example, it was part of the
-increased alertness and hygiene in South Korea (in
-Asian countries generally) for everyone to wear a
-mask on the streets, but not in Sweden. But it seems
-that avoiding crowding and intensifying personal
-hygiene, especially hand washing, was a measure
-that all countries adopted.
-If effective, this is possibly the best type of
-intervention because it keeps social and economic
-activities going and does not spend resources in
-screening programs to identify and isolate infected
-people. To be effective it depends on a population
-with a good level of formal education, cooperation,
-In addition, this type of intervention depends on
-a competent leadership, that is, well informed,
-coordinated, proactive, consistent, firm, objective
-and clear.
-It is worth warning though, that among the
-Scandinavian countries, Sweden has had the highest
-number of deaths by COVID-19 to date, May 17, 2020:
-Sweden 3.674; Denmark 543; Norway 232; note that it
-is not necessary to consider the size of the population
-Braz. Oral Res. 2020;34:e068
-to compare the number of COVID-19 deaths between
-countries.19 The overall excess mortality during the
-outbreaks in each of these countries was also higher
-in Sweden: Sweden 3,000 more deaths than usual
-(29%); Denmark 200 more deaths (6%); Norway 0
-more deaths (0%).20
-B) Identification and isolation of infected
-persons and their contacts (e.g. South Korea)
-This intervention emphasizes identifying infected
-people and their contacts through diagnostic tests for
-virus detection and their confinement for a period of
-two to three weeks. This intervention is expensive,
-difficult to implement, and requires a major effort
-to recruit and train workers to perform the tests and
-the population to adhere to the constant tests (which
-involves unpleasant procedures such as having a
-swab introduced deep in the nose or the throat).
-The development of complex technological and
-logistical resources using, for example, connected
-mobile phone networks and testing points across
-the country may be necessary in order to implement
-efficient contact tracing and testing in large cities.21
-Testing has to be carried out frequently and on a
-large scale. For example, one model, possibly one of
-the most parsimonious, estimated that 5 million tests
-would be needed initially and then 20 million daily
-for this intervention to be successful in the USA.21 In
-addition, the state has to provide quarantine sites and
-financial aid for infected people who are unable to
-quarantine at home. This intervention presents ethical
-challenges related to the protection of privacy, nondiscrimination (that is, avoiding prejudice against
-infected people) and individual civil liberties.21 If
-well implemented, it can be reassuring (people feel
-reassured that there are almost no infectious people
-circulating between them) and effective in keeping
-the virus circulation restricted. As with alternative a
-above, this type of intervention also preserves social
-and economic activities in the country.
-C) Lockdown (e.g. Italy)
-Lockdown includes interventions such as closing
-trade and services, restricting transport and closing
-of the entire population, with the exception of essential
-Nadanovsky P, Santos APP
-workers (e.g. health and food professionals, and the
-police). This type of intervention is the last resort
-in the impossibility (or failure) of the two previous
-Strategies to end the lockdown
-Lockdown may be effective in reducing the
-number of deaths and severe cases of COVID-19,
-but it is not a realistic option to confine people
-for many months. If economic activity becomes
-depressed, at the level it remains during lockdown,
-for more than a few months, the number of deaths
-caused by the economic downturn may be greater
-than that avoided by COVID-19.22 There is really no
-choice between protecting health or protecting the
-economy; protecting the economy is a fundamental
-part of health protection. Therefore, we must urgently
-create strategies to end the lockdown. It is important
-to recognize that there are positive health effects
-of the lockdown, which offset, at least in part, its
-negative effects, such as a reduction in deaths and
-hospitalizations due to: traffic crashes; violence;
-air pollution; viruses in general; gastrointestinal
-diseases; unnecessary elective procedures due to
-overdiagnosis and overtreatment. In addition, the
-such as hand washing, should reduce the circulation
-of viruses and microorganisms in general, reducing
-consequently reducing the contagion of parents,
-grandparents and family members in general, by
-children and health professionals.
-Brazil began the lockdown earlier in the course
-of its outbreak (at least Sao Paulo and Rio de Janeiro)
-than other countries such as Italy, Spain, the United
-Kingdom and the USA.16 Therefore, it seemed that
-there would be fewer deaths and severe cases in Brazil
-than in these countries during the first wave of this
-pandemic. It seemed plausible that the exit from the
-lockdown in Brazil could occur after a smaller trauma
-than in these other countries. But, unfortunately, it
-seems that Brazil missed the opportunity to learn
-from the countries that preceded it during the first
-wave of this pandemic, giving signs that the number
-of deaths here will be even higher than in the countries
-that suffered the most.17
-In any case, the exit from the lockdown will occur
-at some point and it is expected that it will be carried
-out cautiously. Caution means starting the exit only
-when there is an indication of RE < 1 (on May 8, 2020,
-none the five most affected Brazilian states seemed
-to have been able to reach RE < 1).23 When this time
-comes, it will be necessary to emphasize the investment
-in increased alertness and hygiene like Sweden, and
-in the identification and isolation of infected people
-and their contacts like South Korea.
-The identification and isolation of infected people
-and their contacts may be unrealistic for Brazil. If it
-has not been possible to apply this intervention so far,
-it seems unlikely that it will be applied at the time
-of relaxing the lockdown. This is an intervention
-that demands an investment that is possibly beyond
-Brazils capacity at this historical, social and economic
-moment. If there is sufficient political will and effort
-from society to apply this intervention though, it will
-reduce the risk that in the coming months or years
-we will have to resort to lockdown periodically,
-which causes so much social, psychological and
-economic harm.19
-A precarious alternative, in the absence of
-diagnostic tests, would be to focus the identification
-of infected persons among those who seek hospital
-care, have COVID-19 confirmed and their contacts.
-This is precarious because it does not identify many
-people with asymptomatic, mild and pre-symptomatic
-disease (but it is better than no surveillance at all).
-This alternative must be supported by the government
-through providing sites for quarantine and financial
-help for people who are unable to stay at home and
-stop working during quarantine.
-Epidemiologic surveys with rapid serologic
-antibody tests11 are likely to be the key tool to help
-us deal with this pandemic, which could last until
-2022 (and even resurface in 2025).12 These tests are
-likely to act as the speedometer that will indicate the
-rate of virus transmission; this will help us accelerate
-and trade, exiting or starting lockdown, etc.
-Another role to be considered for serological tests is
-In this case, the objective is to identify people in the
-population who are able to leave home confinement
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-and speed up the resumption of economic and social
-activities. The accuracy of the serological test for
-antibodies to SARS-CoV-2 currently in use in Brazil
-the usefulness of the test depends on the prevalence
-of people with antibodies in the population. Even with
-a very good specificity (99%) a positive result is more
-likely to be false than true when the prevalence is 1%.
-This means that for a person with a positive result,
-the probability of not having antibodies is greater
-than that of having antibodies. In possession of such
-should not feel reassured, as they are more likely
-to be susceptible than immunized.24 On the other
-hand, in a population with 10% or 20% of people with
-antibodies, a positive result in this test shows a high
-probability that the person does have antibodies and
-is no longer at risk of becoming infected or infective.
-These accuracy estimates are based on the
-aggregate population and ignore the clinical history
-that would modify pre-test probabilities. Within the
-general population and special populations, such
-as health professionals, there are individuals with
-and without a history of what sounds like COVID19, including those with no history, atypical, mild,
-moderate and severe. In each of these histories there
-is a different pre-test probability, which can vary
-from 2 to 80%, for example. In short, the usefulness
-of this type of test to assist in the release of certain
-individuals, that is, in providing immunity-based
-(or perhaps 20%) of people with antibodies in the
-reference population.24
-It has not yet been proven whether antibodies to
-SARS-CoV-2 confer immunity and if so, for how long.
-Therefore, this type of test may be irrelevant if the
-antibodies do not confer immunity or confer it for
-a short period of time. For the time being, based on
-studies with monkeys and evidence of other viruses
-in humans, it is assumed that immunity has been
-acquired for at least two years.12
-In the near future, the science behind this type
-of test is expected to be more conclusive. Assuming
-that antibodies are indeed neutralizing the virus
-for a long time; that the prevalence of people with
-antibodies in populations is greater than 10 or 20%,
-Braz. Oral Res. 2020;34:e068
-or that more accurate new tests are created, and
-reach 100% or almost 100% specificity, that is, rarity
-or absence of false-positive results; these tests can
-be a valuable aid to the prudent opening of society
-during epidemic waves in which society has been
-placed under strict norms of limiting mobility and
-outside activities.
-There are ethical and practical challenges that will
-need to be addressed by societies that choose to issue
-including the following:25 stigma (discrimination)
-increased inequality in favour of those who can afford
-susceptible to fraud; errors in the test that would lead
-to issuing the licence to people who should not obtain
-it. Experts in bioethics made an excellent analogy
-were able to answer convincingly all questions and
-concluded that, although immunity-based licensing
-requires care for implementation and solid scientific
-support, none of the objections identified so far make
-them unethical in principle.25
-A strategy that would probably be prudent, fair and
-efficient to speed up exiting lockdown is as follows:
-when the proportion of people with antibodies in the
-general population is small (< 10%), emphasize the
-identification and isolation of the infected (frequent
-tests to detect the presence of the virus).21 When this
-proportion exceeds 10%, also emphasize the issuance
-the presence of antibodies.25
-If there is not enough political determination
-and coordination (competence) or economic, social,
-technological or cultural conditions to promote
-lockdown relaxation through virus and antibody
-detection tests, the alternative will be trial and
-error type of relaxation. In this case, the end of
-and services and the release of transportation may
-consist of the release of the entire population at once
-at a given time. Alternatively, opening can begin
-gradually, for example, in weekly waves, directing
-the lockdown relaxation to distinct occupational
-groups. For example, it may initially release workers
-from sectors that depend most on being away from
-Nadanovsky P, Santos APP
-home to carry out their activities (factory workers,
-construction workers, shopkeepers, etc.) and later
-those who are able to carry out a large part of their
-The criteria will obviously vary according to the
-specificities of each city, state and country.
-The trial and error type of lockdown relaxation
-is risky because a large number of susceptible,
-asymptomatic, pre-symptomatic and infective
-individuals are released at the same time, creating
-a social environment conducive to virus transmission,
-which can lead to uncontrolled epidemic and in a short
-time the need for new closures and even lockdown.
-The advantages are the rapid and vigorous resumption
-of economic and social activity and the faster increase
-in the number of infected individuals who will
-produce antibodies, contributing to the reduction in
-the value of RE (all other factors remaining constant).
-If this type of lockdown relaxation is adopted at a
-time when there is still much transmission of the
-infection, it can cause an increase in the number of
-severe cases above what the health services would
-be able to take; for example, as of May 8, 2020, it was
-estimated that the five most affected Brazilian states
-had RE > 1, so, the epidemic was still growing.23 If
-the number of new cases does not cause disruption
-to the health service and a relatively small number
-of deaths occur, this alternative would be a success.
-However, it is hard to believe that this success will
-be achieved when RE > 1.
-In the end, the moment of exiting lockdown will
-not really be a moment; historically, considering
-past pandemics, the end of a pandemic is diffuse
-and determined not only (and perhaps not mainly)
-by medical and health considerations, but more by
-the social pressure of people wanting to return to
-normal life. The population is becoming inpatient
-and gradually returning to normal life, even with
-the health risks and the high number of deaths.26 It
-try to reduce the transmission of infection as much
-as possible, while there is social collaboration.
-It is plausible that the world will have to deal
-with the comings and goings of this COVID-19
-pandemic in the next two to four years.12 There may
-be critical times when other periods of lockdown
-will be necessary if effective treatment or vaccine
-is not available. Therefore, it is important that we
-not only in this first wave we are going through, but
-also for other similar situations in the future. Some
-many will be tested, improved and adapted. For
-example, starting with a system based on a twoweek time schedule (considering the incubation
-period of the virus), 10-4, that is, 10 days at home
-and 4 out.27
-are alternatives that do not exclude each other. On
-the contrary, they are complementary. The choices of
-the right mix will vary from society to society and
-in the same society at different times. Each of these
-strategies has advantages and disadvantages that vary
-primarily according to the prevalence of susceptible
-people in the population and the rate of infection
-transmission. Other important variables that should
-be considered are: available resources (diagnostic
-tests, places for physical isolation, health facilities
-to care for severe cases); socioeconomic conditions
-(financial reserves to sustain drastic reduction in
-economic activity, housing and sanitation conditions,
-population density); culture (discipline, confidence
-and social norms, hygiene habits).
-Scientific evidence during the
-It is understandable that in the face of a pandemic
-like COVID-19, the population, the media and health
-professionals are anxious to obtain information
-about diagnostic tests, treatment alternatives and the
-prognosis of the disease. As it is an unknown disease,
-series studies. The problem is that, in the eagerness
-to obtain quick answers, these case series have been
-used to gather information about the effectiveness of
-different treatments. However, this study design is a
-precarious and rudimentary way of evaluating the
-effectiveness of treatments, with serious consequences,
-including the large-scale adoption of treatments that
-can increase morbidity and risk of death.
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-COVID-19 may be an unknown disease, but its
-consequences are known to doctors. For example, fever,
-pain, shortness of breath, and the other symptoms
-related to COVID-19 are familiar situations that doctors
-are used to dealing with. The clinical management
-of various diseases, not only COVID-19, consists of
-offering palliative and supportive care. Often it is
-the patients own defensive mechanisms that react
-effectively, independently of the medical treatment
-received. With COVID-19 it is no different. The vast
-majority of patients react and recover from the
-In addition, there are medical and pharmacological
-resources to help patients cope with COVID-19,
-such as analgesics, antipyretics, oxygen masks,
-mechanical respirators; these resources can be lifesaving. There is then a standard care to help patients
-with COVID-19. Therefore, the question we have to
-answer is the following: do patients who receive a
-certain drug (any new drug or an existing drug, but
-not yet used in patients with COVID-19), in addition
-to the standard care, show improved prognosis of
-COVID-19 (that is, reduced risk of dying, sequelae
-or length of hospital stay) in comparison to patients
-who receive standard care only? Let us see how case
-series cannot answer this question. For example,
-it may be that the risk of dying in hospitalized
-patients infected with SARS-CoV-2 who receive
-standard care is 8%. A drug, in addition to standard
-care, would have to reduce this risk from 8% to, for
-example, 4% to be considered effective. Imagine a
-doctor who treated 100 patients with standard care
-associated with this drug. He noticed that only 8
-that he treated 100 patients with the drug and only
-8 died, concluding that the drug is a success. As
-there were no patients receiving only the standard
-care, he could not realize that even without the drug
-the number of patients dying would also be 8. The
-lack of a comparison group makes the case series
-a precarious modality of study design to discover
-effective treatments for COVID-19.
-As there is no known effective treatment
-specific to COVID-19, a source of information may
-be the experience and feeling of the physicians
-when evaluating each patient individually (gut
-Braz. Oral Res. 2020;34:e068
-feeling). This lack of evidence allows the ethical use
-of experimental treatments, still without scientific
-proof of effectiveness, the so-called compassionate
-use.29 This experimental situation should be made
-explicit and shared by the doctor with the patient
-and the patients family in order to decide whether
-the doctor will only provide the standard care or
-associate it with an experimental drug. The problem
-is that there are physicians who cannot conceive
-that something they believe in so much has to be
-considered an experimental treatment.
-The search for effective treatments or preventive
-measures should rely on the randomized controlled
-trial (RCT). This is the study design that provides the
-most robust and reliable evidence. At this moment
-of so much doubt and fear, the RCT should be
-emphasized even more. It is worth noting that one
-of the frustrations usually associated with the RCT
-is the long time it takes to be performed, especially
-when researchers have to follow participants for
-long periods of time until the outcomes of interest
-occur. In the case of COVID-19, because it is a fast
-course disease, the outcomes of interest (e.g., death,
-length of stay and lung damage) occur within one
-or two months; this allows the RCT to be completed
-in a relatively short time.
-Better than one RCT are all the RCTs already
-of RCT provides the best answer about treatment
-to complete, so we have seen an increasing number
-provided that all steps are maintained and there is
-no loss of quality during the process. This is possible
-automated and when experienced researchers dedicate
-their time exclusively to this work.30
-Preprints is another method for sharing scientific
-evidence during the COVID-19 pandemic. These are
-Preprints in the health area have recently gained
-more attention because the storage capacity of the
-repositories is much greater than that of conventional
-Nadanovsky P, Santos APP
-available study results that can have an immediate
-impact on the management of the disease. Many
-health policies during the pandemic are being guided
-by preprints.32 The negative side of the preprint is
-publication of studies with gross methodological
-errors that threaten confidence in the results. The
-positive side is the rapid dissemination of results and
-visibility, allowing the scientific community to have
-quick access to the study and make their critiques
-and contributions openly.
-An extraordinary amount of research has been
-carried out recently on several topics related to
-COVID-19. While this shows the admirable effort
-and vigour of the scientific community to react
-quickly to seek solutions, it also reveals a lack of
-coordination to minimize duplication of efforts and
-maximize available resources. For example, there are
-more than 1,500 records of ongoing studies related
-Of these, more than 900 are RCTs, of which more
-than 400 are currently recruiting participants.
-Many studies with the same hypotheses lead to
-a competition for participants, besides being a
-missed opportunity to test different hypotheses.34
-There are several small and isolated RCTs testing
-the same drugs, some of which will probably not
-manage to recruit enough patients to be able to detect
-differences between the groups being compared.35
-It would be better to perform multicentric, adaptive
-RCTs, which test a range of potential treatments
-simultaneously and are able to recruit patients with
-different profiles and varied clinical conditions
-more quickly. An example of this type of RCT is
-the Recovery Trial.36 In addition, it is important that
-there is a monitoring system to avoid publication
-bias. There are attempts to create a register that
-captures all RCTs related to COVID-19.37 There has
-also been much duplication of effort in conducting
-May 18, 2020, there were 925 records of systematic
-50 aim to evaluate the effectiveness and/or safety of
-chloroquine/hydroxychloroquine (alone or combined
-with another drug) in treating COVID-19.38
-The frantic search for a miracle drug is dangerous
-because it is based on and leads to the mistaken belief
-that any treatment option is better than nothing,
-after all, what harm can a drug do when there is
-no other treatment option available? However, it is
-not true that there is nothing. As argued already,
-there is the standard care and the natural defence
-mechanisms of the individual against the disease.
-In addition, medications have adverse effects, often
-severe, and only by carrying out an RCT is it possible
-to know whether a medicine does more good than
-harm. That is, when a drug with an unknown clinical
-effect (or known, but in patients with other diseases)
-is administered to patients with severe diseases, such
-as COVID-19, there is no way to know whether the
-patients have benefited or harmed themselves unless
-they have been compared to a control group.39
-The case of chloroquine and hydroxychlorine is
-emblematic. One of the main appeals of these drugs
-is that they have been used for many years to treat
-patients with malaria, lupus, rheumatoid arthritis
-and other autoimmune diseases. This would already
-ensure their safety. However, this is indirect evidence:
-they may be safe for those, but harmful for COVID19 patients. Nevertheless, in the last few months
-they have gained prominence, as some physicians
-and researchers have begun to consider them as an
-option for the treatment of COVID-19. In March 2020,
-the WHO approved studies with these drugs for the
-treatment of patients with COVID-19. World leaders
-were enthusiastic about these drugs and advocated
-that they would be the cure for COVID-19; this caused
-a frantic search for these drugs in pharmacies, leaving
-patients with other diseases without access to them.
-Promising in vitro studies and preliminary results of
-clinical studies with poor methods led to a distorted
-view of reality, causing many physicians, the media
-and the population to believe in this miracle drug.
-There are several reports on social networks of people
-claiming that they have been saved by chloroquine
-or hydroxychloroquine. Obviously, no individual
-can know whether or not he was saved by some
-treatment, because it is not possible to know whether
-he would have survived or recovered in the absence
-of the treatment.
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-This unscientific atmosphere, fostered by some
-political leaders, physicians and researchers, makes
-the execution of RCTs difficult. People hear in the
-media that chloroquine and hydroxychloroquine are
-effective and safe. Thus, patients and family members
-may not agree to participate in studies where they
-will be randomly allocated either to chloroquine/
-hydroxychloroquine, or another drug or a placebo.40
-Who will agree to receive another drug or a placebo
-when an effective and safe drug is available?
-Unfortunately, many of the studies conducted on
-COVID-19 used poor methods, including those that
-aimed to evaluate the effectiveness of chloroquine
-and resources. 41 Several clinical studies were
-conducted without a control group. There was also
-a comparison with a historical control group, not
-internal to the study, which eliminated the crucial
-role of randomization.42 In many studies there was
-also no blinding of the assessment of the outcome,
-and often the outcomes used were subjective, such as
-improvement of symptoms or radiological imaging35.
-safety of hydroxychloroquine and chloroquine for
-COVID-1943 included, so far, 120 comparative clinical
-studies, but 109 are still ongoing, so the results refer
-to 11 studies with available data: three randomized
-open clinical trials (China), one non-randomized
-clinical trial (France), one prospective cohort (China)
-and six retrospective cohort (USA, United Arab
-Emirates, China and multinational). All studies
-presented limited methodological quality and were
-heterogeneous regarding several aspects, such as study
-design (randomized and non-randomized), outcomes
-(negative viral load, radiological progression, time for
-clinical improvement, need for mechanical ventilation,
-intensive care unit lengths of stay, adverse effects,
-mortality), severity of disease (mild or critical); dose
-of hydroxychloroquine (200, 400 and 600 mg/day);
-method of data analysis (intention to treat and per
-The results of these studies are somewhat controversial
-and the risk of bias is high, which compromises the
-confidence in the results. Therefore, the efficacy and
-safety of hydroxychloroquine and chloroquine in
-patients with COVID-19 are still uncertain and we
-Braz. Oral Res. 2020;34:e068
-should wait for the results of ongoing randomized
-clinical trials for a better understanding of the effects
-of this drug in patients with COVID-19.
-Given the emergency situation and the search
-for effective treatments, other drugs used for other
-diseases have been studied and identified as possible
-treatment alternatives for COVID-19, among them
-remdesivir, ivermectin and heparins. However,
-so far, there is not enough evidence to establish
-the real harms and benefits of these drugs for the
-treatment of COVID-19.44,45,46 There are many studies
-in progress and, as new evidence becomes available,
-recommendations on the use of these drugs for the
-treatment of COVID-19 may change.
-At this time of crisis, world leaders, public health
-kinds of media must be careful to seek and disseminate
-reliable information in order not to support the use
-of therapies of unproven effectiveness. Their claims
-influence the belief and behaviour of the population,
-leading, for example, to an increase in internet searches
-for purchasing these unproven drugs.47
-In the absence of evidence of effectiveness and
-safety of a drug, standard treatment may be the
-best option. We must be careful not to fall into the
-temptation to give in to obscurantism and weaken
-science. However, as we have already pointed out,
-there are two perspectives that we must accommodate:
-the individual case of each doctor-patient dyad and
-public policy. On the one hand, doctors may face
-difficult clinical situations where the patient is getting
-sicker and she feels that she should try a specific
-medication beyond the standard care. In such cases,
-with the consent of the family and awareness of the
-uncertainties regarding effectiveness and safety,
-the doctor could prescribe these medications as a
-last resort. On the other hand, it is irresponsible
-to adopt a public policy for the prescription of any
-drug without proven benefits and safety from RCTs.
-In addition to the extensive search for treatment
-for COVID-19, many researchers are seeking an
-effective vaccine. There are more than 100 vaccines
-being developed.48 International scientific leaders and
-experts in infectious disease epidemiology believe
-Nadanovsky P, Santos APP
-that the only way to get back to normal life will be
-when an effective vaccine is available for the entire
-world population.12
-The production of a vaccine is a time-consuming
-process and obtaining a vaccine within a period of
-one to two years would be unprecedented. The safety
-of the vaccine is a crucial aspect to be investigated
-as it could make subsequent infection with SARSCoV-2 more severe.49
-The Human Challenge Studies may accelerate
-this process, as they require fewer participants and
-shorter follow-up time than the usual effectiveness
-and safety studies. In these studies, participants get
-infected on purpose in a controlled experimental
-setting, rather than waiting for the infection to occur
-naturally. Volunteers are young, healthy and living
-in areas where the virus is circulating. They would
-be monitored and receive treatment if they became
-ill. The two main limitations of this proposal are
-a) obtaining evidence of effectiveness in a specific
-group (young and healthy) other than the group most
-in need of the vaccine (elderly and chronically ill);
-and b) the risk of death of a healthy volunteer, even
-if small, since there is no effective treatment for the
-disease. Still, there are compelling arguments that
-make this proposal feasible and promising.50
-The wearing of masks by the entire population is
-controversial. Its use is defended by the precautionary
-principle, which says that in cases of serious or
-irreversible threats to health or ecosystems, recognizing
-that there is scientific uncertainty should not be used
-as a reason to postpone preventive measures.51 If
-on the one hand there is a lack of robust evidence
-from RCT, on the other hand we are facing a highly
-transmissible disease, against which we have no
-immunity and which is causing deaths and collapse
-in health systems. The logic would be that the mask
-would protect the other, because the user would
-not expel contaminated droplets if she were an
-asymptomatic (or symptomatic) carrier. However,
-it can be argued that it would also protect the user,
-as it would be a barrier preventing contaminated
-droplets from the other reaching the users mouth
-and nose. Due to the lack of evidence, researchers
-questioned the benefit and warned about the possible
-adverse effects related to the wearing of masks by the
-general public, such as its misuse and the false sense
-of security. Mask wearing could lead to relaxation
-(or devaluation) of other preventive methods, such
-as social distancing and hand washing. 52 Those
-who argue in favour remind that no RCT has been
-performed to assess the effects of lockdown or hand
-washing either.
-Possibly, the best justification in favour of wearing
-a mask, even in the absence of evidence from RCT,
-would be the low potential for harm, as opposed to
-taking drugs without evidence from RCT, which has
-high potential for harm. However, it is intriguing
-and frustrating to notice the enormous amount of
-registered RCTs for testing drugs compared to the
-minimum amount for evaluating the effect of masks,
-a simple and inexpensive intervention.53,54
-In order to implement any strategy aimed to
-control the pandemic and preserve the economy,
-the country needs leadership that centralizes and
-coordinates actions. Unfortunately, the Brazilian
-government is not fulfilling this role; on the contrary,
-it is a hindrance. This negative leadership and lack
-of coordination are causing many deaths and are
-severely damaging the lives of survivors by delaying
-the resuming of economic and social activities.
-At this moment it is not possible to predict when
-the first wave of this pandemic will be under control in
-Brazil, what (and how) economic and social activities
-will be compatible with pandemic control, and when
-(and if) there will be specific effective vaccine or
-Brazilian society will not be able to maintain the
-lockdown for a long period. Naturally, in the near
-future, regardless of the advice from scientists, doctors
-reopen. A lack of a responsible and proactive central
-leadership in consonance with the best scientific
-evidence, increases the risk of a tragedy in the near
-future. Unless we take urgent action, there may be
-an economic debacle, social unrest and a slaughter
-never witnessed by current generations.
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19 pandemic
-1. World Health Organization. WHO Director-Generals opening remarks at the media briefing on COVID-19 - 11 March 2020. 2020 Mar
-4. Kimball A, Hatfield KM, Arons M, James A, Taylor J, Spicer K, et al. Asymptomatic and presymptomatic SARS-CoV-2 infections in residents of a
-long-term care skilled nursing facility - King County, Washington, March 2020. MMWR Morb Mortal Wkly Rep. 2020 Apr;69(13):377-81.
-5. Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic transmission of SARS-CoV-2 - Singapore, January 23-March 16,
-2020. MMWR Morb Mortal Wkly Rep. 2020 Apr;69(14):411-5.
-6. Wolfel R, Corman VM, Guggemos W, Seilmaier M, Zange S, Muller MA, et al. Virological assessment of hospitalized patients with
-12. Kissler SM, Tedijanto C, Goldstein E, Grad YH, Lipsitch M. Projecting the transmission dynamics of SARS-CoV-2 through the
-13. Hallal PC, Horta BL, Barros AJD, Dellagostin OA, Hartwig FP, Pellanda LC, et al. Evoluo da prevalncia de infeco por COVID-19 no
-14. Estado do Rio Grande do Sul. Secretaria de Planejamento, Oramento e Gesto. Epicovid19. Epidemiologia da COVID-19 no Rio
-16. Nadanovsky P. Nmero dirio registrado de novas mortes pela COVID-19 nas trs primeiras semanas aps a primeira morte registrada
-18. Nadanovsky P. Por que o Brasil, mesmo depois de mais de quatro semanas de confinamento domiciliar, ainda apresenta aumento no
-19. Nadanovsky P. Est errado comparar o nmero de mortes pela COVID-19 entre pases sem considerar o tamanho da populao em cada
-22. Thomas P. J-value assessment of how best to combat Covid-19. Nanotechnology Perceptions. 2020;16:16-40.
-23. Mellan TA, Hoeltgebaum HH, Mishra S, Whittaker C, Schnekenberg RP, Gandy A, et al. Report 21: Estimating COVID-19 cases and
-Braz. Oral Res. 2020;34:e068
-Nadanovsky P, Santos APP
-27. Alon U, Milo R, Yashiv E. 10-4: How to reopen the economy by exploiting the Coronaviruss weak spot. 2020 May 11. Available from:
-28. Wu Z, McGoogan JM. Characteristics of and Important lessons from the Coronavirus disease 2019 (COVID-19) outbreak in China:
-summary of a report of 72 314 cases from the Chinese center for disease control and prevention. JAMA. 2020;323(13):1239-1242.
-31. Kupferschmidt K. Preprints bring firehose of outbreak data. Science. 2020;367(6481):963-4.
-32. Majumder MS, Mandl KD. Early in the epidemic: impact of preprints on global discourse about COVID-19 transmissibility. Lancet Glob
-35. Bauchner H, Fontanarosa PB. Randomized clinical trials and COVID-19: managing expectations. JAMA. 2020 May 4.
-37. Thorlund K, Dorn L, Park H, Hsu G, Forrest JI, Mills EJ. A real-time dashboard of clinical trials for COVID-19. Lancet Digital Health 2020
-39. Kalil AC. Treating COVID-19 - Off-Label Drug Use, Compassionate Use, and Randomized Clinical Trials During Pandemics. JAMA.
-40. Ledford H. Chloroquine hype is derailing the search for coronavirus treatments. Nature. 2020 APR;580(7805):573.
-41. Alexander PE, Debono VB, Mammen MJ, Iorio A, Aryal K, Deng D, et al. COVID-19 research has overall low methodological quality thus
-42. Borba MGS, Val FFA, Sampaio VS, Alexandre MAA, Melo GC, Brito M, et al. Effect of high vs low doses of chloroquine diphosphate as
-adjunctive therapy for patients hospitalized with severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) infection: a randomized
-43. Pacheco RL, Pachito DV, Bagattini AM, Oliveira Junior H, Riera R. Hidroxicloroquina e cloroquina para COVID-19: reviso sistemtica
-44. Pan American Health Organization. World Health Organization. Ongoing living update of potential COVID-19 therapeutics: summary of
-45. Riera R, Bagattini AM, Pachito DV, Medeiros FC, Brito GV, Matuoka JY, et al. Heparinas para infeco por SARS-CoV-2 (COVID-19):
-46. Riera R, Pacheco RL, Latorraca COC, Fontes LE, Martimbianco ALC. Remdesivir para infeco por SARS-CoV-2 (COVID-19). Reviso
-47. Liu M, Caputi TL, Dredze M, Kesselheim AS, Ayers JW. Internet searches for unproven COVID-19 therapies in the United States. JAMA
-50. Eyal N, Lipsitch M, Smith PG. Human challenge studies to accelerate Coronavirus vaccine licensure. J Infect Dis. 2020;221(11):1752-6.
-Geneva: World Health Organization; 2004.
-52. Cheng KK, Lam TH, Leung CC. Wearing face masks in the community during the COVID-19 pandemic: altruism and solidarity. Lancet.
-53. Greenhalgh T, Schmid MB, Czypionka T, Bassler D, Gruer L. Face masks for the public during the Covid-19 crisis. BMJ. 2020;369:m1435.
-Braz. Oral Res. 2020;34:e068
-Strategies to deal with the COVID-19
-pandemic. Braz Oral Res. 2020;34:e068.
-Where is read:
-Paulo NADANOVSKY(a)
-Ana Paula Pires dos SANTOS(a)
-Universidade do Estado do Rio de Janeiro  UERJ, Faculdade de
-Departamento de Odontologia Preventiva e Comunitria, Rio de Janeiro,
-RJ, Brasil.
-It should read:
-Paulo NADANOVSKY(a,b)
-Ana Paula Pires dos SANTOS(c)
-Fundao Oswaldo Cruz  Fiocruz, Escola Nacional de Sade Pblica,
-Departamento de Epidemiologia e Mtodos Quantitativos em Sade, Rio
-de Janeiro, RJ, Brazil.
-Universidade do Estado do Rio de Janeiro  UERJ, Instituto de Medicina
-Social, Departamento de Epidemiologia, Rio de Janeiro, RJ, Brazil.
-Universidade do Estado do Rio de Janeiro  UERJ, Faculdade de
-Odontologia, Departamento de Odontologia Preventiva e Comunitria,
-Rio de Janeiro, RJ, Brazil.
-Braz. Oral Res. 2020;34:e068err
+Behavioral  Sciences  Strategies  to deal with the COVID‐19 Paulo
+NADANOVSKY(a, b) Ana Paula Pires  dos  SANTOS(c)  Fundao  Oswaldo
+Cruz   Fiocruz,  Escola  Nacional de Sade Pblica, Departamento de
+Epidemiologia e Mtodos Quantitativos em Sade, Rio de Janeiro, RJ,
+Brazil.  Universidade do Estado do Rio de Janeiro
+ UERJ,  Instituto de Medicina Social, Departamento de Epidemiolo‐
+gia, Rio de Janeiro, RJ, Brazil.  Universidade do Estado  do  Rio
+de Janeiro
+ UERJ, Faculdade de Odontologia, Departamento de Odontologia Pre‐
+ventiva e Comunitria, Rio de Janeiro,  RJ,  Brazil.   associative
+interest  that  represents a conflict Paulo Nadanovsky Submitted:
+May 20, 2020 Last revision: June  4,  2020  Abstract:  The  World
+Health  Organization  declared  a  COVID‐19 pandemic on March 11,
+2020, when there were 4,293 confirmed cumulative deaths.  By  May
+17,  2020 this number increased to 315,005.  The risk of death is
+higher above the age of 60, but there are many  deaths  below  60
+(for example, in Sao Paulo, 25%). Due to the lack of a vaccine or
+specific treatment, there are at least three types  of  interven‐
+tions  used  in the first wave of this pandemic: increased alert‐
+ness and hygiene (e.g. Sweden); identification and  isolation  of
+infected  people  and their contacts (e.g. South Korea); lockdown
+(e.g. Italy). These interventions are complementary.  Choices  of
+the  right mix of interventions will vary from society to society
+and in the same society at different times. The search for a mir‐
+acle drug is dangerous because it is based on the mistaken belief
+that any treatment option is better than nothing. Brazilian soci‐
+ety  will  not  be  able  to maintain lockdown for a long period.
+Naturally, in the near future, regardless of the advice from sci‐
+entists,  In order to implement any strategy aimed to control the
+pandemic and preserve the economy, the country  needs  leadership
+that  centralizes  and  coordinates  actions.  Unfortunately, the
+Brazilian government is not fulfilling this  role;  on  the  con‐
+trary,  it  is  a hindrance. This negative leadership and lack of
+coordination are causing many deaths and  are  severely  damaging
+the  lives  of survivors by delaying the resuming of economic and
+social activities.  Keywords: Coronavirus  Infections;  COVID‐19;
+Pandemics;  Public  Health;  Evidence‐Based  Practice.  The World
+Health Organization (WHO) declared a COVID‐19 pandemic, the  dis‐
+ease  caused by the new coronavirus SARS‐CoV‐2 (Severe Acute Res‐
+piratory Syndrome ‐ Coronavirus ‐ 2), on March 11, 2020,1 the day
+on  which  269 new deaths were confirmed in the world (with 4,293
+cumulative deaths confirmed as of  that  date).  Brazil  had  the
+first  recorded death on March 17, 2020, the day on which 596 new
+deaths were confirmed in the world; on May 17,  2020  Brazil  and
+the  world  accumulated 16,118 and 315,005 deaths, respectively.2
+The threat of COVID‐19 is revealed not only  by  the  numbers  of
+people infected and deaths, but mainly by the number of suscepti‐
+ble people in Braz. Oral Res.  2020;34:e068  Strategies  to  deal
+with the COVID‐19 pandemic the population who may become infected
+and the rate at which this occurs. SARS‐CoV‐2 is a new  virus  to
+which  the human population has no immunity. The transmission oc‐
+curs mainly through droplets and aerosols when the person  talks,
+coughs  or  sneezes.  The incubation period is five days (median)
+and ranges from two to 14 days. 3 It appears that 25% of infected
+people  are asymptomatic, i.e., they do not present symptoms dur‐
+ing the entire period of infection, but new and better  serologi‐
+cal  surveys  can reveal different percentages. People presenting
+the symptomatic forms of the disease go through a  presymptomatic
+phase,  which appears to last for about four days, and may infect
+other people during this phase.4,5 It seems that the  viral  load
+is  highest  at the time the symptoms appear, suggesting that in‐
+fectivity peaks before the symptoms appear,  which  can  lead  to
+much pre‐symptomatic transmission.6 Why is each person potential‐
+ly responsible for the death of others?  We are  facing  a  virus
+with  relatively high or moderate transmissibility and apparently
+low lethality (infection fatality ratio), although over 60  years
+of  age  the  mortality among symptomatic cases is high: 60 to 69
+years 4%; 70 to 79 years old 8%; over  80  years  old  15%.7  The
+problem is that even a relatively low lethality, when spread over
+a large number of people, leads to a large number  of  deaths  in
+the  population.8  This is because there is no specific effective
+treatment to cure or prevent death by COVID‐19.  Another  problem
+is  that  although  SARS‐CoV‐2  often causes asymptomatic or mild
+illness (cough, fever, pain, and  malaise),  a  small  proportion
+will develop severe morbidity requiring specialized care, includ‐
+ing respirators and intensive care unit beds. Even in the absence
+of effective specific treatment, care is crucial to limit suffer‐
+ing.  In other words, the probability of a healthy  person  under
+the age of 60 contracting the virus and requiring hospitalization
+is small. However, as there are millions of healthy people  under
+the  age  of  60  in  the population, even this small probability
+leads to a large number of people being admitted to hospital.  In
+So  Paulo, between March 17 and April 30, 2020, 3,877 people died
+with suspected or  confirmed  COVID‐19,  being  Braz.  Oral  Res.
+2020;34:e068 966 under 60 (25%) and 2,911 60 or over (we used da‐
+ta from Sao Paulo because it is the most reliable data in Brazil;
+data until April 30 2020 because there is a delay in the register
+of deaths; accessed May 17 2020).  In order to cause 966  deaths,
+the  number  of  people  in this age range who were infected must
+have been at least 100 times higher, i.e., 96,600, since lethali‐
+ty is less than 1% in this age range. As each infected person in‐
+fects on average two to three people, 96,600 infected people can,
+in less than two weeks, infect 241,500 (96,600 x 2.5) new persons
+and so on.9 The circulation of infected people is common, as many
+are  asymptomatic  and  pre‐symptomatic.  So,  when you circulate
+around the city (playing football in the park or on the beach and
+socializing  with a group of friends), you can contract the virus
+and, without realizing it, infect two to three people. When  your
+infection has generated 100 infected people, the probability of a
+person among those 100 dying by COVID‐19 is high. So, the  proba‐
+bility  of 100 infected people generating a death is high, but of
+one infected person (e.g. you) dying is low. That is why  staying
+at home during an epidemic outbreak, where the number of infected
+people is rising and there is no vaccine or effective  treatment,
+is an altruistic act.10 How do we know whether the pandemic is We
+must understand the importance of time (or speed) to measure  the
+severity  of  the  COVID‐19 situation. The number of deaths or of
+patients that need hospital intensive care may not be  extraordi‐
+nary  if we use an annual time scale. However, on a daily, weekly
+and possibly monthly time scale, the  severity  of  the  COVID‐19
+pandemic  is  extraordinary.  There is an indicator of the trans‐
+missibility potential of  an  infectious  disease  called  R0  (R
+nought, or basic reproductive number), which denotes, on average,
+the number of people who get infected by each infected person  in
+a  population of susceptible individuals.  Similarly, there is RE
+(effective reproductive number), which is the actual  transmissi‐
+bility  of  the  disease during the epidemic when there is an in‐
+creasing number of people with antibodies to the virus. R0 can be
+understood  as  what  can  potentially occur and RE what actually
+(effectively) occurs. The only difference  Nadanovsky  P,  Santos
+APP  between  R0  and RE is that RE is not dependent on the whole
+population being susceptible.11 R0 depends not only on  intrinsic
+aspects of the virus, but also on environmental circumstances, be
+they cultural (e.g.  habit of hugging, kissing, physical  contact
+in  general) or housing (e.g. slums with small houses, very close
+to each other and with many people living  together).   In  addi‐
+tion,  home confinement and social isolation measures also influ‐
+ence R0.12 In this case, R0 will vary depending on  economic  as‐
+pects  (difficulty  in  adhering to the recommendation to stay at
+home, as there is a need to work daily to survive; lack of access
+to  piped  water) and on social aspects (little confidence formal
+education making it difficult to obtain  correct  information  on
+how  to  deal with this pandemic). This means that the SARS‐CoV‐2
+R0 may be different in two countries or two cities  even  if  the
+virus is genetically identical in those places.  The lower the R0
+or RE the better, as it means  that  the  epidemic  is  spreading
+less. Values of RE>1 mean that the epidemic is increasing, RE = 1
+it is stabilized and RE < 1 the epidemic is decreasing.   A  more
+reliable response about the spreading of the virus in Brazil will
+come when serological surveys for specific  antibodies  to  SARS‐
+CoV‐2 are performed periodically on representative samples of the
+population. Fortunately, these studies are already being conduct‐
+ed.  The first state to start was Rio Grande do Sul (RS) on April
+11, 2020 and four phases with a two‐week  interval  between  them
+were  planned.13  In the first phase, 4,189 people were tested on
+April 11‐13 and two were positive for antibodies (IgM  and  IgG).
+Two  weeks later on April 25‐27, 4,500 people were tested and six
+were positive. On May 9‐11, 4,500 were tested and 10  were  posi‐
+tive.  The  population  in  RS had antibodies in the first phase,
+0.13% in the second and 0.22% in the third. These numbers  trans‐
+lated  to  5,650 people with antibodies in RS on April 13, 15,066
+on April 27 and 24,860 on of the third  survey  that,  for  every
+million  inhabitants  in RS, 2,200 were infected. As at that time
+there were only 248 reported cases, they concluded that for  each
+case  reported  in the RS there were nine unreported the case fa‐
+tality ratio in RS based on COVID‐19 with this ratio based on the
+real  number  of cases estimated in the third RS survey (24,860).
+As there were 105 confirmed COVID‐19 deaths in RS, the  case  fa‐
+tality ratio (lethality) applying these two alternative denomina‐
+tors was 4.0% and 0.42%, respectively.14 This study is being con‐
+ducted in the other Brazilian states (133 cities that will repre‐
+sent the dissemination of SARS‐CoV‐2 in each of  the  27  states)
+and  it  was  planned to consist of three surveys (phases) on May
+12, May 21 and June 7, with 33,250 participants  in  each.   Non‐
+pharmacological measures to combat the pandemic Since there is no
+vaccine, which would reduce the number of susceptible  people  in
+the  population,  what would be the other way to reduce this num‐
+ber? By allowing the infection to follow its  natural  course  so
+that after a period of time the number of people who have created
+antibodies reaches a sufficient proportion to achieve RE < 1. De‐
+pending on the R0, there is a proportion of people in the popula‐
+tion who has to develop antibodies in order to eliminate the dis‐
+ease ((R0‐1)/R0). For example, if COVID‐19 R0 = 3 in Brazil, when
+67% of the population has created antibodies  to  SARS‐CoV‐2,  we
+can  assume  that  the  epidemic will not sustain itself and will
+soon be eliminated.  To get a perspective of what this  means  in
+real  life, let us look at what happened in Spain during the most
+critical period of the first wave of the pandemic in  that  coun‐
+try.  There,  between March 5 and May 17, 2020, there were 27,650
+deaths recorded by COVID19 (the peak was in early April 2020 with
+950  deaths  recorded  daily). It is estimated that, despite this
+large number of deaths, only 5% of the population  has  been  in‐
+fected and has produced antibodies.15 If it is necessary that 60%
+of the population develop immunity in order to achieve  RE  <  1,
+Spain  would have to experience what it went through at that For‐
+tunately, it appears that lockdown as of March  14  substantially
+reduced  the  pandemic in Spain and there was already a reduction
+in the number of new deaths detected three weeks after the  start
+of  the  Braz. Oral Res. 2020;34:e068 Strategies to deal with the
+COVID‐19 pandemic lockdown;16 this reduction has shown itself  to
+be large and consistent since then.17,18 There are at least three
+types of non‐pharmacological interventions that have been used to
+deal with the first wave of this pandemic: a) Increased alertness
+and hygiene (e.g. Sweden); b) Identification and isolation of in‐
+fected  people and their contacts (e.g. South Korea); c) Lockdown
+(e.g. Italy).  A) Increased alertness and hygiene  (e.g.  Sweden)
+Increased alertness and hygiene are changes in behaviour aimed at
+the entire population, so that everybody is alert  to  avoid  ag‐
+glomeration,  physical contact and intensify hand washing, clean‐
+ing of personal objects and surfaces. It is necessary to  involve
+the  whole  population,  because asymptomatic and pre‐symptomatic
+people can transmit the virus for several  days  without  knowing
+that they are infected. This increased alertness and hygiene were
+also adopted in the places where interventions b and c above were
+applied;  that  is, interventions b and c include intervention a.
+There are differences within each of these three types of  inter‐
+vention.  For example, it was part of the increased alertness and
+hygiene in South Korea (in Asian countries generally) for  every‐
+one  to  wear  a  mask  on the streets, but not in Sweden. But it
+seems that avoiding crowding and intensifying  personal  hygiene,
+especially  hand washing, was a measure that all countries adopt‐
+ed.  If effective, this is possibly the best type of intervention
+because  it  keeps  social and economic activities going and does
+not spend resources in screening programs to identify and isolate
+infected  people. To be effective it depends on a population with
+a good level of formal education, cooperation, In addition,  this
+type  of intervention depends on a competent leadership, that is,
+well informed, coordinated, proactive, consistent,  firm,  objec‐
+tive and clear.  It is worth warning though, that among the Scan‐
+dinavian countries, Sweden has had the highest number  of  deaths
+by  COVID‐19  to  date,  May 17, 2020: Sweden 3.674; Denmark 543;
+Norway 232; note that it is not necessary to consider the size of
+the population Braz. Oral Res. 2020;34:e068 to compare the number
+of COVID‐19 deaths between countries.19 The overall  excess  mor‐
+tality  during  the outbreaks in each of these countries was also
+higher in Sweden: Sweden 3,000 more deaths than usual (29%); Den‐
+mark  200 more deaths (6%); Norway 0 more deaths (0%).20 B) Iden‐
+tification and isolation of infected persons and  their  contacts
+(e.g.  South  Korea) This intervention emphasizes identifying in‐
+fected people and their contacts  through  diagnostic  tests  for
+virus  detection  and  their  confinement  for a period of two to
+three weeks. This intervention is expensive, difficult to  imple‐
+ment, and requires a major effort to recruit and train workers to
+perform the tests and the population to adhere  to  the  constant
+tests (which involves unpleasant procedures such as having a swab
+introduced deep in the nose or the throat).  The  development  of
+complex  technological  and logistical resources using, for exam‐
+ple, connected mobile phone networks and  testing  points  across
+the country may be necessary in order to implement efficient con‐
+tact tracing and testing in large cities.21  Testing  has  to  be
+carried  out  frequently  and  on a large scale. For example, one
+model, possibly one of the most parsimonious,  estimated  that  5
+million tests would be needed initially and then 20 million daily
+for this intervention to be successful in the USA.21 In addition,
+the  state  has to provide quarantine sites and financial aid for
+infected people who are unable to quarantine at home. This inter‐
+vention  presents ethical challenges related to the protection of
+privacy, nondiscrimination (that is, avoiding  prejudice  against
+infected people) and individual civil liberties.21 If well imple‐
+mented, it can be reassuring (people feel  reassured  that  there
+are almost no infectious people circulating between them) and ef‐
+fective in keeping the virus circulation restricted. As with  al‐
+ternative  a  above, this type of intervention also preserves so‐
+cial and economic activities in the country.  C)  Lockdown  (e.g.
+Italy)  Lockdown includes interventions such as closing trade and
+services, restricting transport and closing of the entire popula‐
+tion,  with  the  exception of essential Nadanovsky P, Santos APP
+workers (e.g. health and food  professionals,  and  the  police).
+This type of intervention is the last resort in the impossibility
+(or failure) of the two previous Strategies to end  the  lockdown
+Lockdown  may  be  effective in reducing the number of deaths and
+severe cases of COVID‐19, but it is not  a  realistic  option  to
+confine  people for many months. If economic activity becomes de‐
+pressed, at the level it remains during lockdown, for more than a
+few  months, the number of deaths caused by the economic downturn
+may be greater than that avoided by COVID‐19.22 There  is  really
+no  choice  between  protecting health or protecting the economy;
+protecting the economy is a fundamental part  of  health  protec‐
+tion.  Therefore,  we  must urgently create strategies to end the
+lockdown. It is important to recognize that  there  are  positive
+health  effects  of the lockdown, which offset, at least in part,
+its negative effects, such as a reduction in deaths and hospital‐
+izations due to: traffic crashes; violence; air pollution; virus‐
+es in general; gastrointestinal  diseases;  unnecessary  elective
+procedures  due  to overdiagnosis and overtreatment. In addition,
+the such as hand washing, should reduce the circulation of virus‐
+es  and microorganisms in general, reducing consequently reducing
+the contagion of parents, grandparents and family members in gen‐
+eral,  by  children  and  health professionals.  Brazil began the
+lockdown earlier in the course of  its  outbreak  (at  least  Sao
+Paulo  and  Rio  de  Janeiro) than other countries such as Italy,
+Spain, the United Kingdom and the  USA.16  Therefore,  it  seemed
+that  there would be fewer deaths and severe cases in Brazil than
+in these countries during the first wave  of  this  pandemic.  It
+seemed  plausible that the exit from the lockdown in Brazil could
+occur after a smaller trauma than in these other countries.  But,
+unfortunately,  it  seems  that  Brazil missed the opportunity to
+learn from the countries that preceded it during the  first  wave
+of  this  pandemic,  giving  signs that the number of deaths here
+will be even higher than  in  the  countries  that  suffered  the
+most.17  In  any  case,  the exit from the lockdown will occur at
+some point and it is expected that it will be  carried  out  cau‐
+tiously.  Caution  means  starting the exit only when there is an
+indication of RE < 1 (on May 8, 2020, none the five most affected
+Brazilian  states  seemed  to  have been able to reach RE < 1).23
+When this time comes, it will be necessary to emphasize  the  in‐
+vestment  in  increased alertness and hygiene like Sweden, and in
+the identification and isolation of  infected  people  and  their
+contacts  like  South Korea.  The identification and isolation of
+infected people and their contacts may be unrealistic for Brazil.
+If it has not been possible to apply this intervention so far, it
+seems unlikely that it will be applied at the  time  of  relaxing
+the  lockdown. This is an intervention that demands an investment
+that is possibly beyond Brazils capacity at this historical,  so‐
+cial  and  economic moment. If there is sufficient political will
+and effort from society to apply  this  intervention  though,  it
+will  reduce  the risk that in the coming months or years we will
+have to resort to lockdown periodically, which causes so much so‐
+cial,  psychological  and  economic harm.19 A precarious alterna‐
+tive, in the absence of diagnostic tests, would be to  focus  the
+identification  of infected persons among those who seek hospital
+care, have COVID‐19 confirmed and their contacts.  This  is  pre‐
+carious  because  it  does not identify many people with asympto‐
+matic, mild and pre‐symptomatic disease (but it is better than no
+surveillance  at all).  This alternative must be supported by the
+government through providing sites for quarantine  and  financial
+help  for  people who are unable to stay at home and stop working
+during quarantine.  Epidemiologic surveys  with  rapid  serologic
+antibody  tests11  are  likely to be the key tool to help us deal
+with this pandemic, which could last until 2022 (and even  resur‐
+face in 2025).12 These tests are likely to act as the speedometer
+that will indicate the rate of virus transmission; this will help
+us  accelerate and trade, exiting or starting lockdown, etc.  An‐
+other role to be considered for  serological  tests  is  In  this
+case,  the  objective is to identify people in the population who
+are able to leave home confinement Braz. Oral  Res.  2020;34:e068
+Strategies  to  deal  with the COVID‐19 pandemic and speed up the
+resumption of economic and social activities. The accuracy of the
+serological test for antibodies to SARS‐CoV‐2 currently in use in
+Brazil the usefulness of the test depends on  the  prevalence  of
+people  with  antibodies in the population. Even with a very good
+specificity (99%) a positive result is more likely  to  be  false
+than  true when the prevalence is 1%.  This means that for a per‐
+son with a positive result, the probability of not  having  anti‐
+bodies  is  greater than that of having antibodies. In possession
+of such should not feel reassured, as they are more likely to  be
+susceptible  than immunized.24 On the other hand, in a population
+with 10% or 20% of people with antibodies, a positive  result  in
+this  test shows a high probability that the person does have an‐
+tibodies and is no longer at risk of becoming infected or  infec‐
+tive.   These accuracy estimates are based on the aggregate popu‐
+lation and ignore the clinical history that would modify pre‐test
+probabilities.  Within the general population and special popula‐
+tions, such as health professionals, there are  individuals  with
+and  without  a  history  of  what sounds like COVID19, including
+those with no history, atypical, mild, moderate  and  severe.  In
+each  of these histories there is a different pre‐test probabili‐
+ty, which can vary from 2 to 80%, for example. In short, the use‐
+fulness  of this type of test to assist in the release of certain
+individuals, that is, in  providing  immunity‐based  (or  perhaps
+20%)  of people with antibodies in the reference population.24 It
+has not yet been proven whether antibodies to  SARS‐CoV‐2  confer
+immunity  and  if so, for how long.  Therefore, this type of test
+may be irrelevant if the antibodies do  not  confer  immunity  or
+confer  it  for a short period of time. For the time being, based
+on studies with monkeys and evidence of other viruses in  humans,
+it  is  assumed  that immunity has been acquired for at least two
+years.12 In the near future, the science behind this type of test
+is  expected  to be more conclusive. Assuming that antibodies are
+indeed neutralizing the virus for a long time;  that  the  preva‐
+lence of people with antibodies in populations is greater than 10
+or 20%, Braz. Oral Res. 2020;34:e068 or that  more  accurate  new
+tests  are  created,  and  reach 100% or almost 100% specificity,
+that is, rarity or absence of false‐positive results; these tests
+can  be  a  valuable aid to the prudent opening of society during
+epidemic waves in which society  has  been  placed  under  strict
+norms  of  limiting  mobility  and outside activities.  There are
+ethical and practical challenges that will need to  be  addressed
+by  societies  that  choose  to  issue including the following:25
+stigma (discrimination) increased inequality in favour  of  those
+who  can  afford  susceptible  to  fraud; errors in the test that
+would lead to issuing the licence to people who should not obtain
+it.  Experts  in bioethics made an excellent analogy were able to
+answer convincingly all questions and  concluded  that,  although
+immunity‐based  licensing  requires  care  for implementation and
+solid scientific support, none of the  objections  identified  so
+far  make  them  unethical  in principle.25 A strategy that would
+probably be prudent, fair and efficient to speed up exiting lock‐
+down is as follows: when the proportion of people with antibodies
+in the general population is small (< 10%), emphasize the identi‐
+fication  and isolation of the infected (frequent tests to detect
+the presence of the virus).21 When this proportion  exceeds  10%,
+also  emphasize  the  issuance  the  presence of antibodies.25 If
+there is not  enough  political  determination  and  coordination
+(competence)  or economic, social, technological or cultural con‐
+ditions to promote lockdown relaxation through virus and antibody
+detection  tests, the alternative will be trial and error type of
+relaxation. In this case, the end of and services and the release
+of  transportation may consist of the release of the entire popu‐
+lation at once at a given time. Alternatively, opening can  begin
+gradually,  for  example, in weekly waves, directing the lockdown
+relaxation to distinct occupational groups. For example,  it  may
+initially  release workers from sectors that depend most on being
+away from Nadanovsky P, Santos APP home to carry out their activ‐
+ities  (factory workers, construction workers, shopkeepers, etc.)
+and later those who are able to carry out a large part  of  their
+The  criteria  will obviously vary according to the specificities
+of each city, state and country.  The trial  and  error  type  of
+lockdown  relaxation is risky because a large number of suscepti‐
+ble, asymptomatic, pre‐symptomatic and infective individuals  are
+released  at  the  same  time, creating a social environment con‐
+ducive to virus transmission, which can lead to uncontrolled epi‐
+demic  and  in  a  short  time the need for new closures and even
+lockdown.  The advantages are the rapid and  vigorous  resumption
+of  economic  and  social activity and the faster increase in the
+number of infected individuals who will produce antibodies,  con‐
+tributing  to the reduction in the value of RE (all other factors
+remaining constant).  If this  type  of  lockdown  relaxation  is
+adopted  at  a  time when there is still much transmission of the
+infection, it can cause an increase in the number of severe cases
+above  what  the health services would be able to take; for exam‐
+ple, as of May 8, 2020, it was estimated that the five  most  af‐
+fected  Brazilian  states  had RE > 1, so, the epidemic was still
+growing.23 If the number of new cases does not  cause  disruption
+to the health service and a relatively small number of deaths oc‐
+cur, this alternative would be a success.  However, it is hard to
+believe  that  this success will be achieved when RE > 1.  In the
+end, the moment of exiting lockdown will not really be a  moment;
+historically,  considering  past pandemics, the end of a pandemic
+is diffuse and determined not only (and perhaps  not  mainly)  by
+medical  and  health considerations, but more by the social pres‐
+sure of people wanting to return to normal life.  The  population
+is  becoming  inpatient  and  gradually returning to normal life,
+even with the health risks and the high number  of  deaths.26  It
+try  to reduce the transmission of infection as much as possible,
+while there is social collaboration.  It is  plausible  that  the
+world  will  have  to  deal  with  the comings and goings of this
+COVID‐19 pandemic in the next two to four years.12 There  may  be
+critical  times  when other periods of lockdown will be necessary
+if effective treatment or vaccine is not available. Therefore, it
+is  important  that  we  not only in this first wave we are going
+through, but also for other similar  situations  in  the  future.
+Some  many  will  be  tested,  improved and adapted. For example,
+starting with a system based on a twoweek time schedule  (consid‐
+ering the incubation period of the virus), 10‐4, that is, 10 days
+at home and 4 out.27 are alternatives that do  not  exclude  each
+other.  On  the  contrary, they are complementary. The choices of
+the right mix will vary from society to society and in  the  same
+society  at  different times. Each of these strategies has advan‐
+tages and disadvantages that  vary  primarily  according  to  the
+prevalence  of  susceptible people in the population and the rate
+of infection transmission. Other important variables that  should
+be  considered are: available resources (diagnostic tests, places
+for physical isolation, health facilities to care for severe cas‐
+es);  socioeconomic  conditions  (financial  reserves  to sustain
+drastic reduction in economic activity,  housing  and  sanitation
+conditions,  population density); culture (discipline, confidence
+and social norms, hygiene habits).   Scientific  evidence  during
+the  It  is  understandable  that  in the face of a pandemic like
+COVID‐19, the population, the media and health professionals  are
+anxious  to  obtain information about diagnostic tests, treatment
+alternatives and the prognosis of the disease. As it  is  an  un‐
+known disease, series studies. The problem is that, in the eager‐
+ness to obtain quick answers, these case series have been used to
+gather  information  about  the effectiveness of different treat‐
+ments. However, this study design is a precarious and rudimentary
+way  of  evaluating the effectiveness of treatments, with serious
+consequences, including the large‐scale  adoption  of  treatments
+that  can  increase morbidity and risk of death.  Braz. Oral Res.
+2020;34:e068  Strategies  to  deal  with  the  COVID‐19  pandemic
+COVID‐19  may  be  an  unknown  disease, but its consequences are
+known to doctors. For example, fever, pain, shortness of  breath,
+and  the  other  symptoms related to COVID‐19 are familiar situa‐
+tions that doctors are used to dealing with. The clinical manage‐
+ment of various diseases, not only COVID‐19, consists of offering
+palliative and supportive care. Often it is the patients own  de‐
+fensive  mechanisms  that react effectively, independently of the
+medical treatment received. With COVID‐19 it is no different. The
+vast majority of patients react and recover from the In addition,
+there are medical and pharmacological resources to help  patients
+cope  with  COVID‐19,  such  as  analgesics, antipyretics, oxygen
+masks, mechanical respirators; these resources can be lifesaving.
+There  is  then  a  standard care to help patients with COVID‐19.
+Therefore, the question we have to answer is  the  following:  do
+patients  who receive a certain drug (any new drug or an existing
+drug, but not yet used in patients with COVID‐19), in addition to
+the  standard care, show improved prognosis of COVID‐19 (that is,
+reduced risk of dying, sequelae or length of  hospital  stay)  in
+comparison to patients who receive standard care only? Let us see
+how case series cannot answer this question. For example, it  may
+be  that the risk of dying in hospitalized patients infected with
+SARS‐CoV‐2 who receive standard care is 8%. A drug,  in  addition
+to  standard care, would have to reduce this risk from 8% to, for
+example, 4% to be considered  effective.  Imagine  a  doctor  who
+treated  100  patients  with  standard  care associated with this
+drug. He noticed that only 8 that he treated  100  patients  with
+the  drug and only 8 died, concluding that the drug is a success.
+As there were no patients receiving only the  standard  care,  he
+could  not  realize  that even without the drug the number of pa‐
+tients dying would also be 8. The  lack  of  a  comparison  group
+makes  the  case  series a precarious modality of study design to
+discover effective treatments for COVID‐19.  As there is no known
+effective treatment specific to COVID‐19, a source of information
+may be the experience and feeling of the physicians when evaluat‐
+ing  each  patient individually (gut Braz. Oral Res. 2020;34:e068
+feeling). This lack of evidence allows the ethical use of experi‐
+mental  treatments,  still without scientific proof of effective‐
+ness, the so‐called compassionate use.29 This experimental situa‐
+tion  should  be  made explicit and shared by the doctor with the
+patient and the patients family in order to  decide  whether  the
+doctor  will  only provide the standard care or associate it with
+an experimental drug. The problem is that  there  are  physicians
+who cannot conceive that something they believe in so much has to
+be considered an experimental treatment.  The search  for  effec‐
+tive treatments or preventive measures should rely on the random‐
+ized controlled trial (RCT). This is the study design  that  pro‐
+vides the most robust and reliable evidence. At this moment of so
+much doubt and fear, the RCT should be emphasized even  more.  It
+is  worth  noting that one of the frustrations usually associated
+with the RCT is the long time it takes to be performed, especial‐
+ly  when researchers have to follow participants for long periods
+of time until the outcomes of interest  occur.  In  the  case  of
+COVID‐19,  because  it  is a fast course disease, the outcomes of
+interest (e.g., death, length of  stay  and  lung  damage)  occur
+within  one or two months; this allows the RCT to be completed in
+a relatively short time.  Better than one RCT are  all  the  RCTs
+already  of  RCT provides the best answer about treatment to com‐
+plete, so we have seen an increasing  number  provided  that  all
+steps  are  maintained and there is no loss of quality during the
+process. This is possible  automated  and  when  experienced  re‐
+searchers  dedicate  their  time exclusively to this work.30 Pre‐
+prints is another method for sharing scientific  evidence  during
+the  COVID‐19  pandemic.  These  are Preprints in the health area
+have recently gained more attention because the storage  capacity
+of  the  repositories  is  much greater than that of conventional
+Nadanovsky P, Santos APP available study results that can have an
+immediate  impact  on  the management of the disease. Many health
+policies during the pandemic are being guided by preprints.32 The
+negative  side  of  the  preprint  is publication of studies with
+gross methodological errors that threaten confidence in  the  re‐
+sults.  The  positive  side is the rapid dissemination of results
+and visibility, allowing the scientific community to  have  quick
+access  to  the  study and make their critiques and contributions
+openly.  An extraordinary amount of research has been carried out
+recently  on several topics related to COVID‐19. While this shows
+the admirable effort and vigour of the  scientific  community  to
+react  quickly to seek solutions, it also reveals a lack of coor‐
+dination to minimize duplication of efforts and  maximize  avail‐
+able resources. For example, there are more than 1,500 records of
+ongoing studies related Of these, more  than  900  are  RCTs,  of
+which  more than 400 are currently recruiting participants.  Many
+studies with the same hypotheses lead to a competition  for  par‐
+ticipants,  besides  being a missed opportunity to test different
+hypotheses.34 There are several small and isolated  RCTs  testing
+the same drugs, some of which will probably not manage to recruit
+enough patients to be able  to  detect  differences  between  the
+groups  being compared.35 It would be better to perform multicen‐
+tric, adaptive RCTs, which test a range of  potential  treatments
+simultaneously  and  are  able to recruit patients with different
+profiles and varied clinical conditions more quickly. An  example
+of  this  type of RCT is the Recovery Trial.36 In addition, it is
+important that there is a monitoring system to avoid  publication
+bias.  There  are attempts to create a register that captures all
+RCTs related to COVID‐19.37 There has also been much  duplication
+of  effort  in conducting May 18, 2020, there were 925 records of
+systematic 50 aim to evaluate the effectiveness and/or safety  of
+chloroquine/hydroxychloroquine  (alone  or  combined with another
+drug) in treating COVID‐19.38 The frantic search  for  a  miracle
+drug is dangerous because it is based on and leads to the mistak‐
+en belief that any treatment option is better than nothing, after
+all, what harm can a drug do when there is no other treatment op‐
+tion available? However, it is not true that there is nothing. As
+argued  already,  there  is the standard care and the natural de‐
+fence mechanisms of the individual against the disease.  In addi‐
+tion, medications have adverse effects, often severe, and only by
+carrying out an RCT is it possible to  know  whether  a  medicine
+does  more  good  than harm. That is, when a drug with an unknown
+clinical effect (or known, but in patients with  other  diseases)
+is  administered  to  patients  with  severe  diseases,  such  as
+COVID‐19, there is no way to know whether the patients have bene‐
+fited  or  harmed  themselves unless they have been compared to a
+control group.39 The case of chloroquine and  hydroxychlorine  is
+emblematic.  One  of the main appeals of these drugs is that they
+have been used for many years to treat patients with malaria, lu‐
+pus,  rheumatoid  arthritis  and  other autoimmune diseases. This
+would already ensure their safety. However, this is indirect evi‐
+dence:  they  may  be safe for those, but harmful for COVID19 pa‐
+tients. Nevertheless, in the last few  months  they  have  gained
+prominence, as some physicians and researchers have begun to con‐
+sider them as an option for the treatment of COVID‐19.  In  March
+2020, the WHO approved studies with these drugs for the treatment
+of patients with COVID‐19. World leaders were enthusiastic  about
+these  drugs  and  advocated  that  they  would  be  the cure for
+COVID‐19; this caused a frantic search for these drugs in pharma‐
+cies,  leaving  patients  with  other  diseases without access to
+them.  Promising in vitro  studies  and  preliminary  results  of
+clinical studies with poor methods led to a distorted view of re‐
+ality, causing many physicians, the media and the  population  to
+believe  in  this miracle drug.  There are several reports on so‐
+cial networks of people claiming that they  have  been  saved  by
+chloroquine  or  hydroxychloroquine. Obviously, no individual can
+know whether or not he was saved by some treatment, because it is
+not  possible to know whether he would have survived or recovered
+in the absence of the treatment.  Braz.  Oral  Res.  2020;34:e068
+Strategies  to  deal with the COVID‐19 pandemic This unscientific
+atmosphere, fostered by some political  leaders,  physicians  and
+researchers,  makes  the execution of RCTs difficult. People hear
+in the media that chloroquine and hydroxychloroquine  are  effec‐
+tive and safe. Thus, patients and family members may not agree to
+participate in studies where they will be randomly allocated  ei‐
+ther  to  chloroquine/  hydroxychloroquine,  or another drug or a
+placebo.40 Who will agree to receive another drug  or  a  placebo
+when  an  effective  and  safe drug is available?  Unfortunately,
+many of the studies conducted on COVID‐19 used poor methods,  in‐
+cluding those that aimed to evaluate the effectiveness of chloro‐
+quine and resources. 41 Several clinical studies  were  conducted
+without  a control group. There was also a comparison with a his‐
+torical control group, not internal to the study, which eliminat‐
+ed the crucial role of randomization.42 In many studies there was
+also no blinding of the assessment of the outcome, and often  the
+outcomes used were subjective, such as improvement of symptoms or
+radiological imaging35.  safety of hydroxychloroquine and chloro‐
+quine  for  COVID‐1943 included, so far, 120 comparative clinical
+studies, but 109 are still ongoing, so the results  refer  to  11
+studies  with available data: three randomized open clinical tri‐
+als (China), one  non‐randomized  clinical  trial  (France),  one
+prospective  cohort  (China)  and  six retrospective cohort (USA,
+United Arab Emirates, China and multinational). All studies  pre‐
+sented  limited methodological quality and were heterogeneous re‐
+garding several aspects, such as  study  design  (randomized  and
+non‐randomized), outcomes (negative viral load, radiological pro‐
+gression, time for clinical improvement, need for mechanical ven‐
+tilation,  intensive  care unit lengths of stay, adverse effects,
+mortality), severity of disease (mild or critical); dose  of  hy‐
+droxychloroquine (200, 400 and 600 mg/day); method of data analy‐
+sis (intention to treat and per The results of these studies  are
+somewhat  controversial  and the risk of bias is high, which com‐
+promises the confidence in the results. Therefore,  the  efficacy
+and safety of hydroxychloroquine and chloroquine in patients with
+COVID‐19 are still uncertain and we Braz. Oral Res.  2020;34:e068
+should wait for the results of ongoing randomized clinical trials
+for a better understanding of the effects of  this  drug  in  pa‐
+tients  with  COVID‐19.   Given  the  emergency situation and the
+search for effective treatments, other drugs used for other  dis‐
+eases  have been studied and identified as possible treatment al‐
+ternatives for COVID‐19, among them  remdesivir,  ivermectin  and
+heparins. However, so far, there is not enough evidence to estab‐
+lish the real harms and benefits of these drugs for the treatment
+of  COVID‐19.44,45,46  There are many studies in progress and, as
+new evidence becomes available, recommendations  on  the  use  of
+these  drugs  for  the treatment of COVID‐19 may change.  At this
+time of crisis, world leaders, public health kinds of media  must
+be  careful to seek and disseminate reliable information in order
+not to support the use of therapies  of  unproven  effectiveness.
+Their  claims  influence  the belief and behaviour of the popula‐
+tion, leading, for example, to an increase in  internet  searches
+for purchasing these unproven drugs.47 In the absence of evidence
+of effectiveness and safety of a drug, standard treatment may  be
+the  best option. We must be careful not to fall into the tempta‐
+tion to give in to obscurantism and weaken science.  However,  as
+we  have  already pointed out, there are two perspectives that we
+must accommodate: the individual case of each doctor‐patient dyad
+and  public  policy.  On the one hand, doctors may face difficult
+clinical situations where the patient is getting sicker  and  she
+feels  that she should try a specific medication beyond the stan‐
+dard care. In such cases, with the  consent  of  the  family  and
+awareness  of the uncertainties regarding effectiveness and safe‐
+ty, the doctor could prescribe these medications as  a  last  re‐
+sort.  On  the  other hand, it is irresponsible to adopt a public
+policy for the prescription of any drug without  proven  benefits
+and  safety  from  RCTs.  In addition to the extensive search for
+treatment for COVID‐19, many researchers are seeking an effective
+vaccine.  There are more than 100 vaccines being developed.48 In‐
+ternational scientific leaders and experts in infectious  disease
+epidemiology  believe  Nadanovsky P, Santos APP that the only way
+to get back to normal life will be when an effective  vaccine  is
+available  for the entire world population.12 The production of a
+vaccine is a time‐consuming process and obtaining a vaccine with‐
+in a period of one to two years would be unprecedented. The safe‐
+ty of the vaccine is a crucial aspect to be  investigated  as  it
+could make subsequent infection with SARSCoV‐2 more severe.49 The
+Human Challenge Studies may accelerate this process, as they  re‐
+quire fewer participants and shorter follow‐up time than the usu‐
+al effectiveness and safety studies. In these  studies,  partici‐
+pants  get  infected on purpose in a controlled experimental set‐
+ting, rather than waiting for the infection to  occur  naturally.
+Volunteers are young, healthy and living in areas where the virus
+is circulating. They would be monitored and receive treatment  if
+they became ill. The two main limitations of this proposal are a)
+obtaining evidence of effectiveness in a  specific  group  (young
+and  healthy)  other  than  the group most in need of the vaccine
+(elderly and chronically ill); and b) the  risk  of  death  of  a
+healthy  volunteer,  even  if  small, since there is no effective
+treatment for the disease. Still, there are compelling  arguments
+that  make this proposal feasible and promising.50 The wearing of
+masks by the entire population is controversial. Its use  is  de‐
+fended  by  the precautionary principle, which says that in cases
+of serious or irreversible threats to health or ecosystems,  rec‐
+ognizing  that there is scientific uncertainty should not be used
+as a reason to postpone preventive measures.51 If on the one hand
+there is a lack of robust evidence from RCT, on the other hand we
+are facing a highly transmissible disease, against which we  have
+no  immunity  and  which is causing deaths and collapse in health
+systems. The logic would be that the mask would protect the  oth‐
+er, because the user would not expel contaminated droplets if she
+were an asymptomatic (or symptomatic) carrier. However, it can be
+argued that it would also protect the user, as it would be a bar‐
+rier preventing contaminated droplets from the other reaching the
+users  mouth  and  nose. Due to the lack of evidence, researchers
+questioned the benefit and warned about the possible adverse  ef‐
+fects related to the wearing of masks by the general public, such
+as its misuse and the false sense of security. Mask wearing could
+lead  to relaxation (or devaluation) of other preventive methods,
+such as social distancing and hand washing. 52 Those who argue in
+favour  remind  that  no RCT has been performed to assess the ef‐
+fects of lockdown or hand washing  either.   Possibly,  the  best
+justification in favour of wearing a mask, even in the absence of
+evidence from RCT, would be the low potential for  harm,  as  op‐
+posed  to  taking drugs without evidence from RCT, which has high
+potential for harm. However, it is intriguing and frustrating  to
+notice  the  enormous amount of registered RCTs for testing drugs
+compared to the minimum  amount  for  evaluating  the  effect  of
+masks,  a  simple  and inexpensive intervention.53,54 In order to
+implement any strategy aimed to control the pandemic and preserve
+the  economy,  the  country needs leadership that centralizes and
+coordinates actions. Unfortunately, the Brazilian  government  is
+not  fulfilling  this  role;  on the contrary, it is a hindrance.
+This negative leadership and lack  of  coordination  are  causing
+many  deaths  and are severely damaging the lives of survivors by
+delaying the resuming of economic and social activities.  At this
+moment  it is not possible to predict when the first wave of this
+pandemic will be under control in Brazil, what (and how) economic
+and  social  activities will be compatible with pandemic control,
+and when (and if) there will be  specific  effective  vaccine  or
+Brazilian society will not be able to maintain the lockdown for a
+long period. Naturally, in the near future, regardless of the ad‐
+vice from scientists, doctors reopen. A lack of a responsible and
+proactive central leadership in consonance with the  best  scien‐
+tific  evidence,  increases the risk of a tragedy in the near fu‐
+ture. Unless we take urgent action, there may be an economic  de‐
+bacle,  social  unrest and a slaughter never witnessed by current
+generations.  Braz. Oral Res.  2020;34:e068  Strategies  to  deal
+with  the COVID‐19 pandemic 1. World Health Organization. WHO Di‐
+rector‐Generals opening remarks at the media briefing on COVID‐19
+‐  11  March  2020.  2020 Mar 4. Kimball A, Hatfield KM, Arons M,
+James A, Taylor J, Spicer K, et  al.  Asymptomatic  and  presymp‐
+tomatic  SARS‐CoV‐2  infections  in residents of a long‐term care
+skilled nursing facility ‐ King County, Washington,  March  2020.
+MMWR Morb Mortal Wkly Rep. 2020 Apr;69(13):377‐81.  5. Wei WE, Li
+Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic transmission
+of  SARS‐CoV‐2  ‐ Singapore, January 23‐March 16, 2020. MMWR Morb
+Mortal Wkly Rep. 2020 Apr;69(14):411‐5.  6. Wolfel R, Corman  VM,
+Guggemos  W,  Seilmaier M, Zange S, Muller MA, et al. Virological
+assessment of hospitalized patients with 12. Kissler SM, Tedijan‐
+to  C, Goldstein E, Grad YH, Lipsitch M. Projecting the transmis‐
+sion dynamics of SARS‐CoV‐2 through the 13. Hallal PC, Horta  BL,
+Barros  AJD,  Dellagostin  OA,  Hartwig  FP,  Pellanda LC, et al.
+Evoluo da prevalncia de infeco por COVID‐19 no 14. Estado do  Rio
+Grande do Sul. Secretaria de Planejamento, Oramento e Gesto. Epi‐
+covid19. Epidemiologia da COVID‐19 no Rio 16. Nadanovsky P. Nmero
+dirio  registrado de novas mortes pela COVID‐19 nas trs primeiras
+semanas aps a primeira morte registrada 18. Nadanovsky P. Por que
+o  Brasil, mesmo depois de mais de quatro semanas de confinamento
+domiciliar, ainda apresenta aumento no 19. Nadanovsky P. Est  er‐
+rado  comparar  o  nmero  de mortes pela COVID‐19 entre pases sem
+considerar o tamanho da populao em cada 22. Thomas P. J‐value as‐
+sessment  of  how best to combat Covid‐19. Nanotechnology Percep‐
+tions. 2020;16:16‐40.  23. Mellan TA, Hoeltgebaum HH,  Mishra  S,
+Whittaker C, Schnekenberg RP, Gandy A, et al. Report 21: Estimat‐
+ing COVID‐19 cases and Braz. Oral Res. 2020;34:e068 Nadanovsky P,
+Santos  APP 27. Alon U, Milo R, Yashiv E. 10‐4: How to reopen the
+economy by exploiting the Coronaviruss weak spot.  2020  May  11.
+Available from: 28. Wu Z, McGoogan JM. Characteristics of and Im‐
+portant lessons from the Coronavirus disease 2019 (COVID‐19) out‐
+break in China: summary of a report of 72 314 cases from the Chi‐
+nese  center  for   disease   control   and   prevention.   JAMA.
+2020;323(13):1239‐1242.   31.  Kupferschmidt  K.  Preprints bring
+firehose of outbreak data.  Science.  2020;367(6481):963‐4.   32.
+Majumder MS, Mandl KD. Early in the epidemic: impact of preprints
+on global discourse about COVID‐19 transmissibility. Lancet  Glob
+35.  Bauchner  H,  Fontanarosa PB. Randomized clinical trials and
+COVID‐19: managing expectations. JAMA. 2020 May 4.  37.  Thorlund
+K, Dorn L, Park H, Hsu G, Forrest JI, Mills EJ. A real‐time dash‐
+board of clinical trials for COVID‐19. Lancet Digital Health 2020
+39. Kalil AC. Treating COVID‐19 ‐ Off‐Label Drug Use, Compassion‐
+ate Use, and Randomized Clinical Trials During  Pandemics.  JAMA.
+40. Ledford H. Chloroquine hype is derailing the search for coro‐
+navirus treatments. Nature. 2020 APR;580(7805):573.  41.  Alexan‐
+der  PE,  Debono  VB, Mammen MJ, Iorio A, Aryal K, Deng D, et al.
+COVID‐19 research has overall low methodological quality thus 42.
+Borba  MGS, Val FFA, Sampaio VS, Alexandre MAA, Melo GC, Brito M,
+et al. Effect of high vs low doses of chloroquine diphosphate  as
+adjunctive  therapy  for  patients hospitalized with severe acute
+respiratory syndrome Coronavirus 2 (SARS‐CoV‐2) infection: a ran‐
+domized 43. Pacheco RL, Pachito DV, Bagattini AM, Oliveira Junior
+H, Riera R. Hidroxicloroquina e cloroquina para COVID‐19:  reviso
+sistemtica 44. Pan American Health Organization. World Health Or‐
+ganization. Ongoing living update of potential COVID‐19 therapeu‐
+tics:  summary of 45. Riera R, Bagattini AM, Pachito DV, Medeiros
+FC, Brito GV, Matuoka JY, et al. Heparinas para infeco por  SARS‐
+CoV‐2  (COVID‐19): 46. Riera R, Pacheco RL, Latorraca COC, Fontes
+LE, Martimbianco  ALC.  Remdesivir  para  infeco  por  SARS‐CoV‐2
+(COVID‐19). Reviso 47. Liu M, Caputi TL, Dredze M, Kesselheim AS,
+Ayers JW. Internet searches for unproven  COVID‐19  therapies  in
+the  United  States. JAMA 50. Eyal N, Lipsitch M, Smith PG. Human
+challenge studies to accelerate Coronavirus vaccine licensure.  J
+Infect  Dis. 2020;221(11):1752‐6.  Geneva: World Health Organiza‐
+tion; 2004.  52. Cheng KK, Lam TH, Leung CC. Wearing  face  masks
+in the community during the COVID‐19 pandemic: altruism and soli‐
+darity. Lancet.   53.  Greenhalgh  T,  Schmid  MB,  Czypionka  T,
+Bassler D, Gruer L. Face masks for the public during the Covid‐19
+crisis.  BMJ.  2020;369:m1435.   Braz.  Oral  Res.   2020;34:e068
+Strategies  to  deal  with  the COVID‐19 pandemic. Braz Oral Res.
+2020;34:e068.  Where is read: Paulo NADANOVSKY(a) Ana Paula Pires
+dos  SANTOS(a)  Universidade  do  Estado do Rio de Janeiro  UERJ,
+Faculdade de Departamento de Odontologia Preventiva e Comunitria,
+Rio   de   Janeiro,   RJ,   Brasil.    It   should   read:  Paulo
+NADANOVSKY(a,b) Ana Paula Pires dos SANTOS(c) Fundao Oswaldo Cruz
+Fiocruz, Escola Nacional de Sade Pblica, Departamento de Epidemi‐
+ologia e Mtodos  Quantitativos  em  Sade,  Rio  de  Janeiro,  RJ,
+Brazil.  Universidade do Estado do Rio de Janeiro  UERJ, Institu‐
+to de Medicina Social,  Departamento  de  Epidemiologia,  Rio  de
+Janeiro,  RJ,  Brazil.   Universidade do Estado do Rio de Janeiro
+UERJ, Faculdade de Odontologia, Departamento de Odontologia  Pre‐
+ventiva  e  Comunitria,  Rio  de Janeiro, RJ, Brazil.  Braz. Oral
+Res. 2020;34:e068err
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

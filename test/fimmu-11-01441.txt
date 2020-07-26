@@ -1,1070 +1,1056 @@
-Immune Response, Inflammation,
-and the Clinical Spectrum of
-Luis F. Garca*
-Grupo de Inmunologa Celular e Inmunogentica, Facultad de Medicina, Sede de Investigacin Universitaria, Universidad de
-Antioquia, Medelln, Colombia
-Edited by:
-Lucia Lopalco,
-San Raffaele Hospital (IRCCS), Italy
-Morgane Bomsel,
-Institut National de la Sant et de la
-Recherche Mdicale
-Laura Fantuzzi,
-Istituto Superiore di Sanit (ISS), Italy
-Luis F. Garca
-Specialty section:
-Viral Immunology,
-Frontiers in Immunology
-Garca LF (2020) Immune Response,
-Inflammation, and the Clinical
-Spectrum of COVID-19.
-Front. Immunol. 11:1441.
-The current COVID-19 pandemic began in December 2019 in Wuhan (China) and
-rapidly extended to become a global sanitary and economic emergency. Its etiological
-agent is the coronavirus SARS-CoV-2. COVID-19 presents a wide spectrum of clinical
-manifestations, which ranges from an asymptomatic infection to a severe pneumonia
-accompanied by multisystemic failure that can lead to a patients death. The immune
-response to SARS-CoV-2 is known to involve all the components of the immune system
-that together appear responsible for viral elimination and recovery from the infection.
-Nonetheless, such immune responses are implicated in the diseases progression to
-COVID-19 and its etiological agent SARS-CoV-2, stressing the similarities with other
-severe coronavirus infections, such as SARS and MERS, but more importantly, pointing
-toward the evidence supporting the hypothesis that the clinical spectrum of COVID-19
-is a consequence of the corresponding variable spectrum of the immune responses to
-the virus. The critical point where progression of the disease ensues appears to center
-on loss of the immune regulation between protective and altered responses due to
-exacerbation of the inflammatory components. Finally, it appears possible to delineate
-certain major challenges deserving of exhaustive investigation to further understand
-COVID-19 immunopathogenesis, thus helping to design more effective diagnostic,
-therapeutic, and prophylactic strategies.
-Keywords: COVID-19, SARS-CoV-2, immune response, T cells, antibodies, cytokines, inflammation, spectrum
-The current COVID-19 pandemic, caused by the coronavirus SARS-CoV-2 and initiated with the
-first cases observed in Wuhan (China) in December 2019, has expanded dramatically throughout
-the world (1, 2). This expansion has had devastating effects in many countries due to its
-contagiousness and the high number of patients presenting with severe infections and elevated
-death risk, requiring specialized medical care in intensive care units (ICU). For this reason, the
-WHO declared it a Global Sanitary Emergency on January 30, 2020 (3). An important aspect to
-highlight during the present crisis is the speed at which research studies have been developed,
-leading toward a better understanding of the epidemiology, clinical manifestations, risk factors,
-and transmission dynamics (1, 48), as well as to the identification of the etiological agent (9, 10),
-including its genome, morphological structure, and molecules (1113), its relationship with other
-COVID-19 Clinical and Immune Spectra
-neutralizing antibodies (31). S is a type I trimeric glycoprotein
-that protrudes from the virion membrane, giving it the
-appearance of a crown. S is formed by two subunits: S1, or bulb,
-that contains the RBD (3239); and S2, or stalk, responsible for
-the fusion of the virion with the host cell membrane (23, 35, 36,
-As described above, the main receptor for SARS-CoV and
-SARS-CoV-2 on the membrane of the target cells is the
-Angiotensin 2 Converting Enzyme (ACE2), a metallopeptidase
-present on the membrane of many cells, including type-I and
--II pneumocytes, small intestine enterocytes, kidney proximal
-tubules cells, the endothelial cells of arteries and veins, and
-the arterial smooth muscle, among other tissues (43, 44). RBDACE2 binding induces conformational changes on S that lead
-to cleavage of S1 and S2, a process mediated by the serine
-protease TMPRSS2, allowing S2 to facilitate the fusion of the virus
-envelope with the cell membrane, thus permitting viral RNA
-entrance into the cytoplasm of the target cells (23, 31, 35, 42, 45).
-Thereafter, viral RNA serves as a template for the translation
-of the polyproteins pp1a and pp1b that are cleaved into 5
-16 non-structural proteins (nsp2-nsp9), which in turn induce
-rearrangement of the membranes to form the vesicles where
-viral replication and transcription complexes are anchored. The
-virions are assembled in the ER-Golgi and mature virions are
-subsequently released by the secretory pathway (23).
-coronaviruses (14), its entrance into the host cells by binding
-the Angiotensin II Converting Enzyme (ACE2) (9), its
-intracellular replication (15), and the immune response of
-the infected individuals (1619). All these studies aim at
-developing diagnostic tests, strategies for clinical management,
-effective antiviral agents, and eventually, production of a
-protective vaccine.
-the immune response against SARS-CoV-2 and the relationship
-between the protective and inflammatory responses and
-COVID-19 clinical spectrum, ranging from asymptomatic
-the principal immunological research challenges posed by
-COVID-19 pandemics. The immune response in humans and
-experimental animals against infection by SARS-CoV and
-MERS-CoV has been studied extensively and there are many
-COVID-19 with SARS and MERS, it will be necessary, at certain
-specific points, to cite the research done on those infections.
-THE VIRUS
-The virus responsible for the epidemic that began in Wuhan was
-simultaneously identified by Wu et al. (9), and by Zhou et al. (10),
-who named it WH-Human 1 and 2019-nCoV, respectively. These
-researchers also deciphered the virus genome, its origin from bat
-coronaviruses, and ACE2 as its receptor on the membrane of
-host cells. On February 11, 2020, the WHO officially named the
-infection COVID-19 and the virus as SARS-CoV-2 (24).
-SARS-CoV-2 belongs to the family Coronaviridae, which
-includes a large number of species capable of infecting various
-wild animals, some of which also affect humans (2527). In
-humans, most coronavirus infections result in mild respiratory
-Infections and may be responsible for 2030% of common
-colds (28). However, both SARS-CoV and MERS-CoV, which
-emerged in the last two decades, were responsible for epidemics
-of severe respiratory syndromes. The three coronaviruses causing
-more serious pathologies belong to beta-CoV (23) and, despite
-their genomic and structural similarities, they differ significantly
-epidemiologically. SARS-CoV and MERS-CoV have a low
-transmissibility but a high lethality, while SARS-CoV-2 has an
-extremely high transmissibility and a degree of lethality not yet
-established globally.
-Coronaviruses have a single-stranded positive RNA of nearly
-30 Kbp, a spheroidal shape, and a diameter of 80120 nm. Their
-envelope contains the spike S-, membrane -M-, and envelope
--E-, proteins, and the nucleocapsid -N- inside the virion that
-covers the RNA (23). On the genome, from 5 to 3 , are located the
-genes for the replicases ORF 1a,b which occupy two thirds of the
-genome and code for the polyproteins pp1a and pp1b (9, 23, 29).
-Located toward the 3 end are the genes for structural proteins S,
-E, M, and N (9, 23, 30).
-Protein S is the best studied of the coronaviruses proteins,
-since it contains the Receptor-Binding-Domain (RBD) for the
-ligand on the host cell membrane, and also has epitopes
-recognized by T and B cells, which induce the production of
-THE INFECTION
-The COVID-19 pathological process exhibits a wide spectrum of
-clinical manifestations, ranging from asymptomatic infections,
-to mild (common cold-type), moderate, and finally severe
-(15%) infections; the latter frequently requires hospitalization
-in ICU to ensure assisted respiratory support and other medical
+Immune  Response, Inflammation, and the Clinical Spectrum of Luis
+F. Garca* Grupo de Inmunologa Celular e  Inmunogentica,  Facultad
+de  Medicina,  Sede de Investigacin Universitaria, Universidad de
+Antioquia, Medelln, Colombia Edited by: Lucia Lopalco,  San  Raf‐
+faele  Hospital  (IRCCS), Italy Morgane Bomsel, Institut National
+de la Sant et de la Recherche Mdicale  Laura  Fantuzzi,  Istituto
+Superiore  di Sanit (ISS), Italy Luis F. Garca Specialty section:
+Viral Immunology, Frontiers in Immunology Garca LF (2020)  Immune
+Response,  Inflammation,  and  the Clinical Spectrum of COVID‐19.
+Front. Immunol. 11:1441.  The current COVID‐19 pandemic began  in
+December  2019  in Wuhan (China) and rapidly extended to become a
+global sanitary and economic emergency. Its etiological agent  is
+the  coronavirus SARS‐CoV‐2. COVID‐19 presents a wide spectrum of
+clinical manifestations, which ranges from an asymptomatic infec‐
+tion  to  a severe pneumonia accompanied by multisystemic failure
+that can lead to a patients death. The immune response  to  SARS‐
+CoV‐2 is known to involve all the components of the immune system
+that together appear responsible for viral elimination and recov‐
+ery  from  the infection.  Nonetheless, such immune responses are
+implicated in the diseases progression to COVID‐19 and its  etio‐
+logical  agent  SARS‐CoV‐2, stressing the similarities with other
+severe coronavirus infections, such as SARS and  MERS,  but  more
+importantly, pointing toward the evidence supporting the hypothe‐
+sis that the clinical spectrum of COVID‐19 is  a  consequence  of
+the  corresponding  variable  spectrum of the immune responses to
+the virus. The critical point where progression  of  the  disease
+ensues appears to center on loss of the immune regulation between
+protective and altered responses due to exacerbation of  the  in‐
+flammatory  components. Finally, it appears possible to delineate
+certain major challenges deserving of exhaustive investigation to
+further  understand  COVID‐19 immunopathogenesis, thus helping to
+design more effective diagnostic, therapeutic,  and  prophylactic
+strategies.   Keywords:  COVID‐19, SARS‐CoV‐2, immune response, T
+cells, antibodies, cytokines, inflammation, spectrum The  current
+COVID‐19  pandemic, caused by the coronavirus SARS‐CoV‐2 and ini‐
+tiated with the first cases observed in Wuhan (China) in December
+2019, has expanded dramatically throughout the world (1, 2). This
+expansion has had devastating effects in many  countries  due  to
+its  contagiousness  and  the  high number of patients presenting
+with severe infections and elevated death  risk,  requiring  spe‐
+cialized  medical  care  in  intensive care units (ICU). For this
+reason, the WHO declared it a Global Sanitary Emergency on  Janu‐
+ary  30,  2020  (3).  An important aspect to highlight during the
+present crisis is the speed at which research studies  have  been
+developed,  leading toward a better understanding of the epidemi‐
+ology, clinical manifestations, risk  factors,  and  transmission
+dynamics  (1,  48), as well as to the identification of the etio‐
+logical agent (9, 10), including its genome, morphological struc‐
+ture,  and molecules (1113), its relationship with other COVID‐19
+Clinical and Immune Spectra neutralizing antibodies (31). S is  a
+type  I trimeric glycoprotein that protrudes from the virion mem‐
+brane, giving it the appearance of a crown. S is  formed  by  two
+subunits:  S1,  or bulb, that contains the RBD (3239); and S2, or
+stalk, responsible for the fusion of the  virion  with  the  host
+cell  membrane (23, 35, 36, As described above, the main receptor
+for SARS‐CoV and SARS‐CoV‐2 on the membrane of the  target  cells
+is the Angiotensin 2 Converting Enzyme (ACE2), a metallopeptidase
+present on the membrane of many cells, including type‐I  and  ‐II
+pneumocytes, small intestine enterocytes, kidney proximal tubules
+cells, the endothelial cells of arteries and veins, and the arte‐
+rial smooth muscle, among other tissues (43, 44). RBDACE2 binding
+induces conformational changes on S that lead to cleavage  of  S1
+and S2, a process mediated by the serine protease TMPRSS2, allow‐
+ing S2 to facilitate the fusion of the virus  envelope  with  the
+cell  membrane, thus permitting viral RNA entrance into the cyto‐
+plasm of the target cells (23, 31, 35, 42, 45).  Thereafter,  vi‐
+ral  RNA serves as a template for the translation of the polypro‐
+teins pp1a and pp1b that are cleaved  into  5  16  non‐structural
+proteins  (nsp2‐nsp9),  which in turn induce rearrangement of the
+membranes to form the vesicles where viral replication and  tran‐
+scription  complexes  are  anchored. The virions are assembled in
+the ER‐Golgi and mature virions are subsequently released by  the
+secretory  pathway  (23).   coronaviruses (14), its entrance into
+the host cells by binding the Angiotensin  II  Converting  Enzyme
+(ACE2)  (9),  its  intracellular replication (15), and the immune
+response of the infected individuals (1619).  All  these  studies
+aim  at developing diagnostic tests, strategies for clinical man‐
+agement, effective antiviral agents, and  eventually,  production
+of  a protective vaccine.  the immune response against SARS‐CoV‐2
+and the relationship between the protective and inflammatory  re‐
+sponses and COVID‐19 clinical spectrum, ranging from asymptomatic
+the principal immunological research challenges posed by COVID‐19
+pandemics. The immune response in humans and experimental animals
+against infection by SARS‐CoV and MERS‐CoV has been  studied  ex‐
+tensively and there are many COVID‐19 with SARS and MERS, it will
+be necessary, at certain specific points, to  cite  the  research
+done  on  those  infections.  THE VIRUS The virus responsible for
+the epidemic that began in Wuhan was simultaneously identified by
+Wu  et  al. (9), and by Zhou et al. (10), who named it WH‐Human 1
+and 2019‐nCoV, respectively. These  researchers  also  deciphered
+the  virus genome, its origin from bat coronaviruses, and ACE2 as
+its receptor on the membrane of host cells. On February 11, 2020,
+the  WHO officially named the infection COVID‐19 and the virus as
+SARS‐CoV‐2 (24).  SARS‐CoV‐2 belongs to the family Coronaviridae,
+which  includes  a  large  number of species capable of infecting
+various wild animals, some of which also affect humans (2527). In
+humans,  most  coronavirus  infections result in mild respiratory
+Infections and may be responsible for 2030% of common colds (28).
+However,  both  SARS‐CoV  and MERS‐CoV, which emerged in the last
+two decades, were responsible for epidemics of severe respiratory
+syndromes.  The three coronaviruses causing more serious patholo‐
+gies belong to beta‐CoV  (23)  and,  despite  their  genomic  and
+structural  similarities, they differ significantly epidemiologi‐
+cally. SARS‐CoV and MERS‐CoV have a low  transmissibility  but  a
+high  lethality, while SARS‐CoV‐2 has an extremely high transmis‐
+sibility and a degree of lethality not yet established  globally.
+Coronaviruses  have  a  single‐stranded positive RNA of nearly 30
+Kbp, a spheroidal shape, and a diameter of 80120 nm. Their  enve‐
+lope  contains the spike S‐, membrane ‐M‐, and envelope ‐E‐, pro‐
+teins, and the nucleocapsid ‐N‐ inside the virion that covers the
+RNA  (23). On the genome, from 5 to 3 , are located the genes for
+the replicases ORF 1a,b which occupy two thirds of the genome and
+code for the polyproteins pp1a and pp1b (9, 23, 29).  Located to‐
+ward the 3 end are the genes for structural proteins S, E, M, and
+N (9, 23, 30).  Protein S is the best studied of the coronavirus‐
+es proteins, since it contains the Receptor‐Binding‐Domain  (RBD)
+for  the  ligand on the host cell membrane, and also has epitopes
+recognized by T and B cells, which induce the production  of  THE
+INFECTION The COVID‐19 pathological process exhibits a wide spec‐
+trum of clinical manifestations, ranging from asymptomatic infec‐
+tions,  to  mild (common cold‐type), moderate, and finally severe
+(15%) infections; the latter frequently requires  hospitalization
+in  ICU  to ensure assisted respiratory support and other medical
 treatments until recovery, or possibly death, of the patient. The
-wide spectrum of clinical manifestations found in COVID-19
-patients has been associated with risk factors such as gender and
+wide  spectrum  of  clinical manifestations found in COVID‐19 pa‐
+tients has been associated with risk factors such as  gender  and
 age. Diabetes, cardiovascular disease, or diseases, or treatments
-affecting the immune system result in the highest risk of severe
-disease and death (6, 8, 8, 4648). It is, however, estimated
-that nearly 80% of all infections remain undocumented, either
-because patients are asymptomatic or present with very mild
-symptoms (49). From the epidemiological point of view, these
-inapparently infected persons may have low viral loads, while still
-disseminating the virus and can therefore be responsible either
-for silent epidemics, leading to infection in more susceptible
-people who will eventually develop a clinical disease, or for
-contributing to the establishment of herd immunity (28, 50).
-SARS-CoV-2 is acquired by exposure to microdroplets present
-in the exhalates of infected individuals or by contact with
-reaches the bronchioles and alveolar spaces, the main targets
-are the cells of the bronchial epithelium and the type-II ACE2+
-pneumocytes of the alveolar epithelium. SARS-CoV infection
-induces autophagy (51, 52), detachment of the basal membrane,
-and inhibition of ACE2 expression (20, 53), hence allowing
-angiotensin II to bind the AT1aR receptor, resulting in acute lung
-COVID-19 Clinical and Immune Spectra
-ADAPTIVE IMMUNE RESPONSE
-damage (54). Importantly, the main early defense mechanism of
-the infected cell is the production of type-I and type -III IFN and,
-although coronaviruses are sensitive to their anti-viral effects,
-they are able to inhibit its induction (16, 20, 52, 55). The release
-of large number of virions leads to both infection of neighboring
-target cells and viremia, the latter resulting in systemic
-infection since ACE2+ cells are widely distributed in many
-The transition between innate and adaptive immune responses
-is critical for the clinical progress of SARS-CoV-2 infection.
-It is at this crucial moment when immune regulatory events,
-still poorly understood, will lead to the development of either
-a protective immune response or an exacerbated inflammatory
-response (18, 19, 58, 59). The protective response is T cell
-dependent, with CD4 helping B cells, geared toward the
-production of specific neutralizing antibodies, and cytotoxic CD8
-cells capable of eliminating infected cells. It is worth noting
-that 80% of the infiltrating cells in COVID-19 are CD8 (16).
-Contrariwise, a dysfunctional response, unable to inhibit viral
-replication and elimination of the infected cells, may result
-in an exacerbated inflammatory response leading possibly to a
-cytokine storm, manifested clinically by severe acute respiratory
-distress syndrome (ARDS) and systemic consequences, such
-as disseminated intravascular coagulation. In a SARS-CoV
-primate model of infection, Clay et al. (60) showed that the
-virus replicated in the lungs until Day 10 post-infection; but,
-surprisingly, lung inflammation was more intense after virus
+affecting the immune system result in the highest risk of  severe
+disease and death (6, 8, 8, 4648). It is, however, estimated that
+nearly 80% of all infections remain undocumented, either  because
+patients  are  asymptomatic  or  present  with very mild symptoms
+(49). From the epidemiological point of view, these  inapparently
+infected  persons  may have low viral loads, while still dissemi‐
+nating the virus and can  therefore  be  responsible  either  for
+silent epidemics, leading to infection in more susceptible people
+who will eventually develop a clinical disease, or for contribut‐
+ing  to  the establishment of herd immunity (28, 50).  SARS‐CoV‐2
+is acquired by exposure to microdroplets present in the exhalates
+of  infected  individuals or by contact with reaches the bronchi‐
+oles and alveolar spaces, the main targets are the cells  of  the
+bronchial  epithelium  and  the  type‐II ACE2+ pneumocytes of the
+alveolar epithelium. SARS‐CoV infection  induces  autophagy  (51,
+52), detachment of the basal membrane, and inhibition of ACE2 ex‐
+pression (20, 53), hence allowing  angiotensin  II  to  bind  the
+AT1aR receptor, resulting in acute lung COVID‐19 Clinical and Im‐
+mune Spectra ADAPTIVE IMMUNE RESPONSE damage  (54).  Importantly,
+the main early defense mechanism of the infected cell is the pro‐
+duction of type‐I and type ‐III IFN and,  although  coronaviruses
+are  sensitive  to their anti‐viral effects, they are able to in‐
+hibit its induction (16, 20, 52, 55). The release of large number
+of  virions  leads  to both infection of neighboring target cells
+and viremia, the latter resulting  in  systemic  infection  since
+ACE2+ cells are widely distributed in many The transition between
+innate and adaptive immune responses is critical for the clinical
+progress  of  SARS‐CoV‐2 infection.  It is at this crucial moment
+when immune regulatory events, still poorly understood, will lead
+to  the  development of either a protective immune response or an
+exacerbated inflammatory response (18, 19, 58, 59).  The  protec‐
+tive  response  is  T  cell  dependent, with CD4 helping B cells,
+geared toward the production of specific neutralizing antibodies,
+and cytotoxic CD8 cells capable of eliminating infected cells. It
+is worth noting that 80% of the infiltrating  cells  in  COVID‐19
+are  CD8 (16).  Contrariwise, a dysfunctional response, unable to
+inhibit viral replication and elimination of the infected  cells,
+may result in an exacerbated inflammatory response leading possi‐
+bly to a cytokine storm, manifested clinically  by  severe  acute
+respiratory  distress  syndrome (ARDS) and systemic consequences,
+such as disseminated intravascular  coagulation.  In  a  SARS‐CoV
+primate  model  of  infection,  Clay  et al. (60) showed that the
+virus replicated in the lungs until Day 10  post‐infection;  but,
+surprisingly,  lung  inflammation  was  more  intense after virus
 clearance, reaching its peak at Day 14 and remaining so until Day
-28. These results suggest that an early phase dependent on virus
-replication does occur, while a later viral-independent, immunedependent phase seems to be accompanied by an exacerbated
-inflammatory component. The viral-independent phase has been
-explained by the inflammatory reaction secondary to ACE2
-inhibition or by an autoimmune phenomenon due to the epitope
-spreading caused by prolonged tissue destruction (20, 61). It
-remains to be demonstrated whether a similar two-phase course
-also occurs in COVID-19.
-Although T and B cells, macrophages, and DCs do not
-express ACE2, some reports suggest that DC-SIGN may serve
-as a trans receptor for SARS-CoV on DCs, which even when
-not infected may transfer the virus to other susceptible cells
-(22, 23, 62). Recently, Vandakari and Wilce (63) reported that
-CD26, an aminopeptidase involved in T cell activation, may
-bind to the S protein of SARS-CoV-2, resulting in a nonproductive T cell infection; Wang et al. (64) reported that CD147,
-a protein of the immunoglobulins superfamily that induces
-the metalloproteinases of the extracellular matrix, binds to the
-S1 domain and facilitates viral entrance into host cells. The
-significance of non-productive T cells infection is not clear;
-however, it is tempting to speculate that it may be related to the
-lymphopenia found in patients with SARS, MERS, and COVID19 (65). The binding of SARS-CoV-2 S protein to molecules
-like CD26 and CD147, which participate in T cell activation,
-would suggest that a non-productive T cell infection may result
-in activation-induced cell death (AICD). MERS-CoV has been
-reported to induce T cells apoptosis (23, 66), and there is evidence
-that T cells are functionally exhausted in patients with severe
-THE INNATE IMMUNE RESPONSE
-During viral infections, after viruses enter the host cells they
-are recognized by Pattern Recognition Receptors (PRR) such
-as TLR7 and TLR8 in the case of single-stranded RNA viruses,
-RIG-I-like (RLRs), and NLR, all expressed by epithelial cells
-as well as by local cells of the innate immune response,
-such as alveolar macrophages (23). Upon ligand binding,
-PRRs recruit adaptor proteins which activate crucial downstream transcription factors, including interferon regulatory
-factor (IRF), NF-B, and AP-1, resulting in production of the
-Type-I and -III antiviral Interferons and different chemokines
-(56). These chemokines attract more innate response cells
-[polymorphonuclear leukocytes, monocytes, NK cells, dendritic
-cells (DC)], which also produce chemokines, such as MIG,
-IP-10, and MCP-1, capable of recruiting lymphocytes, which
-in turn, will recognize the viral antigens presented by DCs
+28.  These results suggest that an early phase dependent on virus
+replication does occur,  while  a  later  viral‐independent,  im‐
+munedependent phase seems to be accompanied by an exacerbated in‐
+flammatory component. The viral‐independent phase  has  been  ex‐
+plained by the inflammatory reaction secondary to ACE2 inhibition
+or by an autoimmune  phenomenon  due  to  the  epitope  spreading
+caused by prolonged tissue destruction (20, 61). It remains to be
+demonstrated whether a similar two‐phase course  also  occurs  in
+COVID‐19.   Although  T  and B cells, macrophages, and DCs do not
+express ACE2, some reports suggest that DC‐SIGN may  serve  as  a
+trans  receptor for SARS‐CoV on DCs, which even when not infected
+may transfer the virus to other susceptible cells (22,  23,  62).
+Recently,  Vandakari  and  Wilce  (63)  reported  that  CD26,  an
+aminopeptidase involved in T cell activation, may bind to  the  S
+protein of SARS‐CoV‐2, resulting in a nonproductive T cell infec‐
+tion; Wang et al. (64) reported that CD147, a protein of the  im‐
+munoglobulins  superfamily that induces the metalloproteinases of
+the extracellular matrix, binds to the S1 domain and  facilitates
+viral  entrance  into host cells. The significance of non‐produc‐
+tive T cells infection is not clear; however, it is  tempting  to
+speculate  that it may be related to the lymphopenia found in pa‐
+tients with SARS, MERS, and COVID19 (65). The  binding  of  SARS‐
+CoV‐2  S protein to molecules like CD26 and CD147, which partici‐
+pate in T cell activation, would suggest that a non‐productive  T
+cell  infection  may  result  in  activation‐induced  cell  death
+(AICD). MERS‐CoV has been reported to induce  T  cells  apoptosis
+(23, 66), and there is evidence that T cells are functionally ex‐
+hausted in patients with severe THE INNATE IMMUNE RESPONSE During
+viral  infections,  after  viruses  enter the host cells they are
+recognized by Pattern Recognition Receptors (PRR)  such  as  TLR7
+and  TLR8  in the case of single‐stranded RNA viruses, RIG‐I‐like
+(RLRs), and NLR, all expressed by epithelial cells as well as  by
+local  cells  of  the  innate  immune  response, such as alveolar
+macrophages (23). Upon ligand binding, PRRs recruit adaptor  pro‐
+teins  which  activate  crucial downstream transcription factors,
+including interferon regulatory factor (IRF), NF‐B, and AP‐1, re‐
+sulting  in production of the Type‐I and ‐III antiviral Interfer‐
+ons and different chemokines (56). These chemokines attract  more
+innate  response  cells [polymorphonuclear leukocytes, monocytes,
+NK cells, dendritic cells (DC)], which also  produce  chemokines,
+such as MIG, IP‐10, and MCP‐1, capable of recruiting lymphocytes,
+which in turn, will recognize the viral antigens presented by DCs
 (20, 22). Recent publications highlight the initial phases of the
-SARS-CoV-2 infection, compared to other coronavirus, and their
-effects on subsequent immune and inflammatory responses.
-Chu et al. (57) compared the in vitro infection of human lung
-explants with SARS-CoV and SARS-CoV-2 and demonstrated
-that both viruses can equally infect type-I and -II pneumocytes,
-plus alveolar macrophages, although SARS-CoV2 had a better
-capacity to replicate in pulmonary tissues. Interestingly, while
-SARS-CoV induced the expression of IFN-I, IFN-II, and IFNIII, SARS-CoV-2 failed to induce any such immune mediators
-and was also less efficient in inducting other cytokines. SARSCoV induced the production of the 11 cytokines studied,
-while SARS-CoV-2 induced only five (IL-6, MCP1, CXCL1,
-CXCL5, and CXCL10/IP10). Blanco-Melo et al. (55) studied the
-transcriptional response to SARS-CoV-2, compared to SAR-CoV,
-MERS-CoV, respiratory syncytial virus (RSV), parainfluenza
-virus 3 (HPIV3), and influenza A virus (IAV), in in vitro infection
-of respiratory cell lines, experimental in vivo infection of ferrets,
-and post-mortem lung samples of COVID-19 patients. Their
-results show that SARS-CoV-2 induces a particular signature
-characterized by reduced IFN-I and IFN-III responses and
-significant induction of multiple proinflammatory chemokines,
-IL-1B, IL-6, TNF, and IL1RA. These findings were further
-supported by the increased serum levels of these molecules in
-COVID-19 patients. Altogether, these reports strongly suggest
-that SARS-CoV-2 differs from other coronaviruses in its capacity
-to replicate within the pulmonary tissue, elude from the antiviral
-effects of IFN-I and IFN-III, activate innate responses, and induce
-the production of the cytokines required for the recruitment of
-adaptive immunity cells.
-THE ANTIBODY RESPONSE
-Multiple evidences support that the humoral response, mainly
-antibodies against the S protein, blocks virus attachment to
-COVID-19 Clinical and Immune Spectra
-susceptible ACE2+ cells (33, 41, 68, 69). However, there are still
-many questions regarding the significance of antibodies against
-the different viral proteins, and the cross reactivity of antibodies
-against other highly prevalent alpha- and beta-coronavirus,
-although it seems that cross reactivity occurs mostly within
-the beta-coronaviridae (61, 70), particularly between SARS-CoV
-and SARS-CoV-2 that share 90% of the amino acid sequence
-in S1 (31). However, it can also happen with other antigens,
-as demonstrated in the outbreak of HCoV-OC43 in British
-Columbia (Canada) where cross reactivity of anti-N antibodies
-with SARS-CoV was found (71). In this respect, it is interesting
-that there is no information regarding whether survivors of the
-SARS and MERS epidemics became infected with SARS-CoV-2,
-and if so, the nature of their clinical and immunological behavior.
-IgM and IgA antibodies can be detected early during the
-1st week of symptom onset, whereas IgG can be detected at
-around 14 days after the initiation of symptoms (61, 70, 72);
-however, given the short time elapsed since the beginning
-of the COVID-19 pandemic, it is not known how long the
-protecting levels of these blocking antibodies will remain active.
-Nevertheless, in a cohort of SARS survivors followed for 6
-years, Tang et al. (73) found that anti-SARS-CoV antibodies
-specific memory B cells, whereas specific memory T cells were
-present in 14/23 (60.9%) of the SARS survivors studied. Although
-the diagnostic value of the serological tests for COVID-19 is
-not yet fully defined (70, 7476), it should be stated that the
-study of the antibodies against different SARS-CoV-2 antigens, in
-different populations and at various times during the pandemic,
-would be an important way of understanding the dynamics of
-transmission and seroprevalence as a proxy to herd immunity.
-Furthermore, it is equally important to conduct serial antibody
-titers measurements in cohorts of COVID-19 survivors in order
-to determine how long the immune memory remains active and
-its effect on the possible reemergence of SARS-CoV-2, or other
-coronavirus outbreaks.
-Ho et al. (87) studying the antibody response in SARS, found that
-patients with more severe clinical courses had earlier and higher
-antibody responses, and hypothesized that earlier responders
-may have had, during the acute phase, cross-reacting antibodies
-with non-SARS coronaviruses. Jaume et al. (88) and Yip et al.
-(89) demonstrated that anti-S antibodies, while inhibiting viral
-entrance in permissive cells, potentiated the infection by binding
-to IgG Fc receptor-II positive (FcRII+ ) cells, like B cells and
-macrophages. Thus, IgG anti-S antibodies bound to FcRII
-on mononuclear phagocyte membranes enhance viral entrance
-through canonical viral-receptor pathways, as recently shown for
-MERS-CoV (90), thereby activating these cells and inducing the
-production of proinflammatory cytokines.
-THE CLINICAL-IMMUNOGICAL
-SPECTRUM OF COVID-19
-In order to understand COVID-19 immunopathogenesis, it
-is important to elucidate what lies at the root of immune
-response failure occurring in infected individuals resulting at
-times in deviation of the protective response into a dysfunctional
-program, leading to cytokine release syndrome (CRS) with severe
-inflammation and, eventually, a multi-systemic failure. A better
-understanding of these events would contribute to the design of
-differential therapeutic approaches, depending on the stage of
-the disease, and to the delineation of prognostic, and predictive
-biomarkers. Unfortunately, there are no studies on the immune
-response in infected asymptomatic individuals, which would
+SARS‐CoV‐2 infection, compared to other  coronavirus,  and  their
+effects  on subsequent immune and inflammatory responses.  Chu et
+al. (57) compared the in vitro infection of human  lung  explants
+with  SARS‐CoV  and SARS‐CoV‐2 and demonstrated that both viruses
+can equally infect type‐I  and  ‐II  pneumocytes,  plus  alveolar
+macrophages,  although  SARS‐CoV2 had a better capacity to repli‐
+cate in pulmonary tissues. Interestingly, while SARS‐CoV  induced
+the expression of IFN‐I, IFN‐II, and IFNIII, SARS‐CoV‐2 failed to
+induce any such immune mediators and was also less  efficient  in
+inducting  other cytokines. SARSCoV induced the production of the
+11 cytokines studied, while SARS‐CoV‐2 induced only  five  (IL‐6,
+MCP1,  CXCL1,  CXCL5,  and  CXCL10/IP10). Blanco‐Melo et al. (55)
+studied the transcriptional response to SARS‐CoV‐2,  compared  to
+SAR‐CoV,  MERS‐CoV,  respiratory  syncytial  virus (RSV), parain‐
+fluenza virus 3 (HPIV3), and influenza A virus (IAV), in in vitro
+infection  of respiratory cell lines, experimental in vivo infec‐
+tion of ferrets, and post‐mortem lung  samples  of  COVID‐19  pa‐
+tients.  Their  results show that SARS‐CoV‐2 induces a particular
+signature characterized by reduced IFN‐I  and  IFN‐III  responses
+and significant induction of multiple proinflammatory chemokines,
+IL‐1B, IL‐6, TNF, and IL1RA. These findings were further support‐
+ed  by  the increased serum levels of these molecules in COVID‐19
+patients. Altogether, these reports strongly suggest  that  SARS‐
+CoV‐2  differs from other coronaviruses in its capacity to repli‐
+cate within the pulmonary tissue, elude from  the  antiviral  ef‐
+fects of IFN‐I and IFN‐III, activate innate responses, and induce
+the production of the cytokines required for the  recruitment  of
+adaptive  immunity  cells.   THE  ANTIBODY RESPONSE Multiple evi‐
+dences support  that  the  humoral  response,  mainly  antibodies
+against the S protein, blocks virus attachment to COVID‐19 Clini‐
+cal and Immune Spectra susceptible ACE2+ cells (33, 41, 68,  69).
+However,  there  are  still many questions regarding the signifi‐
+cance of antibodies against the different viral proteins, and the
+cross reactivity of antibodies against other highly prevalent al‐
+pha‐ and beta‐coronavirus, although it seems that cross reactivi‐
+ty occurs mostly within the beta‐coronaviridae (61, 70), particu‐
+larly between SARS‐CoV and SARS‐CoV‐2 that share 90% of the amino
+acid  sequence in S1 (31). However, it can also happen with other
+antigens, as demonstrated in the outbreak of HCoV‐OC43 in British
+Columbia  (Canada)  where  cross  reactivity of anti‐N antibodies
+with SARS‐CoV was found (71). In this respect, it is  interesting
+that  there  is no information regarding whether survivors of the
+SARS and MERS epidemics became infected with SARS‐CoV‐2,  and  if
+so, the nature of their clinical and immunological behavior.  IgM
+and IgA antibodies can be detected early during the 1st  week  of
+symptom  onset, whereas IgG can be detected at around 14 days af‐
+ter the initiation of symptoms (61, 70, 72); however,  given  the
+short  time elapsed since the beginning of the COVID‐19 pandemic,
+it is not known how long the protecting levels of these  blocking
+antibodies will remain active.  Nevertheless, in a cohort of SARS
+survivors followed for 6 years, Tang et al. (73) found that anti‐
+SARS‐CoV  antibodies  specific  memory  B cells, whereas specific
+memory T cells were present in 14/23 (60.9%)  of  the  SARS  sur‐
+vivors  studied. Although the diagnostic value of the serological
+tests for COVID‐19 is not yet fully defined (70, 7476), it should
+be  stated  that  the  study  of the antibodies against different
+SARS‐CoV‐2 antigens, in  different  populations  and  at  various
+times  during  the  pandemic, would be an important way of under‐
+standing the dynamics of transmission  and  seroprevalence  as  a
+proxy  to herd immunity.  Furthermore, it is equally important to
+conduct  serial  antibody  titers  measurements  in  cohorts   of
+COVID‐19 survivors in order to determine how long the immune mem‐
+ory remains active and its effect on the possible reemergence  of
+SARS‐CoV‐2,  or  other  coronavirus  outbreaks.   Ho  et al. (87)
+studying the antibody response in SARS, found that patients  with
+more  severe clinical courses had earlier and higher antibody re‐
+sponses, and hypothesized that earlier responders may  have  had,
+during  the  acute phase, cross‐reacting antibodies with non‐SARS
+coronaviruses. Jaume et al. (88) and Yip et al.  (89) demonstrat‐
+ed  that  anti‐S  antibodies,  while inhibiting viral entrance in
+permissive cells, potentiated the infection by binding to IgG  Fc
+receptor‐II   positive   (FcRII+   )  cells,  like  B  cells  and
+macrophages. Thus,  IgG  anti‐S  antibodies  bound  to  FcRII  on
+mononuclear  phagocyte  membranes  enhance viral entrance through
+canonical viral‐receptor pathways, as recently shown for MERS‐CoV
+(90),  thereby activating these cells and inducing the production
+of proinflammatory cytokines.  THE CLINICAL‐IMMUNOGICAL  SPECTRUM
+OF  COVID‐19  In order to understand COVID‐19 immunopathogenesis,
+it is important to elucidate what lies at the root of immune  re‐
+sponse  failure  occurring  in  infected individuals resulting at
+times in deviation of the protective response into a dysfunction‐
+al  program,  leading to cytokine release syndrome (CRS) with se‐
+vere inflammation and, eventually, a  multi‐systemic  failure.  A
+better  understanding of these events would contribute to the de‐
+sign of differential therapeutic  approaches,  depending  on  the
+stage  of  the disease, and to the delineation of prognostic, and
+predictive biomarkers. Unfortunately, there are no studies on the
+immune response in infected asymptomatic individuals, which would
 allow a better characterization of the protective immune response
-as it occurs under the natural conditions of the infection process.
-Thus, the present view is based on the comparison between
-patients with moderate and those with severe infections, and
-also with those in the convalescent stage. Another aspect to be
-explored is the effect of previous exposure to other less virulent
-coronaviruses that may have cross-reactivity with more virulent
-ones. Additionally, most of the studies have been done using
-blood samples, which do not necessarily correlate with the events
-going on in the affected tissues. Fortunately, several studies on
-discussed below.
-From an immunological point of view, the wide clinical
-spectrum of COVID-19 allows us to postulate different
-hypotheses, some of them which have already been proven,
-outcomes during the course of COVID-19 and allows for an
-analysis of the immune response at each clinical stage. However,
-it must be noted that the immune response is conditioned
-by epidemiological variables, such as intensity and duration of
-exposure to the virus and possible variations in viral virulence
-and, on the host side, genetic susceptibility/resistance and health
-conditions at the time of exposure. The latter includes, among
-other variables, age and the existence of comorbidities that may
-directly affect the immune system (8, 48).
-Despite its high infectivity, not everyone exposed to SARSCoV-2 becomes infected (15). The reasons for such resistance are
-The Role of Secretory Immunoglobulin a
-It is worth noting that the role of secretory immunoglobulin
-A (sIgA) in COVID-19 has received little attention, despite the
-fact that SARS-CoV-2 enters the body through the respiratory
-mucosa and sIgA is fundamental to the mucosal defenses.
-Furthermore, several studies into COVID-19 have shown the
-presence of serum IgA against SARS-CoV-2 (70, 7779) and, in
-preclinical studies with anti-SARS vaccines, administered either
-sub-lingually or intranasally, the presence of neutralizing IgA was
-demonstrated in bronchoalveolar lavages (8082). These findings
-support the importance of investigating the presence of sIgA in
-secretions of patients with COVID-19 and defining its possible
-anti-viral neutralizing activity in respiratory tract mucosa (83).
-Antibody-Dependent Enhancement (ADE)
-An intriguing phenomenon that worries many clinicians and
-researchers is the Antibody-Dependent Enhancement (ADE),
-which could be linked to the severity of coronavirus infections
-and could possibly create difficulties with new vaccines (8486).
-COVID-19 Clinical and Immune Spectra
-MERS (100). Xu et al. (101) described bilateral diffuse alveolar
-damage (DAD) with cellular fibromyxoid exudates, pneumocytes
-desquamation and hyaline membrane formation, multinucleated
+as  it  occurs  under  the  natural  conditions  of the infection
+process.  Thus, the present view is based on the  comparison  be‐
+tween  patients  with  moderate and those with severe infections,
+and also with those in the convalescent stage. Another aspect  to
+be explored is the effect of previous exposure to other less vir‐
+ulent coronaviruses that may have cross‐reactivity with more vir‐
+ulent  ones. Additionally, most of the studies have been done us‐
+ing blood samples, which do not necessarily  correlate  with  the
+events  going  on  in  the affected tissues. Fortunately, several
+studies on discussed below.  From an immunological point of view,
+the  wide  clinical  spectrum  of COVID‐19 allows us to postulate
+different hypotheses,  some  of  them  which  have  already  been
+proven,  outcomes during the course of COVID‐19 and allows for an
+analysis of the immune response at each clinical stage.  However,
+it  must be noted that the immune response is conditioned by epi‐
+demiological variables, such as intensity and duration  of  expo‐
+sure to the virus and possible variations in viral virulence and,
+on the host side, genetic  susceptibility/resistance  and  health
+conditions  at  the  time of exposure. The latter includes, among
+other variables, age and the existence of comorbidities that  may
+directly  affect the immune system (8, 48).  Despite its high in‐
+fectivity, not everyone exposed  to  SARSCoV‐2  becomes  infected
+(15).  The  reasons for such resistance are The Role of Secretory
+Immunoglobulin a It is worth noting that the  role  of  secretory
+immunoglobulin  A  (sIgA)  in COVID‐19 has received little atten‐
+tion, despite the fact that SARS‐CoV‐2 enters  the  body  through
+the respiratory mucosa and sIgA is fundamental to the mucosal de‐
+fenses.  Furthermore, several studies into  COVID‐19  have  shown
+the  presence  of serum IgA against SARS‐CoV‐2 (70, 7779) and, in
+preclinical studies with anti‐SARS vaccines, administered  either
+sub‐lingually  or  intranasally, the presence of neutralizing IgA
+was demonstrated in bronchoalveolar lavages (8082).  These  find‐
+ings support the importance of investigating the presence of sIgA
+in secretions of patients with COVID‐19 and defining its possible
+anti‐viral  neutralizing  activity  in  respiratory  tract mucosa
+(83).  Antibody‐Dependent Enhancement (ADE) An intriguing phenom‐
+enon  that  worries  many clinicians and researchers is the Anti‐
+body‐Dependent Enhancement (ADE), which could be  linked  to  the
+severity of coronavirus infections and could possibly create dif‐
+ficulties with new vaccines (8486).  COVID‐19 Clinical and Immune
+Spectra  MERS  (100). Xu et al. (101) described bilateral diffuse
+alveolar damage (DAD) with cellular fibromyxoid exudates, pneumo‐
+cytes desquamation and hyaline membrane formation, multinucleated
 syncytial cells, atypical enlarged pneumocytes with large nuclei,
-amphophilic granular cytoplasm, and prominent nucleoli, as well
-as interstitial mononuclear infiltration. Zhang et al. (47) also
-reported DAD with denudation of the alveolar epithelia, reactive
-type-II pneumocyte hyperplasia, intra-alveolar fibrinous exudate,
-and loose fibrous plugs, along with loose interstitial fibrosis
-an anti-Rp3 NP of SARS-CoV-2, demonstrated the presence
-of the virus on alveolar epithelial cells, including damaged,
-desquamated cells within the alveolar space, but its presence was
-only minimally detected on the blood vessels and the interstitium.
-Taken together, the histopathological findings in COVID-19
-fatalities support that, in addition to the direct cytopathic effect
-of SARS-CoV-2 on the pneumocytes, an immunological response
-exists that includes a severe inflammatory reaction and extensive
-lung damage (22).
-still unknown. It is possible that a small, occasional inoculum
-does not reach the lower respiratory tract, where susceptible
-target cells are found. Nevertheless, as yet unidentified genetic
-conditions may also explain this per se resistance. On this
-regard, no association of SARS with ACE2 polymorphisms was
-A central tenet of our view on COVID-19
-immunopathogenesis is that a protective immune response must
-be present in patients with asymptomatic and mild infections,
-and even in some with moderate infections who do not progress
-to severe disease. This response must be capable of inhibiting
-viral replication and eliminating the hosts infected cells with
-minimal tissue damage and low inflammatory manifestations
-genetic conditions for viral antigen presentation by HLA-I and II
-molecules to CD8 and CD4 T cells, respectively. In this context,
-Grifoni et al. (92), using a bioinformatic approach, identified 241
-candidate epitopes for HLA-II alleles in SARS-CoV-2, and 628
-for class I alleles, which may be bound by the more common
-HLA alleles, irrespective of their ethnic group. The high number
-of epitopes, also present in SARS-CoV (93), may explain the lack
-of a consistent association of SARS with HLA antigens (9498).
-THE IMMUNOLOGICAL PROFILE OF
-COVID-19 PATIENTS
-There is consensus that in severe COVID-19 infection, an
-exacerbated pulmonary and systemic inflammatory response
-occurs, with increased serum levels of inflammatory markers,
-such as C-reactive protein (CRP), lactic dehydrogenase (LDH),
-In patients with COVID-19, the post mortem histopathological
-findings are similar to those reported in SARS (99) and
-COVID-19 Clinical and Immune Spectra
-and the perforin content of NK and CD8+ cells, which also
-negatively correlate with the increased number of circulating
-myeloid-derived suppressor cells (MDSC) (109). Although the
-number of CD4 cells decreased, they expressed activation
-markers such as CD69, CD38, CD44, and HLA-DR, including
-Th17 CD4+ CCR6+ cells, (108). NK cells also decreased in
-both moderate and severe cases of the disease (107, 110).
-Monocytopenia is also found in COVID-19 patients, particularly
-in severe cases, but the circulating monocytes belong mainly to
-the CD14+ CD16+ inflammatory monocyte subset (108).
-ferritin, D-dimer, and IL-6 (2, 5, 6, 67, 102), all of which may
-result in cytokine storm (102104), similarly to SARS and MERS
-patients with moderate and severe COVID-19.
-Changes in Circulating Cells
-Regarding cellular changes, most studies show that lymphopenia,
-although present in moderate infections, is more pronounced in
-severe COVID-19 (17, 108) and affects mainly T cells, including
-CD4 Th1 and Tregs, but particularly CD8 (17, 48, 108110).
-Also, in severe COVID-19 the number of circulating naive T
-cells increases and the number of memory T cells decreases
-(106). Circulating CD8 in patients with severe COVID 19
-exhibited phenotypes associated with abnormal functionality
-(CD8+ IFN-+ GM-CSF+ ) and exhaustion (Tim3+ Pd-1+ ) (108)
-or (NKG2+ CD107a+ IFN-+ grzB+ ) (67). The latter phenotype
-is also found in NK cells. Interestingly, a negative correlation
-has been reported between serum levels of IL-6 and IL-8
-Changes in Cytokine/Chemokine Plasma
-Plasma levels of cytokines and chemokines are also increased
-in COVID-19, but are higher in severe infections, and includes
-IL-2, IL-2R, IL-6, IL-7, IL-8 IL-10, IP10, MIP1A, and TNF (5, 17, 106, 109, 110). High levels of plasmatic IL-6 have
-been consistently reported in COVID-19 and even appear to be
-associated with poor prognosis and risk of death (8). Thus, its
-measurement has been proposed as a good biomarker to monitor
-these patients. Liu et al. (111) studied sixty COVID-19 patients,
-half of whom had a severe case of the disease and high IL-6 levels.
-Baseline IL-6 was higher in more severe cases and correlated with
-bilateral interstitial lung involvement and high body temperature,
-as well as with other serum markers for acute inflammation. Of
-the 30 patients with severe disease, 25 improved clinically and
-showed a significant decrease in IL-6 levels, while these levels
-increased in three patients with disease progression. Coomes
-et al. (112) performed a meta-analysis of 16 papers, that included
-10,798 Chinese patients, in order to test the evidence that IL-6
-levels correlate with COVID-19 severity, and the effectiveness of
-treatment with Tocilizumab, a humanized monoclonal antibody
-against IL-6 receptor. All COVID-19 patients had increased
-levels of serum IL-6, but it was 2.9-fold higher in patients with
-severe COVID-19. Twenty-one patients treated with tocilizumab
-improved clinically with no adverse effects or deaths. Also, Xu
-et al. (113) reported very promising results using Tocilizumab
-treatment in 20 patients with severe COVID-19; all patients
-improved remarkably within a few days and all were discharged
-from the ICU within an average of 15 days.
-TABLE 1 | Clue immunological findings in blood of patients with moderate or
-severe COVID-19.
-COVID-19 moderate
-COVID-19 severe
-Zhou et al.
-No data
-Huang et al.
- IL-2, IL-7, IP10, MIP1A, TNF
-Wu et al.
+amphophilic  granular  cytoplasm, and prominent nucleoli, as well
+as interstitial mononuclear infiltration. Zhang et al. (47)  also
+reported  DAD with denudation of the alveolar epithelia, reactive
+type‐II pneumocyte hyperplasia, intra‐alveolar fibrinous exudate,
+and  loose  fibrous plugs, along with loose interstitial fibrosis
+an anti‐Rp3 NP of SARS‐CoV‐2, demonstrated the  presence  of  the
+virus on alveolar epithelial cells, including damaged, desquamat‐
+ed cells within the alveolar space, but  its  presence  was  only
+minimally  detected  on  the  blood vessels and the interstitium.
+Taken together, the histopathological findings in COVID‐19 fatal‐
+ities  support  that, in addition to the direct cytopathic effect
+of SARS‐CoV‐2 on the pneumocytes, an immunological  response  ex‐
+ists  that  includes a severe inflammatory reaction and extensive
+lung damage (22).  still unknown. It is possible  that  a  small,
+occasional  inoculum  does not reach the lower respiratory tract,
+where susceptible target cells are found.  Nevertheless,  as  yet
+unidentified  genetic conditions may also explain this per se re‐
+sistance. On this regard, no association of SARS with ACE2  poly‐
+morphisms  was  A  central  tenet  of  our  view  on COVID‐19 im‐
+munopathogenesis is that a protective  immune  response  must  be
+present  in  patients  with asymptomatic and mild infections, and
+even in some with moderate infections who do not progress to  se‐
+vere  disease.  This response must be capable of inhibiting viral
+replication and eliminating the hosts infected cells with minimal
+tissue  damage and low inflammatory manifestations genetic condi‐
+tions for viral antigen presentation by HLA‐I and II molecules to
+CD8  and  CD4  T cells, respectively. In this context, Grifoni et
+al. (92), using a bioinformatic approach, identified  241  candi‐
+date epitopes for HLA‐II alleles in SARS‐CoV‐2, and 628 for class
+I alleles, which may be bound by the more common HLA alleles, ir‐
+respective  of  their  ethnic group. The high number of epitopes,
+also present in SARS‐CoV (93), may explain the lack of a  consis‐
+tent  association  of SARS with HLA antigens (9498).  THE IMMUNO‐
+LOGICAL PROFILE OF COVID‐19 PATIENTS There is consensus  that  in
+severe  COVID‐19 infection, an exacerbated pulmonary and systemic
+inflammatory response occurs, with increased serum levels of  in‐
+flammatory  markers, such as C‐reactive protein (CRP), lactic de‐
+hydrogenase (LDH), In patients with  COVID‐19,  the  post  mortem
+histopathological  findings are similar to those reported in SARS
+(99) and COVID‐19 Clinical and Immune Spectra  and  the  perforin
+content  of  NK  and  CD8+ cells, which also negatively correlate
+with the increased number of circulating myeloid‐derived suppres‐
+sor  cells  (MDSC)  (109).  Although  the number of CD4 cells de‐
+creased, they expressed activation markers such  as  CD69,  CD38,
+CD44,  and  HLA‐DR,  including  Th17  CD4+ CCR6+ cells, (108). NK
+cells also decreased in both moderate and  severe  cases  of  the
+disease  (107, 110).  Monocytopenia is also found in COVID‐19 pa‐
+tients, particularly in severe cases, but the  circulating  mono‐
+cytes belong mainly to the CD14+ CD16+ inflammatory monocyte sub‐
+set (108).  ferritin, D‐dimer, and IL‐6 (2, 5, 6, 67,  102),  all
+of which may result in cytokine storm (102104), similarly to SARS
+and MERS patients with moderate and severe COVID‐19.  Changes  in
+Circulating  Cells  Regarding cellular changes, most studies show
+that lymphopenia, although present  in  moderate  infections,  is
+more pronounced in severe COVID‐19 (17, 108) and affects mainly T
+cells, including CD4 Th1 and Tregs, but particularly CD8 (17, 48,
+108110).   Also,  in  severe  COVID‐19  the number of circulating
+naive T cells increases and the number of memory T cells decreas‐
+es (106). Circulating CD8 in patients with severe COVID 19 exhib‐
+ited phenotypes  associated  with  abnormal  functionality  (CD8+
+IFN‐+  GM‐CSF+  )  and  exhaustion (Tim3+ Pd‐1+ ) (108) or (NKG2+
+CD107a+ IFN‐+ grzB+ ) (67). The latter phenotype is also found in
+NK cells. Interestingly, a negative correlation has been reported
+between  serum  levels  of  IL‐6  and   IL‐8   Changes   in   Cy‐
+tokine/Chemokine Plasma Plasma levels of cytokines and chemokines
+are also increased in COVID‐19, but are higher in  severe  infec‐
+tions,  and  includes  IL‐2, IL‐2R, IL‐6, IL‐7, IL‐8 IL‐10, IP10,
+MIP1A, and TNF (5, 17, 106, 109, 110). High levels  of  plasmatic
+IL‐6  have been consistently reported in COVID‐19 and even appear
+to be associated with poor prognosis and risk of death (8). Thus,
+its  measurement has been proposed as a good biomarker to monitor
+these patients. Liu et al. (111) studied sixty COVID‐19 patients,
+half  of whom had a severe case of the disease and high IL‐6 lev‐
+els.  Baseline IL‐6 was higher in more severe cases and correlat‐
+ed  with  bilateral  interstitial  lung involvement and high body
+temperature, as well as with other serum markers  for  acute  in‐
+flammation.  Of  the 30 patients with severe disease, 25 improved
+clinically and showed a  significant  decrease  in  IL‐6  levels,
+while  these levels increased in three patients with disease pro‐
+gression. Coomes et al. (112) performed a meta‐analysis of 16 pa‐
+pers, that included 10,798 Chinese patients, in order to test the
+evidence that IL‐6 levels correlate with COVID‐19  severity,  and
+the effectiveness of treatment with Tocilizumab, a humanized mon‐
+oclonal antibody against IL‐6 receptor. All COVID‐19 patients had
+increased levels of serum IL‐6, but it was 2.9‐fold higher in pa‐
+tients with severe COVID‐19.  Twenty‐one  patients  treated  with
+tocilizumab  improved  clinically  with  no  adverse  effects  or
+deaths. Also, Xu et al. (113) reported very promising results us‐
+ing  Tocilizumab  treatment  in 20 patients with severe COVID‐19;
+all patients improved remarkably within a few days and  all  were
+discharged  from the ICU within an average of 15 days.  TABLE 1 |
+Clue immunological findings in blood of patients with moderate or
+severe  COVID‐19.   COVID‐19 moderate COVID‐19 severe Zhou et al.
+No data Huang et al.
+ IL‐2, IL‐7, IP10, MIP1A, TNF Wu et al.
  PMNs,  Lymphocytes,
- IL-6 (at risk of death)
-Qin et al.
-No data
- PMNs,  Lymphocytes, T
-(Th1 y Tregs), B, NK;  T
-Chen et al.
-IL-2R, IL-6, IL-10, TNF;
- Lymphocytes, CD4 and
-IL-2R, IL-6, IL-10.TNF
-Wan et al.
+ IL‐6 (at risk of death) Qin et al.  No data
+ PMNs,  Lymphocytes, T (Th1 y Tregs),  B,  NK;   T  Chen  et  al.
+IL‐2R, IL‐6, IL‐10, TNF;
+ Lymphocytes, CD4 and IL‐2R, IL‐6, IL‐10.TNF Wan et al.
  CD4, CD8, B, NK
- IL-4, IL-10, IL-17, TNF,
- CD4, CD8, B, NK
-Zheng et al.
- CD8, NK
-(NKG2+ CD107a+ IFN+ grzB+ )
- CD8, NK
-(NKG2+ CD107a+ IFN+ grzB+ )
-Lei et al.
-NK, T CD25+ ,  PD-1
-Zhou et al.
- Lymphocytes,  Monocytes,
-CD4;  PMNs, B, NK;
+ IL‐4, IL‐10, IL‐17, TNF,
+ CD4, CD8, B, NK Zheng et al.
+ CD8, NK (NKG2+ CD107a+ IFN+ grzB+ )
+ CD8,  NK  (NKG2+  CD107a+ IFN+ grzB+ ) Lei et al.  NK, T CD25+ ,
+PD‐1 Zhou et al.
+ Lymphocytes,  Monocytes, CD4;  PMNs, B, NK;
  MonocytesCD14+ CD16+
- IL-2R, IL-6, IL-8, IL-10
-Xu et al.
-Bordoni et al.
-Dynamics of the Immune and Inflammatory
-During the course of COVID-19 infection, viral replication,
-immune response, and inflammatory reaction are dynamic
-events that can change rapidly, resulting in different outcomes;
-several reports have addressed these changes. Thevarajan et al.
-(114) reported the case of a patient with mild to moderate
-infection that was clinically, virologically, and immunologically
-followed over the course of the disease, including her recovery 13
-days after the initiation of symptoms, and through to Day 20 at
-which point she had recovered. The virus was detected on Days 4
-IgM and IgG anti-SARS-CoV-2 antibodies progressively increase
-from Day 7 through to Day 20. Circulating antibody-secreting
-B cells, CD3 CD19+ CD27hi CD38hi , appeared in the blood at
-(CD69+ CD38+ CD44+ ),
-CD8+ IFN-+ GM-CSF+
- MonocytesCD14+ CD16+
-CD4+ CCR6+ Th17
- Lymphocytes,  CD3, 
- IL-1b, IL-6, Il-8,TNF
- Lymphocytes,  CD3, 
-MDSC,  NKperf+
- IL-1b, IL-6, Il-8,TNF
- , normal values; , decreased, , severe decreased; , increased, , severe
-COVID-19 Clinical and Immune Spectra
-2 The simultaneous presence of other viruses in the mucosa
-of the respiratory tract, common in children, could limit the
-growth of SARS-CoV-2 by direct virus-to-virus competition;
-3 The treatment with ACE2 inhibitors and angiotensin receptors
-blockers, a common procedure in hypertensive adults, upregulates ACE2 expression, increasing susceptibility to SARSCoV-2 infection. These theoretical possibilities require clinical
-and experimental validation.
-the time of viral clearance (Day 7), peaked on Day 8, and
-remained high through to Day 20. Follicular helper T cells (TFH ),
-CD4+ CXCR5+ ICOS+ PD-1+ , were also detected on Day 7 and
-continued increasing through to Day 20. Activated cytotoxic
-CD8 T cells, CD8+ CD38+ HLA-DR+ , were also present on Day 7,
-increased through to Day 9, and then decreased through to Day
-20, although with values higher than in healthy controls. There
-was no increase in inflammatory CD14+ CD16+ monocytes, nor
-in activated NK CD3 CD56+ HLA-DR+ cells. Regarding serum
-cytokines, of the 17 pro-inflammatory cytokines studied, only
-low levels of MCP1/CCL2 were found on Days 79. This case
-is interesting since there are very few studies on patients with
-mild infections and because IgM and IgG antibodies, antibody
-secreting B cells, CD4 TFH cells, and activated cytotoxic CD8 cells
-were shown to be circulating before resolution of the symptoms.
-Ong et al. (115) compared the blood transcriptional profile of
-three patients in early phases of Infection -one of whom evolved
-to a severe disease- with 10 healthy volunteers. The main findings
-in the patient who progressed to severe disease was that only
-IL-1A and IL-1B preceded the nadir of the respiratory function,
-and that the expression of most inflammatory genes, particularly
-IL-6, IL-2, TNF-, and IFNA1/13, peaked thereafter. Also, in
-this patient, transcripts associated with HLA, CD4, and CD8 T
-cell activation were diminished, while in the other two patients,
-who did not progress to severe disease, the transcription profile
-that in the first case the decreased T cell activation may have
-helped the inflammatory response by the IL-1 pathway, while
-in the other two cases the low inflammatory response allowed a
-moderate T cell response.
-STUDIES IN BRONCHOALVEOLAR LAVAGE
-Findings in blood do not necessarily explain the events occurring
-in tissues directly affected by the infection, thus studies in
-Xiong et al. (127) used RNA-seq to study BALFs and peripheral
-blood mononuclear cells (PBMC) transcriptome from three
-COVID-19 patients (unfortunately their clinical conditions were
-not reported) and from three healthy subjects. The BALF cells
-in these patients expressed 9,609 genes, 679 of which were
-up-regulated and 325 down-regulated, as opposed to controls.
-In PBMC, 15,726 genes were expressed, with 707 up-regulated
-and 316 down-regulated. BALF cells from patients showed a
-differential expression of genes related to viral invasion and
-replication (viral RNA was detected in BALFs of all three
-patients) such as membrane-associated proteins, endoplasmic
-reticulum, and viral transcription. In contrast, PBMCs showed
-increased expression of genes related to complement activation,
-immunoglobulins, and B cell-mediated responses, while some
-genes corresponded to the acute inflammatory response. The
-down-regulated genes in patients BALF were mostly related to
-activation of the immune response. Comparison of the cytokine
-genes showed that in BALFs the genes for IL-10, CCL2/MCP-1
-(together with its CCR2 receptor), CXCL10/IP-10, CCL3/MIP1A (together with its CCR5 receptor), and CCL4/MIP1B were
-differentially up-regulated. Another relevant finding was that
-in PBMC, genes related to autophagy, apotopsis, and p53
-pathways were up-regulated, a finding that could be related to
-the lymphopenia detected in the three patients. Interestingly,
-IL-6 transcripts were not increased in PBMCs, although the
-patients had high plasma levels of such cytokine, suggesting that
-Effect of Age
-One of the risk factors most strongly associated with severe
-COVID-19 and death is advanced age. Immunosenescence
-present in the elderly affects innate immunity (116), but mainly
-T cell-dependent adaptive responses (117120). In addition,
-experimental evidence suggests that elderly mice have increased
-levels of proinflammatory cytokines and that their alveolar
-macrophages are refractory to activation by IFN- (121). This
-finding is relevant since the protective response that eliminates
-the virus depends on cytotoxic CD8 cells and Th1 responses,
-with IFN- playing an important role in both responses, as
-demonstrated in SARS and MERS (122, 123).
-Increased susceptibility in the elderly to present with severe
-COVID-19 forms contrasts with the lower frequency of these
-45 publications on COVID-19 and found that 15% of the
-patients are children who, although they present with fever
-and respiratory symptoms, experience milder symptoms and
-among whom death was extremely rare. The increase in
-inflammatory markers and lymphocytopenia were also less
-common in children. Brodin (125) postulated the following three
-explanations for the milder COVID-19 presentation in children:
-TABLE 2 | Differentially expressed genes (DEGs) up-regulated in bronchoalveolar
-lavage fluid (BALF) of patients with moderate or severe COVID-19.
-1 The immune response is qualitatively different in children and
-adults, something that has been extensively studied (126);
-Up-regulated genes
-Xiong et al. (127)
-IL-10, CCL2/MCP-1, CCR2, CXCL10/IP-10,
-CCL3/MIP-1A, CCR5, and CCL4/MIP1B
-Liao et al. (128)
-FCN1hi ; FCN1lo SPP1+ ; FCN1 SPP1 inflammatory
-monocytes/macrophages in severe disease
-CD8 activation and effector molecules and higher
-CD8 TCR repertoire in moderate illness
-Zhou et al. (129)
-CXCL17, CXCL8 and CXCL2, CXCR2, CCL2, CCL7
-IL-1, ISGs, IL-17, TNF, and NF-B signaling
-COVID-19 Clinical and Immune Spectra
-circulating IL-6 could have been produced in the lungs, either by
-alveolar epithelial cells or by recruited inflammatory cells.
-In another study, Liao et al. (128) used scRNA-seq and scTCRseq to determine BALF cells transcriptional signature in three
-patients with severe and another three with moderate COVID19, and compared them with eight healthy subjects, previously
-studied. Their main findings were related to macrophages and
-CD8 cells. Macrophages were predominant in BALFs from
-patients with severe infection, with a minor proportion of T
-and NK cells, as compared with patients with moderate disease.
-Macrophages were classified in 22 clusters, according to their
-expression of FCN1 (monocyte-derived), SPP1 (pro-fibrotic), and
-FABP4 (alveolar macrophages). These genes were differentially
-expressed both among the two groups of patients and the healthy
-controls. FABP4 was preferentially expressed in healthy controls
-and in patients with moderate COVID-19, while FCN1 and
-SPP1 were expressed in patients with severe COVID-19. Further
-macrophages classification resulted in four groups: Group 1,
-FCN1hi only; Group 2, FCN1lo SPP1+ ; Group 3, FCN1 SPP1+ ;
-and Group 4, FABP4+ . Group 1 macrophages expressed genes
-associated with inflammatory monocytes; Group 2 expressed
-chemokines and interferon stimulated genes (ISG); Group 3,
-genes related with immune regulation and profibrotic events; and
-Group 4 were alveolar macrophage typical genes. According to
-the investigators, these results suggest that during SARS-CoV2 infection, inflammatory monocytes (FCN1+ ) are recruited
-from the circulation into the lungs, where they differentiate into
-SPP1+ macrophages, constituents of the severe inflammatory
-reaction. Analysis of the BALF transcriptome showed that T
-and NK cells are increased in COVID-19 patients, compared to
-healthy controls, which according to their gene expression can
-be classified in NK, CD8, CD4, Tregs, and proliferating cells. An
-important finding was that genes related to activating molecules,
-migration, calcium signaling, and effector molecules were highly
-expressed by CD8 cells in patients with moderate infection,
-compared with patients with severe COVID-19; this further
-supports the role of CD8 cells in the elimination of the virus
-and their subsequent, protective immunity. In contrast, patients
-with severe disease had a higher expression of genes related to
-proliferation, energy generation, and initiation of translation.
-These results suggest that in patients with moderate infection
-CD8 cells are more differentiated and efficient, while in severe
-Infection T cells are in a proliferative stage. Additionally, the
-finding that the TCR repertoire is higher in CD8 than in CD4
-cells, suggests a larger clonal expansion of the CD8 cells taking
-part in the resolution of the infection.
-Zhou et al. (129) used metatranscriptomic sequencing to
-profile immune signatures in the BALF of eight COVID-19
-patients, compared to 146 community-acquired pneumonia
-patients and 20 healthy controls. Their results show that in
-BALF from COVID-19, the differentially expressed genes (DEGs)
-included up-regulated proinflammatory chemokines genes, such
-as CXCL17, CXCL8, and CXCL2, as well as the CXCR2
-receptor, critical to neutrophil recruitment, and CCL2 and
-found that COVID-19 patients up-regulated IL-1, antiviral
-Interferon stimulated genes (ISGs), and genes related to the
-IL-17, TNF, and NF-B signaling pathways. In addition, the
-cellular analysis showed an increased neutrophil to lymphocyte
-ratio (NLR) in patients with COVID-19 compared to patients
-with other pneumonias.
-Taken together, findings in BALF demonstrate both a highly
-dysregulated innate and adaptive immune response in the
-affected lungs of patients with COVID-19.
-Just 5 months after the initiation of the COVID-19 pandemic
-in China, which extended quickly worldwide to greatly impact
-public health and economies, the amount of information
-gathered on all aspects of the infection and the celerity with
-which the international scientific community has shared such
-information is to be used in defining new diagnostic, therapeutic,
-or prophylactic protocols. It is also important to consider
-the brief amount of time elapsed since the beginning of the
-pandemic, during which time it has not been possible to gather
-sufficient results from in vitro and experimental animal models
-to ensure further understanding of COVID-19s biology. Even
-when considering these limitations, the information provided by
-qualitative differences in the immune responses of those infected
-with SARS-CoV-2 which seem to correlate with the clinical
-manifestations of COVID-19. Although studies of asymptomatic
-infected individuals are lacking, the immunological profiles of
-patients with moderate infections indicate a protective T celldependent response, in contrast to patients with severe disease
-who exhibit an exacerbated systemic inflammation, with signs of
-T cells exhaustion.
-The following fundamental aspects need to be defined through
-close collaboration between clinicians and basic researchers, with
-strong support from the public and private financial agencies:
-1 The alterations of the immune regulation that allow the
-disease to advance from an asymptomatic or mild infection
-to a severe disease with poor prognosis. Translational
-immunological research focusing on the cellular and
-molecular aspects of the virus-host interaction, using
-sophisticated bioinformatics and system biology tools,
-must be pursued. This includes experimental animal
-models required for a deep understanding of COVID19s immunopathogenesis. Besides patients with moderate
-and severe COVID-19, studies in humans must include
-seropositive asymptomatic individuals and patients with
-virologically confirmed mild infections. These subjects should
-be studied in long-term follow-up cohorts.
-2 The genetics of resistance/susceptibility at the various stages
-of the infection and the disease. Topics like the resistance per
-se in exposed non-infected individuals, and the genetic risk
-factors for the progression from asymptomatic to moderate
-and severe disease must be prioritized. Initiatives like COVID
-COVID-19 Clinical and Immune Spectra
-that direction.
-3 Based on the previous points it is necessary to find correlates
-of protective immunity and prognostic biomarkers to guide
-personalized management of infected individuals in order to
-prevent their progression to severe forms of the disease.
-4 New pharmacological and immune-based treatments must
-be developed simultaneously with rigorous evaluation of
-treatments already available. The analysis of the currently
-available pharmacological treatments, or those under
-Possible immunotherapies may include: convalescent plasma,
-already assayed in a small number of patients (131133);
-monoclonal antibodies against the IL-6 receptor (112, 113)
-and interferon  (134, 135); and Leronlimab CCR5 blocking
-antibody (136), among others. Fortunately, a good number
-of controlled clinical assays have been initiated under strict
-dist=) which will hopefully provide, within a prudential
-time, therapeutic agents for the efficient treatment of
-COVID-19 patients.
-5 Development of vaccines to prevent, and hopefully eliminate,
-SARS-CoV-2 and other coronavirus infections. As expected,
-many investigators and biotechnology companies are
-dedicating all their efforts and resources to obtaining an
-effective vaccine in the shortest time possible. Although this
-the different approaches, mostly targeting the S protein
-with its RBD. Vaccine candidates include RNA and DNA
-vaccines, recombinant proteins, and vectored vaccines, as
-well as inactivated and live attenuated vaccines. The first
-immunogenicity of a recombinant adenovirus type-5 (Ad5)
-vectored expressing S protein of SARS-CoV-2 (138). One
-hundred ninety-five participants were allocated in three
-dose groups and followed for 28 days post-vaccination.
-Mild adverse reactions were common within the first 7 days
-after vaccination with no serious events noted during the
-observation period. Neutralizing antibodies were detected at
-Day 14 and peaked at Day 28 post-vaccination, and specific
-CD4 and CD8 cells peaked at Day 14 and remained present
-through Day 28 in the three dose groups. It is important to
-note that development of an efficient vaccine requires a deep
-understanding not only of the viral antigens and epitopes, but
-also of the immunological events leading up to the epitope
-presentation and recognition resulting in the establishment
-of a protective immune memory, the effector mechanisms
-in response to the antigens, and the adjuvants present in
-the proposed vaccine, one that would have minimal side
-Finally, it is important to remember what many investigators
-of SARS and MERS have written in their publications, long
-before the emergency of COVID-19 pandemics: what will be
-learned from this pandemic must be used to prevent future
-coronavirus epidemics.
-AUTHOR CONTRIBUTIONS
-To professors Gloria Vsquez and Carlos F. Narvaez for
-professor Angela Restrepo and Ms. Sally Station for their
-valuable suggestions and help in the preparation of the
-6. Chen T, Wu D, Chen H, Yan W, Yang D, Chen G, et al. Clinical characteristics
-of 113 deceased patients with coronavirus disease 2019: retrospective study.
-7. Kucharski AJ, Russell WT, Diamond C, Liu Y, Edmunds J, Funk
-S, et al. Early dynamics of transmission and control of COVID19: a mathematical modelling study. Lancet Infect Dis. (2020) 29:553
-8. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk factors associated
-with acute respiratory distress syndrome and death in patients with
-coronavirus disease 2019 pneumonia in Wuhan, China. JAMA Intern Med.
-9. Wu F, Zhao S, Yu B, Chen MY, Wang W, Song GZ, et al. A new coronavirus
-associated with human respiratory disease in China. Nature. (2020) 579:265
-10. Zhou P, Yang LX, Wang GX, Hu B, Zhang L, Zhang W, et al. A pneumonia
-outbreak associated with a new coronavirus of probable bat origin. Nature.
-11. Wen F, Yu H, Guo J, Li Y, Luo K, Huang S. Identification of the hypervariable genomic hotspot for the novel coronavirus SARS-CoV-2. J Infect.
-12. Cardenas-Conejo Y, Linan-Rico A, Garcia-Rodriguez DA, Centeno-Leija
-S, Serrano-Posada H. An exclusive 42 amino acid signature in pp1ab
-protein provides insights into the evolutive history of the 2019 novel
-1. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early
-transmission dynamics in Wuhan, China, of novel coronavirus-infected
-2. Guan WJ, Ni YZ, Hu Y, Liang HW, Ou QC, He XJ, et al. Clinical
-characteristics of coronavirus disease 2019 in China. N Engl J Med. (2020)
-3. World Health Organization. Statement on the Second Meeting of the
-International Health Regulations (2005) Emergency Committee regarding
-4. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological
-and clinical characteristics of 99 cases of 2019 novel coronavirus
-pneumonia in Wuhan, China: a descriptive study. Lancet. (2020) 395:507
-5. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of
-patients infected with 2019 novel coronavirus in Wuhan, China. Lancet.
-COVID-19 Clinical and Immune Spectra
-35. Hoffmann M, Kleine-Weber H, Schroeder S, Kruger N, Herrler T, Erichsen
-S, et al. SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is
-blocked by a clinically proven protease inhibitor. Cell. (2020) 181:270
-36. Lan J, Ge J, Yu J, Shan S, Zhou H, Fan S, et al. Structure of the SARS-CoV-2
-spike receptor-binding domain bound to the ACE2 receptor. Nature. (2020)
-37. Liu Z, Xiao X, Wei X, Li J, Yang J, Tan H, et al. Composition and
-divergence of coronavirus spike proteins and host ACE2 receptors predict
-potential intermediate hosts of SARS-CoV-2. J Med Virol. (2020) 92:595601.
-38. Luan J, Lu Y, Jin X, Zhang L. Spike protein recognition of
-mammalian ACE2 predicts the host range and an optimized ACE2
-for SARS-CoV-2 infection. Biochem Biophys Res Commun. (2020)
-39. Yan R, Zhang Y, Li Y, Xia L, Guo Y, Zhou Q. Structural basis for the
-recognition of SARS-CoV-2 by full-length human ACE2. Science. (2020)
-40. Wrapp D, Wang N, Corbett SK, Goldsmith AJ, Hsieh LC, Abiona O, et al.
-Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation.
-41. Ou X, Liu Y, Lei X, Li P, Mi D, Ren L, et al. Characterization
-of spike glycoprotein of SARS-CoV-2 on virus entry and its
-immune cross-reactivity with SARS-CoV. Nat Commun. (2020)
-42. Shang J, Wan Y, Liu C, Yount B, Gully K, Yang Y, et al.
-Structure of mouse coronavirus spike protein complexed with
-receptor reveals mechanism for viral entry. PLoS Pathog. (2020)
-43. Hamming I, Timens W, Bulthuis LM, Lely TA, Navis G, van GH. Tissue
-distribution of ACE2 protein, the functional receptor for SARS coronavirus.
-A first step in understanding SARS pathogenesis. J Pathol. (2004) 203:631
-44. Zou X, Chen K, Zou J, Han P, Hao J, Han Z. Single-cell RNA-seq data
-analysis on the receptor ACE2 expression reveals the potential risk of
-different human organs vulnerable to 2019-nCoV infection. Front Med.
-45. Letko M, Marzi A, Munster V. Functional assessment of cell entry and
-receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat
-46. Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et al. Prevalence of
-comorbidities in the novel Wuhan coronavirus (COVID-19) infection:
-47. Zhang H, Zhou P, Wei Y, Yue H, Wang Y, Hu M, et al. Histopathologic
-changes and SARS-CoV-2 immunostaining in the lung of a patient with
-48. Zhou Y, Zhang Z, Tian J, Xiong S. Risk factors associated with disease
-progression in a cohort of patients infected with the 2019 novel coronavirus.
-49. Fauci AS, Lane CH, Redfield RR. Covid-19navigating the uncharted. N Engl
-50. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial
-of novel coronavirus (SARS-CoV2). Science. (2020) 368:489
-51. Fung TS, Liu DX. The ER stress sensor IRE1 and MAP kinase ERK modulate
-autophagy induction in cells infected with coronavirus infectious bronchitis
-52. Shi CS, Qi YH, Boularan C, Huang NN, Abu-Asab M, Shelhamer
-HJ, et al. SARS-coronavirus open reading frame-9b suppresses innate
-immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6
-53. Kuba K, Imai Y, Rao S, Gao H, Guo F, Guan B, et al. (2005). A crucial role of
-angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung
-human-pathogenic coronavirus (SARS-CoV2). J Med Virol. (2020)92:688
-Shen Z, Xiao Y, Kang L, Ma W, Shi L, Zhang L, et al. Genomic diversity of
-SARS-CoV-2 in Coronavirus Disease 2019 patients. Clin Infect Dis. (2020)
-Andersen KG, Rambaut A, Lipkin IW, Holmes CE, Garry
-RF. The proximal origin of SARS-CoV-2. Nat Med. (2020)
-Shi Y, Wang Y, Shao C, Huang J, Gan J, Huang X, et al. COVID-19
-infection: the perspectives on immune responses. Cell Death Differ. (2020)
-Li G, Fan Y, Lai Y, Han T, Li Z, Zhou P, et al. Coronavirus infections and
-Chen G, Wu D, Guo W, Cao Y, Huang D, Wang H, et al. Clinical and
-immunological features of severe and moderate coronavirus disease 2019.
-Cao X. COVID-19: immunopathology and its implications for therapy. Nat
-Perlman S, Dandekar AA. Immunopathogenesis of coronavirus
-Lau YL, Peiris JS. Pathogenesis of severe acute respiratory syndrome. Curr
-Fung TS, Liu DX. Human coronavirus: host-pathogen interaction. Annu Rev
-World Health Organization. Naming the Coronavirus Disease (COVID-19
-naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causesit (accessed March 14, 2020).
-Li X, Zai J, Zhao Q, Nie Q, Li Y, Foley TB, et al. Evolutionary history, potential
-intermediate animal host, and cross-species analyses of SARS-CoV-2. J Med
-Li B, Si RH, Zhu Y, Yang LX, Anderson ED, Shi LZ, et al.
-Discovery of bat coronaviruses through surveillance and probe
-Raoult D, Zumla A, Locatelli F, Ippolito G, Kroemer G. Coronavirus
-infections: epidemiological, clinical and immunological features and
-Wang N, Shang J, Jiang S, Du L. Subunit vaccines against emerging
-pathogenic human coronaviruses. Front Microbiol. (2020) 11:
-Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome
-structure, replication, and pathogenesis. J Med Virol. (2020)
-Walls AC, Park JY, Tortorici AM, Wall A, McGuire TA, Veesler D. Structure,
-function, and antigenicity of the SARS-CoV-2 spike glycoprotein. Cell.
-Shang J, Ye G, Shi K, Wan Y, Luo C, Aihara H, et al. Structural
-basis of receptor recognition by SARS-CoV-2. Nature. (2020) 581:221
-Tai W, He L, Zhang X, Pu J, Voronin D, Jiang S, et al. Characterization of the
-receptor-binding domain (RBD) of 2019 novel coronavirus: implication for
-development of RBD protein as a viral attachment inhibitor and vaccine. Cell
-Chen Y, Guo Y, Pan Y, Zhao ZJ. Structure analysis of the receptor
-binding of 2019-nCoV. Biochem Biophys Res Commun. (2020) 525:135
-COVID-19 Clinical and Immune Spectra
-73. Tang F, Quan Y, Xin ZT, Wrammert J, Ma MJ, Lv H, et al. Lack of
-peripheral B cell memory responses in recovered patients with Severe Acute
-Respiratory Syndrome: A six years follow-up study. J Immunol. (2011)
-74. Okba NMA, Muller AM, Li W, Wang C, GeurtsvanKessel HC, Corman
-MV, et al. SARS-CoV-2 specific antibody responses in COVID-19 patients.
-75. Petherick A. Developing antibody tests for SARS-CoV-2. Lancet. (2020)
-76. Abbasi J. The promise and peril of antibody testing for COVID-19. JAMA.
-77. Haveri A, Smura T, Kuivanen S, Osterlund P, Hepojoki J, Ikonen N, et al.
-Serological and molecular findings during SARS-CoV-2 infection: the first
-case study in Finland, January to February 2020. Euro Surveill. (2020)
-78. Okba NMA, Muller AM, Li W, Wang C, GeurtsvanKessel HC, Corman
-MV, et al. Severe acute respiratory syndrome coronavirus 2-specific antibody
-responses in coronavirus disease 2019 patients. Emerg Infect Dis. (2020)
-79. Patel R, Babady E, Theel SE, Storch AG, Pinsky AB, St. George K,
-et al. Report from the American Society for Microbiology COVID-19
-80. Shim BS, Stadler K, Nguyen HH, Yun HC, Kim WD, Chang
-J, et al. Sublingual immunization with recombinant adenovirus
-encoding SARS-CoV spike protein induces systemic and mucosal
-immunity without redirection of the virus to the brain. Virol J. (2012)
-81. Du L, Zhao G, Lin Y, Sui H, Chan C, Ma S, et al. Intranasal vaccination
-of recombinant adeno-associated virus encoding receptor-binding domain
-of severe acute respiratory syndrome coronavirus (SARS-CoV) spike
-protein induces strong mucosal immune responses and provides long-term
-protection against SARS-CoV infection. J Immunol. (2008) 180:94856.
-82. Lu B, Huang Y, Huang L, Li B, Zheng Z, Chen Z, et al. Effect of
-respiratory syndrome coronavirus in mice. Immunology. (2010) 130:254
-83. Bene MC, de MC, Eveillard M, Lebri Y. Good IgA bad IgG in SARS-CoV-2
-84. Peeples L. News feature: avoiding pitfalls in the pursuit of a
-COVID-19 vaccine. Proc Natl Acad Sci USA. (2020) 117:8218
-85. Tetro JA. Is COVID-19 receiving ADE from other coronaviruses? Microbes
-86. Iwasaki A, Yang Y. The potential danger of suboptimal
-87. Ho MS, Chen JW, Chen YH, Lin FS, Wang CM, Di J, et al. Neutralizing
-antibody response and SARS severity. Emerg. Infect Dis. (2005) 11:1730
-88. Jaume M, Yip SM, Cheung YC, Leung LH, Li HP, Kien F, et al. Anti-severe
-acute respiratory syndrome coronavirus spike antibodies trigger infection
-of human immune cells via a pH- and cysteine protease-independent
-89. Yip MS, Leung HN, Cheung YC, Li HP, Lee HH, Daeron M, et al. Antibodydependent infection of human macrophages by severe acute respiratory
-90. Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, et al. Molecular mechanism
-for antibody-dependent enhancement of coronavirus entry. J Virol. (2020)
-91. Chiu RW, Tang LN, Hui SD, Chung TG, Chim SS, Chan CK, et al. ACE2 gene
-polymorphisms do not affect outcome of severe acute respiratory syndrome.
-92. Grifoni A, Sidney J, Zhang Y, Scheuermann HR, Peters B, Sette A. A
-sequence homology and bioinformatic approach can predict candidate
-54. Imai Y, Kuba K, Rao S, Huan Y, Guo F, Guan B, et al. Angiotensinconverting enzyme 2 protects from severe acute lung failure. Nature. (2005)
-55. Blanco-Melo D, Nilsson-Payant BE, Liu CW, Uhl S, Hoagland D, Moller
-R, et al. Imbalanced host response to SARS-CoV-2 drives development of
-57. Chu H, Chan FJ, Wang Y, Yuen TT, Chai Y, Hou Y, et al. Comparative
-replication and immune activation profiles of SARS-CoV-2 and SARS-CoV
-in human lungs: an ex vivo study with implications for the pathogenesis of
-58. Manjili RH, Zarei M, Habibi M, Manjili MH. COVID-19 as
-an acute inflammatory disease. J Immunol. (2020) ji2000413.
-59. Felsenstein S, Herbert AJ, McNamara SP, Hedrich CM. COVID19: Immunology and treatment options. Clin Immunol. (2020)
-60. Clay C, Donart N, Fomukong N, Knight BJ, Lei W, Price L, et al. Primary
-severe acute respiratory syndrome coronavirus infection limits replication
-but not lung inflammation upon homologous rechallenge. J Virol. (2012)
-61. Huang AT, Garcia-Carreras B, Hitchings TDM, Yang B, Katzelnick L,
-coronaviruses: antibody kinetics, correlates of protection, and association
-of antibody responses with severity of disease. medRxiv [Preprint]. (2020).
-62. Yang ZY, Huang Y, Ganesh L, Leung K, Kong PW, Schwartz O,
-et al. pH-dependent entry of severe acute respiratory syndrome
-coronavirus is mediated by the spike glycoprotein and enhanced
-by dendritic cell transfer through DC-SIGN. J Virol. (2004)
-63. Vankadari N, Wilce JA. Emerging COVID-19 coronavirus: glycan
-shield and structure prediction of spike glycoprotein and its
-interaction with human CD26. Emerg Microb Infect. (2020)
-64. Wang K, Chen W, Zhou SY, Lian Q-J, Zhang Z, Du P, et al. SARSCoV-2 invades host cells via a novel route: CD147-spike protein. bioRxiv.
-65. Wang X, Xu W, Hu G, Xia S, Sun Z, Liu Z, et al. SARS-CoV-2 infects T
-lymphocytes through its spike protein-mediated membrane fusion. Cell Mol
-66. Huang IC, Bailey CC, Weyer LJ, Radoshitzky RS, Becker MM,
-Chiang JJ, et al. Distinct patterns of IFITM-mediated restriction of
-filoviruses, SARS coronavirus, and influenza A virus. PLoS Pathog. (2011)
-67. Zheng M, Gao Y, Wang G, Song G, Liu S, Sun D, et al. Functional exhaustion
-of antiviral lymphocytes in COVID-19 patients. Cell Mol Immunol. (2020)
-68. He Y, Zhou Y, Liu S, Kou Z, Li W, Farzan M, et al. Receptor-binding domain
-of SARS-CoV spike protein induces highly potent neutralizing antibodies:
-implication for developing subunit vaccine. Biochem Biophys Res Commun.
-69. Bonavia A, Zelus DB, Wentworth ED, Talbot JP, Holmes KV. Identification of
-a receptor-binding domain of the spike glycoprotein of human coronavirus
-70. Guo L, Ren L, Yang S, Xiao M, Chang D, Yang F, et al. Profiling early humoral
-response to diagnose novel coronavirus disease (COVID-19). Clin Infect Dis.
-71. Patrick DM, Petric M, Skowronski MD, Guasparini R, Booth FT, Krajden
-M, et al. An outbreak of human coronavirus OC43 infection and serological
-cross-reactivity with SARS coronavirus. Canad J Infect Dis Med Microbiol.
-72. Theel ES, Slev P, Wheeler S, Couturier RM, Wong JS, Kadkhoda K. The role
-of antibody testing for SARS-CoV-2: is there one? J Clin Microbiol. (2020).
-COVID-19 Clinical and Immune Spectra
-targets for immune responses to SARS-CoV-2. Cell Host Microbe. (2020)
-Janice Oh HL, Ken-En GS, Bertoletti A, Tan YJ. Understanding the T cell
-immune response in SARS coronavirus infection. Emerg Microbes Infect.
-Wang SF, Chen HK, Chen M, Li YW, Chen JY, Tsao HC, et al. Humanleukocyte antigen class I Cw 1502 and class II DR 0301 genotypes are
-associated with resistance to severe acute respiratory syndrome (SARS)
-Xiong P, Zeng X, Song SM, Jia WS, Zhong HM, Xiao LL, et al.
-Lack of association between HLA-A, -B and -DRB1 alleles and the
-development of SARS: a cohort of 95 SARS-recovered individuals in a
-population of Guangdong, southern China. Int J Immunogenet. (2008)
-Lin M, Tseng KH, Trejaut AJ, Lee LH, Loo HJ, Chu CC, et al. Association of
-HLA class I with severe acute respiratory syndrome coronavirus infection.
-Ng MH, Cheng HS, Lau MK, Leung MG, Khoo SU, Zee CB, et al.
-Immunogenetics in SARS: a case-control study. Hong Kong Med J.
-Ng MH, Lau MK, Li L, Cheng HS, Chan YW, Hui KP, et al.
-Association of human-leukocyte-antigen class I (B 0703) and class
-II (DRB1 0301) genotypes with susceptibility and resistance to the
-development of severe acute respiratory syndrome. J Infect Dis. (2004)
-Ding Y, Wang H, Shen H, Li Z, Geng J, Han H, et al. The clinical pathology
-of severe acute respiratory syndrome (SARS): a report from China. J Pathol.
-Ng DL, Al FH, Keating KM, Gerber IS, Jones LT, Metcalfe GM,
-et al. Clinicopathologic, immunohistochemical, and ultrastructural
-findings of a fatal case of middle east respiratory syndrome
-coronavirus infection in the United Arab Emirates. Am J Pathol. (2016)
-Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, et al. Pathological findings
-of COVID-19 associated with acute respiratory distress syndrome. Lancet
-Mehta P, McAuley FD, Brown M, Sanchez E, Tattersall SR, Manson JJ.
-COVID-19: consider cytokine storm syndromes and immunosuppression.
-Pedersen SF, Ho YC. SARS-CoV-2: a storm is raging. J Clin Invest. (2020)
-Hirano T, Murakami M. COVID-19: a new virus, but a familiar
-receptor and cytokine release syndrome. Immunity. (2020) 52:731
-Channappanavar R, Perlman S. Pathogenic human coronavirus infections:
-causes and consequences of cytokine storm and immunopathology. Semin
-Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y. Dysregulation of immune
-response in patients with COVID-19 in Wuhan, China. Clin Infect Dis.
-Lei L, Qian H, Zhou X, Zhang X, Zhang D, Dai T, et al. The
-phenotypic changes of gd T cells in COVID-19 patients. medRxiv.
-Zhou Y, Fu B, Zheng X, Wang D, Zhao C, Qi Y, et al. Pathogenic T cells and
-inflammatory monocytes incite inflammatory storm in severe COVID-19
-Bordoni V, Sacchi A, Cimini E, Notari S, Grassi G, Tartaglia E, et al. An
-inflammatory profile correlates with decreased frequency of cytotoxic cells
-of print].
-Wan S, Yi Q, Fan S, Lv J, Zhang X, Guo L, et al. Characteristics of
-lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized
-patients with 2019 novel coronavirus pneumonia (NCP). medRxiv.
-Liu T, Zhang J, Yang Y, Ma H, Li Z, Zhang J, et al. The potential role
-of IL-6 in monitoring severe case of coronavirus disease 2019. medRxiv.
-113. Xu X, Han M, Li T, Sun W, Wang D, Fu B, et al. Effective treatment of
-severe COVID-19 patients with tocilizumab. Proc Natl Acad Sci USA. (2020)
-114. Thevarajan I, Nguyen OHT, Koutsakos M, Druce J, Caly L, van de Sandt
-CE, et al. Breadth of concomitant immune responses prior to patient
-recovery: a case report of non-severe COVID-19. Nat Med. (2020) 26:453
-115. Ong EZ, Chan ZFY, Leong YW, Lee YMN, Kalimuddin S, Mohideen HMS,
-et al. A dynamic immune response shapes COVID-19 progression. Cell Host
-116. Shaw AC, Goldstein RD, Montgomery RR. Age-dependent dysregulation of
-117. Nikolich-Zugich J. Aging of the T cell compartment in mice and humans:
-from no naive expectations to foggy memories. Jf Immunol. (2014) 193:2622
-118. Goldberg EL, Dixit VD. Drivers of age-related inflammation and
-strategies for healthspan extension. Immunological Rev. (2015) 265:63
-119. Lasry A, Ben-Neriah Y. Senescence-associated inflammatory
-responses: aging and cancer perspectives. Trends Immunol. (2015)
-120. Goronzy JJ, Fang F, Cavanagh MM, Qi Q, Weyand CM. Naive T cell
-maintenance and function in human aging. J Immunol. (2015) 194:4073
-121. Canan CH, Gokhale SN, Carruthers B, Lafuse PW, Schlesinger SL,
-Torrelles BJ, et al. Characterization of lung inflammation and its
-impact on macrophage function in aging. J Leuk Biol. (2014) 96:473
-122. Lin L, Lu L, Cao W, Li T. Hypothesis for potential pathogenesis
-patients with viral pneumonia. Emerg Microb Infect. (2020)
-123. Zhao J, Alshukairi NA, Baharoon AS, Ahmed AW, Bokhari AA, Nehdi
-MA, et al. Recovery from the Middle East respiratory syndrome is
-associated with antibody and T-cell responses. Sci Immunol. (2017)
-cases and a better prognosis than adults. Acta Paediatr. (2020) 109:1088
-125. Brodin P. Why is COVID-19 so mild in children? Acta Paediatr. (2020)
-126. Thome JJ, Yudanin N, Ohmura Y, Kubota M, Grinshpun B, Sathaliyawala T,
-et al. Spatial map of human T cell compartmentalization and maintenance
-127. Xiong Y, Liu Y, Cao L, Wang D, Guo M, Jiang A, et al. Transcriptomic
-characteristics of bronchoalveolar lavage fluid and peripheral blood
-mononuclear cells in COVID-19 patients. Emerg Microbes Infect. (2020)
-128. Liao M, Liu Y, Yuan J, Wen Y, Xu G, Zhao J, et al. The landscape of
-129. Zhou Z, Ren L, Zhang L, Zhong J, Xiao Y, Jia Z, et al. Heightened
-innate immune responses in the respiratory tract of COVID-19 patients.
-130. Sanders JM, Monogue LM, Jodlowski ZT, Cutrell JB. Pharmacologic
-131. Casadevall A, Pirofski LA. The convalescent sera option for containing
-132. Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a
-potential therapy for COVID-19. Lancet Infect Dis. (2020)
-COVID-19 Clinical and Immune Spectra
-138. Zhu FC, Li HY, Guan HX, Hou HL, Wang JW, Li XJ, et al. Safety, tolerability,
-and immunogenicity of a recombinant adenovirus type-5 vectored COVID19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human
-139. Green DR. SARS-CoV2 vaccines: slow is fast. Sci Adv. (2020) eabc7428.
-133. Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, et al. Treatment of 5 critically Ill
-patients with COVID-19 with convalescent plasma. JAMA. (2020) 323:1582
-134. OBrien TR, Thomas LD, Jackson SS, Prokunina-Olsson L, Donnelly
-PR, Hartmann R. Weak induction of interferon expression by SARSCoV-2 supports clinical trials of interferon lambda to treat early
-of print].
-135. Sallard E, Lescure XF, Yazdanpanah Y, Mentre F, Peiffer-Smadja N. Type 1
-interferons as a potential treatment against COVID-19. Antiviral Res. (2020)
-136. Patterson BK, Seethamraju H, Dhody K, Corley JM, Kazempour K, Lalezari
-PJ, et al. Disruption of the CCL5/RANTES-CCR5 pathway restores immune
-homeostasis and reduces plasma viral load in critical COVID-19. medRxiv.
-137. Amanat F, Krammer F. SARS-CoV-2 vaccines: status report. Immunity.
-potential conflict of interest.
-is cited, in accordance with accepted academic practice. No use, distribution or
-reproduction is permitted which does not comply with these terms.
+ IL‐2R, IL‐6, IL‐8, IL‐10 Xu et al.  Bordoni et al.  Dynamics  of
+the  Immune and Inflammatory During the course of COVID‐19 infec‐
+tion, viral replication, immune response, and inflammatory  reac‐
+tion  are  dynamic  events  that can change rapidly, resulting in
+different outcomes; several reports have addressed these changes.
+Thevarajan et al.  (114) reported the case of a patient with mild
+to moderate infection that was clinically, virologically, and im‐
+munologically  followed over the course of the disease, including
+her recovery 13  days  after  the  initiation  of  symptoms,  and
+through to Day 20 at which point she had recovered. The virus was
+detected on Days 4 IgM and IgG  anti‐SARS‐CoV‐2  antibodies  pro‐
+gressively increase from Day 7 through to Day 20. Circulating an‐
+tibody‐secreting B cells, CD3 CD19+ CD27hi CD38hi ,  appeared  in
+the blood at (CD69+ CD38+ CD44+ ), CD8+ IFN‐+ GM‐CSF+
+ MonocytesCD14+ CD16+ CD4+ CCR6+ Th17
+ Lymphocytes,  CD3,
+ IL‐1b, IL‐6, Il‐8,TNF
+ Lymphocytes,  CD3, MDSC,  NKperf+
+ IL‐1b, IL‐6, Il‐8,TNF
+ , normal values; , decreased, , severe decreased; , increased, ,
+severe COVID‐19 Clinical and Immune Spectra  2  The  simultaneous
+presence of other viruses in the mucosa of the respiratory tract,
+common in children, could limit the growth of SARS‐CoV‐2  by  di‐
+rect  virus‐to‐virus  competition;  3 The treatment with ACE2 in‐
+hibitors and angiotensin receptors blockers, a  common  procedure
+in  hypertensive  adults, upregulates ACE2 expression, increasing
+susceptibility to SARSCoV‐2 infection. These  theoretical  possi‐
+bilities  require clinical and experimental validation.  the time
+of viral clearance (Day 7), peaked on Day 8,  and  remained  high
+through  to Day 20. Follicular helper T cells (TFH ), CD4+ CXCR5+
+ICOS+ PD‐1+ , were also detected on Day 7 and continued  increas‐
+ing  through  to  Day  20.  Activated cytotoxic CD8 T cells, CD8+
+CD38+ HLA‐DR+ , were also present on Day 7, increased through  to
+Day 9, and then decreased through to Day 20, although with values
+higher than in healthy controls. There was no increase in inflam‐
+matory  CD14+ CD16+ monocytes, nor in activated NK CD3 CD56+ HLA‐
+DR+ cells. Regarding serum cytokines, of the 17  pro‐inflammatory
+cytokines  studied,  only  low  levels of MCP1/CCL2 were found on
+Days 79. This case is interesting since there are very few  stud‐
+ies  on patients with mild infections and because IgM and IgG an‐
+tibodies, antibody secreting B cells, CD4 TFH cells, and activat‐
+ed  cytotoxic CD8 cells were shown to be circulating before reso‐
+lution of the symptoms.  Ong et  al.  (115)  compared  the  blood
+transcriptional  profile of three patients in early phases of In‐
+fection ‐one of whom evolved to a severe disease‐ with 10 healthy
+volunteers.  The  main  findings in the patient who progressed to
+severe disease was that only IL‐1A and IL‐1B preceded  the  nadir
+of  the respiratory function, and that the expression of most in‐
+flammatory genes, particularly IL‐6, IL‐2,  TNF‐,  and  IFNA1/13,
+peaked  thereafter. Also, in this patient, transcripts associated
+with HLA, CD4, and CD8 T cell activation were  diminished,  while
+in  the  other  two patients, who did not progress to severe dis‐
+ease, the transcription profile that in the first  case  the  de‐
+creased  T  cell  activation may have helped the inflammatory re‐
+sponse by the IL‐1 pathway, while in the other two cases the  low
+inflammatory  response allowed a moderate T cell response.  STUD‐
+IES IN BRONCHOALVEOLAR LAVAGE Findings in blood do not necessari‐
+ly  explain  the events occurring in tissues directly affected by
+the infection, thus studies in Xiong et al. (127) used RNA‐seq to
+study  BALFs  and peripheral blood mononuclear cells (PBMC) tran‐
+scriptome from three COVID‐19 patients (unfortunately their clin‐
+ical  conditions  were  not reported) and from three healthy sub‐
+jects. The BALF cells in these patients  expressed  9,609  genes,
+679 of which were up‐regulated and 325 down‐regulated, as opposed
+to controls.  In PBMC, 15,726 genes were expressed, with 707  up‐
+regulated and 316 down‐regulated. BALF cells from patients showed
+a differential expression of genes related to viral invasion  and
+replication  (viral  RNA  was  detected in BALFs of all three pa‐
+tients) such as membrane‐associated proteins, endoplasmic reticu‐
+lum, and viral transcription. In contrast, PBMCs showed increased
+expression of genes related to complement activation, immunoglob‐
+ulins,  and  B  cell‐mediated  responses, while some genes corre‐
+sponded to the acute inflammatory  response.  The  down‐regulated
+genes  in  patients BALF were mostly related to activation of the
+immune response. Comparison of the cytokine genes showed that  in
+BALFs the genes for IL‐10, CCL2/MCP‐1 (together with its CCR2 re‐
+ceptor), CXCL10/IP‐10, CCL3/MIP1A (together with its CCR5  recep‐
+tor),  and  CCL4/MIP1B  were differentially up‐regulated. Another
+relevant finding was that in PBMC, genes  related  to  autophagy,
+apotopsis,  and  p53  pathways  were up‐regulated, a finding that
+could be related to the lymphopenia detected  in  the  three  pa‐
+tients.  Interestingly,  IL‐6  transcripts  were not increased in
+PBMCs, although the patients had high plasma levels of  such  cy‐
+tokine,  suggesting  that  Effect  of Age One of the risk factors
+most strongly associated with severe COVID‐19 and  death  is  ad‐
+vanced  age.  Immunosenescence present in the elderly affects in‐
+nate immunity (116), but mainly  T  cell‐dependent  adaptive  re‐
+sponses  (117120).  In  addition,  experimental evidence suggests
+that elderly mice have increased levels  of  proinflammatory  cy‐
+tokines and that their alveolar macrophages are refractory to ac‐
+tivation by IFN‐ (121). This finding is relevant since  the  pro‐
+tective  response  that eliminates the virus depends on cytotoxic
+CD8 cells and Th1 responses, with IFN‐ playing an important  role
+in  both  responses, as demonstrated in SARS and MERS (122, 123).
+Increased susceptibility in the elderly to  present  with  severe
+COVID‐19  forms  contrasts  with  the lower frequency of these 45
+publications on COVID‐19 and found that 15% of the  patients  are
+children  who,  although  they present with fever and respiratory
+symptoms, experience milder symptoms and among whom death was ex‐
+tremely  rare. The increase in inflammatory markers and lymphocy‐
+topenia were also less common in children. Brodin (125) postulat‐
+ed  the following three explanations for the milder COVID‐19 pre‐
+sentation in children: TABLE 2 | Differentially  expressed  genes
+(DEGs) up‐regulated in bronchoalveolar lavage fluid (BALF) of pa‐
+tients with moderate or severe COVID‐19.  1 The  immune  response
+is qualitatively different in children and adults, something that
+has been extensively studied (126); Up‐regulated genes  Xiong  et
+al.  (127)  IL‐10,  CCL2/MCP‐1,  CCR2, CXCL10/IP‐10, CCL3/MIP‐1A,
+CCR5, and CCL4/MIP1B Liao et al. (128) FCN1hi ;  FCN1lo  SPP1+  ;
+FCN1  SPP1  inflammatory  monocytes/macrophages in severe disease
+CD8 activation and effector molecules and higher CD8  TCR  reper‐
+toire in moderate illness Zhou et al. (129) CXCL17, CXCL8 and CX‐
+CL2, CXCR2, CCL2, CCL7 IL‐1, ISGs, IL‐17, TNF, and NF‐B signaling
+COVID‐19  Clinical and Immune Spectra circulating IL‐6 could have
+been produced in the lungs, either by alveolar  epithelial  cells
+or  by  recruited  inflammatory cells.  In another study, Liao et
+al. (128) used scRNA‐seq and scTCRseq  to  determine  BALF  cells
+transcriptional  signature  in three patients with severe and an‐
+other three with moderate COVID19, and compared them  with  eight
+healthy  subjects,  previously  studied. Their main findings were
+related to macrophages and CD8 cells. Macrophages  were  predomi‐
+nant  in  BALFs from patients with severe infection, with a minor
+proportion of T and NK cells, as compared with patients with mod‐
+erate  disease.   Macrophages were classified in 22 clusters, ac‐
+cording to their  expression  of  FCN1  (monocyte‐derived),  SPP1
+(pro‐fibrotic),  and  FABP4  (alveolar  macrophages). These genes
+were differentially expressed both among the two  groups  of  pa‐
+tients  and  the  healthy  controls. FABP4 was preferentially ex‐
+pressed  in  healthy  controls  and  in  patients  with  moderate
+COVID‐19, while FCN1 and SPP1 were expressed in patients with se‐
+vere COVID‐19. Further  macrophages  classification  resulted  in
+four  groups: Group 1, FCN1hi only; Group 2, FCN1lo SPP1+ ; Group
+3, FCN1 SPP1+ ; and Group 4, FABP4+ .  Group  1  macrophages  ex‐
+pressed genes associated with inflammatory monocytes; Group 2 ex‐
+pressed chemokines and interferon stimulated genes  (ISG);  Group
+3,  genes  related with immune regulation and profibrotic events;
+and Group 4 were alveolar macrophage typical genes. According  to
+the  investigators,  these  results suggest that during SARS‐CoV2
+infection, inflammatory monocytes (FCN1+ ) are recruited from the
+circulation  into  the lungs, where they differentiate into SPP1+
+macrophages, constituents of the  severe  inflammatory  reaction.
+Analysis of the BALF transcriptome showed that T and NK cells are
+increased in COVID‐19 patients,  compared  to  healthy  controls,
+which according to their gene expression can be classified in NK,
+CD8, CD4, Tregs, and proliferating cells.  An  important  finding
+was that genes related to activating molecules, migration, calci‐
+um signaling, and effector molecules were highly expressed by CD8
+cells in patients with moderate infection, compared with patients
+with severe COVID‐19; this further supports the role of CD8 cells
+in  the elimination of the virus and their subsequent, protective
+immunity. In contrast, patients with severe disease had a  higher
+expression  of genes related to proliferation, energy generation,
+and initiation of translation.  These results suggest that in pa‐
+tients  with moderate infection CD8 cells are more differentiated
+and efficient, while in severe Infection T cells are in a prolif‐
+erative  stage. Additionally, the finding that the TCR repertoire
+is higher in CD8 than in CD4 cells, suggests a larger clonal  ex‐
+pansion of the CD8 cells taking part in the resolution of the in‐
+fection.  Zhou et al. (129) used metatranscriptomic sequencing to
+profile immune signatures in the BALF of eight COVID‐19 patients,
+compared to 146  community‐acquired  pneumonia  patients  and  20
+healthy  controls. Their results show that in BALF from COVID‐19,
+the differentially expressed genes (DEGs)  included  up‐regulated
+proinflammatory  chemokines genes, such as CXCL17, CXCL8, and CX‐
+CL2, as well as the CXCR2 receptor, critical  to  neutrophil  re‐
+cruitment, and CCL2 and found that COVID‐19 patients up‐regulated
+IL‐1, antiviral Interferon stimulated genes (ISGs), and genes re‐
+lated  to  the  IL‐17, TNF, and NF‐B signaling pathways. In addi‐
+tion, the cellular analysis showed  an  increased  neutrophil  to
+lymphocyte  ratio (NLR) in patients with COVID‐19 compared to pa‐
+tients with other pneumonias.  Taken together, findings  in  BALF
+demonstrate both a highly dysregulated innate and adaptive immune
+response in the affected lungs of patients with COVID‐19.  Just 5
+months  after  the  initiation of the COVID‐19 pandemic in China,
+which extended quickly worldwide to greatly impact public  health
+and  economies, the amount of information gathered on all aspects
+of the infection and the celerity with  which  the  international
+scientific community has shared such information is to be used in
+defining new diagnostic, therapeutic, or prophylactic  protocols.
+It is also important to consider the brief amount of time elapsed
+since the beginning of the pandemic, during which time it has not
+been  possible to gather sufficient results from in vitro and ex‐
+perimental animal  models  to  ensure  further  understanding  of
+COVID‐19s  biology.  Even when considering these limitations, the
+information provided by qualitative differences in the immune re‐
+sponses of those infected with SARS‐CoV‐2 which seem to correlate
+with the clinical manifestations of COVID‐19. Although studies of
+asymptomatic  infected individuals are lacking, the immunological
+profiles of patients with moderate infections indicate a  protec‐
+tive  T  celldependent response, in contrast to patients with se‐
+vere disease who exhibit an  exacerbated  systemic  inflammation,
+with  signs of T cells exhaustion.  The following fundamental as‐
+pects need to be  defined  through  close  collaboration  between
+clinicians  and  basic  researchers, with strong support from the
+public and private financial agencies: 1 The alterations  of  the
+immune  regulation  that  allow  the  disease  to advance from an
+asymptomatic or mild infection to  a  severe  disease  with  poor
+prognosis.  Translational  immunological research focusing on the
+cellular and molecular aspects of the virus‐host interaction, us‐
+ing  sophisticated  bioinformatics and system biology tools, must
+be pursued. This includes experimental animal models required for
+a  deep understanding of COVID19s immunopathogenesis. Besides pa‐
+tients with moderate and severe COVID‐19, studies in humans  must
+include  seropositive  asymptomatic individuals and patients with
+virologically confirmed mild infections. These subjects should be
+studied in long‐term follow‐up cohorts.  2 The genetics of resis‐
+tance/susceptibility at the various stages of the  infection  and
+the disease. Topics like the resistance per se in exposed non‐in‐
+fected individuals, and the genetic risk factors for the progres‐
+sion  from  asymptomatic  to  moderate and severe disease must be
+prioritized. Initiatives like COVID COVID‐19 Clinical and  Immune
+Spectra  that  direction.   3  Based on the previous points it is
+necessary to find correlates of protective immunity and  prognos‐
+tic biomarkers to guide personalized management of infected indi‐
+viduals in order to prevent their progression to severe forms  of
+the  disease.   4 New pharmacological and immune‐based treatments
+must be developed  simultaneously  with  rigorous  evaluation  of
+treatments  already  available.  The  analysis  of  the currently
+available pharmacological treatments, or those under Possible im‐
+munotherapies  may  include: convalescent plasma, already assayed
+in a small number of  patients  (131133);  monoclonal  antibodies
+against  the IL‐6 receptor (112, 113) and interferon  (134, 135);
+and Leronlimab CCR5 blocking antibody (136), among others. Fortu‐
+nately,  a  good  number  of controlled clinical assays have been
+initiated under strict dist=) which will hopefully provide, with‐
+in a prudential time, therapeutic agents for the efficient treat‐
+ment of COVID‐19 patients.  5 Development of vaccines to prevent,
+and  hopefully eliminate, SARS‐CoV‐2 and other coronavirus infec‐
+tions. As expected, many investigators and  biotechnology  compa‐
+nies  are dedicating all their efforts and resources to obtaining
+an effective vaccine in the shortest time possible. Although this
+the different approaches, mostly targeting the S protein with its
+RBD. Vaccine candidates include RNA and DNA vaccines, recombinant
+proteins,  and vectored vaccines, as well as inactivated and live
+attenuated vaccines. The first immunogenicity  of  a  recombinant
+adenovirus  type‐5  (Ad5)  vectored expressing S protein of SARS‐
+CoV‐2 (138). One hundred ninety‐five participants were  allocated
+in  three  dose groups and followed for 28 days post‐vaccination.
+Mild adverse reactions were common within the first 7 days  after
+vaccination  with  no serious events noted during the observation
+period. Neutralizing antibodies  were  detected  at  Day  14  and
+peaked at Day 28 post‐vaccination, and specific CD4 and CD8 cells
+peaked at Day 14 and remained present through Day 28 in the three
+dose groups. It is important to note that development of an effi‐
+cient vaccine requires a deep understanding not only of the viral
+antigens and epitopes, but also of the immunological events lead‐
+ing up to the epitope presentation and recognition  resulting  in
+the  establishment  of  a  protective immune memory, the effector
+mechanisms in response to the antigens, and the adjuvants present
+in  the proposed vaccine, one that would have minimal side Final‐
+ly, it is important to remember what many investigators  of  SARS
+and  MERS  have  written  in  their publications, long before the
+emergency of COVID‐19 pandemics: what will be learned  from  this
+pandemic  must  be  used to prevent future coronavirus epidemics.
+AUTHOR CONTRIBUTIONS To professors Gloria Vsquez  and  Carlos  F.
+Narvaez  for  professor Angela Restrepo and Ms. Sally Station for
+their valuable suggestions and help in the preparation of the  6.
+Chen  T,  Wu  D,  Chen  H, Yan W, Yang D, Chen G, et al. Clinical
+characteristics of 113 deceased patients with coronavirus disease
+2019:  retrospective study.  7. Kucharski AJ, Russell WT, Diamond
+C, Liu Y, Edmunds J, Funk S, et al. Early dynamics  of  transmis‐
+sion  and  control  of  COVID19:  a mathematical modelling study.
+Lancet Infect Dis. (2020) 29:553 8. Wu C, Chen X, Cai Y,  Xia  J,
+Zhou  X, Xu S, et al. Risk factors associated with acute respira‐
+tory distress syndrome and death  in  patients  with  coronavirus
+disease  2019  pneumonia in Wuhan, China. JAMA Intern Med.  9. Wu
+F, Zhao S, Yu B, Chen MY, Wang W, Song GZ, et al.  A  new  coron‐
+avirus  associated  with  human respiratory disease in China. Na‐
+ture. (2020) 579:265 10. Zhou P, Yang LX, Wang GX, Hu B, Zhang L,
+Zhang W, et al. A pneumonia outbreak associated with a new coron‐
+avirus of probable bat origin. Nature.  11. Wen F, Yu H,  Guo  J,
+Li Y, Luo K, Huang S. Identification of the hypervariable genomic
+hotspot for the novel coronavirus SARS‐CoV‐2. J Infect.  12. Car‐
+denas‐Conejo  Y, Linan‐Rico A, Garcia‐Rodriguez DA, Centeno‐Leija
+S, Serrano‐Posada H. An exclusive  42  amino  acid  signature  in
+pp1ab protein provides insights into the evolutive history of the
+2019 novel 1. Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et  al.
+Early  transmission  dynamics  in  Wuhan,  China, of novel coron‐
+avirus‐infected 2. Guan WJ, Ni YZ, Hu Y, Liang HW, Ou QC, He  XJ,
+et  al.  Clinical  characteristics of coronavirus disease 2019 in
+China. N Engl J Med. (2020) 3. World Health Organization.  State‐
+ment  on  the  Second Meeting of the International Health Regula‐
+tions (2005) Emergency Committee regarding 4.  Chen  N,  Zhou  M,
+Dong  X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical
+characteristics of 99 cases of 2019 novel  coronavirus  pneumonia
+in  Wuhan,  China: a descriptive study. Lancet. (2020) 395:507 5.
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical  fea‐
+tures  of patients infected with 2019 novel coronavirus in Wuhan,
+China. Lancet.  COVID‐19 Clinical and Immune Spectra 35. Hoffmann
+M,  Kleine‐Weber H, Schroeder S, Kruger N, Herrler T, Erichsen S,
+et al. SARS‐CoV‐2 cell entry depends on ACE2 and TMPRSS2  and  is
+blocked  by  a clinically proven protease inhibitor. Cell. (2020)
+181:270 36. Lan J, Ge J, Yu J, Shan S, Zhou  H,  Fan  S,  et  al.
+Structure  of  the SARS‐CoV‐2 spike receptor‐binding domain bound
+to the ACE2 receptor. Nature. (2020) 37. Liu Z, Xiao X, Wei X, Li
+J,  Yang  J,  Tan  H, et al. Composition and divergence of coron‐
+avirus spike proteins and host ACE2 receptors  predict  potential
+intermediate  hosts of SARS‐CoV‐2. J Med Virol. (2020) 92:595601.
+38. Luan J, Lu Y, Jin X, Zhang L. Spike  protein  recognition  of
+mammalian  ACE2 predicts the host range and an optimized ACE2 for
+SARS‐CoV‐2 infection. Biochem Biophys Res Commun. (2020) 39.  Yan
+R,  Zhang Y, Li Y, Xia L, Guo Y, Zhou Q. Structural basis for the
+recognition of SARS‐CoV‐2 by  full‐length  human  ACE2.  Science.
+(2020)  40.  Wrapp D, Wang N, Corbett SK, Goldsmith AJ, Hsieh LC,
+Abiona O, et al.  Cryo‐EM structure of the 2019‐nCoV spike in the
+prefusion  conformation.  41. Ou X, Liu Y, Lei X, Li P, Mi D, Ren
+L, et al. Characterization of spike glycoprotein of SARS‐CoV‐2 on
+virus  entry  and  its immune cross‐reactivity with SARS‐CoV. Nat
+Commun. (2020) 42. Shang J, Wan Y, Liu C, Yount B, Gully K,  Yang
+Y, et al.  Structure of mouse coronavirus spike protein complexed
+with receptor reveals mechanism for  viral  entry.  PLoS  Pathog.
+(2020)  43.  Hamming  I, Timens W, Bulthuis LM, Lely TA, Navis G,
+van GH. Tissue distribution of ACE2 protein, the  functional  re‐
+ceptor  for SARS coronavirus.  A first step in understanding SARS
+pathogenesis. J Pathol. (2004) 203:631 44. Zou X, Chen K, Zou  J,
+Han P, Hao J, Han Z. Single‐cell RNA‐seq data analysis on the re‐
+ceptor ACE2 expression reveals the potential  risk  of  different
+human  organs  vulnerable to 2019‐nCoV infection. Front Med.  45.
+Letko M, Marzi A, Munster V. Functional assessment of cell  entry
+and  receptor usage for SARS‐CoV‐2 and other lineage B betacoron‐
+aviruses. Nat 46. Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et
+al.  Prevalence  of  comorbidities in the novel Wuhan coronavirus
+(COVID‐19) infection: 47. Zhang H, Zhou P, Wei Y, Yue H, Wang  Y,
+Hu  M, et al. Histopathologic changes and SARS‐CoV‐2 immunostain‐
+ing in the lung of a patient with 48. Zhou Y, Zhang  Z,  Tian  J,
+Xiong  S.  Risk  factors associated with disease progression in a
+cohort of patients infected with the 2019 novel coronavirus.  49.
+Fauci AS, Lane CH, Redfield RR. Covid‐19navigating the uncharted.
+N Engl 50. Li R, Pei S, Chen B, Song Y, Zhang T, Yang W,  et  al.
+Substantial  of  novel  coronavirus  (SARS‐CoV2). Science. (2020)
+368:489 51. Fung TS, Liu DX. The ER stress sensor  IRE1  and  MAP
+kinase  ERK  modulate  autophagy induction in cells infected with
+coronavirus infectious bronchitis 52. Shi CS, Qi YH, Boularan  C,
+Huang  NN, Abu‐Asab M, Shelhamer HJ, et al. SARS‐coronavirus open
+reading frame‐9b suppresses innate immunity  by  targeting  mito‐
+chondria  and the MAVS/TRAF3/TRAF6 53. Kuba K, Imai Y, Rao S, Gao
+H, Guo F, Guan B, et al. (2005). A crucial  role  of  angiotensin
+converting  enzyme  2 (ACE2) in SARS coronavirus‐induced lung hu‐
+man‐pathogenic coronavirus (SARS‐CoV2). J Med Virol. (2020)92:688
+Shen  Z, Xiao Y, Kang L, Ma W, Shi L, Zhang L, et al. Genomic di‐
+versity of SARS‐CoV‐2 in Coronavirus Disease 2019 patients.  Clin
+Infect  Dis. (2020) Andersen KG, Rambaut A, Lipkin IW, Holmes CE,
+Garry RF. The proximal origin of SARS‐CoV‐2. Nat Med. (2020)  Shi
+Y,  Wang  Y, Shao C, Huang J, Gan J, Huang X, et al. COVID‐19 in‐
+fection: the perspectives on immune responses. Cell Death Differ.
+(2020)  Li  G,  Fan  Y, Lai Y, Han T, Li Z, Zhou P, et al. Coron‐
+avirus infections and Chen G, Wu D, Guo W, Cao Y, Huang  D,  Wang
+H,  et al. Clinical and immunological features of severe and mod‐
+erate coronavirus disease 2019.  Cao X. COVID‐19: immunopathology
+and its implications for therapy. Nat Perlman S, Dandekar AA. Im‐
+munopathogenesis of coronavirus Lau YL, Peiris  JS.  Pathogenesis
+of severe acute respiratory syndrome. Curr Fung TS, Liu DX. Human
+coronavirus: host‐pathogen interaction. Annu Rev World Health Or‐
+ganization.  Naming the Coronavirus Disease (COVID‐19 naming‐the‐
+coronavirus‐disease‐(covid‐2019)‐and‐the‐virus‐that‐causesit (ac‐
+cessed  March 14, 2020).  Li X, Zai J, Zhao Q, Nie Q, Li Y, Foley
+TB, et al. Evolutionary history,  potential  intermediate  animal
+host,  and  cross‐species  analyses of SARS‐CoV‐2. J Med Li B, Si
+RH, Zhu Y, Yang LX, Anderson ED, Shi LZ, et al.  Discovery of bat
+coronaviruses  through  surveillance and probe Raoult D, Zumla A,
+Locatelli F, Ippolito G, Kroemer G. Coronavirus infections:  epi‐
+demiological,  clinical  and  immunological  features and Wang N,
+Shang J, Jiang S, Du L. Subunit vaccines against emerging  patho‐
+genic  human  coronaviruses.  Front Microbiol. (2020) 11: Chen Y,
+Liu Q, Guo D. Emerging coronaviruses: genome structure,  replica‐
+tion,  and  pathogenesis.  J Med Virol. (2020) Walls AC, Park JY,
+Tortorici AM, Wall A, McGuire TA, Veesler D. Structure, function,
+and  antigenicity  of  the  SARS‐CoV‐2  spike glycoprotein. Cell.
+Shang J, Ye G, Shi K, Wan Y, Luo C, Aihara H, et  al.  Structural
+basis  of  receptor  recognition  by  SARS‐CoV‐2.  Nature. (2020)
+581:221 Tai W, He L, Zhang X, Pu J, Voronin D, Jiang  S,  et  al.
+Characterization  of  the  receptor‐binding  domain (RBD) of 2019
+novel coronavirus: implication for development of RBD protein  as
+a viral attachment inhibitor and vaccine. Cell Chen Y, Guo Y, Pan
+Y, Zhao  ZJ.  Structure  analysis  of  the  receptor  binding  of
+2019‐nCoV.  Biochem  Biophys  Res Commun. (2020) 525:135 COVID‐19
+Clinical and Immune Spectra 73. Tang F, Quan Y, Xin ZT,  Wrammert
+J, Ma MJ, Lv H, et al. Lack of peripheral B cell memory responses
+in recovered patients with Severe Acute Respiratory  Syndrome:  A
+six years follow‐up study. J Immunol. (2011) 74. Okba NMA, Muller
+AM, Li W, Wang C, GeurtsvanKessel HC, Corman  MV,  et  al.  SARS‐
+CoV‐2  specific  antibody  responses  in  COVID‐19 patients.  75.
+Petherick A. Developing antibody tests  for  SARS‐CoV‐2.  Lancet.
+(2020)  76.  Abbasi  J. The promise and peril of antibody testing
+for COVID‐19. JAMA.  77. Haveri A, Smura T, Kuivanen S, Osterlund
+P,  Hepojoki J, Ikonen N, et al.  Serological and molecular find‐
+ings during SARS‐CoV‐2 infection: the first case  study  in  Fin‐
+land,  January  to  February 2020. Euro Surveill. (2020) 78. Okba
+NMA, Muller AM, Li W, Wang C, GeurtsvanKessel HC, Corman  MV,  et
+al.  Severe acute respiratory syndrome coronavirus 2‐specific an‐
+tibody responses in coronavirus disease 2019 patients. Emerg  In‐
+fect Dis. (2020) 79. Patel R, Babady E, Theel SE, Storch AG, Pin‐
+sky AB, St. George K, et al. Report from the American Society for
+Microbiology  COVID‐19 80. Shim BS, Stadler K, Nguyen HH, Yun HC,
+Kim WD, Chang J, et al. Sublingual immunization with  recombinant
+adenovirus  encoding  SARS‐CoV spike protein induces systemic and
+mucosal immunity without redirection of the virus to  the  brain.
+Virol  J. (2012) 81. Du L, Zhao G, Lin Y, Sui H, Chan C, Ma S, et
+al. Intranasal vaccination of recombinant adeno‐associated  virus
+encoding receptor‐binding domain of severe acute respiratory syn‐
+drome coronavirus (SARS‐CoV) spike protein induces strong mucosal
+immune  responses and provides long‐term protection against SARS‐
+CoV infection. J Immunol. (2008) 180:94856.  82. Lu B,  Huang  Y,
+Huang L, Li B, Zheng Z, Chen Z, et al. Effect of respiratory syn‐
+drome coronavirus in mice. Immunology. (2010)  130:254  83.  Bene
+MC,  de  MC, Eveillard M, Lebri Y. Good IgA bad IgG in SARS‐CoV‐2
+84. Peeples L. News feature: avoiding pitfalls in the pursuit  of
+a  COVID‐19  vaccine. Proc Natl Acad Sci USA. (2020) 117:8218 85.
+Tetro JA. Is COVID‐19 receiving ADE from other coronaviruses? Mi‐
+crobes  86. Iwasaki A, Yang Y. The potential danger of suboptimal
+87. Ho MS, Chen JW, Chen YH, Lin FS, Wang CM, Di J, et  al.  Neu‐
+tralizing antibody response and SARS severity. Emerg. Infect Dis.
+(2005) 11:1730 88. Jaume M, Yip SM, Cheung YC, Leung LH,  Li  HP,
+Kien F, et al. Anti‐severe acute respiratory syndrome coronavirus
+spike antibodies trigger infection of human immune  cells  via  a
+pH‐  and cysteine protease‐independent 89. Yip MS, Leung HN, Che‐
+ung YC, Li HP, Lee HH, Daeron M, et al. Antibodydependent  infec‐
+tion  of human macrophages by severe acute respiratory 90. Wan Y,
+Shang J, Sun S, Tai W, Chen J, Geng Q, et al. Molecular mechanism
+for antibody‐dependent enhancement of coronavirus entry. J Virol.
+(2020) 91. Chiu RW, Tang LN, Hui SD, Chung TG, Chim SS, Chan  CK,
+et  al.  ACE2  gene polymorphisms do not affect outcome of severe
+acute respiratory syndrome.  92. Grifoni A, Sidney  J,  Zhang  Y,
+Scheuermann HR, Peters B, Sette A. A sequence homology and bioin‐
+formatic approach can predict candidate 54. Imai Y, Kuba  K,  Rao
+S,  Huan  Y, Guo F, Guan B, et al. Angiotensinconverting enzyme 2
+protects from severe acute lung failure. Nature. (2005) 55. Blan‐
+co‐Melo  D,  Nilsson‐Payant BE, Liu CW, Uhl S, Hoagland D, Moller
+R, et al. Imbalanced host response to SARS‐CoV‐2 drives  develop‐
+ment  of  57.  Chu H, Chan FJ, Wang Y, Yuen TT, Chai Y, Hou Y, et
+al. Comparative replication and  immune  activation  profiles  of
+SARS‐CoV‐2 and SARS‐CoV in human lungs: an ex vivo study with im‐
+plications for the pathogenesis  of  58.  Manjili  RH,  Zarei  M,
+Habibi  M, Manjili MH. COVID‐19 as an acute inflammatory disease.
+J Immunol. (2020) ji2000413.  59. Felsenstein S, Herbert AJ,  Mc‐
+Namara SP, Hedrich CM. COVID19: Immunology and treatment options.
+Clin Immunol. (2020) 60. Clay C, Donart N, Fomukong N, Knight BJ,
+Lei  W, Price L, et al. Primary severe acute respiratory syndrome
+coronavirus infection limits replication but not  lung  inflamma‐
+tion  upon  homologous rechallenge. J Virol. (2012) 61. Huang AT,
+Garcia‐Carreras B, Hitchings TDM, Yang B,  Katzelnick  L,  coron‐
+aviruses:  antibody kinetics, correlates of protection, and asso‐
+ciation of antibody responses with severity of  disease.  medRxiv
+[Preprint].  (2020).   62.  Yang  ZY, Huang Y, Ganesh L, Leung K,
+Kong PW, Schwartz O, et al. pH‐dependent entry  of  severe  acute
+respiratory  syndrome coronavirus is mediated by the spike glyco‐
+protein and enhanced by dendritic cell transfer through  DC‐SIGN.
+J  Virol.  (2004)  63.  Vankadari  N, Wilce JA. Emerging COVID‐19
+coronavirus: glycan shield and structure prediction of spike gly‐
+coprotein  and  its interaction with human CD26. Emerg Microb In‐
+fect. (2020) 64. Wang K, Chen W, Zhou SY, Lian Q‐J, Zhang  Z,  Du
+P,  et  al.  SARSCoV‐2  invades  host  cells  via  a novel route:
+CD147‐spike protein. bioRxiv.  65. Wang X, Xu W, Hu G, Xia S, Sun
+Z,  Liu  Z,  et  al. SARS‐CoV‐2 infects T lymphocytes through its
+spike protein‐mediated membrane fusion. Cell Mol  66.  Huang  IC,
+Bailey CC, Weyer LJ, Radoshitzky RS, Becker MM, Chiang JJ, et al.
+Distinct patterns of IFITM‐mediated restriction  of  filoviruses,
+SARS  coronavirus, and influenza A virus. PLoS Pathog. (2011) 67.
+Zheng M, Gao Y, Wang G, Song G, Liu S, Sun D, et  al.  Functional
+exhaustion  of  antiviral  lymphocytes in COVID‐19 patients. Cell
+Mol Immunol. (2020) 68. He Y, Zhou Y, Liu S, Kou Z, Li W,  Farzan
+M,  et  al. Receptor‐binding domain of SARS‐CoV spike protein in‐
+duces highly potent neutralizing antibodies: implication for  de‐
+veloping  subunit  vaccine.  Biochem  Biophys  Res  Commun.   69.
+Bonavia A, Zelus DB, Wentworth ED, Talbot JP, Holmes KV.  Identi‐
+fication  of  a receptor‐binding domain of the spike glycoprotein
+of human coronavirus 70. Guo L, Ren L, Yang S, Xiao M,  Chang  D,
+Yang F, et al. Profiling early humoral response to diagnose novel
+coronavirus disease (COVID‐19). Clin Infect Dis.  71. Patrick DM,
+Petric  M,  Skowronski  MD, Guasparini R, Booth FT, Krajden M, et
+al. An outbreak of human coronavirus OC43 infection and serologi‐
+cal  cross‐reactivity  with  SARS coronavirus. Canad J Infect Dis
+Med Microbiol.  72. Theel ES, Slev P, Wheeler  S,  Couturier  RM,
+Wong JS, Kadkhoda K. The role of antibody testing for SARS‐CoV‐2:
+is there one? J Clin Microbiol. (2020).   COVID‐19  Clinical  and
+Immune  Spectra  targets for immune responses to SARS‐CoV‐2. Cell
+Host Microbe. (2020) Janice Oh HL, Ken‐En GS, Bertoletti  A,  Tan
+YJ.  Understanding the T cell immune response in SARS coronavirus
+infection. Emerg Microbes Infect.  Wang SF, Chen HK, Chen  M,  Li
+YW,  Chen  JY,  Tsao HC, et al. Humanleukocyte antigen class I Cw
+1502 and class II DR 0301 genotypes are  associated  with  resis‐
+tance  to  severe acute respiratory syndrome (SARS) Xiong P, Zeng
+X, Song SM, Jia WS, Zhong HM, Xiao LL, et al.  Lack  of  associa‐
+tion  between  HLA‐A, ‐B and ‐DRB1 alleles and the development of
+SARS: a cohort of 95 SARS‐recovered individuals in  a  population
+of  Guangdong,  southern  China. Int J Immunogenet. (2008) Lin M,
+Tseng KH, Trejaut AJ, Lee LH, Loo HJ, Chu CC, et al.  Association
+of HLA class I with severe acute respiratory syndrome coronavirus
+infection.  Ng MH, Cheng HS, Lau MK, Leung MG, Khoo SU,  Zee  CB,
+et  al.   Immunogenetics in SARS: a case‐control study. Hong Kong
+Med J.  Ng MH, Lau MK, Li L, Cheng HS, Chan YW, Hui  KP,  et  al.
+Association of human‐leukocyte‐antigen class I (B 0703) and class
+II (DRB1 0301) genotypes with susceptibility  and  resistance  to
+the  development  of  severe acute respiratory syndrome. J Infect
+Dis. (2004) Ding Y, Wang H, Shen H, Li Z, Geng J, Han H,  et  al.
+The  clinical  pathology  of  severe  acute  respiratory syndrome
+(SARS): a report from China. J Pathol.  Ng DL, Al FH, Keating KM,
+Gerber  IS,  Jones LT, Metcalfe GM, et al. Clinicopathologic, im‐
+munohistochemical, and ultrastructural findings of a  fatal  case
+of  middle east respiratory syndrome coronavirus infection in the
+United Arab Emirates. Am J Pathol. (2016) Xu Z, Shi  L,  Wang  Y,
+Zhang  J,  Huang  L,  Zhang  C,  et  al. Pathological findings of
+COVID‐19 associated with  acute  respiratory  distress  syndrome.
+Lancet  Mehta  P,  McAuley FD, Brown M, Sanchez E, Tattersall SR,
+Manson JJ.  COVID‐19: consider cytokine storm syndromes  and  im‐
+munosuppression.  Pedersen SF, Ho YC. SARS‐CoV‐2: a storm is rag‐
+ing. J Clin Invest. (2020) Hirano T, Murakami M. COVID‐19: a  new
+virus, but a familiar receptor and cytokine release syndrome. Im‐
+munity. (2020) 52:731 Channappanavar R, Perlman S. Pathogenic hu‐
+man  coronavirus  infections: causes and consequences of cytokine
+storm and immunopathology. Semin Qin C, Zhou L, Hu  Z,  Zhang  S,
+Yang  S, Tao Y. Dysregulation of immune response in patients with
+COVID‐19 in Wuhan, China. Clin Infect Dis.  Lei L, Qian  H,  Zhou
+X, Zhang X, Zhang D, Dai T, et al. The phenotypic changes of gd T
+cells in COVID‐19 patients. medRxiv.  Zhou Y, Fu B, Zheng X, Wang
+D, Zhao C, Qi Y, et al. Pathogenic T cells and inflammatory mono‐
+cytes incite inflammatory storm in  severe  COVID‐19  Bordoni  V,
+Sacchi  A,  Cimini  E, Notari S, Grassi G, Tartaglia E, et al. An
+inflammatory profile correlates with decreased frequency of cyto‐
+toxic cells of print].  Wan S, Yi Q, Fan S, Lv J, Zhang X, Guo L,
+et al. Characteristics of lymphocyte subsets and cytokines in pe‐
+ripheral blood of 123 hospitalized patients with 2019 novel coro‐
+navirus pneumonia (NCP). medRxiv.  Liu T, Zhang J, Yang Y, Ma  H,
+Li  Z,  Zhang  J, et al. The potential role of IL‐6 in monitoring
+severe case of coronavirus disease 2019. medRxiv.  113. Xu X, Han
+M,  Li  T, Sun W, Wang D, Fu B, et al. Effective treatment of se‐
+vere COVID‐19 patients with tocilizumab. Proc Natl Acad Sci  USA.
+(2020)  114. Thevarajan I, Nguyen OHT, Koutsakos M, Druce J, Caly
+L, van de Sandt CE, et al. Breadth of concomitant immune respons‐
+es  prior  to  patient  recovery:  a  case  report  of non‐severe
+COVID‐19. Nat Med. (2020) 26:453 115. Ong EZ, Chan ZFY, Leong YW,
+Lee  YMN, Kalimuddin S, Mohideen HMS, et al. A dynamic immune re‐
+sponse shapes COVID‐19 progression. Cell Host 116. Shaw AC, Gold‐
+stein  RD,  Montgomery  RR.  Age‐dependent  dysregulation of 117.
+Nikolich‐Zugich J. Aging of the T cell compartment  in  mice  and
+humans: from no naive expectations to foggy memories. Jf Immunol.
+(2014) 193:2622 118. Goldberg EL, Dixit VD. Drivers of age‐relat‐
+ed  inflammation and strategies for healthspan extension. Immuno‐
+logical Rev. (2015) 265:63 119. Lasry  A,  Ben‐Neriah  Y.  Senes‐
+cence‐associated  inflammatory  responses:  aging and cancer per‐
+spectives. Trends Immunol. (2015) 120. Goronzy JJ,  Fang  F,  Ca‐
+vanagh MM, Qi Q, Weyand CM. Naive T cell maintenance and function
+in human aging. J Immunol. (2015) 194:4073 121. Canan CH, Gokhale
+SN, Carruthers B, Lafuse PW, Schlesinger SL, Torrelles BJ, et al.
+Characterization  of  lung  inflammation  and   its   impact   on
+macrophage function in aging. J Leuk Biol. (2014) 96:473 122. Lin
+L, Lu L, Cao W, Li T. Hypothesis for potential  pathogenesis  pa‐
+tients  with  viral  pneumonia.  Emerg Microb Infect. (2020) 123.
+Zhao J, Alshukairi NA, Baharoon AS, Ahmed AW, Bokhari  AA,  Nehdi
+MA,  et al. Recovery from the Middle East respiratory syndrome is
+associated with  antibody  and  T‐cell  responses.  Sci  Immunol.
+(2017)  cases  and a better prognosis than adults. Acta Paediatr.
+(2020) 109:1088 125. Brodin P. Why is COVID‐19 so mild  in  chil‐
+dren?  Acta  Paediatr. (2020) 126. Thome JJ, Yudanin N, Ohmura Y,
+Kubota M, Grinshpun B, Sathaliyawala T, et al. Spatial map of hu‐
+man T cell compartmentalization and maintenance 127. Xiong Y, Liu
+Y, Cao L, Wang D, Guo M, Jiang A, et al.  Transcriptomic  charac‐
+teristics  of  bronchoalveolar  lavage fluid and peripheral blood
+mononuclear cells in COVID‐19 patients.  Emerg  Microbes  Infect.
+(2020)  128.  Liao  M, Liu Y, Yuan J, Wen Y, Xu G, Zhao J, et al.
+The landscape of 129. Zhou Z, Ren L, Zhang L, Zhong  J,  Xiao  Y,
+Jia  Z, et al. Heightened innate immune responses in the respira‐
+tory tract of COVID‐19 patients.  130. Sanders  JM,  Monogue  LM,
+Jodlowski ZT, Cutrell JB. Pharmacologic 131. Casadevall A, Pirof‐
+ski LA. The convalescent sera option for containing 132. Chen  L,
+Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy
+for COVID‐19. Lancet Infect Dis. (2020) COVID‐19 Clinical and Im‐
+mune Spectra 138. Zhu FC, Li HY, Guan HX, Hou HL, Wang JW, Li XJ,
+et al. Safety, tolerability, and immunogenicity of a  recombinant
+adenovirus  type‐5  vectored  COVID19 vaccine: a dose‐escalation,
+open‐label, non‐randomised, first‐in‐human 139. Green  DR.  SARS‐
+CoV2 vaccines: slow is fast. Sci Adv. (2020) eabc7428.  133. Shen
+C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, et al.  Treatment  of  5
+critically  Ill  patients with COVID‐19 with convalescent plasma.
+JAMA. (2020) 323:1582 134. OBrien  TR,  Thomas  LD,  Jackson  SS,
+Prokunina‐Olsson  L,  Donnelly  PR, Hartmann R. Weak induction of
+interferon expression by SARSCoV‐2 supports  clinical  trials  of
+interferon lambda to treat early of print].  135. Sallard E, Les‐
+cure XF, Yazdanpanah Y, Mentre F, Peiffer‐Smadja N. Type 1 inter‐
+ferons  as a potential treatment against COVID‐19. Antiviral Res.
+(2020) 136. Patterson BK, Seethamraju  H,  Dhody  K,  Corley  JM,
+Kazempour  K,  Lalezari PJ, et al. Disruption of the CCL5/RANTES‐
+CCR5 pathway restores immune homeostasis and reduces plasma viral
+load  in  critical  COVID‐19. medRxiv.  137. Amanat F, Krammer F.
+SARS‐CoV‐2 vaccines: status report. Immunity.  potential conflict
+of  interest.   is  cited,  in  accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which
+does not comply with these terms.
+
+
+
+
+
+
+
+
+
+
+
+

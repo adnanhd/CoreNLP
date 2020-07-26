@@ -1,352 +1,462 @@
-prior infection to SARS-CoV-2
-Eric J. Nilles,1,2* Elizabeth W. Karlson,1,2* Maia Norman,1,2,3,4 Tal Gilboa,1,2,4 Stephanie
-Fischinger,5 Caroline Atyeo,5 Guohai Zhou,1,2 Christopher L. Bennett,1,2,6 Nicole V. Tolan,1,2
-Karina Oganezova,1 David R. Walt,1,2,4 Galit Alter,2,5,7 Daimon P. Simmons,1,2 Peter Schur,1,2 Petr
-Jarolim,1,2 Lindsey R. Baden,1,2
-Brigham and Womens Hospital, Boston, MA
-Massachusetts General Hospital, Boston, MA
-Keywords: SARS-CoV-2, COVID-19, serology, antibodies, immunoassays
-Running title: SARS-CoV-2 immunoassay assessment
-Correspondence: Eric Nilles, Brigham and Womens Hospital, 75 Francis St., Boston 02115
-SARS-CoV-2 immunoassays can be valuable tools for informing the global response, but many
-currently available assays have not been independently validated. We conducted a
-performance assessment of four assays including the Roche Diagnostics and Epitope
-Diagnostics immunoassays.
-Seroepidemiology is an important tool to characterize the epidemiology and immunobiology of
-SARS-CoV-2 but many immunoassays have not been externally validated raising questions
-about reliability of study findings. To ensure meaningful data, particularly in a low
-seroprevalence population, assays need to be rigorously characterized with high specificity.
-232 pre-pandemic negative controls. Sensitivity was stratified by time from symptom onset.
-The Simoa multiplex assay applied three pre-defined algorithm models to determine sample
-The Roche and Ragon/MGH IgG assays each registered 1/232 false positive, the primary Simoa
-model registered 2/232 false positives, and the Epitope registered 2/230 and 3/230 false
-positives for the IgG and IgM assays respectively. Sensitivity >21 days post symptom-onset was
-100% for all assays except Epitope IgM, but lower and/or with greater variability between
-assays for samples collected 9-14 days (67-100%) and 15-21 days (69-100%) post-symptom
-onset. The Simoa and Epitope IgG assays demonstrated excellent sensitivity earlier in the
-disease course. The Roche and Ragon/MGH assays were less sensitive during early disease,
-particularly among immunosuppressed individuals.
-The Epitope IgG demonstrated good sensitivity and specificity. The Roche and Ragon/MGH IgG
-assays registered rare false positives with lower early sensitivity. The Simoa assay primary
-model had excellent sensitivity and few false positives.
-In response to the rapid global spread of a novel virus, severe acute respiratory syndrome 2
-acute or prior infection with SARS-CoV-2. Serological assays to detect antibodies to SARS-CoV-2
-have received attention due to the large number of immunoassays being used for a range of
-purposes despite suboptimal validation [13].
-Immunoassays are powerful tools that can be used to characterize the epidemiology and
-convalescent plasma donors [9], and potentially provide additional approaches for the clinical
-diagnosis of acute infection [10]. Seroepidemiological uses of these tools are numerous and
-include characterizing population-level seroprevalence [6]; identifying the fraction of
-asymptomatic and unreported infections [11]; informing group-specific and population-level
-control interventions [12]; monitoring transmission dynamics and the impact of control
-interventions over time [6,13]; and informing core epidemiological parameters such as the
-basic and effective reproductive numbers and infection and case fatality rates [1417].
-Serology-based cohort studies that combine classical seroepidemiological approaches with
-deep immune profiling can characterize the nature and kinetics of the humoral response and
-inform key questions including risks for reinfection and the parameters of protective titers
-However, despite enormous potential to guide the global COVID-19 response, confidence in
-serological tests and consequently the results of seroepidemiological studies have been
-undermined by poor (or poorly defined) test characteristics [3]. Given the importance of
-vigorous and independent immunoassay cross validation, we report on the performance of two
-Ethical considerations
-The use of study samples and data was approved by the Mass General Brigham (MGB)
-Study design
-Study samples
-Two panels of positive and negative control samples were selected from the MGB Biobank, a
-biorepository that contains biological samples and linked demographic and clinical data from
->117,000 patients enrolled through the MGB network [19].
-Positive control panel: To assess sensitivity, we selected 68 positive control samples from 28
-patients that had been hospitalized at the Brigham and Womens Hospital (BWH) between
-March 30 and May 4, 2020, and that previously tested positive by SARS-CoV-2 reversetranscriptase polymerase chain reaction (RT-PCR). Samples were collected a mean of 10.5 days
-(standard deviation 6.0 days) post-RT-PCR confirmation and 16.1 days (standard deviation 5.4
-days) post-symptom onset (PSO). The median number of samples per individual was two (range
-1-5) and the median interval between sample collection was three days (range 2-6 days). The
-Negative control panel: To assess specificity, we selected 232 prepandemic negative control
-samples from the MGB Biobank collected between August 28, 2017 and September 26, 2019.
-The median age was 55 years (range 20-89) and 90/232 (39%) were female. To determine if
-recent respiratory infections may be associated with increased cross-reactivity and false
-positives, we selected negative controls with and without recent respiratory infections. Of the
-total 232 negative control samples, 100 were from individuals without recent respiratory
-illness; 31 from individuals with prior laboratory-confirmed respiratory infections; 101 from
-individuals with a recent clinical diagnosis of respiratory infections including upper respiratory
-based on diagnoses recorded in the electronic health record between 1 and 31 days prior to
-sample collection.
-To ensure valid comparison between assays and given differences in plasma/sera requirements
-according to manufacturer/assay specifications, we only selected controls with both serum and
-plasma available from the same individual and time point. All samples were stored at -80C
-following sample processing and none underwent thaw-refreezing cycles prior to analysis.
-Except for sample type (i.e. serum or plasma), identical panels of positive and negative controls
-were provided to each of the four participating laboratories (with two fewer samples provided
-to one lab). Samples were blinded to all laboratory staff and were only unblinded after results
-were provided to the principal investigators.
-Clinical data
-We searched an electronic health records system linked to the Biobank to extract demographic
-data for all controls and clinical data for positive controls, including chronic medical conditions,
-level of care (non-ICU versus ICU), and date of RT-PCR test. Two study investigators
-included cough, fever, dyspnea, myalgias, new loss of taste or smell, or sore throat.
-Serological assays and protocols
-We assessed the performance of four immunoassays including (i) Elecsys Anti-SARS-CoV-2
-(Roche Diagnostics, Indianapolis, USA) immunoassay intended for the qualitative detection of
-antibodies against the nucleocapsid (NC) antigen [20] (thought to include IgG, IgM, and IgA,
-although IgM and IgA are not specified in product information); (ii) EDI New Coronavirus COVID19 enzyme-linked immunosorbent assays (ELISA) (Epitope Diagnostics, USA) that detect IgG
-against the NC antigen [21] and IgM against an unspecified antigen[22]; (iii) Ragon/MGH inhouse ELISA that detects IgG, IgM and IgA against the receptor binding domain (RBD); and (iv)
-the Single Molecule Array multiplex assay (Simoa) that detects IgG, IgM, and IgA against the
-spike protein, S1 subunit, RBD, and NC [10]. The Ragon/MGH assay was performed at the Ragon
-assays were performed according to manufacturer specifications. The Simoa and Ragon/MGH
-assays were performed according to previously described methods [10,23].
-Result classification
-Threshold cutoffs for defining positive, negative or indeterminate/borderline test results were
-laboratories prior to the study. The Ragon/MGH positive cutoff was equal to the mean of the
-OD-converted ug/ml values of the negative control wells on the respective plate plus three
-times the standard deviation of the concentration from over 100 pre-pandemic plasma
-samples. Background-corrected concentrations were divided by the cutoff to generate signalto-cutoff (S/CO) ratios. Samples with S/CO values greater than 1.0 were considered positive.
-Given the Simoa multiplex assay includes 12 output measures per sample (IgG, IgM, and IgA
-against four viral epitopes), result determination was based upon three pre-study classification
-models trained using an independent panel of 142 positive samples by RT-PCR SARS-Cov-2 and
-200 negative pre-pandemic controls. Two models used cross-validation to select the fewest
-number of informative markers. An Early Model encompassed all positive RT-PCR timepoints
-within one week following the positive RT-PCR in pre-pandemic controls. This cross-validation
-yielded four markers (IgA S1, IgA Nucleocapsid, IgG Nucleocapsid, and IgG Spike) and exhibited
-the best performance in the training set [10]. A Late Model encompassed all RT-PCR positive
-timepoints after one week since PCR against all pre-pandemic controls. This cross-validation
-yielded only a single marker IgA S1. The model-specific threshold for a positive test result was
-determined based on the cutoff that yielded 100% specificity in the training set. A third model
-was a simple 12 Parameter logistic regression using all 12 outputs.
-Data analysis
-We performed five primary independent analyses. One each for the Roche (which provides a
-single result for all isotypes) and Ragon/MGH (IgG) assays; two for the Epitope immunoassays
-(IgG and IgM); and one for the primary Simoa assay Early Model. Analyses of the Ragon
-IgA/IgM and Simoa Late Model and 12-Parameter Model are included in supplementary
-materials. Indeterminate or borderline results were considered negative for all analyses. We
-determined sensitivity using positive controls and specificity using negative controls as the gold
-standard. Sensitivity was calculated independently for samples collected 8-14, 15-21, and >21
-days from symptom onset. Assay agreement was calculated between the Roche, Ragon/MGH
-IgG, Epitope IgG, and Simoa Early Model using prevalence-adjusted and bias-adjusted Kappa
-[24]. Binomial exact 95% confidence intervals were calculated for all estimates. All analyses
-Specificity: The Roche and Ragon/MGH (IgG) assays registered 1/232 false positive for
-specificities of 99.6% (95% CI 98.7-100%). The Epitope IgG and IgM assays registered 2/230 and
-3/230 false positives for specificities of 99.1% (97.9-100%) and 98.6% (95% CI 97.2% - 100%)
-respectively. No Epitope false positives overlapped and therefore if combining the two assays
-to provide a single result, the specificity is lower (5/230 false positives; 97.8% [95% CI 95.9100%]). The Simoa Early Model registered 2/232 false positives with a specificity of 99.1% (95%
-94% and 70% respectively; Simoa Late and 12-marker models demonstrated specificities of
-98.7% and 94% (supplemental data). Of the combined nine false positives results (Roche [1],
-Ragon/MGH IgG [1], Epitope IgG [2] and IgM [3], and Simoa Early Model [2]), five were from
-100 negative controls without recent respiratory infection and four from 132 negative controls
-with recent respiratory infection, suggesting cross reactivity due to recent respiratory infections
-is unlikely to be an important cause of false positives in these assays. No common
-coronaviruses (e.g. 229E, NL63, OC43 or HKU1) were documented among these samples,
-however, so these data do not assess for common coronavirus-specific cross reactivity.
-Sensitivities: All assays except the Epitope IgM demonstrated 100% sensitivity among samples
-For the remaining time periods, the Simoa Early Model registered the fewest false negatives
-and highest sensitivities. However, confidence intervals generally overlapped across assays
-included in the primary analyses except for the earlier time periods when the Simoa Early
-4). At 21 days PSO, the Ragon/MGH IgM and IgA assays demonstrated sensitivities of 77.8% and
-100% respectively; Simoa Late and 12-paremeter models demonstrated 100% sensitivity
-individuals that subsequently seroconverted; 6/12 were from three individuals that were
-receiving immunosuppressive therapy; and 2/12 were collected at 11 and 18 days PSO from
-patients without subsequent sample collections. Of seven Roche false negatives, 2/7 were from
-individuals that seroconverted in later samples; 3/7 samples were from two patients receiving
-immunosuppressive therapy; and the remaining 2/7 were from the same patient collected 16
-and 18 days PSO. Of two Epitope IgG false negatives, one later seroconverted and one was
-immunosuppressed. Of 25 Epitope IgM false negatives, 5/25 later seroconverted , 6/25 were
-immunosuppressed, and 14/25 were collected 10-37 days PSO. The Simoa Early Model
-registered only one false negative that seroconverted in later samples. When excluding
-individuals receiving immunosuppressive therapy and early samples individuals that
-subsequently seroconverted, there were no false negatives for the Simoa assay or Epitope IgG
-assays, two false negatives apiece for the Ragon/MGH and Roche assays, and 14 false negatives
-for the Epitope IgM assay.
-Assay agreement: Inter-assay concordance for negative controls was high for all combinations
-of assays with the highest agreement between Roche and Ragon/MGH IgG assays (Kappa 0.98,
-95% CI 0.94-1.00) and the lowest between Epitope IgG and Simoa Early Model (Kappa 0.97, 95%
-CI 0.91-0.99). Of nine total false positives across the five assays none were overlapping
-between assays. Inter-assay agreement for positive controls was more variable and ranged
-from Kappa 0.94 (95% CI 0.80-0.99) between the Simoa and Epitope IgG assays to 0.68 (95% CI
-0.46-0.83) between the Ragon/MGH IgG and Epitope IgG and Roche assays. Lower concordance
-between positive controls was largely driven by the higher numbers of false negatives observed
-in the Ragon/MGH IgG and Roche assays. Of the 20 discrete false negative results, 10
-overlapped between one or more assay.
-SARS-CoV-2 immunoassays using a panel of 300 well characterized control samples including 68
-positive control samples from 28 RT-PCR SARS-CoV-2 confirmed hospitalized patients and 232
-pre-pandemic negative control samples that included 132 samples from individuals with recent
-respiratory infections. We assessed the sensitivity, specificity, and agreement between assays
-using pre-defined thresholds and methods. Because the sensitivity of serological assays is
-dependent on when samples are collected relative to symptom onset, we stratified assay
-sensitivity by time from symptom onset to sample collection. To our knowledge, this is the first
-immunoassay and includes a comprehensive evaluation of the EDI Epitope assays. Unlike most
-head to head SARS-CoV-2 immunoasssay performance evaluations, unique patient-sample
-combinations were used for all assays.
-All four assays performed well with small absolute differences between them. The Roche and
-Ragon/MGH immunoassays registered the lowest number of false positives (1/232) for a
-specificity of 99.6% (95% CI 98.7-100%). These findings align with the Roche assay package
-insert (10/5272 false positives, specificity 99.81% [95% CI 99.65-99.91%])[20] and confirm
-excellent specificity. The Simoa Early Model and Epitope IgM assay registered two false
-positives apiece with slightly lower specificity (99.1% [95% CI 97.9-100%]), although with
-overlapping confidence intervals; the Epitope IgM performed less well with lower specificity, as
-did other Simoa models and the Ragon/MGH IgM and IgA assays. The Epitope IgG assay
-specificity in this study was higher than other recent studies that reported specificities of 88.7%
-from 53 negative controls [25] and 89.8% from 108 negative controls [23]. The overall
-performance of Epitope is superior when considering only the single IgG rather than combining
-the IgG and IgM assays. Given that even small decreases in specificity can substantially decrease
-the positive predictive value (PPV), particularly in populations with low pre-test probabilities or
-with low true disease prevalence, our findings suggest the Epitope IgG assay alone is preferable,
-particularly if used for seroepidemiological purposes. For example, when testing a population
-with a 3% true prevalence of disease with a test that is 98% specific, the PPV will be
-approximately 60% and an estimated four in ten positive results will be false positives.
-Conversely, if using a test that is 99.5% specific applied to the same population, the PPV is
-approximately 85% and slightly over one in seven positive results will be false positives. Given
-that most populations globally are assumed to have low SARS-CoV-2 seroprevalence, likely <5%
-with substantial heterogeneity, small differences in test specificity are of critical importance
-With the exception of Epitope IgM, all assays demonstrated 100% sensitivity among samples
-collected >21 days PSO, although only nine samples were included from this time period. The
-sensitivity was lower with greater variability between assays for samples collected earlier after
-symptom onset. This is to be expected given serological assays for most pathogens including
-SARS-CoV-2 are well described as having poor sensitivity earlier in disease course. Current
-reported data suggests the mean interval from symptom-onset to seroconversion for SARSCoV-2 is ~13 days for both IgM and IgG, although substantial heterogeneity exists between
-individuals and assays; by 25-27 days PSO, 98-100% of cases are expected to be seropositive by
-most serological assays [26,27]. By comparison, the assays in this study demonstrated 67-100%
-sensitivity for samples collected between 8-14 days PSO and 69-100% sensitivity for samples
-collected 15-21 days PSO. The Simoa Early Model assay demonstrated exellent sensitivity
-during the earlier PSO windows. The sensitivity of the Roche assay was slightly higher during
-earlier periods and slightly lower later compared to data reported by the manufacturer; Roche
-reported 66%, 88% and 100% sensitivity at 0-6, 7-13 and  14 days post-PCR confirmation [20],
-versus our findings of 71%, 95%, and 94% using the same time and date-from PCR-confirmation
-criteria (data not shown). The sensitivity of the Epitope IgG assay was lower than package insert
-data that report 100% for 30 positive controls in the second week of disease [21] and lower
-than a German study that reported 100% sensitivity for 22 positive controls [25] but higher but
-with overlapping confidence intervals for one US-based study that reported sensitivities of 84%
-at 6-20 days and 91% at >20 days [23].
-This study has several limitations. Although this study was based on well characterized controls,
-we cannot definitively extrapolate findings to other populations [28]. For example, the
-sensitivity of these assays was assessed in samples from RT-PCR confirmed hospitalized patients
-with samples collected a mean of 16 days (SD 5) after symptom onset. Given most SARS-CoV-2
-infections are mild or asymptomatic and do not require hospitalization, and given that little is
-known about humoral kinetics >2 months post infection, the sensitivity of these assays may be
-lower in individuals > 2 months post-infection and/or individuals with mild or asymptomatic
-infections that likely mount less durable immune responses [26,28]. We did not include
-negative control samples from individuals with confirmed common coronaviruses, which may
-increase cross reactivity and false positives.
-Our study findings align with manufacturer data for the Roche Diagnostics Elecsys Anti-SARSCoV-2 IgG immunoassay and confirm that false positives are rare, specificity is high, and
-sensitivity is excellent > 3 weeks after symptom onset, but lower early in the disease course and
-among immunocompromised individuals. The Epitope Diagnostics IgG immunoassay has lower
-specificity and sensitivity than data released by the manufacturer, but overall performed well
-with few false positives and high sensitivity. The Epitope IgM had more false positives and
-lower sensitivity and given IgM does not appear to rise substantially earlier than IgG in SARSCoV-2 infections [26], the Epitope IgM assay may not add value to the IgG assay alone. The
-Ragon/MGH IgG immunoassay largely aligned with the Roche assay and false positives were
-rare, specificity was high, and sensitivity was excellent more than three weeks post-infection
-but lower earlier in disease course and among immunosuppressed individuals. The Simoa Early
-Model demonstrated high specificity and excellent sensitivity.
-Characterizing the epidemiology and immunobiology is a key priority for informing and
-responding to the current SARS-CoV-2 pandemic. For this we need test performance studies
-such as this to reliably and independently validate immunoassays.
-Krammer F, Simon V. Serology assays to manage COVID-19. Science. 2020;
-Petherick A. Developing antibody tests for SARS-CoV-2. Lancet [Internet].
-Theel ES, Slev P, Wheeler S, Couturier MR, Wong SJ, Kadkhoda K. The Role of Antibody
-Testing for SARS-CoV-2: Is There One? J Clin Microbiol [Internet]. 2020;(April):115.
-Lipsitch M, Swerdlow DL, Finelli L. Defining the epidemiology of Covid-19 - Studies
-needed. N Engl J Med [Internet]. 2020;382:11946. Available from:
-multicohort study. The Lancet Microbe [Internet]. 2020;5247(20):18. Available from:
-Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, et al. Repeated
-seroprevalence of anti-SARS-CoV-2 IgG antibodies in a population-based sample from
-Geneva, Switzerland. medRxiv [Internet]. 2020; Available from:
-Long QX, Liu BZ, Deng HJ, Wu GC, Deng K, Chen YK, et al. Antibody responses to SARSCoV-2 in patients with COVID-19. Nat Med [Internet]. 2020; Available from:
-Wu F, Wang A, Liu M, Wang Q, Chen J, Xia S, et al. Neutralizing Antibody Responses to
-SARS-CoV-2 in a COVID-19 Recovered Patient Cohort and Their Implications. SSRN
-Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, et al. Effectiveness of convalescent plasma
-therapy in severe COVID-19 patients. Proc Natl Acad Sci U S A [Internet].
-Norman M, Gilboa T, Ogata AF, Maley AM, Cohen L, Cai Y, et al. Ultra-Sensitive HighResolution Profiling of Anti-SARS-CoV-2 Antibodies for Detecting Early Seroconversion in
-COVID-19 Patients. medRxiv [Internet]. 2020 Jan 1;2020.04.28.20083691. Available from:
-Fontanet A, Tondeur L, Madec Y, Grant R, Besombes C, Jolly N, et al. Cluster of COVID-19
-in northern France: A retrospective closed cohort study. medRxiv [Internet].
-2020;2020.04.18.20071134. Available from:
-Lipsitch M, Kahn R, Mina MJ. Antibody testing will enhance the power and accuracy of
-COVID-19-prevention trials [Internet]. Nature Medicine. 2020. Available from:
-Kucharski AJ, Kama M, Watson CH, Aubry M, Funk S, Henderson AD, et al. Using paired
-serology and surveillance data to quantify dengue transmission and control during a
-large outbreak in Fiji. Elife [Internet]. 2018; Available from:
-Ioannidis J. The infection fatality rate of COVID-19 inferred from seroprevalence data.
-Hay JA, Minter A, Ainslie KEC, Lessler J, Yang B, Cummings DAT, et al. An open source tool
-to infer epidemiological and immunological dynamics from serological data: Serosolver.
-PLOS Comput Biol [Internet]. 2020; Available from:
-Kucharski AJ, Russell TW, Diamond C, Liu Y, Edmunds J, Funk S, et al. Early dynamics of
-transmission and control of COVID-19: a mathematical modelling study. Lancet Infect Dis
-Kucharski AJ, Funk S, Eggo RM, Mallet H-P, Edmunds WJ, Nilles EJ. Transmission
-Dynamics of Zika Virus in Island Populations: A Modelling Analysis of the 2013?14 French
-Polynesia Outbreak. PLoS Negl Trop Dis. 2016;10(5).
-Huang AT, Garcia-Carreras B, Hitchings MDT, Yang B, Katzelnick L, Rattigan SM, et al. A
-correlates of protection, and association of antibody responses with severity of disease.
-medRxiv [Internet]. 2020; Available from:
-Karlson EW, Boutin NT, Hoffnagle AG, Allen NL. Building the partners healthcare biobank
-at partners personalized medicine: Informed consent, return of research results,
-recruitment lessons and operational considerations. J Pers Med. 2016;6(1):111.
-Elecsys Anti-SARS-CoV-2 Elecsys Anti-SARS-CoV-2 [package insert]. Basel. Roche
-EDI Novel Coronavirus COVID-19 IgG ELISA [Package Insert]. San Diego. Epitope
-EDI Novel Coronavirus COVID-19 IgM ELISA [Package Insert]. San Diego. Epitope
-Whitman JD, Hiatt J, Mowery CT, Shy BR, Yu R, Yamamoto TN, et al. Test performance
-evaluation of SARS-CoV-2 serological assays. medRxiv [Internet]. 2020 Jan
-1;2020.04.25.20074856. Available from:
-Byrt T, Bishop J, Carlin JB. Bias, prevalence and kappa. J Clin Epidemiol. 1993;46(5):423
-Krttgen A, Cornelissen CG, Dreher M, Hornef M, Imhl M, Kleines M. Comparison of
-[Internet]. 2020;128(April):104394. Available from:
-Borremans B, Gamble A, Prager K, Helman SK, McClain AM, Cox C, et al. Quantifying
-antibody kinetics and RNA shedding during early-phase SARS-CoV-2 infection. OSF Prepr.
-Zhao J, Yuan Q, Wang H, Liu W, Liao X, Su Y, et al. Antibody responses to SARS-CoV-2 in
-patients of novel coronavirus disease 2019. Clin Infect Dis. 2020;122.
-ahead print 30 May 2020 [Internet]. 2020; Available from:
-This work was largely funded by Brigham Health. EN is supported by a CDC U01 GH002238. LB is
-supported by NIH UM1AI069412 and UL1TR001102. D.S. is supported by NIH K08 AR075850.
-Positive controls
-Asian or Pacific Islander
-American Indian or
-Alaskan Native
-Other or not recorded
-Other or not recorded
-Coronary artery disease
-Diabetes mellitus
-Liver disease
-Other immune
-compromised conditions
-Cerebrovascular accident
-Age in year, median
-Female sex, N (%)
-Race, N (%)
-Ethnicity, N (%)
-Level of care2
-Intensive care
-Past medical history, N (%)
-2. Samples were considered Intensive care if they were collected from patients that required ICU admission at any point during
-hospitalization. Only hospitalized patients provided positive control samples, therefore the non-ICU fraction is one minus the
-proportion of ICU.
-COPD Chronic obstructive pulmonary disease
-Recent acute illness
-Upper respiratory tract
-Bacterial pneumonia
-Viral pneumonia
-Unspecified pneumonia
-Confirmed viral
-respiratory infection1
-Days prior to sample
-N/A Not applicable or not available
-1 Includes Parainfluenza antigen positive (n=13), Metapneumovirus antigen (10), influenza A/B antigen (8),
-Influenza A PCR (3), Influenza B PCR (1), RSV antigen (n=5), RSV PCR (1), Adenovirus antigen (3), Herpes
-Simplex I (DFA). Total number add up to more than 31 as some individuals recorded >1 positive result.
-No. of negative
-No. testing negative
-Epitope IgG
-Epitope IgM
-1. Given limited negative control aliquots, the Epitope assays were tested against 230 samples, versus 232 for the
-remaining assays
-2. For specificity of Ragon/MGH IgM and IgA see supplementary materials.
-3. The Roche Elecsys Anti-SARS-CoV-2 immunoassay detects IgG and likely IgM and IgA; details of other isotypes are not
-provided by manufacturer
-4. Specificity of the Simoa multiplex assay Early Model. For specificities of the Late and 12-Parameter Models see
-supplementary materials.
-Epitope IgG
-Epitope IgM
-Days PSO
-No. of positve
-No. testing
-1. For sensitivity of Ragon/MGH IgM and IgA see supplementary materials.
-2. The Roche Elecsys Anti-SARS-CoV-2 immunoassay detects IgG and likely IgM and IgA; details of other isotypes are
-not provided by manufacturer
-3. Sensitivity of the Simoa multiplex assay Early Model. For sensitivities of the Late and 12-Parameter Models see
-supplementary materials.
+prior  infection  to  SARS‐CoV‐2 Eric J. Nilles,1,2* Elizabeth W.
+Karlson,1,2*  Maia  Norman,1,2,3,4  Tal  Gilboa,1,2,4   Stephanie
+Fischinger,5 Caroline Atyeo,5 Guohai Zhou,1,2 Christopher L. Ben‐
+nett,1,2,6  Nicole  V.  Tolan,1,2  Karina  Oganezova,1  David  R.
+Walt,1,2,4   Galit   Alter,2,5,7   Daimon  P.  Simmons,1,2  Peter
+Schur,1,2 Petr Jarolim,1,2 Lindsey R. Baden,1,2 Brigham and  Wom‐
+ens  Hospital, Boston, MA Massachusetts General Hospital, Boston,
+MA Keywords:  SARS‐CoV‐2,  COVID‐19,  serology,  antibodies,  im‐
+munoassays  Running title: SARS‐CoV‐2 immunoassay assessment Cor‐
+respondence: Eric Nilles, Brigham and Womens Hospital, 75 Francis
+St.,  Boston  02115 SARS‐CoV‐2 immunoassays can be valuable tools
+for informing the global response, but many  currently  available
+assays have not been independently validated. We conducted a per‐
+formance assessment of four assays including the  Roche  Diagnos‐
+tics  and  Epitope Diagnostics immunoassays.  Seroepidemiology is
+an important tool to characterize the epidemiology and  immunobi‐
+ology of SARS‐CoV‐2 but many immunoassays have not been external‐
+ly validated raising questions about reliability of  study  find‐
+ings. To ensure meaningful data, particularly in a low seropreva‐
+lence population, assays need to be rigorously characterized with
+high specificity.  232 pre‐pandemic negative controls. Sensitivi‐
+ty was stratified by time from symptom onset.  The  Simoa  multi‐
+plex  assay  applied three pre‐defined algorithm models to deter‐
+mine sample The Roche and Ragon/MGH IgG  assays  each  registered
+1/232  false  positive,  the primary Simoa model registered 2/232
+false positives, and the Epitope registered 2/230 and 3/230 false
+positives  for  the  IgG and IgM assays respectively. Sensitivity
+>21 days post symptom‐onset was 100% for all assays  except  Epi‐
+tope  IgM,  but lower and/or with greater variability between as‐
+says for samples collected 9‐14 days  (67‐100%)  and  15‐21  days
+(69‐100%)  post‐symptom  onset.  The Simoa and Epitope IgG assays
+demonstrated excellent sensitivity earlier in the disease course.
+The  Roche  and Ragon/MGH assays were less sensitive during early
+disease, particularly among  immunosuppressed  individuals.   The
+Epitope  IgG  demonstrated  good sensitivity and specificity. The
+Roche and Ragon/MGH IgG assays registered  rare  false  positives
+with  lower  early sensitivity. The Simoa assay primary model had
+excellent sensitivity and few false positives.   In  response  to
+the rapid global spread of a novel virus, severe acute respirato‐
+ry syndrome 2 acute or prior infection with SARS‐CoV‐2. Serologi‐
+cal  assays  to detect antibodies to SARS‐CoV‐2 have received at‐
+tention due to the large number of immunoassays being used for  a
+range  of purposes despite suboptimal validation [13].  Immunoas‐
+says are powerful tools that can be used to characterize the epi‐
+demiology  and  convalescent  plasma  donors [9], and potentially
+provide additional approaches for the clinical diagnosis of acute
+infection  [10].  Seroepidemiological uses of these tools are nu‐
+merous and include characterizing population‐level seroprevalence
+[6];  identifying the fraction of asymptomatic and unreported in‐
+fections [11]; informing group‐specific and population‐level con‐
+trol interventions [12]; monitoring transmission dynamics and the
+impact of control interventions over time [6,13];  and  informing
+core  epidemiological  parameters such as the basic and effective
+reproductive  numbers  and  infection  and  case  fatality  rates
+[1417].   Serology‐based  cohort  studies  that combine classical
+seroepidemiological approaches with  deep  immune  profiling  can
+characterize  the nature and kinetics of the humoral response and
+inform key questions including risks for reinfection and the  pa‐
+rameters of protective titers However, despite enormous potential
+to guide the global COVID‐19 response, confidence in  serological
+tests and consequently the results of seroepidemiological studies
+have been undermined by poor (or poorly defined) test  character‐
+istics  [3]. Given the importance of vigorous and independent im‐
+munoassay cross validation, we report on the performance  of  two
+Ethical  considerations The use of study samples and data was ap‐
+proved by the Mass General Brigham (MGB) Study design Study  sam‐
+ples Two panels of positive and negative control samples were se‐
+lected from the MGB Biobank, a biorepository that  contains  bio‐
+logical  samples  and  linked  demographic and clinical data from
+>117,000 patients enrolled through the MGB network  [19].   Posi‐
+tive  control  panel: To assess sensitivity, we selected 68 posi‐
+tive control samples from 28 patients that had been  hospitalized
+at the Brigham and Womens Hospital (BWH) between March 30 and May
+4, 2020, and that previously tested positive by SARS‐CoV‐2 rever‐
+setranscriptase  polymerase chain reaction (RT‐PCR). Samples were
+collected a mean of 10.5 days (standard deviation 6.0 days) post‐
+RT‐PCR  confirmation  and 16.1 days (standard deviation 5.4 days)
+post‐symptom onset (PSO). The median number of samples per  indi‐
+vidual was two (range 1‐5) and the median interval between sample
+collection was three days (range 2‐6 days). The Negative  control
+panel:  To  assess specificity, we selected 232 prepandemic nega‐
+tive control samples from the MGB Biobank collected  between  Au‐
+gust  28,  2017  and  September  26, 2019.  The median age was 55
+years (range 20‐89) and 90/232 (39%) were female. To determine if
+recent  respiratory  infections  may be associated with increased
+cross‐reactivity and false positives, we selected  negative  con‐
+trols  with and without recent respiratory infections. Of the to‐
+tal 232 negative control samples, 100 were from individuals with‐
+out  recent  respiratory  illness; 31 from individuals with prior
+laboratory‐confirmed respiratory infections; 101 from individuals
+with  a  recent  clinical diagnosis of respiratory infections in‐
+cluding upper respiratory based  on  diagnoses  recorded  in  the
+electronic  health  record  between 1 and 31 days prior to sample
+collection.  To ensure valid comparison between assays and  given
+differences  in plasma/sera requirements according to manufactur‐
+er/assay specifications, we  only  selected  controls  with  both
+serum  and  plasma  available  from  the same individual and time
+point. All samples were stored at ‐80C following sample  process‐
+ing  and none underwent thaw‐refreezing cycles prior to analysis.
+Except for sample type (i.e. serum or plasma),  identical  panels
+of  positive  and  negative controls were provided to each of the
+four participating laboratories (with two fewer samples  provided
+to  one  lab).  Samples  were blinded to all laboratory staff and
+were only unblinded after results were provided to the  principal
+investigators.   Clinical  data  We searched an electronic health
+records system linked to the Biobank to extract demographic  data
+for all controls and clinical data for positive controls, includ‐
+ing chronic medical conditions, level  of  care  (non‐ICU  versus
+ICU),  and  date of RT‐PCR test. Two study investigators included
+cough, fever, dyspnea, myalgias, new loss of taste or  smell,  or
+sore  throat.   Serological  assays and protocols We assessed the
+performance of four immunoassays including (i) Elecsys Anti‐SARS‐
+CoV‐2 (Roche Diagnostics, Indianapolis, USA) immunoassay intended
+for the qualitative detection of antibodies against  the  nucleo‐
+capsid  (NC)  antigen [20] (thought to include IgG, IgM, and IgA,
+although IgM and IgA are not specified in  product  information);
+(ii)  EDI New Coronavirus COVID19 enzyme‐linked immunosorbent as‐
+says (ELISA) (Epitope Diagnostics, USA) that detect  IgG  against
+the  NC  antigen [21] and IgM against an unspecified antigen[22];
+(iii) Ragon/MGH inhouse ELISA  that  detects  IgG,  IgM  and  IgA
+against  the  receptor  binding domain (RBD); and (iv) the Single
+Molecule Array multiplex assay (Simoa) that detects IgG, IgM, and
+IgA  against the spike protein, S1 subunit, RBD, and NC [10]. The
+Ragon/MGH assay was performed at the Ragon assays were  performed
+according to manufacturer specifications. The Simoa and Ragon/MGH
+assays were performed according to previously  described  methods
+[10,23].   Result  classification  Threshold cutoffs for defining
+positive, negative or indeterminate/borderline test results  were
+laboratories  prior  to  the study. The Ragon/MGH positive cutoff
+was equal to the mean of the OD‐converted  ug/ml  values  of  the
+negative  control  wells on the respective plate plus three times
+the standard deviation of the concentration from  over  100  pre‐
+pandemic plasma samples. Background‐corrected concentrations were
+divided by the cutoff to generate signalto‐cutoff (S/CO)  ratios.
+Samples  with  S/CO values greater than 1.0 were considered posi‐
+tive.  Given the Simoa multiplex assay includes  12  output  mea‐
+sures per sample (IgG, IgM, and IgA against four viral epitopes),
+result determination was based upon three  pre‐study  classifica‐
+tion  models  trained  using an independent panel of 142 positive
+samples by RT‐PCR SARS‐Cov‐2 and 200 negative  pre‐pandemic  con‐
+trols. Two models used cross‐validation to select the fewest num‐
+ber of informative markers. An Early Model encompassed all  posi‐
+tive RT‐PCR timepoints within one week following the positive RT‐
+PCR in pre‐pandemic controls. This cross‐validation yielded  four
+markers  (IgA  S1,  IgA  Nucleocapsid,  IgG Nucleocapsid, and IgG
+Spike) and exhibited the best performance  in  the  training  set
+[10]. A Late Model encompassed all RT‐PCR positive timepoints af‐
+ter one week since PCR against all  pre‐pandemic  controls.  This
+cross‐validation  yielded only a single marker IgA S1. The model‐
+specific threshold for a  positive  test  result  was  determined
+based on the cutoff that yielded 100% specificity in the training
+set. A third model was a simple 12 Parameter logistic  regression
+using  all  12  outputs.  Data analysis We performed five primary
+independent analyses. One each for the Roche  (which  provides  a
+single  result  for all isotypes) and Ragon/MGH (IgG) assays; two
+for the Epitope immunoassays (IgG and IgM); and one for the  pri‐
+mary  Simoa  assay Early Model. Analyses of the Ragon IgA/IgM and
+Simoa Late Model and 12‐Parameter Model are included  in  supple‐
+mentary  materials. Indeterminate or borderline results were con‐
+sidered negative for all analyses. We determined sensitivity  us‐
+ing  positive controls and specificity using negative controls as
+the gold standard. Sensitivity was calculated  independently  for
+samples  collected  8‐14, 15‐21, and >21 days from symptom onset.
+Assay agreement was calculated between the Roche, Ragon/MGH  IgG,
+Epitope  IgG, and Simoa Early Model using prevalence‐adjusted and
+bias‐adjusted Kappa [24]. Binomial exact 95% confidence intervals
+were  calculated for all estimates. All analyses Specificity: The
+Roche and Ragon/MGH (IgG) assays registered 1/232 false  positive
+for  specificities  of  99.6% (95% CI 98.7‐100%). The Epitope IgG
+and IgM assays registered 2/230 and  3/230  false  positives  for
+specificities  of  99.1%  (97.9‐100%)  and  98.6% (95% CI 97.2% ‐
+100%) respectively. No Epitope  false  positives  overlapped  and
+therefore if combining the two assays to provide a single result,
+the specificity is lower (5/230 false positives;  97.8%  [95%  CI
+95.9100%]).  The  Simoa  Early Model registered 2/232 false posi‐
+tives with a specificity of 99.1% (95% 94% and 70%  respectively;
+Simoa  Late  and  12‐marker  models demonstrated specificities of
+98.7% and 94% (supplemental data). Of  the  combined  nine  false
+positives  results (Roche [1], Ragon/MGH IgG [1], Epitope IgG [2]
+and IgM [3], and Simoa Early Model [2]), five were from 100 nega‐
+tive  controls without recent respiratory infection and four from
+132 negative controls with recent respiratory infection, suggest‐
+ing  cross reactivity due to recent respiratory infections is un‐
+likely to be an important cause of false positives in  these  as‐
+says.  No  common  coronaviruses  (e.g. 229E, NL63, OC43 or HKU1)
+were documented among these samples, however, so  these  data  do
+not  assess  for  common  coronavirus‐specific  cross reactivity.
+Sensitivities: All assays except  the  Epitope  IgM  demonstrated
+100%  sensitivity  among  samples For the remaining time periods,
+the Simoa Early Model registered the fewest false  negatives  and
+highest  sensitivities.  However,  confidence intervals generally
+overlapped across assays included in the primary analyses  except
+for  the earlier time periods when the Simoa Early 4). At 21 days
+PSO, the Ragon/MGH IgM and IgA assays demonstrated  sensitivities
+of  77.8% and 100% respectively; Simoa Late and 12‐paremeter mod‐
+els demonstrated 100% sensitivity individuals  that  subsequently
+seroconverted; 6/12 were from three individuals that were receiv‐
+ing immunosuppressive therapy; and 2/12 were collected at 11  and
+18  days PSO from patients without subsequent sample collections.
+Of seven Roche false negatives, 2/7 were  from  individuals  that
+seroconverted  in  later  samples;  3/7 samples were from two pa‐
+tients receiving immunosuppressive therapy; and the remaining 2/7
+were  from  the same patient collected 16 and 18 days PSO. Of two
+Epitope IgG false negatives, one later seroconverted and one  was
+immunosuppressed.  Of  25 Epitope IgM false negatives, 5/25 later
+seroconverted , 6/25 were immunosuppressed, and 14/25  were  col‐
+lected  10‐37 days PSO. The Simoa Early Model registered only one
+false negative that seroconverted in later samples. When  exclud‐
+ing  individuals  receiving  immunosuppressive  therapy and early
+samples individuals that subsequently seroconverted,  there  were
+no false negatives for the Simoa assay or Epitope IgG assays, two
+false negatives apiece for the Ragon/MGH and Roche assays, and 14
+false  negatives for the Epitope IgM assay.  Assay agreement: In‐
+ter‐assay concordance for negative controls was high for all com‐
+binations  of assays with the highest agreement between Roche and
+Ragon/MGH IgG assays (Kappa 0.98, 95% CI 0.94‐1.00) and the  low‐
+est between Epitope IgG and Simoa Early Model (Kappa 0.97, 95% CI
+0.91‐0.99). Of nine total false positives across the five  assays
+none  were  overlapping between assays. Inter‐assay agreement for
+positive controls was more variable and ranged  from  Kappa  0.94
+(95%  CI  0.80‐0.99)  between the Simoa and Epitope IgG assays to
+0.68 (95% CI 0.46‐0.83) between the Ragon/MGH IgG and Epitope IgG
+and Roche assays. Lower concordance between positive controls was
+largely driven by the higher numbers of false negatives  observed
+in  the  Ragon/MGH IgG and Roche assays. Of the 20 discrete false
+negative results, 10 overlapped between one or more assay.  SARS‐
+CoV‐2  immunoassays  using a panel of 300 well characterized con‐
+trol samples including 68 positive control samples from 28 RT‐PCR
+SARS‐CoV‐2  confirmed  hospitalized patients and 232 pre‐pandemic
+negative control samples that included 132 samples from individu‐
+als with recent respiratory infections. We assessed the sensitiv‐
+ity, specificity, and agreement between assays using  pre‐defined
+thresholds  and  methods.  Because the sensitivity of serological
+assays is dependent on when samples  are  collected  relative  to
+symptom onset, we stratified assay sensitivity by time from symp‐
+tom onset to sample collection. To our  knowledge,  this  is  the
+first  immunoassay and includes a comprehensive evaluation of the
+EDI Epitope assays. Unlike  most  head  to  head  SARS‐CoV‐2  im‐
+munoasssay  performance evaluations, unique patient‐sample combi‐
+nations were used for all assays.  All four assays performed well
+with  small  absolute  differences  between  them.  The Roche and
+Ragon/MGH immunoassays registered the lowest number of false pos‐
+itives  (1/232)  for  a  specificity of 99.6% (95% CI 98.7‐100%).
+These findings align with the Roche assay package insert (10/5272
+false  positives,  specificity  99.81% [95% CI 99.65‐99.91%])[20]
+and confirm excellent specificity. The Simoa Early Model and Epi‐
+tope IgM assay registered two false positives apiece with slight‐
+ly lower specificity (99.1% [95% CI  97.9‐100%]),  although  with
+overlapping  confidence intervals; the Epitope IgM performed less
+well with lower specificity, as did other Simoa  models  and  the
+Ragon/MGH  IgM  and IgA assays. The Epitope IgG assay specificity
+in this study was higher than other recent studies that  reported
+specificities  of  88.7% from 53 negative controls [25] and 89.8%
+from 108 negative controls [23]. The overall performance of  Epi‐
+tope is superior when considering only the single IgG rather than
+combining the IgG and IgM assays. Given that even small decreases
+in specificity can substantially decrease the positive predictive
+value (PPV), particularly in populations with low pre‐test proba‐
+bilities  or  with low true disease prevalence, our findings sug‐
+gest the Epitope IgG assay alone is preferable,  particularly  if
+used  for seroepidemiological purposes. For example, when testing
+a population with a 3% true prevalence of  disease  with  a  test
+that  is  98%  specific, the PPV will be approximately 60% and an
+estimated four in ten positive results will be  false  positives.
+Conversely, if using a test that is 99.5% specific applied to the
+same population, the PPV is approximately 85% and  slightly  over
+one in seven positive results will be false positives. Given that
+most populations globally are  assumed  to  have  low  SARS‐CoV‐2
+seroprevalence,  likely <5% with substantial heterogeneity, small
+differences in test specificity are of critical  importance  With
+the exception of Epitope IgM, all assays demonstrated 100% sensi‐
+tivity among samples collected >21 days PSO, although  only  nine
+samples  were included from this time period. The sensitivity was
+lower with greater variability between assays  for  samples  col‐
+lected  earlier after symptom onset. This is to be expected given
+serological assays for most pathogens  including  SARS‐CoV‐2  are
+well  described  as  having  poor  sensitivity earlier in disease
+course. Current reported data suggests  the  mean  interval  from
+symptom‐onset  to  seroconversion  for  SARSCoV‐2 is ~13 days for
+both IgM and IgG, although substantial heterogeneity  exists  be‐
+tween individuals and assays; by 25‐27 days PSO, 98‐100% of cases
+are expected  to  be  seropositive  by  most  serological  assays
+[26,27].  By  comparison,  the  assays in this study demonstrated
+67‐100% sensitivity for samples collected between 8‐14  days  PSO
+and 69‐100% sensitivity for samples collected 15‐21 days PSO. The
+Simoa Early Model assay demonstrated exellent sensitivity  during
+the  earlier  PSO windows. The sensitivity of the Roche assay was
+slightly higher during earlier periods and slightly  lower  later
+compared  to  data  reported  by the manufacturer; Roche reported
+66%, 88% and 100% sensitivity at 0‐6, 7‐13 and  14 days  post‐PCR
+confirmation [20], versus our findings of 71%, 95%, and 94% using
+the same time and date‐from PCR‐confirmation criteria  (data  not
+shown).  The  sensitivity of the Epitope IgG assay was lower than
+package insert data that report 100% for 30 positive controls  in
+the  second  week  of  disease [21] and lower than a German study
+that reported 100% sensitivity for 22 positive controls [25]  but
+higher but with overlapping confidence intervals for one US‐based
+study that reported sensitivities of 84% at 6‐20 days and 91%  at
+>20 days [23].  This study has several limitations. Although this
+study was based on well characterized controls, we cannot defini‐
+tively  extrapolate findings to other populations [28]. For exam‐
+ple, the sensitivity of these assays was assessed in samples from
+RT‐PCR  confirmed  hospitalized patients with samples collected a
+mean of 16 days (SD 5) after symptom onset. Given most SARS‐CoV‐2
+infections  are mild or asymptomatic and do not require hospital‐
+ization, and given that little is known about humoral kinetics >2
+months  post  infection,  the  sensitivity of these assays may be
+lower in individuals > 2 months post‐infection and/or individuals
+with  mild  or  asymptomatic  infections  that  likely mount less
+durable immune responses [26,28]. We  did  not  include  negative
+control  samples  from  individuals  with confirmed common coron‐
+aviruses, which may increase cross  reactivity  and  false  posi‐
+tives.   Our  study findings align with manufacturer data for the
+Roche Diagnostics Elecsys Anti‐SARSCoV‐2 IgG immunoassay and con‐
+firm that false positives are rare, specificity is high, and sen‐
+sitivity is excellent > 3 weeks after symptom  onset,  but  lower
+early in the disease course and among immunocompromised individu‐
+als. The Epitope Diagnostics IgG immunoassay has lower specifici‐
+ty  and  sensitivity  than data released by the manufacturer, but
+overall performed well with few false positives and  high  sensi‐
+tivity. The Epitope IgM had more false positives and lower sensi‐
+tivity and given IgM does not appear to rise substantially earli‐
+er  than  IgG in SARSCoV‐2 infections [26], the Epitope IgM assay
+may not add value to the IgG assay alone. The Ragon/MGH  IgG  im‐
+munoassay  largely  aligned  with the Roche assay and false posi‐
+tives were rare, specificity was high, and sensitivity was excel‐
+lent  more  than  three weeks post‐infection but lower earlier in
+disease course and among immunosuppressed individuals. The  Simoa
+Early Model demonstrated high specificity and excellent sensitiv‐
+ity.  Characterizing the epidemiology and immunobiology is a  key
+priority  for  informing and responding to the current SARS‐CoV‐2
+pandemic. For this we need test performance studies such as  this
+to  reliably and independently validate immunoassays.  Krammer F,
+Simon V. Serology assays to manage COVID‐19. Science. 2020; Peth‐
+erick A. Developing antibody tests for SARS‐CoV‐2. Lancet [Inter‐
+net].  Theel ES, Slev P, Wheeler S, Couturier MR, Wong  SJ,  Kad‐
+khoda  K.  The  Role of Antibody Testing for SARS‐CoV‐2: Is There
+One? J Clin Microbiol [Internet]. 2020;(April):115.  Lipsitch  M,
+Swerdlow  DL,  Finelli L. Defining the epidemiology of Covid‐19 ‐
+Studies needed. N Engl J Med [Internet].  2020;382:11946.  Avail‐
+able  from:  multicohort  study.  The  Lancet Microbe [Internet].
+2020;5247(20):18. Available from: Stringhini S, Wisniak  A,  Piu‐
+matti  G,  Azman  AS,  Lauer SA, Baysson H, et al. Repeated sero‐
+prevalence of anti‐SARS‐CoV‐2 IgG  antibodies  in  a  population‐
+based  sample from Geneva, Switzerland. medRxiv [Internet]. 2020;
+Available from: Long QX, Liu BZ, Deng HJ, Wu GC, Deng K, Chen YK,
+et al. Antibody responses to SARSCoV‐2 in patients with COVID‐19.
+Nat Med [Internet]. 2020; Available from: Wu F, Wang  A,  Liu  M,
+Wang  Q, Chen J, Xia S, et al. Neutralizing Antibody Responses to
+SARS‐CoV‐2 in a COVID‐19 Recovered Patient Cohort and  Their  Im‐
+plications. SSRN Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, et al.
+Effectiveness of convalescent plasma therapy in  severe  COVID‐19
+patients.  Proc Natl Acad Sci U S A [Internet].  Norman M, Gilboa
+T, Ogata AF, Maley AM, Cohen L, Cai  Y,  et  al.  Ultra‐Sensitive
+HighResolution  Profiling  of  Anti‐SARS‐CoV‐2 Antibodies for De‐
+tecting Early Seroconversion in COVID‐19 Patients.  medRxiv  [In‐
+ternet]. 2020 Jan 1;2020.04.28.20083691. Available from: Fontanet
+A, Tondeur L, Madec Y, Grant R, Besombes C, Jolly N, et al. Clus‐
+ter of COVID‐19 in northern France: A retrospective closed cohort
+study. medRxiv [Internet].   2020;2020.04.18.20071134.  Available
+from:  Lipsitch M, Kahn R, Mina MJ. Antibody testing will enhance
+the power and accuracy of COVID‐19‐prevention trials  [Internet].
+Nature Medicine. 2020. Available from: Kucharski AJ, Kama M, Wat‐
+son CH, Aubry M, Funk S, Henderson AD, et al. Using paired serol‐
+ogy  and  surveillance  data  to quantify dengue transmission and
+control during a large outbreak in Fiji. Elife [Internet].  2018;
+Available  from:  Ioannidis  J.  The  infection  fatality rate of
+COVID‐19 inferred from seroprevalence data.  Hay  JA,  Minter  A,
+Ainslie  KEC,  Lessler  J,  Yang  B, Cummings DAT, et al. An open
+source tool to infer epidemiological and  immunological  dynamics
+from  serological data: Serosolver.  PLOS Comput Biol [Internet].
+2020; Available from: Kucharski AJ, Russell TW, Diamond C, Liu Y,
+Edmunds J, Funk S, et al. Early dynamics of transmission and con‐
+trol of COVID‐19: a mathematical modelling study.  Lancet  Infect
+Dis Kucharski AJ, Funk S, Eggo RM, Mallet H‐P, Edmunds WJ, Nilles
+EJ. Transmission Dynamics of Zika Virus in Island Populations:  A
+Modelling Analysis of the 2013?14 French Polynesia Outbreak. PLoS
+Negl Trop Dis. 2016;10(5).  Huang AT, Garcia‐Carreras  B,  Hitch‐
+ings  MDT, Yang B, Katzelnick L, Rattigan SM, et al. A correlates
+of protection, and association of antibody responses with severi‐
+ty of disease.  medRxiv [Internet]. 2020; Available from: Karlson
+EW, Boutin NT, Hoffnagle AG,  Allen  NL.  Building  the  partners
+healthcare  biobank  at  partners personalized medicine: Informed
+consent, return of research results, recruitment lessons and  op‐
+erational considerations. J Pers Med. 2016;6(1):111.  Elecsys An‐
+ti‐SARS‐CoV‐2 Elecsys Anti‐SARS‐CoV‐2  [package  insert].  Basel.
+Roche  EDI Novel Coronavirus COVID‐19 IgG ELISA [Package Insert].
+San Diego. Epitope  EDI  Novel  Coronavirus  COVID‐19  IgM  ELISA
+[Package  Insert]. San Diego. Epitope Whitman JD, Hiatt J, Mowery
+CT, Shy BR, Yu R, Yamamoto TN, et al. Test performance evaluation
+of  SARS‐CoV‐2  serological  assays. medRxiv [Internet]. 2020 Jan
+1;2020.04.25.20074856. Available from: Byrt T, Bishop  J,  Carlin
+JB.  Bias, prevalence and kappa. J Clin Epidemiol. 1993;46(5):423
+Krttgen A, Cornelissen CG, Dreher M, Hornef M, Imhl M, Kleines M.
+Comparison of [Internet]. 2020;128(April):104394. Available from:
+Borremans B, Gamble A, Prager K, Helman SK, McClain AM, Cox C, et
+al.  Quantifying antibody kinetics and RNA shedding during early‐
+phase SARS‐CoV‐2 infection. OSF Prepr.  Zhao J, Yuan Q,  Wang  H,
+Liu  W,  Liao X, Su Y, et al. Antibody responses to SARS‐CoV‐2 in
+patients of novel coronavirus  disease  2019.  Clin  Infect  Dis.
+2020;122.   ahead  print  30 May 2020 [Internet]. 2020; Available
+from: This work was largely funded by Brigham Health. EN is  sup‐
+ported  by a CDC U01 GH002238. LB is supported by NIH UM1AI069412
+and UL1TR001102. D.S. is supported by NIH K08 AR075850.  Positive
+controls Asian or Pacific Islander American Indian or Alaskan Na‐
+tive Other or not recorded Other or not recorded Coronary  artery
+disease  Diabetes mellitus Liver disease Other immune compromised
+conditions Cerebrovascular accident Age in  year,  median  Female
+sex,  N (%) Race, N (%) Ethnicity, N (%) Level of care2 Intensive
+care Past medical history, N (%) 2. Samples were  considered  In‐
+tensive  care  if they were collected from patients that required
+ICU admission at any point during hospitalization. Only hospital‐
+ized  patients  provided  positive control samples, therefore the
+non‐ICU fraction is one minus the proportion of ICU.  COPD Chron‐
+ic  obstructive pulmonary disease Recent acute illness Upper res‐
+piratory tract Bacterial pneumonia  Viral  pneumonia  Unspecified
+pneumonia  Confirmed  viral  respiratory infection1 Days prior to
+sample N/A Not applicable or not  available  1  Includes  Parain‐
+fluenza  antigen  positive  (n=13), Metapneumovirus antigen (10),
+influenza A/B antigen (8), Influenza A PCR (3), Influenza  B  PCR
+(1), RSV antigen (n=5), RSV PCR (1), Adenovirus antigen (3), Her‐
+pes Simplex I (DFA). Total number add up to more than 31 as  some
+individuals  recorded  >1  positive  result.  No. of negative No.
+testing negative Epitope IgG Epitope IgM 1. Given  limited  nega‐
+tive control aliquots, the Epitope assays were tested against 230
+samples, versus 232 for the remaining assays 2.  For  specificity
+of  Ragon/MGH  IgM  and  IgA see supplementary materials.  3. The
+Roche Elecsys Anti‐SARS‐CoV‐2 immunoassay detects IgG and  likely
+IgM  and IgA; details of other isotypes are not provided by manu‐
+facturer 4. Specificity of the Simoa multiplex assay Early Model.
+For specificities of the Late and 12‐Parameter Models see supple‐
+mentary materials.  Epitope IgG  Epitope  IgM  Days  PSO  No.  of
+positve  No.  testing 1. For sensitivity of Ragon/MGH IgM and IgA
+see supplementary materials.  2.  The  Roche  Elecsys  Anti‐SARS‐
+CoV‐2  immunoassay detects IgG and likely IgM and IgA; details of
+other isotypes are not provided by manufacturer 3. Sensitivity of
+the  Simoa  multiplex assay Early Model. For sensitivities of the
+Late and 12‐Parameter Models see supplementary materials.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

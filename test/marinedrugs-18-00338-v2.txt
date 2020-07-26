@@ -1,760 +1,528 @@
-marine drugs
-Bioactive Indolyl Diketopiperazines from the Marine
-Derived Endophytic Aspergillus versicolor DY180635
-Yi Ding, Xiaojing Zhu, Liling Hao, Mengyao Zhao, Qiang Hua and Faliang An *
-Abstract: Four new indolyl diketopiperazines, aspamides AE (14) and two new diketopiperazines,
-aspamides FG (56), along with 11 known diketopiperazines and intermediates were isolated from
-the solid culture of Aspergillus versicolor, which is an endophyte with the sea crab (Chiromantes
-haematocheir). Further chiral high-performance liquid chromatography resolution gave enantiomers
-determined by the comprehensive analyses of nuclear magnetic resonance (NMR), high-resolution
-mass spectrometry (HR-MS), and electronic circular dichroism (ECD) calculation. All isolated
-compounds were selected for the virtual screening on the coronavirus 3-chymoretpsin-like protease
-(Mpro) of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), and the docking scores
-with Corona Virus Disease-19 (COVID-19) after further studies.
-Keywords: endophyte fungus; Aspergillus versicolor; diketopiperazines; ECD calculation; enantiomers
-Endophytic fungi refer to harmless parasitic fungi that live in the internal organs of plants
-and animals without causing any adverse reactions. The host provides nutrients for endophytes,
-and endophytes produce bioactive substances, giving the host an advantage in survival competition [1].
-Symbionts coexist with symptomless fish, sponges, algae, and soft corals that grow in a relatively harsh
-marine environment characterized by high salinity, scarce nutrients, and high osmotic and hydraulic
-pressures, which provides many environment-specific microorganisms that could coevolve with their
-hosts by undergoing the rapid and dynamic change of their genomes [2,3]. Thus, endophytic fungi are
-considered as a treasure trove of unique structural compounds and bioactive metabolites.
-Indolyl diketopiperazines (IDKPs), cyclic dipeptides produced by the condensation of l-tryptophan
-and a second amino acid, were commonly isolated from fungi, especially from the genera Aspergillus and
-Penicillium [4,5]. IDKPs had drawn considerable attention from synthetic chemists, natural products
-researchers, and synthetic biologists for decades due to their significant biological activities, such as
-antiviral [6,7], anticancer [810], immunomodulatory [11,12], antioxidant [13], and -glucosidase
-inhibitory activities [14]. Specifically, the vascular disrupting and tubulin-depolymerizing agent
-plinabulin, a synthetic analog based on the natural diketopiperazine (DKP) product halimide generated
-by the marine-derived Aspergillus sp. CNC-139, had entered the last stage of clinical study for the
-treatment of non-small-cell lung cancer [15,16]. Since the first IDKP alkaloid chaetomin isolated
-from the fungus Chaetomium cochliodes in the early 1940s, a series of DKPs and their biosynthesis
-clusters were reported [1722]. In our continuous investigations of novel bioactive agents from
-the endophytic fungi [23,24], the endophytic strain Aspergillus versicolor DY180635 isolated from
-Mar. Drugs 2020, 18, 338
-Mar. Drugs 2020, 18, 338
-and their biosynthesis clusters were reported [1722]. In our continuous investigations of novel
-bioactive agents from the endophytic fungi [23,24], the endophytic strain Aspergillus versicolor
-sea crabisolated
-was selected
-ethyl acetate results.
-extracts The
-of a ethyl
-from the
-selected based
-on the
-acetate extracts of a rice solid culture of A. versicolor DY180635 showed 80% inhibition on the antiPropionibacterium
-THP-1 cells at the
-of 0.1 cells
-inflammation model
-of the Propionibacterium
-at the
-mg/mL [25]. High-performance liquid chromatography (HPLC) analysis of the ethyl acetate extracts
-a diode
-336 nm [26].
-of IDKPs
-a diode
-array detector
-DKPs, thecomplex
-336 nm [26].
-to discover
-and/or bioactive
-spectroscopic-guided isolation was performed in this research.
-Spectroscopic-guided isolation resulted
-of of
-and and
-two two
-FG FG
-couple of12
-the firstofsamples
-of brevianamides
-with an oxygenated
-The couple
-of epimers
-were the
-with an oxygenated
-structure at the proline motif. All isolated compounds were tested for anti-inflammation in P. acnesin
-P. acnes-induced
-cells. Unfortunately,
-With the appearance
-THP-1 cells.
-none showed
-the appearance
-and spread
-of SARS-CoV-2
-of 2019, compounds
-for the
-at the endatofthe
-the virtual
-of SARS-CoV-2,
-been exploited
-as a potential
-which hadwhich
-been had
-as a potential
-drug target
-The docking
-of compounds
-and top
-[27]. The
-scores ofscores
-may be in
-be helpful
-COVID-19 after further studies. Herein, we reported the isolation, structural identification, and bioand
-of isolated
-of isolated
-Results and
-and Discussion
-chromatography (CC) on macroporous adsorbent resin, silica gel, and octadecyl silane (ODS),as
-to afford
-and two
-Six new DKPs,
-as aspamides
-to afford
-two intermediates.
-Six new
-named as
-1 H nuclear magnetic
-by spectroscopic
-C NMR, (NMR),
-HSQC, heteronuclear
-bond correlation
-C NMR, HSQC,
-bond correlation
-nuclear magnetic
-and high resolution
-mass spectrometry
-rotating effect
-Overhauser effect
-high resolution
-By comparing
-the NMR
-and ESIMSthe
-to the
-mass spectrometry
-By comparing
-ESIMS data
-to the in
-known compounds
-as brevianamides
-K, as
-and M (7, 16, 17)
-in detail, 11were
-were determined
-K, [28],
-N, and
-[28], brevianamide Q (8) [29], brevianamides V, U (910) [20], brevianamide F E(11)
-deoxybrevianamide E (12) [31], N-Prenyl-cyclo--tryptophyl--proline (13) [32], 2-(2-methyl-3-en-2(14)
-[33], and 2-(1,1-Dimethyl-allyl)-1H-indol-3-ylmercuric
-acetate (15) [34]. Herein, the
-(14) [33], and 2-(1,1-Dimethyl-allyl)-1H-indol-3-ylmercuric
-of the isolation, structural elucidation of these new compounds, and their bioactivities are described.
-Mar. Drugs 2020, 18, 338
-Mar. Drugs 2020, 18, 338
-[34]. Herein, the details of the isolation, structural elucidation of these new compounds, and their
-bioactivities are described.
-Aspamide A (1)
-was isolated
-isolated as
-as aa yellowish
-powder. The
-The UV
-UV spectrum
-spectrum with
-max (log) in
-methanol at 200 (6.13), 224 (6.13), 284 (5.46), and 341 (5.68) nm was indicative of indole functionality
-extended conjugation
-with an extended
-as C
-+ , calcd. for C H N O , 394.2125)
-of high-resolution ESIMS (m/z 394.2117 [M + H] , calcd. for C23H28N3O23
-28 3 3 and C NMR data,
-1 H NMR, 13 C NMR, and heteronuclear multiple
-of unsaturation.
-of degrees
-The 1H NMR,
-and heteronuclear multiple quantum
-S3 in Supporting
-in Supporting
-three methyl
-3 methylenes (including one
-three sp methylenes (including
-oxygenated methylene)
-two sp
-methine carbon signals
-2 methines, one2 sp2 methylene, seven2 sp2 , and one
-3 non-protonated carbon. The NMR data
-sp methines, one sp methylene, seven sp , and one sp non-protonated carbon. The NMR data and
-UV absorptions
-to those
-of brevianamide
-V [20],
-UV absorptions
-to those
-of brevianamide
-V [20],
-the the
-additional oxygenated aza-acetal structure located at the proline motif (C 86.7,
-the the
-was derived
-from heteronuclear
-multiple bond
-Further information
-was derived
-from heteronuclear
-to C-9
-to C-6
-to H-9
-to C-9(were
-data suggested
-an oxethyl
-was located
-and H-8
-to C-9 were
-These data
-an oxethyl
-and confirmed
-aza-acetal structure
-the proline
-at C-6 andthe
-the oxygenated
-at the
-in the brevianamide
-Thus, the planar
-1 was determined
-as shown
-previous unpresented
-in the brevianamide
-Thus, the
-planar of
-of 1 was determined
-In order
-order to
-to determine
-determine the
-the relative
-rotating frame
-frame Overhauser effect
-S5) experiment
-experiment was
-was performed.
-between NH-2
-(HH 9.01) and H-13 (
-(HH 7.29) revealed the Z
-about 3,10 , and the ROESY
-signals between H-8
-H-6 H-6
-by comparing the
-H-9 H-9
-of of
-values obtained
-using Time-dependent
-values obtained
-using TimeDensity
-the B3LYP/631+g
-at the B3LYP/631+g
-(d, p) level
-bond correlation
-bond correlation
-(A) and rotating
-effect spectroscopy (ROESY) (B) correlations, and experimental and calculated electronic circular
-circular dichroism
-(C) of compound
-of compound
-was obtained
-obtained as
-as aa yellowish
-yellowish powder.
-powder. Its molecular
-molecular formula was determined as
-Aspamide B (2) was
-N33, O
-13 C, HMQC
-of unsaturation.
-By comparing
-H, 131 H,
-C, and
-C NMR
-of unsaturation.
-By comparing
-and HMQC
-of of
-that22 possessed
-possessed the
-the identical planar
-Hstructure as that of
-to OCH
-and C-9
-H-9 as
-to OCH
-H C-1
-that the oxethyl
-C-6. Furthermore,
-the difference
-that thegroup
-was at
-at C-6. Furthermore,
-the difference
-in Hz)
-in H-6
-in 1 indicated
-C-6 epimer
-the same
-effects effects
-to 1 indicated
-that the absolute
-the ECD
-ECD cotton
-of 2 compared
-to 1 indicated
-that the
-Mar. Drugs 2020, 18, 338
-Mar. Drugs 2020, 18, 338
-of C-9 of
-in C-9
-with with
-that in
-the the
-was consistent
-mainly caused
-caused by the chiral
-compounds 1 and 2, and it could also be confirmed by the experimental ECD data of (+)-brevianamide
-Thus, the
-the absolute
-compound 22 was
-was ascertained
-powder. The
-The molecular
-molecular formula was
-was established
-12 degrees of unsaturation. The UV and NMR spectra were very similar to those of compound1.1.A
-data for
-A comparison
-comparison of the NMR data
-a second
-OH group
-by aby
-OH in
-the OH
-was not
-located at C-6, which was the same as the 1, to form the aza-acetal structure for which the chemical shift
-of oxygenated
-far the
-in 1. the
-the second
-of shift
-was distributed
-to C-7,
-planar structure
-3 was determined
-in The
-to C-7, and
-of 3 was of
-as shownas
-in shown
-form of
-ROESY correlation
-cis form of
-the between
-double bond
-and C-10. the
-the ROESY
-C-3 and
-C-10. C-3
-ROESY signals
-H-7 (H 4.35), and between H-8 (H 2.12) and H-9 (H 4.65) revealed that H-7 and H-9 were trans form.
-were trans
-form. Finally,
-the absolute
-was determined
-comparison of
-the absolute
-of 3 was
-by comparison
-of the
-of 3 with
-of 3 withECD
-that curve
-and experimental ECD spectra (C) of compounds 13.
-experimental ECD spectra (C) of compounds 13.
-13 (150 MHz) NMR data of 13 in DMSO-d .
-(150 MHz) NMR data of 13 in DMSO-
-No. No.
-H, Mult. (J in Hz)
-H, Mult. (J in Hz)
-H , Mult. (J in Hz)
-H , Mult. (J in Hz)
-H, Mult. (J in Hz)
-H , Mult. (J in Hz)
-Mar. Drugs 2020, 18, 338
-H , Mult. (J in Hz)
-H , Mult. (J in Hz)
-H , Mult. (J in Hz)
-5.04, m s
-s s
-The racemic
-was isolated
-isolated as
-as colorless
-colorless gum
-gum with
-with the
-the molecular
-molecular formula
-formula of
-N3,3 O
-Its NMR
-to compound
-the major
-UV UV
-to compound
-to 1, to
-3 methylene and one sp
-was that
-sp3 methines
-two two
-sp3 methines
-by by
-and one sp3 3non-protonated
-suggesting that
-to C-9
-to thetoC-6.
-the keythe
-that the
-to C-9
-the Additionally,
-C-6. Additionally,
-signals signals
-to C-9
-to C-9
-C-4((CC 159.4) and
-C-9, and H-8a (HH 2.02)
-to C-1 (CC 163.1)
-confirmed the
-the aforementioned
-aforementioned planar
-planar structure. There
-There was
-no Cotton
-in accordance
-the racemic
-in accordance
-the racemic
-X [35],
-be aofpair
-of enantiomers.
-X [35],
-be a pair
-the chiral
-HPLC resolution
-of 4 contributed
-to the separation
-pair of enantiomers
-of 4 contributed
-to the separation
-of a pairof
-of aenantiomers
-nearly mirror-image
-The absolute
-and were
-ECD spectra
-discriminably determined as 9R and 9S by comparing the experimental and calculated ECD data
-obtained using TD-DFT at the B3LYP/6-31+g
-p) level
-D, respectively.
-The key
-key HMBC
-HMBC correlations
-correlations of
-of compounds
-Aspamide F (5) was obtained as a brown powder with the molecular formula of C19 H17 N3 O3
-from an HRESIMS peak at m/z 336.1336 [M + H]+ (calcd. for C19 H18 N3 O3 , 336.1343), requiring 13
-suggested the presence of one oxygenated methyl group, one sp3 methylene, two sp3 methines carbon
-signals (including one oxygen-bearing carbon), nine sp2 methines, and six sp2 non-protonated carbons.
-These NMR data of 5 were similar to those of brevianamide M [28], except for the different chemical
-shifts for C-2 and C-3 due to the presence of a methoxy at C-2 in 5, implying that 5 was an analogue
-OCH3 -2 (H 3.53) to C-2 (C 83.9), from H-2 (H 5.27) to C-3 (C 146.9)/C-14 (C 170.0), and from H-13
-Aspamide F (5) was obtained as a brown powder with the molecular formula of C19H17N3O3 from
-Mar. Drugs 2020, 18, 338
-5 with the brevianamide M
-Aspamide F (5) was obtained as a brown powder with the molecular formula of C19H17N3O3 from
-6 indices of
-HRESIMS peak at m/z 336.1336
-[M + H]+ (calcd. for C19H
-hydrogen deficiency.
-in Hz) C NMR,
-(J in Hz)
-in Hz)
-H , Mult.spectra
-3 methylene, two sp3 methines carbon signals
-9.43, s carbon), nine
-(4.7)six sp2 non-protonated
-d (4.3) These
-of 5 were similar- to those of brevianamide
-M [28],
-except for151.1
-the different chemical
-Aspamide G (6) was isolated as a brown powder. The molecular formula was determined as
-C20 H19 N3 O3 by HRESIMS (m/z 350.1498 [M + H]+ , calcd. for C20 H20 N3 O3 , 350.1499), which was
-14 Dalton more than 5. The 13 C NMR data of 6 showed a close resemblance to those of 5, except for
-Mar. Drugs
-for C-2 and C-3 due to the presence of a methoxy at C-2 in 5, implying that 5 was an analogue of
-additional oxygenated
-sp3 methylene,
-suggesting that
-an ethoxy
-M with a methoxy
-at C-2. Additionally,
-key was
-H to C-3 (C 146.9)/C-14
-(C 170.0), and from H-13
-OCH3-2 (H 3.53) to C-2 (C 83.9), from H-2 (H 5.27)
-of brevianamide
-an ethoxy
-at C-2.
-In addition,
-of 5 asCotton
-the brevianamide
-elucidated as 6-ethoxy-aspamide F.
-All isolated compounds were tested for their anti-inflammatory activities in P. acnes-induced
-G (6) was isolated
-as acompounds
-brown powder.
-formula was determined
-cells; unfortunately,
-none of the
-20H19N3O3 by HRESIMS (m/z 350.1498 [M + H]+, calcd. for C20H20N3O3, 350.1499), which was 14
-Aiming to give our contribution to the COVID-19 research, all compounds were selected for the virtual
-13C NMR data of 6 showed a close resemblance to those of 5, except for an
-Dalton more
-on than
-(Mpro) of SARS-CoV-2, which had been exploited as a potential
-additional oxygenated sp3 methylene, suggesting that there was an ethoxy group located at C-2 in 6.
-among all screened molecules (docking scores: 5.389, 4.772, 5.146, 4.962, 5.158), and the score of
-of brevianamide M (17) with an ethoxy motif at C-2. In addition, similar Cotton effects at 212, 220,
-ritonavir [36] (a potent inhibitor in vitro of human immunodeficiency virus type 1 protease) was 7.039,
-MHz) and 13C (150 MHz) NMR data of 46 (4 in DMSO-d6, 56 in CDCl3).
-Optical rotations were recorded
-on a JASCO P-1020 polarimeter
-(J in Hz)
-H, Mult.
-(J in Hz) UV-1800
-, Mult. (J in Hz)
-Japan) in MeOH at 25  C.
-were measured
-a Shimadzu
-Tokyo,-Japan). High-resolution
-obtained with an Agilent 6529B Q-TOF instrument (Agilent Technologies, Santa Clara,(4.3)
-CA, USA).
-125.5carried out with
-- Chirascan circular
-ECD spectra
-Ltd., Leatherhead, UK). Both 1D and 2D NMR spectra were acquired on a Bruker AVIII-400 and Bruker
-AVIII-600 NMR spectrometers with tetramethylsilane (TMS) as an internal standard (Bruker, Karlsruhe,
-liquid chromatography (Pre-HPLC) was performed utilizing
-7a Preparative high-performance
-7.79, t (8.0)with a 136.7
-t (8.0) column
-a Shimadzu
-LC-20 system (Shimadzu,
-Japan) equipped
-8amm i.d., 10 m, Shimadzu,
-2.02, m Tokyo, Japan) with a flow rate at 10 mL/min at 25 C, which was
-recorded by a binary channel2.33,
-UV m
-detector at 210 nm and 254 nm. The analytical chiral HPLC used
-was a JASCO
-system equipped
-a Daicel Chiralpak
-5 m) and a CD-2095 chiral detector at 280 nm. The mobile phase was n-hexane/isopropanol
-v/v) used at a flow rate of 0.5 mL/min. Column chromatography (CC) was performed with silica
-gel (200300 mesh, Qingdao Marine Chemical Inc., Qingdao, China) and ODS (50 m, YMC, Kyoto,
-Japan) on
-a Flash
-machine, Santai
-gel GF254 plates
-7.09, mwas performed
-40.0 using precoated
-Mar. Drugs 2020, 18, 338
-3.2. Fungal Material
-The endophytic DY180635 was isolated from a sample of crab (Chiromantes haematocheir), which
-was collected from the intertidal zone of Zhoushan, Zhejiang, China, in June 2018. It was incubated
-on a potato dextrose agar (PDA) plate at 28  C. The strain DY180635 was identified using ITS rDNA
-sequence analysis by RuiDi (Shanghai, China) and its DNA sequence using BLAST was compared to
-the GenBank data. The result of BLAST searching was closest to that of Aspergillus versicolor NRRL
-238 (GenBank accession number NG_067623) with 99% sequence identity. The nucleotide sequences
-of the ITS gene (accession number MT361076) of A. versicolor DY180635 were deposited in GenBank.
-A reference culture is stored in State Key Laboratory of Bioreactor Engineering laboratory of Shanghai
-at 80  C.
-3.3. Fermentation, Extraction, and Isolation
-The fungus was incubated on potato dextrose agar (PDA) medium at 28  C for approximately
-23 days; then it was cut into three agar pieces (nearly the size of 0.5  0.5  0.5 cm) and transferred
-into a 500 mL Erlenmeyer flask, containing 200 mL of potato dextrose broth (PDB). The flasks were
-cultured for 2 days at 28  C on a rotary shaker at 180 rpm for inoculation. The seed cultures were
-added to the 200  1 L flasks containing rice medium (110 g rice, 120 mL deionized water), which was
-previously sterilized at 121  C for 25 min. All flasks were incubated at 28  C for four weeks.
-Following incubation, the solid rice cultures were extracted three times by EtOAc to give a crude
-extract (489.0 g); the crude extract was suspended in water and then partitioned with EtOAc to give an
-EtOAc soluble fraction (185.2 g) after the solvent was removed to dryness under reduced pressure.
-The EtOAc fraction was further separated on macroporous adsorbent resin with a stepped gradient
-elution with EtOH-H2 O (30, 50, 70 and 100%). The 50% fraction was sequentially separated by silica gel
-with petroleum ether-EtOAc (5:1 to 0:1) to give four subfractions (AD) using the TLC. The subfraction
-B (9.0 g) was sequentially loaded onto silica gel CC (petroleum ether-EtOAc, 5:1) and preparative HPLC
-(MeCN-H2 O, 50:50, 10.0 mL/min) to yield compounds 1 (10.4 mg, tR 34.9 min), 2 (6.4 mg, tR 27.1 min),
-4 (5.9 mg, tR 33.5 min), and 6 (8.7 mg, tR 23.2 min). Subfraction C (15.0 g) was further separated by an
-ODS column (MeCN-H2 O, 40:60) and repeated preparative HPLC with MeCN-H2 O (50:50, 10 mL/min)
-to give compounds 3 (4.6 mg, tR 8.8 min) and 5 (4.7 mg, tR 17.1 min).
-Aspamide A (1): yellowish powder; []25
-D + 120.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max () 212
-(92.18), 245 (41.48) 335 (19.29) nm; UV (MeOH) max (log) 200 (6.13), 224 (6.13), 284 (5.46), 341 (5.68)
-for C23 H28 N3 O3 , 394.2125).
-Aspamide B (2): yellowish powder; []25
-D + 112.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max () 212
-(83.31), 261 (37.91), 340 (20.41) nm; UV (MeOH) max (log) 200 (6.18), 224 (6.18), 283 (5.45), 345 (5.73)
-for C23 H28 N3 O3 , 394.2125).
-Aspamide C (3): yellowish powder; []25
-D + 125.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max () 211
-(103.75), 255 (44.38), 334 (24.79) nm; UV (MeOH) max (log) 200 (6.20), 224 (6.19), 284 (5.56), 337 (5.75)
-for C21 H24 N3 O3 , 366.1812).
-()-Aspamide D (4): colorless gum; []25
-D + 5.0 (c 0.05, MeOH); UV (MeOH) max (log) 200 (6.07),
-394.2122 [M + H]+ , (calcd. for C23 H28 N3 O3 , 394.2125).
-Aspamide F (5): brown powder; []25
-D + 40.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max ()
-212 (65.33), 220 (62.98), 237 (52.79) nm; UV (MeOH) max (log) 206 (5.95), 224 (6.15), 270 (5.25),
-Mar. Drugs 2020, 18, 338
-(calcd. for C19 H18 N3 O3 , 336.1343).
-Aspamide G (6): brown powder; []25
-D + 56.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max () 212
-(76.04), 221 (75.42), 237 (-62.18) nm; UV (MeOH) max (log) 205 (5.92), 222 (5.88), 270 (5.16), 278 (5.13)
-for C20 H20 N3 O3 , 350.1499).
-3.4. ECD Calculation
-Monte Carlo conformational searches were carried out by means of the Spartans 14 software using the
-Merck molecular force field (MMFF). The conformers with Boltzmann population of over 1% were
-chosen for ECD calculations, and then the conformers were initially optimized at the B3LYP/6-31G(d,p)
-level in gas. The theoretical calculation of ECD was conducted in MeOH using Time-dependent Density
-functional theory (TD-DFT) at the B3LYP/6-31+G(d,p) level for all conformers. Rotatory strengths for a
-total of 100 excited states were calculated. ECD spectra were generated using the program SpecDis
-San Diego, USA) from dipole-length rotational strengths by applying Gaussian band shapes with
-were produced directly by mirror inversions.
-3.5. Virtual Screening Against COVID-19 Main Protease
-3.5.1. Protein and Ligand Preparation
-COVID-19 [27]. Thus, the virtual screening was conducted by using the SARS-CoV-2 enzyme (PDB ID
-optimized by using the protein preparation wizard module in Maestro software package (Schrodinger
-LLC, NY, USA). Specifically, the water and heteroatom were removed, the polar hydrogens were added
-to the protein to the protonation state, the entire structure was assumed as a neutral pH, and the
-energy of the structure was minimized by using an OPLS2005 force field. The docking grid of 20  size
-was generated over the co-crystallized ligand. All compounds 117 were implemented by Ligprep
-software, and the structure energy was minimized using OPL2005 force field.
-3.5.2. Virtual Screening
-Virtual screening was performed by the Schrodinger glide docking module, and the standardprecision (SP) docking was designated to get accurate results [37]. The results were measured by
-docking score, and only the compounds with scores in the top half were subjected to the extra-precision
-3.6. Cell Culture and Cell Viability Assay
-The human monocytic cell line, THP-1 (Cell Bank of China Science Academy, Shanghai, China)
-and P. acnes (ATCC6919, Xiangfu biotech, Shanghai, China), were used for the anti-inflammatory
-assay. THP-1 cells were cultured in RPMI1640 medium with 10% fetal bovine serum (FBS, Gibco, NY,
-USA) in a humidified incubator (37  C, 5% CO2 ). P. acnes bacteria were incubated in Cooked Meat
-Medium, containing cooked beef granules (Rishui biotechnology, Qingdao, China) in an anaerobic
-environment. The THP-1 cells were stimulated by the P. acnes, which was harvested at the exponential
-phase. The viability of THP-1 cells was evaluated by the MTT assay, specifically, seeding the THP-1
-cells in 96-well plates at a density of 2  105 cells/well and treated with serially diluted compounds for
-36 h (37  C, 5% CO2 ). After that, we added 20 L MTT regent (5 mg/mL, Genetimes Technology Inc.,
-Mar. Drugs 2020, 18, 338
-Shanghai, China) to each well and incubated the samples at 37  C for 4 h. Removing the supernatant,
-the formazan crystals were fully solubilized in DMSO (150 L), and the absorbance was measured at
-570 nm and 630 nm.
-Chemical investigation of a marine-derived fungus Aspergillus versicolor DY180635 led to the
-isolation and identification of four new IDPKs, aspamides AE (14) and two new DPKs, aspamides
-FG (56), along with 11 known diketopiperazines and intermediates. Further chiral high-performance
-liquid chromatography resolution gave enantiomers (+)- and ()-4, respectively. The structures and
-HRESIMS, and ECD calculation. Compounds 117 were selected for the virtual screening on the 3CL
-hydrolase (Mpro) of SARS-CoV-2, and compounds 12, 5, 6, 8 and 17 possessed top docking scores
-Funding: This work was funded by the National Key R&D Program of China (2018YFC1706200, 2019YFC0312504),
-and the National Natural Science Foundation of China (41876189, 81703388). This work was also supported
-on the Mpro of SARS-CoV-2.
-Strobel, G.; Daisy, B.; Castillo, U.; Harper, J. Natural products from endophytic microorganisms. J. Nat. Prod.
-Blunt, J.W.; Copp, B.R.; Keyzers, R.A.; Munro, M.H.G.; Prinsep, M.R. Marine natural products. Nat. Prod.
-Rep. 2017, 34, 235294. [CrossRef] [PubMed]
-Bugni, T.S.; Ireland, C.M. Marine-derived fungi: A chemically and biologically diverse group of
-microorganisms. Nat. Prod. Rep. 2004, 21, 143163. [CrossRef]
-Ma, Y.M.; Liang, X.A.; Kong, Y.; Jia, B. Structural diversity and biological activities of indole diketopiperazine
-alkaloids from fungi. J. Agric. Food Chem. 2016, 64, 66596671. [CrossRef] [PubMed]
-Borthwick, A.D. 2,5-Diketopiperazines: Synthesis, reactions, medicinal chemistry, and bioactive natural
-products. Chem. Rev. 2012, 112, 36413716. [CrossRef] [PubMed]
-Wang, W.L.; Lu, Z.Y.; Tao, H.W.; Zhu, T.J.; Fang, Y.C.; Gu, Q.Q.; Zhu, W.M. Isoechinulin-type alkaloids,
-variecolorins A-L, from halotolerant Aspergillus variecolor. J. Nat. Prod. 2007, 70, 15581564. [CrossRef]
-Cai, S.X.; Sun, S.W.; Peng, J.X.; Kong, X.L.; Zhou, H.N.; Zhu, T.J.; Gu, Q.Q.; Li, D.H. Okaramines S-U,
-three new indole diketopiperazine alkaloids from Aspergillus taichungensis ZHN-7-07. Tetrahedron 2015, 71,
-Wang, F.Z.; Fang, Y.C.; Zhu, T.J.; Zhang, M.; Lin, A.Q.; Gu, Q.Q.; Zhu, W.M. Seven new prenylated indole
-diketopiperazine alkaloids from holothurian-derived fungus Aspergillus fumigatus. Tetrahedron 2008, 64,
-Tsukamoto, S.; Kato, H.; Samizo, M.; Nojiri, Y.; Onuki, H.; Hirota, H.; Ohta, T. Notoamides FK, prenylated
-indole alkaloids isolated from a marine-derived Aspergillus sp. J. Nat. Prod. 2008, 71, 20642067. [CrossRef]
-Kozlovsky, A.G.; Vinokurova, N.G.; Adanin, V.M. Diketopiperazine alkaloids from the fungus Penicillium
-piscarium westling. Appl. Biochem. Microbiol. 2000, 36, 271275. [CrossRef]
-Mar. Drugs 2020, 18, 338
-Ravikanth, V.; Niranjan Reddy, V.L.; Ramesh, P.; Prabhakar Rao, T.; Diwan, P.V.; Khar, A.; Venkateswarlu, Y.
-An immunosuppressive tryptophan-derived alkaloid from Lepidagathis cristata. Phytochemistry 2001, 58,
-Fujimoto, H.; Sumino, M.; Okuyama, E.; Ishibashi, M. Immunomodulatory constituents from an Ascomycete.
-J. Nat. Prod. 2004, 67, 98102. [CrossRef]
-Kuramochi, K.; Ohnishi, K.; Fujieda, S.; Nakajima, M.; Saitoh, Y.; Watanabe, N.; Takeuchi, T.; Nakazaki, A.;
-Sugawara, F.; Arai, T.; et al. Synthesis and biological activities of neoechinulin A derivatives: New aspects
-of structure-activity relationships for neoechinulin A. Chem. Pharm. Bull. 2008, 56, 17381743. [CrossRef]
-Fan, Z.; Sun, Z.H.; Liu, Z.; Chen, Y.C.; Liu, H.X.; Li, H.H.; Zhang, W.M. Dichotocejpins A-C: New
-diketopiperazines from a deep-sea-derived fungus Dichotomomyces cejpii FS110. Mar. Drugs 2016, 14, 19.
-[CrossRef] [PubMed]
-Mohanlal, R.W.; Lloyd, K.; Huang, L. Plinabulin, a novel small molecule clinical stage IO agent with
-anti-cancer activity, to prevent chemo-induced neutropenia and immune related AEs. J. Clin. Oncol. 2018, 36,
-Gomes, N.G.M.; Lefranc, F.; Kijjoa, A.; Kiss, R. Can some marine-ferived fungal metabolites become actual
-anticancer agents? Mar. Drugs 2015, 13, 39503991. [CrossRef]
-Geiger, W.B.; Conn, J.E.; Waksman, S.A. Chaetomin, a new antibiotic substance produced by Chaetomium
-cochliodes: II. Isolation and Concentration. J. Bacteriol. 1944, 48, 531536. [CrossRef]
-Tian, W.; Sun, C.; Zheng, M.; Harmer, J.R.; Yu, M.; Zhang, Y.; Peng, H.; Zhu, D.; Deng, Z.; Chen, S.L.; et al.
-Efficient biosynthesis of heterodimeric C3 -aryl pyrroloindoline alkaloids. Nat. Commun. 2018, 9, 4428.
-Ye, Y.; Du, L.; Zhang, X.W.; Newmister, S.A.; McCauley, M.; Alegre-Requena, J.V.; Zhang, W.; Mu, S.;
-Minami, A.; Fraley, A.E.; et al. Fungal-derived brevianamide assembly by a stereoselective semipinacolase.
-Nat. Catal. 2020. [CrossRef]
-Song, F.; Liu, X.; Guo, H.; Ren, B.; Chen, C.; Piggott, A.M.; Yu, K.; Gao, H.; Wang, Q.; Liu, M.; et al.
-Brevianamides with antitubercular potential from a marine-derived isolate of Aspergillus versicolor. Org. Lett.
-James, E.D.; Knuckley, B.; Alqahtani, N.; Porwal, S.; Ban, J.; Karty, J.A.; Viswanathan, R.; Lane, A.L. Two distinct
-cyclodipeptide synthases from a marine Actinomycete catalyze biosynthesis of the same diketopiperazine
-natural product. ACS Synth. Biol. 2016, 5, 547553. [CrossRef] [PubMed]
-Haines, B.E.; Nelson, B.M.; Grandner, J.M.; Kim, J.; Houk, K.N.; Movassaghi, M.; Musaev, D.G. Mechanism
-of permanganate-promoted dihydroxylation of complex diketopiperazines: Critical roles of counter-cation
-and ion-pairing. J. Am. Chem. Soc. 2018, 140, 1337513386. [CrossRef]
-Ding, Y.; An, F.L.; Zhu, X.J.; Yu, H.Y.; Hao, L.L.; Lu, Y.H. Curdepsidones B-G, six depsidones with
-anti-inflammatory activities from the marine-derived fungus Curvularia sp. IFB-Z10. Mar. Drugs 2019, 17,
-Liu, W.H.; Ding, Y.; Ji, X.; An, F.L.; Lu, Y.H. Curvulaide A, a bicyclic polyketide with anti-anaerobic bacteria
-activity from marine-derived Curvularia sp. J. Antibiot. 2019, 72, 111113. [CrossRef]
-Guo, M.M.; Lu, Y.; Yang, J.P.; Zhao, X.; Lu, Y.H. Inhibitory effects of Schisandra chinensis extract on acne-related
-inflammation and UVB-induced photoageing. Pharm. Biol. 2016, 54, 29872994. [CrossRef] [PubMed]
-Dillman, R.L.; Cardellina, J.H. Aromatic secondary metabolites from the sponge Tedania ignis. J. Nat. Prod.
-Jin, Z.M.; Du, X.Y.; Xu, Y.C.; Deng, Y.Q.; Liu, M.Q.; Zhao, Y.; Zhang, B.; Li, X.F.; Zhang, L.K.; Peng, C.F.; et al.
-Structure of Mpro from COVID-19 virus and discovery of its inhibitors. Nature 2020, 582, 289293. [CrossRef]
-Li, G.Y.; Yang, T.; Luo, Y.G.; Chen, X.Z.; Fang, D.M.; Zhang, G.L. Brevianamide J, a new indole alkaloid dimer
-from fungus Aspergillus versicolor. Org. Lett. 2009, 11, 37143717. [CrossRef]
-Li, G.Y.; Li, L.M.; Yang, T.; Chen, X.Z.; Fang, D.M.; Zhang, G.L. Four new alkaloids, brevianamides O-R,
-from the fungus Aspergillus versicolor. Helv. Chim. Acta 2010, 93, 20752080. [CrossRef]
-Liu, Y.X.; Ma, S.G.; Wang, X.J.; Zhao, N.; Qu, J.; Yu, S.S.; Dai, J.G.; Wang, Y.H.; Si, Y.K. Diketopiperazine
-alkaloids produced by the endophytic fungus Aspergillus fumigatus from the Stem of Erythrophloeum fordii
-Oliv. Helv. Chim. Acta 2012, 95, 14011408. [CrossRef]
-Mar. Drugs 2020, 18, 338
-Schkeryantz, J.M.; Woo, J.C.G.; Siliphaivanh, P.; Depew, K.M.; Danishefsky, S.J. Total synthesis of gypsetin,
-deoxybrevianamide E, brevianamide E, and tryprostatin B: Novel constructions of 2,3-disubstituted indoles.
-J. Am. Chem. Soc. 1999, 121, 1196411975. [CrossRef]
-Sanz-Cervera, J.F.; Stocking, E.M.; Usui, T.; Osada, H.; Williams, R.M. Synthesis and evaluation of microtubule
-assembly inhibition and cytotoxicity of prenylated derivatives of cyclo-l-Trp-l-Pro. Bioorg. Med. Chem. 2000,
-May Zin, W.W.; Buttachon, S.; Dethoup, T.; Pereira, J.A.; Gales, L.; Incio, .; Costa, P.M.; Lee, M.;
-Sekeroglu, N.; Silva, A.M.S.; et al. Antibacterial and antibiofilm activities of the metabolites isolated from the
-culture of the mangrove-derived endophytic fungus Eurotium chevalieri KUFA 0006. Phytochemistry 2017, 141,
-8697. [CrossRef] [PubMed]
-Pirrung, M.C.; Fujita, K.; Park, K. Organometallic routes to 2,5-dihydroxy-3-(indol-3-yl)-benzoquinones.
-Synthesis of demethylasterriquinone B4. J. Org. Chem. 2005, 70, 25372542. [CrossRef]
-Liu, W.; Wang, L.P.; Wang, B.; Xu, Y.C.; Zhu, G.L.; Lan, M.M.; Zhu, W.M.; Sun, K.L. Diketopiperazine and
-diphenylether derivatives from marine algae-derived Aspergillus versicolor OUCMDZ-2738 by epigenetic
-activation. Mar. Drugs 2019, 17, 6. [CrossRef]
-Markowitz, M.; Saag, M.; Powderly, W.G.; Hurley, A.M.; Hsu, A.; Valdes, J.M.; Henry, D.; Sattler, F.; La
-Marca, A.; Leonard, J.M.; et al. A preliminary study of ritonavir, an inhibitor of HIV-1 protease, to treat HIV-1
-infection. N. Engl. J. Med. 1995, 333, 15341539. [CrossRef]
-Halgren, T.A.; Murphy, R.B.; Friesner, R.A.; Beard, H.S.; Frye, L.L.; Pollard, W.T.; Banks, J.L. Glide: A new
-approach for rapid, accurate docking and scoring. 2. Enrichment factors in database screening. J. Med. Chem
+marine  drugs Bioactive Indolyl Diketopiperazines from the Marine
+Derived Endophytic Aspergillus versicolor DY180635 Yi Ding, Xiao‐
+jing  Zhu,  Liling  Hao, Mengyao Zhao, Qiang Hua and Faliang An *
+Abstract: Four new indolyl diketopiperazines, aspamides  AE  (14)
+and  two  new diketopiperazines, aspamides FG (56), along with 11
+known diketopiperazines and intermediates were isolated from  the
+solid  culture  of  Aspergillus versicolor, which is an endophyte
+with the sea  crab  (Chiromantes  haematocheir).  Further  chiral
+high‐performance  liquid  chromatography  resolution  gave  enan‐
+tiomers determined by the comprehensive analyses of nuclear  mag‐
+netic resonance (NMR), high‐resolution mass spectrometry (HR‐MS),
+and electronic circular dichroism (ECD) calculation. All isolated
+compounds  were  selected for the virtual screening on the coron‐
+avirus 3‐chymoretpsin‐like protease (Mpro) of Severe Acute Respi‐
+ratory  Syndrome  Coronavirus  2  (SARS‐CoV‐2),  and  the docking
+scores with Corona  Virus  Disease‐19  (COVID‐19)  after  further
+studies.   Keywords:  endophyte  fungus;  Aspergillus versicolor;
+diketopiperazines; ECD calculation; enantiomers Endophytic  fungi
+refer  to  harmless parasitic fungi that live in the internal or‐
+gans of plants and animals without causing any adverse reactions.
+The  host  provides nutrients for endophytes, and endophytes pro‐
+duce bioactive substances, giving the host an advantage  in  sur‐
+vival  competition [1].  Symbionts coexist with symptomless fish,
+sponges, algae, and soft corals that grow in a  relatively  harsh
+marine  environment characterized by high salinity, scarce nutri‐
+ents, and high osmotic and hydraulic  pressures,  which  provides
+many environment‐specific microorganisms that could coevolve with
+their hosts by undergoing the rapid and dynamic change  of  their
+genomes  [2,3].  Thus, endophytic fungi are considered as a trea‐
+sure trove of unique structural compounds and  bioactive  metabo‐
+lites.  Indolyl diketopiperazines (IDKPs), cyclic dipeptides pro‐
+duced by the condensation of  l‐tryptophan  and  a  second  amino
+acid, were commonly isolated from fungi, especially from the gen‐
+era Aspergillus and Penicillium [4,5]. IDKPs had drawn  consider‐
+able  attention  from  synthetic  chemists,  natural products re‐
+searchers, and synthetic biologists for decades due to their sig‐
+nificant  biological  activities,  such as antiviral [6,7], anti‐
+cancer [810], immunomodulatory  [11,12],  antioxidant  [13],  and
+‐glucosidase inhibitory activities [14]. Specifically, the vascu‐
+lar disrupting and  tubulin‐depolymerizing  agent  plinabulin,  a
+synthetic  analog  based  on  the  natural diketopiperazine (DKP)
+product halimide generated by the marine‐derived Aspergillus  sp.
+CNC‐139,  had  entered  the  last stage of clinical study for the
+treatment of non‐small‐cell lung cancer [15,16]. Since the  first
+IDKP  alkaloid  chaetomin  isolated  from  the  fungus Chaetomium
+cochliodes in the early 1940s, a series of DKPs and their biosyn‐
+thesis  clusters were reported [1722]. In our continuous investi‐
+gations of novel  bioactive  agents  from  the  endophytic  fungi
+[23,24],  the  endophytic  strain Aspergillus versicolor DY180635
+isolated from Mar. Drugs 2020, 18, 338 Mar. Drugs 2020,  18,  338
+and their biosynthesis clusters were reported [1722]. In our con‐
+tinuous investigations of novel bioactive agents from  the  endo‐
+phytic fungi [23,24], the endophytic strain Aspergillus versicol‐
+or sea crabisolated was selected ethyl acetate results.  extracts
+The of a ethyl from the selected based on the acetate extracts of
+a rice solid culture of A. versicolor DY180635 showed 80% inhibi‐
+tion on the antiPropionibacterium THP‐1 cells at the of 0.1 cells
+inflammation model of the Propionibacterium at  the  mg/mL  [25].
+High‐performance  liquid  chromatography  (HPLC)  analysis of the
+ethyl acetate extracts a diode 336 nm [26].  of IDKPs a diode ar‐
+ray  detector  DKPs,  thecomplex 336 nm [26].  to discover and/or
+bioactive spectroscopic‐guided isolation was  performed  in  this
+research.   Spectroscopic‐guided isolation resulted of of and and
+two two FG FG couple of12  the  firstofsamples  of  brevianamides
+with  an  oxygenated  The couple of epimers were the with an oxy‐
+genated structure at the proline motif.  All  isolated  compounds
+were  tested for anti‐inflammation in P. acnesin P. acnes‐induced
+cells. Unfortunately, With  the  appearance  THP‐1  cells.   none
+showed the appearance and spread of SARS‐CoV‐2 of 2019, compounds
+for the at the endatofthe the virtual  of  SARS‐CoV‐2,  been  ex‐
+ploited  as  a  potential  which hadwhich been had as a potential
+drug target The docking of compounds and top [27]. The scores of‐
+scores may be in be helpful COVID‐19 after further studies. Here‐
+in, we reported the  isolation,  structural  identification,  and
+bioand  of  isolated of isolated Results and and Discussion chro‐
+matography (CC) on macroporous adsorbent resin, silica  gel,  and
+octadecyl  silane (ODS),as to afford and two Six new DKPs, as as‐
+pamides to afford two intermediates.  Six new named as 1 H nucle‐
+ar  magnetic  by  spectroscopic C NMR, (NMR), HSQC, heteronuclear
+bond correlation C NMR, HSQC, bond correlation  nuclear  magnetic
+and  high resolution mass spectrometry rotating effect Overhauser
+effect high resolution By comparing the NMR and ESIMSthe  to  the
+mass  spectrometry  By  comparing ESIMS data to the in known com‐
+pounds as brevianamides K, as and M (7, 16, 17) in detail, 11were
+were  determined  K,  [28], N, and [28], brevianamide Q (8) [29],
+brevianamides V, U (910) [20],  brevianamide  F  E(11)  deoxybre‐
+vianamide  E  (12) [31], N‐Prenyl‐cyclo‐‐tryptophyl‐‐proline (13)
+[32], 2‐(2‐methyl‐3‐en‐2(14) [33], and 2‐(1,1‐Dimethyl‐allyl)‐1H‐
+indol‐3‐ylmercuric  acetate (15) [34]. Herein, the (14) [33], and
+2‐(1,1‐Dimethyl‐allyl)‐1H‐indol‐3‐ylmercuric  of  the  isolation,
+structural  elucidation  of these new compounds, and their bioac‐
+tivities are described.  Mar. Drugs  2020,  18,  338  Mar.  Drugs
+2020,  18, 338 [34]. Herein, the details of the isolation, struc‐
+tural elucidation of these new compounds, and their bioactivities
+are  described.   Aspamide  A  (1) was isolated isolated as as aa
+yellowish powder. The The UV UV spectrum spectrum with max  (log)
+in methanol at 200 (6.13), 224 (6.13), 284 (5.46), and 341 (5.68)
+nm was indicative of indole  functionality  extended  conjugation
+with an extended as C + , calcd. for C H N O , 394.2125) of high‐
+resolution ESIMS (m/z 394.2117 [M + H] , calcd.  for  C23H28N3O23
+28  3 3 and C NMR data, 1 H NMR, 13 C NMR, and heteronuclear mul‐
+tiple of unsaturation.  of degrees The 1H NMR, and  heteronuclear
+multiple  quantum  S3  in Supporting in Supporting three methyl 3
+methylenes (including one three  sp  methylenes  (including  oxy‐
+genated methylene) two sp methine carbon signals 2 methines, one2
+sp2 methylene, seven2 sp2 , and one 3 non‐protonated carbon.  The
+NMR  data  sp  methines,  one sp methylene, seven sp , and one sp
+non‐protonated carbon. The NMR data and UV absorptions  to  those
+of brevianamide V [20], UV absorptions to those of brevianamide V
+[20], the the additional oxygenated aza‐acetal structure  located
+at  the proline motif (C 86.7, the the was derived from heteronu‐
+clear multiple bond Further information  was  derived  from  het‐
+eronuclear to C‐9 to C‐6 to H‐9 to C‐9(were data suggested an ox‐
+ethyl was located and H‐8 to C‐9 were These data an  oxethyl  and
+confirmed aza‐acetal structure the proline at C‐6 andthe the oxy‐
+genated at the in the brevianamide Thus, the planar 1 was  deter‐
+mined as shown previous unpresented in the brevianamide Thus, the
+planar of of 1 was determined In order order to to determine  de‐
+termine  the  the relative rotating frame frame Overhauser effect
+S5) experiment experiment was was performed.   between  NH‐2  (HH
+9.01)  and  H‐13  ( (HH 7.29) revealed the Z about 3,10 , and the
+ROESY signals between H‐8 H‐6 H‐6 by comparing the H‐9 H‐9 of  of
+values  obtained using Time‐dependent values obtained using Time‐
+Density the B3LYP/631+g at the B3LYP/631+g (d, p) level bond cor‐
+relation  bond  correlation  (A) and rotating effect spectroscopy
+(ROESY) (B) correlations, and experimental and  calculated  elec‐
+tronic  circular  circular  dichroism (C) of compound of compound
+was obtained obtained as as aa yellowish yellowish powder.   pow‐
+der. Its molecular molecular formula was determined as Aspamide B
+(2) was N33, O 13 C, HMQC of unsaturation.  By comparing  H,  131
+H,  C,  and  C  NMR of unsaturation.  By comparing and HMQC of of
+that22 possessed possessed the the identical planar Hstructure as
+that  of to OCH and C‐9 H‐9 as to OCH H C‐1 that the oxethyl C‐6.
+Furthermore, the difference that thegroup was at at C‐6. Further‐
+more,  the difference in Hz) in H‐6 in 1 indicated C‐6 epimer the
+same effects effects to 1 indicated that the absolute the ECD ECD
+cotton of 2 compared to 1 indicated that the Mar. Drugs 2020, 18,
+338 Mar. Drugs 2020, 18, 338 of C‐9 of in C‐9 with with  that  in
+the  the  was  consistent mainly caused caused by the chiral com‐
+pounds 1 and 2, and it could also be confirmed by the  experimen‐
+tal  ECD data of (+)‐brevianamide Thus, the the absolute compound
+22 was was ascertained powder. The The molecular molecular formu‐
+la was was established 12 degrees of unsaturation. The UV and NMR
+spectra were very similar to those of compound1.1.A  data  for  A
+comparison comparison of the NMR data a second OH group by aby OH
+in the OH was not located at C‐6, which was the same as the 1, to
+form  the  aza‐acetal  structure  for which the chemical shift of
+oxygenated far the in 1. the the second of shift was  distributed
+to C‐7, planar structure 3 was determined in The to C‐7, and of 3
+was of as shownas in shown form of ROESY correlation cis form  of
+the between double bond and C‐10. the the ROESY C‐3 and C‐10. C‐3
+ROESY signals H‐7 (H 4.35), and between H‐8 (H 2.12) and  H‐9  (H
+4.65)  revealed  that  H‐7  and  H‐9 were trans form.  were trans
+form. Finally, the absolute was determined comparison of the  ab‐
+solute  of 3 was by comparison of the of 3 with of 3 withECD that
+curve and experimental ECD spectra (C) of compounds 13.   experi‐
+mental ECD spectra (C) of compounds 13.  13 (150 MHz) NMR data of
+13 in DMSO‐d .  (150 MHz) NMR data of 13 in  DMSO‐  No.  No.   H,
+Mult.  (J in Hz) H, Mult. (J in Hz) H , Mult. (J in Hz) H , Mult.
+(J in Hz) H, Mult. (J in Hz) H , Mult. (J in Hz) Mar. Drugs 2020,
+18,  338  H , Mult. (J in Hz) H , Mult. (J in Hz) H , Mult. (J in
+Hz) 5.04, m s s s The racemic was isolated isolated as as  color‐
+less colorless gum gum with with the the molecular molecular for‐
+mula formula of N3,3 O Its NMR to compound the  major  UV  UV  to
+compound  to  1,  to 3 methylene and one sp was that sp3 methines
+two two sp3 methines by by and one sp3 3non‐protonated suggesting
+that  to  C‐9  to thetoC‐6.  the keythe that the to C‐9 the Addi‐
+tionally, C‐6.  Additionally,  signals  signals  to  C‐9  to  C‐9
+C‐4((CC 159.4) and C‐9, and H‐8a (HH 2.02) to C‐1 (CC 163.1) con‐
+firmed the the aforementioned aforementioned planar planar struc‐
+ture.  There There was no Cotton in accordance the racemic in ac‐
+cordance the racemic X [35], be aofpair of enantiomers.  X  [35],
+be a pair the chiral HPLC resolution of 4 contributed to the sep‐
+aration pair of enantiomers of 4 contributed to the separation of
+a  pairof  of  aenantiomers  nearly mirror‐image The absolute and
+were ECD spectra discriminably determined as 9R and 9S by compar‐
+ing  the  experimental and calculated ECD data obtained using TD‐
+DFT at the B3LYP/6‐31+g p) level D, respectively.   The  key  key
+HMBC  HMBC  correlations  correlations of of compounds Aspamide F
+(5) was obtained as a brown powder with the molecular formula  of
+C19 H17 N3 O3 from an HRESIMS peak at m/z 336.1336 [M + H]+ (cal‐
+cd. for C19 H18 N3 O3 , 336.1343),  requiring  13  suggested  the
+presence  of  one oxygenated methyl group, one sp3 methylene, two
+sp3 methines carbon signals (including  one  oxygen‐bearing  car‐
+bon),  nine  sp2  methines,  and  six sp2 non‐protonated carbons.
+These NMR data of 5 were similar to those of brevianamide M [28],
+except  for  the different chemical shifts for C‐2 and C‐3 due to
+the presence of a methoxy at C‐2 in 5, implying  that  5  was  an
+analogue  OCH3  ‐2 (H 3.53) to C‐2 (C 83.9), from H‐2 (H 5.27) to
+C‐3 (C 146.9)/C‐14 (C 170.0), and from H‐13 Aspamide  F  (5)  was
+obtained  as  a  brown  powder  with  the  molecular  formula  of
+C19H17N3O3 from Mar. Drugs 2020, 18, 338 5 with the  brevianamide
+M  Aspamide F (5) was obtained as a brown powder with the molecu‐
+lar formula of C19H17N3O3 from 6 indices of HRESIMS peak  at  m/z
+336.1336 [M + H]+ (calcd. for C19H hydrogen deficiency.  in Hz) C
+NMR, (J in Hz) in Hz) H , Mult.spectra 3 methylene, two  sp3  me‐
+thines carbon signals 9.43, s carbon), nine (4.7)six sp2 non‐pro‐
+tonated d (4.3) These of 5 were similar‐ to those of brevianamide
+M [28], except for151.1 the different chemical Aspamide G (6) was
+isolated as a brown powder. The molecular formula was  determined
+as  C20  H19 N3 O3 by HRESIMS (m/z 350.1498 [M + H]+ , calcd. for
+C20 H20 N3 O3 , 350.1499), which was 14 Dalton more than  5.  The
+13  C NMR data of 6 showed a close resemblance to those of 5, ex‐
+cept for Mar. Drugs for C‐2 and C‐3 due  to  the  presence  of  a
+methoxy at C‐2 in 5, implying that 5 was an analogue of addition‐
+al oxygenated sp3 methylene, suggesting that an ethoxy M  with  a
+methoxy  at C‐2. Additionally, key was H to C‐3 (C 146.9)/C‐14 (C
+170.0), and from H‐13 OCH3‐2 (H 3.53) to C‐2 (C 83.9),  from  H‐2
+(H 5.27) of brevianamide an ethoxy at C‐2.  In addition, of 5 as‐
+Cotton the brevianamide elucidated as 6‐ethoxy‐aspamide  F.   All
+isolated compounds were tested for their anti‐inflammatory activ‐
+ities in P. acnes‐induced G (6) was isolated as acompounds  brown
+powder.  formula was determined cells; unfortunately, none of the
+20H19N3O3  by  HRESIMS  (m/z  350.1498  [M  +  H]+,  calcd.   for
+C20H20N3O3,  350.1499), which was 14 Aiming to give our contribu‐
+tion to the COVID‐19 research, all compounds  were  selected  for
+the virtual 13C NMR data of 6 showed a close resemblance to those
+of 5, except for an Dalton more on  than  (Mpro)  of  SARS‐CoV‐2,
+which had been exploited as a potential additional oxygenated sp3
+methylene, suggesting that there was an ethoxy group  located  at
+C‐2  in  6.  among all screened molecules (docking scores: 5.389,
+4.772, 5.146, 4.962, 5.158), and the score of of  brevianamide  M
+(17) with an ethoxy motif at C‐2. In addition, similar Cotton ef‐
+fects at 212, 220, ritonavir [36] (a potent inhibitor in vitro of
+human immunodeficiency virus type 1 protease) was 7.039, MHz) and
+13C (150 MHz) NMR data of 46 (4 in DMSO‐d6, 56 in CDCl3).   Opti‐
+cal  rotations  were recorded on a JASCO P‐1020 polarimeter (J in
+Hz) H, Mult.  (J in Hz) UV‐1800 , Mult. (J in Hz) Japan) in  MeOH
+at  25   C.  were measured a Shimadzu Tokyo,‐Japan). High‐resolu‐
+tion obtained with an Agilent  6529B  Q‐TOF  instrument  (Agilent
+Technologies,  Santa Clara,(4.3) CA, USA).  125.5carried out with
+‐ Chirascan circular ECD spectra Ltd., Leatherhead, UK). Both  1D
+and 2D NMR spectra were acquired on a Bruker AVIII‐400 and Bruker
+AVIII‐600 NMR spectrometers with tetramethylsilane  (TMS)  as  an
+internal standard (Bruker, Karlsruhe, liquid chromatography (Pre‐
+HPLC) was performed  utilizing  7a  Preparative  high‐performance
+7.79,  t (8.0)with a 136.7 t (8.0) column a Shimadzu LC‐20 system
+(Shimadzu, Japan) equipped 8amm i.d., 10  m,  Shimadzu,  2.02,  m
+Tokyo,  Japan)  with  a flow rate at 10 mL/min at 25 C, which was
+recorded by a binary channel2.33, UV m detector at 210 nm and 254
+nm. The analytical chiral HPLC used was a JASCO system equipped a
+Daicel Chiralpak 5 m) and a CD‐2095 chiral detector  at  280  nm.
+The  mobile  phase  was  n‐hexane/isopropanol v/v) used at a flow
+rate of 0.5 mL/min. Column chromatography (CC) was performed with
+silica  gel  (200300 mesh, Qingdao Marine Chemical Inc., Qingdao,
+China) and ODS (50 m, YMC, Kyoto, Japan) on a Flash machine, San‐
+tai  gel  GF254  plates 7.09, mwas performed 40.0 using precoated
+Mar. Drugs 2020, 18, 338  3.2.  Fungal  Material  The  endophytic
+DY180635  was  isolated from a sample of crab (Chiromantes haema‐
+tocheir),  which  was  collected  from  the  intertidal  zone  of
+Zhoushan,  Zhejiang,  China,  in June 2018. It was incubated on a
+potato dextrose agar (PDA) plate at 28  C.  The  strain  DY180635
+was  identified using ITS rDNA sequence analysis by RuiDi (Shang‐
+hai, China) and its DNA sequence using BLAST was compared to  the
+GenBank  data.  The result of BLAST searching was closest to that
+of Aspergillus versicolor  NRRL  238  (GenBank  accession  number
+NG_067623)  with  99% sequence identity. The nucleotide sequences
+of the ITS gene (accession  number  MT361076)  of  A.  versicolor
+DY180635  were  deposited  in  GenBank.   A  reference culture is
+stored in State Key Laboratory of Bioreactor Engineering  labora‐
+tory  of  Shanghai  at 80  C.  3.3. Fermentation, Extraction, and
+Isolation The fungus was incubated on potato dextrose agar  (PDA)
+medium  at  28  C for approximately 23 days; then it was cut into
+three agar pieces (nearly the size  of  0.5   0.5   0.5  cm)  and
+transferred  into a 500 mL Erlenmeyer flask, containing 200 mL of
+potato dextrose broth (PDB). The flasks were cultured for 2  days
+at  28  C on a rotary shaker at 180 rpm for inoculation. The seed
+cultures were added to the 200  1 L flasks containing rice medium
+(110  g rice, 120 mL deionized water), which was previously ster‐
+ilized at 121  C for 25 min. All flasks were incubated at  28   C
+for  four  weeks.   Following incubation, the solid rice cultures
+were extracted three times by  EtOAc  to  give  a  crude  extract
+(489.0 g); the crude extract was suspended in water and then par‐
+titioned with EtOAc to give an EtOAc soluble fraction  (185.2  g)
+after  the solvent was removed to dryness under reduced pressure.
+The EtOAc fraction was further separated on macroporous adsorbent
+resin  with a stepped gradient elution with EtOH‐H2 O (30, 50, 70
+and 100%). The 50% fraction was sequentially separated by  silica
+gel with petroleum ether‐EtOAc (5:1 to 0:1) to give four subfrac‐
+tions (AD) using the TLC. The subfraction B (9.0 g)  was  sequen‐
+tially loaded onto silica gel CC (petroleum ether‐EtOAc, 5:1) and
+preparative HPLC (MeCN‐H2 O, 50:50, 10.0 mL/min)  to  yield  com‐
+pounds  1 (10.4 mg, tR 34.9 min), 2 (6.4 mg, tR 27.1 min), 4 (5.9
+mg, tR 33.5 min), and 6 (8.7 mg,  tR  23.2  min).  Subfraction  C
+(15.0  g)  was  further  separated  by  an ODS column (MeCN‐H2 O,
+40:60) and repeated preparative HPLC with MeCN‐H2  O  (50:50,  10
+mL/min)  to  give compounds 3 (4.6 mg, tR 8.8 min) and 5 (4.7 mg,
+tR 17.1 min).  Aspamide A (1): yellowish powder; []25 D  +  120.0
+(c  0.05,  MeOH);  ECD  (5  mg/L,  MeOH)  max () 212 (92.18), 245
+(41.48) 335 (19.29) nm; UV  (MeOH)  max  (log)  200  (6.13),  224
+(6.13),  284  (5.46),  341  (5.68) for C23 H28 N3 O3 , 394.2125).
+Aspamide B (2): yellowish powder; []25 D + 112.0 (c 0.05,  MeOH);
+ECD  (5  mg/L, MeOH) max () 212 (83.31), 261 (37.91), 340 (20.41)
+nm; UV (MeOH) max (log) 200 (6.18), 224 (6.18), 283  (5.45),  345
+(5.73)  for C23 H28 N3 O3 , 394.2125).  Aspamide C (3): yellowish
+powder; []25 D + 125.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH) max  ()
+211  (103.75),  255  (44.38), 334 (24.79) nm; UV (MeOH) max (log)
+200 (6.20), 224 (6.19), 284 (5.56), 337 (5.75) for C21 H24 N3  O3
+,  366.1812).   ()‐Aspamide D (4): colorless gum; []25 D + 5.0 (c
+0.05, MeOH); UV (MeOH) max (log) 200 (6.07), 394.2122 [M + H]+  ,
+(calcd.  for  C23  H28  N3 O3 , 394.2125).  Aspamide F (5): brown
+powder; []25 D + 40.0 (c 0.05, MeOH); ECD (5 mg/L, MeOH)  max  ()
+212 (65.33), 220 (62.98), 237 (52.79) nm; UV (MeOH) max (log) 206
+(5.95), 224 (6.15), 270 (5.25), Mar. Drugs 2020, 18, 338  (calcd.
+for  C19  H18  N3  O3 , 336.1343).  Aspamide G (6): brown powder;
+[]25 D + 56.0 (c 0.05, MeOH); ECD  (5  mg/L,  MeOH)  max  ()  212
+(76.04),  221  (75.42),  237 (‐62.18) nm; UV (MeOH) max (log) 205
+(5.92), 222 (5.88), 270 (5.16), 278 (5.13) for C20 H20  N3  O3  ,
+350.1499).   3.4.  ECD  Calculation  Monte  Carlo  conformational
+searches were carried out by means of the  Spartans  14  software
+using the Merck molecular force field (MMFF). The conformers with
+Boltzmann population of over 1% were chosen for ECD calculations,
+and   then   the  conformers  were  initially  optimized  at  the
+B3LYP/6‐31G(d,p) level in gas. The theoretical calculation of ECD
+was  conducted  in  MeOH  using Time‐dependent Density functional
+theory (TD‐DFT) at the B3LYP/6‐31+G(d,p) level for  all  conform‐
+ers.  Rotatory  strengths  for a total of 100 excited states were
+calculated. ECD spectra were generated using the program  SpecDis
+San Diego, USA) from dipole‐length rotational strengths by apply‐
+ing Gaussian band shapes with were produced  directly  by  mirror
+inversions.   3.5.  Virtual  Screening Against COVID‐19 Main Pro‐
+tease 3.5.1. Protein and Ligand Preparation COVID‐19 [27].  Thus,
+the  virtual  screening was conducted by using the SARS‐CoV‐2 en‐
+zyme (PDB ID optimized by using the  protein  preparation  wizard
+module  in  Maestro  software package (Schrodinger LLC, NY, USA).
+Specifically, the water and heteroatom were  removed,  the  polar
+hydrogens were added to the protein to the protonation state, the
+entire structure was assumed as a neutral pH, and the  energy  of
+the structure was minimized by using an OPLS2005 force field. The
+docking grid of 20  size was generated over  the  co‐crystallized
+ligand.  All  compounds 117 were implemented by Ligprep software,
+and the structure energy was minimized using OPL2005 force field.
+3.5.2.  Virtual  Screening Virtual screening was performed by the
+Schrodinger glide docking module, and the standardprecision  (SP)
+docking  was designated to get accurate results [37]. The results
+were measured by docking  score,  and  only  the  compounds  with
+scores in the top half were subjected to the extra‐precision 3.6.
+Cell Culture and Cell Viability Assay The  human  monocytic  cell
+line, THP‐1 (Cell Bank of China Science Academy, Shanghai, China)
+and P. acnes (ATCC6919, Xiangfu biotech, Shanghai,  China),  were
+used  for  the anti‐inflammatory assay. THP‐1 cells were cultured
+in RPMI1640 medium with 10% fetal bovine serum (FBS,  Gibco,  NY,
+USA)  in a humidified incubator (37  C, 5% CO2 ). P. acnes bacte‐
+ria were incubated in Cooked Meat Medium, containing cooked  beef
+granules  (Rishui  biotechnology, Qingdao, China) in an anaerobic
+environment. The THP‐1 cells were stimulated  by  the  P.  acnes,
+which  was  harvested  at the exponential phase. The viability of
+THP‐1 cells was evaluated by the MTT assay, specifically, seeding
+the  THP‐1  cells  in  96‐well  plates  at  a  density  of 2  105
+cells/well and treated with serially diluted compounds for  36  h
+(37   C, 5% CO2 ). After that, we added 20 L MTT regent (5 mg/mL,
+Genetimes Technology Inc., Mar. Drugs  2020,  18,  338  Shanghai,
+China)  to  each well and incubated the samples at 37  C for 4 h.
+Removing the supernatant, the formazan crystals were fully  solu‐
+bilized  in  DMSO (150 L), and the absorbance was measured at 570
+nm and 630 nm.  Chemical investigation of a marine‐derived fungus
+Aspergillus  versicolor DY180635 led to the isolation and identi‐
+fication of four new IDPKs, aspamides AE (14) and two  new  DPKs,
+aspamides  FG (56), along with 11 known diketopiperazines and in‐
+termediates. Further chiral high‐performance liquid  chromatogra‐
+phy  resolution gave enantiomers (+)‐ and ()‐4, respectively. The
+structures and HRESIMS, and ECD calculation. Compounds  117  were
+selected for the virtual screening on the 3CL hydrolase (Mpro) of
+SARS‐CoV‐2, and compounds 12, 5, 6, 8 and 17 possessed top  dock‐
+ing  scores Funding: This work was funded by the National Key R&D
+Program of China (2018YFC1706200, 2019YFC0312504),  and  the  Na‐
+tional  Natural Science Foundation of China (41876189, 81703388).
+This work was also supported on the Mpro of SARS‐CoV‐2.  Strobel,
+G.; Daisy, B.; Castillo, U.; Harper, J. Natural products from en‐
+dophytic microorganisms. J. Nat. Prod.  Blunt, J.W.; Copp,  B.R.;
+Keyzers,  R.A.; Munro, M.H.G.; Prinsep, M.R. Marine natural prod‐
+ucts. Nat. Prod.  Rep. 2017, 34, 235294. [CrossRef] [PubMed] Bug‐
+ni,  T.S.;  Ireland,  C.M. Marine‐derived fungi: A chemically and
+biologically diverse group of  microorganisms.  Nat.  Prod.  Rep.
+2004,  21,  143163.  [CrossRef]  Ma, Y.M.; Liang, X.A.; Kong, Y.;
+Jia, B. Structural diversity and biological activities of  indole
+diketopiperazine alkaloids from fungi. J. Agric. Food Chem. 2016,
+64,  66596671.  [CrossRef]  [PubMed]  Borthwick,  A.D.  2,5‐Dike‐
+topiperazines:  Synthesis,  reactions,  medicinal  chemistry, and
+bioactive natural  products.  Chem.  Rev.  2012,  112,  36413716.
+[CrossRef]  [PubMed]  Wang, W.L.; Lu, Z.Y.; Tao, H.W.; Zhu, T.J.;
+Fang, Y.C.; Gu,  Q.Q.;  Zhu,  W.M.  Isoechinulin‐type  alkaloids,
+variecolorins  A‐L,  from halotolerant Aspergillus variecolor. J.
+Nat. Prod. 2007, 70, 15581564. [CrossRef] Cai, S.X.;  Sun,  S.W.;
+Peng, J.X.; Kong, X.L.; Zhou, H.N.; Zhu, T.J.; Gu, Q.Q.; Li, D.H.
+Okaramines S‐U, three new indole diketopiperazine alkaloids  from
+Aspergillus  taichungensis  ZHN‐7‐07. Tetrahedron 2015, 71, Wang,
+F.Z.; Fang, Y.C.; Zhu, T.J.; Zhang, M.; Lin, A.Q.; Gu, Q.Q.; Zhu,
+W.M.  Seven new prenylated indole diketopiperazine alkaloids from
+holothurian‐derived  fungus  Aspergillus  fumigatus.  Tetrahedron
+2008, 64, Tsukamoto, S.; Kato, H.; Samizo, M.; Nojiri, Y.; Onuki,
+H.; Hirota, H.; Ohta, T. Notoamides FK, prenylated  indole  alka‐
+loids  isolated  from  a  marine‐derived  Aspergillus sp. J. Nat.
+Prod. 2008, 71, 20642067. [CrossRef] Kozlovsky, A.G.; Vinokurova,
+N.G.;  Adanin,  V.M.  Diketopiperazine  alkaloids from the fungus
+Penicillium piscarium westling. Appl. Biochem.  Microbiol.  2000,
+36,  271275.  [CrossRef]  Mar. Drugs 2020, 18, 338 Ravikanth, V.;
+Niranjan Reddy, V.L.; Ramesh, P.; Prabhakar Rao, T.; Diwan, P.V.;
+Khar,  A.; Venkateswarlu, Y.  An immunosuppressive tryptophan‐de‐
+rived alkaloid from Lepidagathis cristata.  Phytochemistry  2001,
+58,  Fujimoto,  H.;  Sumino,  M.;  Okuyama, E.; Ishibashi, M. Im‐
+munomodulatory constituents from an Ascomycete.   J.  Nat.  Prod.
+2004,  67, 98102. [CrossRef] Kuramochi, K.; Ohnishi, K.; Fujieda,
+S.; Nakajima, M.; Saitoh, Y.; Watanabe, N.; Takeuchi, T.; Nakaza‐
+ki,  A.;  Sugawara, F.; Arai, T.; et al. Synthesis and biological
+activities of neoechinulin A derivatives: New aspects  of  struc‐
+ture‐activity  relationships  for  neoechinulin  A.  Chem. Pharm.
+Bull. 2008, 56, 17381743. [CrossRef] Fan, Z.; Sun, Z.H.; Liu, Z.;
+Chen,  Y.C.; Liu, H.X.; Li, H.H.; Zhang, W.M. Dichotocejpins A‐C:
+New diketopiperazines from  a  deep‐sea‐derived  fungus  Dichoto‐
+momyces  cejpii  FS110.  Mar.  Drugs  2016,  14,  19.  [CrossRef]
+[PubMed] Mohanlal, R.W.; Lloyd, K.; Huang, L. Plinabulin, a novel
+small molecule clinical stage IO agent with anti‐cancer activity,
+to prevent chemo‐induced neutropenia and immune related  AEs.  J.
+Clin.  Oncol.  2018,  36, Gomes, N.G.M.; Lefranc, F.; Kijjoa, A.;
+Kiss, R. Can some marine‐ferived fungal metabolites become actual
+anticancer  agents?  Mar.  Drugs  2015,  13, 39503991. [CrossRef]
+Geiger, W.B.; Conn, J.E.; Waksman, S.A. Chaetomin, a new  antibi‐
+otic  substance  produced by Chaetomium cochliodes: II. Isolation
+and Concentration. J. Bacteriol.  1944,  48,  531536.  [CrossRef]
+Tian,  W.;  Sun,  C.; Zheng, M.; Harmer, J.R.; Yu, M.; Zhang, Y.;
+Peng, H.; Zhu, D.;  Deng,  Z.;  Chen,  S.L.;  et  al.   Efficient
+biosynthesis of heterodimeric C3 ‐aryl pyrroloindoline alkaloids.
+Nat. Commun. 2018, 9, 4428.  Ye, Y.; Du, L.; Zhang, X.W.; Newmis‐
+ter, S.A.; McCauley, M.; Alegre‐Requena, J.V.; Zhang, W.; Mu, S.;
+Minami, A.; Fraley, A.E.; et al. Fungal‐derived brevianamide  as‐
+sembly  by  a  stereoselective semipinacolase.  Nat. Catal. 2020.
+[CrossRef] Song, F.; Liu, X.; Guo, H.; Ren, B.;  Chen,  C.;  Pig‐
+gott,  A.M.;  Yu,  K.;  Gao,  H.; Wang, Q.; Liu, M.; et al.  Bre‐
+vianamides with antitubercular potential  from  a  marine‐derived
+isolate  of  Aspergillus  versicolor.  Org.  Lett.   James, E.D.;
+Knuckley, B.; Alqahtani, N.; Porwal, S.; Ban,  J.;  Karty,  J.A.;
+Viswanathan, R.; Lane, A.L. Two distinct cyclodipeptide synthases
+from a marine Actinomycete  catalyze  biosynthesis  of  the  same
+diketopiperazine  natural  product.  ACS  Synth.  Biol.  2016, 5,
+547553. [CrossRef] [PubMed] Haines, B.E.; Nelson, B.M.; Grandner,
+J.M.; Kim, J.; Houk, K.N.; Movassaghi, M.; Musaev, D.G. Mechanism
+of permanganate‐promoted dihydroxylation of complex  diketopiper‐
+azines:  Critical roles of counter‐cation and ion‐pairing. J. Am.
+Chem. Soc. 2018, 140, 1337513386. [CrossRef] Ding, Y.; An,  F.L.;
+Zhu,  X.J.;  Yu, H.Y.; Hao, L.L.; Lu, Y.H. Curdepsidones B‐G, six
+depsidones with anti‐inflammatory activities from the  marine‐de‐
+rived  fungus  Curvularia  sp. IFB‐Z10. Mar. Drugs 2019, 17, Liu,
+W.H.; Ding, Y.; Ji, X.; An, F.L.; Lu, Y.H. Curvulaide  A,  a  bi‐
+cyclic  polyketide with anti‐anaerobic bacteria activity from ma‐
+rine‐derived  Curvularia  sp.  J.  Antibiot.  2019,  72,  111113.
+[CrossRef]  Guo, M.M.; Lu, Y.; Yang, J.P.; Zhao, X.; Lu, Y.H. In‐
+hibitory effects of Schisandra chinensis extract on  acne‐related
+inflammation  and UVB‐induced photoageing. Pharm. Biol. 2016, 54,
+29872994. [CrossRef] [PubMed]  Dillman,  R.L.;  Cardellina,  J.H.
+Aromatic  secondary metabolites from the sponge Tedania ignis. J.
+Nat. Prod.  Jin, Z.M.; Du, X.Y.; Xu, Y.C.; Deng, Y.Q.; Liu, M.Q.;
+Zhao,  Y.;  Zhang,  B.; Li, X.F.; Zhang, L.K.; Peng, C.F.; et al.
+Structure of Mpro from COVID‐19 virus and discovery  of  its  in‐
+hibitors.  Nature  2020,  582, 289293. [CrossRef] Li, G.Y.; Yang,
+T.; Luo, Y.G.; Chen, X.Z.; Fang, D.M.; Zhang,  G.L.  Brevianamide
+J,  a new indole alkaloid dimer from fungus Aspergillus versicol‐
+or. Org. Lett. 2009, 11, 37143717. [CrossRef] Li, G.Y.; Li, L.M.;
+Yang, T.; Chen, X.Z.; Fang, D.M.; Zhang, G.L. Four new alkaloids,
+brevianamides O‐R, from the fungus Aspergillus versicolor.  Helv.
+Chim.  Acta  2010,  93, 20752080. [CrossRef] Liu, Y.X.; Ma, S.G.;
+Wang, X.J.; Zhao, N.; Qu, J.; Yu, S.S.; Dai,  J.G.;  Wang,  Y.H.;
+Si,  Y.K.  Diketopiperazine  alkaloids produced by the endophytic
+fungus Aspergillus fumigatus  from  the  Stem  of  Erythrophloeum
+fordii Oliv. Helv. Chim. Acta 2012, 95, 14011408. [CrossRef] Mar.
+Drugs 2020, 18, 338 Schkeryantz, J.M.; Woo, J.C.G.; Siliphaivanh,
+P.;  Depew,  K.M.; Danishefsky, S.J. Total synthesis of gypsetin,
+deoxybrevianamide E, brevianamide E, and  tryprostatin  B:  Novel
+constructions  of  2,3‐disubstituted  indoles.  J. Am. Chem. Soc.
+1999, 121, 1196411975. [CrossRef] Sanz‐Cervera,  J.F.;  Stocking,
+E.M.;  Usui,  T.; Osada, H.; Williams, R.M. Synthesis and evalua‐
+tion of  microtubule  assembly  inhibition  and  cytotoxicity  of
+prenylated  derivatives  of cyclo‐l‐Trp‐l‐Pro. Bioorg. Med. Chem.
+2000, May Zin, W.W.; Buttachon, S.; Dethoup, T.;  Pereira,  J.A.;
+Gales,  L.; Incio, .; Costa, P.M.; Lee, M.; Sekeroglu, N.; Silva,
+A.M.S.; et al. Antibacterial and antibiofilm  activities  of  the
+metabolites isolated from the culture of the mangrove‐derived en‐
+dophytic fungus Eurotium  chevalieri  KUFA  0006.  Phytochemistry
+2017,  141,  8697. [CrossRef] [PubMed] Pirrung, M.C.; Fujita, K.;
+Park,   K.   Organometallic   routes   to    2,5‐dihydroxy‐3‐(in‐
+dol‐3‐yl)‐benzoquinones.  Synthesis of demethylasterriquinone B4.
+J. Org. Chem. 2005, 70, 25372542. [CrossRef] Liu, W.; Wang, L.P.;
+Wang,  B.;  Xu,  Y.C.; Zhu, G.L.; Lan, M.M.; Zhu, W.M.; Sun, K.L.
+Diketopiperazine and diphenylether derivatives from marine algae‐
+derived  Aspergillus versicolor OUCMDZ‐2738 by epigenetic activa‐
+tion. Mar. Drugs 2019, 17, 6. [CrossRef] Markowitz, M.; Saag, M.;
+Powderly,  W.G.;  Hurley, A.M.; Hsu, A.; Valdes, J.M.; Henry, D.;
+Sattler, F.; La Marca, A.; Leonard, J.M.; et  al.  A  preliminary
+study  of  ritonavir,  an  inhibitor  of HIV‐1 protease, to treat
+HIV‐1 infection. N. Engl. J. Med. 1995, 333, 15341539. [CrossRef]
+Halgren,  T.A.;  Murphy, R.B.; Friesner, R.A.; Beard, H.S.; Frye,
+L.L.; Pollard, W.T.; Banks, J.L. Glide: A new approach for rapid,
+accurate  docking  and scoring. 2. Enrichment factors in database
+screening. J. Med. Chem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

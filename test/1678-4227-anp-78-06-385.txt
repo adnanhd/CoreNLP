@@ -1,41 +1,66 @@
-IMAGES IN NEUROLOGY
-Bilateral trochlear nerve palsy due to cerebral
-vasculitis related to COVID-19 infection
-Paralisia bilateral do nervo troclear por vasculite
-cerebral relacionada  infeco por COVID-19
-Roberto de Magalhes Carneiro de OLIVEIRA1, Diogo Haddad SANTOS1,
-Bruno Casola OLIVETTI2, Jorge Tomio TAKAHASHI2
-A 69-year-old Caucasian man presented fever (38C)
-with abdominal pain, left posterior chest pain without
-cough or dyspnea, and mild occipital headache that persisted in the next few days. Eleven days later, he woke
-up with binocular diplopia and severe stabbing occipital headache. There were no peripheral signs of systemic
-vasculitis. The neurological evaluation identified bilateral
-paresis of the fourth cranial nerve. He had well-controlled
-arterial hypertension and denied trauma or use of other
-medications. COVID-19 infection was confirmed by the
-reverse transcription technique followed by polymerase
-chain reaction (RT-PCR) in a nasopharyngeal swab.
-A brain magnetic resonance imaging (MRI) with MRI
-angiography and vessel wall imaging showed signs of vasculitis of the vertebrobasilar system1, as well as inflammatory radiologic signs in the periaqueductal region, along
-computed tomography (CT) showed peripheral parenchymal ground-glass opacities, suggesting viral pneumonia.
-Cerebrospinal fluid (CSF) revealed 2 cells/mm3 (69% lymphocytes, 29% monocytes, 2% macrophages) and proteins
-slightly increased to 46 mg/dL (with 17.01% gamma globulin). CSF antibody testing was negative for syphilis and
-other viruses. Rheumatological causes, hypovitaminosis,
-and thyroid dysfunction were ruled out. Erythrocyte sedimentation rate (ESR) was 33 mm/h. He received IV methylprednisolone for five days with complete improvement
-of pain and diplopia.
-This is the first case report of cerebral vasculitis related
-to COVID-19 infection in an adult patient. We emphasize
-that headache2 could be a warning sign of cerebral vasculitis in these individuals.
-(B) shows mild abnormal concentric enhancement of the basilar artery wall (arrow) and intense abnormal concentric enhancement of
-the vertebral artery wall, which are tortuous and lateralized to the left (arrow). (C) Reformatted Coronal Oblique 3D-T1 FATSAT postcontrast vessel wall imaging shows abnormal concentric enhancement of the basilar and vertebral artery walls (arrows).
-Hospital Alemo Oswaldo Cruz, Departamento de Neurologia, So Paulo SP, Brazil.
-Hospital Alemo Oswaldo Cruz, Departamento de Neurorradiologia, So Paulo SP, Brazil.
-Roberto de Magalhes Carneiro de OLIVEIRA
-Bruno Casola OLIVETTI
-Conflict of interest: There is no conflict of interest to declare.
-Mandell DM, Mossa-Basha M, Qiao Y, Hess CP, Hui F, Matouk C, et
-al. Intracranial vessel wall MRI: principles and expert consensus
-recommendations of the American Society of Neuroradiology. AJNR Am J
-Arq Neuropsiquiatr 2020;78(6):385-386
-Mao L, Jon H, Wang M, Hu Y, Chen S, He Q, et al. Neurologic
-manifestations of hospitalized patients with Coronavirus disease
+IMAGES  IN NEUROLOGY Bilateral trochlear nerve palsy due to cere‐
+bral vasculitis related to COVID‐19 infection Paralisia bilateral
+do  nervo troclear por vasculite cerebral relacionada  infeco por
+COVID‐19 Roberto de Magalhes Carneiro de OLIVEIRA1, Diogo  Haddad
+SANTOS1,   Bruno  Casola  OLIVETTI2,  Jorge  Tomio  TAKAHASHI2  A
+69‐year‐old Caucasian man presented fever  (38C)  with  abdominal
+pain,  left  posterior  chest  pain without cough or dyspnea, and
+mild occipital headache that persisted  in  the  next  few  days.
+Eleven  days later, he woke up with binocular diplopia and severe
+stabbing occipital headache. There were no  peripheral  signs  of
+systemic  vasculitis.  The neurological evaluation identified bi‐
+lateral paresis of the fourth cranial  nerve.  He  had  well‐con‐
+trolled  arterial  hypertension and denied trauma or use of other
+medications. COVID‐19 infection  was  confirmed  by  the  reverse
+transcription  technique  followed  by  polymerase chain reaction
+(RT‐PCR) in a nasopharyngeal swab.  A  brain  magnetic  resonance
+imaging (MRI) with MRI angiography and vessel wall imaging showed
+signs of vasculitis of the vertebrobasilar system1,  as  well  as
+inflammatory radiologic signs in the periaqueductal region, along
+computed tomography (CT) showed  peripheral  parenchymal  ground‐
+glass opacities, suggesting viral pneumonia.  Cerebrospinal fluid
+(CSF) revealed 2 cells/mm3 (69% lymphocytes,  29%  monocytes,  2%
+macrophages)  and  proteins  slightly increased to 46 mg/dL (with
+17.01% gamma globulin). CSF antibody  testing  was  negative  for
+syphilis  and  other  viruses.  Rheumatological causes, hypovita‐
+minosis, and thyroid dysfunction were ruled out. Erythrocyte sed‐
+imentation  rate  (ESR)  was  33 mm/h. He received IV methylpred‐
+nisolone for five days with  complete  improvement  of  pain  and
+diplopia.   This  is the first case report of cerebral vasculitis
+related to COVID‐19 infection in an adult patient.  We  emphasize
+that  headache2 could be a warning sign of cerebral vasculitis in
+these individuals.  (B) shows mild abnormal  concentric  enhance‐
+ment of the basilar artery wall (arrow) and intense abnormal con‐
+centric enhancement of the vertebral artery wall, which are  tor‐
+tuous  and lateralized to the left (arrow). (C) Reformatted Coro‐
+nal Oblique 3D‐T1 FATSAT postcontrast vessel wall  imaging  shows
+abnormal  concentric  enhancement  of  the  basilar and vertebral
+artery walls (arrows).  Hospital Alemo Oswaldo Cruz, Departamento
+de Neurologia, So Paulo SP, Brazil.  Hospital Alemo Oswaldo Cruz,
+Departamento de Neurorradiologia, So Paulo SP,  Brazil.   Roberto
+de  Magalhes  Carneiro de OLIVEIRA Bruno Casola OLIVETTI Conflict
+of interest: There is no conflict of interest to  declare.   Man‐
+dell  DM, Mossa‐Basha M, Qiao Y, Hess CP, Hui F, Matouk C, et al.
+Intracranial vessel wall MRI:  principles  and  expert  consensus
+recommendations  of  the American Society of Neuroradiology. AJNR
+Am J Arq Neuropsiquiatr 2020;78(6):385‐386 Mao L, Jon H, Wang  M,
+Hu Y, Chen S, He Q, et al. Neurologic manifestations of hospital‐
+ized patients with Coronavirus disease
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

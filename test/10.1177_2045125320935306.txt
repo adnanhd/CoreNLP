@@ -1,804 +1,726 @@
-TPP0010.1177/2045125320935306Therapeutic Advances in PsychopharmacologyD Bishara, C Kalafatis
-Therapeutic Advances in Psychopharmacology
-Emerging and experimental treatments
-for COVID-19 and drug interactions with
-psychotropic agents
-Delia Bishara
-Ther Adv Psychopharmacol
-, Chris Kalafatis and David Taylor
-Abstract: As yet, no agents have been approved for the treatment of COVID-19, although
-several experimental drugs are being used off licence. These may have serious adverse
-agents being used across the world for the treatment of COVID-19 and investigated their drug
-interaction potential with psychotropic agents using several drug interaction databases and
-resources. A preliminary search identified the following drugs as being used to treat COVID-19
-symptoms: atazanavir (ATV), azithromycin (AZI), chloroquine (CLQ)/hydroxychloroquine
-(HCLQ), dipyridamole, famotidine (FAM), favipiravir, lopinavir/ritonavir (LPV/r), nitazoxanide,
-remdesivir, ribavirin and tocilizumab. Many serious adverse effects and potential drug
-interactions with psychotropic agents were identified. The most problematic agents were
-found to be ATV, AZI, CLQ, HCLQ, FAM and LPV/r in terms of both pharmacokinetic as well
-as serious pharmacodynamic drug interactions, including QTc prolongation and neutropenia.
-Significant caution should be exercised if using any of the medications being trialled for the
-treatment of COVID-19 until robust clinical trial data are available. An even higher threshold of
-vigilance should be maintained for patients with pre-existing conditions and older adults due
-to added toxicity and drug interactions, especially with psychotropic agents.
-Keywords: adverse effects, drug-interactions, psychotropic drugs, treatment COVID-19
-Although no treatments have been approved or
-shown to be safe and effective for the treatment of
-COVID-19, there are several treatments being
-used off licence either on a compassionate-use basis
-or as part of a randomised controlled trial. The
-South London and Maudsley NHS Foundation
-Trust does not currently recommend initiating
-these drugs. However, clinicians need to be aware
-of their adverse effects and potential drug interactions with psychotropic agents in case they are prescribed elsewhere to patients from our services.
-Serious adverse effects are associated with these
-drugs, and these may overlap with the clinical manifestations of COVID-19. Chloroquine (CLQ)/
-hydroxychloroquine (HCLQ), azithromycin (AZI),
-and lopinavir/ritonavir (LPV/r) are associated with a
-range of adverse effects, including QTc prolongation, torsade de pointes, hepatitis, acute pancreatitis
-and neutropenia.1 Considering that most patients
-who have died from COVID-19 were elderly and
-had underlying health conditions including cardiovascular comorbidities, CLQ/HCLQ, AZI, and
-LPV/r could potentially increase the risk of cardiac
-death. In addition, hepatitis and leucopoenia are
-clinical manifestations of COVID-19, and so the
-use of these drugs could worsen both hepatic and
-bone marrow dysfunction. It would also be almost
-impossible to differentiate the drug-related adverse
-effects from the disease manifestations.1
-Correspondence to:
-Delia Bishara
-Maudsley Hospital,
-Denmark Hill,
-Camberwell, London SE5
-Chris Kalafatis
-David Taylor
-South London and
-Maudsley NHS Foundation
-Trust, London, UK
-Several clinical trials are currently underway. The
-World Health Organisation and its partners have
-launched the Solidarity trial,2 a large international
-study to compare different treatments and ensure
-Therapeutic Advances in Psychopharmacology 10
-clear evidence of which treatments are most effective. The study will have five arms: standard of
-Oxford have launched the Recovery trial,3 which
-will be testing some of these suggested treatments: LPV/r, low-dose dexamethasone, HCLQ
-and inhaled IFN-beta1a.
-main experimental drugs that are being trialled or
-used off licence to treat patients with COVID-19.
-For each drug we aimed to examine trial outcome
-data, dosing regimens, adverse effects, drug interaction potential and specific drug interactions
-with commonly used psychotropic agents in the
-United Kingdom (UK).
-A preliminary search identified several drugs that
-were being used off licence around the world for
-the treatment of COVID-19 either as part of a clinical trial or on a compassionate basis. For each
-potential adverse effects. We then used the following drug-interaction databases and on-line
-resources to identify potential drug interactions
-with the commonly used psychotropic agents in
-the UK: Stockleys Drug Interactions Checker,
-human immunodeficiency virus (HIV) drug interactions website, drug interaction checker, the
-Drugbank and the Liverpool Drug Interactions
-Adverse effects. ATV can cause serious, lifethreatening adverse effects, including heart rhythm
-abnormalities, severe rash and hepatic disorders, as
-well as life-threatening drug interactions.
-Drug interactions. ATV is metabolised principally
-by cytochrome P450 (CYP) 3A4. It is an inhibitor
-of CYP3A4 and a weak inhibitor of CYP2C8.
-When co-administered with ATV, increased serum
-levels of psychotropics that are substrates of
-CYP3A4 can occur. This is especially true for lurasidone, quetiapine and ziprasidone. Their levels
-can be raised significantly, thus increasing the risk
-of serious adverse effects, including prolongation
-of QTc interval. These combinations should be
-avoided if possible. Other CYP3A4 substrates, such
-aripiprazole, clozapine, haloperidol, iloperidone,
-risperidone and zuclopentixol, as well as some
-benzodiazepines (e.g. clonazepam, diazepam and
-midazolam) and certain antidepressants (e.g.
-citalopram, escitalopram, clomipramine, imipramine and mirtazapine, amongst others) can also
-be affected in the same way when co-administered
-with ATV and may require dose adjustments or
-monitoring. Carbamazepine and ATV together
-can lead to increased levels of carbamazepine and
-reduced levels of ATV and this combination
-with drugs highly dependent on CYP2C8 with
-narrow therapeutic indices is not recommended
-(no psychotropic meets this definition).
-For each drug identified, trial outcome data, dosing
-regimens, adverse effects and drug interaction potential are reported in the following. For specific drug
-Dose-related asymptomatic prolongations in the
-PR interval with ATV have been observed in clinical studies. Caution should be used when prescribing ATV with medicinal products that have
-the potential to increase the QT interval; a potential effect of many antipsychotic drugs and some
-antidepressants, and/or in patients with pre-existing risk factors (bradycardia, long congenital QT,
-electrolyte imbalances according to the Liverpool
-An antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV)
-AZI is a macrolide antibiotic used in combination
-with HCLQ (for dosage information see HCLQ).
-Dosage information. Some reports have emerged
-where the following regimen was used for
-COVID-19 pneumonia: ATV 400 mg daily for
-2 weeks in combination with oseltamivir 150 mg
-twice daily +/ methylprednisolone 40 mg twice
-data for its use to support this.
-Adverse effects. Adverse effects include gastrointestinal effects, arrhythmias, QT prolongation
-and hepatic disorders.
-Drug interactions. AZI does not interact significantly with the hepatic cytochrome P450 system.
-It is not believed to undergo pharmacokinetic
-D Bishara, C Kalafatis et al.
-Mood stabilisers
-Therapeutic Advances in Psychopharmacology 10
-Text Legend
-Potential increase exposure of drug specified
-Potential decrease exposure of drug specified
-No significant effect on drug serum levels
-One or both drugs may cause QT and/or PR prolongation. ECG monitoring advised
-One or both drugs may cause bone marrow suppression. Monitor FBC
-One or more drugs may reduce seizure threshold. Monitor closely.
-Theoretical drug interaction based on CYP metabolism, however no specific reports
-These drugs should not be co-administered
-Potential interaction which may require a dose adjustment or close monitoring
-Potential interaction likely to be of weak intensity. Additional action/monitoring or dosage adjustment unlikely to be required
-No clinically significant interaction expected
-ATV, atazanavir; AZI, azithromycin; CLQ, chloroquine; CYP, cytochrome P450; DIP, dipyridamole; ECG, electrocardiogram; FAM, famotidine; FAVI, favipiravir; FBC, full blood count; HCLQ,
-hydroxychloroquine; LPV/r, lopinavir/ritonavir; NITAZ, nitazoxanide; RDV, remdesivir; RBV, ribavirin; TCZ, tocilizumab.
-Dementia drugs
-D Bishara, C Kalafatis et al.
-Therapeutic Advances in Psychopharmacology 10
-drug interactions. Hepatic cytochrome P450
-induction or inactivation via cytochromemetabolite complex does not occur with AZI.
-AZI is known to be a P-glycoprotein (P-gp)
-inhibitor and, if co-administered with P-gp substrates (e.g. digoxin, colchicine), it has been
-reported to result in increased serum levels,
-requiring monitoring.10 Psychotropics are not
-known to be P-gp substrates.
-Whilst pharmacokinetic drug interactions are not
-a problem with AZI, it is important to note that
-serious pharmacodynamic drug interactions do
-exist when co-administered with psychotropic
-agents. Since QTc prolongation can be an effect
-exercised when used together as the risk for QTc
-prolongation is further increased. In addition,
-some psychotropics are known to cause neutropenia or agranulocytosis (particularly clozapine and
-carbamazepine), which is also a potential adverse
-effect of AZI.
-Chloroquine and hydroxychloroquine
-CLQ and HCLQ are oral drugs that have been
-used for the prophylaxis and treatment of malaria,
-and the treatment of certain inflammatory conditions such as rheumatoid arthritis and systemic
-lupus erythematosus. Both drugs are currently
-being trialled in patients with mild-to-severe
-COVID-19.2 HCQL is also being trialled for
-post-exposure prophylaxis to prevent progression
-to symptomatic disease after known exposure.
-CLQ is being trialled for prevention of COVID19 in the healthcare setting.11
-Chloroquine. Use of CLQ is included in treatment guidelines from Chinas National Health
-Commission and was reportedly associated with
-reduced progression of disease and decreased
-China recommends CLQ in mild to severe cases
-of COVID-19 as it may improve the success rate
-of treatment, shorten hospital stay and improve
-patient outcome.12
-Dosing information. According to a consensus
-statement from a multicentre collaboration group
-diagnosed as having mild, moderate or severe
-cases of novel coronavirus pneumonia and without contraindications to CLQ.12
-Hydroxychloroquine. There is a considerable
-interest for the use of HCLQ to treat COVID-19
-disease; however, significant methodological limitations do not allow for definitive conclusions.
-A small randomised controlled trial (20 patients)
-found that HCLQ (with or without AZI) was efficient in reducing viral nasopharyngeal carriage of
-SARS-CoV-2 in 36 days in most patients. The
-addition of AZI (to six patients) was thought to be
-synergistic and the combination was found to be
-significantly more efficient for virus elimination13;
-however the sample was small, the majority of
-patients presented with mild symptoms and the
-suffered from other significant co-morbidities.
-A similar combination trial of HCLQ and AZI in 11
-participants did not replicate the previously mentioned results. Crucially, 8 out of 11 had significant
-comorbidities associated with poor outcomes.14
-Another randomised open-label study in 30
-Chinese participants (1:1 randomisation) did not
-offer conclusive results on the efficacy of HCLQ.15
-The only publicly available randomised control
-trial of HCLQ in 62 Chinese participants remains
-HCLQ /AZI combination is associated with high
-risk of QTc prolongation. In 84 adult patients with
-SARS-CoV-2 infection treated with this combination, QTc was significantly prolonged from baseline between days 3 and 4. In 30% of patients QTc
-increased by greater than 40 ms. In 11% of patients
-QTc increased to >500 ms, representing a high
-risk group for arrhythmia. The development of
-acute renal failure but not baseline QTc was a
-strong predictor of extreme QTc prolongation.17
-Dosing information. HCLQ 200 mg three times
-a day for 10 days. (Recent studies linking HCLQ
-treatment to viral load reduction in COVID-19
-patients did so with higher dose treatment, using
-either a 600 mg daily dose or 1000 mg daily dose).18
-AZI dosage used was (500 mg daily day 1 followed
-by 250 mg per day, the next 4 days). It has been
-suggested that early treatment is important.3
-D Bishara, C Kalafatis et al.
-Adverse effects for CLQ/HCLQ. Gastrointestinal
-effects, such as vomiting and diarrhoea, are the
-most common adverse effects of these two drugs.
-Patients with long-term exposure to CLQ suffer
-from severe side effects such as retinopathy and
-cardiotoxic effects.19 CLQ and HCLQ have been
-shown to prolong the QTc interval in some
-patients and should therefore be used with caution in patients receiving concomitant drugs
-known to prolong the QT interval or where a
-drug interaction may increase CLQ or HCLQ
-exposure (see drug interactions in the following).
-Electrocardiogram (ECG) monitoring would be
-recommended in these instances.9 Caution is also
-advised when considering these drugs in patients
-with chronic medical conditions (e.g. renal failure, hepatic disease).
-HCLQ has similar therapeutic effects to CLQ,
-but less severe adverse effects. It is considered
-safe in pregnancy and is more readily available in
-some countries. More importantly, the maximum
-dose for HCLQ is 1200 mg, which has an antiviral effect equivalent to 750 mg CLQ (for which
-the maximum tolerable dose can be 500 mg).
-Hence, HCLQ can be administered at a higher
-equivalent dosage and may therefore achieve
-more powerful antiviral effect.20
-The United States Food and Drug Administration
-(FDA) has recently issued a warning that CLQ
-and HCLQ should be used for COVID-19 only
-when patients can be appropriately monitored in
-the hospital setting or are enrolled in a clinical
-trial with appropriate screening and monitoring.
-use for COVID-19 outside the hospital setting
-after reports of QT interval prolongation and ventricular tachycardia.21
-Drug interactions. CLQ and HCLQ undergo
-CYP-mediated metabolism by CYPs 2C8, 3A4
-and 2D6. Co-administration with inhibitors and
-inducers of these isoenzymes may increase or
-decrease exposure to them, respectively, and dose
-changes or additional monitoring could be considered. Fluoxetine and paroxetine are inhibitors of
-both CYP3A4 and CYP2D6 and can therefore
-lead to increased levels of CLQ and HCLQ, in
-turn increasing the risk of QTc prolongation.
-Other psychotropics that are important inhibitors
-of CYP2D6 include amitriptyline, bupropion and
-duloxetine. Carbamazepine induces CYP3A4 and
-can lead to reduced levels of CLQ and HCLQ.
-CLQ and HCLQ are moderate inhibitors of
-CYP2D6 and P-gp, and caution may be required
-when co-administering medication with a narrow
-therapeutic index that are metabolised or transported by these pathways.9 Psychotropics that are
-substrates of CYP2D6 and that will undergo
-reduced metabolism and have increased levels
-when co-administered with these drugs include
-aripiprazole, chlorpromazine, iloperidone, olanzapine, risperidone, zuclopentixol, clomipramine,
-The following pharmacodynamic drug interactions
-should be considered carefully. Since CLQ and
-HCLQ have been shown to prolong QTc interval,
-caution should be used when co-administered
-with most antipsychotics and some antidepressant
-drugs, such as tricyclic antidepressants, c italopram,
-escitalopram, venlafaxine, trazodone and lithium
-addition, CLQ and HCLQ have been reported to
-cause bone marrow failure, neutropenia and
-agranulocytosis Therefore, co-administration with
-carbamazepine should be avoided, and if used
-with clozapine, cautious use and close monitoring
-are advised. Furthermore, CLQ and HCLQ may
-lower the convulsive threshold and thus antagonise
-the actions of antiepileptics such as c arbamazepine,
-lamotrigine or sodium valproate. They should also
-be used with caution with bupropion, which can
-also reduce seizure threshold.
-Dipyridamole (DIP) is an antiplatelet agent and
-acts as a phosphodiesterase (PDE) inhibitor that
-increases intracellular cAMP/cGMP. Apart from
-the well-known antiplatelet function, DIP may
-provide potential therapeutic benefits to patients
-clinical trials conducted in China, have demonstrated that it has a broad spectrum antiviral
-activity, particularly efficacious against positivestranded RNA viruses; it suppresses inflammation and promotes mucosal healing, and, as a
-pan-PDE inhibitor, it may also prevent acute
-injury and progressive fibrosis of the lung, heart,
-liver and kidneys.22
-COVID-19 infection can cause acute respiratory distress syndrome, hypercoagulability,
-hypertension and multiorgan dysfunction. In
-an analysis of a randomly collected cohort of
-124 patients with the disease, researchers
-from China found that hypercoagulability as
-Therapeutic Advances in Psychopharmacology 10
-indicated by elevated concentrations of
-D-dimers was associated with disease severity. They identified DIP, which suppressed
-COVID-19 replication in vitro. 22
-Dosage information. The daily treatment protocol
-comprises oral DIP 150 mg in three separate
-doses for 14 consecutive days.
-Adverse effects. Gastrointestinal adverse effects
-are common with DIP, and thrombocytopenia
-and tachycardia have been reported although frequency is not known.23 Because DIP is a PDE
-inhibitor and can exacerbate bronchospasm (frequency not known), particularly in patients with
-reactive airway disease and/or chronic obstructive
-pulmonary disease (COPD). Therapy with DIP is
-contraindicated in patients with active wheezing
-and should be administered cautiously in patients
-with asthma or COPD and therefore in COVID19 patients as well.24
-Drug interactions. Metabolism of DIP occurs in
-the liver. DIP is metabolized by conjugation with
-glucuronic acid to form mainly a monoglucuronide and only small amounts of diglucuronide. In
-plasma, about 80% of the total amount is parent
-compound, 20% of the total amount is monoglucuronide with oral administration.23
-The bleeding risk associated with DIP might be
-further increased by the concurrent use of a serotonin reuptake inhibitors (SRIs). Serotonin
-release by platelets plays an important role in
-have documented the occurrence of bleeding episodes in patients treated with psychotropic agents
-that interfere with serotonin reuptake. Bleeding
-events related to SRIs have ranged from ecchymosis, haematoma, epistaxis and petechiae to
-life-threatening haemorrhages.25 Therefore, caution should be used with citalopram, escitalopram, fluoxetine, paroxetine and sertraline as
-well as clomipramine, duloxetine, venlafaxine
-and vortioxetine. Monitor closely for bleeding.
-Gastroprotection (such as a proton pump inhibitor) in those at high risk of gastrointestinal bleeding (e.g. history of gastrointestinal bleeding, the
-elderly) should be considered.4
-DIP may also increase the hypotensive effect of
-psychotropic drugs that reduce blood pressure
-and may counteract the anticholinesterase effect
-of cholinesterase inhibitors.23,26
-Famotidine (FAM) is a H2 antagonist use to treat
-heartburn, ulcers and ZollingerEllison syndrome. Earlier in the outbreak, doctors who
-worked with coronavirus patients in Wuhan,
-China discovered that, although one in five
-COVID-19 patients over the age of 80 died, many
-of those who survived had been taking the heartburn medication FAM. In fact, hospitalized
-COVID-19 patients on FAM appeared to be
-dying at a rate of about 14% compared with 27%
-for those not on the drug, and, although the analysis was crude, the result was not statistically significant and studies on the Chinese patients have
-to encourage US scientists to explore FAMs
-As part of a clinical trial, patients at New York
-Citys Northwell Health have been receiving
-FAM intravenously, at a dose nine times greater
-than what people typically take for heartburn
-(specific dosing details are not available). The
-randomised, double-blind trial, which began on
-7 April 2020, has enrolled 187 participants to
-date, but expects to expand to a total of 1174
-individuals in critical status, including many on
-Adverse effects. ECG changes are seen; prolonged QT interval has been reported in patients
-with moderate-to-severe renal impairment. The
-FDA has received reports of torsades de pointes
-occurring with FAM. There have also been rare
-reports of seizures, thrombocytopenia, leukopenia, agranulocytosis, pancytopenia intrahepatic
-cholestasis, jaundice and increased liver enzyme
-abnormalities. In addition, it can very rarely cause
-psychiatric effects such as depression, anxiety and
-Drug interactions. FAM is considered a weak
-CYP1A2 inhibitor and may lead to substantial
-increases in blood concentrations of CYP1A2
-substrates. Whilst there are no reports, theoretically, co-administration can lead to increased levels of clozapine, olanzapine and agomelatine as
-they are predominantly CYP 1A2 substrates.29
-FAM may cause QTc prolongation. Theoretically,
-coadministration with other agents that can prolong the QT interval may result in additive effects
-and increased risk of ventricular arrhythmias
-including torsade de pointes and sudden death.
-According to the manufacturer, prolongation of
-D Bishara, C Kalafatis et al.
-the QT interval has been reported very rarely in
-patients with impaired renal function whose dose/
-dosing interval of FAM may not have been
-adjusted appropriately. In general, the risk of an
-individual agent, or a combination of these agents,
-causing ventricular arrhythmia in association with
-be increased by certain underlying risk factors
-such as congenital long QT syndrome, cardiac
-disease and electrolyte disturbances (e.g. hypokalemia, hypomagnesemia). In addition, the extent
-of drug-induced QT prolongation is dependent on
-the particular drug(s) involved and dosage(s) of
-the drug(s). Acetylcholinesterase inhibitors may
-have vagotonic effects on the sinoatrial and atrioventricular nodes, which occasionally manifest as
-bradycardia or heart block (<2%). Because bradycardia is a risk factor for torsade de pointes, a
-theoretical risk exists when combined with agents
-drug interactions with psychotropic agents.
-Favipiravir (FAVI) is an anti-viral drug [used in
-severe acute respiratory syndrome (SARS) and
-Middle East respiratory syndrome (MERS)] that
-has secured approval from the National Medical
-Products Administration of China to treat coronavirus COVID-19. An open-label study compared FAVI (35 patients) with LPV/r (45 patients)
-for the treatment of COVID-19.31 FAVI was
-noted to have shown significantly better treatment effects on COVID-19 in terms of disease
-progression and viral clearance.
-Available dosage information. Patients in the
-study received oral FAVI (day 1: 1600 mg twice
-daily; day 214 600 mg twice daily) plus IFN- by
-aerosol inhalation (5 million U twice daily) or
-LPV/r (days 114: 400 mg/100 mg twice daily
-plus IFN- by aerosol inhalation (5 million U
-twice daily).31
-Adverse effects. In the small study described previously, two patients reported diarrhoea, one had
-liver injury and one had poor diet.31
-Drug interactions. FAVI is a weak inhibitor of
-CYPs 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 and
-showed little or no induction of CYPs 1A2, 2C9,
-2C19 and 3A4 in human hepatocytes. FAVI
-inhibits CYP2C8 and caution is required in combination with drugs metabolised via this route. It
-is also a moderate inhibitor of OAT1 and OAT3.
-A study showed increased areas under the plasma
-concentration-time curves (AUC) of paracetamol,
-and as a result maximum dose should be 3000 mg/
-day. The QT interval prolongation risk is considered to be low with FAVI.9
-Based on the information previously mentioned,
-some psychotropic levels are expected be
-increased due to weak CYP inhibition by FAVI,
-but since there are no reports of this, they are
-not therefore be required but it is important to be
-aware of a potential interaction. Caution is recommended when FAVI is co-administered with
-zopiclone as it is a CYP2C8 substrate.
-LPV/r is an oral antiretroviral protease inhibitor
-currently approved for the treatment of HIV
-infection. LPV/r has been used in clinical trials for
-the treatment of COVID-19. Results from one
-small case series found that evidence of clinical
-benefit with LPV/r was equivocal.32 A randomised
-controlled trial of 199 patients in China found
-that treatment with LPV/r was not beneficial
-compared with standard care alone (primary outcome was time to improvement) in hospitalised
-patients with severe COVID-19.12
-Dosing information. LPV/r (400 mg and 100 mg)
-orally twice daily, plus standard care for 14 days
-was used in the clinical trial.33
-Adverse effects. In the trial, gastrointestinal
-adverse events including nausea, vomiting and
-diarrhoea were more common in the LPV/r group
-than in the standard-care group, but serious
-adverse events were more common in the standard-care group.
-Drug interactions. Lopinavir is metabolised extensively by the hepatic cytochrome P450 system,
-almost exclusively by CYP3A. Ritonavir is also
-noted to be extensively metabolised by the CYP3A
-isozyme family and to a lesser extent by the
-CYP2D6 isoform. Ritonavir is a potent CYP3A
-and CYP2D6 inhibitor, and is given with lopinavir
-to increase plasma levels of lopinavir. Ritonavir may
-induce glucuronidation and oxidation by CYP1A2,
-CYP2C8, CYP2C9 and CYP2C19, thereby
-increasing the biotransformation of some drugs
-metabolised by these pathways. This may result in
-decreased systemic exposure of these agents.34
-Therapeutic Advances in Psychopharmacology 10
-As carbamazepine is a potent inducer and a substrate of CYP3A4, co-administration can lead to
-both reduced LPV/r levels and increased carbamazepine levels. Many psychotropic drugs are
-metabolised by CYP3A4, and so the majority will
-experience reduced metabolism and increased
-serum levels when administered with LPV/r (see
-highest with lurasidone, quetiapine and ziprasidone, and these combinations should be avoided.
-In contrast, the following psychotropics are
-expected to have reduced serum levels when
-administered with LPV/r: olanzapine, agomelatine, bupropion, sertraline, lamotrigine, valproate
-and methadone. Of the psychotropics evaluated,
-the levels of the following drugs are not expected
-to be affected: amisulpride, sulpiride, phenelzine,
-lorazepam, oxazepam, lithium, rivastigmine,
-memantine and pregabalin. For duloxetine and
-paroxetine, there are reports of both increase and
-decrease in levels when given with LPV/r.
-LPV/r has been shown to cause modest asymptomatic prolongation of the PR interval in some
-healthy adult subjects. Rare reports of 2nd and 3rd
-degree atrioventricular block in patients with
-underlying structural heart disease and pre-existing conduction system abnormalities in patients
-receiving drugs known to prolong the PR interval
-(e.g. verapamil or ATV) have been reported. LPV/r
-should be used with caution in such patients.9 As
-many antipsychotic drugs, some antidepressants
-and lithium can also cause cardiac adverse effects,
-co-administration with LPV/r can cause pharmacodynamic drug interactions leading to increased
-cardiac risks. In addition, LPV/r is reported to
-commonly cause respiratory infections and neutropenia, both of these will be added risk factors in
-patients with COVID-19, especially in those on
-psychotropics that can also cause neutropenia, for
-example clozapine and carbamazepine.
-Nitazoxanide (NITAZ) an antiprotozoal that is
-currently FDA approved for treating cryptosporidium and giardia shown to have broad antiviral activity and has been approved in some
-countries for treating noro and rota viruses.35
-Proposed dosing regimen36
-1) HCLQ 400 mg twice a day for 23 days
-(loading) then 200 mg twice a day for
-2) NITAZ (600 mg -SR tabs) twice a day; if
-unavailable, using the immediate release
-formulation 500 mg three times a day for
-7 days (absorption better with food) should
-achieve adequate trough levels that easily
-exceeds the EC50 of SARS-CoV2. The
-duration of treatment can likely be adjusted
-based on clinical response.
-Adverse effects. NITAZ has an excellent safety
-record, though some gastrointestinal adverse
-effects are reported.
-Drug interactions. Although no drugdrug interaction studies have been conducted in vivo, it is
-expected that no significant interactions would
-occur when NITAZ is co-administered with drugs
-that either are metabolised by or inhibit CYP 450
-enzymes. Caution should, however, be used when
-administering NITAZ concurrently with other
-highly plasma protein-bound drugs with narrow
-therapeutic index, as competition for binding
-sites may occur. NITAZ can therefore increase
-adverse effects of benzodiazepines is recommended, especially with regards to respiratory
-depression as this can be an issue in patients with
-COVID-19, who already may be experiencing
-respiratory distress.
-When administered with food, the AUC of
-NITAZ in oral form increased by around 50%
-and subsequently is recommended to be taken
-with food. No clinically significant effect on QTc
-prolongation has been observed.9
-Remdesivir-GS-5734 (RDV) is a novel, investigational, intravenous nucleoside analogue (originally
-used to treat Ebola) with broad antiviral activity
-that shows in vitro activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).38
-Several clinical trials with RDV are underway in
-patients with mild-to-severe COVID-19.39 It has
-been used on a compassionate-use basis in areas
-where clinical trials are not available; however, the
-manufacturer has paused access to the drug via
-this route due to overwhelming demand while they
-transition to an expanded access programme.
-Exceptions will be made for patients with severe
-illness, and pregnant women and children with
-confirmed infection.40
-D Bishara, C Kalafatis et al.
-In a recent cohort of 61 hospitalised patients who
-received RDV on a compassionate basis, clinical
-improvement was observed in 36 of 53 patients
-(68%). A total of 25 patients (47%) were discharged, and 7 patients (13%) died.41
-Dosing information. Limited data available; dosing used in clinical trials: 200 mg as a single dose
-on day 1, followed by 100 mg once daily until day
-5 or 10 in addition to standard care.42,43
-Adverse effects. The information on adverse
-effects is also limited however it has been reported
-to cause nausea and increase liver enzymes (which
-may or may not indicate liver damage). It does
-not prolong QTc interval.44
-Drug interactions. Based on rapid distribution,
-metabolism and clearance, the likelihood of clinically significant interactions is low. RDV is a substrate of CYP 2C8, CYP 2D6, CYP 3A4 and
-transporters OATP1B1 and P-gp in vitro, but coadministration with inhibitors of these CYP isoforms and transporters is unlikely to increase its
-levels.9 RDV can be impacted by strong inducers
-(e.g. carbamazepine) thus co-administration is not
-recommended. RDV is an inducer of CYP 1A2
-and CYP 2B6 in vitro but, considering the exposure, it is unlikely to translate into clinically significant interaction with substrates of these enzymes.9
-However, caution should be used when co-administered with clozapine (CYP1A2 substrate) and
-methadone (CYP2B6 substrate) as, theoretically,
-for effects on other psychotropics as well).
-Since there are limited data on the tolerability
-and adverse effect profile of RDV, it is difficult
-to predict whether any pharmacodynamic interactions with psychotropics exist. Reports of
-increased liver enzymes may suggest that monitoring may be warranted in some patients, especially if co-prescribed psychotropics that can
-also increase liver enzymes or affect liver function for example, agomelatine, monoamine oxidase inhibitors, carbamazepine or haloperidol.
-Ribavirin (RBV) is an antiviral used to treat hepatitis and has been used previously to manage
-SARS and MERS patients. An open-label, randomised controlled trial currently underway in
-China included three regimens with the following
-RBV (intravenous loading dose of 2 g, followed
-by oral doses of 400600 mg every 8 h depending on the patients weight, for 14 days);
-LPV/r (oral, 400 mg/100 mg per dose, twice a
-day, for 14 days);
-IFN--1b (atomizing inhalation, 5 million U
-or 50 g per dose, twice a day, for 14 days).
-And comparing the effectiveness of:
-RBV plus IFN-1b (arm A);
-LPV/r plus IFN-1b (arm B); and
-RBV plus LPV/r plus IFN-1b (arm C)
-for the treatment of COVID-19.
-Adverse effects46. Pancytopenia and bone marrow suppression have been reported with RBV.
-No effect on QTc prolongation has been observed.
-There are several serious adverse reactions associated with the combination therapy of RBV with
-(peg)IFN- . These include:
-- Severe psychiatric and central nervous system effects (such as depression, suicidal
-ideation, attempted suicide and aggressive
-behaviour, etc.);
-- Severe ocular disorders;
-- Dental and periodontal disorders.
-Drug interactions. RBV has two pathways of
-metabolism: a reversible phosphorylation pathway
-and a degradative pathway. Both RBV and metabolites are excreted renally. Results of in vitro studies indicated no CYP 450 enzyme-mediated
-metabolism of RBV. RBV does not inhibit CYP
-450 enzymes and there is no evidence from toxicity studies that it induces liver enzymes, therefore
-potential for P450-based interactions is minimal.9
-Information on drug interactions with RBV is limited. The Drugbank database lists potential pharmacokinetic drug interactions leading to increased
-RBV levels with the following psychotropic agents:
-clozapine, haloperidol, amitriptyline, duloxetine,
-imipramine, phenelzine, venlafaxine, midazolam,
-lamotrigine and pregabalin. It is not clear whether
-these are actual reports of interactions or theoretical considerations, and the mechanisms are not
-clear. Similarly, Drugbank also notes that RBV
-may lead to increased levels of the following
-psychotropic agents: paliperidone, quetiapine,
-bupropion, clomipramine, desipramine, vortioxetine, clonazepam, diazepam, oxazepam, carbamazepine and lithium.
-Therapeutic Advances in Psychopharmacology 10
-Pharmacodynamic interactions with psychotropics
-include infections and neutropenia, which have
-both been reported with RBV use  a significant
-risk for patients infected with COVID-19, particularly if also taking clozapine or carbamazepine, also
-known to cause neutropenia. In addition, combination therapy of RBV with (peg)IFN- has been
-associated with severe psychiatric effects, another
-serious concern if used in psychiatric patients.
-Tocilizumab (TCZ) is an interleukin (IL)-6
-receptor inhibiting monoclonal antibody that is
-currently approved for rheumatological conditions such as rheumatoid arthritis and cytokine
-release syndrome. TCZ is being trialled in patients
-with severe COVID-19 to see whether it is effective in reducing the virus-induced cytokine storm,
-thereby potentially reducing complications.47
-However, the decision to suppress the immune
-system of a critically unwell patient with COVID19 is a difficult one; the beneficial anti-inflammatory effects of TCZ (or any other anti-inflammatory
-drug) must be weighed against the possibly detrimental effects of impairment of immunity.48
-Patients with COVID-19 experience an elevation
-of IL-6. However, since co-medication will not
-have been adjusted to the acute inflammatory
-COVID-19 state, and since treatment with TCZ
-would have been initiated very rapidly (and only
-up to two doses given), no prior adjustment of
-CYP substrates is needed. But the effect of acute
-COVID-19 infection on drugs with narrow therapeutic index is unclear.9 TCZ may decrease blood
-levels of carbamazepine, which may require dose
-Caution is required when co-administering with
-myelotoxic drugs such as clozapine or carbamazepine due to the potential additive haematological
-toxicity. No clinically significant effect on QT
-prolongation was observed in healthy subjects.9
-Other drugs
-Intravenous immunoglobulin is being trialled in
-some patients with COVID-19; however, there
-are no data to support this. Angiotensin-II receptor antagonists such as losartan are being investigated as a potential treatment because it is thought
-that the angiotensin-converting enzyme-2 (ACE2)
-receptor is the main binding site for the virus.35,36
-Reported dosage has been:
-The initial dose should be 48 mg/kg, with
-the recommended dosage being 400 mg;
-Dilute with 0.9% saline to 100 ml and
-infuse over the course of more than 1 h;
-Repeat once after 12 h (same dosage) if the
-response to the first dose was poor, maximum two cumulative doses;
-Single maximum dose is 800 mg.
-Drug interactions. TCZ has no direct inhibitory or inducing effects on CYP enzymes per se.
-However, it reverses IL-6 induced suppression
-of cytochromes (elevation of IL-6 during
-inflammation has been shown to inhibit CYP
-3A4, CYP2C19, CUP2C9 and CYP1A2 activity, resulting in higher drug exposure of substrate drugs), which, prior to treatment with
-TCZ, has been adjusted to the metabolism of
-individuals. When treatment with TCZ is
-started, cytochrome activity normalises, thus
-leading to reduced exposure of drugs, which,
-prior to treatment, had been adjusted to the
-metabolism of individuals with the rheumatic
-disease that it is usually used for.9
-In addition, researchers at the Murdoch
-set to conduct a randomised, multi-centre clinical trial to test the use of tuberculosis vaccine
-BCG against Covid-19. The BRACE trial is
-intended for healthcare workers. It is based on
-previous study findings that BCG decreases the
-level of virus in patients infected by viruses similar to SARS-CoV-2.49 BCG vaccines heterologous beneficial effect against non-tuberculosis
-infections is well known. The vaccine works on
-the innate immune system and produces a
-memory like response termed trained immunity that helps in faster recognition, triggering
-a quicker inflammatory response. Recent studies have also suggested that it has the potential
-to protect against experimental infection with
-yellow fever vaccine strain and to enhance
-immune responses to other vaccines in general
-including influenza vaccination.50
-We urge clinicians to exercise significant caution
-in the use of any of the previously mentioned
-medications even on a compassionate-use basis
-in the absence of adequately powered and/or
-D Bishara, C Kalafatis et al.
-trials for the treatment of COVID-19 patients.
-An even higher threshold of vigilance should be
-maintained for patients with pre-existing conditions and older adults due to added toxicity and
-many psychotropic agents can interact with
-agents used in COVID-19, leading to serious
-adverse effects including QTc prolongation thus
-increasing the risk of torsades de pointes and
-bone marrow suppression. Identifying and
-avoiding these interactions can be vital to
-improving survival in COVID-19 patients.
-Conflict of interest statement
-Delia Bishara
-David Taylor
-1. Kalil AC. Treating COVID-19-off-label drug
-use, compassionate use, and randomized
-2. Sayburn A. Covid-19: trials of four potential
-treatments to generate robust data of what
-works. BMJ 2020; 368: m1206.
-3. Recovery: Randomised Evaluation of COVID19 Therapy. This nation clinical trials aims to
-identify treatments that may be beneficial for
-4. Medicines Complete. Stockleys interactions checker,
-stockleys-interactions-checker/ (accessed 06 May
-5. HIV Drug Interactions. Interaction
-10. Medicines.org.uk. Azithromycin 250mg capsules.
-PROPS (accessed 02 April 2020).
-prevention of coronavirus disease (COVID-19)
-12. Expert consensus on chloroquine phosphate for
-the treatment of novel coronavirus pneumonia.
-Zhonghua Jie He He Hu Xi Za Zhi 2020; 43:
-13. Gautret P, Lagier JC, Parola P, et al.
-Hydroxychloroquine and azithromycin as a
-treatment of COVID-19: results of an open-label
-non-randomized clinical trial. Int J Antimicrob
-14. Molina JM, Delaugerre C, Goff JL, et al.
-No evidence of rapid antiviral clearance
-or clinical benefit with the combination of
-hydroxychloroquine and azithromycin in patients
-with severe COVID-19 Infection, Med Mal
-15. Chen J, Liu D, Liu L, et al, A pilot study of
-hydroxychloroquine in treatment of patients with
-common coronavirus disease-19 (COVID-19).
-J Zhejiang Univ 2020; 49: 215219.
-16. Chen Z, Hu J, Zhang Z, et al. Efficacy of
-hydroxychloroquine in patients with COVID-19:
-results of a randomized clinical trial. medRxiv
-17. Chorin E, Dai M, Shulman E, et al. The QT
-interval in patients with SARS-CoV-2 infection
-treated with hydroxychloroquine/azithromycin.
-Therapeutic Advances in Psychopharmacology 10
-18. BMJ. Rapid response: use of hydroxychloroquine
-19. Schrezenmeier E and Dorner T. Mechanisms of
-action of hydroxychloroquine and chloroquine:
-implications for rheumatology. Nat Rev
-20. Zhou D, Dai SM and Tong Q. COVID-19:
-a recommendation to examine the effect of
-hydroxychloroquine in preventing infection and
-21. U.S. Food & Drug Administration.
-Hydrochloroquine or chloroquine for
-COVID-19: drug safety communication
- FDA cautions against use outside of the
-hospital setting or a clinical trial due to
-hydroxychloroquine-or-chloroquine-covid-19drug-safety-communication-fda-cautions-againstuse (accessed 02 May 2020).
-22. Liu X, Li Z, Liu Z, et al. Potential therapeutic
-effects of dipyridamole in the severely ill patients
-product/3557/smpc (accessed 05 May 2020).
-dipyridamole.html (accessed 05 May 2020).
-31. Cai Q, Yang M, Liu D, et al. Experimental
-treatment with favipiravir for COVID-19: an
-open-label control study. Engineering (Beijing).
-32. Young BE, Ong SWX, Kalimuddin S, et al.
-Epidemiologic features and clinical course of
-patients infected with SARS-CoV-2 in Singapore.
-33. Cao B, Wang Y, Wen D, et al. A trial of
-lopinavirritonavir in adults hospitalized with
-34. Medicines.org.uk. Norvir 100mg film-coated
-product/510/smpc (accessed 03 March 2020).
-35. Rossignol JF. Nitazoxanide: a first-in-class broadspectrum antiviral agent. Antivir Res 2014; 110:
-36. Padmanabhan S. Potential dual therapeutic
-approach against SARS-CoV-2/COVID-19 with
-Nitazoxanide and Hydroxychloroquine. 2020.
-37. Yao X, Ye F, Zhang M, et al. In vitro
-antiviral activity and projection of optimized
-dosing design of hydroxychloroquine for the
-treatment of severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2). Clin Infect Dis.
-38. Wang M, Cao R, Zhang L, et al. Remdesivir
-and chloroquine effectively inhibit the recently
-emerged novel coronavirus (2019-nCoV) in vitro.
-Cell Res 2020; 30: 269271.
-PROPS (accessed 05 May 2020).
-city=&dist=&Search=Search (accessed 27 March
-27. Borrell B. New York clinical trial quietly tests
-heartburn remedy against coronavirus. Science,
-29. Taylor D, Barnes TRE and Young AH. The
-Maudsley prescribing guidelines in psychiatry. 13th
-ed. Hoboken, NJ: Wiley, 2018.
-40. BMJ Best Practice. Coronavirus disease 2019
-41. Grein J, Norio Ohmagari N, Shin D, et al.
-Compassionate use of remdesivir for patients
-D Bishara, C Kalafatis et al.
-alphain in patients with mild to moderate novel
-coronavirus pneumonia. Chin Med J (Engl) 2020;
-42. Gilead sciences initiates two phase 3 studies
-of investigational antiviral remdesivir for the
-gilead-sciences-initiates-two-phase-3-studiesof-investigational-antiviral-remdesivir-for-thetreatment-of-covid-19 (accessed 27 March 2020).
-46. Medicines.org.uk. Ribavirin 200mg film-coated
-product/7108/smpc. (accessed 28 March 2020).
-news-releases/nih-clinical-trial-remdesivir-treatcovid-19-begins (accessed 27 March 2020).
-44. MedicineNet. Remdesivir (RDV): experimental
-remdesivir_rdv (accessed 27 March 2020).
-48. Ritchie AI and Singanayagam A. Immuno
-suppression for hyperinflammation in COVID-19:
-a double-edged sword? Lancet 2020; 395: 1111.
-45. Zeng YM, Xu XL, He XQ, et al. Comparative
-effectiveness and safety of ribavirin plus interferonalpha, lopinavir/ritonavir plus interferon-alpha and
-ribavirin plus lopinavir/ritonavir plus interferon-
-healthcare workers against COVID-19 (BRACE),
-50. Mahase E. Covid-19: what treatments are being
-investigated? BMJ 2020; 368: m1252.
+TPP0010.1177/2045125320935306Therapeutic  Advances in Psychophar‐
+macologyD Bishara,  C  Kalafatis  Therapeutic  Advances  in  Psy‐
+chopharmacology Emerging and experimental treatments for COVID‐19
+and drug interactions with psychotropic agents Delia Bishara Ther
+Adv  Psychopharmacol , Chris Kalafatis and David Taylor Abstract:
+As yet, no  agents  have  been  approved  for  the  treatment  of
+COVID‐19,  although several experimental drugs are being used off
+licence. These may have serious adverse agents being used  across
+the  world  for  the treatment of COVID‐19 and investigated their
+drug interaction potential with psychotropic agents using several
+drug  interaction  databases  and resources. A preliminary search
+identified the following drugs as being used  to  treat  COVID‐19
+symptoms:   atazanavir  (ATV),  azithromycin  (AZI),  chloroquine
+(CLQ)/hydroxychloroquine (HCLQ), dipyridamole, famotidine  (FAM),
+favipiravir,  lopinavir/ritonavir  (LPV/r),  nitazoxanide, remde‐
+sivir, ribavirin and tocilizumab. Many  serious  adverse  effects
+and  potential  drug  interactions  with psychotropic agents were
+identified. The most problematic agents were  found  to  be  ATV,
+AZI, CLQ, HCLQ, FAM and LPV/r in terms of both pharmacokinetic as
+well as serious pharmacodynamic drug interactions, including  QTc
+prolongation  and neutropenia.  Significant caution should be ex‐
+ercised if using any of the medications being  trialled  for  the
+treatment of COVID‐19 until robust clinical trial data are avail‐
+able. An even higher threshold of vigilance should be  maintained
+for patients with pre‐existing conditions and older adults due to
+added toxicity and drug interactions, especially with psychotrop‐
+ic  agents.   Keywords:  adverse effects, drug‐interactions, psy‐
+chotropic drugs, treatment COVID‐19 Although no  treatments  have
+been approved or shown to be safe and effective for the treatment
+of COVID‐19, there are several treatments being used off  licence
+either  on  a  compassionate‐use basis or as part of a randomised
+controlled trial. The South London and  Maudsley  NHS  Foundation
+Trust does not currently recommend initiating these drugs. Howev‐
+er, clinicians need to be aware of their adverse effects and  po‐
+tential  drug  interactions with psychotropic agents in case they
+are prescribed elsewhere to patients from our services.   Serious
+adverse  effects  are  associated with these drugs, and these may
+overlap with the clinical manifestations of COVID‐19. Chloroquine
+(CLQ)/   hydroxychloroquine   (HCLQ),   azithromycin  (AZI),  and
+lopinavir/ritonavir (LPV/r) are associated with a  range  of  ad‐
+verse  effects,  including  QTc prolongation, torsade de pointes,
+hepatitis, acute pancreatitis and neutropenia.1 Considering  that
+most  patients  who  have died from COVID‐19 were elderly and had
+underlying health conditions including cardiovascular  comorbidi‐
+ties,  CLQ/HCLQ,  AZI,  and  LPV/r could potentially increase the
+risk of cardiac death. In addition, hepatitis and leucopoenia are
+clinical  manifestations  of  COVID‐19,  and  so the use of these
+drugs could worsen both hepatic and bone marrow  dysfunction.  It
+would also be almost impossible to differentiate the drug‐related
+adverse effects from the disease manifestations.1  Correspondence
+to:  Delia  Bishara  Maudsley Hospital, Denmark Hill, Camberwell,
+London SE5 Chris Kalafatis David Taylor South London and Maudsley
+NHS Foundation Trust, London, UK Several clinical trials are cur‐
+rently underway. The World Health Organisation and  its  partners
+have  launched the Solidarity trial,2 a large international study
+to compare different treatments and ensure  Therapeutic  Advances
+in  Psychopharmacology  10 clear evidence of which treatments are
+most effective. The study will have five arms: standard of Oxford
+have  launched the Recovery trial,3 which will be testing some of
+these suggested treatments: LPV/r, low‐dose  dexamethasone,  HCLQ
+and  inhaled  IFN‐beta1a.  main experimental drugs that are being
+trialled or used off licence to  treat  patients  with  COVID‐19.
+For each drug we aimed to examine trial outcome data, dosing reg‐
+imens, adverse effects, drug interaction potential  and  specific
+drug  interactions  with commonly used psychotropic agents in the
+United Kingdom (UK).  A  preliminary  search  identified  several
+drugs  that  were being used off licence around the world for the
+treatment of COVID‐19 either as part of a clinical trial or on  a
+compassionate  basis. For each potential adverse effects. We then
+used the following drug‐interaction  databases  and  on‐line  re‐
+sources to identify potential drug interactions with the commonly
+used psychotropic agents in the UK: Stockleys  Drug  Interactions
+Checker,  human  immunodeficiency  virus  (HIV) drug interactions
+website, drug interaction checker, the Drugbank and the Liverpool
+Drug   Interactions  Adverse  effects.  ATV  can  cause  serious,
+lifethreatening adverse effects, including heart rhythm abnormal‐
+ities, severe rash and hepatic disorders, as well as life‐threat‐
+ening drug interactions.  Drug interactions. ATV  is  metabolised
+principally  by  cytochrome P450 (CYP) 3A4. It is an inhibitor of
+CYP3A4 and a weak inhibitor of CYP2C8.  When co‐administered with
+ATV,  increased serum levels of psychotropics that are substrates
+of CYP3A4 can occur. This is especially true for lurasidone, que‐
+tiapine  and ziprasidone. Their levels can be raised significant‐
+ly, thus increasing the risk of serious adverse effects,  includ‐
+ing  prolongation  of  QTc interval. These combinations should be
+avoided if possible. Other CYP3A4 substrates, such  aripiprazole,
+clozapine,  haloperidol,  iloperidone,  risperidone and zuclopen‐
+tixol, as well as some benzodiazepines (e.g. clonazepam, diazepam
+and midazolam) and certain antidepressants (e.g.  citalopram, es‐
+citalopram, clomipramine,  imipramine  and  mirtazapine,  amongst
+others) can also be affected in the same way when co‐administered
+with ATV and may require dose adjustments or  monitoring.  Carba‐
+mazepine  and ATV together can lead to increased levels of carba‐
+mazepine and reduced levels of  ATV  and  this  combination  with
+drugs  highly dependent on CYP2C8 with narrow therapeutic indices
+is not recommended (no psychotropic meets this definition).   For
+each  drug  identified,  trial outcome data, dosing regimens, ad‐
+verse effects and drug interaction potential are reported in  the
+following.  For specific drug Dose‐related asymptomatic prolonga‐
+tions in the PR interval with ATV have been observed in  clinical
+studies. Caution should be used when prescribing ATV with medici‐
+nal products that have the potential to increase the QT interval;
+a  potential  effect of many antipsychotic drugs and some antide‐
+pressants, and/or in  patients  with  pre‐existing  risk  factors
+(bradycardia,  long congenital QT, electrolyte imbalances accord‐
+ing to the Liverpool An antiretroviral medication used  to  treat
+and  prevent  the  human  immunodeficiency  virus  (HIV) AZI is a
+macrolide antibiotic used in combination with  HCLQ  (for  dosage
+information  see  HCLQ).   Dosage  information. Some reports have
+emerged where the following regimen was used for COVID‐19 pneumo‐
+nia: ATV 400 mg daily for 2 weeks in combination with oseltamivir
+150 mg twice daily +/ methylprednisolone 40 mg twice data for its
+use  to  support  this.  Adverse effects. Adverse effects include
+gastrointestinal effects, arrhythmias, QT prolongation and hepat‐
+ic  disorders.  Drug interactions. AZI does not interact signifi‐
+cantly with the hepatic cytochrome P450 system.  It  is  not  be‐
+lieved  to  undergo pharmacokinetic D Bishara, C Kalafatis et al.
+Mood stabilisers Therapeutic Advances  in  Psychopharmacology  10
+Text  Legend Potential increase exposure of drug specified Poten‐
+tial decrease exposure of drug specified No significant effect on
+drug  serum  levels One or both drugs may cause QT and/or PR pro‐
+longation. ECG monitoring advised One or  both  drugs  may  cause
+bone marrow suppression. Monitor FBC One or more drugs may reduce
+seizure threshold. Monitor closely.  Theoretical drug interaction
+based  on CYP metabolism, however no specific reports These drugs
+should not be co‐administered Potential interaction which may re‐
+quire a dose adjustment or close monitoring Potential interaction
+likely to be of weak intensity. Additional  action/monitoring  or
+dosage  adjustment unlikely to be required No clinically signifi‐
+cant interaction expected  ATV,  atazanavir;  AZI,  azithromycin;
+CLQ,  chloroquine;  CYP, cytochrome P450; DIP, dipyridamole; ECG,
+electrocardiogram; FAM, famotidine; FAVI, favipiravir; FBC,  full
+blood  count;  HCLQ,  hydroxychloroquine; LPV/r, lopinavir/riton‐
+avir; NITAZ, nitazoxanide; RDV, remdesivir; RBV, ribavirin;  TCZ,
+tocilizumab.  Dementia drugs D Bishara, C Kalafatis et al.  Ther‐
+apeutic Advances in Psychopharmacology 10 drug interactions.  He‐
+patic   cytochrome   P450   induction  or  inactivation  via  cy‐
+tochromemetabolite complex does not occur with AZI.  AZI is known
+to  be  a P‐glycoprotein (P‐gp) inhibitor and, if co‐administered
+with P‐gp substrates (e.g. digoxin, colchicine), it has been  re‐
+ported  to  result  in increased serum levels, requiring monitor‐
+ing.10 Psychotropics are not known to be P‐gp substrates.  Whilst
+pharmacokinetic  drug interactions are not a problem with AZI, it
+is important to note that serious pharmacodynamic  drug  interac‐
+tions  do  exist  when  co‐administered with psychotropic agents.
+Since QTc prolongation can be an effect exercised when  used  to‐
+gether  as the risk for QTc prolongation is further increased. In
+addition, some psychotropics are known to  cause  neutropenia  or
+agranulocytosis (particularly clozapine and carbamazepine), which
+is also a potential adverse effect of AZI.  Chloroquine  and  hy‐
+droxychloroquine  CLQ and HCLQ are oral drugs that have been used
+for the prophylaxis and treatment of malaria, and  the  treatment
+of  certain  inflammatory conditions such as rheumatoid arthritis
+and systemic lupus erythematosus. Both drugs are currently  being
+trialled  in patients with mild‐to‐severe COVID‐19.2 HCQL is also
+being trialled for post‐exposure prophylaxis to prevent  progres‐
+sion  to  symptomatic disease after known exposure.  CLQ is being
+trialled for prevention of COVID19 in the  healthcare  setting.11
+Chloroquine.  Use of CLQ is included in treatment guidelines from
+Chinas National Health Commission and was  reportedly  associated
+with  reduced  progression  of disease and decreased China recom‐
+mends CLQ in mild to severe cases of COVID‐19 as it  may  improve
+the  success rate of treatment, shorten hospital stay and improve
+patient outcome.12 Dosing information. According to  a  consensus
+statement  from  a  multicentre  collaboration group diagnosed as
+having mild, moderate or severe cases of novel coronavirus  pneu‐
+monia and without contraindications to CLQ.12 Hydroxychloroquine.
+There is a considerable interest for the use  of  HCLQ  to  treat
+COVID‐19 disease; however, significant methodological limitations
+do not allow for definitive conclusions.  A small randomised con‐
+trolled trial (20 patients) found that HCLQ (with or without AZI)
+was efficient in reducing viral nasopharyngeal carriage of  SARS‐
+CoV‐2  in  36  days in most patients. The addition of AZI (to six
+patients) was thought to be synergistic and the  combination  was
+found to be significantly more efficient for virus elimination13;
+however the sample was small, the majority of patients  presented
+with  mild  symptoms  and the suffered from other significant co‐
+morbidities.  A similar combination trial of HCLQ and AZI  in  11
+participants  did not replicate the previously mentioned results.
+Crucially, 8 out of 11 had significant  comorbidities  associated
+with  poor  outcomes.14 Another randomised open‐label study in 30
+Chinese participants (1:1 randomisation) did not offer conclusive
+results  on  the  efficacy of HCLQ.15 The only publicly available
+randomised control trial of HCLQ in 62 Chinese  participants  re‐
+mains  HCLQ  /AZI combination is associated with high risk of QTc
+prolongation. In 84  adult  patients  with  SARS‐CoV‐2  infection
+treated  with  this  combination, QTc was significantly prolonged
+from baseline between days 3 and 4. In 30% of  patients  QTc  in‐
+creased  by  greater than 40 ms. In 11% of patients QTc increased
+to >500 ms, representing a high risk group  for  arrhythmia.  The
+development  of  acute  renal  failure but not baseline QTc was a
+strong predictor of extreme QTc prolongation.17  Dosing  informa‐
+tion.  HCLQ 200 mg three times a day for 10 days. (Recent studies
+linking HCLQ treatment to viral load reduction  in  COVID‐19  pa‐
+tients  did  so with higher dose treatment, using either a 600 mg
+daily dose or 1000 mg daily dose).18 AZI dosage used was (500  mg
+daily  day 1 followed by 250 mg per day, the next 4 days). It has
+been suggested that early treatment is important.3 D  Bishara,  C
+Kalafatis  et al.  Adverse effects for CLQ/HCLQ. Gastrointestinal
+effects, such as vomiting and diarrhoea, are the most common  ad‐
+verse  effects of these two drugs.  Patients with long‐term expo‐
+sure to CLQ suffer from severe side effects such  as  retinopathy
+and  cardiotoxic  effects.19 CLQ and HCLQ have been shown to pro‐
+long the QTc interval in some patients and  should  therefore  be
+used  with  caution in patients receiving concomitant drugs known
+to prolong the QT interval or where a drug  interaction  may  in‐
+crease CLQ or HCLQ exposure (see drug interactions in the follow‐
+ing).  Electrocardiogram (ECG) monitoring would be recommended in
+these  instances.9 Caution is also advised when considering these
+drugs in patients with chronic  medical  conditions  (e.g.  renal
+failure,  hepatic disease).  HCLQ has similar therapeutic effects
+to CLQ, but less severe adverse effects. It is considered safe in
+pregnancy  and  is more readily available in some countries. More
+importantly, the maximum dose for HCLQ is 1200 mg, which  has  an
+antiviral  effect equivalent to 750 mg CLQ (for which the maximum
+tolerable dose can be 500 mg).  Hence, HCLQ can  be  administered
+at a higher equivalent dosage and may therefore achieve more pow‐
+erful antiviral effect.20 The United States Food and Drug  Admin‐
+istration  (FDA)  has recently issued a warning that CLQ and HCLQ
+should be used for COVID‐19 only when patients can  be  appropri‐
+ately  monitored  in  the  hospital  setting or are enrolled in a
+clinical trial with appropriate screening  and  monitoring.   use
+for COVID‐19 outside the hospital setting after reports of QT in‐
+terval prolongation and ventricular tachycardia.21 Drug  interac‐
+tions.  CLQ and HCLQ undergo CYP‐mediated metabolism by CYPs 2C8,
+3A4 and 2D6. Co‐administration with inhibitors  and  inducers  of
+these  isoenzymes  may increase or decrease exposure to them, re‐
+spectively, and dose changes or additional  monitoring  could  be
+considered.  Fluoxetine  and  paroxetine  are  inhibitors of both
+CYP3A4 and CYP2D6 and can therefore lead to increased  levels  of
+CLQ  and  HCLQ,  in turn increasing the risk of QTc prolongation.
+Other psychotropics that are important inhibitors of  CYP2D6  in‐
+clude  amitriptyline, bupropion and duloxetine. Carbamazepine in‐
+duces CYP3A4 and can lead to reduced levels of CLQ and HCLQ.  CLQ
+and  HCLQ are moderate inhibitors of CYP2D6 and P‐gp, and caution
+may be required when co‐administering medication  with  a  narrow
+therapeutic  index  that  are metabolised or transported by these
+pathways.9 Psychotropics that are substrates of CYP2D6  and  that
+will  undergo  reduced  metabolism and have increased levels when
+co‐administered with these drugs include aripiprazole,  chlorpro‐
+mazine,   iloperidone,  olanzapine,  risperidone,  zuclopentixol,
+clomipramine, The  following  pharmacodynamic  drug  interactions
+should  be  considered  carefully.  Since  CLQ and HCLQ have been
+shown to prolong QTc interval, caution should be used when co‐ad‐
+ministered  with  most  antipsychotics  and  some  antidepressant
+drugs, such as tricyclic antidepressants, c italopram,  escitalo‐
+pram,  venlafaxine,  trazodone and lithium addition, CLQ and HCLQ
+have been reported to cause bone marrow failure, neutropenia  and
+agranulocytosis  Therefore,  co‐administration with carbamazepine
+should be avoided, and if used with clozapine, cautious  use  and
+close monitoring are advised. Furthermore, CLQ and HCLQ may lower
+the convulsive threshold  and  thus  antagonise  the  actions  of
+antiepileptics such as c arbamazepine, lamotrigine or sodium val‐
+proate. They should also be used  with  caution  with  bupropion,
+which  can  also reduce seizure threshold.  Dipyridamole (DIP) is
+an antiplatelet agent and acts as a phosphodiesterase  (PDE)  in‐
+hibitor  that  increases  intracellular cAMP/cGMP. Apart from the
+well‐known antiplatelet function, DIP may provide potential ther‐
+apeutic  benefits to patients clinical trials conducted in China,
+have demonstrated that it has a broad spectrum antiviral  activi‐
+ty,  particularly efficacious against positivestranded RNA virus‐
+es; it suppresses inflammation and promotes mucosal healing, and,
+as a pan‐PDE inhibitor, it may also prevent acute injury and pro‐
+gressive fibrosis  of  the  lung,  heart,  liver  and  kidneys.22
+COVID‐19 infection can cause acute respiratory distress syndrome,
+hypercoagulability, hypertension and multiorgan  dysfunction.  In
+an  analysis  of a randomly collected cohort of 124 patients with
+the disease, researchers from China found that hypercoagulability
+as Therapeutic Advances in Psychopharmacology 10 indicated by el‐
+evated concentrations of D‐dimers  was  associated  with  disease
+severity. They identified DIP, which suppressed COVID‐19 replica‐
+tion in vitro. 22 Dosage information. The daily treatment  proto‐
+col comprises oral DIP 150 mg in three separate doses for 14 con‐
+secutive days.  Adverse effects. Gastrointestinal adverse effects
+are  common  with  DIP, and thrombocytopenia and tachycardia have
+been reported although frequency is not known.23 Because DIP is a
+PDE  inhibitor  and  can  exacerbate  bronchospasm (frequency not
+known), particularly in patients  with  reactive  airway  disease
+and/or chronic obstructive pulmonary disease (COPD). Therapy with
+DIP is contraindicated  in  patients  with  active  wheezing  and
+should be administered cautiously in patients with asthma or COPD
+and therefore in COVID19 patients as well.24  Drug  interactions.
+Metabolism of DIP occurs in the liver. DIP is metabolized by con‐
+jugation with glucuronic acid to form  mainly  a  monoglucuronide
+and  only small amounts of diglucuronide. In plasma, about 80% of
+the total amount is parent compound, 20% of the total  amount  is
+monoglucuronide with oral administration.23 The bleeding risk as‐
+sociated with DIP might be further increased  by  the  concurrent
+use  of a serotonin reuptake inhibitors (SRIs). Serotonin release
+by platelets plays an important role in have documented  the  oc‐
+currence  of  bleeding  episodes  in  patients  treated with psy‐
+chotropic agents that interfere with serotonin reuptake. Bleeding
+events  related  to  SRIs have ranged from ecchymosis, haematoma,
+epistaxis  and  petechiae  to  life‐threatening   haemorrhages.25
+Therefore,  caution should be used with citalopram, escitalopram,
+fluoxetine, paroxetine and sertraline as  well  as  clomipramine,
+duloxetine,  venlafaxine  and  vortioxetine.  Monitor closely for
+bleeding.  Gastroprotection (such as a proton pump inhibitor)  in
+those  at high risk of gastrointestinal bleeding (e.g. history of
+gastrointestinal bleeding, the elderly)  should  be  considered.4
+DIP  may  also  increase  the  hypotensive effect of psychotropic
+drugs that reduce blood pressure and  may  counteract  the  anti‐
+cholinesterase  effect of cholinesterase inhibitors.23,26 Famoti‐
+dine (FAM) is a H2 antagonist use to treat heartburn, ulcers  and
+ZollingerEllison  syndrome.  Earlier in the outbreak, doctors who
+worked with coronavirus patients in Wuhan, China discovered that,
+although  one  in five COVID‐19 patients over the age of 80 died,
+many of those who survived had been taking the heartburn  medica‐
+tion FAM. In fact, hospitalized COVID‐19 patients on FAM appeared
+to be dying at a rate of about 14% compared with  27%  for  those
+not on the drug, and, although the analysis was crude, the result
+was not statistically significant and studies on the Chinese  pa‐
+tients have to encourage US scientists to explore FAMs As part of
+a clinical trial, patients at New  York  Citys  Northwell  Health
+have  been  receiving  FAM  intravenously,  at  a dose nine times
+greater than what people typically take for  heartburn  (specific
+dosing  details  are not available). The randomised, double‐blind
+trial, which began on 7 April 2020, has enrolled 187 participants
+to  date, but expects to expand to a total of 1174 individuals in
+critical status, including many on Adverse effects.  ECG  changes
+are  seen;  prolonged  QT  interval has been reported in patients
+with moderate‐to‐severe renal impairment. The  FDA  has  received
+reports of torsades de pointes occurring with FAM. There have al‐
+so been rare reports of seizures,  thrombocytopenia,  leukopenia,
+agranulocytosis,  pancytopenia intrahepatic cholestasis, jaundice
+and increased liver enzyme abnormalities.  In  addition,  it  can
+very rarely cause psychiatric effects such as depression, anxiety
+and Drug interactions. FAM is considered a weak CYP1A2  inhibitor
+and  may lead to substantial increases in blood concentrations of
+CYP1A2 substrates. Whilst there are  no  reports,  theoretically,
+co‐administration  can  lead  to  increased  levels of clozapine,
+olanzapine and agomelatine as they are predominantly CYP 1A2 sub‐
+strates.29  FAM  may cause QTc prolongation. Theoretically, coad‐
+ministration with other agents that can prolong the  QT  interval
+may  result in additive effects and increased risk of ventricular
+arrhythmias including torsade de pointes and sudden  death.   Ac‐
+cording  to  the  manufacturer,  prolongation  of  D  Bishara,  C
+Kalafatis et al.  the QT interval has been reported  very  rarely
+in  patients  with impaired renal function whose dose/ dosing in‐
+terval of FAM may not have been adjusted appropriately. In gener‐
+al,  the  risk  of an individual agent, or a combination of these
+agents, causing ventricular arrhythmia in association with be in‐
+creased  by  certain  underlying  risk factors such as congenital
+long QT syndrome, cardiac disease  and  electrolyte  disturbances
+(e.g.  hypokalemia,  hypomagnesemia).  In addition, the extent of
+drug‐induced QT  prolongation  is  dependent  on  the  particular
+drug(s)   involved   and   dosage(s)   of  the  drug(s).  Acetyl‐
+cholinesterase inhibitors  may  have  vagotonic  effects  on  the
+sinoatrial  and  atrioventricular nodes, which occasionally mani‐
+fest as bradycardia or heart block (<2%). Because bradycardia  is
+a  risk  factor for torsade de pointes, a theoretical risk exists
+when combined with agents  drug  interactions  with  psychotropic
+agents.  Favipiravir (FAVI) is an anti‐viral drug [used in severe
+acute respiratory syndrome (SARS)  and  Middle  East  respiratory
+syndrome (MERS)] that has secured approval from the National Med‐
+ical  Products  Administration  of  China  to  treat  coronavirus
+COVID‐19.  An  open‐label  study compared FAVI (35 patients) with
+LPV/r (45 patients) for the treatment  of  COVID‐19.31  FAVI  was
+noted  to  have  shown  significantly better treatment effects on
+COVID‐19 in terms of disease  progression  and  viral  clearance.
+Available dosage information. Patients in the study received oral
+FAVI (day 1: 1600 mg twice daily; day 214  600  mg  twice  daily)
+plus  IFN‐  by  aerosol  inhalation  (5 million U twice daily) or
+LPV/r (days 114: 400 mg/100 mg twice daily plus IFN‐  by  aerosol
+inhalation  (5  million U twice daily).31 Adverse effects. In the
+small study described previously,  two  patients  reported  diar‐
+rhoea,  one had liver injury and one had poor diet.31 Drug inter‐
+actions. FAVI is a weak inhibitor of CYPs 1A2,  2C9,  2C19,  2D6,
+2E1  and  3A4 and showed little or no induction of CYPs 1A2, 2C9,
+2C19 and 3A4 in human hepatocytes. FAVI inhibits CYP2C8 and  cau‐
+tion  is  required in combination with drugs metabolised via this
+route. It is also a moderate inhibitor of OAT1 and OAT3.  A study
+showed increased areas under the plasma concentration‐time curves
+(AUC) of paracetamol, and as a result maximum dose should be 3000
+mg/  day.  The  QT interval prolongation risk is considered to be
+low with FAVI.9 Based on the  information  previously  mentioned,
+some  psychotropic  levels  are expected be increased due to weak
+CYP inhibition by FAVI, but since there are no reports  of  this,
+they  are  not  therefore  be  required but it is important to be
+aware of a potential interaction.  Caution  is  recommended  when
+FAVI  is  co‐administered  with  zopiclone as it is a CYP2C8 sub‐
+strate.  LPV/r is an oral antiretroviral protease inhibitor  cur‐
+rently  approved  for  the  treatment of HIV infection. LPV/r has
+been used in clinical trials for the treatment of  COVID‐19.  Re‐
+sults  from one small case series found that evidence of clinical
+benefit with LPV/r was equivocal.32 A randomised controlled trial
+of  199 patients in China found that treatment with LPV/r was not
+beneficial compared with standard care alone (primary outcome was
+time   to  improvement)  in  hospitalised  patients  with  severe
+COVID‐19.12 Dosing information. LPV/r (400 mg and 100 mg)  orally
+twice daily, plus standard care for 14 days was used in the clin‐
+ical trial.33 Adverse effects. In the trial, gastrointestinal ad‐
+verse  events  including nausea, vomiting and diarrhoea were more
+common in the LPV/r group than in the  standard‐care  group,  but
+serious  adverse  events  were  more  common in the standard‐care
+group.  Drug interactions. Lopinavir is  metabolised  extensively
+by  the  hepatic  cytochrome  P450  system, almost exclusively by
+CYP3A. Ritonavir is also noted to be extensively  metabolised  by
+the  CYP3A  isozyme  family  and to a lesser extent by the CYP2D6
+isoform. Ritonavir is a potent CYP3A and CYP2D6 inhibitor, and is
+given  with lopinavir to increase plasma levels of lopinavir. Ri‐
+tonavir may  induce  glucuronidation  and  oxidation  by  CYP1A2,
+CYP2C8, CYP2C9 and CYP2C19, thereby increasing the biotransforma‐
+tion of some drugs metabolised by these pathways. This may result
+in decreased systemic exposure of these agents.34 Therapeutic Ad‐
+vances in Psychopharmacology 10 As carbamazepine is a potent  in‐
+ducer  and  a  substrate of CYP3A4, co‐administration can lead to
+both reduced LPV/r levels  and  increased  carbamazepine  levels.
+Many psychotropic drugs are metabolised by CYP3A4, and so the ma‐
+jority will experience reduced  metabolism  and  increased  serum
+levels when administered with LPV/r (see highest with lurasidone,
+quetiapine and ziprasidone,  and  these  combinations  should  be
+avoided.   In  contrast, the following psychotropics are expected
+to have reduced serum levels when administered with LPV/r:  olan‐
+zapine,  agomelatine,  bupropion,  sertraline,  lamotrigine, val‐
+proate and methadone. Of the psychotropics evaluated, the  levels
+of  the  following drugs are not expected to be affected: amisul‐
+pride, sulpiride, phenelzine, lorazepam, oxazepam,  lithium,  ri‐
+vastigmine,  memantine and pregabalin. For duloxetine and paroxe‐
+tine, there are reports of both increase and decrease  in  levels
+when  given  with  LPV/r.   LPV/r  has been shown to cause modest
+asymptomatic prolongation of the  PR  interval  in  some  healthy
+adult subjects. Rare reports of 2nd and 3rd degree atrioventricu‐
+lar block in patients with underlying  structural  heart  disease
+and  pre‐existing conduction system abnormalities in patients re‐
+ceiving drugs known to prolong the PR interval (e.g. verapamil or
+ATV)  have  been  reported.  LPV/r should be used with caution in
+such patients.9 As many antipsychotic drugs, some antidepressants
+and  lithium  can also cause cardiac adverse effects, co‐adminis‐
+tration with LPV/r can cause  pharmacodynamic  drug  interactions
+leading to increased cardiac risks. In addition, LPV/r is report‐
+ed to commonly cause respiratory infections and neutropenia, both
+of  these  will  be added risk factors in patients with COVID‐19,
+especially in those on psychotropics that  can  also  cause  neu‐
+tropenia,  for example clozapine and carbamazepine.  Nitazoxanide
+(NITAZ) an antiprotozoal  that  is  currently  FDA  approved  for
+treating  cryptosporidium and giardia shown to have broad antivi‐
+ral activity and has been approved in some countries for treating
+noro and rota viruses.35 Proposed dosing regimen36 1) HCLQ 400 mg
+twice a day for 23 days (loading) then 200 mg twice a day for  2)
+NITAZ  (600  mg  ‐SR tabs) twice a day; if unavailable, using the
+immediate release formulation 500 mg three times a day for 7 days
+(absorption better with food) should achieve adequate trough lev‐
+els that easily exceeds the EC50 of SARS‐CoV2.  The  duration  of
+treatment can likely be adjusted based on clinical response.  Ad‐
+verse effects. NITAZ has an excellent safety record, though  some
+gastrointestinal  adverse  effects  are  reported.  Drug interac‐
+tions. Although no drugdrug interaction studies  have  been  con‐
+ducted  in  vivo, it is expected that no significant interactions
+would occur when NITAZ is co‐administered with drugs that  either
+are  metabolised  by  or inhibit CYP 450 enzymes. Caution should,
+however, be used when administering NITAZ concurrently with other
+highly  plasma protein‐bound drugs with narrow therapeutic index,
+as competition for binding sites may occur. NITAZ  can  therefore
+increase adverse effects of benzodiazepines is recommended, espe‐
+cially with regards to respiratory depression as this can  be  an
+issue  in patients with COVID‐19, who already may be experiencing
+respiratory distress.  When administered with food,  the  AUC  of
+NITAZ  in  oral  form increased by around 50% and subsequently is
+recommended to be taken with food. No clinically significant  ef‐
+fect  on  QTc prolongation has been observed.9 Remdesivir‐GS‐5734
+(RDV) is a novel, investigational,  intravenous  nucleoside  ana‐
+logue  (originally  used to treat Ebola) with broad antiviral ac‐
+tivity that shows in vitro activity against severe acute respira‐
+tory syndrome coronavirus 2 (SARS‐CoV‐2).38 Several clinical tri‐
+als  with  RDV  are  underway  in  patients  with  mild‐to‐severe
+COVID‐19.39  It has been used on a compassionate‐use basis in ar‐
+eas where clinical trials are not available; however,  the  manu‐
+facturer  has  paused  access  to  the drug via this route due to
+overwhelming demand while they transition to an  expanded  access
+programme.  Exceptions will be made for patients with severe ill‐
+ness, and pregnant women and children with confirmed infection.40
+D  Bishara,  C  Kalafatis et al.  In a recent cohort of 61 hospi‐
+talised patients who received RDV on a compassionate basis, clin‐
+ical improvement was observed in 36 of 53 patients (68%). A total
+of 25 patients  (47%)  were  discharged,  and  7  patients  (13%)
+died.41  Dosing  information. Limited data available; dosing used
+in clinical trials: 200 mg as a single dose on day 1, followed by
+100  mg  once  daily  until  day  5 or 10 in addition to standard
+care.42,43 Adverse effects. The information on adverse effects is
+also limited however it has been reported to cause nausea and in‐
+crease liver enzymes (which may or may not  indicate  liver  dam‐
+age).  It  does  not  prolong  QTc interval.44 Drug interactions.
+Based on rapid distribution, metabolism and clearance, the  like‐
+lihood  of  clinically  significant interactions is low. RDV is a
+substrate of CYP 2C8, CYP 2D6, CYP 3A4 and  transporters  OATP1B1
+and  P‐gp in vitro, but coadministration with inhibitors of these
+CYP isoforms and transporters is unlikely to  increase  its  lev‐
+els.9 RDV can be impacted by strong inducers (e.g. carbamazepine)
+thus co‐administration is not recommended. RDV is an  inducer  of
+CYP 1A2 and CYP 2B6 in vitro but, considering the exposure, it is
+unlikely to translate  into  clinically  significant  interaction
+with  substrates  of  these  enzymes.9 However, caution should be
+used when co‐administered with clozapine (CYP1A2  substrate)  and
+methadone  (CYP2B6  substrate)  as, theoretically, for effects on
+other psychotropics as well).  Since there are  limited  data  on
+the  tolerability and adverse effect profile of RDV, it is diffi‐
+cult to predict whether  any  pharmacodynamic  interactions  with
+psychotropics  exist. Reports of increased liver enzymes may sug‐
+gest that monitoring may be warranted in some patients, especial‐
+ly  if  co‐prescribed  psychotropics that can also increase liver
+enzymes  or  affect  liver  function  for  example,  agomelatine,
+monoamine oxidase inhibitors, carbamazepine or haloperidol.  Rib‐
+avirin (RBV) is an antiviral used to treat hepatitis and has been
+used  previously to manage SARS and MERS patients. An open‐label,
+randomised controlled trial currently underway in China  included
+three  regimens  with the following RBV (intravenous loading dose
+of 2 g, followed by oral doses of 400600 mg every 8  h  depending
+on  the patients weight, for 14 days); LPV/r (oral, 400 mg/100 mg
+per dose, twice a day, for 14 days); IFN‐‐1b  (atomizing  inhala‐
+tion,  5  million  U or 50 g per dose, twice a day, for 14 days).
+And comparing the effectiveness of:  RBV  plus  IFN‐1b  (arm  A);
+LPV/r plus IFN‐1b (arm B); and RBV plus LPV/r plus IFN‐1b (arm C)
+for the treatment of COVID‐19.  Adverse  effects46.  Pancytopenia
+and  bone marrow suppression have been reported with RBV.  No ef‐
+fect on QTc prolongation has been observed.   There  are  several
+serious adverse reactions associated with the combination therapy
+of RBV with (peg)IFN‐ . These include: ‐ Severe  psychiatric  and
+central  nervous  system  effects  (such  as depression, suicidal
+ideation, attempted suicide and aggressive  behaviour,  etc.);  ‐
+Severe  ocular  disorders;  ‐  Dental  and periodontal disorders.
+Drug interactions. RBV has two  pathways  of  metabolism:  a  re‐
+versible  phosphorylation pathway and a degradative pathway. Both
+RBV and metabolites are excreted renally.  Results  of  in  vitro
+studies  indicated  no CYP 450 enzyme‐mediated metabolism of RBV.
+RBV does not inhibit CYP 450 enzymes and  there  is  no  evidence
+from  toxicity  studies  that it induces liver enzymes, therefore
+potential for P450‐based interactions is minimal.9 Information on
+drug  interactions  with  RBV  is  limited. The Drugbank database
+lists potential pharmacokinetic drug interactions leading to  in‐
+creased RBV levels with the following psychotropic agents: cloza‐
+pine,   haloperidol,   amitriptyline,   duloxetine,   imipramine,
+phenelzine,  venlafaxine,  midazolam, lamotrigine and pregabalin.
+It is not clear whether these are actual reports of  interactions
+or  theoretical considerations, and the mechanisms are not clear.
+Similarly, Drugbank also notes that RBV  may  lead  to  increased
+levels of the following psychotropic agents: paliperidone, queti‐
+apine, bupropion, clomipramine, desipramine, vortioxetine,  clon‐
+azepam, diazepam, oxazepam, carbamazepine and lithium.  Therapeu‐
+tic Advances in Psychopharmacology  10  Pharmacodynamic  interac‐
+tions  with  psychotropics  include  infections  and neutropenia,
+which have both been reported with RBV use   a  significant  risk
+for  patients infected with COVID‐19, particularly if also taking
+clozapine or carbamazepine, also known to cause  neutropenia.  In
+addition,  combination therapy of RBV with (peg)IFN‐ has been as‐
+sociated with severe psychiatric effects, another serious concern
+if  used in psychiatric patients.  Tocilizumab (TCZ) is an inter‐
+leukin (IL)‐6 receptor inhibiting  monoclonal  antibody  that  is
+currently approved for rheumatological conditions such as rheuma‐
+toid arthritis and cytokine release syndrome. TCZ is  being  tri‐
+alled  in  patients with severe COVID‐19 to see whether it is ef‐
+fective in reducing the virus‐induced cytokine storm, thereby po‐
+tentially reducing complications.47 However, the decision to sup‐
+press the immune system  of  a  critically  unwell  patient  with
+COVID19  is a difficult one; the beneficial anti‐inflammatory ef‐
+fects of TCZ  (or  any  other  anti‐inflammatory  drug)  must  be
+weighed against the possibly detrimental effects of impairment of
+immunity.48 Patients with COVID‐19  experience  an  elevation  of
+IL‐6. However, since co‐medication will not have been adjusted to
+the acute inflammatory COVID‐19 state, and since  treatment  with
+TCZ  would  have  been initiated very rapidly (and only up to two
+doses given), no prior adjustment of CYP  substrates  is  needed.
+But  the  effect of acute COVID‐19 infection on drugs with narrow
+therapeutic index is unclear.9 TCZ may decrease blood  levels  of
+carbamazepine,  which  may  require dose Caution is required when
+co‐administering with myelotoxic drugs such as clozapine or  car‐
+bamazepine due to the potential additive haematological toxicity.
+No clinically significant effect on QT prolongation was  observed
+in  healthy  subjects.9 Other drugs Intravenous immunoglobulin is
+being trialled in some patients with COVID‐19; however, there are
+no data to support this. Angiotensin‐II receptor antagonists such
+as losartan are being investigated as a potential  treatment  be‐
+cause  it  is  thought  that  the angiotensin‐converting enzyme‐2
+(ACE2) receptor is the main binding site for the virus.35,36  Re‐
+ported dosage has been: The initial dose should be 48 mg/kg, with
+the recommended dosage being 400 mg; Dilute with 0.9%  saline  to
+100  ml  and infuse over the course of more than 1 h; Repeat once
+after 12 h (same dosage) if the response to the  first  dose  was
+poor,  maximum  two  cumulative doses; Single maximum dose is 800
+mg.  Drug interactions. TCZ has no direct inhibitory or  inducing
+effects on CYP enzymes per se.  However, it reverses IL‐6 induced
+suppression of cytochromes (elevation of IL‐6 during inflammation
+has been shown to inhibit CYP 3A4, CYP2C19, CUP2C9 and CYP1A2 ac‐
+tivity, resulting in higher drug exposure  of  substrate  drugs),
+which,  prior to treatment with TCZ, has been adjusted to the me‐
+tabolism of individuals. When treatment with TCZ is started,  cy‐
+tochrome activity normalises, thus leading to reduced exposure of
+drugs, which, prior to treatment, had been adjusted to the metab‐
+olism of individuals with the rheumatic disease that it is usual‐
+ly used for.9 In addition, researchers at the Murdoch set to con‐
+duct a randomised, multi‐centre clinical trial to test the use of
+tuberculosis vaccine BCG against Covid‐19. The BRACE trial is in‐
+tended  for  healthcare  workers.  It  is based on previous study
+findings that BCG decreases the level of virus  in  patients  in‐
+fected by viruses similar to SARS‐CoV‐2.49 BCG vaccines heterolo‐
+gous beneficial effect  against  non‐tuberculosis  infections  is
+well  known.  The  vaccine  works on the innate immune system and
+produces a memory like  response  termed  trained  immunity  that
+helps  in  faster  recognition, triggering a quicker inflammatory
+response. Recent studies have also suggested that it has the  po‐
+tential  to  protect  against  experimental infection with yellow
+fever vaccine strain and to enhance  immune  responses  to  other
+vaccines  in  general  including influenza vaccination.50 We urge
+clinicians to exercise significant caution in the use of  any  of
+the  previously mentioned medications even on a compassionate‐use
+basis in the absence of adequately powered and/or  D  Bishara,  C
+Kalafatis  et al.  trials for the treatment of COVID‐19 patients.
+An even higher threshold of vigilance should  be  maintained  for
+patients  with  pre‐existing  conditions  and older adults due to
+added toxicity and many psychotropic  agents  can  interact  with
+agents  used  in COVID‐19, leading to serious adverse effects in‐
+cluding QTc prolongation thus increasing the risk of torsades  de
+pointes  and  bone  marrow  suppression. Identifying and avoiding
+these interactions can be vital to improving survival in COVID‐19
+patients.   Conflict  of  interest  statement Delia Bishara David
+Taylor 1. Kalil AC. Treating COVID‐19‐off‐label drug use, compas‐
+sionate  use,  and  randomized  2. Sayburn A. Covid‐19: trials of
+four potential treatments to generate robust data of what  works.
+BMJ  2020;  368:  m1206.   3.  Recovery: Randomised Evaluation of
+COVID19 Therapy. This nation clinical  trials  aims  to  identify
+treatments  that  may  be  beneficial  for 4. Medicines Complete.
+Stockleys interactions  checker,  stockleys‐interactions‐checker/
+(accessed  06  May  5.  HIV  Drug  Interactions.  Interaction 10.
+Medicines.org.uk. Azithromycin 250mg capsules.   PROPS  (accessed
+02 April 2020).  prevention of coronavirus disease (COVID‐19) 12.
+Expert consensus on chloroquine phosphate for  the  treatment  of
+novel  coronavirus  pneumonia.   Zhonghua  Jie He He Hu Xi Za Zhi
+2020; 43: 13. Gautret P, Lagier JC, Parola P,  et  al.   Hydroxy‐
+chloroquine  and azithromycin as a treatment of COVID‐19: results
+of an open‐label non‐randomized clinical trial. Int J  Antimicrob
+14.  Molina  JM,  Delaugerre  C,  Goff JL, et al.  No evidence of
+rapid antiviral clearance or clinical benefit with  the  combina‐
+tion  of hydroxychloroquine and azithromycin in patients with se‐
+vere COVID‐19 Infection, Med Mal 15. Chen J, Liu D, Liu L, et al,
+A pilot study of hydroxychloroquine in treatment of patients with
+common coronavirus disease‐19 (COVID‐19).  J Zhejiang Univ  2020;
+49:  215219.   16.  Chen Z, Hu J, Zhang Z, et al. Efficacy of hy‐
+droxychloroquine in patients with COVID‐19: results of a  random‐
+ized  clinical  trial. medRxiv 17. Chorin E, Dai M, Shulman E, et
+al. The QT interval in patients with SARS‐CoV‐2 infection treated
+with  hydroxychloroquine/azithromycin.   Therapeutic  Advances in
+Psychopharmacology 10 18. BMJ. Rapid response:  use  of  hydroxy‐
+chloroquine  19.  Schrezenmeier E and Dorner T. Mechanisms of ac‐
+tion of  hydroxychloroquine  and  chloroquine:  implications  for
+rheumatology.  Nat Rev 20. Zhou D, Dai SM and Tong Q. COVID‐19: a
+recommendation to examine the  effect  of  hydroxychloroquine  in
+preventing  infection  and  21.  U.S. Food & Drug Administration.
+Hydrochloroquine or chloroquine for COVID‐19: drug safety  commu‐
+nication
+ FDA  cautions  against  use outside of the hospital setting or a
+clinical   trial   due   to    hydroxychloroquine‐or‐chloroquine‐
+covid‐19drug‐safety‐communication‐fda‐cautions‐againstuse    (ac‐
+cessed 02 May 2020).  22. Liu X, Li Z, Liu Z,  et  al.  Potential
+therapeutic  effects of dipyridamole in the severely ill patients
+product/3557/smpc (accessed 05 May 2020).  dipyridamole.html (ac‐
+cessed 05 May 2020).  31. Cai Q, Yang M, Liu D, et al. Experimen‐
+tal treatment with favipiravir for COVID‐19: an  open‐label  con‐
+trol  study.  Engineering  (Beijing).   32.  Young  BE,  Ong SWX,
+Kalimuddin S, et al.  Epidemiologic features and clinical  course
+of  patients  infected  with SARS‐CoV‐2 in Singapore.  33. Cao B,
+Wang Y, Wen D, et al. A trial  of  lopinavirritonavir  in  adults
+hospitalized  with 34. Medicines.org.uk. Norvir 100mg film‐coated
+product/510/smpc (accessed 03 March 2020).  35. Rossignol JF. Ni‐
+tazoxanide:  a  first‐in‐class broadspectrum antiviral agent. An‐
+tivir Res 2014; 110: 36. Padmanabhan S. Potential dual  therapeu‐
+tic  approach  against  SARS‐CoV‐2/COVID‐19 with Nitazoxanide and
+Hydroxychloroquine. 2020.  37. Yao X, Ye F, Zhang M,  et  al.  In
+vitro  antiviral  activity and projection of optimized dosing de‐
+sign of hydroxychloroquine for the treatment of severe acute res‐
+piratory  syndrome  coronavirus  2 (SARS‐CoV‐2). Clin Infect Dis.
+38. Wang M, Cao R, Zhang L, et al. Remdesivir and chloroquine ef‐
+fectively   inhibit   the   recently  emerged  novel  coronavirus
+(2019‐nCoV) in vitro.  Cell Res 2020;  30:  269271.   PROPS  (ac‐
+cessed  05  May  2020).   city=&dist=&Search=Search  (accessed 27
+March 27. Borrell B. New York clinical trial quietly tests heart‐
+burn  remedy  against  coronavirus. Science, 29. Taylor D, Barnes
+TRE and Young AH. The Maudsley prescribing guidelines in psychia‐
+try.  13th  ed. Hoboken, NJ: Wiley, 2018.  40. BMJ Best Practice.
+Coronavirus disease 2019 41. Grein J, Norio Ohmagari N,  Shin  D,
+et al.  Compassionate use of remdesivir for patients D Bishara, C
+Kalafatis et al.  alphain in patients with mild to moderate novel
+coronavirus  pneumonia.  Chin  Med J (Engl) 2020; 42. Gilead sci‐
+ences initiates two phase 3 studies of investigational  antiviral
+remdesivir  for  the  gilead‐sciences‐initiates‐two‐phase‐3‐stud‐
+iesof‐investigational‐antiviral‐remdesivir‐for‐thetreatment‐of‐
+covid‐19  (accessed  27  March 2020).  46. Medicines.org.uk. Rib‐
+avirin 200mg film‐coated product/7108/smpc.  (accessed  28  March
+2020).         news‐releases/nih‐clinical‐trial‐remdesivir‐treat‐
+covid‐19‐begins  (accessed  27  March  2020).   44.  MedicineNet.
+Remdesivir  (RDV): experimental remdesivir_rdv (accessed 27 March
+2020).  48. Ritchie AI and Singanayagam A. Immuno suppression for
+hyperinflammation in COVID‐19: a double‐edged sword? Lancet 2020;
+395: 1111.  45. Zeng YM, Xu XL, He XQ, et al. Comparative  effec‐
+tiveness   and   safety   of   ribavirin   plus  interferonalpha,
+lopinavir/ritonavir  plus  interferon‐alpha  and  ribavirin  plus
+lopinavir/ritonavir  plus  interferon‐ healthcare workers against
+COVID‐19 (BRACE), 50. Mahase E. Covid‐19: what treatments are be‐
+ing investigated? BMJ 2020; 368: m1252.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

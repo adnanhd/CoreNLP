@@ -1,310 +1,330 @@
-BRIEF COMMUNICATION
-Chronic heart diseases as the most prevalent comorbidities
-among deaths by COVID-19 in Brazil
-Julianne Pachiega 1, Alexandre Jos dos Santos Afonso 1, Gssica Thas
-Sinhorin 1, Bianca Teshima de Alencar 2, Marta dos Santos Miranda de
-Arajo 3, Fabiana Gulin Longhi 4, Andernice dos Santos Zanetti 3, Omar
-Ariel Espinosa 5
-Universidade do Estado de Mato Grosso,
-Faculdade de Cincias da Sade,
-Departamento de Medicina, Cceres, Mato
-Grosso, Brazil
-Universidade do Estado de Mato Grosso,
-Faculdade de Cincias da Sade,
-Departamento de Enfermagem, Cceres,
-Mato Grosso, Brazil
-Universidade do Estado de Mato Grosso,
-Faculdade de Cincias Agrrias e
-Biolgicas, Programa de Ps-Graduao
-em Cincias Ambientais, Cceres, Mato
-Grosso, Brazil
-Age, sex and presence of comorbidities are risk factors associated with COVID-19.
-Hypertension, diabetes and heart disease are the most common comorbidities in patients
-with COVID-19. The objective of this study was to estimate the prevalence of patients with
-comorbidities who died of COVID-19 in Brazil. Searches of data were carried out on the
-method was used to calculate the prevalence of patients with comorbidities who died. From
-the beginning of the pandemic in Brazil until May 20, 2020, 276,703 cases of COVID-19 were
-notified in Brazil, 6.4% died, 58.6% of whom were male. The prevalence of comorbidities
-among deaths was 83% (95% CI: 79 - 87), with heart disease and diabetes being the most
-prevalent. To our knowledge, this study represents the first large analysis of cases of patients
-with confirmed COVID-19 in Brazil. There is a high prevalence of comorbidities (83%)
-among patients who died from COVID-19 in Brazil, with heart disease being the most
-prevalent. This is important considering the possible secondary effects produced by drugs
-such as hydroxychloroquine.
-KEYWORDS: COVID-19. Prevalence. Deaths. Comorbidities. Brazil. Heart disease.
-Centro de Excelncia do Instituto Joanna
-Briggs, Centro Brasileiro para o Cuidado
- Sade Informado por Evidncias, So
-Paulo, So Paulo, Brazil
-Faculdade do Pantanal, Cceres, Mato
-Grosso, Brazil
-Correspondence to: Omar Ariel Espinosa
-Faculdade do Pantanal, Av. So Luiz, 2522,
-CEP 78200-000, Cceres, MT, Brazil
-The coronavirus disease 2019 (COVID-19) pandemic has infected more than
-seven million people worldwide in 216 countries, and, until Jun 16, 2020, it had
-caused over four hundred thousand deaths1. Its etiological agent is the severe acute
-respiratory syndrome coronavirus 2 (SARS-CoV-2), transmitted by contact with an
-infected person or contaminated fluids2,3.
-A multicenter cohort study showed that gender and advanced age are
-significantly correlated with COVID-19 and these findings are consistent with the
-higher incidence among older people and men4. Another study observed that the
-presence of any comorbidity increases the patients risk of developing respiratory
-distress, possibly leading to an intensive care unit (ICU) hospitalization and/or
-death5,6. Cardiovascular diseases, diabetes, hypertension, and chronic obstructive
-pulmonary disease are among the most prevalent comorbidities in COVID-19
-In Brazil, the first confirmed case of COVID-19 was reported on February 26,
-20208, and the first known death was reported 20 days later, on March 17. Until
-Pachiega et al.
-June 21, the country had confirmed 1,073,376 cases and
-50,182 deaths, with an incidence of 5.08 cases per million
-This study aimed to estimate the prevalence of patients
-with comorbidities that died of COVID-19 in the Brazilian
-Federative Units.
-Data were extracted from the bulletin on the
-epidemiological situation of COVID-19, made available
-by each of the 26 Brazilian States and the Federal District,
-on their official websites. The obtained data were evaluated
-according to the following variables: confirmed cases,
-ICU hospitalizations and deaths. The epidemiological and
-clinical profiles of the deaths cases were also described,
-considering sex, age, and the presence and type of
-comorbidities, respectively.
-Because not all States reported the presence of
-comorbidities in fatal cases, the random-effects model to
-estimate the pooled prevalence of comorbidities in deaths
-and their respective confidence intervals (CI) of 95%, was
-used. The heterogeneity of prevalence was analyzed by State
-using the Higgins test (I2), which presents the percentage
-of variation across them. These analyses were performed
-using the Stata statistical software, version 12 (Stata Corp
-LLC, Texas, USA).
-Data collection from the official websites of each State
-Health Department took place from the beginning of the
-pandemic in Brazil to May 20, 2020. During this period, we
-found 276,703 reported cases of COVID-19, among which
-11,278 (4.8%) were admitted to ICU, and 17,752 (6.4%)
-cases resulted in deaths.
-When analyzing ICU hospitalization percentage by
-State, Rio de Janeiro (23.3%) and Minas Gerais (19.6%)
-The States with the highest death percentages were:
-Rio de Janeiro (10.7%), Para (9.4%), Sao Paulo (7.8%),
-Pernambuco (8.1%), Amazonas (6.9%) and Parana (5.2%).
-Regarding the epidemiological profile of fatal cases,
-22 States segregated a total of 7,531 cases by sex, of which
-58.6% were male and 41.4% female. The age of the death
-cases was reported only in epidemiological bulletins of
-25 States. From 17,752 cases of death, only in 14,728
-(83%) the age was reported, the population over 60 years
-the clinical profile was only reported in 2,116 deaths (12%)
-from 15 States, 1,768 of which presented comorbidities,
-The clinical descriptions of the comorbidities in the
-death cases were extracted from the epidemiological
-bulletins of each State, which reported diseases grouped
-according to: Chronic Heart Diseases, Diabetes, Chronic
-Lung Diseases (including Chronic Obstructive Pulmonary
-Disease and asthma), Chronic Kidney Diseases, Stroke,
-Hypertension, Obesity, Immunosuppressive Diseases,
-Chronic Liver Diseases, Cancer, Digestive System Diseases,
-Pneumonia, Hematological diseases, Tuberculosis,
-Metabolic Diseases (different than diabetes), Smoking
-habit, Others (not specified).
-Among the cases of death, that showed one or more
-previous diseases, a total of 14,737 comorbidities were
-recorded. The most prevalent comorbidities found were:
-35% chronic heart diseases, 28.7% diabetes, 8.2%
-chronic lung diseases (including asthma and Chronic
-Obstructive Pulmonary Disease), 5.9% kidney diseases,
-5.3% stroke, 5.1% hypertension, 4.4% obesity, and 3.8%
-To our knowledge, this study represents the first large
-analysis of cases of sequentially patients with confirmed
-COVID-19 in Brazil. By June 21, 2020, Brazil was the
-second country in number of confirmed cases of COVID-19,
-reporting over a million cases of confirmed COVID-19 and
-our analysis included approximately a quarter of these cases.
-As in different parts of the world, a higher prevalence in
-men and people aged 60 years or in elderly people were
-found among deaths by COVID-199-11.
-We found that 4.8% of COVID-19 patients were
-admitted to ICU, a percentage comparable with a previous
-study conducted in the United States of America (USA)
-that analyzed 74,439 COVID-19 patients, among whom
-1.4% required ICU12. Data collected from 138 patients in
-China showed that 26% were admitted to ICUs13. Thus,
-States such as Rio de Janeiro and Minas Gerais, with the
-highest hospitalization percentages in the country (23.3%
-and 19.6%, respectively), should strengthen measures to
-avoid the collapse of their hospitals intensive care units.
-By June 21, 2020, Brazil has exceeded 50,000
-deaths, a mark, so far, reached by only two countries
-worldwide. Considering that, Rio de Janeiro, Para, Sao
-Paulo, Pernambuco, and Amazonas, which present higher
-percentages than that calculated for the overall country,
-represent a great national concern. When dealing with the
-COVID-19 pandemic, mortality, as well as establishing
-priorities for controlling it, is the most important concern.
-Chronic heart diseases as the most prevalent comorbidities among deaths by COVID-19 in Brazil
-State of Brazil, until May 20, 2020.
-Prevalence of
-> 60 years > 60 years comorbidities
-among deaths
-Source: The epidemiological and clinical profiles of confirmed and deaths cases of COVID-19 were obtained through the bulletin
-information on the epidemiological situation of COVID-19, which each Brazilian State makes available on its official websites.
-ICUs = Patients admitted to intensive care units; 95% CI = 95% confidence interval; N.S. = Not specified. AC (Acre); AL (Alagoas);
-AP (Amapa); AM (Amazonas); BA (Bahia); CE (Ceara); DF (Distrito Federal); ES (Espirito Santo); GO (Goias); MA (Maranhao);
-MT (Mato Grosso); MS (Mato Grosso do Sul); MG (Minas Gerais); PA (Para); PB (Paraiba); PR (Parana); PE (Pernambuco);
-PI (Piaui); RJ (Rio de Janeiro); RN (Rio Grande do Norte); RS (Rio Grande do Sul); RO (Rondonia); RR (Roraima); SC (Santa
-Catarina); SP (Sao Paulo). SE (Sergipe); TO (Tocantins).
-The capacity of the healthcare system thus becomes a major
-issue, especially considering that the number of confirmed
-cases in communities is rapidly increasing, as is the case
-in Brazil.
-The pooled prevalence of comorbidities in deaths
-by COVID-19 in Brazil was 83% (95% CI: 79  87).
-Previous studies conducted in Korea (90.7%) and China
-(68.2%) warned about a higher prevalence of severe
-acute respiratory syndrome caused by SARS-CoV-2
-among patients with comorbidities11,14. They also point
-hypertension, cardiovascular diseases, and diabetes as the
-main comorbidities among deaths by the disease. Several
-Deaths by
-studies suggest that hypertension is the most common
-comorbidity in COVID-19 patients15. Likewise, a metaanalysis carried out recently by our team showed that
-hypertension is the most prevalent comorbidity among
-deaths from COVID-19, followed by diabetes and chronic
-heart diseases ranking third16. Now, in Brazil we found
-that the main comorbidities among deaths are chronic
-heart diseases and diabetes. The third most common
-comorbidity were the chronic lung diseases, followed by
-chronic kidney diseases, stroke, hypertension, obesity
-and immunosuppressive diseases which may include HIV
-infection and organ transplant patients.
-Pachiega et al.
-due to COVID-19 from May 9 to 20, 2020 in Brazil.
-Chronic Heart Diseases
-Chronic Lung Diseases
-Chronic Kidney Diseases
-Immunosuppressive Diseases
-Chronic Liver Diseases
-Digestive System Diseases
-Hematological diseases
-Metabolic Diseases
-Smoking habit
-Source: Clinical profiles of confirmed and deaths cases by
-COVID-19. were obtained through the bulletin information about
-the epidemiological situation of COVID-19, which each Brazilian
-state makes available on its official websites.
-The epidemiological bulletins of each State do not
-specify what were the chronic heart diseases of patients
-who died from COVID-19, although this group may
-include patients with coronary heart disease, arrhythmias,
-infarction, patients with pacemakers and others. Our
-results showed that this group of comorbidities was the
-most important in the population studied, and this is an
-important finding, because the Ministry of Health defends
-the use of hydroxychloroquine for treating COVID-19.
-A recent study claims that some cardiac manifestations,
-such as cardiac arrhythmias, and even conduction
-disorders without repercussion, may represent the initial
-manifestations of toxicity related to chloroquine or
-hydroxychloroquine17. Therefore, the use of these drugs
-can lead to serious complications and even death in
-patients with previous heart disease. On the other hand,
-the use of these drugs as post exposure prophylaxis (PEP),
-has also proved unsuccessful18.
-Some difficulties to develop this study were found.
-Firstly, not every Health Department updates their
-epidemiological bulletins daily, so the updating of data on
-a daily basis was unfeasible. Secondly, the epidemiological
-bulletins were not standardized, not all of them provide
-epidemiological data such as age, nor clinical data such as
-the presence of comorbidities, which impaired the collection
-of complete data. Thirdly, many epidemiological bulletins
-provide information only as graphics and the absolute
-numbers were lacking, hampering data replication. Finally,
-each Secretariat reported different age groups, which
-impaired the comparisons among them.
-We concluded that there is a high prevalence of
-comorbidities among deaths by COVID-19, affecting
-mainly men aged over 60 years. The group of chronic
-heart diseases and diabetes were the main comorbidities
-among these patients and this is relevant considering
-the possible adverse effects produced by drugs such as
-hydroxychloroquine. On the other hand, we recommend
-conducting studies based on medical records analyzes, with
-the purpose of knowing specifically the proportion of each
-heart disease in patients affected by COVID-19.
-Acknowledging such factors may help to better defining
-the risks of death among these COVID-19 patients,
-enabling a more targeted and specific approach to avoid
-probable deaths. In a scenario without effective antivirals
-or vaccines available, governments should apply continuous
-countermeasures for different pandemic situations to reduce
-mortality, especially in States with high percentages of ICU
-hospitalization and deaths.
-AUTHORS CONTRIBUTIONS
-JP, AJSA, GTS, BTA, MSMA and FGL contributed to
-data collection and analysis, and drafting the first version
-conception and design, data analysis and interpretation,
-themselves responsible for all aspects of the work,
-guaranteeing their accuracy and integrity.
-CONFLICT OF INTERESTS
-1. World Health Organization. Coronavirus disease 2019
-(COVID-19): situation report  124. [cited 2020 Jun 22].
-2. Gorbalenya AE, Baker SC, Baric RS, de Groot RJ, Drosten
-C, Gulyaeva AA, et al. The species severe acute respiratory
-Chronic heart diseases as the most prevalent comorbidities among deaths by COVID-19 in Brazil
-syndrome-related coronavirus: classifying 2019-nCoV and
-11. Korean Society of Infectious Diseases, Korea Centers for
-naming it SARS-CoV-2. Nat Microbiol. 2020;5:536-44.
-Disease Control and Prevention. Analysis on 54 mortality
-3. Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A
-familial cluster of pneumonia associated with the 2019 novel
-from January 19 to March 10, 2020. J Korean Med Sci.
-coronavirus indicatingperson-to-person transmission: a study
-of a family cluster. Lancet. 2020;395:514-23.
-4. Cai H. Sex difference and smoking predisposition in patients with
-COVID-19. Lancet Respir Med. 2020;8:e20.
-5. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al.
-Epidemiological and clinical characteristics of 99 cases of 2019
-novel coronavirus pneumonia in Wuhan, China: a descriptive
-study. Lancet. 2020;395:507-13.
-6. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical
-characteristics of 138 hospitalized patients with 2019 novel
-coronavirus-infected pneumonia in Wuhan, China. JAMA.
-7. Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, et al. Prevalence
-of comorbidities and its effects in coronavirus disease 2019
-8. Brasil. Ministrio da Sade. Secretaria de Vigilncia em Sade.
-12. CDC COVID-19 Response Team. Preliminary estimates of the
-prevalence of selected underlying health conditions among
-patients with coronavirus disease 2019 - United States,
-February 12-March 28, 2020. MMWR Morb Mortal Wkly
-13. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical
-characteristics of 138 hospitalized patients with 2019 novel
-coronavirus-infected pneumonia in Wuhan, China. JAMA.
-14. Du Y, Tu L, Zhu P, Mu M, Wang R, Yang P, et al. Clinical
-features of 85 fatal cases of COVID-19 from Wuhan: a
-retrospective observational study. Am J Respir Crit Care Med.
-15. Wang B, Li R, Lu Z, Huang Y. Does comorbidity increase the
-risk of patients with COVID-19: evidence from meta-analysis.
-Aging (Albany NY). 2020;12:6049-57.
-Boletim Epidemiolgico Especial COE-COVID19. Braslia:
-16. Espinosa OA, Zanetti AS, Antunes EF, Longhi FG, Matos TA,
-Ministrio da Sade; 2020. [cited 2020 Jun 22]. Available
-Battaglini PF. Prevalence of comorbidities in patients and
-9. Du RH, Liu LM, Yin W, Wang W, Guan LL, Yuan ML, et al.
-17. Chatre C, Roubille F, Vernhet H, Jorgensen C, Pers YM.
-Hospitalization and critical care of 109 decedents with
-Cardiac complications attributed to chloroquine and
-COVID-19 pneumonia in Wuhan, China. Ann Am Thorac Soc.
-2020 In Press.
-Drug Saf. 2018;41:919-31.
-10. Chen T, Dai Z, Mo P, Li X, Ma Z, Song S, et al. Clinical
-18. Boulware DR, Pullen MF, Bangdiwala AS, Pastick KA,
-characteristics and outcomes of older patients with coronavirus
-Lofgren SM, Okafor EC, et al. A randomized trial of
-disease 2019 (COVID-19) in Wuhan, China (2019): a single-
-hydroxychloroquine as postexposure prophylaxis for Covid-19.
-centered, retrospective study. J Gerontol A Biol Sci Med Sci.
-N Engl J Med. 2020 In Press.
-2020:glaa089 In Press.
+BRIEF  COMMUNICATION Chronic heart diseases as the most prevalent
+comorbidities among deaths by COVID‐19 in Brazil Julianne Pachie‐
+ga  1, Alexandre Jos dos Santos Afonso 1, Gssica Thas Sinhorin 1,
+Bianca Teshima de Alencar 2, Marta dos Santos Miranda de Arajo 3,
+Fabiana  Gulin  Longhi  4,  Andernice  dos Santos Zanetti 3, Omar
+Ariel Espinosa 5 Universidade do Estado de Mato Grosso, Faculdade
+de  Cincias  da  Sade,  Departamento  de  Medicina,  Cceres, Mato
+Grosso, Brazil Universidade do Estado de Mato  Grosso,  Faculdade
+de  Cincias  da  Sade,  Departamento  de Enfermagem, Cceres, Mato
+Grosso, Brazil Universidade do Estado de Mato  Grosso,  Faculdade
+de Cincias Agrrias e Biolgicas, Programa de Ps‐Graduao em Cincias
+Ambientais, Cceres, Mato Grosso, Brazil Age, sex and presence  of
+comorbidities  are risk factors associated with COVID‐19.  Hyper‐
+tension, diabetes and heart disease are the  most  common  comor‐
+bidities  in  patients with COVID‐19. The objective of this study
+was to estimate the prevalence of patients with comorbidities who
+died  of COVID‐19 in Brazil. Searches of data were carried out on
+the method was used to calculate the prevalence of patients  with
+comorbidities  who  died.  From  the beginning of the pandemic in
+Brazil until May 20, 2020, 276,703 cases of COVID‐19  were  noti‐
+fied  in  Brazil,  6.4% died, 58.6% of whom were male. The preva‐
+lence of comorbidities among deaths was 83% (95% CI:  79  ‐  87),
+with  heart disease and diabetes being the most prevalent. To our
+knowledge, this study represents the first large analysis of cas‐
+es of patients with confirmed COVID‐19 in Brazil. There is a high
+prevalence of comorbidities (83%) among patients  who  died  from
+COVID‐19  in Brazil, with heart disease being the most prevalent.
+This is important considering the possible secondary effects pro‐
+duced  by  drugs such as hydroxychloroquine.  KEYWORDS: COVID‐19.
+Prevalence. Deaths. Comorbidities. Brazil. Heart disease.  Centro
+de Excelncia do Instituto Joanna Briggs, Centro Brasileiro para o
+Cuidado
+ Sade Informado por Evidncias, So Paulo, So Paulo, Brazil  Facul‐
+dade  do Pantanal, Cceres, Mato Grosso, Brazil Correspondence to:
+Omar Ariel Espinosa Faculdade do Pantanal, Av. So Luiz, 2522, CEP
+78200‐000,  Cceres,  MT,  Brazil  The  coronavirus  disease  2019
+(COVID‐19) pandemic has infected more than seven  million  people
+worldwide  in  216  countries,  and,  until  Jun 16, 2020, it had
+caused over four hundred thousand deaths1. Its etiological  agent
+is  the  severe  acute  respiratory syndrome coronavirus 2 (SARS‐
+CoV‐2), transmitted by contact with an infected person or contam‐
+inated  fluids2,3.  A multicenter cohort study showed that gender
+and advanced age are significantly correlated with  COVID‐19  and
+these  findings  are  consistent  with the higher incidence among
+older people and men4. Another study observed that  the  presence
+of any comorbidity increases the patients risk of developing res‐
+piratory distress, possibly leading to  an  intensive  care  unit
+(ICU)  hospitalization  and/or death5,6. Cardiovascular diseases,
+diabetes, hypertension, and chronic obstructive pulmonary disease
+are among the most prevalent comorbidities in COVID‐19 In Brazil,
+the first confirmed case of COVID‐19 was reported on February 26,
+20208,  and  the first known death was reported 20 days later, on
+March 17. Until Pachiega et al.  June 21, the  country  had  con‐
+firmed  1,073,376  cases  and 50,182 deaths, with an incidence of
+5.08 cases per million This study aimed to  estimate  the  preva‐
+lence of patients with comorbidities that died of COVID‐19 in the
+Brazilian Federative Units.  Data were extracted  from  the  bul‐
+letin  on  the epidemiological situation of COVID‐19, made avail‐
+able by each of the 26 Brazilian States and the Federal District,
+on  their official websites. The obtained data were evaluated ac‐
+cording to the following variables: confirmed cases,  ICU  hospi‐
+talizations and deaths. The epidemiological and clinical profiles
+of the deaths cases were also described,  considering  sex,  age,
+and  the  presence  and type of comorbidities, respectively.  Be‐
+cause not all States reported the presence  of  comorbidities  in
+fatal  cases,  the  random‐effects  model  to estimate the pooled
+prevalence of comorbidities in deaths and their respective confi‐
+dence  intervals  (CI)  of  95%,  was  used. The heterogeneity of
+prevalence was analyzed by State using  the  Higgins  test  (I2),
+which  presents  the  percentage  of variation across them. These
+analyses were performed using  the  Stata  statistical  software,
+version  12  (Stata  Corp LLC, Texas, USA).  Data collection from
+the official websites of each State Health Department took  place
+from  the  beginning  of  the pandemic in Brazil to May 20, 2020.
+During this period, we found 276,703 reported cases of  COVID‐19,
+among which 11,278 (4.8%) were admitted to ICU, and 17,752 (6.4%)
+cases resulted in deaths.   When  analyzing  ICU  hospitalization
+percentage  by  State,  Rio  de  Janeiro (23.3%) and Minas Gerais
+(19.6%) The States with the highest death percentages  were:  Rio
+de  Janeiro  (10.7%),  Para  (9.4%), Sao Paulo (7.8%), Pernambuco
+(8.1%), Amazonas (6.9%) and Parana (5.2%).   Regarding  the  epi‐
+demiological profile of fatal cases, 22 States segregated a total
+of 7,531 cases by sex, of which 58.6% were male and 41.4% female.
+The  age  of the death cases was reported only in epidemiological
+bulletins of 25 States. From  17,752  cases  of  death,  only  in
+14,728  (83%)  the age was reported, the population over 60 years
+the clinical profile was only reported in 2,116 deaths (12%) from
+15  States,  1,768 of which presented comorbidities, The clinical
+descriptions of the comorbidities in the  death  cases  were  ex‐
+tracted  from  the epidemiological bulletins of each State, which
+reported diseases grouped according to: Chronic  Heart  Diseases,
+Diabetes,  Chronic  Lung  Diseases (including Chronic Obstructive
+Pulmonary Disease and asthma), Chronic Kidney  Diseases,  Stroke,
+Hypertension,  Obesity, Immunosuppressive Diseases, Chronic Liver
+Diseases, Cancer, Digestive System Diseases,  Pneumonia,  Hemato‐
+logical  diseases,  Tuberculosis,  Metabolic  Diseases (different
+than diabetes), Smoking habit, Others (not specified).  Among the
+cases  of death, that showed one or more previous diseases, a to‐
+tal of 14,737 comorbidities were recorded. The most prevalent co‐
+morbidities  found  were:  35% chronic heart diseases, 28.7% dia‐
+betes, 8.2% chronic lung diseases (including asthma  and  Chronic
+Obstructive   Pulmonary  Disease),  5.9%  kidney  diseases,  5.3%
+stroke, 5.1% hypertension, 4.4% obesity, and 3.8% To  our  knowl‐
+edge,  this study represents the first large analysis of cases of
+sequentially patients with confirmed COVID‐19 in Brazil. By  June
+21,  2020,  Brazil  was the second country in number of confirmed
+cases of COVID‐19, reporting over a million  cases  of  confirmed
+COVID‐19  and  our  analysis  included approximately a quarter of
+these cases.  As in different parts of the world, a higher preva‐
+lence  in  men and people aged 60 years or in elderly people were
+found among deaths  by  COVID‐199‐11.   We  found  that  4.8%  of
+COVID‐19  patients  were admitted to ICU, a percentage comparable
+with a previous study conducted in the United States  of  America
+(USA) that analyzed 74,439 COVID‐19 patients, among whom 1.4% re‐
+quired ICU12. Data collected from 138 patients  in  China  showed
+that  26%  were  admitted  to ICUs13. Thus, States such as Rio de
+Janeiro and Minas Gerais, with the highest  hospitalization  per‐
+centages  in  the country (23.3% and 19.6%, respectively), should
+strengthen measures to avoid the collapse of their hospitals  in‐
+tensive care units.  By June 21, 2020, Brazil has exceeded 50,000
+deaths, a mark, so far, reached by only two countries  worldwide.
+Considering  that,  Rio  de Janeiro, Para, Sao Paulo, Pernambuco,
+and Amazonas, which present higher percentages than  that  calcu‐
+lated  for  the  overall country, represent a great national con‐
+cern. When dealing with the COVID‐19 pandemic, mortality, as well
+as establishing priorities for controlling it, is the most impor‐
+tant concern.  Chronic heart diseases as the most  prevalent  co‐
+morbidities  among  deaths by COVID‐19 in Brazil State of Brazil,
+until May 20, 2020.  Prevalence of > 60 years > 60  years  comor‐
+bidities  among  deaths  Source: The epidemiological and clinical
+profiles of confirmed and deaths cases of COVID‐19 were  obtained
+through the bulletin information on the epidemiological situation
+of COVID‐19, which each Brazilian State makes  available  on  its
+official  websites.   ICUs  = Patients admitted to intensive care
+units; 95% CI = 95% confidence interval; N.S. = Not specified. AC
+(Acre);  AL  (Alagoas); AP (Amapa); AM (Amazonas); BA (Bahia); CE
+(Ceara); DF (Distrito Federal); ES (Espirito Santo); GO  (Goias);
+MA (Maranhao); MT (Mato Grosso); MS (Mato Grosso do Sul); MG (Mi‐
+nas Gerais); PA (Para); PB (Paraiba); PR (Parana); PE  (Pernambu‐
+co);  PI  (Piaui); RJ (Rio de Janeiro); RN (Rio Grande do Norte);
+RS (Rio Grande do Sul); RO (Rondonia); RR  (Roraima);  SC  (Santa
+Catarina); SP (Sao Paulo). SE (Sergipe); TO (Tocantins).  The ca‐
+pacity of the healthcare system thus becomes a major issue, espe‐
+cially considering that the number of confirmed cases in communi‐
+ties is rapidly increasing, as is the case in Brazil.  The pooled
+prevalence  of  comorbidities in deaths by COVID‐19 in Brazil was
+83% (95% CI:  79   87).   Previous  studies  conducted  in  Korea
+(90.7%) and China (68.2%) warned about a higher prevalence of se‐
+vere acute respiratory syndrome caused by  SARS‐CoV‐2  among  pa‐
+tients  with  comorbidities11,14.  They  also point hypertension,
+cardiovascular diseases, and diabetes as the  main  comorbidities
+among  deaths  by  the disease. Several Deaths by studies suggest
+that hypertension is the most common comorbidity in COVID‐19  pa‐
+tients15.  Likewise,  a  metaanalysis carried out recently by our
+team showed that hypertension is the most  prevalent  comorbidity
+among  deaths  from  COVID‐19,  followed  by diabetes and chronic
+heart diseases ranking third16. Now, in Brazil we found that  the
+main  comorbidities  among  deaths are chronic heart diseases and
+diabetes. The third most common comorbidity were the chronic lung
+diseases,  followed by chronic kidney diseases, stroke, hyperten‐
+sion, obesity and immunosuppressive diseases  which  may  include
+HIV  infection  and  organ  transplant patients.  Pachiega et al.
+due to COVID‐19 from May 9 to 20, 2020 in Brazil.  Chronic  Heart
+Diseases Chronic Lung Diseases Chronic Kidney Diseases Immunosup‐
+pressive Diseases Chronic Liver Diseases  Digestive  System  Dis‐
+eases  Hematological  diseases  Metabolic  Diseases Smoking habit
+Source: Clinical  profiles  of  confirmed  and  deaths  cases  by
+COVID‐19.  were  obtained  through the bulletin information about
+the epidemiological situation of COVID‐19, which  each  Brazilian
+state makes available on its official websites.  The epidemiolog‐
+ical bulletins of each State do not specify what were the chronic
+heart  diseases of patients who died from COVID‐19, although this
+group may include patients with coronary heart disease,  arrhyth‐
+mias,  infarction,  patients  with pacemakers and others. Our re‐
+sults showed that this group of comorbidities was the most impor‐
+tant in the population studied, and this is an important finding,
+because the Ministry of Health defends the use of  hydroxychloro‐
+quine  for  treating  COVID‐19.   A recent study claims that some
+cardiac manifestations, such as  cardiac  arrhythmias,  and  even
+conduction disorders without repercussion, may represent the ini‐
+tial manifestations of toxicity related to chloroquine or hydrox‐
+ychloroquine17. Therefore, the use of these drugs can lead to se‐
+rious complications and even  death  in  patients  with  previous
+heart  disease. On the other hand, the use of these drugs as post
+exposure prophylaxis (PEP), has also proved unsuccessful18.  Some
+difficulties  to develop this study were found.  Firstly, not ev‐
+ery Health Department  updates  their  epidemiological  bulletins
+daily,  so  the updating of data on a daily basis was unfeasible.
+Secondly, the epidemiological bulletins  were  not  standardized,
+not  all  of  them  provide epidemiological data such as age, nor
+clinical data such as the presence of  comorbidities,  which  im‐
+paired  the  collection of complete data. Thirdly, many epidemio‐
+logical bulletins provide information only as  graphics  and  the
+absolute numbers were lacking, hampering data replication. Final‐
+ly, each Secretariat reported different  age  groups,  which  im‐
+paired  the comparisons among them.  We concluded that there is a
+high prevalence of comorbidities among deaths  by  COVID‐19,  af‐
+fecting mainly men aged over 60 years. The group of chronic heart
+diseases and diabetes were the main comorbidities among these pa‐
+tients  and this is relevant considering the possible adverse ef‐
+fects produced by drugs such as hydroxychloroquine. On the  other
+hand,  we  recommend  conducting studies based on medical records
+analyzes, with the purpose of knowing specifically the proportion
+of each heart disease in patients affected by COVID‐19.  Acknowl‐
+edging such factors may help to  better  defining  the  risks  of
+death among these COVID‐19 patients, enabling a more targeted and
+specific approach to avoid probable deaths. In a scenario without
+effective  antivirals  or  vaccines available, governments should
+apply continuous countermeasures for  different  pandemic  situa‐
+tions  to  reduce  mortality, especially in States with high per‐
+centages of ICU hospitalization and  deaths.   AUTHORS  CONTRIBU‐
+TIONS  JP,  AJSA, GTS, BTA, MSMA and FGL contributed to data col‐
+lection and analysis, and drafting the first  version  conception
+and  design, data analysis and interpretation, themselves respon‐
+sible for all aspects of the work,  guaranteeing  their  accuracy
+and  integrity.   CONFLICT OF INTERESTS 1. World Health Organiza‐
+tion. Coronavirus disease 2019 (COVID‐19): situation report  124.
+[cited  2020  Jun  22].  2. Gorbalenya AE, Baker SC, Baric RS, de
+Groot RJ, Drosten C, Gulyaeva AA, et al. The species severe acute
+respiratory  Chronic  heart diseases as the most prevalent comor‐
+bidities among deaths  by  COVID‐19  in  Brazil  syndrome‐related
+coronavirus:  classifying 2019‐nCoV and 11. Korean Society of In‐
+fectious Diseases, Korea Centers for naming  it  SARS‐CoV‐2.  Nat
+Microbiol. 2020;5:536‐44.  Disease Control and Prevention. Analy‐
+sis on 54 mortality 3. Chan JF, Yuan S, Kok KH,  To  KK,  Chu  H,
+Yang  J,  et  al. A familial cluster of pneumonia associated with
+the 2019 novel from January 19 to March 10, 2020.  J  Korean  Med
+Sci.    coronavirus  indicatingperson‐to‐person  transmission:  a
+study of a family cluster. Lancet. 2020;395:514‐23.   4.  Cai  H.
+Sex  difference  and  smoking  predisposition  in  patients  with
+COVID‐19. Lancet Respir Med. 2020;8:e20.  5. Chen N, Zhou M, Dong
+X,  Qu  J,  Gong  F,  Han Y, et al.  Epidemiological and clinical
+characteristics of 99 cases of 2019 novel  coronavirus  pneumonia
+in  Wuhan,  China:  a descriptive study. Lancet. 2020;395:507‐13.
+6. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang  J,  et  al.  Clinical
+characteristics  of  138  hospitalized  patients  with 2019 novel
+coronavirus‐infected pneumonia in Wuhan, China. JAMA.  7. Yang J,
+Zheng  Y, Gou X, Pu K, Chen Z, Guo Q, et al. Prevalence of comor‐
+bidities and its effects in coronavirus disease 2019  8.  Brasil.
+Ministrio  da  Sade.  Secretaria  de  Vigilncia em Sade.  12. CDC
+COVID‐19 Response Team. Preliminary estimates of  the  prevalence
+of  selected  underlying  health  conditions  among patients with
+coronavirus disease 2019 ‐ United States, February  12‐March  28,
+2020. MMWR Morb Mortal Wkly 13. Wang D, Hu B, Hu C, Zhu F, Liu X,
+Zhang J, et al. Clinical characteristics of 138 hospitalized  pa‐
+tients  with  2019 novel coronavirus‐infected pneumonia in Wuhan,
+China. JAMA.  14. Du Y, Tu L, Zhu P, Mu M, Wang R, Yang P, et al.
+Clinical  features  of  85  fatal cases of COVID‐19 from Wuhan: a
+retrospective observational study. Am J  Respir  Crit  Care  Med.
+15.  Wang  B,  Li R, Lu Z, Huang Y. Does comorbidity increase the
+risk of patients with COVID‐19: evidence from meta‐analysis.  Ag‐
+ing (Albany NY). 2020;12:6049‐57.  Boletim Epidemiolgico Especial
+COE‐COVID19. Braslia: 16. Espinosa OA, Zanetti  AS,  Antunes  EF,
+Longhi  FG,  Matos  TA,  Ministrio da Sade; 2020. [cited 2020 Jun
+22]. Available Battaglini PF. Prevalence of comorbidities in  pa‐
+tients  and 9. Du RH, Liu LM, Yin W, Wang W, Guan LL, Yuan ML, et
+al.  17. Chatre C, Roubille F, Vernhet H, Jorgensen C,  Pers  YM.
+Hospitalization  and  critical care of 109 decedents with Cardiac
+complications attributed to chloroquine and COVID‐19 pneumonia in
+Wuhan,  China.  Ann  Am  Thorac  Soc.   2020 In Press.  Drug Saf.
+2018;41:919‐31.  10. Chen T, Dai Z, Mo P, Li X, Ma Z, Song S,  et
+al.  Clinical  18. Boulware DR, Pullen MF, Bangdiwala AS, Pastick
+KA, characteristics and outcomes of older  patients  with  coron‐
+avirus  Lofgren  SM, Okafor EC, et al. A randomized trial of dis‐
+ease 2019 (COVID‐19) in Wuhan, China (2019): a  single‐  hydroxy‐
+chloroquine  as postexposure prophylaxis for Covid‐19.  centered,
+retrospective study. J Gerontol A Biol Sci Med  Sci.   N  Engl  J
+Med. 2020 In Press.  2020:glaa089 In Press.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

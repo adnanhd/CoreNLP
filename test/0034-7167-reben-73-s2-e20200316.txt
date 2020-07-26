@@ -1,475 +1,462 @@
-ORIGINAL ARTICLE
-Hand hygiene in high-complexity sectors as an
-integrating element in the combat of Sars-CoV-2
-Higiene das mos em setores de alta complexidade como elemento integrador no combate do Sars-CoV-2
-Higiene de las manos en sectores de alta complejidad como elemento integrador en el combate del Sras-CoV-2
-Danielle Galdino de PaulaI
-Marianna Ramos FranciscoI
-Juliana Dias FreitasII
-Renata Christine Quintella LevachofI
-Bianca de Oliveira FonsecaIII
-Objective: to perform a situational diagnosis of the behavior of health professionals
-concerning hand hygiene practices in highly-complex sectors. Methods: this quantitative
-and retrospective study was based on reports (2016 and 2017) of Adult and Pediatric ICUs
-of a Federal hospital in Rio de Janeiro. Results: one thousand two hundred fifty-eight
-opportunities for hand hygiene were analysed. The chance of professionals sanitizing
-hands in Pediatric ICUs is 41.61% higher than in Adult ICUs. Concerning proper hand
-hygiene, the medical team had a 39.44% lower chance than the nursing team. Others had
-a 30.62% lower chance when compared to the nursing team. The moment after contact
-with the patient presented 4.5275 times the chance in relation before contact with the
-patient. Conclusion: in front of hand hygiene recommendations to control COVID-19,
-diagnostic assessment and previous analysis of the behavior of professionals proved to
-be positive.
-Descriptors: SARS Virus; Hand Hygiene; Cross Infection; Intensive Care Units; Nursing.
-Bruno Francisco Teixeira SimesI
-Rafael de Lima BilioIV
-Universidade Federal do Estado do Rio de Janeiro.
-Rio de Janeiro, Rio de Janeiro, Brazil.
-Kiel, Schleswig-Holstein, Germany.
-Hospital Federal da Lagoa. Rio de Janeiro,
-Rio de Janeiro , Brazil.
-Fundao Oswaldo Cruz. Rio de Janeiro, Rio de Janeiro , Brazil.
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ,
-Fonseca BO, Simes BFT, et al. Hand hygiene in highcomplexity sectors as an integrating element in the combat
-Danielle Galdino de Paula
-EDITOR IN CHIEF: Dulce Aparecida Barbosa
-ASSOCIATE EDITOR: Antonio Jos de Almeida Filho
-Objetivo: realizar um diagnstico situacional do comportamento de profissionais de
-sade quanto s prticas de higienizao das mos em setores de alta complexidade.
-Mtodos: estudo quantitativo, retrospectivo, baseado em relatrios (anos de 2016 e 2017)
-dos setores CTI Adulto e Peditrico de um hospital Federal do Rio de Janeiro. Resultados:
-analisaram-se 1.258 oportunidades para higiene das mos. A chance de um profissional
-higienizar as mos no CTI Peditrico  41,61% maior que no CTI Adulto. Quanto higienizar
-as mos adequadamente, a equipe mdica obteve chance 39,44% menor que a equipe
-de enfermagem e outros tiveram chance 30,62% menor quando comparada  equipe da
-enfermagem. O momento aps o contato com o paciente apresentou 4,5275 vezes a
-chance em relao a antes do contato com o paciente. Concluso: frente  recomendao
-da higiene das mos no controle da COVID-19, avaliao diagnstica e anlise prvia do
-comportamento dos profissionais demonstrou ser positiva.
-Descritores: Vrus da SARS; Higiene das Mos; Infeco Hospitalar; Unidades de Terapia
-Intensiva; Enfermagem.
-Objetivo: realizar un diagnstico situacional del comportamiento de los profesionales
-de la salud con respecto a las prcticas de higiene de manos en sectores altamente
-complejos. Mtodos: estudio cuantitativo, retrospectivo, basado en informes (aos 2016 y
-2017) de los sectores de UCI Adultos y Peditricos de un hospital federal en Rio de Janeiro.
-Resultados: se analizaron 1.258 oportunidades de higiene de manos. La posibilidad de un
-lavado de manos profesional en la UCI Peditrica es 41.61% mayor que en la UCI Adultos.
-Con respecto a la higiene de las manos, el equipo mdico tuvo una probabilidad 39.44%
-menor que el equipo de enfermera y otros tuvieron una probabilidad 30.62% menor
-en comparacin con el equipo de enfermera. El momento despus del contacto con el
-paciente fue 4.5275 veces mayor que antes del contacto con el paciente. Conclusin:
-contra la recomendacin de higiene de manos en el control de COVID-19, la evaluacin
-diagnstica y el anlisis previo del comportamiento de los profesionales resultaron ser
-Descriptores: Virus del SRAS; Higiene de las Manos; Infeccin Hospitalaria; Unidades de
-Cuidados Intensivos; Enfermera.
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-The emerging COVID-19 disease caused by the Sars-CoV-2
-virus was first identified in Wuhan, China, in December 2019. The
-virus has caused a pandemic and is spreading rapidly and, in many
-countries, increased demand for health services by people with
-disease-related complications is reported, which may overwhelm/
-collapse health systems and high demand for hospitalization in
-high-complexity sectors(1).
-Studies have shown that analysis of surfaces of objects present
-in wards and toilets of patients in isolation with COVID-19 showed
-positive results of the pathogen on environmental surfaces.
-hospital bed grid, closet, chair, light switches, doors (inhaled door
-handle), windows, and toilet surfaces(2-3).
-The World Health Organization (WHO), Pan American Health
-Organization (PAHO) and government health agencies have been
-considering hand hygiene (HH) as one of the preventive integrative
-actions. This is because there is sufficient scientific evidence supported
-that, if properly implemented, HH can significantly reduce the risk of
-transmission of the virus Sars-CoV-2 in society and health services(4-5).
-In this context, WHO develops actions and policies related to
-the incentive of HH, where this practice was already analysed in
-health environments, as one of the key elements in the control
-of infection in a hospital environment(6).
-Although HH is a simple, fast and economically viable action,
-non-compliance with this technique by health professionals is still
-considered a challenge in infection control in health services(7).
-To perform a situational diagnosis of the behavior of health
-professionals concerning HH practices in highly-complex sectors.
-Ethical aspects
-REC approved the study and CAAE (Certificado de Apresentao para Apreciao tica - Certificate of Presentation for Ethical
-Consideration). The study is in compliance with Resolution 466/12
-of the Brazilian National Health Council (Conselho Nacional de
-Sade) on research involving human beings.
-Study design, period, and place
-This cross-sectional, retrospective, and quantitative study was
-developed from reports referring to the years 2016 and 2017, obtained through studies conducted by the Hospital Infection Control
-Service (HICS) of a Federal hospital based in the city of Rio de Janeiro.
-The Strengthening the Reporting of Observational Studies
-in Epidemiology (STROBE) initiative was used to assist in the
-methodological conduction of the study.
-Population and sample; inclusion and exclusion criteria
-The bank used for the analyses was constructed from observations made and based on the Guide to the Implementation of the
-WHO Multimodal Hand Hygiene Improvement Strategy(8). According to the WHO, this is an assisting guide on HH in health services to
-improve practice and reduce healthcare-associated infections (HAIs).
-The observations contained in the reports were made in the period of
-August, September and October 2016 and in June, July, August and
-September 2017. This period was chosen, as it was months subsequent
-to the educational strategies of HH held annually at the institution. The
-observations contained in the report were made during the morning
-and afternoon, from Monday to Friday, except holidays.
-As an inclusion criterion, it was decided to analyse only the data
-referring to the sectors of the Intensive Care Center (ICU) of Adult
-and Pediatric units, as they are sectors previously described in
-literature with a high incidence of multi-resistant microorganisms.
-Observations related to companions and visitors were not reported,
-therefore, they were excluded from the analysis.
-The study population was all health professionals who worked
-in the high complexity sector. Subsequently, this population was
-categorized as assistants, nursing technicians and nurses, as a nursing team; doctors, such as medical staff. Physiotherapists, speech
-therapists, nutritionists, nutrition and laboratory technicians and
-general service assistants were categorized as others.
-Study protocol
-We tried to categorize the teams in order to have a larger
-sample size and obtain more statistically significant results for
-this study. The choice by all professionals is due to the recommendation contained in the Guide to the Implementation of the
-WHO Multimodal Hand Hygiene Improvement Strategy, since it
-is based on the principle that all professionals should have a safe
-practice, the realization of the five moments of HH according to
-the recommendations of the ANVISA/WHO protocol(8).
-In data collection, the convenience sampling technique was
-used, a non-probabilistic technique, where sample became
-composed of the opportunities that arose in the analysed period. The data from reports were compiled into spreadsheets of
-the Microsoft Excel 2013 Program and analysed using R 3.4.2.
-The actions (opportunities) were presented as HH, performing
-it incorrectly or not performing HH. These actions, when performed (correctly or inappropriately), were associated with the
-five moments of HH as before contact with the patient, before the
-aseptic procedure, after the risk of exposure to body fluids, after
-contact with the patient and with surfaces close to the patient(8).
-Analysis of results, and statistics
-We opted for multiple correspondence analysis (MCA), because it is a multivariate statistical analysis technique that allows
-the graphic visualization of the most important associations of a
+ORIGINAL  ARTICLE  Hand  hygiene in high‐complexity sectors as an
+integrating element in the combat of Sars‐CoV‐2 Higiene  das  mos
+em  setores de alta complexidade como elemento integrador no com‐
+bate do Sars‐CoV‐2 Higiene de las manos en sectores de alta  com‐
+plejidad  como  elemento  integrador en el combate del Sras‐CoV‐2
+Danielle Galdino de PaulaI Marianna Ramos FranciscoI Juliana Dias
+FreitasII Renata Christine Quintella LevachofI Bianca de Oliveira
+FonsecaIII Objective: to perform a situational diagnosis  of  the
+behavior  of  health  professionals concerning hand hygiene prac‐
+tices in highly‐complex sectors. Methods: this  quantitative  and
+retrospective study was based on reports (2016 and 2017) of Adult
+and Pediatric ICUs of a Federal hospital in Rio de  Janeiro.  Re‐
+sults:  one  thousand  two  hundred fifty‐eight opportunities for
+hand hygiene were analysed. The chance of professionals  sanitiz‐
+ing  hands in Pediatric ICUs is 41.61% higher than in Adult ICUs.
+Concerning proper hand hygiene, the medical  team  had  a  39.44%
+lower  chance  than  the  nursing team. Others had a 30.62% lower
+chance when compared to the nursing team. The moment  after  con‐
+tact  with the patient presented 4.5275 times the chance in rela‐
+tion before contact with the patient.  Conclusion:  in  front  of
+hand  hygiene recommendations to control COVID‐19, diagnostic as‐
+sessment and previous analysis of the behavior  of  professionals
+proved  to  be  positive.  Descriptors: SARS Virus; Hand Hygiene;
+Cross Infection; Intensive Care Units; Nursing.  Bruno  Francisco
+Teixeira  SimesI  Rafael  de Lima BilioIV Universidade Federal do
+Estado do Rio de  Janeiro.   Rio  de  Janeiro,  Rio  de  Janeiro,
+Brazil.   Kiel, Schleswig‐Holstein, Germany.  Hospital Federal da
+Lagoa. Rio de Janeiro, Rio de Janeiro , Brazil.   Fundao  Oswaldo
+Cruz.  Rio  de  Janeiro,  Rio  de Janeiro , Brazil.  De Paula DG,
+Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et
+al. Hand hygiene in highcomplexity sectors as an integrating ele‐
+ment in the combat Danielle Galdino de  Paula  EDITOR  IN  CHIEF:
+Dulce  Aparecida Barbosa ASSOCIATE EDITOR: Antonio Jos de Almeida
+Filho Objetivo: realizar um diagnstico situacional  do  comporta‐
+mento de profissionais de sade quanto s prticas de higienizao das
+mos em setores de alta complexidade.  Mtodos: estudo  quantitati‐
+vo, retrospectivo, baseado em relatrios (anos de 2016 e 2017) dos
+setores CTI Adulto e Peditrico de um hospital Federal do  Rio  de
+Janeiro.   Resultados:  analisaram‐se  1.258  oportunidades  para
+higiene das mos. A chance de um profissional higienizar as mos no
+CTI  Peditrico  41,61% maior que no CTI Adulto. Quanto higienizar
+as mos adequadamente, a equipe mdica obteve chance  39,44%  menor
+que  a  equipe de enfermagem e outros tiveram chance 30,62% menor
+quando comparada  equipe da enfermagem. O momento aps  o  contato
+com  o paciente apresentou 4,5275 vezes a chance em relao a antes
+do contato  com  o  paciente.  Concluso:  frente   recomendao  da
+higiene das mos no controle da COVID‐19, avaliao diagnstica e an‐
+lise prvia do comportamento dos profissionais demonstrou ser pos‐
+itiva.  Descritores: Vrus da SARS; Higiene das Mos; Infeco Hospi‐
+talar; Unidades de Terapia Intensiva; Enfermagem.  Objetivo:  re‐
+alizar un diagnstico situacional del comportamiento de los profe‐
+sionales de la salud con respecto a las prcticas  de  higiene  de
+manos  en sectores altamente complejos. Mtodos: estudio cuantita‐
+tivo, retrospectivo, basado en informes (aos 2016 y 2017) de  los
+sectores  de  UCI  Adultos y Peditricos de un hospital federal en
+Rio de Janeiro.  Resultados: se analizaron 1.258 oportunidades de
+higiene de manos. La posibilidad de un lavado de manos profesion‐
+al en la UCI Peditrica es 41.61% mayor que  en  la  UCI  Adultos.
+Con  respecto a la higiene de las manos, el equipo mdico tuvo una
+probabilidad 39.44% menor que el equipo de enfermera y otros  tu‐
+vieron  una probabilidad 30.62% menor en comparacin con el equipo
+de enfermera. El momento despus del contacto con el paciente  fue
+4.5275  veces  mayor que antes del contacto con el paciente. Con‐
+clusin: contra la recomendacin de higiene de manos en el  control
+de COVID‐19, la evaluacin diagnstica y el anlisis previo del com‐
+portamiento de los  profesionales  resultaron  ser  Descriptores:
+Virus  del  SRAS;  Higiene  de  las Manos; Infeccin Hospitalaria;
+Unidades de Cuidados  Intensivos;  Enfermera.   Hand  hygiene  in
+high‐complexity  sectors  as an integrating element in the combat
+of Sars‐Cov‐2 De Paula DG, Francisco  MR,  Freitas  JD,  Levachof
+RCQ, Fonseca BO, Simes BFT, et al.  The emerging COVID‐19 disease
+caused by the Sars‐CoV‐2 virus was  first  identified  in  Wuhan,
+China,  in  December 2019. The virus has caused a pandemic and is
+spreading rapidly and, in many countries,  increased  demand  for
+health  services  by people with disease‐related complications is
+reported, which may overwhelm/ collapse health systems  and  high
+demand  for hospitalization in high‐complexity sectors(1).  Stud‐
+ies have shown that analysis of surfaces of  objects  present  in
+wards  and  toilets of patients in isolation with COVID‐19 showed
+positive results of the pathogen on environmental surfaces.  hos‐
+pital  bed  grid,  closet,  chair, light switches, doors (inhaled
+door handle),  windows,  and  toilet  surfaces(2‐3).   The  World
+Health  Organization (WHO), Pan American Health Organization (PA‐
+HO) and government health agencies have been considering hand hy‐
+giene  (HH) as one of the preventive integrative actions. This is
+because there is sufficient scientific evidence  supported  that,
+if  properly implemented, HH can significantly reduce the risk of
+transmission of the virus Sars‐CoV‐2 in society and  health  ser‐
+vices(4‐5).   In  this context, WHO develops actions and policies
+related to the incentive of HH, where this practice  was  already
+analysed  in  health  environments, as one of the key elements in
+the control of infection in a hospital environment(6).   Although
+HH  is a simple, fast and economically viable action, non‐compli‐
+ance with this technique by health professionals is still consid‐
+ered  a challenge in infection control in health services(7).  To
+perform a situational diagnosis of the behavior of health profes‐
+sionals concerning HH practices in highly‐complex sectors.  Ethi‐
+cal aspects REC approved the study and CAAE (Certificado de Apre‐
+sentao para Apreciao tica ‐ Certificate of Presentation for Ethi‐
+cal Consideration). The study is in  compliance  with  Resolution
+466/12  of  the  Brazilian  National Health Council (Conselho Na‐
+cional de Sade) on research involving human  beings.   Study  de‐
+sign,  period, and place This cross‐sectional, retrospective, and
+quantitative study was developed from reports  referring  to  the
+years  2016  and  2017, obtained through studies conducted by the
+Hospital Infection Control Service (HICS) of a  Federal  hospital
+based  in  the city of Rio de Janeiro.  The Strengthening the Re‐
+porting of Observational Studies in Epidemiology (STROBE) initia‐
+tive  was  used to assist in the methodological conduction of the
+study.  Population and sample; inclusion and  exclusion  criteria
+The  bank used for the analyses was constructed from observations
+made and based on the Guide to the Implementation of the WHO Mul‐
+timodal  Hand  Hygiene  Improvement Strategy(8). According to the
+WHO, this is an assisting guide on HH in health services  to  im‐
+prove   practice   and  reduce  healthcare‐associated  infections
+(HAIs).  The observations contained in the reports were  made  in
+the period of August, September and October 2016 and in June, Ju‐
+ly, August and September 2017. This period was chosen, as it  was
+months  subsequent to the educational strategies of HH held annu‐
+ally at the institution. The observations contained in the report
+were  made  during the morning and afternoon, from Monday to Fri‐
+day, except holidays.  As an inclusion criterion, it was  decided
+to  analyse  only the data referring to the sectors of the Inten‐
+sive Care Center (ICU) of Adult and Pediatric units, as they  are
+sectors  previously described in literature with a high incidence
+of multi‐resistant microorganisms.  Observations related to  com‐
+panions  and visitors were not reported, therefore, they were ex‐
+cluded from the analysis.  The study population  was  all  health
+professionals  who  worked  in the high complexity sector. Subse‐
+quently, this population was categorized as  assistants,  nursing
+technicians and nurses, as a nursing team; doctors, such as medi‐
+cal staff. Physiotherapists,  speech  therapists,  nutritionists,
+nutrition  and  laboratory technicians and general service assis‐
+tants were categorized as others.  Study  protocol  We  tried  to
+categorize  the  teams  in order to have a larger sample size and
+obtain more statistically significant results for this study. The
+choice  by  all  professionals  is due to the recommendation con‐
+tained in the Guide to the Implementation of the  WHO  Multimodal
+Hand Hygiene Improvement Strategy, since it is based on the prin‐
+ciple that all professionals should have a safe practice, the re‐
+alization  of the five moments of HH according to the recommenda‐
+tions of the ANVISA/WHO protocol(8).   In  data  collection,  the
+convenience  sampling  technique  was  used,  a non‐probabilistic
+technique, where sample became composed of the opportunities that
+arose in the analysed period. The data from reports were compiled
+into spreadsheets of the Microsoft Excel 2013  Program  and  ana‐
+lysed  using R 3.4.2.  The actions (opportunities) were presented
+as HH, performing it incorrectly or not performing HH. These  ac‐
+tions,  when performed (correctly or inappropriately), were asso‐
+ciated with the five moments of HH as before contact with the pa‐
+tient,  before  the aseptic procedure, after the risk of exposure
+to body fluids, after contact with the patient and with  surfaces
+close  to the patient(8).  Analysis of results, and statistics We
+opted for multiple correspondence analysis (MCA), because it is a
+multivariate  statistical  analysis  technique  that  allows  the
+graphic visualization of the most  important  associations  of  a
 large set of variables among themselves. With MCA, it is possible
-to assess which actions, based on the five moments of HH and
-alcoholic solution or water and soap use, were more associated
-with professional categories. Thus, relationships of proximity and
-opposition of behavior between professional categories and the
-actions observed(9) are defined.
-We chose the chi-square test to verify statistical significance
-in the associations between the variables analysed in this study.
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-related to the other category. In Pediatric ICUs, we had a total
-of 156 opportunities, 83 of which were related to the nursing
-team, 49 were related to the medical team and 24 were related
-to the other category.
-Based on the reports, 1,258 opportunities for HH were observed.
-In both years, 2016 and 2017, the nursing team totaled the largest
-number of opportunities observed. This result
-is related to the work activity developed by the
-nursing team, since intensive care is characterAdult Intensive Care Unit
-ized by direct care, implying the performance
-Pediatric Intensive Care Unit
-MCA - Biplot
-of several procedures in the patient.
-For the readers understanding, the sectors
-(Adult ICU and Pediatric ICU) were grouped
-After the risk of
-by year and association (times of hygiene and
-exposure to body fluids
-solutions used), being carried out based on the
-professional category of the population studied.
-PEDIATRIC INTENSIVE CARE UNIT
-Water and soap
-Concerning the year 2016, 785 opportuniBefore contact with the patient
-ties for HH were observed. Of this total, 437
-opportunities were related to Adult ICUs, with
-Alcoholic solution
-Not performing
-284 opportunities for HH from the nursing team,
-After contact with the patient
-108 opportunities for HH from the medical
-After contact with surfaces Nursing team
-Medical team
-close to the patient
-team and 45 opportunities for HH from the
-ADULT INTENSIVE CARE UNIT
-others category. In the Pediatric ICU, there
-were 348 opportunities, of which 183 were
-Performing is incorrectly
-opportunities for HH from the nursing team,
-86 were opportunities for HH from the medical
-team and 79 were opportunities for HH in the
-Before the aseptic procedure
-that refer to each professional category analDim1 (14.7%)
-ysed in the scenarios contained in the reports
-(Adult ICU and Pediatric ICU). There was statistipractices, 2016
-cal significance between HH and solution used
-(chi-square = 18.192 and p value<0.01) and
-statistical significance of the professional team
-Adult Intensive Care Unit
-in relation to the moments for HH (chi-square
-Pediatric Intensive Care Unit
-MCA - Biplot
-= 52.712 and p value< 0.001). In both sectors,
-the nursing team is associated with alcoholic
-solution use. In relation to moments of HH,
-After the risk of
-this professional category is associated (in both
-exposure to body fluids
-After contact with surfaces
-sectors) with after contact with neighbors and
-close to the patient
-Water and soap
-after contact with the patient. In both sectors,
-the medical team is associated with alcoholic
-Nursing team
-Not performing
-solution and not performing hygiene. As for
-opportunities, the medical team is associated
-Before the aseptic procedure
-with after proximity, after contact with the
-After contact with the patient
-patient and before contact with the patient.
-Alcoholic solution
-The category others is associated with water
-Performing is incorrectly
-and soap use or not performed related to
-Medical team Before contact with the patient
-the moments of HH. The actions were more
-associated with Pediatric ICUs, being after
-risk of exposure and before contact with
-the patient.
-In the reports for the year 2017, 473 opportunities for HH were observed. Of this total, 194
-observations of HH opportunity were related
-to Adult ICUs, with 118 opportunities referring
-to the nursing team, 32 opportunities related
-to the medical team and 44 opportunities
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-considering water and soap and/or alcoholic solution use as a dependent
-variable (2016 and 2017)
-Moment of
-(95% CI) OR
-Before contact with
-the patient
-Before the aseptic
-After contact with the 593
-After contact with
-After risk of exposure
-Adult ICU
-Pediatric ICU
-Note: *p value<0.01; **p value<0.001; ***number of observation opportunities.
-As for the category of health professionals, the nursing team
-was used as a reference for analysis. When this category is compared to the medical team, OR = 0.6056 and p value<0.001 are
-observed, that is, the medical team has a 39.44% lower chance
-of performing the HH procedure with the inputs appropriate.
-The others team had OR = 0.6938 and p value<0.01, i.e., with
-a 30.62% lower chance of performing hygiene properly when
-compared to the nursing team.
-Regarding the moments of HH, taking as a reference the time of
-cleaning before contact with the patient, one of the most relevant
-ORs found was related to the time of cleaning after contact with the
-patient, with OR = 4.5275 and p value<0.001, i.e., 4.5275 times the
-chance in relation to the procedure before contact with the patient.
-Resposta. SAeAS.
-Setor effect plot
-CTI ADULTO
-CTI PEDITRICO
-Resposta. SAeAS.
-Momento. effect plot
-Ant. Proc.
-Ap. Risco
-de Exp.
-Categoria. effect plot
-Resposta. SAeAS.
-studied in 2017 (Adult ICU and Pediatric ICU). There was statistical significance between the categories and the type of hygiene
-(chi-square = 18.594 and p value<0.01) and statistical significance between the moments for HH (chi-square = 28.159 and
-p value<0.001) and the type of professional team evaluated. It
-was found that the behavior of the groups in both sectors was
-similar. The nursing team is associated with soap and water
-and alcoholic solution use. In relation to the moments of HH,
-this category is associated with before the aseptic procedure,
-after contact with the patient, after contact with neighbors,
-after risk of exposure and after proximity. The medical team
-was associated with inadequate hygiene and alcoholic solution
-use. In relation to moments of HH, this category is associated with
-before contact with the patient, before the aseptic procedure
-and after contact with the patient. The category others was associated with inadequate hygiene, and when performing HH, it
-uses alcoholic solution, and the action is associated with before
-contact with the patient and before the aseptic procedure.
-regression, with and soap and/or alcoholic solution use as a dependent variable as a dependent variable in the act of hand hygiene
-the main effects of the variables on the dependent variable. In
-relation to the sector, in the analysed periods (2016 and 2017), the
-Odds Ratio of health professionals to perform HH in Pediatric ICUs
-was OR = 1.42, i.e., 42% higher than in Adult ICUs (p value<0.01).
-Equipe de Enfermagem
-Equipe Mdica
-solution use as a dependent variable (2016 and 2017)
-Educational actions carried out in 2016 and 2017
-Educational activities in 2016 were held in July and lasted 30
+to assess which actions, based on the five moments of HH and  al‐
+coholic solution or water and soap use, were more associated with
+professional categories. Thus, relationships of proximity and op‐
+position  of behavior between professional categories and the ac‐
+tions observed(9) are defined.  We chose the chi‐square  test  to
+verify  statistical  significance in the associations between the
+variables analysed in this study.  Hand hygiene in high‐complexi‐
+ty  sectors as an integrating element in the combat of Sars‐Cov‐2
+De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca  BO,
+Simes  BFT,  et  al.  related to the other category. In Pediatric
+ICUs, we had a total of 156 opportunities, 83 of which  were  re‐
+lated  to  the  nursing team, 49 were related to the medical team
+and 24 were related to the other category.  Based on the reports,
+1,258  opportunities  for  HH were observed.  In both years, 2016
+and 2017, the nursing team totaled the largest number of opportu‐
+nities  observed. This result is related to the work activity de‐
+veloped by the nursing team,  since  intensive  care  is  charac‐
+terAdult  Intensive  Care  Unit ized by direct care, implying the
+performance Pediatric Intensive Care Unit MCA ‐ Biplot of several
+procedures  in  the  patient.  For the readers understanding, the
+sectors (Adult ICU and Pediatric ICU) were grouped After the risk
+of by year and association (times of hygiene and exposure to body
+fluids solutions used), being carried out based  on  the  profes‐
+sional  category  of the population studied.  PEDIATRIC INTENSIVE
+CARE UNIT Water and soap Concerning the year 2016,  785  opportu‐
+niBefore  contact  with the patient ties for HH were observed. Of
+this total, 437 opportunities were related to  Adult  ICUs,  with
+Alcoholic  solution  Not performing 284 opportunities for HH from
+the nursing team, After contact with the patient  108  opportuni‐
+ties  for HH from the medical After contact with surfaces Nursing
+team Medical team close to the patient team and 45  opportunities
+for HH from the ADULT INTENSIVE CARE UNIT others category. In the
+Pediatric ICU, there were 348 opportunities, of  which  183  were
+Performing  is  incorrectly opportunities for HH from the nursing
+team, 86 were opportunities for HH from the medical team  and  79
+were  opportunities  for  HH  in the Before the aseptic procedure
+that refer to each professional category analDim1 (14.7%) ysed in
+the  scenarios  contained in the reports (Adult ICU and Pediatric
+ICU). There was statistipractices, 2016 cal significance  between
+HH  and  solution used (chi‐square = 18.192 and p value<0.01) and
+statistical significance of the professional team Adult Intensive
+Care Unit in relation to the moments for HH (chi‐square Pediatric
+Intensive Care Unit MCA ‐ Biplot = 52.712 and p value< 0.001). In
+both sectors, the nursing team is associated with alcoholic solu‐
+tion use. In relation to moments of HH, After the  risk  of  this
+professional  category  is  associated  (in both exposure to body
+fluids After contact with surfaces sectors)  with  after  contact
+with neighbors and close to the patient Water and soap after con‐
+tact with the patient. In both sectors, the medical team is asso‐
+ciated  with  alcoholic  Nursing team Not performing solution and
+not performing hygiene. As for opportunities, the medical team is
+associated Before the aseptic procedure with after proximity, af‐
+ter contact with the After contact with the patient  patient  and
+before contact with the patient.  Alcoholic solution The category
+others is associated with water  Performing  is  incorrectly  and
+soap  use or not performed related to Medical team Before contact
+with the patient the moments of HH. The actions were more associ‐
+ated with Pediatric ICUs, being after risk of exposure and before
+contact with the patient.  In the reports for the year 2017,  473
+opportunities  for  HH were observed. Of this total, 194 observa‐
+tions of HH opportunity were related to Adult ICUs, with 118  op‐
+portunities  referring  to the nursing team, 32 opportunities re‐
+lated to the medical team and 44 opportunities  Hand  hygiene  in
+high‐complexity  sectors  as an integrating element in the combat
+of Sars‐Cov‐2 De Paula DG, Francisco  MR,  Freitas  JD,  Levachof
+RCQ,  Fonseca  BO,  Simes BFT, et al.  considering water and soap
+and/or alcoholic solution use as a dependent variable  (2016  and
+2017)  Moment  of (95% CI) OR Before contact with the patient Be‐
+fore the aseptic After contact with the 593  After  contact  with
+After  risk  of  exposure  Adult  ICU Pediatric ICU Note: *p val‐
+ue<0.01; **p value<0.001; ***number of observation opportunities.
+As for the category of health professionals, the nursing team was
+used as a reference for analysis. When this category is  compared
+to  the medical team, OR = 0.6056 and p value<0.001 are observed,
+that is, the medical team has a 39.44% lower chance of performing
+the  HH  procedure  with the inputs appropriate.  The others team
+had OR = 0.6938 and p  value<0.01,  i.e.,  with  a  30.62%  lower
+chance  of performing hygiene properly when compared to the nurs‐
+ing team.  Regarding the moments of HH, taking as a reference the
+time of cleaning before contact with the patient, one of the most
+relevant ORs found was related to the time of cleaning after con‐
+tact  with the patient, with OR = 4.5275 and p value<0.001, i.e.,
+4.5275 times the chance in relation to the procedure before  con‐
+tact  with  the patient.  Resposta. SAeAS.  Setor effect plot CTI
+ADULTO CTI PEDITRICO Resposta. SAeAS.  Momento. effect plot  Ant.
+Proc.  Ap. Risco de Exp.  Categoria. effect plot Resposta. SAeAS.
+studied in 2017 (Adult ICU and Pediatric ICU). There was  statis‐
+tical significance between the categories and the type of hygiene
+(chi‐square = 18.594 and p value<0.01) and  statistical  signifi‐
+cance  between the moments for HH (chi‐square = 28.159 and p val‐
+ue<0.001) and the type of professional  team  evaluated.  It  was
+found  that  the behavior of the groups in both sectors was simi‐
+lar. The nursing team is associated with soap and water and alco‐
+holic  solution use. In relation to the moments of HH, this cate‐
+gory is associated with before the aseptic procedure, after  con‐
+tact  with  the patient, after contact with neighbors, after risk
+of exposure and after proximity. The medical team was  associated
+with  inadequate  hygiene and alcoholic solution use. In relation
+to moments of HH, this category is associated with before contact
+with  the patient, before the aseptic procedure and after contact
+with the patient. The category others was associated with  inade‐
+quate  hygiene,  and  when performing HH, it uses alcoholic solu‐
+tion, and the action is associated with before contact  with  the
+patient  and  before the aseptic procedure.  regression, with and
+soap and/or alcoholic solution use as a dependent variable  as  a
+dependent variable in the act of hand hygiene the main effects of
+the variables on the dependent variable. In relation to the  sec‐
+tor,  in  the analysed periods (2016 and 2017), the Odds Ratio of
+health professionals to perform HH in Pediatric  ICUs  was  OR  =
+1.42, i.e., 42% higher than in Adult ICUs (p value<0.01).  Equipe
+de Enfermagem Equipe Mdica solution use as a  dependent  variable
+(2016  and 2017) Educational actions carried out in 2016 and 2017
+Educational activities in 2016 were held in July  and  lasted  30
 days. They started with the event entitled Hand Hygiene Day, with
-hands was created in order to encourage the correct performance
-of HH and to recall the five critical moments for HH. Moreover,
+hands was created in order to encourage the  correct  performance
+of  HH  and to recall the five critical moments for HH. Moreover,
 demonstration was carried out on culture plates with unhygienized
-hands, hands sanitized with water and soap and hands sanitized
-with alcoholic solution. Culture plates aimed to materialize on
-the concrete plane about the effectiveness of HH with alcoholic
-solution use. It was associated with that moment, the clarification
-of any doubts and awareness of professionals about HH, at the
-right time and in the right way, in the prevention of HAI.
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-At the end of the Campaign, observations began in the sectors
-(Adult ICU and Pediatric ICU) of the institution. From the results of
-the analysis carried out in 2016, new guidelines were established
-for educational actions of the following year.
-HH activities of the year were held in May and lasted 30
-days. The following strategies were determined: 1) observation
-professionals; 2) maintenance of the dynamics of the black box,
-as it was observed that many professionals were encouraged to
-participate in the Campaign out of curiosity; 3) maintenance of
-the poster provided by ANVISA about HH(10). The posters provided
-explanatory information about the five moments of HH; 4) a
-sector-based approach aimed at medical professionals based on
-analysis in the previous year. After the end of the activities, the
-observations based on the WHO guide began(8).
-Finally, the performance of a diagnostic evaluation, through the
-previous observation of the professionals HH practices, is reported
-as essential in studies related to the theme, since it seeks to know
-the groups performance, thus enabling focused strategies(11).
-Repercussions of educational actions (year 2016 and 2017)
-The analysis for 2016 and 2017 was concerned with the fact
-that dynamic activities aimed at raising the awareness of professionals about HH were carried out. According to the Guide
-to the Implementation of the WHO Multimodal Hand Hygiene
-Improvement Strategy, direct observational surveys should
-be carried out without the knowledge of the professionals in
-focus, as it is thus possible to obtain an assessment that avoids
-the hawthorne effect. This effect consists of a forced positive
-change in the behavior of a group of workers in relation to the
-objectives of a company/institution, management, direction or
-by some higher hierarchical sphere(12). In the study, compliance
-was reported in terms of avoiding this effect.
-There is a greater Odds Ratio of professionals to perform HH in
-Pediatric ICUs when compared to Adult ICUs. This result may be
-associated with a greater participation of Pediatric ICU professionals in hygiene and involvement campaigns of HICS professionals,
-continuing education, sectorial heads, and nursing residents. The
-involvement of these professionals may have been a decisive factor
-in the greater adherence to the practice of HH in Pediatric ICUs.
-Another aspect may be related to the pediatric environment. A
-in southern Brazil showed that professionals working in this sector
-have a greater chance of developing and increasing strategies to
-improve care to children and their families(13).
-As for the population analysed, the nursing team obtained
-a higher Odds Ratio in performing HH and, in 2017, showed
-improvements in HH moments when compared to the other
-professional categories studied. However, these results are not
-satisfactory in view of the WHOs determinations regarding the
-treatment of patients with COVID-19, but demonstrate that
-educational actions, through Campaigns, had positive effects
-on the behavior of these professionals(4,14).
-In relation to HH moments, after contact with the patient
-had a greater chance of occurring in the professional teams
-evaluated. This result corroborates the culture of self-protection
-and is similar to the annual report made by Kingston General
-(Canada), carried out from April 2014 to March 2015. The study
-shows that the HH compliance rate was 79.5% in the indications
-before contact and 87.5% after contact(15).
-HH is an essential component of infection prevention and
-control. However, this technique is generally neglected by health
-professionals in developed and developing countries, with compliance rates below 20%(16).
-The opportunity of HH in the professional categories refers
-to the research carried out in a hospital in Porto Alegre, Brazil on
-HH actions by professionals, where the culture of using gloves
-as a barrier to HH was observed (17). Evidence about glove use
-was described in the field diaries during the reports analysed in
-the present study.
-The WHO points out that in the treatment of patients with
-COVID-19, glove use does not replace the need for HH and their
-respective action must be performed frequently(18). Allied to WHO
-recommendations, ANVISA (equivalent to the USs FDA) reinforces
-that HH is recommended after the removal of personal protective
-equipment (PPE) in isolation areas or with suspected COVID-19(19).
-A study carried out in an ICU in a hospital in the northern district
-of Sheung Shui/Hong Kong assessed the risks for health workers
-in the care of patients with COVID-19. This study reported that
-even using double gloves, there is a strong recommendation for
-HH by health professionals(20).
-Concerning the solution used, there is a variety of behavior
-regarding alcoholic solution and/or water and soap use. It is
-noteworthy that in the analysed reports, inadequate supply or
-absence of limitations of these elements in the studied settings
-was not reported.
-Water and soap use was reported in studies carried out in
-countries with a tropical climate, where a predilection for HH with
-water and soap was noted, which directly refers to a greater sense
-of cleanliness of the hands(21). The WHO document on rational
-use of PPE for COVID-19 recommends alcohol-based HH and, in
-case of dirt, water and soap use(18).
-Based on a diagnostic assessment that covered previous
-observations of the behavior of professionals in highly-complex
-sectors, strategic actions were determined about HH, which would
-be worked on with professionals.
-Evidence shows that educational actions have had positive
-effects, especially on nursing workers and should be developed
-with the aim of guidance and encouragement, in addition to
-building knowledge that covers biological and occupational
-risks in all aspects(11,22).
-Study limitations
-Replication in other health institutions is suggested to verify
-if similar responses occurred, based on the strategy adopted in
-the present study.
-Contributions to nursing, health, and public policies
-In view of the contamination potential of Sars-CoV-2 and the
-high contamination of health professionals due to the culture of
-not HH at all times, studies that have an impact and measures to
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-importance by national public health institutions in Brazil and the
-world. Moreover, the aforementioned study follows the role of
-Brazil and the nursing area in advancing knowledge that requires
-prevention and health promotion actions.
-Compliance with HH guidelines is one of the components in
-the combat of COVID-19 transmission in the hospital environment.
-The nursing team was more associated with HH when compared
-to the other professional categories studied. In relation to the moments after contact with the patient, it was the most common
-action, corroborating self-protection and the culture of using gloves
-as protective barriers, predisposing HH not to perform. As for the
-solution used for HH, there was a similar behavior by professionals
-in the use of alcoholic solution and water and soap.
-From the comparison between the results of the years 2016
-and 2017, it is possible to direct continuous adherence strategies
-that can be effective in complying with HH among health professionals. In the study, strategic actions based on diagnostic
-situation of the environment, previous analysis of the behavior
-of health professionals and team involvement showed to be
-positive in Pediatric ICUs. The replication of actions based on
-such strategies can be considered in adhering to HH in highly
-complex sectors in view of the current outbreak of COVID-19. The
-strategies used in the Campaign demonstrate that the deficiency
-related to HH compliance does not occur exclusively due to the
-lack of knowledge of the HH technique and indications, but due
-to the devaluation of the safety culture.
-In view of the current outbreak of COVID-19, the frequent
-exposure to the pathogen in sectors of high complexity predisposes professionals and patients to acquire or transmit the
-infection. The removal of PPE, which happens after contact with
-the patient, is also reported as one of the essential elements that
-prevent contamination of professionals. Therefore, actions aimed
-at reducing infection and protecting professionals, through simple
-and low-cost measures, should be considered.
-Chen X, Yu B. First two months of the 2019 Coronavirus Disease (COVID-19) epidemic in China: real-time surveillance and evaluation with a
-Ong SWX, Tan YK, Chia PY, Lee TH, Ng OT, Wong MSY, et al. Air, Surface Environmental, and Personal Protective Equipment Contamination
-Organizao Panamerica de Sade. OPAS/OMS Brasil - Folha informativa  COVID-19 (doena causada pelo novo coronavrus) [Internet]. 2020
-Kratzel A, Todt D, Vkovski P, Steiner S, Gultom ML, Thao TTN, et al. Efficient inactivation of SARS-CoV-2 by WHO-recommended hand rub
-Chou DTS, Achan P, Ramachandran M. The World Health Organization 5 Moments of Hand Hygiene: the scientific foundation. J Bone Jt
-Surg - Br Vol. 2012;94-B(4):4415.
-Organizao Mundial da Sade. Agncia Nacional de Vigilncia Sanitria. Diretrizes da oms sobre higienizao das mos na
-Ministrio da Sade. Anvisa, Fiocruz. Anexo 01: Protocolo para a prtica de higiene das mos em servios de sade. 2013;16. Available from:
-uab.cat/search?f=title&p=Anlise de Correspondncia aplicada  pesquisa em Ensino de Cincias&sc=1&ln=ca
-Ministrio da Sade (BR). Agncia Nacional de Vigilncia Sanitria. Cartaz 7 - Prticas seguras de higiene das mos para preveno de
-Alvim ALS. Higienizao das mos: como reduzir o efeito Hawthorne? Assoc Min Epidemiol e Control Infeces [Internet]. 2017[cited 2020
-Ribeiro JP, Gomes GC, Thofehrn MB, Porto AR, Rodrigues LPV. Ambiente de pediatria: aspectos que auxiliam no processo de trabalho e na
-Hand hygiene in high-complexity sectors as an integrating element in the combat of Sars-Cov-2
-De Paula DG, Francisco MR, Freitas JD, Levachof RCQ, Fonseca BO, Simes BFT, et al.
-World Health Organization-WHO. Rational use of personal protective equipment for coronavirus disease (COVID-19): interim guidance
-Lotfinejad N, Peters A, Pittet D. Hand hygiene and the novel coronavirus pandemic: the role of healthcare workers. J Hosp Infect. 2020;
-Souza LM, Ramos MF, Becker ESS, Meirelles LCS, Monteiro SAO. Adherence to the five moments for hand hygiene among intensive care
-Feng S, Shen C, Xia N, Song W, Fan M, Cowling BJ. Rational use of face masks in the COVID-19 pandemic. Lancet Respir Med. 2020;8(5):434-6.
-Agncia Nacional de Vigilncia Sanitria. Gerncia de Vigilncia e Monitoramento em Servios de Sade, Gerncia Geral de Tecnologia
-em Servios de Sade, Orientaes para servios de sade: medidas de preveno e controle que devem ser adotadas durante a
-assistncia aos casos suspeitos ou confirmados de infeco pelo novo coronavrus (SARS-CoV-2). [Internet]. Braslia; 2020[cited 2020
-Cheung JCH, Ho LT, Cheng JV, Cham EYK, Lam KN. Staff safety during emergency airway management for COVID-19 in Hong Kong. Vol. 8,
+hands,  hands  sanitized  with water and soap and hands sanitized
+with alcoholic solution. Culture plates aimed to  materialize  on
+the  concrete  plane about the effectiveness of HH with alcoholic
+solution use. It was associated with that moment, the  clarifica‐
+tion  of  any  doubts and awareness of professionals about HH, at
+the right time and in the right way, in the  prevention  of  HAI.
+Hand hygiene in high‐complexity sectors as an integrating element
+in the combat of Sars‐Cov‐2 De Paula DG,  Francisco  MR,  Freitas
+JD,  Levachof  RCQ,  Fonseca BO, Simes BFT, et al.  At the end of
+the Campaign, observations began in the sectors  (Adult  ICU  and
+Pediatric ICU) of the institution. From the results of the analy‐
+sis carried out in 2016, new guidelines were established for edu‐
+cational  actions  of  the  following year.  HH activities of the
+year were held in May and lasted 30 days. The  following  strate‐
+gies  were  determined:  1) observation professionals; 2) mainte‐
+nance of the dynamics of the black box, as it was  observed  that
+many professionals were encouraged to participate in the Campaign
+out of curiosity; 3) maintenance of the poster provided by ANVISA
+about  HH(10). The posters provided explanatory information about
+the five moments of HH; 4) a sector‐based approach aimed at medi‐
+cal  professionals  based on analysis in the previous year. After
+the end of the activities, the  observations  based  on  the  WHO
+guide began(8).  Finally, the performance of a diagnostic evalua‐
+tion, through the previous observation of  the  professionals  HH
+practices,  is  reported  as  essential in studies related to the
+theme, since it seeks to know the groups  performance,  thus  en‐
+abling  focused strategies(11).  Repercussions of educational ac‐
+tions (year 2016 and 2017) The analysis for  2016  and  2017  was
+concerned  with the fact that dynamic activities aimed at raising
+the awareness of professionals about HH were carried out. Accord‐
+ing to the Guide to the Implementation of the WHO Multimodal Hand
+Hygiene Improvement Strategy, direct observational surveys should
+be  carried out without the knowledge of the professionals in fo‐
+cus, as it is thus possible to obtain an assessment  that  avoids
+the  hawthorne  effect. This effect consists of a forced positive
+change in the behavior of a group of workers in relation  to  the
+objectives  of a company/institution, management, direction or by
+some higher hierarchical sphere(12). In the study, compliance was
+reported  in  terms  of avoiding this effect.  There is a greater
+Odds Ratio of professionals to perform HH in Pediatric ICUs  when
+compared  to  Adult  ICUs.  This  result may be associated with a
+greater participation of Pediatric ICU professionals  in  hygiene
+and  involvement campaigns of HICS professionals, continuing edu‐
+cation, sectorial heads, and nursing residents.  The  involvement
+of  these  professionals  may  have been a decisive factor in the
+greater adherence to the practice of HH in Pediatric  ICUs.   An‐
+other  aspect  may  be related to the pediatric environment. A in
+southern Brazil showed that professionals working in this  sector
+have  a greater chance of developing and increasing strategies to
+improve care to children and their families(13).  As for the pop‐
+ulation  analysed,  the nursing team obtained a higher Odds Ratio
+in performing HH and, in 2017, showed improvements in HH  moments
+when  compared to the other professional categories studied. How‐
+ever, these results are not satisfactory in view of the WHOs  de‐
+terminations  regarding  the treatment of patients with COVID‐19,
+but demonstrate that educational actions, through Campaigns,  had
+positive  effects  on  the behavior of these professionals(4,14).
+In relation to HH moments, after contact with the patient  had  a
+greater  chance of occurring in the professional teams evaluated.
+This result corroborates the culture of  self‐protection  and  is
+similar  to  the annual report made by Kingston General (Canada),
+carried out from April 2014 to March 2015. The study  shows  that
+the  HH  compliance rate was 79.5% in the indications before con‐
+tact and 87.5% after contact(15).  HH is an  essential  component
+of  infection  prevention and control. However, this technique is
+generally neglected by health professionals in developed and  de‐
+veloping countries, with compliance rates below 20%(16).  The op‐
+portunity of HH in the professional categories refers to the  re‐
+search  carried  out  in a hospital in Porto Alegre, Brazil on HH
+actions by professionals, where the culture of using gloves as  a
+barrier to HH was observed (17). Evidence about glove use was de‐
+scribed in the field diaries during the reports analysed  in  the
+present  study.   The WHO points out that in the treatment of pa‐
+tients with COVID‐19, glove use does not replace the need for  HH
+and their respective action must be performed frequently(18). Al‐
+lied to WHO recommendations, ANVISA (equivalent to the  USs  FDA)
+reinforces  that  HH is recommended after the removal of personal
+protective equipment (PPE) in isolation areas or  with  suspected
+COVID‐19(19).  A study carried out in an ICU in a hospital in the
+northern district of Sheung Shui/Hong Kong assessed the risks for
+health  workers in the care of patients with COVID‐19. This study
+reported that even using double gloves, there is a strong  recom‐
+mendation for HH by health professionals(20).  Concerning the so‐
+lution used, there is a variety of behavior  regarding  alcoholic
+solution  and/or water and soap use. It is noteworthy that in the
+analysed reports, inadequate supply or absence of limitations  of
+these  elements  in the studied settings was not reported.  Water
+and soap use was reported in studies  carried  out  in  countries
+with  a  tropical climate, where a predilection for HH with water
+and soap was noted, which directly refers to a greater  sense  of
+cleanliness of the hands(21). The WHO document on rational use of
+PPE for COVID‐19 recommends alcohol‐based  HH  and,  in  case  of
+dirt,  water  and soap use(18).  Based on a diagnostic assessment
+that covered previous observations of the behavior of profession‐
+als  in highly‐complex sectors, strategic actions were determined
+about HH, which would be worked on with professionals.   Evidence
+shows  that  educational actions have had positive effects, espe‐
+cially on nursing workers and should be developed with the aim of
+guidance  and  encouragement,  in  addition to building knowledge
+that  covers  biological  and  occupational  risks  in  all   as‐
+pects(11,22).   Study limitations Replication in other health in‐
+stitutions is suggested to verify if similar responses  occurred,
+based  on  the  strategy adopted in the present study.  Contribu‐
+tions to nursing, health, and public policies In view of the con‐
+tamination  potential of Sars‐CoV‐2 and the high contamination of
+health professionals due to the culture of not HH at  all  times,
+studies that have an impact and measures to Hand hygiene in high‐
+complexity sectors as an integrating element  in  the  combat  of
+Sars‐Cov‐2  De  Paula DG, Francisco MR, Freitas JD, Levachof RCQ,
+Fonseca BO, Simes BFT, et  al.   importance  by  national  public
+health institutions in Brazil and the world. Moreover, the afore‐
+mentioned study follows the role of Brazil and the  nursing  area
+in advancing knowledge that requires prevention and health promo‐
+tion actions.  Compliance with HH guidelines is one of the compo‐
+nents  in the combat of COVID‐19 transmission in the hospital en‐
+vironment.  The nursing team was more  associated  with  HH  when
+compared  to  the other professional categories studied. In rela‐
+tion to the moments after contact with the patient,  it  was  the
+most common action, corroborating self‐protection and the culture
+of using gloves as protective barriers, predisposing  HH  not  to
+perform. As for the solution used for HH, there was a similar be‐
+havior by professionals in the use of alcoholic solution and  wa‐
+ter  and  soap.   From  the comparison between the results of the
+years 2016 and 2017, it is possible to direct  continuous  adher‐
+ence  strategies that can be effective in complying with HH among
+health professionals. In the study, strategic  actions  based  on
+diagnostic situation of the environment, previous analysis of the
+behavior of health professionals and team involvement  showed  to
+be  positive  in Pediatric ICUs. The replication of actions based
+on such strategies can be considered in adhering to HH in  highly
+complex  sectors in view of the current outbreak of COVID‐19. The
+strategies used in the Campaign demonstrate that  the  deficiency
+related  to  HH  compliance does not occur exclusively due to the
+lack of knowledge of the HH technique and indications, but due to
+the  devaluation  of  the safety culture.  In view of the current
+outbreak of COVID‐19, the frequent exposure to  the  pathogen  in
+sectors of high complexity predisposes professionals and patients
+to acquire or transmit the infection. The removal of  PPE,  which
+happens  after  contact with the patient, is also reported as one
+of the essential elements that prevent contamination  of  profes‐
+sionals.  Therefore, actions aimed at reducing infection and pro‐
+tecting professionals,  through  simple  and  low‐cost  measures,
+should be considered.  Chen X, Yu B. First two months of the 2019
+Coronavirus Disease (COVID‐19) epidemic in China: real‐time  sur‐
+veillance and evaluation with a Ong SWX, Tan YK, Chia PY, Lee TH,
+Ng OT, Wong MSY, et al. Air, Surface Environmental, and  Personal
+Protective  Equipment Contamination Organizao Panamerica de Sade.
+OPAS/OMS Brasil ‐ Folha informativa  COVID‐19 (doena causada pelo
+novo  coronavrus)  [Internet]. 2020 Kratzel A, Todt D, Vkovski P,
+Steiner S, Gultom ML, Thao TTN, et al. Efficient inactivation  of
+SARS‐CoV‐2  by  WHO‐recommended  hand  rub Chou DTS, Achan P, Ra‐
+machandran M. The World Health Organization 5 Moments of Hand Hy‐
+giene:  the  scientific  foundation.  J  Bone  Jt  Surg ‐ Br Vol.
+2012;94‐B(4):4415.  Organizao Mundial da Sade. Agncia Nacional de
+Vigilncia Sanitria. Diretrizes da oms sobre higienizao das mos na
+Ministrio da Sade. Anvisa, Fiocruz. Anexo 01:  Protocolo  para  a
+prtica  de higiene das mos em servios de sade. 2013;16. Available
+from: uab.cat/search?f=title&p=Anlise de Correspondncia  aplicada
+pesquisa  em Ensino de Cincias&sc=1&ln=ca Ministrio da Sade (BR).
+Agncia Nacional de Vigilncia Sanitria. Cartaz 7 ‐ Prticas seguras
+de higiene das mos para preveno de Alvim ALS. Higienizao das mos:
+como reduzir o efeito Hawthorne? Assoc Min  Epidemiol  e  Control
+Infeces   [Internet].  2017[cited  2020  Ribeiro  JP,  Gomes  GC,
+Thofehrn MB, Porto AR, Rodrigues LPV. Ambiente de pediatria:  as‐
+pectos  que auxiliam no processo de trabalho e na Hand hygiene in
+high‐complexity sectors as an integrating element in  the  combat
+of  Sars‐Cov‐2  De  Paula  DG, Francisco MR, Freitas JD, Levachof
+RCQ, Fonseca BO, Simes BFT, et al.   World  Health  Organization‐
+WHO.  Rational  use  of  personal protective equipment for coron‐
+avirus disease (COVID‐19): interim guidance Lotfinejad N,  Peters
+A, Pittet D. Hand hygiene and the novel coronavirus pandemic: the
+role of healthcare workers. J Hosp Infect. 2020; Souza LM,  Ramos
+MF,  Becker  ESS,  Meirelles  LCS, Monteiro SAO. Adherence to the
+five moments for hand hygiene among intensive care Feng  S,  Shen
+C,  Xia  N, Song W, Fan M, Cowling BJ. Rational use of face masks
+in the COVID‐19 pandemic.  Lancet  Respir  Med.  2020;8(5):434‐6.
+Agncia  Nacional  de  Vigilncia  Sanitria. Gerncia de Vigilncia e
+Monitoramento em Servios de Sade, Gerncia Geral de Tecnologia  em
+Servios  de Sade, Orientaes para servios de sade: medidas de pre‐
+veno e controle que devem ser adotadas durante a  assistncia  aos
+casos  suspeitos  ou  confirmados  de infeco pelo novo coronavrus
+(SARS‐CoV‐2). [Internet]. Braslia; 2020[cited 2020 Cheung JCH, Ho
+LT,  Cheng  JV,  Cham  EYK, Lam KN. Staff safety during emergency
+airway management for COVID‐19 in Hong Kong. Vol. 8,
+
+
+
+
