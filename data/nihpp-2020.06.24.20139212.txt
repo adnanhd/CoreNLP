@@ -1,548 +1,528 @@
-Regional Association of Disability and SARS-CoV-2 Infection in 369 Counties of the United States
-Running Title: SARS-CoV-2 Infection among non-institutionalized disabled population
-Shahjoueic, Jiang Lib, Ramin Zandc
-Department of Molecular and Functional Genomics, Weis Center for Research, Geisinger Health System,
-Danville PA, United States.
-Word Count: 2076
-analysis. AK and DC performed data validation. JL, RZ, OO, and VA performed the analysis. JL, RZ, OO, SS
-Source of Funding: RZ and VA have funding support from the Geisinger Health Plan Quality Fund as well as
-study design, data collection, and interpretation, or the decision to submit the work for publication.
-Ramin Zand, MD, MPH
-Associate Professor of Neurology and Medicine
-Director, Stroke Program, Geisinger Northeast Region
-100 N Academy Ave, Danville PA 17822
-Background: There have been outbreaks of SARS-CoV-2 in long term care facilities and recent reports of
-disproportionate death rates among the vulnerable population. The goal of this study was to better understand
-the impact of SARS-CoV-2 infection on the non-institutionalized disabled population in the United States using
-data from the most affected states as of April 9th, 2020.
-Methods: This was an ecological study of county-level factors associated with the infection and mortality rate
-of SARS-CoV-2 in the non-institutionalized disabled population. We analyzed data from 369 counties from the
-most affected states (Michigan, New York, New Jersey, Pennsylvania, California, Louisiana, Massachusetts) in
-the United States using data available by April 9th, 2020. The variables include changes in mobility reported by
-Google, race/ethnicity, median income, education level, health insurance, and disability information from the
-United States Census Bureau. Bivariate regression analysis adjusted for state and median income was used to
-analyze the association between death rate and infection rate.
-Results: The independent sample t-test of two groups (group 1: Death rate≥ 3.4% [median] and group 2:
-Death rate < 3.4%) indicates that counties with a higher total population, a lower percentage of Black males
-and females, higher median income, higher education, and lower percentage of disabled population have a
-lower rate (< 3.4%) of SARS-CoV-2 related mortality (all p-values<4.3E-02). The results of the bivariate
-regression when controlled for median income and state show counties with a higher White disabled
-population (est: 0.19, 95% CI: 0.01-0.37; p-value:3.7E-02), and higher population with independent living
-difficulty (est: 0.15, 95% CI: -0.01-0.30; p-value: 6.0E-02) have a higher rate of SARS-CoV-2 related
-mortality. Also, the regression analysis indicates that counties with higher White disabled population (est: -
-0.22, 95% CI: -0.43-(-0.02); p-value: 3.3E-02), higher population with hearing disability (est: -0.26, 95% CI: -
-0.42- (-0.11); p-value:1.2E-03), and higher population with disability in the 18-34 years age group (est: -0.25,
-95% CI: -0.41-(-0.09); p-value:2.4E-03) show a lower rate of SARS-CoV-2 infection.
-Conclusion: Our results indicate that while counties with a higher percentage of non-institutionalized disabled
-population, especially White disabled population, show a lower infection rate, they have a higher rate of
-SARS-CoV-2 related mortality.
-Keywords: Disability disparities, Healthcare disparities, Non-institutionalized disabled population, Racial
-disparity, Health disparity, Socioeconomic factors, COVID19, United States, Population-based analysis,
-Ecological study.
-The continuous spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has highlighted
-disparities in the infection and mortality rates of this disease.1 The outbreak in a nursing home in Kirkland,
-Washington2 was the first to report death due to SARS-CoV-2 in the United States (U.S). As of May 26, 2020,
-there are over 5.6 million confirmed cases worldwide, with over 1.6 million SARS-CoV-2 cases and 99,123
-deaths in the U.S.3 SARS-CoV-2 initially attacks the respiratory system;4 with groups most susceptible to the
-infection and death being people aged 65 years and older, as well as people with certain chronic conditions and
-comorbidities. People living in nursing homes or long-term care facilities are more prone to the infection.5,6
-Recently, states are releasing data on the number of deaths from long term care facilities7 with the most recent
-report stating that more than 10,000 patients and staff in long term facilities have died,8 accentuating the
-disparities in the outcomes of the disabled population in the U.S. The populations with higher disability are
-affected by the lower quality of care and increased comorbidities9,10 even before the evidence of disparities in
-the SARS-CoV-2 outcomes was reported. However, there have been few reports concerning the non-
-institutionalized disabled population and the risk of mortality and infection by SARS-CoV-2.11 To provide
-targeted preventive strategies, adequate resources for the disabled population and their care providers, an
-examination into the infection among the non-institutionalized disabled population is a necessary first step.
-The goal of this ecological study was to determine the association between county-level non-institutionalized
-disability rates, socioeconomic factors, and SARS-CoV-2 infection and death; we hypothesized that non-
-institutionalized disability rates in counties are associated with the rate of SARS-CoV-2 infection and death.
-We conducted an ecological analysis of demographic, mobility, socioeconomic, and disability information, in
-the context of SARS-CoV-2 data in 369 counties in California, Michigan, New York, New Jersey, Louisiana,
-Pennsylvania, and Massachusetts with the initial highest SARS-CoV-2 infection and death rates as of April 9th,
-Data source:
-Data sources in this study include publicly available data from United States Census Bureau data estimated for
-2018 for demographic data per county12,13 USAFacts for SARS-CoV-2 cases estimated for the year 2020,14
-and mobility data provided by Google, as of April 5th, 2020.15
-According to Social Security, individuals who cannot engage in substantial productive activity due to
-medically diagnosable physical or mental impairment which is expected to lead to death or last for over twelve
-months are legally defined as disabled.16 The non-institutionalized disabled population was defined as
-individuals not in a nursing home, prisons, or confined to any other facilities.
-The data elements in this study included: 1) mobility data for each county, reported by Google on April 5th,
-2020, that captured percent increase or decrease in mobility (grocery mobility, retail mobility, transit mobility,
-park mobility, work mobility, and resident mobility); 2) county-level data for total disabled population by
-race/ethnicity, age, gender, and type of disability along with data on total population, median income,
-education level, and access to health insurance, all data elements extracted from the United States Census
-variables, infection and mortality rates were reported by USAFacts.14 County-level SARS-CoV-2 infection and
-mortality cases were extracted from the state’s health departments through data from hospitals, nursing homes,
-and other health organizations as reported on April 9th, 2020.
-Outcome Measures
-The outcome measure is the county-level SARS-CoV-2 infection and mortality rates for the non-
-institutionalized disabled population. The infection and mortality rates were based on CDC guidelines17
-(numerator: confirmed cases or death; denominator: total population per county). The mean of the infection
-rates or death rates were used for the comparative analysis as described below.
-Statistical Analysis
-The data elements in this study were described using their mean ± standard deviation unless otherwise stated.
-An independent sample t-test was used to determine statistical significance in SARS-CoV-2 infection and
-death rates in comparison to the mobility, race/ethnicity, disability, median income, insured population, and
-total populations in the 369 counties. Bivariate regression adjusted for the state, and median income, ± total
-population was used to analyze the association between death rate or infection rate. Statistical analyses were
-performed using the IBM SPSS Statistics 2618 and R version 3.6.2.19
-SARS-CoV-2 infection and mortality in the seven states during the first peak of infection in the U.S.
-The county-level data from 369 counties from Michigan, New York, New Jersey, Pennsylvania,
-Massachusetts, California, and Louisiana (mean population: 276,905.5±683,001.8) with the highest number
-of SARS-CoV-2 infection (as of April 9th, 2020) in the U.S. were included in this study.
-The mean and 95% confidence interval (CI) for race/ethnicity, disability age group, and disability by gender
-15.0% ±3.7%; this rate for males was 13.1%±3.1% and for the female population was at 13.4%±2.8%.
-Disability in the race/ethnic groups ranged differently with the average of disability in the Black population
-(15.4% ±6.1%) as the highest; disability in the Asian population (7.9% ±3.9%) was the lowest; disability rate
-in the white population was at 14.0%±2.9%. The age of the disabled population varied with the majority being
-75 years or older (47.1%±6.0%) and lowest in disability age group 5 to 17 years at 6.3%±2.5%. Lastly, the
-disability types also varied within the population, ambulatory disability represents the highest type of disability
-at 7.0%±1.7% on average, while individuals with self-care difficulty were on average at 2.7%±0.7%. The
-hearing difficulty was at 3.7% ±1.1%, while vision difficulty was at 2.2%±0.8%, cognitive difficulty at
-5.4%±1.4%, and independent living disability was at 6.1%±1.4%. The mean infection rate was
-1593.0±2768.9 per million with a median of 555.5, [IQR: 245.2-1486.6] while the mean mortality rate was
-3.8%±2.2% and median of 3.4% [IQR: 2.2%-5.4%].
-The independent sample t-test of the two groups (group 1: Death rate≥ 3.4% [median] and group 2: Death rate
-percentage of Black males and females, higher median income, higher education, lower percentage of disabled
-population, and a lower percentage of disabled in the age group of 35 to 64 years had a lower rate (< 3.4%) of
-SARS-CoV-2 related mortality (all p-values<4.3E-02). Additionally, a higher rate of SARS-CoV-2 infection
-was observed in counties with a higher population, a higher percentage of Black males and females, a higher
-median income, higher percentage of bachelor or graduate degree, a lower percentage of the disabled
-population, specifically a lower percentage of disabled individuals with hearing difficulty, and a lower
-Regression analysis showed a higher white disabled population, and independent living difficulty had a
-higher rate of SARS-CoV-2 related mortality.
-groups associated with SARS-CoV-2 related mortality when controlled for the median income and state.
-Counties with a higher percentage of White disabled population (est: 0.19, 95% CI: 0.01-0.37; p-value:3.7E-
-02), higher population with independent living difficulty (est: 0.15, 95% CI: -0.01-0.30; p-value: 6.0E-02), and
-higher disability in the age group 18-34 years (est:0.17, 95% CI: 0.02-0.31; p-value:2.4E-02) showed a higher
-rate of SARS-CoV-2 related mortality. The same trend is observed when controlling for the total population,
-Regression analysis indicates no significant difference in SARS-CoV-2 related Infection rates among
-counties with different disability rates.
-observed that counties with higher percentage of White disabled population (est: -0.22, 95% CI: -0.43-(-0.02);
-p-value: 3.3E-02), higher percentage of people with hearing disability (est: -0.26, 95% CI: -0.42-(-0.11); p-
-value:1.2E-03), and higher percentage of people with disability in the 18-34 years age group (est: -0.25, 95%
-CI: -0.41-(-0.09); p-value:2.4E-03) showed a lower rate of SARS-CoV-2 infection. The bivariate regression
-analysis of the SARS-CoV-2 Infection rate when controlled for the total population, median income, and state
-Our results indicate that counties with a higher percentage of non-institutionalized White disabled and a higher
-rate of independent living difficulty show a higher rate of SARS-CoV-2 related mortality. These results are
-plausible with the knowledge that the disabled population has a higher rate of obesity,20–23lack of physical
-the SARS-CoV-2 infection, which can ultimately lead to a poor outcome.9,10 Another reason for the high
-mortality rates could be due to the independent living difficulty that may have been compounded by the
-pandemic such as transportation limitations, grocery access, reduced opportunity for daily care, and essential
-services.25 Additionally, in anticipation of a supply crisis, many health departments around the U.S. considered
-options on how to triage patients who should be given the most aggressive life-saving therapies in the event of
-a supply shortage.26 In Washington state, a plan was put forward to withhold advanced care for patients with
-heart failure, chronic lung and liver disease among other organ dysfunctions; diseases that are common co-
-morbidities with the adult disabled population.26–28 Although this action was not officially taken in the U.S,
-there is a history of systematic discrimination in policies and treatment of disabled patients and lack of
-adequate preparedness for disabled patients during a pandemic.23
-The center for disease control and prevention (CDC) cautioned that difficulty to understand information,
-limited mobility, and inability to communicate symptoms/illness may put the disabled patient population at
-risk.29 Alternatively, our results when adjusted for state and median income show counties with higher White
-disabled population and higher hearing disabled population have a lower rate of SARS-CoV-2 infection. There
-is a possibility that people with a hearing disability are overcompensated with visual information,30 which
-could potentially increase their attentiveness to the visual information concerning the spread of SARS-CoV-2
-and their adherence to the enforced state-wide recommendations for the pandemic. Nonetheless, understanding
-how this sub-population is potentially better-protected needs further investigation.
-Additionally, there was no significant difference in any of the disability groups when the analysis was
-controlled for population size, median income, and state. Although our bivariate regression analysis results on
-SARS-CoV-2 infection rate show there is no significance among states with different disability rates, this
-finding is not consistent with reports that the disabled population is at a higher risk of infection,27,31 we
-emphasize that the studied population was non-institutionalized disabled, so the trends may be different from
-studies that include both the institutionalized and non-institutionalized disabled population.31 The influenza
-pandemics showed that disabled patients are at an increased risk of infection, but also less likely to have access
-to vaccinations or be educated on their medical needs.31 The disabled population are at an increased risk of
-exposure, complication, and death due to their reliance on health services that may be on hold during
-pandemics, and if those services are available, they run the risk of exposure to the virus.31
-This study provides some insight into how the counties with higher non-institutionalized disabled population
-may be affected by SARS-CoV-2 in the most affected states during the first wave of infection in the United
-States. SARS-CoV-2 is a call to pay more attention to this sub-population of non-institutionalized disabled
-civilians that are 12.7%32 of the total U.S population especially since the population is expected to see a 20%
-increase in adults over 65 years or older within the next decade,33 this age group is currently 40%34 of the
-disabled population. It is imperative that policies and programs are being put in place to avoid a public health
-crisis in the future for this group.31
-Several limitations were observed in this study; the data used in this study was based on the county level. The
-data on the infection rate is likely an underestimate of the true cases, especially for the healthier population. In
-the future, we will continue to monitor and study the impact of the infection on this vulnerable population.
-In conclusion, our results indicate that while counties with a higher percentage of the non-institutionalized
-disabled population, especially White disabled population, show a lower infection rate, they have a higher rate
-of SARS-CoV-2 related mortality.
-Vida Abedi, Oluwaseyi Olulana, Venkatesh Avula, Durgesh Chaudhary, Ayesha Khan, Shima Shahjouei,
-Jiang Li, R. Z. Racial, Economic and Health Inequality and COVID-19 Infection in the United States.
-Boodman, Eric and Branswell, H. First Covid-19 outbreak in a U.S. Nursing Home Raises Concerns.
-virus-spread-in-nursing-homes/. (Accessed: 29th April 2020)
-Rothan, H. A. & Byrareddy, S. N. The epidemiology and pathogenesis of coronavirus disease (COVID-19)
-JHU. COVID-19 Dashboard by the Center for Systems Science and Engineering. Available at:
-Shikha Garg, MD1,*; Lindsay Kim, MD1,*; Michael Whitaker, MPH1, 2; Alissa O’Halloran, MSPH1;
-Charisse Cummings, MPH1, 3; Rachel Holstein, MPH1, 4; Mila Prill, MSPH1; Shua J. Chai, MD1; Pam D.
-Kirley, MPH5; Nisha B. Alden, MPH6; Breanna Kawasaki, MPH6; Kim, M. Hospitalization Rates and
-Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 — COVID-
-NET, 14 States, March 1–30, 2020. 69, (2020).
-Chidambaram, P. State Reporting of Cases and Deaths Due to COVID-19 in Long-Term Care Facilities.
-_g3x0lLoESTRe6UgazNM0z81iW3Vn2rGNK1. (Accessed: 29th April 2020)
-Kaiser Family Foundation. More than 10,000 People in Long-Term Care Facilities Have Died Due to
-term-care-facilities-have-died-due-to-covid-19/. (Accessed: 29th April 2020)
-Reichard, A., Stolzle, H. & Fox, M. H. Health disparities among adults with physical disabilities or
-cognitive limitations compared to individuals with no disabilities in the United States. Disabil. Health J. 4,
-Havercamp, S. M., Scandlin, D. & Roth, M. Health disparities among adults with developmental disabilities,
-adults with other disabilities, and adults not reporting disability in North Carolina. Public Health Rep. 119,
-Pulrang, A. COVID-19 Teaches Us A Lot About Differences In The Disability Community. (2020).
-differences-in-the-disability-community/#1d756a6b7714. (Accessed: 29th April 2020)
-United States Census. DISABILITY CHARACTERISTICS. Available at:
-Social Security. Disability Evaluation Under Social Security. Available at:
-Google. See how your community is moving around differently due to COVID-19. Available at:
-Coronavirus Locations: COVID-19 Map by County and State. Available at:
-CDC. Principles of Public Health Practice, Third Edition. Available at:
-The R Foundation. The R Project for Statistical Computing. Http://Www.R-Project.Org/ 1–12 (2018).
-Tobergte, D. R. & Curtis, S. Disability and Health in the United States, 2001-2005. J. Chem. Inf. Model. 53,
-Froehlich-Grobe, Katherine and Lollar, D. Obesity and Disability: Time to Act. Am. J. Prev. Med. 41, 541–
-Brian S. Armour, PhD Charles Adam Brush, MSW, MPH Vincent A. Campbell, PhD John E. Crews, MA,
-DPA Bradford P. Goodwin, BFA Julie Hentz, BA Namita S. Joshi, MA, MPA Theresa Kanter, MURP
-Roland Richard, MPH Mark E. Swanson, MD, MPH Candice Jalonen Swartwood, and D. L. Disability and
-Health State Chartbook. Profiles of Health for Adults With Disabilities. Cent. DI (2006).
-disparity population. Am. J. Public Health 105, S198–S206 (2015).
-Reichard, A. & Stolzle, H. Diabetes among adults with cognitive limitations compared to individuals with
-no cognitive disabilities. Intellect. Dev. Disabil. 49, 141–154 (2011).
-Krahn, G. L., Walker, D. K. & Correa-De-Araujo, R. Persons with disabilities as an unrecognized health
-Pineda, V. S. & Corburn, J. Disability, Urban Health Equity, and the Coronavirus Pandemic: Promoting
-Weise, Karen and Baker, M. Chilling’ Plans: Who Gets Care as Washington State Hospitals Fill Up? The
-state.html. (Accessed: 18th June 2020)
-Turk, M. A., Landes, S. D., Formica, M. K. & Goss, K. D. Intellectual and developmental disability and
-COVID-19 case-fatality trends: TriNetX analysis. Disabil. Health J. 100942 (2020).
-Wu, Y., Huang, H., Wu, B., McCrone, S. & Lai, H. J. Age distribution and risk factors for the onset of
-severe disability among community-dwelling older adults with functional limitations. J. Appl. Gerontol. 26,
-extra-precautions/people-with-disabilities.html. (Accessed: 18th June 2020)
-United States Census. Anniversary of Americans With Disabilities Act: July 26, 2019. Available at:
-Campbell, V. A., Gilyard, J. A., Sinclair, L., Sternberg, T. & Kailes, J. I. Preparing for and responding to
-pandemic influenza: Implications for people with disabilities. Am. J. Public Health 99, 294–300 (2009).
-Hauthal, N., Sandmann, P., Debener, S. & Thome, J. D. Visual movement perception in deaf and hearing
-individuals. Adv. Cogn. Psychol. 9, 53–61 (2013).
-Colby, S. L. & Ortman, J. M. The Baby Boom Cohort in the United States : 2012 to 2060. US Census Bur.
-Control, C. for D. Disability Impacts All of Us. Available at:
-mean, minimum, maximum, confidence interval lower and upper bound
-and median income
-the state, median income, and total population
-for state, and median income
-for the state, median income, and total population
-Data Elements
-Total population
-SARS-CoV-2 infection rate
-SARS-CoV-2 infection death
-Retail mobility
-Grocery mobility
-Park mobility
-Transit mobility
-Work mobility
-Resident mobility
-Black male
-Black female
-Asian male
-Asian female
-White male
-White female
-Hispanic male
-Hispanic female
-Median income
-Total population
-Rate of SARS-CoV-2 infection in one per million
-Rate of SARS-CoV-2 infection related death (percent)
-Percent below poverty level population for whom poverty
-status is determined RACE and HISPANIC OR LATINO ORIGIN
-White alone
-Percent population 25 years and over bachelor’s degree or
-Insured male
-Percent insured civilian noninstitutionalized population SEX
-Insured female
-Percent insured civilian noninstitutionalized population SEX
-Insured Black
-Percent insured civilian noninstitutionalized population RACE
-and HISPANIC OR LATINO ORIGIN Black or African American
-Google retail recreation mobility
-Google grocery pharmacy mobility
-Google parks mobility
-Google transit mobility
-Google workplace mobility
-Google residential mobility
-Percent Black alone male
-Percent Black alone female
-Percent Asian alone male
-Percent Asian alone female
-Percent Non-Hispanic White alone male
-Percent Non-Hispanic White alone female
-Percent Hispanic male
-Percent Hispanic female
-Median family income; past 12 months 2018
-Percent below poverty level population for whom poverty
-status is determined
-Insured Asian
-Percent insured civilian noninstitutionalized population RACE
-and HISPANIC OR LATINO ORIGIN ASIAN alone
-Insured Hispanic
-Percent insured civilian noninstitutionalized population RACE
-and HISPANIC OR LATINO ORIGIN Hispanic or Latino of any
-Insured White alone
-Percent insured civilian noninstitutionalized population RACE
-and HISPANIC OR LATINO ORIGIN White alone not Hispanic or
-Percent public coverage Medicaid means tested public
-coverage alone or in combination
-Percent with a disability total civilian non-institutionalized
-Disability male
-Disability female
-Disability Black
-Percent with a disability SEX Male
-Percent with a disability SEX Female
-Percent with a disability RACE AND HISPANIC OR LATINO
-ORIGIN Black or African American
-Disability Asian
-Percent with a disability RACE AND HISPANIC OR LATINO
-ORIGIN Asian alone
-Disability White
-Percent with a disability RACE AND HISPANIC OR LATINO
-ORIGIN White alone, not Hispanic or Latino
-Disability Hispanic
-Percent with a disability RACE AND HISPANIC OR LATINO
-ORIGIN Hispanic or Latino (of any race)
-Disability 5 to 17 years
-Disability 18 to 34 years
-Disability 35 to 64 years
-Disability 65 to 74 years
-Disability 75 years and over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory difficulty
-Disability self-care difficulty
-Disability independent living
-Percent with a disability AGE 5 to 17 years
-Percent with a disability AGE 18 to 34 years
-Percent with a disability AGE 35 to 64 years
-Percent with a disability AGE 65 to 74 years
-Percent with a disability AGE 75 years
-Percent with a disability with a hearing difficulty
-Percent with a disability with a vision difficulty
-Percent with a disability with a cognitive difficulty
-Percent with disability with an ambulatory difficulty
-Percent with a disability with self-care difficulty
-Percent with a disability with independent living difficulty
-Data Elements
-Total population
-SARS-CoV-2 infection Rate*
-Retail mobility
-Grocery mobility
-Park mobility
-Transit mobility
-Work mobility
-Resident mobility
-Black male
-Black female
-Asian male
-Asian female
-White male
-White female
-Hispanic male
-Hispanic female
-Median income
-Insured male
-Insured female
-Insured Black
-Insured Asian
-Insured Hispanic
-Insured White alone
-Disability male
-Disability female
-Group 1: SARS-CoV-2
-death rate ≥ 3.4
-Group 2: SARS-CoV-2
-death rate < 3.4
-Disability Black
-Disability Asian
-Disability White
-Disability Hispanic
-Disability 5 to 17 years
-Disability 18 to 34 years
-Disability 35 to 64 years
-Disability 65 to 74 years
-Disability 75 years and over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory
-Disability self-care difficulty
-Disability independent living
-+ All reported numbers are in percent except total population, SARS-CoV-2 infection rate, and median income.
-* Rate of SARS-CoV-2 infection in one per Million
-Data Elements
-Total population
-SARS-CoV-2 death Rate
-Retail mobility
-Grocery mobility
-Park mobility
-Transit mobility
-Work mobility
-Resident mobility
-Black male
-Black female
-Asian male
-Asian female
-White male
-White female
-Hispanic male
-Hispanic female
-Median income
-Insured male
-Insured female
-Insured Black
-Insured Asian
-Insured Hispanic
-Insured White alone
-Disability male
-Disability female
-Disability Black
-Group 1: SARS-CoV-2 Infection
-Group 2: SARS-CoV-2
-Infection Rate < 555.6*
-Std. Deviation
-Disability Asian
-Disability White
-Disability Hispanic
-Disability 5 to 17 years
-Disability 18 to 34 years
-Disability 35 to 64 years
-Disability 65 to 74 years
-Disability 75 years and
-Disability hearing
-Disability vision difficulty
-Disability cognitive
-Disability ambulatory
-Disability self-care
-Disability independent
-living difficulty
-+ All reported numbers are in percent except total population, SARS-CoV-2 infection rate, and median income.
-* Rate of SARS-CoV-2 infection in one per Million
-and total population
-Risk Factors
-Disability male
-Disability female
-Disability Black
-Disability Asian
-Disability White alone
-Disability Hispanic
-Disability 5 to 17 Years
-Disability 18 to 34 Years
-Disability 35 to 64 Years
-Disability 65 to 74 Years
-Disability 75 Years and Over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory difficulty
-Disability self-care difficulty
-Disability independent living
-Risk Factors
-Disability male
-Disability female
-Disability Black
-Disability Asian
-Disability White alone
-Disability Hispanic
-Disability 5 to 17 Years
-Disability 18 to 34 Years
-Disability 35 to 64 Years
-Disability 65 to 74 Years
-Disability 75 Years and Over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory difficulty
-Disability self-care difficulty
-Disability independent living
-and total population
-Risk Factors
-Disability male
-Disability female
-Disability Black
-Disability Asian
-Disability White alone
-Disability Hispanic
-Disability 5 to 17 Years
-Disability 18 to 34 Years
-Disability 35 to 64 Years
-Disability 65 to 74 Years
-Disability 75 Years and Over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory difficulty
-Disability self-care difficulty
-Disability independent living
-Standard Statistic
-Conf.low Conf.high
-Risk Factors
-Disability male
-Disability female
-Disability Black
-Disability Asian
-Disability White alone
-Disability Hispanic
-Disability 5 to 17 Years
-Disability 18 to 34 Years
-Disability 35 to 64 Years
-Disability 65 to 74 Years
-Disability 75 Years and Over
-Disability hearing difficulty
-Disability vision difficulty
-Disability cognitive difficulty
-Disability ambulatory difficulty
-Disability self-care difficulty
-Disability independent living
-elements: mean, minimum, maximum, confidence interval lower and upper bound
-Data Elements
-Interval Lower
-Interval Upper
-Total population
-SARS-CoV-2 infection
-SARS-CoV-2 related
-death rate
-Retail mobility
-Grocery mobility
-Park mobility
-Transit mobility
-Work mobility
-Resident mobility
-Black male
-Black female
-Asian male
-Asian female
-White male
-White female
-Hispanic male
-Hispanic female
-Median income
-Insured male
-Insured female
-Insured Black
-Insured Asian
-Insured Hispanic
-Insured White alone
-Disability male
-Disability female
-Disability Black
-Disability Asian
-Disability White
-Disability Hispanic
-Disability 5 to 17 years
-Disability 18 to 34 years
-Disability 35 to 64 years
-Disability 65 to 74 years
-Disability 75 years and
-Disability hearing
-Disability vision
-Disability cognitive
-Disability ambulatory
-Disability self-care
-Disability independent
-living difficulty
-+ All reported numbers are in percent except total population, SARS-CoV-2 infection rate, and median income.
-* Rate of SARS-CoV-2 infection in one per Million
+Regional  Association  of  Disability and SARS‐CoV‐2 Infection in
+369 Counties of the United States Running Title:  SARS‐CoV‐2  In‐
+fection among non‐institutionalized disabled population Shahjoue‐
+ic, Jiang Lib, Ramin Zandc Department of Molecular and Functional
+Genomics,  Weis  Center  for  Research,  Geisinger Health System,
+Danville PA, United States.  Word Count: 2076 analysis. AK and DC
+performed data validation. JL, RZ, OO, and VA performed the anal‐
+ysis. JL, RZ, OO, SS Source of Funding: RZ and  VA  have  funding
+support  from  the  Geisinger Health Plan Quality Fund as well as
+study design, data collection, and interpretation, or  the  deci‐
+sion to submit the work for publication.  Ramin Zand, MD, MPH As‐
+sociate Professor of Neurology and Medicine Director, Stroke Pro‐
+gram,  Geisinger  Northeast Region 100 N Academy Ave, Danville PA
+17822 Background: There have been outbreaks of SARS‐CoV‐2 in long
+term care facilities and recent reports of disproportionate death
+rates among the vulnerable population. The goal of this study was
+to  better  understand  the impact of SARS‐CoV‐2 infection on the
+non‐institutionalized disabled population in  the  United  States
+using  data  from the most affected states as of April 9th, 2020.
+Methods: This was an ecological study of county‐level factors as‐
+sociated  with  the infection and mortality rate of SARS‐CoV‐2 in
+the non‐institutionalized disabled population. We  analyzed  data
+from  369  counties  from the most affected states (Michigan, New
+York, New Jersey, Pennsylvania, California, Louisiana,  Massachu‐
+setts)  in  the  United States using data available by April 9th,
+2020. The variables  include  changes  in  mobility  reported  by
+Google,  race/ethnicity,  median  income, education level, health
+insurance, and disability information from the United States Cen‐
+sus  Bureau. Bivariate regression analysis adjusted for state and
+median income was used to analyze the association  between  death
+rate  and infection rate.  Results: The independent sample t‐test
+of two groups (group 1: Death rate 3.4%  [median]  and  group  2:
+Death  rate  <  3.4%) indicates that counties with a higher total
+population, a lower percentage of Black males and females, higher
+median income, higher education, and lower percentage of disabled
+population have a lower rate (< 3.4%) of SARS‐CoV‐2 related  mor‐
+tality  (all  p‐values<4.3E‐02). The results of the bivariate re‐
+gression when controlled for median income and state  show  coun‐
+ties  with a higher White disabled population (est: 0.19, 95% CI:
+0.01‐0.37; p‐value:3.7E‐02), and higher population with  indepen‐
+dent  living  difficulty (est: 0.15, 95% CI: ‐0.01‐0.30; p‐value:
+6.0E‐02) have a higher rate of SARS‐CoV‐2 related mortality.  Al‐
+so,  the  regression analysis indicates that counties with higher
+White disabled population (est: ‐ 0.22, 95% CI: ‐0.43‐(‐0.02); p‐
+value:  3.3E‐02), higher population with hearing disability (est:
+‐0.26, 95% CI: ‐ 0.42‐ (‐0.11); p‐value:1.2E‐03), and higher pop‐
+ulation with disability in the 18‐34 years age group (est: ‐0.25,
+95% CI: ‐0.41‐(‐0.09); p‐value:2.4E‐03)  show  a  lower  rate  of
+SARS‐CoV‐2  infection.   Conclusion:  Our  results  indicate that
+while counties with a higher percentage of  non‐institutionalized
+disabled population, especially White disabled population, show a
+lower infection rate, they have a higher rate of  SARS‐CoV‐2  re‐
+lated  mortality.   Keywords:  Disability disparities, Healthcare
+disparities, Non‐institutionalized  disabled  population,  Racial
+disparity,  Health  disparity,  Socioeconomic  factors,  COVID19,
+United States, Population‐based analysis, Ecological study.   The
+continuous  spread  of  severe  acute respiratory syndrome coron‐
+avirus 2 (SARS‐CoV‐2) has highlighted disparities in  the  infec‐
+tion  and  mortality  rates  of  this disease.1 The outbreak in a
+nursing home in Kirkland, Washington2 was  the  first  to  report
+death due to SARS‐CoV‐2 in the United States (U.S). As of May 26,
+2020, there are over 5.6 million confirmed cases worldwide,  with
+over  1.6 million SARS‐CoV‐2 cases and 99,123 deaths in the U.S.3
+SARS‐CoV‐2 initially attacks the respiratory system;4 with groups
+most  susceptible to the infection and death being people aged 65
+years and older, as well as people with  certain  chronic  condi‐
+tions  and comorbidities. People living in nursing homes or long‐
+term care facilities are more prone to the infection.5,6  Recent‐
+ly,  states  are releasing data on the number of deaths from long
+term care facilities7 with the most recent  report  stating  that
+more  than 10,000 patients and staff in long term facilities have
+died,8 accentuating the disparities in the outcomes of  the  dis‐
+abled population in the U.S. The populations with higher disabil‐
+ity are affected by the lower quality of care and  increased  co‐
+morbidities9,10  even  before  the evidence of disparities in the
+SARS‐CoV‐2 outcomes was reported. However, there  have  been  few
+reports concerning the non‐ institutionalized disabled population
+and the risk of mortality and infection by SARS‐CoV‐2.11 To  pro‐
+vide  targeted  preventive strategies, adequate resources for the
+disabled population and their care providers, an examination into
+the infection among the non‐institutionalized disabled population
+is a necessary first step.  The goal of this ecological study was
+to  determine  the  association between county‐level non‐institu‐
+tionalized disability rates,  socioeconomic  factors,  and  SARS‐
+CoV‐2 infection and death; we hypothesized that non‐ institution‐
+alized disability rates in counties are associated with the  rate
+of  SARS‐CoV‐2  infection  and death.  We conducted an ecological
+analysis of demographic, mobility, socioeconomic, and  disability
+information, in the context of SARS‐CoV‐2 data in 369 counties in
+California, Michigan, New York, New Jersey, Louisiana, Pennsylva‐
+nia, and Massachusetts with the initial highest SARS‐CoV‐2 infec‐
+tion and death rates as of April 9th, Data source:  Data  sources
+in  this study include publicly available data from United States
+Census Bureau data estimated for 2018 for  demographic  data  per
+county12,13  USAFacts for SARS‐CoV‐2 cases estimated for the year
+2020,14 and mobility data provided by Google, as  of  April  5th,
+2020.15  According to Social Security, individuals who cannot en‐
+gage in substantial productive activity due to medically diagnos‐
+able  physical  or mental impairment which is expected to lead to
+death or last for over twelve months are legally defined as  dis‐
+abled.16  The  non‐institutionalized  disabled population was de‐
+fined as individuals not in a nursing home, prisons, or  confined
+to any other facilities.  The data elements in this study includ‐
+ed: 1) mobility data for each county, reported by Google on April
+5th, 2020, that captured percent increase or decrease in mobility
+(grocery mobility, retail mobility, transit mobility, park mobil‐
+ity,  work mobility, and resident mobility); 2) county‐level data
+for total disabled population by race/ethnicity, age, gender, and
+type  of  disability  along with data on total population, median
+income, education level, and access to health insurance, all data
+elements  extracted  from the United States Census variables, in‐
+fection and mortality rates were reported by USAFacts.14  County‐
+level  SARS‐CoV‐2  infection  and  mortality cases were extracted
+from the states health departments through data  from  hospitals,
+nursing  homes,  and  other  health  organizations as reported on
+April 9th, 2020.  Outcome Measures The  outcome  measure  is  the
+county‐level  SARS‐CoV‐2  infection  and  mortality rates for the
+non‐ institutionalized disabled  population.  The  infection  and
+mortality  rates  were based on CDC guidelines17 (numerator: con‐
+firmed cases or death; denominator: total population per county).
+The  mean of the infection rates or death rates were used for the
+comparative analysis as described  below.   Statistical  Analysis
+The  data  elements in this study were described using their mean
+standard deviation unless otherwise stated.  An independent  sam‐
+ple  t‐test  was  used  to  determine statistical significance in
+SARS‐CoV‐2 infection and death rates in comparison to the mobili‐
+ty,  race/ethnicity,  disability,  median income, insured popula‐
+tion, and total populations in the 369  counties.  Bivariate  re‐
+gression  adjusted for the state, and median income,  total popu‐
+lation was used to analyze the association between death rate  or
+infection rate. Statistical analyses were performed using the IBM
+SPSS Statistics 2618 and R version 3.6.2.19 SARS‐CoV‐2  infection
+and mortality in the seven states during the first peak of infec‐
+tion in the U.S.  The county‐level data from  369  counties  from
+Michigan, New York, New Jersey, Pennsylvania, Massachusetts, Cal‐
+ifornia, and Louisiana (mean population: 276,905.5683,001.8) with
+the  highest  number  of  SARS‐CoV‐2  infection (as of April 9th,
+2020) in the U.S. were included in this study.  The mean and  95%
+confidence  interval  (CI)  for  race/ethnicity,  disability  age
+group, and disability by gender 15.0% 3.7%; this rate  for  males
+was  13.1%3.1%  and  for  the female population was at 13.4%2.8%.
+Disability in the race/ethnic groups ranged differently with  the
+average of disability in the Black population (15.4% 6.1%) as the
+highest; disability in the Asian population (7.9% 3.9%)  was  the
+lowest; disability rate in the white population was at 14.0%2.9%.
+The age of the disabled population varied with the majority being
+75  years or older (47.1%6.0%) and lowest in disability age group
+5 to 17 years at 6.3%2.5%. Lastly, the disability types also var‐
+ied  within  the population, ambulatory disability represents the
+highest type of disability at 7.0%1.7% on average, while individ‐
+uals  with  self‐care difficulty were on average at 2.7%0.7%. The
+hearing difficulty was at 3.7% 1.1%, while vision difficulty  was
+at  2.2%0.8%,  cognitive  difficulty at 5.4%1.4%, and independent
+living disability was at 6.1%1.4%. The mean  infection  rate  was
+1593.02768.9   per   million   with  a  median  of  555.5,  [IQR:
+245.2‐1486.6] while the mean mortality rate was 3.8%2.2% and  me‐
+dian  of 3.4% [IQR: 2.2%‐5.4%].  The independent sample t‐test of
+the two groups (group 1: Death rate 3.4% [median]  and  group  2:
+Death  rate  percentage of Black males and females, higher median
+income, higher education, lower percentage  of  disabled  popula‐
+tion,  and  a lower percentage of disabled in the age group of 35
+to 64 years had a lower rate (< 3.4%) of SARS‐CoV‐2 related  mor‐
+tality  (all  p‐values<4.3E‐02).  Additionally,  a higher rate of
+SARS‐CoV‐2 infection was observed in counties with a higher popu‐
+lation,  a higher percentage of Black males and females, a higher
+median income, higher percentage of bachelor or graduate  degree,
+a  lower  percentage  of  the disabled population, specifically a
+lower percentage of disabled individuals with hearing difficulty,
+and  a  lower  Regression analysis showed a higher white disabled
+population, and independent living difficulty had a  higher  rate
+of  SARS‐CoV‐2  related  mortality.  groups associated with SARS‐
+CoV‐2 related mortality when controlled for the median income and
+state.  Counties with a higher percentage of White disabled popu‐
+lation (est: 0.19, 95% CI: 0.01‐0.37; p‐value:3.7E‐  02),  higher
+population with independent living difficulty (est: 0.15, 95% CI:
+‐0.01‐0.30; p‐value: 6.0E‐02), and higher disability in  the  age
+group  18‐34 years (est:0.17, 95% CI: 0.02‐0.31; p‐value:2.4E‐02)
+showed a higher rate of SARS‐CoV‐2 related  mortality.  The  same
+trend  is observed when controlling for the total population, Re‐
+gression analysis indicates no significant  difference  in  SARS‐
+CoV‐2  related Infection rates among counties with different dis‐
+ability rates.  observed that counties with higher percentage  of
+White  disabled population (est: ‐0.22, 95% CI: ‐0.43‐(‐0.02); p‐
+value: 3.3E‐02), higher percentage of people  with  hearing  dis‐
+ability  (est:  ‐0.26,  95% CI: ‐0.42‐(‐0.11); p‐ value:1.2E‐03),
+and higher percentage of people  with  disability  in  the  18‐34
+years  age  group  (est:  ‐0.25,  95%  CI:  ‐0.41‐(‐0.09); p‐val‐
+ue:2.4E‐03) showed a lower rate of SARS‐CoV‐2 infection. The  bi‐
+variate regression analysis of the SARS‐CoV‐2 Infection rate when
+controlled for the total population, median income, and state Our
+results  indicate  that counties with a higher percentage of non‐
+institutionalized White disabled and a higher rate of independent
+living  difficulty  show a higher rate of SARS‐CoV‐2 related mor‐
+tality. These results are plausible with the knowledge  that  the
+disabled  population  has  a  higher  rate of obesity,2023lack of
+physical the SARS‐CoV‐2 infection, which can ultimately lead to a
+poor  outcome.9,10  Another  reason  for the high mortality rates
+could be due to the independent living difficulty that  may  have
+been  compounded  by  the pandemic such as transportation limita‐
+tions, grocery access, reduced opportunity for  daily  care,  and
+essential  services.25  Additionally, in anticipation of a supply
+crisis, many health departments around the  U.S.  considered  op‐
+tions  on how to triage patients who should be given the most ag‐
+gressive life‐saving therapies in the event of  a  supply  short‐
+age.26  In  Washington  state, a plan was put forward to withhold
+advanced care for patients with heart failure, chronic  lung  and
+liver  disease  among other organ dysfunctions; diseases that are
+common co‐ morbidities with the  adult  disabled  population.2628
+Although  this  action was not officially taken in the U.S, there
+is a history of systematic discrimination in policies and  treat‐
+ment  of  disabled patients and lack of adequate preparedness for
+disabled patients during a pandemic.23  The  center  for  disease
+control  and prevention (CDC) cautioned that difficulty to under‐
+stand information, limited mobility, and inability to communicate
+symptoms/illness  may  put  the  disabled  patient  population at
+risk.29 Alternatively, our results when adjusted  for  state  and
+median income show counties with higher White disabled population
+and higher hearing disabled population have a lower rate of SARS‐
+CoV‐2  infection. There is a possibility that people with a hear‐
+ing disability are  overcompensated  with  visual  information,30
+which  could potentially increase their attentiveness to the vis‐
+ual information concerning the spread of SARS‐CoV‐2 and their ad‐
+herence  to  the enforced state‐wide recommendations for the pan‐
+demic. Nonetheless, understanding how this sub‐population is  po‐
+tentially  better‐protected  needs  further investigation.  Addi‐
+tionally, there was no significant difference in any of the  dis‐
+ability  groups  when  the analysis was controlled for population
+size, median income, and state. Although our bivariate regression
+analysis  results  on  SARS‐CoV‐2 infection rate show there is no
+significance among states with different disability  rates,  this
+finding  is not consistent with reports that the disabled popula‐
+tion is at a higher risk of infection,27,31 we emphasize that the
+studied  population  was  non‐institutionalized  disabled, so the
+trends may be different from studies that include both the insti‐
+tutionalized and non‐institutionalized disabled population.31 The
+influenza pandemics showed that disabled patients are at  an  in‐
+creased risk of infection, but also less likely to have access to
+vaccinations or be educated on their medical  needs.31  The  dis‐
+abled  population are at an increased risk of exposure, complica‐
+tion, and death due to their reliance on health services that may
+be on hold during pandemics, and if those services are available,
+they run the risk of exposure to the virus.31 This study provides
+some insight into how the counties with higher non‐institutional‐
+ized disabled population may be affected  by  SARS‐CoV‐2  in  the
+most  affected  states  during the first wave of infection in the
+United States. SARS‐CoV‐2 is a call to pay more attention to this
+sub‐population  of  non‐institutionalized disabled civilians that
+are 12.7%32 of the total U.S population especially since the pop‐
+ulation is expected to see a 20% increase in adults over 65 years
+or older within the next decade,33 this age  group  is  currently
+40%34  of the disabled population. It is imperative that policies
+and programs are being put in place to avoid a public health cri‐
+sis  in the future for this group.31 Several limitations were ob‐
+served in this study; the data used in this study  was  based  on
+the county level. The data on the infection rate is likely an un‐
+derestimate of the true cases, especially for the healthier popu‐
+lation.  In the future, we will continue to monitor and study the
+impact of the infection on this vulnerable population.   In  con‐
+clusion,  our  results indicate that while counties with a higher
+percentage of the non‐institutionalized disabled population,  es‐
+pecially  White disabled population, show a lower infection rate,
+they have a higher rate of SARS‐CoV‐2  related  mortality.   Vida
+Abedi,  Oluwaseyi  Olulana,  Venkatesh  Avula, Durgesh Chaudhary,
+Ayesha Khan, Shima Shahjouei, Jiang Li, R.  Z.  Racial,  Economic
+and  Health  Inequality  and  COVID‐19  Infection  in  the United
+States.  Boodman, Eric and Branswell, H. First Covid‐19  outbreak
+in a U.S. Nursing Home Raises Concerns.  virus‐spread‐in‐nursing‐
+homes/. (Accessed: 29th April 2020) Rothan, H. A. & Byrareddy, S.
+N.  The  epidemiology  and  pathogenesis  of  coronavirus disease
+(COVID‐19) JHU. COVID‐19 Dashboard by the Center for Systems Sci‐
+ence  and  Engineering. Available at: Shikha Garg, MD1,*; Lindsay
+Kim, MD1,*; Michael Whitaker, MPH1, 2; Alissa  OHalloran,  MSPH1;
+Charisse Cummings, MPH1, 3; Rachel Holstein, MPH1, 4; Mila Prill,
+MSPH1; Shua J. Chai, MD1; Pam D.  Kirley, MPH5; Nisha  B.  Alden,
+MPH6;  Breanna  Kawasaki, MPH6; Kim, M. Hospitalization Rates and
+Characteristics of  Patients  Hospitalized  with  Laboratory‐Con‐
+firmed  Coronavirus  Disease  2019   COVID‐ NET, 14 States, March
+130, 2020. 69, (2020).  Chidambaram, P. State Reporting of  Cases
+and   Deaths  Due  to  COVID‐19  in  Long‐Term  Care  Facilities.
+_g3x0lLoESTRe6UgazNM0z81iW3Vn2rGNK1. (Accessed: 29th April  2020)
+Kaiser  Family  Foundation.  More than 10,000 People in Long‐Term
+Care Facilities Have Died Due to  term‐care‐facilities‐have‐died‐
+due‐to‐covid‐19/. (Accessed: 29th April 2020) Reichard, A., Stol‐
+zle, H. & Fox, M. H. Health disparities among adults with  physi‐
+cal disabilities or cognitive limitations compared to individuals
+with no disabilities in the United States. Disabil. Health J.  4,
+Havercamp,  S.  M.,  Scandlin,  D.  & Roth, M. Health disparities
+among adults with developmental disabilities, adults  with  other
+disabilities,  and  adults not reporting disability in North Car‐
+olina. Public Health Rep. 119, Pulrang, A. COVID‐19 Teaches Us  A
+Lot  About Differences In The Disability Community. (2020).  dif‐
+ferences‐in‐the‐disability‐community/#1d756a6b7714.    (Accessed:
+29th  April  2020)  United States Census. DISABILITY CHARACTERIS‐
+TICS. Available at: Social Security. Disability Evaluation  Under
+Social  Security. Available at: Google. See how your community is
+moving around differently due to COVID‐19. Available  at:  Coron‐
+avirus Locations: COVID‐19 Map by County and State. Available at:
+CDC. Principles of Public Health Practice, Third Edition.  Avail‐
+able  at: The R Foundation. The R Project for Statistical Comput‐
+ing. Http://Www.R‐Project.Org/ 112 (2018).   Tobergte,  D.  R.  &
+Curtis, S. Disability and Health in the United States, 2001‐2005.
+J. Chem. Inf. Model. 53, Froehlich‐Grobe, Katherine  and  Lollar,
+D. Obesity and Disability: Time to Act. Am. J. Prev. Med. 41, 541
+Brian S. Armour, PhD Charles Adam  Brush,  MSW,  MPH  Vincent  A.
+Campbell,  PhD  John  E.  Crews, MA, DPA Bradford P. Goodwin, BFA
+Julie Hentz, BA Namita S. Joshi, MA,  MPA  Theresa  Kanter,  MURP
+Roland  Richard,  MPH  Mark  E.  Swanson, MD, MPH Candice Jalonen
+Swartwood, and D. L. Disability and Health State Chartbook.  Pro‐
+files  of  Health  for Adults With Disabilities. Cent. DI (2006).
+disparity population. Am. J. Public Health 105, S198S206  (2015).
+Reichard,  A.  & Stolzle, H. Diabetes among adults with cognitive
+limitations compared to individuals with no  cognitive  disabili‐
+ties.  Intellect. Dev. Disabil. 49, 141154 (2011).  Krahn, G. L.,
+Walker, D. K. & Correa‐De‐Araujo, R. Persons with disabilities as
+an  unrecognized  health  Pineda, V. S. & Corburn, J. Disability,
+Urban Health Equity,  and  the  Coronavirus  Pandemic:  Promoting
+Weise, Karen and Baker, M. Chilling Plans: Who Gets Care as Wash‐
+ington State Hospitals Fill Up? The state.html.  (Accessed:  18th
+June  2020) Turk, M. A., Landes, S. D., Formica, M. K. & Goss, K.
+D. Intellectual and developmental disability and  COVID‐19  case‐
+fatality  trends:  TriNetX  analysis.  Disabil.  Health J. 100942
+(2020).  Wu, Y., Huang, H., Wu, B., McCrone, S. & Lai, H. J.  Age
+distribution  and risk factors for the onset of severe disability
+among community‐dwelling older  adults  with  functional  limita‐
+tions.  J. Appl. Gerontol. 26, extra‐precautions/people‐with‐dis‐
+abilities.html. (Accessed: 18th June 2020) United States  Census.
+Anniversary  of  Americans  With Disabilities Act: July 26, 2019.
+Available at: Campbell, V. A.,  Gilyard,  J.  A.,  Sinclair,  L.,
+Sternberg,  T.  &  Kailes,  J. I. Preparing for and responding to
+pandemic influenza: Implications for  people  with  disabilities.
+Am.  J.  Public Health 99, 294300 (2009).  Hauthal, N., Sandmann,
+P., Debener, S. & Thome, J. D. Visual movement perception in deaf
+and  hearing  individuals.  Adv.  Cogn.  Psychol. 9, 5361 (2013).
+Colby, S. L. & Ortman, J. M. The Baby Boom Cohort in  the  United
+States  :  2012  to 2060. US Census Bur.  Control, C. for D. Dis‐
+ability Impacts All of Us. Available at: mean, minimum,  maximum,
+confidence  interval  lower and upper bound and median income the
+state, median income, and total population for state, and  median
+income  for  the  state, median income, and total population Data
+Elements Total population SARS‐CoV‐2  infection  rate  SARS‐CoV‐2
+infection  death  Retail  mobility Grocery mobility Park mobility
+Transit mobility Work mobility Resident mobility Black male Black
+female  Asian  male Asian female White male White female Hispanic
+male Hispanic female Median income Total population Rate of SARS‐
+CoV‐2  infection  in one per million Rate of SARS‐CoV‐2 infection
+related death (percent) Percent below  poverty  level  population
+for whom poverty status is determined RACE and HISPANIC OR LATINO
+ORIGIN White alone Percent population 25 years and over bachelors
+degree or Insured male Percent insured civilian noninstitutional‐
+ized population SEX Insured female Percent insured civilian  non‐
+institutionalized  population  SEX  Insured Black Percent insured
+civilian noninstitutionalized population  RACE  and  HISPANIC  OR
+LATINO  ORIGIN Black or African American Google retail recreation
+mobility Google grocery pharmacy mobility Google  parks  mobility
+Google transit mobility Google workplace mobility Google residen‐
+tial mobility Percent Black alone male Percent Black alone female
+Percent  Asian alone male Percent Asian alone female Percent Non‐
+Hispanic White alone male Percent Non‐Hispanic White alone female
+Percent  Hispanic  male Percent Hispanic female Median family in‐
+come; past 12 months 2018 Percent below poverty level  population
+for  whom  poverty status is determined Insured Asian Percent in‐
+sured civilian noninstitutionalized population RACE and  HISPANIC
+OR  LATINO  ORIGIN  ASIAN  alone Insured Hispanic Percent insured
+civilian noninstitutionalized population  RACE  and  HISPANIC  OR
+LATINO  ORIGIN Hispanic or Latino of any Insured White alone Per‐
+cent insured civilian noninstitutionalized  population  RACE  and
+HISPANIC  OR  LATINO  ORIGIN  White alone not Hispanic or Percent
+public coverage Medicaid means tested public coverage alone or in
+combination Percent with a disability total civilian non‐institu‐
+tionalized Disability male  Disability  female  Disability  Black
+Percent  with a disability SEX Male Percent with a disability SEX
+Female Percent with a disability RACE AND HISPANIC OR LATINO ORI‐
+GIN  Black  or  African  American Disability Asian Percent with a
+disability RACE AND HISPANIC OR LATINO ORIGIN  Asian  alone  Dis‐
+ability  White  Percent  with  a  disability RACE AND HISPANIC OR
+LATINO ORIGIN White alone, not Hispanic or Latino Disability His‐
+panic  Percent with a disability RACE AND HISPANIC OR LATINO ORI‐
+GIN Hispanic or Latino (of any race) Disability  5  to  17  years
+Disability 18 to 34 years Disability 35 to 64 years Disability 65
+to 74 years Disability 75 years and over Disability hearing  dif‐
+ficulty  Disability vision difficulty Disability cognitive diffi‐
+culty Disability ambulatory difficulty Disability self‐care  dif‐
+ficulty  Disability  independent living Percent with a disability
+AGE 5 to 17 years Percent with a disability AGE 18  to  34  years
+Percent  with a disability AGE 35 to 64 years Percent with a dis‐
+ability AGE 65 to 74 years Percent with a disability AGE 75 years
+Percent  with a disability with a hearing difficulty Percent with
+a disability with a vision difficulty Percent with  a  disability
+with a cognitive difficulty Percent with disability with an ambu‐
+latory difficulty Percent with a disability with self‐care diffi‐
+culty Percent with a disability with independent living difficul‐
+ty Data Elements Total population SARS‐CoV‐2 infection Rate*  Re‐
+tail  mobility  Grocery  mobility  Park mobility Transit mobility
+Work mobility Resident mobility Black  male  Black  female  Asian
+male  Asian female White male White female Hispanic male Hispanic
+female Median income Insured male Insured  female  Insured  Black
+Insured  Asian  Insured  Hispanic  Insured White alone Disability
+male Disability female Group 1: SARS‐CoV‐2 death rate  3.4  Group
+2:  SARS‐CoV‐2 death rate < 3.4 Disability Black Disability Asian
+Disability White Disability Hispanic Disability  5  to  17  years
+Disability 18 to 34 years Disability 35 to 64 years Disability 65
+to 74 years Disability 75 years and over Disability hearing  dif‐
+ficulty  Disability vision difficulty Disability cognitive diffi‐
+culty Disability ambulatory Disability self‐care difficulty  Dis‐
+ability  independent living + All reported numbers are in percent
+except total population, SARS‐CoV‐2 infection  rate,  and  median
+income.   *  Rate of SARS‐CoV‐2 infection in one per Million Data
+Elements Total population SARS‐CoV‐2 death Rate  Retail  mobility
+Grocery  mobility  Park  mobility  Transit mobility Work mobility
+Resident mobility Black male Black female Asian male Asian female
+White  male White female Hispanic male Hispanic female Median in‐
+come Insured male Insured female Insured Black Insured Asian  In‐
+sured Hispanic Insured White alone Disability male Disability fe‐
+male Disability Black Group  1:  SARS‐CoV‐2  Infection  Group  2:
+SARS‐CoV‐2  Infection  Rate  <  555.6*  Std. Deviation Disability
+Asian Disability White Disability Hispanic  Disability  5  to  17
+years  Disability  18  to 34 years Disability 35 to 64 years Dis‐
+ability 65 to 74 years Disability 75 years and Disability hearing
+Disability  vision difficulty Disability cognitive Disability am‐
+bulatory Disability self‐care Disability independent living  dif‐
+ficulty  + All reported numbers are in percent except total popu‐
+lation, SARS‐CoV‐2 infection rate, and median income.  * Rate  of
+SARS‐CoV‐2 infection in one per Million and total population Risk
+Factors Disability male Disability female Disability  Black  Dis‐
+ability Asian Disability White alone Disability Hispanic Disabil‐
+ity 5 to 17 Years Disability 18 to 34 Years Disability 35  to  64
+Years Disability 65 to 74 Years Disability 75 Years and Over Dis‐
+ability hearing difficulty Disability vision difficulty Disabili‐
+ty cognitive difficulty Disability ambulatory difficulty Disabil‐
+ity self‐care difficulty Disability independent living Risk  Fac‐
+tors Disability male Disability female Disability Black Disabili‐
+ty Asian Disability White alone Disability Hispanic Disability  5
+to  17  Years Disability 18 to 34 Years Disability 35 to 64 Years
+Disability 65 to 74 Years Disability 75 Years and Over Disability
+hearing difficulty Disability vision difficulty Disability cogni‐
+tive difficulty Disability ambulatory difficulty Disability self‐
+care  difficulty  Disability independent living and total popula‐
+tion Risk Factors Disability male  Disability  female  Disability
+Black Disability Asian Disability White alone Disability Hispanic
+Disability 5 to 17 Years Disability 18 to 34 Years Disability  35
+to  64  Years  Disability  65 to 74 Years Disability 75 Years and
+Over Disability hearing difficulty Disability  vision  difficulty
+Disability  cognitive difficulty Disability ambulatory difficulty
+Disability self‐care  difficulty  Disability  independent  living
+Standard  Statistic  Conf.low  Conf.high  Risk Factors Disability
+male Disability female Disability Black Disability Asian Disabil‐
+ity White alone Disability Hispanic Disability 5 to 17 Years Dis‐
+ability 18 to 34 Years Disability 35 to 64 Years Disability 65 to
+74  Years  Disability 75 Years and Over Disability hearing diffi‐
+culty Disability vision difficulty Disability cognitive difficul‐
+ty  Disability  ambulatory difficulty Disability self‐care diffi‐
+culty Disability independent living elements: mean, minimum, max‐
+imum, confidence interval lower and upper bound Data Elements In‐
+terval Lower Interval Upper Total population SARS‐CoV‐2 infection
+SARS‐CoV‐2  related  death  rate Retail mobility Grocery mobility
+Park mobility Transit mobility Work  mobility  Resident  mobility
+Black  male Black female Asian male Asian female White male White
+female Hispanic male Hispanic female Median income  Insured  male
+Insured  female  Insured Black Insured Asian Insured Hispanic In‐
+sured White alone Disability male  Disability  female  Disability
+Black  Disability Asian Disability White Disability Hispanic Dis‐
+ability 5 to 17 years Disability 18 to 34 years Disability 35  to
+64  years  Disability 65 to 74 years Disability 75 years and Dis‐
+ability hearing Disability vision Disability cognitive Disability
+ambulatory  Disability  self‐care  Disability  independent living
+difficulty + All reported numbers are  in  percent  except  total
+population, SARS‐CoV‐2 infection rate, and median income.  * Rate
+of SARS‐CoV‐2 infection in one per Million
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,92 +1,132 @@
-Multimonth Dispensing of Antiretroviral Therapy Protects the
-Most Vulnerable From 2 Pandemics at Once
-Ariana Moriah Traub,a Temitayo Ifafore-Calfee,b Benjamin Ryan Phelpsb
-Key Messages
-Multimonth dispensing, which provides patients
-with several months of antiretroviral therapy,
-benefits HIV patients by decreasing the number
-of required clinic visits, improving retention, and
-improving viral suppression.
-With the increased spread of severe acute
-respiratory syndrome coronavirus 2, we
-encourage governments, ministries of health, and
-health care facilities to implement multimonth
-reduce clinic visits and safeguard both health care
-workers and patients from coronavirus disease
-ince the emergence of the severe acute respiratory
-syndrome coronavirus 2 (SARS-CoV-2) in
-December 2019, the virus has been identified in more
-than 183 countries.1 Its rapid spread is of major concern
-for those living in low- and middle-income countries
-and specifically people living with HIV (PLHIV). With
-the dearth of studies on HIV-coronavirus disease
-2019 (COVID-19) coinfections, countries have no clear
-evidence on specific risks for PLHIV.2,3 However, as
-with other infectious diseases, it is expected that PLHIV
-who are not virally suppressed and/or on antiretroviral
-therapy (ART) might be at an increased risk of COVID19 infection, severe disease, and poor health outcomes.2,3 Thus, every precaution must be taken to avoid
-HIV-COVID-19 coinfection and keep the number of
-COVID-19 cases at a minimum in countries with high
-proportions of PLHIV.
-To minimize the spread of COVID-19, PLHIV are
-encouraged to follow public health guidelines to limit
-in-person interactions and general mitigation recommendations, including social distancing and good hand
-hygiene. Refilling lifesaving antiretroviral drugs requires
-interpersonal interaction and brings the potential of
-Sustaining Technical and Analytic Resources, United States Agency for
-International Development (USAID), Washington, DC, USA.
-Office of HIV/AIDS, USAID, Washington, DC, USA.
-Global Health: Science and Practice 2020 | Volume 8 | Number 2
-increasing the spread of SARS-CoV-2 and other transmissible diseases. Thus, policy makers—including the
-U.S. President’s Emergency Plan for AIDS Relief—are
-encouraging countries to provide PLHIV with a multimonth supply of ART as a key strategy to safeguard
-PLHIV and health care workers involved in providing
-HIV services.4
-MULTIMONTH ART DISPENSING
-MITIGATES RISK OF HIV AND COVID-19
-Multimonth dispensing (MMD) is an aspect of differentiated service delivery that provides patients with either
-3 or 6 months of medication and eliminates the need for
-monthly clinic and/or community facility visits. From
-the patient’s perspective, MMD has already been shown
-to reduce the cost of travel, reduce patient burden, and
-MMD improves adherence and viral suppression.5,7 In
-the context of the COVID-19 pandemic, this viral suppression strengthens the immune system and likely mitigates the risk of severe COVID-19.8 MMD, essential to
-caring for PLHIV, is arguably even more critical during
-the COVID-19 pandemic.
-Currently, only 21 countries have formal 6-month
-dispensing policies. Two countries allow clinicians to
-provide 6-month supply when they deem appropriate,
-and 8 countries have a 3-month dispensing policy in
-place. South Africa, the country with the largest number
-of PLHIV, only has a 2-month dispensing policy in place.
-To mitigate the damage caused by SARS-CoV-2
-while protecting the health of PLHIV, we encourage
-countries to rapidly implement 3-month if not 6-month
-dispensing. As a key strategy to safeguard patients and
-health care workers providing HIV services, MMD also
-reduces clinic visits, improves viral suppression,
-encourages social distancing, and potentially saves
-patients from the dual threat of SARS-CoV-2 and HIV.
-As SARS-CoV-2 spreads, patient caseloads are likely to
-increase across low- and middle-income countries
-will protect the time and health of existing health care
-professionals and ready our health systems for imminent
-threats as well as any that may follow.
-Multimonth Antiretroviral Therapy Dispensing Protects Against 2 Pandemics
-1. Dong E, Du H, Gardner L. An interactive web-based dashboard to
-track COVID-19 in real time. Lancet Infect Dis. 2020. CrossRef.
+Multimonth Dispensing of Antiretroviral Therapy Protects the Most
+Vulnerable From 2 Pandemics at Once Ariana Moriah  Traub,a  Temi‐
+tayo  Ifafore‐Calfee,b  Benjamin Ryan Phelpsb Key Messages Multi‐
+month dispensing, which provides patients with several months  of
+antiretroviral  therapy,  benefits HIV patients by decreasing the
+number of required clinic visits, improving  retention,  and  im‐
+proving  viral  suppression.  With the increased spread of severe
+acute respiratory syndrome coronavirus 2,  we  encourage  govern‐
+ments, ministries of health, and health care facilities to imple‐
+ment multimonth reduce clinic visits and  safeguard  both  health
+care workers and patients from coronavirus disease ince the emer‐
+gence of the severe  acute  respiratory  syndrome  coronavirus  2
+(SARS‐CoV‐2)  in  December 2019, the virus has been identified in
+more than 183 countries.1 Its rapid spread is  of  major  concern
+for those living in low‐ and middle‐income countries and specifi‐
+cally people living with HIV (PLHIV). With the dearth of  studies
+on  HIV‐coronavirus  disease  2019 (COVID‐19) coinfections, coun‐
+tries have no clear evidence on specific risks for PLHIV.2,3 How‐
+ever,  as with other infectious diseases, it is expected that PL‐
+HIV who are not virally suppressed and/or on antiretroviral ther‐
+apy (ART) might be at an increased risk of COVID19 infection, se‐
+vere disease, and poor health outcomes.2,3 Thus, every precaution
+must be taken to avoid HIV‐COVID‐19 coinfection and keep the num‐
+ber of COVID‐19 cases at a minimum in countries with high propor‐
+tions  of  PLHIV.   To minimize the spread of COVID‐19, PLHIV are
+encouraged to follow public health guidelines to limit  in‐person
+interactions  and  general  mitigation recommendations, including
+social distancing and good hand hygiene. Refilling lifesaving an‐
+tiretroviral  drugs requires interpersonal interaction and brings
+the potential of Sustaining  Technical  and  Analytic  Resources,
+United States Agency for International Development (USAID), Wash‐
+ington, DC, USA.  Office of HIV/AIDS, USAID, Washington, DC, USA.
+Global  Health:  Science  and Practice 2020 | Volume 8 | Number 2
+increasing the spread of SARS‐CoV‐2 and other transmissible  dis‐
+eases. Thus, policy makersincluding the U.S. Presidents Emergency
+Plan for AIDS Reliefare encouraging countries  to  provide  PLHIV
+with  a  multimonth  supply of ART as a key strategy to safeguard
+PLHIV and health care workers  involved  in  providing  HIV  ser‐
+vices.4  MULTIMONTH  ART  DISPENSING  MITIGATES  RISK  OF HIV AND
+COVID‐19 Multimonth dispensing (MMD) is an aspect of  differenti‐
+ated  service  delivery that provides patients with either 3 or 6
+months of medication and eliminates the need for  monthly  clinic
+and/or  community facility visits. From the patients perspective,
+MMD has already been shown to reduce the cost of  travel,  reduce
+patient  burden,  and  MMD  improves adherence and viral suppres‐
+sion.5,7 In the context of the COVID‐19 pandemic, this viral sup‐
+pression  strengthens  the immune system and likely mitigates the
+risk of severe COVID‐19.8 MMD, essential to caring for PLHIV,  is
+arguably  even  more critical during the COVID‐19 pandemic.  Cur‐
+rently, only 21 countries have formal  6‐month  dispensing  poli‐
+cies.  Two  countries  allow clinicians to provide 6‐month supply
+when they deem appropriate, and 8 countries have a  3‐month  dis‐
+pensing  policy  in  place.  South  Africa,  the country with the
+largest number of PLHIV, only has a 2‐month dispensing policy  in
+place.   To  mitigate  the damage caused by SARS‐CoV‐2 while pro‐
+tecting the health of PLHIV, we encourage  countries  to  rapidly
+implement 3‐month if not 6‐month dispensing. As a key strategy to
+safeguard patients and health care  workers  providing  HIV  ser‐
+vices,  MMD  also  reduces clinic visits, improves viral suppres‐
+sion, encourages social distancing,  and  potentially  saves  pa‐
+tients from the dual threat of SARS‐CoV‐2 and HIV.  As SARS‐CoV‐2
+spreads, patient caseloads are likely to increase across low‐ and
+middle‐income  countries  will protect the time and health of ex‐
+isting health care professionals and ready our health systems for
+imminent  threats as well as any that may follow.  Multimonth An‐
+tiretroviral Therapy Dispensing Protects Against 2  Pandemics  1.
+Dong  E,  Du  H, Gardner L. An interactive web‐based dashboard to
+track COVID‐19 in real time. Lancet Infect Dis.  2020.  CrossRef.
 2. Centers for Disease Control and Prevention. What to Know About
-3. U.S. Department of Health and Human Services. Interim
-interim-guidance-/554/interim-guidance-for-covid-19-andpersons-with-hiv. Updated April 21, 2020. Accessed March 31,
-4. U.S. President’s Emergency Plan for AIDS Relief. PEPFAR’s HIV
-Response in the Context of Coronavirus Disease 2019 (COVID-19).
-2020. Accessed April 9, 2020.
-5. Faturiyele IO, Appolinare T, Ngorima-Mabhena N, et al.
-trial protocol. BMC Public Health. 2018;18(1):1069. CrossRef.
-6. Babigumira JB, Castelnuevo B, Stergachis A, et al. Cost effectiveness of
-a pharmacy-only refill program in a large urban HIV/AIDS clinic in
-Uganda. PloS One. 2011;6(3):e18193. CrossRef. Medline
-7. Prust ML, Banda CK, Nyirenda R, et al. Multi-month prescriptions, fasttrack refills, and community ART groups: results from a process evaluation in Malawi on using differentiated models of care to achieve national HIV treatment goals. J Int AIDS Soc. 2017;20(Suppl 4):21650.
-CrossRef. Medline
-8. Deeks SG, Overbaugh J, Phillips A, Buchbinder S. HIV infection. Nat
-Global Health: Science and Practice 2020 | Volume 8 | Number 2
+3. U.S. Department of Health and Human Services. Interim interim‐
+guidance‐/554/interim‐guidance‐for‐covid‐19‐andpersons‐with‐hiv.
+Updated April 21, 2020. Accessed March  31,  4.  U.S.  Presidents
+Emergency  Plan for AIDS Relief. PEPFARs HIV Response in the Con‐
+text of Coronavirus  Disease  2019  (COVID‐19).   2020.  Accessed
+April  9,  2020.  5. Faturiyele IO, Appolinare T, Ngorima‐Mabhena
+N, et al.  trial protocol. BMC  Public  Health.  2018;18(1):1069.
+CrossRef.   6. Babigumira JB, Castelnuevo B, Stergachis A, et al.
+Cost effectiveness of a pharmacy‐only refill program in  a  large
+urban  HIV/AIDS  clinic  in  Uganda.  PloS One. 2011;6(3):e18193.
+CrossRef. Medline 7. Prust ML, Banda CK, Nyirenda R, et al.  Mul‐
+ti‐month  prescriptions,  fasttrack  refills,  and  community ART
+groups: results from a process evaluation in Malawi on using dif‐
+ferentiated  models  of  care  to  achieve national HIV treatment
+goals. J Int AIDS Soc. 2017;20(Suppl 4):21650.  CrossRef. Medline
+8.  Deeks  SG,  Overbaugh J, Phillips A, Buchbinder S. HIV infec‐
+tion. Nat Global Health: Science and Practice 2020 | Volume  8  |
+Number 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

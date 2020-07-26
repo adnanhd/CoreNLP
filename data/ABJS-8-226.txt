@@ -1,333 +1,330 @@
-COPYRIGHT 2020 © BY THE ARCHIVES OF BONE AND JOINT SURGERY
-CURRENT CONCEPTS REVIEW
-Molecular Aspects of Co-morbidities in COVID-19
-Farzaneh Pouya, MSc1, 2; Zeynab Imani Saber, MSc3; Mohammad Amin Kerachian, MD, PhD1, 2
-Coronaviruses are a group of enveloped viruses with single-stranded non-segmented positive-sense RNA genomes. In
-December 2019, SARS-CoV-2 appeared in China for the first time and quickly spread throughout the world. Although
-certain medications suggested for other afflictions tend to be potentially effective for curing the infection, there is no
-approved vaccination or drug available for this virus yet. Comprehension of the disease molecular pathogenesis could
-provide useful tools for COVID-19 patients in surveillance, prognosis, treatment, vaccine development and therapeutic
-targeting. The present research aims to summarize the association in COVID-19 patients between molecular dimensions
-of comorbidities with clinical and preclinical information.
-Developing an ACE2 inhibitor could be a possible therapeutic target. Plasmin is another possible candidate both in
-diagnosis and treatment areas. All predicted biomarkers must be validated either through randomized clinical trials or
-experimental assays before clinical application in patients.
-Level of evidence: V
-Keywords: Cancer, Cardiovascular, Chronic obstructive pulmonary disease, COVID-19, Diabetes mellitus, Hypertension
-n December 2019, a novel zoonotic COVID-19
-belonging to the Orthocoronavirinae subfamily and
-distinct from Severe Acute Respiratory Syndrome
-Coronavirus (SARS-CoV) and Middle East Respiratory
-Syndrome Coronavirus (MERS-CoV) was reported first
-in Wuhan, China, which became a global emergence (1).
-COVID-19 could cause symptoms ranging from common
-cold to Acute Respiratory Distress Syndrome (ARDS).
-Despite the high transmission and mortality rate (2.1%),
-there is no vaccine or treatment developed yet (2). Severe
-conditions tend to occur in older males and patients with
-one or more co-morbidities such as diabetes mellitus
-(DM), hypertension, cerebrovascular disease, and
-chronic obstructive pulmonary disease (COPD) (3). The
-aim of the present study is to summarize the correlation
-between molecular aspects of comorbidities and clinical
-evidences in COVID-19 patients to provide resources in
-vaccine production and therapeutic targeting.
-Department of Medical Genetics, Faculty of Medicine, Mashhad
-Chronic obstructive pulmonary disease association
-with COVID-19 severity
-Patients with COPD are predisposed to a significant,
-over five-fold enhanced risk of severe COVID-19
-infection (4). The connecting link between preexistence
-of COPD and COVID-19 severity is possibly angiotensin
-converting enzyme 2 (ACE2). ACE2 is an integral
-membrane glycoprotein that is constitutively expressed
-by the epithelial cells of the pneumocytes, nephrocytes,
-and endothelium. To regulate both the cross-species
-and human-to-human transmissions of SARS-CoV, the
-spike protein receptor-binding domain (RBD) in SARSCoV can interact with its host receptor, ACE2. Well
-knowledge about SARS-CoV and its high homology with
-COVID-19 strongly suggest that COVID-19 uses ACE2
-as its receptor to bind with RBD (particularly Gln493)
-cell. Moreover, identification of other critical residues
-suggests that COVID-19 recruit multiple capacities (e.g.
-Arch Bone Jt Surg. 2020; 8 (Supplement 1): 226-230. Doi: 10.22038/abjs.2020.47828.2361
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-Asn501) for human-to-human transmission. It could
-justify the high transmission entity of COVID-19 (5).
-These findings provide insights into receptor usage as
-possible preventive measures and therapeutic targets
-in COPD patients infected with COVID-19. Single cell
-immune profiling describes interferon- MAPK signaling
-pathway as the major blood immune response for viral
-infection such as COVID-19 (1, 6, 7). High expression
-level of FOS and IRF27 (as MAPK transcription factors)
-suggest that there can be a candidate marker gene for
-cured COVID-19 patients (1). Another transcriptomic
-study reveals strong crosslink between COVID-19
-pathogenesis and excessive cytokine release such as
-CCL2/MCP-1, CXCL10/IP-10, CCL3/MIP-1A, and CCL4/
-MIP1B. Furthermore, COVID-19 activates P53 signaling
-pathway in lymphocytes which is a possible reason for
-lymphopenia in COVID-19 patients (8).
-A comprehensive computational analysis described
-that IL6, TNF, CXCL8, IFNG, CCL5, IL10, CCL2, ICAM1,
-CXCL1 and CXCR4 are involved in lung disease of high-risk
-patients of COVID-19 as top key genes and the predicted
-drug treatment is Plerixafor (9). All above would suggest
-a possible biomarker in COVID-19 management.
-Diabetes mellitus in the context of COVID-19
-Cellular innate immunity, the first line of defense
-against COVID-19, is extensively harmed in patients with
-uncontrolled DM (10).
-ACE2 is responsible to convert angiotensin II into
-angiotensin 1–7 that leads to vasodilation. DM is linked
-to activation of renin-angiotensin-aldosterone system
-(RAAS) in various tissues. Moreover, patients with
-DM widely use ACE inhibitors (ACEi) and angiotensin
-receptor blockers (ARBs), which have benefit in COVID-19
-alleviation (11). We can conclude that, application of
-ARB is speculated as a potential therapeutic target for
-COVID‐19 (12). Both types I and II diabetes are associated
-with elevated plasmin(ogen) levels in plasma (13).
-Studies suggest that high level of Furin in plasma could
-lead to dysmetabolic conditions particularly DM (14).
-As we will discuss below, Furin level of plasma would be
-elevated by COVID-19 infection. We can conclude that,
-Furin is an important key in COVID-19 clinical severity
-predisposed by diabetes.
-A meta-analysis investigation proposed IL, TNF,
-CXCL8, IL10, CCL2, ICAM1, IFNG, IL2, FN1 and CXCR4
-as top key genes for the diabetic high-risk patients
-and introduced Plerixafor, Quinine, Pentoxifylline,
-and Rapamycin as repurposed drugs in DM patients
-infected by COVID-19 (9).
-Cardiovascular and hypertension precondition
-Cardiovascular and hypertension are two other ACE2
-associated diseases which adversely affect the COVID-19
-prognosis (15). ACE2 cleaves angiotensin II, a peptide
-with multiple actions that promote cardiovascular
-disease. RASS blocker and ACEi are widely used in
-cardiovascular disease and hypertension treatment.
-Patients with cardiovascular disease are predisposed to
-more severe COVID-19 infection (16).
-CO-MORBIDITIES IN COVID-19
-The top ten major genes for hypertension high-risk
-patients includes: VEGFA, IL6, TNF, CCL2, MMP9, ALB,
-IL10, PTGS2, CXCL8, CASP3 and the predicted drugs were
-Paclitaxel, Thalidomide, and Rapamycin. The key genes
-involved in heart disease high-risk group of COVID-19
-were IL6, TNF, CXCL8, CCL2, MAPK1 EGFR, ICAM1, CCL5,
-CXCR4, AGT and the predicted drugs were Plerixafor,
-Afatinib, Gefitinib, Paclitaxel, and Cortisol (9).
-Systemic thrombosis in circulatory system and
-hemorrhage results in multi-organ failure in COVID-19
-patients. Hyperfibrinolysis is a characteristic of COVID-19
-resulting from increased level of D-dimer (as a coagulation
-index) (17, 18). COVID-19 uses its receptor-binding
-domain structure in the Spike (S) protein to attach to the
-host ACE2. The Furin-like cleavage site (682RRAR/S686)
-exclusively exists in the S1/S2 protease cleavage site of the
-COVID-19 virus (not in SARS-CoV). The S1 site of the Spike
-protein is responsible for attachment to the human host
-cell ACE2 receptor, whereas the S2 region is responsible
-for the fusion of the viral RNA to human cell membranes
-(19). Plasmin, and TMPRSS proteases may cleave the
-S-protein of coronaviruses which can increase virus
-entrance into the bronchial epithelial cells (20). Plasmin
-cleaves human γENaC subunit in trypsin, chymotrypsin,
-prostasin, and elastases (21). Increased level of plasmin
-results in hyperproduction of γENaC in the collecting
-tubule, which enhances salt retention, contributing
-to renal hypertension (22). On the other hand, γENaC
-proteins are located in the apical surfaces of respiratory
-epithelium. Since γENaC is responsible for Na+ entrance
-to epithelial cells and plasmin cleaves γENaC both on
-events lead to dehydration of respiratory epithelium
-and hypertension, two major events in severe COVID-19
-(23, 24). In-vitro studies demonstrated a serine
-protease inhibitor for plasmin and TMPRSS2 which can
-block S-protein of COVID-19 entry to the host cells (25).
-Assessment of plasmin(ogen) levels and its enzymatic
-activity could be appropriate biomarkers for COVID-19
-severity in addition to resultant D-dimer (18). We can
-conclude that, elevated levels of plasmin(ogen) may be
-a bridge between COVID-19 severity and hypertension
-and ARDS predisposing disease which could be a good
-purpose in both prognosis and treatment area.
-Cancer high-risk patient of COVID-19
-Investigations reveal that patients suffering from
-cancer are more susceptible to COVID-19 infection and
-have a poorer prognosis due to immunosuppressive
-state caused by neoplasm and anticancer therapies
-(26). A comprehensive gene-disease association study
-introduces VEGFA, STAT3, IL6, TNF, MAPK3, MAPK1,
-CASP3, MMP9, PTGS, and EGF as important genes in cancer
-high-risk patients of COVID-19 and offers Gentamicin,
-Hydroxychloroquine, Sorafenib, Sulindac, Thalidomide,
-Erlotinib, and Vandetanib as drugs in this group (9).
-The antiviral effects of interferons are largely mediated by
-the JAK–STAT signaling pathway (27). Also, Jak2 mutations
-describe clinical significances in myeloproliferative
-neoplasms and leukemia (28). Baricitinib, a tumor necrosis
-factor (TNF) antagonist which acts as Jak1 and Jak2
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-CO-MORBIDITIES IN COVID-19
-COVID-19 S-glycoprotein underlying increase the ability of attachment between COVID-19 and its human host cell receptor, ACE2, result in
-virus attachment and fusion. Plasmin also can cleave fibrin and produce D-dimer both in bronchoalveolar lavage fluid and plasma, result in
-hemorrhage. γENaC is located on apical surface of alveolar epithelium and is responsible for Na+ entrance to epithelial cells. Plasmin cleaves
-γENaC both on respiratory epithelium and endothelium of veins results in dehydration of respiratory epithelium and hypertension.
-inhibitor, is widely used in the treatment of rheumatoid
-arthritis (29). All above, we speculate that application
-of Baricitinib could be a possible effective treatment in
-patients who are positive for Jak mutations and are infected
-with COVID-19 (30, 31). Approximately 80% of patients
-with COVID-19 can clear virus largely through interferons
-and remain asymptomatic or with mild symptoms. We do
-not recommend Baricitinib or other Jak inhibitors for this
-group of patients. However, in moderate to severe cases,
-the maximum load of virus occurs 7 days after symptom
-onset, and later that we can clinically observe the severe
-phase of the disease due to hyper inflammation which
-is so-called “Cytokine storm”. Cytokine storm occurs
-through enhanced levels of interferons α and β and IL-6,
-all of which are involved in JAK–STAT signaling pathway
-(32). These evidences suggest that, JAK–STAT pathway
-inhibition (such as Baricitinib), may be an appropriate
-treatment approach in hospitalized patients (moderate to
-severe cases) (33). These findings are consistent with the
-similar studies on SARS-CoV and MERS-CoV (34, 35).
-In our present study, gene-disease association related to
-COVID-19 symptoms, clinical outcomes, and risk factors
-were studied. Since the only treatment of COVID-19 is
-supportive, understanding the molecular pathogenesis of
-the COVID-19 infections in susceptible patients could lead
-to achieve both diagnostic biomarkers in early stage of
-the disease and targeted therapeutic markers. Developing
-an ACE2 inhibitor could be a possible therapeutic target.
-Plasmin is another possible candidate both in diagnosis
-and treatment areas. All predicted biomarkers must be
-validated either through randomized clinical trials or
-through experimental assays before being used in patients.
-Conflict of interests: None.
-This study was supported financially by Mashhad
-Farzaneh Pouya MSc1, 2
-Zeynab Imani Saber MSc3
-Mohammad Amin Kerachian MD PhD1, 2
-of Medical Sciences, Mashhad, Iran
-2 Department of Medical Genetics, Faculty of Medicine,
-3 Department of Medical Genetics, Faculty of Medicine,
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-CO-MORBIDITIES IN COVID-19
-1. Huang L, Shi Y, Gong B, Jiang L, Liu X, Yang J, et al. Blood
-single cell immune profiling reveals the interferonMAPK pathway mediated adaptive immune response
-for COVID-19. medRxiv. 2020.
-2. Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, et
-al. A familial cluster of pneumonia associated with the
-2019 novel coronavirus indicating person-to-person
-transmission: a study of a family cluster. The Lancet.
-3. Tetro JA. Is COVID-19 receiving ADE from
-other coronaviruses? Microbes and Infection.
-4. Lippi G, Henry BM. Chronic obstructive pulmonary
-disease is associated with severe coronavirus disease
-2019 (COVID-19). Respiratory Medicine. 2020.
-5. Wan Y, Shang J, Graham R, Baric RS, Li F. Receptor
-recognition by the novel coronavirus from Wuhan:
-an analysis based on decade-long structural studies
-6. Unterholzner L. The interferon response to
-intracellular DNA: why so many receptors?
-7. Kroczynska B, Mehrotra S, Arslan AD, Kaur S, Platanias
-LC. Regulation of interferon-dependent mRNA
-Cytokine Research. 2014;34(4):289-96.
-8. Xiong Y, Liu Y, Cao L, Wang D, Guo M, Jiang A, et al.
-Transcriptomic characteristics of bronchoalveolar
-lavage fluid and peripheral blood mononuclear cells in
-COVID-19 patients. Emerging Microbes & Infections.
-9. Kumar S. COVID-19: A drug repurposing and
-biomarker identification by using comprehensive
-gene-disease associations through protein-protein
-interaction network analysis. 2020.
-10. Ma RCW, Holt RIG. COVID-19 and diabetes.
-11. Fang L, Karakiulakis G, Roth M. Are patients with
-hypertension and diabetes mellitus at increased
-risk for COVID-19 infection? The Lancet Respiratory
-12. Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS.
-Angiotensin-converting enzyme 2 (ACE2) as a SARSCoV-2 receptor: molecular mechanisms and potential
-therapeutic target. Intensive Care Medicine. 2020:1-5.
-13. Ray EC, Miller RG, Demko JE, Costacou T, Kinlough CL,
-Demko CL, et al. Urinary plasmin (ogen) as a prognostic
-factor for hypertension. Kidney international reports.
-14. Fernandez C, Rysä J, Almgren P, Nilsson J, Engström
-G, Orho‐Melander M, et al. Plasma levels of the
-proprotein convertase furin and incidence of
-15. Chen X, Hu W, Ling J, Mo P, Zhang Y, Jiang Q, et al.
-Hypertension and Diabetes Delay the Viral Clearance
-in COVID-19 Patients. medRxiv. 2020.
-16. South AM, Diz D, Chappell MC. COVID-19, ACE2
-and the Cardiovascular Consequences. American
-Physiological Society Rockville, MD; 2020.
-17. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et
-al. Epidemiological and clinical characteristics of
-99 cases of 2019 novel coronavirus pneumonia
-in Wuhan, China: a descriptive study. The Lancet.
-18. Ji H-L, Zhao R, Matalon S, Matthay MA. Elevated
-plasmin (ogen) as a common risk factor for COVID-19
-19. Coutard B, Valle C, de Lamballerie X, Canard B, Seidah
-N, Decroly E. The spike glycoprotein of the new
-coronavirus 2019-nCoV contains a furin-like cleavage
-site absent in CoV of the same clade. Antiviral
-20. Kam Y-W, Okumura Y, Kido H, Ng LF, Bruzzone R,
-Altmeyer R. Cleavage of the SARS coronavirus spike
-glycoprotein by airway proteases enhances virus
-entry into human bronchial epithelial cells in vitro.
-PloS one. 2009;4(11).
-21. Zhao R, Ali G, Nie HG, Chang Y, Bhattarai D, Su X, et al.
-Plasmin improves oedematous blood‐gas barrier by
-22. Oxlund CS, Buhl KB, Jacobsen IA, Hansen MR, Gram J,
-Henriksen JE, et al. Amiloride lowers blood pressure
-and attenuates urine plasminogen activation in
-patients with treatment–resistant hypertension.
-23. Kleyman TR, Kashlan OB, Hughey RP. Epithelial Na+
-channel regulation by extracellular and intracellular
-24. Matthay MA, Aldrich JM, Gotts JE. Treatment for severe
-acute respiratory distress syndrome from COVID-19.
-The Lancet Respiratory Medicine. 2020.
-25. Hoffmann M, Kleine-Weber H, Schroeder S, Krüger
-N, Herrler T, Erichsen S, et al. SARS-CoV-2 cell entry
-depends on ACE2 and TMPRSS2 and is blocked by a
-clinically proven protease inhibitor. Cell. 2020.
-26. Liang W, Guan W, Chen R, Wang W, Li J, Xu K, et
-al. Cancer patients in SARS-CoV-2 infection: a
-nationwide analysis in China. The Lancet Oncology.
-27. Di Bona D, Cippitelli M, Fionda C, Cammà C, Licata A,
-Santoni A, et al. Oxidative stress inhibits IFN-α-induced
-antiviral gene expression by blocking the JAK–STAT
-28. Tefferi A. Novel mutations and their functional and
-clinical relevance in myeloproliferative neoplasms:
-JAK2, MPL, TET2, ASXL1, CBL, IDH and IKZF1.
-29. Genovese MC, Kremer J, Zamani O, Ludivico C,
-Krogulec M, Xie L, et al. Baricitinib in patients
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-with refractory rheumatoid arthritis. N Engl J Med.
-30. Stebbing J, Phelan A, Griffin I, Tucker C, Oechsle O,
-Smith D, et al. COVID-19: combining antiviral and
-anti-inflammatory treatments. The Lancet Infectious
-31. Favalli EG, Biggioggero M, Maioli G, Caporali R.
-Lancet Infectious Diseases. 2020.
-32. Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall
-RS, Manson JJ. COVID-19: consider cytokine storm
-syndromes and immunosuppression. The Lancet.
-33. Richardson P, Griffin I, Tucker C, Smith D, Oechsle O,
-CO-MORBIDITIES IN COVID-19
-Phelan A, et al. Baricitinib as potential treatment for
-2019-nCoV acute respiratory disease. The Lancet.
-34. Cameron MJ, Ran L, Xu L, Danesh A, BermejoMartin JF, Cameron CM, et al. Interferon-mediated
-immunopathological events are associated with
-atypical innate and adaptive immune responses in
-patients with severe acute respiratory syndrome.
-35. Channappanavar R, Fehr AR, Zheng J, WohlfordLenane C, Abrahante JE, Mack M, et al. IFN-I response
-timing relative to virus replication determines MERS
+COPYRIGHT 2020  BY THE ARCHIVES OF BONE AND JOINT SURGERY CURRENT
+CONCEPTS REVIEW Molecular Aspects of Co‐morbidities  in  COVID‐19
+Farzaneh  Pouya, MSc1, 2; Zeynab Imani Saber, MSc3; Mohammad Amin
+Kerachian, MD, PhD1, 2 Coronaviruses are  a  group  of  enveloped
+viruses  with  single‐stranded  non‐segmented  positive‐sense RNA
+genomes. In December 2019, SARS‐CoV‐2 appeared in China  for  the
+first time and quickly spread throughout the world. Although cer‐
+tain medications suggested for other afflictions tend to  be  po‐
+tentially  effective  for  curing  the infection, there is no ap‐
+proved vaccination or drug available for this virus yet.  Compre‐
+hension  of the disease molecular pathogenesis could provide use‐
+ful tools  for  COVID‐19  patients  in  surveillance,  prognosis,
+treatment,  vaccine  development  and  therapeutic targeting. The
+present research aims to summarize the  association  in  COVID‐19
+patients between molecular dimensions of comorbidities with clin‐
+ical and preclinical information.  Developing an  ACE2  inhibitor
+could be a possible therapeutic target. Plasmin is another possi‐
+ble candidate both in diagnosis and treatment areas. All predict‐
+ed  biomarkers must be validated either through randomized clini‐
+cal trials or experimental assays before clinical application  in
+patients.  Level of evidence: V Keywords: Cancer, Cardiovascular,
+Chronic obstructive pulmonary disease, COVID‐19, Diabetes  melli‐
+tus,  Hypertension n December 2019, a novel zoonotic COVID‐19 be‐
+longing to the Orthocoronavirinae subfamily and distinct from Se‐
+vere Acute Respiratory Syndrome Coronavirus (SARS‐CoV) and Middle
+East Respiratory Syndrome  Coronavirus  (MERS‐CoV)  was  reported
+first  in  Wuhan,  China,  which  became  a global emergence (1).
+COVID‐19 could cause symptoms ranging from common cold  to  Acute
+Respiratory Distress Syndrome (ARDS).  Despite the high transmis‐
+sion and mortality rate (2.1%), there is no vaccine or  treatment
+developed yet (2). Severe conditions tend to occur in older males
+and patients with one or more  co‐morbidities  such  as  diabetes
+mellitus (DM), hypertension, cerebrovascular disease, and chronic
+obstructive pulmonary disease (COPD) (3). The aim of the  present
+study  is  to summarize the correlation between molecular aspects
+of comorbidities and clinical evidences in COVID‐19  patients  to
+provide  resources  in vaccine production and therapeutic target‐
+ing.  Department of Medical Genetics, Faculty of Medicine,  Mash‐
+had   Chronic  obstructive  pulmonary  disease  association  with
+COVID‐19 severity Patients with COPD are predisposed to a signif‐
+icant,  over five‐fold enhanced risk of severe COVID‐19 infection
+(4).  The  connecting  link  between  preexistence  of  COPD  and
+COVID‐19  severity  is  possibly  angiotensin converting enzyme 2
+(ACE2). ACE2 is an integral membrane glycoprotein that is consti‐
+tutively  expressed  by  the epithelial cells of the pneumocytes,
+nephrocytes, and endothelium. To regulate both the  cross‐species
+and  human‐to‐human  transmissions of SARS‐CoV, the spike protein
+receptor‐binding domain (RBD) in SARSCoV can  interact  with  its
+host  receptor,  ACE2. Well knowledge about SARS‐CoV and its high
+homology with COVID‐19 strongly suggest that COVID‐19  uses  ACE2
+as  its  receptor  to  bind  with RBD (particularly Gln493) cell.
+Moreover, identification of other critical residues suggests that
+COVID‐19  recruit  multiple  capacities (e.g.  Arch Bone Jt Surg.
+2020;   8   (Supplement   1):    226‐230.    Doi:    10.22038/ab‐
+js.2020.47828.2361  THE  ARCHIVES  OF BONE AND JOINT SURGERY. AB‐
+JS.MUMS.AC.IR VOLUME 8. SUPPLEMENT 1. APRIL 2020 Asn501) for  hu‐
+man‐to‐human transmission. It could justify the high transmission
+entity of COVID‐19 (5).  These findings provide insights into re‐
+ceptor usage as possible preventive measures and therapeutic tar‐
+gets in COPD patients infected with COVID‐19. Single cell  immune
+profiling describes interferon‐ MAPK signaling pathway as the ma‐
+jor blood immune response for viral infection  such  as  COVID‐19
+(1,  6, 7). High expression level of FOS and IRF27 (as MAPK tran‐
+scription factors) suggest that there can be a  candidate  marker
+gene  for  cured  COVID‐19  patients  (1). Another transcriptomic
+study reveals strong crosslink between COVID‐19 pathogenesis  and
+excessive  cytokine  release  such  as  CCL2/MCP‐1, CXCL10/IP‐10,
+CCL3/MIP‐1A, and CCL4/ MIP1B. Furthermore, COVID‐19 activates P53
+signaling  pathway  in lymphocytes which is a possible reason for
+lymphopenia in COVID‐19 patients (8).  A  comprehensive  computa‐
+tional analysis described that IL6, TNF, CXCL8, IFNG, CCL5, IL10,
+CCL2, ICAM1, CXCL1 and CXCR4 are  involved  in  lung  disease  of
+high‐risk patients of COVID‐19 as top key genes and the predicted
+drug treatment is Plerixafor (9). All above would suggest a  pos‐
+sible biomarker in COVID‐19 management.  Diabetes mellitus in the
+context of COVID‐19 Cellular innate immunity, the first  line  of
+defense  against COVID‐19, is extensively harmed in patients with
+uncontrolled DM (10).  ACE2 is responsible to convert angiotensin
+II  into  angiotensin 17 that leads to vasodilation. DM is linked
+to activation of renin‐angiotensin‐aldosterone system  (RAAS)  in
+various  tissues.  Moreover,  patients with DM widely use ACE in‐
+hibitors (ACEi) and angiotensin receptor blockers  (ARBs),  which
+have  benefit in COVID‐19 alleviation (11). We can conclude that,
+application of ARB is speculated as a potential therapeutic  tar‐
+get for COVID19 (12). Both types I and II diabetes are associated
+with elevated plasmin(ogen) levels in plasma (13).  Studies  sug‐
+gest that high level of Furin in plasma could lead to dysmetabol‐
+ic conditions particularly DM (14).  As we  will  discuss  below,
+Furin level of plasma would be elevated by COVID‐19 infection. We
+can conclude that, Furin is an important key in COVID‐19 clinical
+severity  predisposed by diabetes.  A meta‐analysis investigation
+proposed IL, TNF, CXCL8, IL10, CCL2, ICAM1, IFNG,  IL2,  FN1  and
+CXCR4  as  top  key genes for the diabetic high‐risk patients and
+introduced Plerixafor, Quinine, Pentoxifylline, and Rapamycin  as
+repurposed  drugs  in DM patients infected by COVID‐19 (9).  Car‐
+diovascular and hypertension precondition Cardiovascular and  hy‐
+pertension are two other ACE2 associated diseases which adversely
+affect the COVID‐19 prognosis (15). ACE2 cleaves angiotensin  II,
+a  peptide with multiple actions that promote cardiovascular dis‐
+ease. RASS blocker and ACEi are  widely  used  in  cardiovascular
+disease and hypertension treatment.  Patients with cardiovascular
+disease are predisposed to more severe COVID‐19  infection  (16).
+CO‐MORBIDITIES  IN COVID‐19 The top ten major genes for hyperten‐
+sion high‐risk patients includes: VEGFA, IL6,  TNF,  CCL2,  MMP9,
+ALB,  IL10,  PTGS2, CXCL8, CASP3 and the predicted drugs were Pa‐
+clitaxel, Thalidomide, and Rapamycin. The key genes  involved  in
+heart  disease  high‐risk group of COVID‐19 were IL6, TNF, CXCL8,
+CCL2, MAPK1 EGFR, ICAM1, CCL5, CXCR4, AGT and the predicted drugs
+were  Plerixafor,  Afatinib,  Gefitinib, Paclitaxel, and Cortisol
+(9).  Systemic thrombosis in circulatory  system  and  hemorrhage
+results  in multi‐organ failure in COVID‐19 patients. Hyperfibri‐
+nolysis is a characteristic of COVID‐19 resulting from  increased
+level of D‐dimer (as a coagulation index) (17, 18). COVID‐19 uses
+its receptor‐binding domain structure in the Spike (S) protein to
+attach   to   the   host   ACE2.  The  Furin‐like  cleavage  site
+(682RRAR/S686) exclusively exists in the S1/S2 protease  cleavage
+site  of the COVID‐19 virus (not in SARS‐CoV). The S1 site of the
+Spike protein is responsible for attachment  to  the  human  host
+cell  ACE2 receptor, whereas the S2 region is responsible for the
+fusion of the viral RNA to human cell  membranes  (19).  Plasmin,
+and  TMPRSS  proteases  may cleave the S‐protein of coronaviruses
+which can increase virus entrance into the  bronchial  epithelial
+cells  (20).  Plasmin cleaves human ENaC subunit in trypsin, chy‐
+motrypsin, prostasin, and  elastases  (21).  Increased  level  of
+plasmin  results  in  hyperproduction  of  ENaC in the collecting
+tubule, which enhances salt retention, contributing to renal  hy‐
+pertension  (22). On the other hand, ENaC proteins are located in
+the apical surfaces of respiratory epithelium. Since ENaC is  re‐
+sponsible  for  Na+  entrance  to  epithelial  cells  and plasmin
+cleaves ENaC both on events lead to  dehydration  of  respiratory
+epithelium  and hypertension, two major events in severe COVID‐19
+(23, 24). In‐vitro studies demonstrated  a  serine  protease  in‐
+hibitor  for  plasmin  and  TMPRSS2  which can block S‐protein of
+COVID‐19 entry to the  host  cells  (25).   Assessment  of  plas‐
+min(ogen)  levels and its enzymatic activity could be appropriate
+biomarkers for COVID‐19 severity in addition to resultant D‐dimer
+(18).  We can conclude that, elevated levels of plasmin(ogen) may
+be a bridge between COVID‐19 severity and hypertension  and  ARDS
+predisposing  disease which could be a good purpose in both prog‐
+nosis and treatment area.  Cancer high‐risk patient  of  COVID‐19
+Investigations  reveal  that  patients  suffering from cancer are
+more susceptible to COVID‐19 infection and have a poorer  progno‐
+sis  due  to immunosuppressive state caused by neoplasm and anti‐
+cancer therapies (26). A comprehensive  gene‐disease  association
+study  introduces  VEGFA,  STAT3,  IL6, TNF, MAPK3, MAPK1, CASP3,
+MMP9, PTGS, and EGF as important genes in  cancer  high‐risk  pa‐
+tients of COVID‐19 and offers Gentamicin, Hydroxychloroquine, So‐
+rafenib, Sulindac,  Thalidomide,  Erlotinib,  and  Vandetanib  as
+drugs  in  this  group (9).  The antiviral effects of interferons
+are largely mediated by the JAKSTAT signaling pathway (27). Also,
+Jak2 mutations describe clinical significances in myeloprolifera‐
+tive neoplasms and leukemia (28). Baricitinib, a  tumor  necrosis
+factor  (TNF) antagonist which acts as Jak1 and Jak2 THE ARCHIVES
+OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR VOLUME  8.  SUPPLEMENT
+1.  APRIL 2020 CO‐MORBIDITIES IN COVID‐19 COVID‐19 S‐glycoprotein
+underlying increase the ability of  attachment  between  COVID‐19
+and  its  human host cell receptor, ACE2, result in virus attach‐
+ment and fusion. Plasmin also can cleave fibrin  and  produce  D‐
+dimer  both in bronchoalveolar lavage fluid and plasma, result in
+hemorrhage. ENaC is located on apical surface of alveolar epithe‐
+lium  and  is  responsible  for Na+ entrance to epithelial cells.
+Plasmin cleaves ENaC both on respiratory epithelium and  endothe‐
+lium  of  veins  results in dehydration of respiratory epithelium
+and hypertension.  inhibitor, is widely used in the treatment  of
+rheumatoid  arthritis (29). All above, we speculate that applica‐
+tion of Baricitinib could be a possible  effective  treatment  in
+patients who are positive for Jak mutations and are infected with
+COVID‐19 (30, 31). Approximately 80% of  patients  with  COVID‐19
+can  clear  virus largely through interferons and remain asympto‐
+matic or with mild symptoms. We do not recommend  Baricitinib  or
+other Jak inhibitors for this group of patients. However, in mod‐
+erate to severe cases, the maximum load of virus  occurs  7  days
+after symptom onset, and later that we can clinically observe the
+severe phase of the disease due to hyper  inflammation  which  is
+so‐called  Cytokine storm. Cytokine storm occurs through enhanced
+levels of interferons  and  and IL‐6, all of which  are  involved
+in  JAKSTAT signaling pathway (32). These evidences suggest that,
+JAKSTAT pathway inhibition (such as Baricitinib), may be  an  ap‐
+propriate  treatment  approach in hospitalized patients (moderate
+to severe cases) (33). These findings  are  consistent  with  the
+similar  studies  on  SARS‐CoV  and  MERS‐CoV  (34,  35).  In our
+present study, gene‐disease association related to COVID‐19 symp‐
+toms, clinical outcomes, and risk factors were studied. Since the
+only treatment  of  COVID‐19  is  supportive,  understanding  the
+molecular  pathogenesis of the COVID‐19 infections in susceptible
+patients could lead to achieve both diagnostic biomarkers in ear‐
+ly  stage of the disease and targeted therapeutic markers. Devel‐
+oping an ACE2 inhibitor could be a possible  therapeutic  target.
+Plasmin  is  another  possible  candidate  both  in diagnosis and
+treatment areas. All predicted biomarkers must be  validated  ei‐
+ther  through  randomized clinical trials or through experimental
+assays before being used in  patients.   Conflict  of  interests:
+None.   This  study was supported financially by Mashhad Farzaneh
+Pouya MSc1, 2 Zeynab Imani Saber MSc3 Mohammad Amin Kerachian  MD
+PhD1,  2 of Medical Sciences, Mashhad, Iran 2 Department of Medi‐
+cal Genetics, Faculty of Medicine, 3 Department of Medical Genet‐
+ics, Faculty of Medicine, THE ARCHIVES OF BONE AND JOINT SURGERY.
+ABJS.MUMS.AC.IR VOLUME 8. SUPPLEMENT 1. APRIL 2020 CO‐MORBIDITIES
+IN COVID‐19 1. Huang L, Shi Y, Gong B, Jiang L, Liu X, Yang J, et
+al. Blood single cell immune profiling reveals the interferonMAPK
+pathway  mediated adaptive immune response for COVID‐19. medRxiv.
+2020.  2. Chan JF‐W, Yuan S, Kok K‐H, To KK‐W, Chu H, Yang J,  et
+al. A familial cluster of pneumonia associated with the 2019 nov‐
+el coronavirus indicating person‐to‐person transmission: a  study
+of  a  family  cluster. The Lancet.  3. Tetro JA. Is COVID‐19 re‐
+ceiving ADE from other coronaviruses? Microbes and Infection.  4.
+Lippi G, Henry BM. Chronic obstructive pulmonary disease is asso‐
+ciated with severe coronavirus disease 2019 (COVID‐19).  Respira‐
+tory  Medicine.  2020.  5. Wan Y, Shang J, Graham R, Baric RS, Li
+F. Receptor recognition by the novel coronavirus from  Wuhan:  an
+analysis  based on decade‐long structural studies 6. Unterholzner
+L. The interferon response to intracellular DNA: why so many  re‐
+ceptors?   7. Kroczynska B, Mehrotra S, Arslan AD, Kaur S, Plata‐
+nias LC. Regulation of  interferon‐dependent  mRNA  Cytokine  Re‐
+search. 2014;34(4):289‐96.  8. Xiong Y, Liu Y, Cao L, Wang D, Guo
+M, Jiang A,  et  al.   Transcriptomic  characteristics  of  bron‐
+choalveolar  lavage  fluid and peripheral blood mononuclear cells
+in COVID‐19 patients. Emerging Microbes & Infections.   9.  Kumar
+S.  COVID‐19:  A drug repurposing and biomarker identification by
+using comprehensive gene‐disease  associations  through  protein‐
+protein  interaction  network  analysis.  2020.  10. Ma RCW, Holt
+RIG. COVID‐19 and diabetes.  11. Fang L, Karakiulakis G, Roth  M.
+Are patients with hypertension and diabetes mellitus at increased
+risk for COVID‐19 infection? The Lancet Respiratory 12. Zhang  H,
+Penninger  JM, Li Y, Zhong N, Slutsky AS.  Angiotensin‐converting
+enzyme 2 (ACE2) as a SARSCoV‐2 receptor: molecular mechanisms and
+potential  therapeutic target. Intensive Care Medicine. 2020:1‐5.
+13. Ray EC, Miller RG, Demko JE, Costacou T, Kinlough  CL,  Demko
+CL,  et al. Urinary plasmin (ogen) as a prognostic factor for hy‐
+pertension. Kidney international reports.  14. Fernandez  C,  Rys
+J, Almgren P, Nilsson J, Engstrm G, OrhoMelander M, et al. Plasma
+levels of the proprotein convertase furin and  incidence  of  15.
+Chen  X,  Hu W, Ling J, Mo P, Zhang Y, Jiang Q, et al.  Hyperten‐
+sion and Diabetes Delay the Viral Clearance in COVID‐19 Patients.
+medRxiv.  2020.  16. South AM, Diz D, Chappell MC. COVID‐19, ACE2
+and the Cardiovascular Consequences. American Physiological Soci‐
+ety  Rockville, MD; 2020.  17. Chen N, Zhou M, Dong X, Qu J, Gong
+F, Han Y, et al. Epidemiological and clinical characteristics  of
+99  cases  of 2019 novel coronavirus pneumonia in Wuhan, China: a
+descriptive study. The Lancet.  18. Ji H‐L, Zhao  R,  Matalon  S,
+Matthay  MA.  Elevated plasmin (ogen) as a common risk factor for
+COVID‐19 19. Coutard B, Valle C, de Lamballerie X, Canard B, Sei‐
+dah  N,  Decroly E. The spike glycoprotein of the new coronavirus
+2019‐nCoV contains a furin‐like cleavage site absent  in  CoV  of
+the  same clade. Antiviral 20. Kam Y‐W, Okumura Y, Kido H, Ng LF,
+Bruzzone R, Altmeyer R. Cleavage of the  SARS  coronavirus  spike
+glycoprotein  by airway proteases enhances virus entry into human
+bronchial epithelial cells in vitro.  PloS one. 2009;4(11).   21.
+Zhao  R, Ali G, Nie HG, Chang Y, Bhattarai D, Su X, et al.  Plas‐
+min improves oedematous bloodgas barrier by 22. Oxlund  CS,  Buhl
+KB,  Jacobsen  IA,  Hansen  MR,  Gram  J,  Henriksen  JE,  et al.
+Amiloride lowers blood pressure and attenuates urine  plasminogen
+activation in patients with treatmentresistant hypertension.  23.
+Kleyman TR, Kashlan OB, Hughey RP. Epithelial Na+ channel regula‐
+tion  by  extracellular and intracellular 24. Matthay MA, Aldrich
+JM, Gotts JE. Treatment for  severe  acute  respiratory  distress
+syndrome  from  COVID‐19.  The Lancet Respiratory Medicine. 2020.
+25. Hoffmann M, Kleine‐Weber H, Schroeder S, Krger N, Herrler  T,
+Erichsen  S, et al. SARS‐CoV‐2 cell entry depends on ACE2 and TM‐
+PRSS2 and is blocked by a clinically proven  protease  inhibitor.
+Cell.  2020.  26. Liang W, Guan W, Chen R, Wang W, Li J, Xu K, et
+al. Cancer patients in SARS‐CoV‐2 infection: a nationwide  analy‐
+sis  in China. The Lancet Oncology.  27. Di Bona D, Cippitelli M,
+Fionda C, Camm C, Licata A, Santoni A, et  al.  Oxidative  stress
+inhibits  IFN‐‐induced  antiviral gene expression by blocking the
+JAKSTAT 28. Tefferi A. Novel mutations and their  functional  and
+clinical  relevance  in  myeloproliferative neoplasms: JAK2, MPL,
+TET2, ASXL1, CBL, IDH and IKZF1.  29. Genovese MC, Kremer J,  Za‐
+mani  O, Ludivico C, Krogulec M, Xie L, et al. Baricitinib in pa‐
+tients THE ARCHIVES OF BONE AND  JOINT  SURGERY.  ABJS.MUMS.AC.IR
+VOLUME  8.  SUPPLEMENT  1.  APRIL 2020 with refractory rheumatoid
+arthritis. N Engl J Med.  30. Stebbing J, Phelan  A,  Griffin  I,
+Tucker  C, Oechsle O, Smith D, et al. COVID‐19: combining antivi‐
+ral and anti‐inflammatory treatments. The Lancet  Infectious  31.
+Favalli  EG,  Biggioggero M, Maioli G, Caporali R.  Lancet Infec‐
+tious Diseases. 2020.  32. Mehta P, McAuley DF, Brown M,  Sanchez
+E,  Tattersall  RS,  Manson JJ. COVID‐19: consider cytokine storm
+syndromes and immunosuppression. The Lancet.  33.  Richardson  P,
+Griffin  I,  Tucker  C,  Smith  D,  Oechsle  O, CO‐MORBIDITIES IN
+COVID‐19 Phelan A, et al. Baricitinib as potential treatment  for
+2019‐nCoV acute respiratory disease. The Lancet.  34. Cameron MJ,
+Ran L, Xu L, Danesh A, BermejoMartin JF, Cameron CM, et  al.  In‐
+terferon‐mediated  immunopathological  events are associated with
+atypical innate and adaptive immune responses  in  patients  with
+severe  acute  respiratory  syndrome.  35. Channappanavar R, Fehr
+AR, Zheng J, WohlfordLenane C, Abrahante JE, Mack M, et al. IFN‐I
+response  timing  relative  to  virus replication determines MERS
 clinical investigation. 2019;129(9).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

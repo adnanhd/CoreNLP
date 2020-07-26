@@ -1,0 +1,369 @@
+COVID-19 Outpatient Screening: a Prediction Score for Adverse Events
+Haoqi Sun*, 1,3Aayushee Jain*, 1,3Michael J. Leone*, 1,2Haitham S. Alabsi, 2,4,9Laura Brenner,1,3Elissa Ye,
+Wendong Ge, 1,3Yu-Ping Shao, 1Christine Boutros, 5,6Ruopeng Wang, 1,3Ryan Tesh, 1Colin Magdamo, 1Sarah I.
+Collens, 1,3Wolfgang Ganglberger, 2,7Ingrid V. Bassett, 2,9James B. Meigs, 2,5,6Jayashree Kalpathy-Cramer,
+Matthew D. Li, 2,7,9,10Jacqueline Chu, 2,8Michael L. Dougan, 1,2Lawrence Stratton, 1,2Jonathan Rosand, 2,5,6,11Bruce
+Fischl, 1,2Sudeshna Das, 1,2Shibani Mukerji**, 2,7Gregory K. Robbins**, 1,2,3M. Brandon Westover**
+Department of Neurology, Massachusetts General Hospital, Boston, MA
+Clinical Data AI Center (CDAC), Massachusetts General Hospital, Boston, MA
+Division of Pulmonary and Critical Care Medicine, Massachusetts General Hospital, Boston, MA
+Department of Radiology, Massachusetts General Hospital, Boston, MA
+Athinoula A. Martinos Center for Biomedical Imaging, Boston, MA
+Division of Infectious Diseases, Massachusetts General Hospital, Boston, MA
+Division of Gastroenterology, Massachusetts General Hospital, Boston, MA
+Division of General Internal Medicine, Massachusetts General Hospital, Boston, MA
+MGH Chelsea HealthCare Center, Chelsea, MA
+MIT HST/CSAIL, Cambridge, MA
+death in patients at risk for COVID-19 presenting for urgent care during the Massachusetts outbreak.
+Methods. Single-center study of adult outpatients seen in respiratory illness clinics (RICs) or the
+emergency department (ED), including development (n = 9381, March 7-May 2) and prospective (n =
+2205, May 3-14) cohorts. Data was queried from Partners Enterprise Data Warehouse. Outcomes were
+hospitalization, critical illness or death within 7 days. We developed the COVID-19 Acuity Score
+(CoVA) using automatically extracted data from the electronic medical record and learning-to-rank
+ordinal logistic regression modeling. Calibration was assessed using predicted-to-observed ratio (E/O).
+Discrimination was assessed by C-statistics (AUC).
+Results. In the development cohort, 27.3%, 7.2%, and 1.1% of patients experienced hospitalization,
+critical illness, or death, respectively; and in the prospective cohort, 26.1%, 6.3%, and 0.5%. CoVA
+showed excellent performance in the development cohort (concurrent validation) for hospitalization (E/O:
+1.00, AUC: 0.80); for critical illness (E/O: 1.00, AUC: 0.82); and for death (E/O: 1.00, AUC: 0.87).
+Performance in the prospective cohort (prospective validation) was similar for hospitalization (E/O: 1.01,
+AUC: 0.76); for critical illness (E/O 1.03, AUC: 0.79); and for death (E/O: 1.63, AUC=0.93). Among 30
+predictors, the top five were age, diastolic blood pressure, blood oxygen saturation, COVID-19 testing
+status, and respiratory rate.
+related to COVID-19 infection in the outpatient setting.
+The COVID-19 pandemic has presented unparalleled challenges for healthcare systems around the
+world[1–8]. The SARS-CoV-2 virus first appeared in Wuhan, China in December 2019. The first US case
+was confirmed on January 20[9], followed by exponential spread within the US[10]. By the end of April,
+Massachusetts was the third hardest hit state, trailing only New York and New Jersey[11]. Within
+Massachusetts, Boston and Chelsea were epicenters for the spread of COVID-19.
+In anticipation of the surge of COVID-19 patients and to help limit viral spread, Massachusetts General
+Hospital (MGH) closed most outpatient and urgent care clinics and set up new Respiratory Illness Clinics
+(RICs) on March 7, 2020 to manage patients with symptoms of a respiratory infection. These clinics were
+staffed by clinicians and nurses reassigned from other areas, most with little urgent care experience.
+COVID-19 suspected cases were also screened in the Emergency Department (ED). Due to high case
+volumes and precautions for staff and patients, visit duration and extent of clinical assessments for most
+patients were curtailed. In addition to limited clinical assessment, triage decisions were complicated by
+COVID-19’s biphasic clinical course. Patients who initially present with mild symptoms often later return
+for hospital admission, and many subsequently suffer adverse events including ICU transfer, mechanical
+ventilation (MV) or death. Various prediction rules have been proposed, but to our knowledge few have
+been prospectively validated, and most were developed for the inpatient setting rather than outpatient
+To help frontline clinicians appropriately triage and plan follow-up care for patients presenting for
+COVID-19 screening and not requiring immediate hospitalization, we developed an outpatient screening
+score, COVID-19 Acuity Score (CoVA), that could be incorporated into an electronic medical record
+(EMR) system. We used data from MGH’s newly formed RIC clinics and the emergency department.
+CoVA assigns acuity levels based on demographic, clinical, radiographic, and medical history variables,
+and provides predicted probabilities for hospital admission, ICU admission or MV, or death within 7
+Study Population
+We included data from patients seen in MGH RIC clinics and ED between March 7 and May 14. Patients
+were divided into two mutually exclusive cohorts, a development cohort (March 7 to May 2, 2020, n =
+9381); and prospective cohort (May 3 to May 14, 2020, n = 2205).
+Inclusion criteria were: (1) MGH RIC or ED visit between March 7th and May 14th, 2020; (2) age ≥ 18
+years; and (3) reason for visit was cough, fever, shortness of breath, COVID-related, or potentially related
+swab without a clinical assessment were excluded; and (2) Patients with visits in both development and
+prospective cohorts are excluded, to ensure the score is not overfit to those patients. A data flowchart is
+development cohort, we randomly sampled one visit from each patient. In the prospective cohort, we
+chose the most recent visit from each patient.
+Primary Outcome
+The primary outcome was the occurrence of an adverse event within 7 days following an outpatient
+medical encounter, including either hospitalization at MGH, critical illness (defined as ICU care and/or
+mechanical ventilation), or death. The prediction horizon was set to 7 days because this period was
+considered meaningful by our frontline teams for clinical decision-making (e.g., regarding whether to
+send a patient home or to the emergency department, or to follow up with phone calls), and because
+empirically, within the model development cohort most adverse events occurred within 7 days of initial
+We selected 98 variables that were routinely available in the outpatient setting during the COVID-19
+pandemic to serve as candidate predictors. These included demographic variables: age, gender, tobacco
+use history, most recent body mass index (BMI) within the preceding month (represented as binary
+variables designated as high BMI, >35kg/m2, and low BMI, <18.5kg/m2), the most recent vital signs
+(blood pressure, respiratory rate, heart rate, temperature, blood oxygen saturation level (SpO2)) within the
+preceding 3 days; COVID testing status (See Supplemental Section “Predictor encoding” for encoding
+details); specific symptoms suggestive of COVID-19 (anosmia, dysgeusia based on ICD-10 codes), and
+pre-existing medical diagnoses, coded as present or absent based on groups of billing codes (ICD-10
+recorded on or before the day of presentation. The Weighted Charlson Comorbidity Index (CCI) was
+computed based on groups of ICDs using the “wscore” from the R package “comorbidity”[14]. We
+omitted race and ethnicity as predictors because (1) we have found that these variables were often
+unavailable or inaccurately recorded, especially ethnicity; and (2) we wanted to limit the influence of
+local demographic patterns on the score, which might limit the ability to generalize to external
+For patients who underwent chest X-ray (CXR) imaging during these encounters, we identified groups of
+extracted key words, phrases, and word patterns describing abnormal findings. Next, a pulmonary and
+critical care medicine physician (LB) categorized these phrases into groups. Five groups were identified:
+multifocal, patterns typical for COVID-19 (pneumonia, bronchopneumonia, Acute Respiratory Distress
+Syndrome (ARDS)), patchy consolidation, peripheral or interstitial opacity, or hazy or airspace opacities.
+not present or unavailable.
+Data Preprocessing and Selection of Predictor Variables
+S5). Unavailable values were imputed using K-nearest neighbors (KNN)[15], where the value of K was
+determined by minimizing the imputation error on a subset without unavailable data by randomly
+masking variables according to the pattern of unavailability in the overall data. Note that we did not
+impute CXR predictors or COVID status for patients who did not have either of them available. Instead,
+for these we coded unavailability explicitly (described above).
+Predictors were standardized to zero mean and unit standard deviation using z-score transformation
+we used ANOVA statistics to identify predictors associated with hospitalization, ICU care or MV, or
+death. At 0.05 significance level, we identified 65 predictors to carry forward into the model fitting
+selection (LASSO) regression during the model fitting procedure to select a reduced subset of highly
+predictive variables.
+Model Development
+We assigned an ordinal scale to adverse events, including no event, hospitalized, ICU care and/or MV,
+and death. We used an implementation of ordinal regression: pairwise learning to rank (LTR) with
+LASSO penalized logistic regression[16,17]. Training involves learning to predict which of a pair of
+patients will have a worse outcome. On biological grounds, and to address co-linearity among predictors,
+we constrained the model optimization to allow only non-negative coefficients for CXR predictors,
+medical comorbidities, CCI, and history of current or past tobacco use; and unconstrained for other
+predictors. Model training and preliminary evaluation of model performance was performed using the
+development cohort, using nested 5-fold cross validation (CV) (Supplemental Materials and
+probabilities for hospitalization and for critical illness or death within 7 days. The final model was tested
+on the prospective validation cohort. Performance is reported both for the development cohort (results
+from cross validation), and for the prospective cohort.
+Statistical Analysis of CoVA Predictive Performance
+We summarized the distribution of cohort characteristics and adverse events using event counts and
+proportions for categorical predictors, and mean and standard deviation for continuous variables. For
+model calibration, an expected-to-observed ratio (E/O)[18] of 1.0 indicates that the number of expected
+events equals the number of observed events; and calibration slope (CS) is defined as the linear
+correlation between the observed O and expected probabilities E, where the expected (predicted) values
+(E) are binned into quintiles.
+We calculated the area under the Receiver Operator Characteristic (ROC) curve (AUC, also called the Cstatistic) to quantify how well CoVA scores discriminate between individuals who within 7 days were vs.
+not hospitalized, and between those who did vs. not experience critical illness (ICU care, MV, or death).
+We considered an AUC between 0.50 and 0.55 to be poor; 0.55 and 0.65, moderate; 0.65 and 0.75,
+negative predictive values (NPV) at the 90% sensitivity level.
+We also looked at the time course of adverse events as a function of CoVA score over 4 weeks (28 days)
+following initial presentation to the RIC or ED to understand the properties of CoVA score.
+Cohort Characteristics
+From March 7 to May 2, 2020, 9381 patients met inclusion criteria and were included in the development
+cohort. The average age was 51 years old with 49% being female. Among these, 3344 (35.6%) had
+adverse events within 7 days of presentation: 2562 (27.3%) were hospitalized, 679 (7.2%) received ICU
+care and/or were mechanically ventilated, and 103 (1.1%) died.
+From May 3-14, 2205 additional patients met inclusion criteria and were included in the prospective
+cohort. The average age was 53 years old with 49% being female. Among these, 726 (32.9%) had adverse
+events: 575 (26.1%) were hospitalized, 139 (6.3%) received ICU care and/or were mechanically
+ventilated, and 12 (0.5%) died.
+prospective validation period there were modest increases in the proportion of patients with CXRs
+(prospective 52.3% vs. development 41.0%), the proportion of outpatient evaluations performed in RIC
+clinics (prospective 26.5% vs. development 21.4%), and in testing rates for COVID-19 (prospective
+78.8% vs. development 59.5%). Several other small but likely clinically insignificant differences between
+cohorts also reached statistical significance, due to the large cohort sizes. COVID-19 infections and
+Predictive Performance
+CoVA showed excellent calibration and discrimination in the development cohort for hospitalization
+(E/O: 1.00 [ 0.98, 1.02], CS: 0.99 [0.98, 0.99], AUC: 0.80 [0.79 , 0.81]); for critical illness (E/O: 1.00
+[0.93, 1.06], CS: 0.98 [0.96, 0.99], AUC: 0.82 [0.80 , 0.83]); and for death (E/O: 1.00 [0.84, 1.21], CS:
+not calculated due to small sample size; AUC: 0.87 [0.83, 0.91]). Performance generalized to the
+prospective validation cohort, with similar results for hospitalization (E/O: 1.01 [0.96 , 1.07], CS: 0.99
+[0.98, 1.00], AUC 0.76 [ 0.73 , 0.78]); for critical illness (E/O: 1.03 [0.89 , 1.20], CS: 0.98 [0.94, 1.00],
+AUC: 0.79 [0.75 , 0.82]); and for death (E/O: 1.63 [1.03, 3.25], CS: not calculated due to small sample
+Properties of COVA Score
+The proportion of patients with adverse events at 7 days increases with higher CoVA scores, rising from
+18% with CoVA scores in the 0-20 range, to 88% for those with scores in the 80-100 range. The
+proportion underwent critical illness or death also rises, from 2% for scores between 0-20, to 32% with
+We investigated the time course of adverse events as a function of CoVA score over 4 weeks (28 days)
+following initial presentation to the RIC or ED. We limited this investigation to the development cohort,
+because 28 days have not passed for the prospective validation cohort at the time of writing. By 28 days,
+3399 (36%) of patients experienced hospitalization, critical illness, or death. Of these, 3214 (95%)
+occurred within 1 day, and 3344 (98%) had occurred by 7 days. Critical illness or death occurred in 861
+(9%) of patients within 28 days of presentation. Of these, 537 (62%) occurred within 1 day, and 782
+(91%) occurred within 7 days. These numbers support our choice of 7 days as a clinically meaningful
+event prediction horizon. Curves for the cumulative incidence of adverse events over time for different
+Predictors of Adverse Events
+predictors increase the predicted probability of adverse events when present. SpO2, diastolic and systolic
+blood pressure and low BMI inversely correlated with the probability of adverse events. Predictors from
+CXR reports included in the model were multifocal patterns (diffuse opacities, ground glass) and patterns
+typical for COVID.
+Effect of Chest X-Ray Findings and COVID Status on the Probability of Adverse Events
+CXRs and testing for COVID-19 were not universal, and testing rates evolved over time. One potential
+use of CoVA is to help determine whether to perform these tests. We therefore investigated the impact of
+S4, positive CXR findings are most informative when the pre-CXR probability is 30% (critical illness or
+death), in which case they increase the predicted probability of an adverse event by 4%. Negative CXR
+findings are maximally informative when the pretest probability is near 34% (critical illness or death), in
+which case they decrease the probability by 4%.
+We also examined the effect of COVID-19 testing results on the predicted probability of adverse events
+(critical illness or death). The largest effect of a positive test result occurs when pretest probability is
+28%, in which case the post-test probability increases by 8%. A negative result has the largest impact
+when pretest probability is 36%, in which case the posttest probability decreases by 8%.
+Identifying outpatients presenting for COVID-19 screening at high risk or low risk for adverse events is
+important for medical decisions regarding testing, hospitalization, and follow-up. We developed and
+score that can be implemented in the EMR. The model exhibits excellent calibration, discrimination, and
+negative predictive value both in concurrent validation (n = 9381, March 7-May 2) and in large-scale
+prospective validation (n = 2205, May 3-14). While several COVID-19 risk prediction models have been
+proposed for the inpatient setting, CoVA fills an unmet need for a prospectively validated risk designed
+for outpatient screening.
+Several predictors selected into the model have been identified in prior studies, including advanced
+age[4,5,9,19]; pre-existing pulmonary[4,5], kidney[4], and cardiovascular disease[4,9,20]; obesity[21];
+and increased respiratory or heart rate or hypoxia[4]. We found that other pre-existing medical conditions
+also increased risk for adverse outcomes, including hematologic malignancy, cancer and pancreatitis.
+Hypertension and diabetes mellitus did not emerge as predictors in the CoVA model, despite being
+identified in prior studies[4, 5, 9]. These comorbidities are correlated with outcomes in univariate analysis
+higher CCI, high BMI, and other comorbidities already selected as predictors, helping to explain their not
+the outcome, but this may have been due to low numbers (85/9381<1%, less than 1% of developmental
+Several studies have documented neurological manifestation of COVID-19[22–24]. Nevertheless, we
+were surprised to find a variety of neurological diseases surfaced as robust predictors of adverse outcomes
+in COVID-19 infection, including ischemic stroke, intracranial hemorrhage, subarachnoid hemorrhage,
+epilepsy, amyotrophic lateral sclerosis, myasthenia gravis, and spinal muscular atrophy. It is unclear if
+these neurological diseases are merely markers of health or if the worsened outcomes are due to the
+interaction of COVID-19 with neurological disorders that amplifies the pathology.
+our study, most have attempted to predict critical illness or death. However, most are based on small
+cohorts (median: n = 189, range n = 26 to 577); focus on inpatients; and utilize laboratory values, which
+were rarely available for our outpatient cohort. Only 3 included prospective or external validation. By
+contrast, CoVA is designed for the outpatient setting. In this setting, the availability of COVID-19 test
+results are variably available (for 60% in the development and 80% in the prospective cohort) and other
+laboratory results were rarely available. To ensure generalizability, we used a large development cohort of
+9381 patients, and trained the model using a rigorous approach. We ensured clinical interpretability by
+utilizing a linear model with positivity constraints on predictors expected to increase risk. Finally, we
+validated our model on a large (n = 2205) prospectively collected patient cohort, providing an unbiased
+assessment of model generalizability.
+Strengths of this study include its large sample size, careful EMR phenotyping, rigorous statistical
+approach, and the feature that all variables required by the model are available and automatically
+from a single center, with patient demographics specific to MGH, Boston. Nevertheless, important
+biological parameters in the predictive model are universal and increase the likelihood that the model will
+generalize. Second, although RIC clinics were established for patients with suspicion for COVID-19,
+patients seen in the ED were seen for a variety of reasons. Nevertheless COVID-19 was and for now
+remains a universal concern for patients seen in the ED, and we excluded patients prior to the onset of
+COVID-19 in Boston (March 7, 2020), therefore our model is relevant for screening during times of high
+alert for COVID-19. Finally, we did not include lab test values, since they were typically not available.
+Among the few studies of inpatients, inclusion of lab tests appears to improve model performance.
+In conclusion, the COVID-19 Acuity Score (CoVA) represents a well-calibrated, discriminative,
+presenting with possible COVID-19 infection.
+Respiratory Infection Clinics in the MassGeneral Brigham hospital system, and the MGH Emergency
+Departments for their constructive feedback on this work.
+Center for AIDS Research (HU CFAR NIH/NIAID fund 5P30AI060354-16). MBW was supported by the
+Glenn Foundation for Medical Research and American Federation for Aging Research through a
+Breakthroughs in Gerontology Grant; the American Academy of Sleep Medicine through an AASM
+Foundation Strategic Research Award; the Department of Defense through a subcontract from Moberg
+ICU Solutions, Inc, and by grants from the NIH (1R01NS102190, 1R01NS102574, 1R01NS107291,
+1RF1AG064312). Dr. Westover is co-founder of Beacon Biosignals. S.M. was supported by the National
+Division of Clinical Research. BF was supported by the BRAIN Initiative Cell Census Network grant
+U01MH117023, the NIBIB (P41EB015896, 1R01EB023281, R01EB006758, R21EB018907,
+R01EB019956), NIA (1R56AG064027, 1R01AG064027, 5R01AG008122, R01AG016495), NIHM and
+NIMDKD (1-R21-DK-108277-01), NINDS (R01NS0525851, R21NS072652, R01NS070963,
+R01NS083534, 5U01NS086625,5U24NS10059103, R01NS105820), and Shared Instrumentation Grants
+1S10RR023401, 1S10RR019307, and 1S10RR023043. BF received additional support from the NIH
+Blueprint for Neuroscience Research (5U01-MH093765), part of the Human Connectome Project. In
+addition, BF has a financial interest in CorticoMetrics, a company whose medical pursuits focus on brain
+General Hospital and Partners HealthCare in accordance with their conflict of interest policies.
+S R, Js H, M N, et al. Presenting Characteristics, Comorbidities, and Outcomes Among 5700
+Patients Hospitalized With COVID-19 in the New York City Area. JAMA, 2020. Available at:
+Covid-19 — Navigating the Uncharted | NEJM. N Engl J Med Available at:
+Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with
+COVID-19 in Wuhan, China: a retrospective cohort study. The Lancet 2020; 395:1054–1062.
+Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease
+2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese
+Center for Disease Control and Prevention. JAMA 2020;
+CDC COVID-19 Response Team. Severe Outcomes Among Patients with Coronavirus Disease
+2019 (COVID-19) - United States, February 12-March 16, 2020. MMWR Morb Mortal Wkly Rep
+He X, Lau EHY, Wu P, et al. Temporal dynamics in viral shedding and transmissibility of COVID19. Nat Med 2020; 26:672–675.
+Lauer SA, Grantz KH, Bi Q, et al. The Incubation Period of Coronavirus Disease 2019 (COVID-19)
+From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med 2020;
+D W, B H, C H, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel
+Coronavirus-Infected Pneumonia in Wuhan, China. JAMA, 2020. Available at:
+Accessed 5 June 2020.
+Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the United
+States. N Engl J Med 2020; 382:929–936.
+The Covid-19 Tracker. STAT. 2020; Available at:
+Staff JSG, April 17 U, 2020, Comments127 6:26 p m Email to a Friend Share on Facebook Share on
+to coronavirus - The Boston Globe. Available at:
+Results released for antibody and COVID-19 testing of Boston residents. 2020. Available at:
+Accessed 9 June 2020.
+Gasparini A. comorbidity: An R package for computing comorbidity scores. J Open Source Softw
+Batista GE, Monard MC. A Study of K-Nearest Neighbour as an Imputation Method. His 2002;
+Pedregosa F, Varoquaux G, Gramfort A, et al. Scikit-learn: Machine learning in Python. J Mach
+Learn Res 2011; 12:2825–2830.
+Liu T-Y. Learning to rank for information retrieval. Found Trends Inf Retr 2009; 3:225–331.
+Vergouwe Y, Steyerberg EW, Eijkemans MJC, Habbema JDF. Validity of prognostic models: when
+is a model clinically useful? Semin Urol Oncol 2002; 20:96–107.
+Guan W-J, Ni Z-Y, Hu Y, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. N
+Engl J Med 2020; 382:1708–1720.
+Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19
+based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med 2020; 46:846–
+Cai Q, Chen F, Wang T, et al. Obesity and COVID-19 Severity in a Designated Hospital in
+Shenzhen, China. Diabetes Care 2020;
+Filatov A, Sharma P, Hindi F, Espinosa PS. Neurological Complications of Coronavirus Disease
+(COVID-19): Encephalopathy. Cureus 12. Available at:
+Mao L, Jin H, Wang M, et al. Neurologic Manifestations of Hospitalized Patients With Coronavirus
+Disease 2019 in Wuhan, China. JAMA Neurol 2020;
+Wu Y, Xu X, Chen Z, et al. Nervous system involvement after infection with COVID-19 and other
+coronaviruses. Brain Behav Immun 2020; Available at:
+emergency department, ICU = intensive care unit, BMI = body mass index, HR = heart rate, SpO2 =
+oxygen saturation; CCI = Charlson Comorbidity Index.
+Development cohort
+Prospective cohort
+RIC: n (%)
+ED: n (%)
+Yes: n (%)
+No: n (%)
+Untested or Unknown: n (%)
+Hospitalization: n (%)
+ICU or Intubation: n (%)
+Death: n (%)
+Age, year: Mean (SD)
+Female: n (%)
+BMI, kg/m2: Mean (SD)
+Asian: n (%)
+Black: n (%)
+Pacific Islander: n (%)
+Native American: n (%)
+White: n (%)
+Other or Unknown: n (%)
+Yes / Quit: n (%)
+Never / Passive: n (%)
+Not Asked / Unknown: n (%)
+Weighted Charlson Score: Mean (SD)
+SpO2, %: Mean (SD)
+Outcome in 7 days
+Hispanic Ethnicity: n (%)
+Chest X-ray (percentage is among available patients except the first one)
+Chest X-ray available: n (%)
+Multifocal: n (%)
+Typical pattern for COVID-19: n (%)
+Patchy consolidation: n (%)
+Peripheral/interstitial opacity: n (%)
+Hazy or airspace opacity: n (%)
+characteristic curve, PPV = positive pressure ventilation, NPV = negative predictive value.
+Adverse event
+Hospitalization, ICU,
+Intubation, or death
+ICU, Intubation, or
+Concurrent validation (based on the development cohort but cross-validated)
+Number of patients (n, %)
+Calibration slope (CS)
+Spec. at 90% Sens.
+PPV at 90% Sens.
+NPV at 90% Sens.
+Prospective validation
+Number of patients (n, %)
+Calibration slope (CS)
+Spec. at 90% Sens.
+PPV at 90% Sens.
+NPV at 90% Sens.
++ 95% confidence interval
+PPV = positive predictive value, NPV = negative predictive value, Spec = specificity, Sens =
+sensitivity, ICU = intensive care unit, E/O = ratio of Expected to number of Observed adverse
+events, n.c. = not calculated due to small sample size.
+Renal cancer*
+Diastolic blood pressure
+Cystic fibrosis*
+Ever COVID+ up to event
+Cardiac Arrest*
+Seizure disorder
+Amyolateral sclerosis*
+Metabolic acidosis*
+Myasthenia gravis*
+Respiratory Rate
+Acute ischemic stroke*
+CXR: Multifocal
+Heart rate
+Body temperature
+Systolic blood pressure
+Spinal muscular atrophy*
+Weighted Charlson Score
+Intracranial hemorrhage*
+Subarachnoid hemorrhage*
+Male sex
+High BMI (>35kg/m )
+CXR: Typical for COVID
+Low BMI (<18.5kg/m )
+Hematologic malignancy*
+Legend: Abbreviations: CXR = chest X-ray; ARDS = Acute Respiratory Distress Syndrome; BMI = Body Mass
+Index. Diagnoses are based on past medical history, and are coded as present (e.g. Pneumothorax = 1) if recorded
+in the electronic medical record at any time before the date of presentation for COVID-19 screening. Disorders
+marked by ‘*’ refer to pre-existing conditions documented in the electronic medical record.
+RIC/ED, binned by acuity score. Colors represent hospitalization, ICU/MV, or death. (B) Cumulative
+incidence of critical illness or death up to 17 days following initial evaluation, based on initial acuity
+score. Curves are computed based on cross validation in the development cohort (C,D,E,F) Calibration
+curves: predicted probability of adverse events vs. observed rate of adverse events. C (development
+cohort) and D (prospective validation cohort) show calibration for predicting hospitalization; E
+(development cohort) and F (prospective validation cohort) show calibration for predictions of critical

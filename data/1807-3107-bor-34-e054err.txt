@@ -1,67 +1,66 @@
-Investigation of Turkish dentists’ clinical
-attitudes and behaviors towards the
-COVID-19 pandemic: a survey study.
-Where is read:
-COVID-19 knowledge score according to the MLP ANN model.
-The variables
-Q23. As a dentist, do you inform your patients about Covid-19?
-Q12. Where do you receive the information about Covid-19 from? (multiple choice)
-Q1. Age
-Q15. Which of the following measures do you implement in your professional
-life against Covid-19? (multiple choice)
-Q19. What are the problems you have encountered at work during this
-Covid-19 pandemic? (multiple choice)
-Q16. Which of the following measures do you apply to your patients in your
-professional life against the Covid-19? (multiple choice)
-Q14. Which of the following measures do you implement in your daily life
-against Covid-19? (multiple choice)
-Q17. Have you made any change individually regarding patient admissions in
-your professional life against Covid-19?
-Q22. Are you worried about transmitting this disease to your immediate
-environment as a risky occupational group for Covid-19?
-Q4. Institution
-Q3. Specialty
-Q6. Who do you live with?
-Q2. Gender
-Q7. Do you have a child/ children?
-Q18. Has the institution where you work made any change in its patient
-admission policy owing to Covid-19?
-The day on which the questionnaire was filled out.
-Q10. Have you had face-to-face contact with someone who traveled abroad in
-the past month?
-Q8. Do you have a chronic illness/a disease that requires regular medication?
-Q13. Have you attended an informational meeting on Covid-19?
-Q21. Are you concerned about being infected with this virus as a profession
-group at high risk for Covid-19?
-Q9. Have you traveled abroad in the past month?
-Q20. Do you think that current events about Covid-19 affect you spiritually?
-Q5. Marital status
-Braz. Oral Res. 2020;34:e054err
-Título resumido título resumido título resumido título resumido título resumido título resumido título resumido título resumido
-It should read:
-The variables
-Importance level (%)
-Q23. As a dentist, do you inform your patients about Covid-19?
-Q12. Where do you receive the information about Covid-19 from? (multiple choice)
-Q1. Age
-Q15. Which of the following measures do you implement in your professional life against Covid-19? (multiple choice)
-Q19. What are the problems you have encountered at work during this Covid-19 pandemic? (multiple choice)
-Q16. Which of the following measures do you apply to your patients in your professional life against the Covid-19?
-Q14. Which of the following measures do you implement in your daily life against Covid-19? (multiple choice)
-Q17. Have you made any change individually regarding patient admissions in your professional life against Covid-19?
-Q22. Are you worried about transmitting this disease to your immediate environment as a risky occupational group for
-Q4. Institution
-Q3. Specialty
-Q6. Who do you live with?
-Q2. Gender
-Q7. Do you have a child/ children?
-Q18. Has the institution where you work made any change in its patient admission policy owing to Covid-19?
-The day on which the questionnaire was filled out.
-Q10. Have you had face-to-face contact with someone who traveled abroad in the past month?
-Q8. Do you have a chronic illness/a disease that requires regular medication?
-Q13. Have you attended an informational meeting on Covid-19?
-Q21. Are you concerned about being infected with this virus as a profession group at high risk for Covid-19?
-Q9. Have you traveled abroad in the past month?
-Q20. Do you think that current events about Covid-19 affect you spiritually?
-Q5. Marital status
-Braz. Oral Res. 2020;34:e054err
+Investigation  of  Turkish dentists clinical attitudes and behav‐
+iors towards the COVID‐19 pandemic: a  survey  study.   Where  is
+read:  COVID‐19  knowledge  score according to the MLP ANN model.
+The variables Q23. As a dentist,  do  you  inform  your  patients
+about  Covid‐19?  Q12. Where do you receive the information about
+Covid‐19 from? (multiple choice) Q1. Age Q15. Which of  the  fol‐
+lowing  measures  do  you  implement  in  your  professional life
+against Covid‐19? (multiple choice) Q19. What  are  the  problems
+you have encountered at work during this Covid‐19 pandemic? (mul‐
+tiple choice) Q16. Which of the following measures do  you  apply
+to  your patients in your professional life against the Covid‐19?
+(multiple choice) Q14. Which of the following measures do you im‐
+plement  in  your  daily life against Covid‐19? (multiple choice)
+Q17. Have you made any change individually regarding patient  ad‐
+missions  in  your  professional life against Covid‐19?  Q22. Are
+you worried about transmitting this disease to your immediate en‐
+vironment as a risky occupational group for Covid‐19?  Q4. Insti‐
+tution Q3. Specialty Q6. Who do you live with?  Q2. Gender Q7. Do
+you  have  a child/ children?  Q18. Has the institution where you
+work made any change in its patient  admission  policy  owing  to
+Covid‐19?   The  day  on  which the questionnaire was filled out.
+Q10. Have you had face‐to‐face contact with someone who  traveled
+abroad  in  the  past month?  Q8. Do you have a chronic illness/a
+disease that requires regular medication?  Q13. Have you attended
+an  informational  meeting  on  Covid‐19?  Q21. Are you concerned
+about being infected with this virus as  a  profession  group  at
+high risk for Covid‐19?  Q9. Have you traveled abroad in the past
+month?  Q20. Do you think that current events about Covid‐19  af‐
+fect  you  spiritually?   Q5.  Marital  status  Braz.  Oral  Res.
+2020;34:e054err Ttulo  resumido  ttulo  resumido  ttulo  resumido
+ttulo resumido ttulo resumido ttulo resumido ttulo resumido ttulo
+resumido It should read: The variables Importance level (%)  Q23.
+As  a  dentist, do you inform your patients about Covid‐19?  Q12.
+Where do you receive the information about Covid‐19 from? (multi‐
+ple  choice)  Q1. Age Q15. Which of the following measures do you
+implement in your professional life against  Covid‐19?  (multiple
+choice)  Q19.  What are the problems you have encountered at work
+during this Covid‐19 pandemic? (multiple choice)  Q16.  Which  of
+the following measures do you apply to your patients in your pro‐
+fessional life against the Covid‐19?  Q14. Which of the following
+measures  do  you  implement in your daily life against Covid‐19?
+(multiple choice) Q17. Have you made any change individually  re‐
+garding  patient  admissions  in  your  professional life against
+Covid‐19?  Q22. Are you worried about transmitting  this  disease
+to  your  immediate environment as a risky occupational group for
+Q4. Institution Q3. Specialty Q6. Who do you live with?  Q2. Gen‐
+der  Q7. Do you have a child/ children?  Q18. Has the institution
+where you work made any change in its  patient  admission  policy
+owing to Covid‐19?  The day on which the questionnaire was filled
+out.  Q10. Have you had face‐to‐face  contact  with  someone  who
+traveled  abroad  in  the  past month?  Q8. Do you have a chronic
+illness/a disease that requires regular  medication?   Q13.  Have
+you  attended an informational meeting on Covid‐19?  Q21. Are you
+concerned about being infected with this virus  as  a  profession
+group at high risk for Covid‐19?  Q9. Have you traveled abroad in
+the past month?  Q20. Do you  think  that  current  events  about
+Covid‐19  affect  you spiritually?  Q5. Marital status Braz. Oral
+Res. 2020;34:e054err
+
+
+
+
+
+
+
+

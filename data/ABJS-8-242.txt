@@ -1,336 +1,330 @@
-COPYRIGHT 2020 © BY THE ARCHIVES OF BONE AND JOINT SURGERY
-CURRENT CONCEPTS REVIEW
-Prevention and Control of the New Coronavirus in
-Ehsan Rafeemanesh, MD1; Fatemeh Ahmadi, MD1; Maryam Memarzadeh, MD1
-Workplaces are susceptible places for exposure to the new coronavirus (Covid-19) infection due to gathering of many
-people. Hence, different instructions have been promoted by international organizations regarding high-risk employees
-the required strategies to prevent and control COVID-19 in the workplace. In conclusion, considering the fast spreading
-and growing prevalence of the new corona virus disease in the world over, all managers, employers, and business
-owners should receive the necessary information and training on prevention and control strategies based on scientific
-guidelines and standards.
-Level of evidence: III
-Keywords: Coronavirus, COVID-19, Prevention and control, Workplace
-n December 2019, a new type of severe pneumonia
-was reported in Wuhan, China, which had a high
-genetic affinity with SARS-CoV and now called
-Corona virus 2019 disease (COVID-19) (1). Now
-it is clear that person to person transmission via
-respiratory droplets is the main transmission rout
-of this virus. Recent reports suggested that infected
-individuals may be contagious even when they are
-asymptomatic (2-3). However, according to available
-data, people with symptoms are more likely to spread
-the virus. Moreover, it has been suggested that
-COVID-19 patients may also spread the virus in the
-convalescent period. Notably, whether patient that
-have healed from this virus will become infected
-again upon exposure is still unknown (4). However,
-the World Health Organization (WHO) is constantly
-monitoring the epidemiology of the outbreak to
-increase its knowledge of the virus transmission
-of Medical Sciences, Mashhad, Iran
-cycle and methods of protection and prevention of the
-disease. Accurate medical information from infected
-individuals is needed to determine the infectious
-course of this new disease (5).
-Workplaces are susceptible places for exposure to the
-new coronavirus infection due to gathering of many
-people. Hence, different guidelines have been promoted
-by international organizations regarding high-risk
-employees and the necessity of implementing health
-policies to prevent exposure and infection control in the
-Given the increasing prevalence of COVID-19, difficulties
-in prompt case detection and the unknown mechanism of
-transmission, several workers are at the risk of exposure
-to this disease. Considering the importance of prevention
-and infection control in the workplace, here we aimed
-COVID-19 in the workplace.
-Arch Bone Jt Surg. 2020; 8 (Supplement 1): 242-246. Doi: 10.22038/abjs.2020.47410.2323
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-Occupations at the risk of exposure to COVID-19
-Because of the wide and rapid spread of this new disease,
-all jobs have a risk of encountering COVID-19, especially
-those that involve direct contact with customers and
-clients. However, some employees, such as health care
-workers, people working at laboratories, tourism and
-transport industry, hotel and restaurant staff, and waste
-workers are at a higher risk due to direct exposure to
-people and or workplace contamination. Preventive and
-control measures to protect workers against coronavirus
-and its exposure depend on the type of work performed
-and the risk of exposure, including the potential to come
-in contact with infected people and workplace pollution
-(7). According to the Centers for Disease Control (CDC)
-guidelines, occupations that are more exposed to the new
-coronavirus include (8):
-1. Health care workers (HCWs)
-2. Staff of the cemeteries and the funeral houses
-3. Officials and staff of airports, airlines, railways,
-subways and all public transport (buses, taxis, etc.)
-4. Border guards
-5. Solid waste and wastewater workers
-6. Employees who travel regularly, especially to
-contaminated areas
-With the increasing incidence of illness and the need for
-patient health care, HCWs have been identified as a high
-risk group for this infection. Of the 138 patients treated
-at Wuhan Hospital, 40 patients (29%) were HCWs.
-Among these, 31 (77.5%) worked in the general ward,
-7 (17.5%) in the emergency department, and 2 (5%)
-worked in the intensive care unit (ICU). It was apparently
-a super-spreader patient admitted to the surgical ward
-with symptoms of abdominal pain who was able to infect
-more than 10 hospital staff with COVID-19 (9).
-Dentists and makeup artists are also at high
-risk of developing this disease due to face-to-face
-communication with clients and exposure to saliva, blood
-and exhaled breath, as well as excessive use of sharp
-and sharp tools. Therefore, it is important to implement
-control measures in these jobs to control infection and
-prevent transmission (10).
-Flight and ship crews are also at risk of contact with
-infected passengers. At least 10 cases were reported
-among 1,035 crew of Diamond Princess Ship, which was
-quarantined with about 3,600 passengers from February
-3rd to February 19th, 2020 in Yokohama, Japan. A
-traveler from Hong Kong boarded the ship for a 14-day
-voyage to Yokohama on January 20th. This passenger
-traveled from Yokohama to Hong Kong and landed there
-on January 25th. The ship continued its journey until it
-received news on February 1st that the passenger had
-tested positive. The ship returned to Yokohama a day
-earlier and was quarantined, and guests were isolated in
-their cabins (11).
-In another study conducted in February 2020, migrant
-workers were considered another group at risk of
-infection with the new coronavirus. The study said that
-these people face more barriers in accessing health
-services in the host country (such as access to insurance
-services). In addition, mental disorders are more common
-in these people and is exacerbated by quarantine due
-NEW CORONAVIRUS PREVENTION IN WORKPLACES
-to the new coronavirus epidemic and job loss which
-ultimately leads to a lower quality of life. Likewise, due
-to the lack of reliable information in their language, they
-may not understand the seriousness of the epidemic
-and how to protect themselves against it. Therefore, it is
-recommended that migrant workers have greater access
-to health services during epidemics, and public health
-campaigns should be available for various languages​​
-as soon as possible through various communication
-Although COVID-19 has been reported to cause severe
-disease in patients without underlying risk factors, the
-risk of developing fatal disease with this new virus is
-higher in the old adults, patients with underlying diseases
-such as cardiovascular diseases, diabetes, respiratory
-disease and cancer, or people that have occupational
-exposure to hazardous chemicals such as vapors and
-gases (13). Therefore individuals with risk factors for a
-severe disease should also be kept in mind even if they
-are not involved in any of the mentioned risk groups.
-Preparing the workplaces to respond to COVID-19
-Employers should implement infection control
-strategies based on an accurate and technical risk
-assessment using the views of health professionals in
-the workplace to prevent illness in the organization’s
-staff. Of course, the risks associated with COVID-19 are
-not the same for everyone and everywhere. For example,
-employees at occupational health centers or workers
-exposed to hazardous chemical agents are at greater
-risk. Having a direct contact with infected or suspected
-COVID-19 patients increases the risk of infection and
-particular attention should be paid to high-risk cases in
-this regard (14). However, given the technical, political
-and economic conditions and considerations, the risk
-of infection should be assessed and appropriate control
-measures should be undertaken. Many of these control
-solutions are inexpensive and can be implemented in
-the workplace without the use of special equipment
-or tools. The most important measures to control the
-spread of corona virus disease based on the principles of
-occupational health in the workplace are summarized in
-Continuing to work despite having symptomatic disease,
-which is called “Presenteeism”, is a major issue during an
-epidemic (15). Therefore employees must be encouraged
-to stay at home during sickness and not come to work
-until they are completely healthy and non-contagious.
-Extending the sick leave with salary is a way to motivate
-sick workers. Moreover, providing a high quality health
-insurance is helpful, especially in these difficult times.
-Implementing engineering controls is also of utmost
-importance. Separating the symptomatic people from
-others and their isolation help to halt the spread of the
-disease. Moreover, in places (e.g. banks, pharmacies)
-that have many costumers or clients, separation of the
-staff from costumers using plastic and glass barriers and
-providing optimal ventilation is critical.
-Administrative controls also have an undeniable
-utility in prevention and control of infectious diseases.
-Employers must provide accurate and practical
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-NEW CORONAVIRUS PREVENTION IN WORKPLACES
-information regarding personal hygiene and ways to
-prevent infection using flyers, poster, pamphlets and
-orientation meetings. Following advices from healthcare
-professionals and occupational medicine experts is
-helpful in this regard. Moreover, employers must limit the
-number of personnel in the workplace by implementing
-teleworking strategies and reducing the work hours
-or even temporary shutting down the occupation.
-Continuous cleaning and disinfection of the surfaces and
-equipment is also necessary, however using disposable
-tools and instruments is more beneficial if possible.
-Notably, avoiding to hold ceremonies, conferences and
-in-person meeting is also important. A multinational
-company held an international business meeting for 109
-employees in Singapore from January 20 to 22, 2020. At
-this event, Healthy Company staff interacted with other
-affected participants, leading to the transmission of the
-virus to three Singapore-based employees. In addition
-to those infected from Singapore, an employee from
-Malaysia, two participants from South Korea and an
-employee from England were also infected. They were
-reported as cases after leaving Singapore (16).
-The use of personal protective equipment (PPE) is
-always the last way to control the harmful factors in
-the workplace, but for the new coronavirus due to the
-rapid spread of the disease and the high contagiousness,
-it is recommended to use integrated control methods
-i.e. a combination of substitution, engineering and
-administrative controls plus personal protective
-equipment in the workplace (17). In this regard, it is
-essential to use expert opinions such as environmental
-and occupational health practitioners.
-The spread of coronavirus has reduced the
-manufacturing activities globally. According to available
-statistics, if the outbreak continues, due to its direct and
-indirect effects on business environments, economic
-indicators are likely to decline in the near future.
-Therefore, given the involvement of almost all countries
-of the world in this disease and its progressive trend,
-the World Health Organization (WHO) and International
-Labor Organization (ILO) have recommended that all
-countries should be prepared to prevent and control
-the disease. Due to the different socioeconomic status
-and patterns of life in different countries, the prevalence
-of the disease varies from country to country, and it is
-necessary for each country to take appropriate measures
-The results of a study in Japan in 2020 showed that
-the most important factor in encouraging health
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-care personnel to work in critical situations such as
-epidemics is having confidence in the support of the
-state, government and hospital management, and trust
-between staff and organizations (19). Another study
-in this regard in Thailand suggested that a sense of
-trust enhances social interactions and cooperation
-among health personnel and also improves motivation,
-performance and quality of care (18). One way to
-increase trust between the organization and healthcare
-staff is to provide staff with frequent information. In
-addition, the frequent contact of government officials
-and employers with staff and encouraging them creates
-a sense of security. Paying compensation if HCWs get
-infected can also be an incentive to improve employees’
-work quality. Adequate protective equipment and
-psychological support should also be available to staff
-in an epidemic (20).
-In the absence of an appropriate cure for this virus,
-the best strategy is to prevent the spread of infection
-and control the sources of infection. The main strategies
-based on WHO recommendations are timely diagnosis
-and reporting of the disease, continuous examination
-of the epidemiological pattern of the disease, isolation
-of patients, supportive treatments and communitybased control measures. All components of the society,
-NEW CORONAVIRUS PREVENTION IN WORKPLACES
-including employers, managers and employees, must be
-epidemic has not yet reached that country or region.
-This has a significant impact on reducing lost work days,
-staff absences and slowing the rate of virus spread if an
-epidemic reaches the region (21).
-Given the increasing prevalence of new corona virus
-disease in the world over the past few weeks, it is
-imperative that all managers, employers, and business
-owners receive the necessary information and training
-on prevention and control strategies based on scientific
-guidelines and standards. This can be effective in
-reducing the number of people infected and preventing
-the spread of the virus throughout society.
-Conflict of Interest: Not declared
-Ehsan Rafeemanesh MD1
-Fatemeh Ahmadi MD1
-Maryam Memarzadeh MD1
-1 Occupational Medicine Department, Faculty of
-Mashhad, Iran
-1. Liu W, Zhang Q, Chen J, Xiang R, Song H, Shu S, et al.
-Detection of Covid-19 in children in early January 2020
-in Wuhan, China. N Engl J Med. 2020; 382(14):1370-1.
-2. Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, et al.
-Clinical characteristics of coronavirus disease 2019 in
-China. N Engl J Med. 2020; In Press.
-3. Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al.
-A familial cluster of pneumonia associated with the
-2019 novel coronavirus indicating person-to-person
-transmission: a study of a family cluster. Lancet. 2020;
-4. Bai Y, Yao L, Wei T, Tian F, Jin DY, Chen L, et al. Presumed
-asymptomatic carrier transmission of COVID-19.
-JAMA. 2020; In Press.
-5. Sun P, Lu X, Xu C, Sun W, Pan B. Understanding of
-COVID‐19 based on current evidence. J Med Virol.
-2020; In Press.
-6. Habibzadeh P, Stoneman EK. The novel coronavirus:
-a bird’s eye view. Int J Occup Environ Med. 2020;
-7. Guidance on preparing workplaces for COVID-19.
-Occupational Safety and Health Administration
-8. CDC Industry Guidance. Interim guidance for
-businesses and employers to plan and respond to
-coronavirus disease 2019 (COVID-19). Available
-9. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical
-characteristics of 138 hospitalized patients with 2019
-novel coronavirus–infected pneumonia in Wuhan,
-China. JAMA. 2020; In Press.
-10. Peng X, Xu X, Li Y, Cheng L, Zhou X, Ren B. Transmission
-routes of 2019-nCoV and controls in dental practice.
-Int J Oral Sci. 2020; 12(1):9.
-11. Mizumoto K, Chowell G. Transmission potential of the
-novel coronavirus (COVID-19) onboard the diamond
-princess cruises ship, 2020. Infect Dis Model. 2020;
-12. Liem A, Wang C, Wariyanti Y, Latkin CA, Hall BJ. The
-neglected health of international migrant workers
-in the COVID-19 epidemic. Lancet Psychiatry. 2020;
-13. Sun P, Lu X, Xu C, Sun W, Pan B. Understanding of
-COVID‐19 based on current evidence. J Med Virol.
-2020; In Press.
-14. Paull B. COVID-19–what employers need to know.
-15. Baker MG, Peckham TK, Seixas NS. Estimating the
-burden of United States workers exposed to infection
-or disease: a key factor in containing risk of COVID-19
-infection. Med Rxiv. 2020; In Press.
-16. Sun H, Dickens BL, Chen M, Cook AR, Clapham
-THE ARCHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR
-VOLUME 8. SUPPLEMENT 1. APRIL 2020
-HE. Estimating number of global importations of
-COVID-19 from Wuhan, risk of transmission outside
-mainland China and COVID-19 introduction index
-between countries outside Mainland China. Med Rxiv.
-2020; In Press.
-17. Public Health Ontario. Updated IPAC recommendations
-for use of personal protective equipment for care of
-individuals with suspect or confirmed COVID-19.
-18. Joob B, Wiwanitkit V. COVID-19 in medical personnel:
-observation from Thailand. J Hosp Infect. 2020; In
-NEW CORONAVIRUS PREVENTION IN WORKPLACES
-19. Shigemura J, Ursano RJ, Morganstein JC, Kurosawa
-M, Benedek DM. Public responses to the Novel 2019
-coronavirus (2019‐nCoV) in Japan: mental health
-consequences and target populations. Psychiatry Clin
-20. Imai H. Trust is a key factor in the willingness of health
-professionals to work during the COVID‐19 outbreak:
-experience from the H1N1 pandemic in Japan 2009.
-Psychiatry Clin Neurosci. 2020; In Press.
-21. Fadel M, Salomon J, Descatha A. Coronavirus outbreak:
-the role of companies in preparedness and responses.
-Lancet Public Health. 2020; 5(4):e193.
+COPYRIGHT 2020  BY THE ARCHIVES OF BONE AND JOINT SURGERY CURRENT
+CONCEPTS REVIEW Prevention and Control of the New Coronavirus  in
+Ehsan  Rafeemanesh,  MD1; Fatemeh Ahmadi, MD1; Maryam Memarzadeh,
+MD1 Workplaces are susceptible places for  exposure  to  the  new
+coronavirus (Covid‐19) infection due to gathering of many people.
+Hence, different instructions have been promoted by international
+organizations  regarding high‐risk employees the required strate‐
+gies to prevent and control COVID‐19 in the workplace. In conclu‐
+sion,  considering  the  fast spreading and growing prevalence of
+the new corona virus disease in the world over, all managers, em‐
+ployers,  and business owners should receive the necessary infor‐
+mation and training on prevention and control strategies based on
+scientific guidelines and standards.  Level of evidence: III Key‐
+words: Coronavirus, COVID‐19, Prevention and control, Workplace n
+December  2019,  a  new  type of severe pneumonia was reported in
+Wuhan, China, which had a high genetic affinity with SARS‐CoV and
+now  called  Corona  virus 2019 disease (COVID‐19) (1). Now it is
+clear that person to person transmission via respiratory droplets
+is  the main transmission rout of this virus. Recent reports sug‐
+gested that infected individuals may be contagious even when they
+are  asymptomatic  (2‐3).  However,  according to available data,
+people with symptoms are more likely to spread the  virus.  More‐
+over,  it  has  been  suggested  that  COVID‐19 patients may also
+spread the virus in the convalescent period. Notably, whether pa‐
+tient that have healed from this virus will become infected again
+upon exposure is still unknown (4). However, the World Health Or‐
+ganization (WHO) is constantly monitoring the epidemiology of the
+outbreak to increase its knowledge of the virus  transmission  of
+Medical  Sciences,  Mashhad, Iran cycle and methods of protection
+and prevention of the disease. Accurate medical information  from
+infected individuals is needed to determine the infectious course
+of this new disease (5).  Workplaces are susceptible  places  for
+exposure  to  the  new  coronavirus infection due to gathering of
+many people. Hence, different guidelines have  been  promoted  by
+international organizations regarding high‐risk employees and the
+necessity of implementing health policies to prevent exposure and
+infection  control  in  the  Given  the  increasing prevalence of
+COVID‐19, difficulties in prompt case detection and  the  unknown
+mechanism of transmission, several workers are at the risk of ex‐
+posure to this disease. Considering the importance of  prevention
+and infection control in the workplace, here we aimed COVID‐19 in
+the workplace.  Arch  Bone  Jt  Surg.  2020;  8  (Supplement  1):
+242‐246.  Doi: 10.22038/abjs.2020.47410.2323 THE ARCHIVES OF BONE
+AND JOINT SURGERY. ABJS.MUMS.AC.IR VOLUME 8. SUPPLEMENT 1.  APRIL
+2020  Occupations  at the risk of exposure to COVID‐19 Because of
+the wide and rapid spread of this new disease, all  jobs  have  a
+risk  of encountering COVID‐19, especially those that involve di‐
+rect contact with customers and clients. However, some employees,
+such  as  health  care  workers,  people working at laboratories,
+tourism and transport industry, hotel and restaurant  staff,  and
+waste workers are at a higher risk due to direct exposure to peo‐
+ple and or workplace contamination. Preventive and  control  mea‐
+sures to protect workers against coronavirus and its exposure de‐
+pend on the type of work performed and the risk of exposure,  in‐
+cluding the potential to come in contact with infected people and
+workplace pollution (7). According to  the  Centers  for  Disease
+Control  (CDC)  guidelines,  occupations that are more exposed to
+the new coronavirus include (8): 1. Health care workers (HCWs) 2.
+Staff  of  the cemeteries and the funeral houses 3. Officials and
+staff of airports, airlines, railways,  subways  and  all  public
+transport  (buses,  taxis, etc.)  4. Border guards 5. Solid waste
+and wastewater workers 6. Employees who travel  regularly,  espe‐
+cially  to  contaminated  areas  With the increasing incidence of
+illness and the need for patient  health  care,  HCWs  have  been
+identified  as  a  high risk group for this infection. Of the 138
+patients treated at Wuhan Hospital, 40 patients (29%) were  HCWs.
+Among  these, 31 (77.5%) worked in the general ward, 7 (17.5%) in
+the emergency department, and 2 (5%) worked in the intensive care
+unit  (ICU).  It was apparently a super‐spreader patient admitted
+to the surgical ward with symptoms of abdominal pain who was able
+to  infect  more  than 10 hospital staff with COVID‐19 (9).  Den‐
+tists and makeup artists are also at high risk of developing this
+disease  due to face‐to‐face communication with clients and expo‐
+sure to saliva, blood and exhaled breath, as  well  as  excessive
+use  of  sharp and sharp tools. Therefore, it is important to im‐
+plement control measures in these jobs to control  infection  and
+prevent  transmission  (10).   Flight  and ship crews are also at
+risk of contact with infected passengers. At least 10 cases  were
+reported  among  1,035  crew  of Diamond Princess Ship, which was
+quarantined with about 3,600 passengers from February 3rd to Feb‐
+ruary  19th,  2020  in Yokohama, Japan. A traveler from Hong Kong
+boarded the ship for a 14‐day voyage to Yokohama on January 20th.
+This  passenger  traveled  from  Yokohama to Hong Kong and landed
+there on January 25th. The ship continued its  journey  until  it
+received news on February 1st that the passenger had tested posi‐
+tive. The ship returned to Yokohama a day earlier and was quaran‐
+tined, and guests were isolated in their cabins (11).  In another
+study conducted in February 2020, migrant workers were considered
+another  group at risk of infection with the new coronavirus. The
+study said that these people  face  more  barriers  in  accessing
+health  services in the host country (such as access to insurance
+services). In addition, mental disorders are more common in these
+people  and is exacerbated by quarantine due NEW CORONAVIRUS PRE‐
+VENTION IN WORKPLACES to the new  coronavirus  epidemic  and  job
+loss which ultimately leads to a lower quality of life. Likewise,
+due to the lack of reliable information in their  language,  they
+may  not  understand  the  seriousness of the epidemic and how to
+protect themselves against it. Therefore, it is recommended  that
+migrant  workers  have  greater  access to health services during
+epidemics, and public health campaigns should  be  available  for
+various  languages as soon as possible through various communica‐
+tion Although COVID‐19 has been reported to cause severe  disease
+in patients without underlying risk factors, the risk of develop‐
+ing fatal disease with this  new  virus  is  higher  in  the  old
+adults,  patients with underlying diseases such as cardiovascular
+diseases, diabetes, respiratory disease  and  cancer,  or  people
+that  have  occupational  exposure to hazardous chemicals such as
+vapors and gases (13). Therefore individuals  with  risk  factors
+for a severe disease should also be kept in mind even if they are
+not involved in any of the mentioned risk groups.  Preparing  the
+workplaces  to respond to COVID‐19 Employers should implement in‐
+fection control strategies based on  an  accurate  and  technical
+risk  assessment  using  the views of health professionals in the
+workplace to prevent  illness  in  the  organizations  staff.  Of
+course,  the  risks associated with COVID‐19 are not the same for
+everyone and everywhere. For example, employees  at  occupational
+health  centers  or  workers exposed to hazardous chemical agents
+are at greater risk. Having a direct  contact  with  infected  or
+suspected  COVID‐19  patients increases the risk of infection and
+particular attention should be paid to high‐risk  cases  in  this
+regard (14). However, given the technical, political and economic
+conditions and considerations, the risk of  infection  should  be
+assessed  and  appropriate control measures should be undertaken.
+Many of these control solutions are inexpensive and can be imple‐
+mented  in  the workplace without the use of special equipment or
+tools. The most important measures to control the spread of coro‐
+na  virus  disease based on the principles of occupational health
+in the workplace are summarized in  Continuing  to  work  despite
+having  symptomatic  disease,  which is called Presenteeism, is a
+major issue during an epidemic (15). Therefore employees must  be
+encouraged  to  stay at home during sickness and not come to work
+until they are completely healthy and non‐contagious.   Extending
+the  sick  leave  with  salary is a way to motivate sick workers.
+Moreover, providing a high quality health insurance  is  helpful,
+especially  in  these  difficult times.  Implementing engineering
+controls is also of utmost importance. Separating the symptomatic
+people from others and their isolation help to halt the spread of
+the disease. Moreover, in places (e.g.  banks,  pharmacies)  that
+have many costumers or clients, separation of the staff from cos‐
+tumers using plastic and glass  barriers  and  providing  optimal
+ventilation  is  critical.   Administrative controls also have an
+undeniable utility in prevention and control of  infectious  dis‐
+eases.   Employers  must  provide  accurate and practical THE AR‐
+CHIVES OF BONE AND JOINT SURGERY. ABJS.MUMS.AC.IR VOLUME 8.  SUP‐
+PLEMENT  1.  APRIL  2020 NEW CORONAVIRUS PREVENTION IN WORKPLACES
+information regarding personal hygiene and ways to prevent infec‐
+tion  using  flyers,  poster, pamphlets and orientation meetings.
+Following advices from healthcare professionals and  occupational
+medicine  experts  is helpful in this regard. Moreover, employers
+must limit the number of personnel in the workplace by implement‐
+ing  teleworking  strategies  and reducing the work hours or even
+temporary shutting down the occupation.  Continuous cleaning  and
+disinfection  of  the  surfaces  and equipment is also necessary,
+however using disposable tools and instruments is more beneficial
+if  possible.   Notably, avoiding to hold ceremonies, conferences
+and in‐person meeting is also important. A multinational  company
+held  an international business meeting for 109 employees in Sin‐
+gapore from January 20 to 22, 2020. At this event, Healthy Compa‐
+ny  staff interacted with other affected participants, leading to
+the transmission of the virus to three Singapore‐based employees.
+In  addition  to  those infected from Singapore, an employee from
+Malaysia, two participants from South Korea and an employee  from
+England  were  also  infected.  They were reported as cases after
+leaving Singapore (16).  The use of personal protective equipment
+(PPE)  is  always  the last way to control the harmful factors in
+the workplace, but for the  new  coronavirus  due  to  the  rapid
+spread  of  the disease and the high contagiousness, it is recom‐
+mended to use integrated control methods i.e.  a  combination  of
+substitution,  engineering  and administrative controls plus per‐
+sonal protective equipment in the workplace (17). In this regard,
+it  is essential to use expert opinions such as environmental and
+occupational health practitioners.  The spread of coronavirus has
+reduced  the  manufacturing  activities  globally.  According  to
+available statistics, if the outbreak continues, due to  its  di‐
+rect  and indirect effects on business environments, economic in‐
+dicators are likely to decline in the  near  future.   Therefore,
+given  the  involvement  of  almost all countries of the world in
+this disease and its progressive trend, the World Health  Organi‐
+zation (WHO) and International Labor Organization (ILO) have rec‐
+ommended that all countries should be  prepared  to  prevent  and
+control  the  disease.  Due to the different socioeconomic status
+and patterns of life in different countries,  the  prevalence  of
+the  disease  varies from country to country, and it is necessary
+for each country to take appropriate measures The  results  of  a
+study  in  Japan in 2020 showed that the most important factor in
+encouraging health THE ARCHIVES OF BONE AND  JOINT  SURGERY.  AB‐
+JS.MUMS.AC.IR  VOLUME  8. SUPPLEMENT 1. APRIL 2020 care personnel
+to work in critical situations such as epidemics is having confi‐
+dence  in  the support of the state, government and hospital man‐
+agement, and trust between staff and organizations (19).  Another
+study  in this regard in Thailand suggested that a sense of trust
+enhances social interactions and cooperation among health person‐
+nel and also improves motivation, performance and quality of care
+(18). One way to increase  trust  between  the  organization  and
+healthcare  staff  is to provide staff with frequent information.
+In addition, the frequent contact of government officials and em‐
+ployers  with staff and encouraging them creates a sense of secu‐
+rity. Paying compensation if HCWs get infected can also be an in‐
+centive  to  improve  employees work quality. Adequate protective
+equipment and psychological support should also be  available  to
+staff in an epidemic (20).  In the absence of an appropriate cure
+for this virus, the best strategy is to prevent the spread of in‐
+fection and control the sources of infection. The main strategies
+based on WHO recommendations are timely diagnosis  and  reporting
+of  the  disease,  continuous  examination of the epidemiological
+pattern of the disease, isolation of patients, supportive  treat‐
+ments  and communitybased control measures. All components of the
+society, NEW CORONAVIRUS PREVENTION IN WORKPLACES  including  em‐
+ployers,  managers  and  employees,  must be epidemic has not yet
+reached that country or region.  This has a significant impact on
+reducing  lost  work days, staff absences and slowing the rate of
+virus spread if an epidemic reaches the region (21).   Given  the
+increasing  prevalence  of  new corona virus disease in the world
+over the past few weeks, it is imperative that all managers,  em‐
+ployers,  and  business  owners receive the necessary information
+and training on prevention and control strategies based on scien‐
+tific guidelines and standards. This can be effective in reducing
+the number of people infected and preventing the  spread  of  the
+virus  throughout  society.   Conflict  of Interest: Not declared
+Ehsan Rafeemanesh MD1 Fatemeh Ahmadi MD1 Maryam Memarzadeh MD1  1
+Occupational Medicine Department, Faculty of Mashhad, Iran 1. Liu
+W, Zhang Q, Chen J, Xiang R, Song H, Shu S, et al.  Detection  of
+Covid‐19 in children in early January 2020 in Wuhan, China. N En‐
+gl J Med. 2020; 382(14):1370‐1.  2. Guan WJ, Ni ZY, Hu  Y,  Liang
+WH, Ou CQ, He JX, et al.  Clinical characteristics of coronavirus
+disease 2019 in China. N Engl J Med. 2020; In Press.  3. Chan JF,
+Yuan  S, Kok KH, To KK, Chu H, Yang J, et al.  A familial cluster
+of pneumonia associated with the 2019 novel coronavirus  indicat‐
+ing  person‐to‐person  transmission: a study of a family cluster.
+Lancet. 2020; 4. Bai Y, Yao L, Wei T, Tian F, Jin DY, Chen L,  et
+al.  Presumed asymptomatic carrier transmission of COVID‐19.  JA‐
+MA. 2020; In Press.  5. Sun P, Lu X, Xu C, Sun W, Pan  B.  Under‐
+standing  of  COVID19  based  on  current  evidence. J Med Virol.
+2020; In Press.  6. Habibzadeh P, Stoneman EK. The  novel  coron‐
+avirus: a birds eye view. Int J Occup Environ Med. 2020; 7. Guid‐
+ance on preparing workplaces for COVID‐19.   Occupational  Safety
+and Health Administration 8. CDC Industry Guidance. Interim guid‐
+ance for businesses and employers to plan and respond  to  coron‐
+avirus  disease 2019 (COVID‐19). Available 9. Wang D, Hu B, Hu C,
+Zhu F, Liu X, Zhang J, et al.  Clinical  characteristics  of  138
+hospitalized patients with 2019 novel coronavirusinfected pneumo‐
+nia in Wuhan, China. JAMA. 2020; In Press.  10. Peng X, Xu X,  Li
+Y,  Cheng  L, Zhou X, Ren B. Transmission routes of 2019‐nCoV and
+controls in dental practice.  Int J Oral Sci. 2020; 12(1):9.  11.
+Mizumoto K, Chowell G. Transmission potential of the novel coron‐
+avirus (COVID‐19) onboard  the  diamond  princess  cruises  ship,
+2020.  Infect  Dis  Model. 2020; 12. Liem A, Wang C, Wariyanti Y,
+Latkin CA, Hall BJ. The neglected health of international migrant
+workers  in  the  COVID‐19 epidemic. Lancet Psychiatry. 2020; 13.
+Sun P, Lu X, Xu C, Sun W, Pan B. Understanding of  COVID19  based
+on  current evidence. J Med Virol.  2020; In Press.  14. Paull B.
+COVID‐19what employers need to know.  15. Baker MG,  Peckham  TK,
+Seixas NS. Estimating the burden of United States workers exposed
+to infection or disease: a  key  factor  in  containing  risk  of
+COVID‐19 infection. Med Rxiv. 2020; In Press.  16. Sun H, Dickens
+BL, Chen M, Cook AR, Clapham  THE  ARCHIVES  OF  BONE  AND  JOINT
+SURGERY.  ABJS.MUMS.AC.IR  VOLUME 8. SUPPLEMENT 1. APRIL 2020 HE.
+Estimating number of global importations of COVID‐19 from  Wuhan,
+risk  of  transmission outside mainland China and COVID‐19 intro‐
+duction index between countries outside Mainland China. Med Rxiv.
+2020;  In  Press.  17. Public Health Ontario. Updated IPAC recom‐
+mendations for use of personal protective equipment for  care  of
+individuals  with suspect or confirmed COVID‐19.  18. Joob B, Wi‐
+wanitkit V. COVID‐19 in medical personnel: observation from Thai‐
+land. J Hosp Infect. 2020; In NEW CORONAVIRUS PREVENTION IN WORK‐
+PLACES 19. Shigemura J, Ursano RJ, Morganstein  JC,  Kurosawa  M,
+Benedek  DM.  Public  responses  to  the  Novel  2019 coronavirus
+(2019nCoV) in Japan: mental health consequences and target  popu‐
+lations. Psychiatry Clin 20. Imai H. Trust is a key factor in the
+willingness of health professionals to work  during  the  COVID19
+outbreak:  experience from the H1N1 pandemic in Japan 2009.  Psy‐
+chiatry Clin Neurosci. 2020; In Press.  21. Fadel M,  Salomon  J,
+Descatha  A.  Coronavirus outbreak: the role of companies in pre‐
+paredness and responses.  Lancet Public Health. 2020; 5(4):e193.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

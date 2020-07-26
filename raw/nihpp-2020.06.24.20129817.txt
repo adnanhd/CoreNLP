@@ -1,0 +1,458 @@
+Influenza Vaccination and COVID19 Mortality in the
+Claudio Zanettini1,* , Mohamed Omar2,* , Wikum Dinalankara1 , Eddie Luidy Imada1 ,
+Elizabeth Colantuoni3 , Giovanni Parmigiani4,5 , and Luigi Marchionni1,+
+of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA
+COVID-19 mortality rate is higher in the elderly and in those with preexisting chronic medical conditions. The
+elderly also suffer from increased morbidity and mortality from seasonal influenza infection, and thus annual
+influenza vaccination is recommended for them.
+In this study, we explore a possible area-level association between influenza vaccination coverage in people aged
+65 years and older and the number of deaths from COVID-19. To this end, we used COVID-19 data until June 10,
+2020 together with population health data for the United States at the county level. We fit quasi-Poisson regression
+models using influenza vaccination coverage in the elderly population as the independent variable and the number
+of deaths from COVID-19 as the outcome variable. We adjusted for a wide array of potential confounding variables
+using both county-level generalized propensity scores for influenza vaccination rates, as well as direct adjustment.
+Our results suggest that influenza vaccination coverage in the elderly population is negatively associated with
+mortality from COVID-19. This finding is robust to using different analysis periods, different thresholds for inclusion
+of counties, and a variety of methodologies for confounding adjustment.
+In conclusion, our results suggest a potential protective effect of the influenza vaccine on COVID-19 mortality
+in the elderly population. The significant public health implications of this possibility point to an urgent need
+for studying the relationship between influenza vaccination and COVID-19 mortality at the individual level, to
+investigate both the epidemiology and any underlying biological mechanism.
+COVID-19, a disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global
+health threat owing to its high rate of spread and mortality. By June 10, 2020, the total number of cases worldwide had reached
+more than 7 million with approximately 411,195 confirmed deaths1 . The disease started in Wuhan, China in December 2019 as
+a zoonotic infection, but strong evidence suggests that efficient human-to-human transmission started as early as mid-December
+20192 . Such person-to-person transmission occurs mainly through respiratory droplets with several studies reporting the
+possibility of spread from asymptomatic patients3, 4 .
+Most symptomatic infections are mild with nearly 14% of infected individuals developing severe disease with dyspnea and
+hypoxia. Critical illness has been seen in only 5% of cases in the form of septic shock and respiratory and multi-organ failure5 .
+In symptomatic patients, the most frequent presentation is pneumonia, manifested by fever, fatigue, dry cough, dyspnea, and
+pulmonary infiltration6, 7 . Other symptoms have also been reported including, but not limited to sore throat, nausea, diarrhea,
+myalgia, confusion, anosmia, and other taste abnormalities8, 9 . The risk of developing severe complications and mortality rates
+is higher in the elderly, in males, and in patients with co-morbidities, especially hypertension, diabetes, and chronic respiratory
+conditions including asthma and chronic obstructive pulmonary disease (COPD)10, 11 . Acute respiratory distress syndrome
+(ARDS) is the most common complication in people with severe illness with the incidence being higher in the older population.
+Seasonal respiratory viral co-infections, most commonly influenza A and B, have been reported in COVID-19 patients12, 13 .
+Seasonal influenza causes distinct outbreaks every year with the attack rate varying from 10% to 20%. Similar to COVID-19,
+the morbidity and mortality are also higher in the older population and in patients with chronic comorbidities14 . Thus, routine
+annual vaccination is recommended in these groups. While in the elderly the vaccine is of clear benefit, the benefit is even higher
+in those with high-risk illnesses. The absolute risk reduction from the vaccine was 2 to 4 folds higher in the elderly population
+with chronic underlying conditions compared to the healthy population of the same age group, even when there was a poor
+match between the vaccine and circulating strains15 , and when the vaccine effectiveness rate was as low as 10%16 . Another
+study found that the vaccine was effective at reducing the rate of hospitalization from pneumonia and also the rate of death
+in elderly people with chronic lung diseases17 . Interestingly, Taksler et al.18 found an inverse relationship between influenza
+vaccine coverage in adults aged between 18 and 64 years and influenza-related illness in the older population (>= 65years)
+which can be explained by reduced transmission in the community.
+Since there is no effective treatment or vaccine available for COVID-19 to this date, other measures have to be taken to reduce
+the morbidity and mortality of this disease. Public health measures like isolation, quarantine, and social distancing are being
+used worldwide to contain outbreaks and reduce the spread of the disease19 . These measures are key not only to mitigate the
+virus transmission but also to better manage healthcare resources20 .
+A plausible conjecture is that reducing the rate of chronic and acute respiratory comorbidities in high-risk populations, could in
+turn lead to a reduction in the complications and deaths associated with COVID-19. Based on this, it could be hypothesized
+that routine influenza vaccination may be associated with lower morbidity and mortality from COVID-19 because immunized
+individuals will have a lower rate of respiratory complications from influenza, and thus will have a better baseline health
+have been recently reported among army personnel who received influenza vaccination21 . Therefore, it is possible that influenza
+vaccination may increase the susceptibility to SARS-CoV2 infection, and thus be associated with increased COVID-19
+morbidity, and mortality, through immune-mediated mechanisms like antibody-dependent enhancement (ADE)22 .
+Motivated by these observations, we investigate whether influenza vaccination coverage is associated with COVID-19 mortality,
+and, if so, in which direction. To this end, we analyze COVID-19 mortality rate and influenza vaccination coverage in the
+United States (US) at the county level. While an area-level association can only provide preliminary evidence, this issue
+requires urgent attention, and the data we collected is the most effective in shedding light on it at this time. In our analysis,
+we take great care to adjust for important social, economic, and health determinants, to mitigate the intrinsic limitation of
+observational studies based on aggregated data.
+Materials and Methods
+Social, economic, demographic, and COVID-19 variables
+To evaluate the impact of influenza vaccination on COVID-19 mortality, we collected and analyzed data on vaccination coverage,
+COVID-19 mortality, and other important social, economic, and health variables from the United States of America (US). The
+cumulative number of COVID-19 cases and deaths were considered until June 10, 2020.
+which aggregates and combines data reported by national and state sources. Up to date statistics on COVID-19 testing for
+that aggregates metrics from different sources regarding the COVID-19 epidemic in the United States. All these statistics
+include cases in which the presence of SARS-CoV-2 was laboratory-confirmed, and others in which it was presumed and
+considered the probable cause of death23 . For Rhode Island, the JHU repository reported deaths only at the state level.
+older, medical conditions, and tobacco use (year 2017) were obtained from the Center of Medicare Disparity Office of
+composition, gender, race, age, and poverty levels (year 2018) in each US county were retrieved from the Census Bureau
+Data and software availability. All data used in this study, along with detailed information about data sources, are available
+com/c1au6i0/covid19_influenza. All data pre-processing and statistical analyses in this study were performed using
+the R programming language25 , and libraries from the tidyverse suite26, 27 .
+Inclusion criteria. Information was available for a total of 3243 counties across the 50 states and the Washington D.C. district,
+between January 22, 2020 and June 10, 2020. For a total of 1219 COVID-19 deaths, the county of the deceased was unknown.
+Those deaths were omitted from the analysis since also information regarding the variable of interest and the confounders
+were not available. As of the last day of observation, a total of 206 counties did not report any confirmed cases. To limit the
+impact of limited SARS-CoV-2 community circulation and exposure on COVID-19 mortality, only counties with at least 10
+include the duration of the outbreak (in the form of the number of days elapsed since the first reported COVID-19 case) among
+the confounding variables. For all other variables, we used the latest available year information, as summarized below.
+Potential Confounders Overall, the initial set of variables related to population demographics, clinical and territory character-
+istics was large (≈300). In our analyses, therefore, we selected representative variables from each important category, and
+avoided highly correlated pairs. Specifically, the following variables were included in our models:
+1. Household-related variables: a) % of family households, b) % of families with a single parent, and c) % of households
+with access to internet. Note that a family is defined by the US Census as consisting of “a householder and one or more
+other people living in the same household who are related to the householder by birth, marriage, or adoption“.
+2. Socioeconomic- and healthcare-related variables: a) median income, b) hospital beds per person, c) number of COVID-19
+tests (at the state level), d) number of days since the first case in that county.
+3. Education-related variables: (a) % of people with a bachelor degree.
+4. Race-related variables (% of people in the population of the following races): a) Asian, b) Black or African-American,
+c) Latino or Hispanic, d) Native American, e) Caucasian or White, f) other races, g) belonging to two or more races.
+5. Demographic variables: a) % of people 65-year of age or older, b) median age, c) sex ratio (males per 100 females), and
+d) child dependency ratio (ratio between population under 18 years and population 18-to-64).
+6. Medical conditions or diseases (% of people 65-year of age or older with): a) dementia, b) asthma, c) atrial fibrillation,
+d) breast cancer, e) colorectal cancer, f) lung cancer, g) obstructive pulmonary disease, h) chronic kidney disease,
+i) depression, j) diabetes, k) heart failure, l) hypertension, m) ischemic heart disease, n) obesity, o) rheumatoid arthritis
+p) stroke and transient ischemic attack, and q) tobacco use.
+7. Environmental variables: a) fine particulate matter (µg/m2 , average of years 2000 to 2016), b) winter and summer
+temperature, and c) winter and summer humidity.
+Statistical Modeling
+Generalized linear model. We are interested in estimating the change in the COVID-19 mortality rate associated with a
+change in the county-level influenza vaccination coverage. To this end, we used a quasi-Poisson regression with the number of
+deaths from COVID-19 as the response variable, the influenza vaccination coverage in people 65-year of age and older as an
+independent variable, and the population size of each area as offset. We calculated the mortality rate ratio (MRR) using the
+the R package oddratios28 . The MRR represents the ratio of COVID-19 mortality corresponding to an increase of 10% in
+the influenza vaccination coverage. We chose population mortality, in contrast to mortality among the infected population, to
+remove the effect of inconsistent COVID-19 testing policies across areas. We controlled for potential confounding both via
+generalized propensity scores and direct adjustment, as described next.
+Confounding adjustment with generalized propensity score. We estimated a generalized propensity score (PS) model for
+county-level rates of vaccination over 65-year of age by regressing the logit of influenza vaccination coverage on selected
+confounding variables (see “Potential Confounders“ above). The propensity score is a balancing factor that allows to correct
+for the potentially unequal distribution of explanatory and confounding variables across levels of exposure29–31 . In our main
+analyses, we stratified the propensity score into quintiles, and then used these as a factor in the quasi-Poisson regression analysis.
+We performed this analysis with and without state-specific fixed effects. Additionally, we employed a Poisson mixed model in
+which the state was included as random factor to control for state differences. We also used the PS quintiles to perform a fully
+stratified analysis. Lastly, we repeated the analysis by including the propensity score as a linear term (see secondary analyses).
+Direct confounding adjustment. As an alternative, we also modeled the effect of immunization coverage on COVID-19
+mortality by directly adjusting for confounding variables via linear terms in the quasi-Poisson regression. To select a
+parsimonious number of potential confounders, we clustered candidate variables based on their correlation with each other
+households, b) rate of hospital beds, c) % of people with asthma, d) % of people with breast cancer, e) % of people with lung
+cancer, f) % of people with COPD, g) % of people with hypertension, h) median income, i) summer temperature, j) summer
+humidity, k) winter temperature, l) winter humidity, m) % of people >= 65 years old, n) sex ratio, and o) days passed since the
+first case.
+Secondary analyses: Dependency on counties with highest and lowest infection rates. Counties with extremely low or
+high numbers of confirmed cases (and deaths) might have undue leverage on statistical estimates. To explore sensitivity of
+our results, we repeated the analysis by requiring a larger minimum number of confirmed cases for inclusion in the model
+(ranging from 10 to 100 in increments of 10). Also, since New York State has the highest number of confirmed cases (and
+deaths) from COVID-19 in the US, we repeated the analysis after removing all 53 New York State counties. Finally, since we
+noticed that for 46 counties, no deaths were reported despite the large number of cases (i.e., exceeding 100), we hypothesized
+that different criteria could have been used to record COVID-19 related deaths in these counties. We therefore repeated our
+analysis including only the counties with at least one death.
+Secondary analyses: Stability over time. Our analyses are somewhat arbitrarily based on the time window ending on June
+10. As information on COVID-19 continues to accrue results may evolve. To assess stability across time of our estimated
+effects, we repeated the analyses with the data available at different points over approximately two months.
+Independent Verification: Exposure to air pollution. Levels of airborne fine particulate matter (PM2.5 ) have been reported
+to contribute to COVID-19 mortality24 , based on analyses sharing much of the same data structure and methodology with what
+done here. To provide an independent verification of our data collection and analysis pipeline, we repeated our analysis using
+chronic exposure to fine particulate matter (PM2.5 ) as an alternative exposure, and including influenza vaccination coverage
+among the possible confounding variables. We were able to reproduce the reported effect of PM2.5 exposure on COVID-19
+death rate.
+Social, economic, demographic population characteristics and COVID-19 outcomes in the US
+A total of 2034 counties were included in the analysis. The median influenza vaccination coverage in people ≥ 65-year of age
+is 45%. The COVID-19 mortality rate did not differ substantially between counties where vaccination coverage was above
+the median (20.5 ± 52 sd), compared to those where it was below (17.3 ± 31.7 sd). Counties with lower influenza-vaccination
+coverage tend to have a lower level of education and income, and to have a higher percentage of Black and Latino populations.
+In contrast, counties with higher vaccination coverage tend to be more affluent, and to have an higher percentage of white
+between counties with different vaccination coverage.
+Vaccination coverage
+Number of counties
+Death rate (per 100,000 people)
+Confirmed case rate (per 100,000 people)
+Number of days since the first case
+% family households
+% families with only one parent
+% with bachelor degree
+% with Internet
+% median income ($1,000)
+Rate of hospital beds (per 1000 people)
+% with Alzheimer’s disease
+% with asthma
+% with atrial fibrillation
+% with breast cancer
+% with colorectal cancer
+% with lung cancer
+% with obstructive pulmonary disease
+% with chronic kidney disease
+% with depression
+% with diabetes
+% with heart failure
+% with hypertension
+% with ischemic heart disease
+% with obesity
+% with rheumatoid arthritis
+% with stroke or transient ischemic attack
+% using tobacco
+Average PM2.5 (μg/m3 )
+Average summer temperature (K)
+Average summer humidity
+Average winter temperature (K)
+Average winter humidity
+Median age
+% of people ≥65 years of age
+Sex ratio (males per 100 females)
+Child dependency ratio
+% Island native
+% two or more races
+related metrics used in the analyses. Data are presented overall and stratified by counties with vaccination coverage below and above the
+Influenza vaccination and COVID19 mortality
+Primary analyses. Several variables had a significant effect on influenza vaccination coverage, including demographic factors
+like the race and education level, together with a number of chronic health conditions like diabetes and hypertension (see
+factor after stratification into quintiles. Such generalized linear model produced a significant negative coefficient for influenza
+after controlling for confounding variables that could affect both the proportion of vaccinated individuals and mortality in an
+rates. Specifically, for every 10% increase in influenza vaccination coverage, there is a 28% decrease in the rate of mortality
+being stronger in the counties where the vaccination coverage is higher. Indeed, when we analyzed the link between vaccination
+coverage and COVID-19 mortality within each US county group as defined by the propensity score quintiles, the effect was
+from COVID-19 associated with a 10% increase in vaccination coverage. Results shown are for the primary analysis performed on all
+counties with more than 10 cases, and for the secondary analyses where distinct thresholds for inclusion where used (respectively, more than
+50 and 100 confirmed cases).
+Vaccination effect
+Corrected by PS quintiles
+Corrected by continuous PS
+Corrected by PS quintiles and US state (fixed effects)
+Corrected by PS quintiles and US state (mixed effects)
+study. Effects are reported for all models fitted to capture the link between influenza vaccination coverage and COVID mortality in the US.
+Each line represents a distinct model type or adjustment.“Vaccination” refers to county-level influenza vaccination coverage in people >= 65
+years. “ PS“ refers to vaccination propensity score. All the models are quasi-Poisson with t-statistic, with exception of the mixed effects one
+which is a Poisson model with Z-score statistic.
+Secondary analyses. We further evaluated the robustness of this effect using alternative approaches. Including the propensity
+score as a linear term in the quasi-Poisson model yielded similar results (estimate = −5.65, t = −4.66, p < 0.01, d f = 2031,
+access and testing policies at the state level using a fixed effects model (estimate = −5.64, t = −9.16, p < 2e − 16, d f = 2027,
+directly as described in the methods section. The results showed that the effect of influenza vaccination remained significant
+The effect of vaccination coverage on COVID-19 mortality in the US was not significant after removing New York state from
+the analysis (estimate = −0.26, t = −0.406, p = 0.69, d f = 1975) but it was significant when adjusting for propensity score
+By repeating our analysis including only the counties with at least one death, the effect of vaccination remained significant
+indicating that it is not affected by the counties with zero mortality (estimate = −3.10,t = −2.51, p = 0.01, d f = 1556).
+Finally, increased air levels of particulate matter (PM2.5 ) was found to be associated with a higher number of deaths from
+COVID-19 (estimate = 0.09, t = 3.33, p < 0.01, d f = 2028), as previously reported24 . Overall, the results from all these
+analyses were consistent, further confirming that the link between influenza vaccination and reduced mortality from COVID-19
+is robust.
+The main motivation for our study was to gather preliminary evidence about a possible connection between influenza vaccination
+in the elderly population and the risk of mortality from COVID-19. On one hand, seasonal influenza infection is associated
+with the development of several respiratory complications, especially in the elderly14 . On the other hand, a recent report points
+to increased odds of non-SARS coronaviruses infections among army personnel who received influenza vaccination21 . This
+acquired by natural influenza infection, which would protect against infection by other viruses32, 33 .
+Public county-level data in the U.S.A. provide a platform to begin exploring this issue. We quantified the county-level
+association between influenza vaccine coverage in people older than 65 years and COVID-19-related deaths in these data.
+We focused on people aged 65 years and older since this age group is more susceptible to influenza complications and thus
+annual influenza vaccination is recommended for them. This age group also has a higher mortality rate and a greater risk for
+developing severe complications from COVID-19, compared to the younger population10 . In our analyses, we controlled for a
+wide array of potential confounding variables, including population density, social and economic variables, education, chronic
+medical conditions, and other important demographic and environmental factors.
+Our results suggest a reduction in COVID-19 mortality associated with higher influenza vaccination rates in the elderly
+population. Specifically, we found that overall, a 10% increase in vaccination coverage was associated on average with a
+statistically significant 28% decrease in the COVID-19 death rate. Our findings suggest that influenza vaccination can play a
+protective role in COVID-19, and that additional confirmatory studies at the individual level are urgently needed.
+This conclusion is robust to several variations of our analytical techniques. We varied the time frame considered, and our
+threshold for inclusion of counties with low exposure to SARS-CoV-2. We also investigated systematically several variations in
+the methodology used for adjusting for potential confounding factors.
+Among the analyses we considered is complete stratification by quintiles of the propensity score. This analysis provides five
+However, the effects within the strata differ, with groups of counties with higher generalized propensity scores manifesting
+higher effects. Our propensity score reflect a large number of potential confounders, many of which have an important effect.
+Thus, further analyses are needed to shed light on the potential sources of this heterogeneity. Generally speaking, however, our
+analysis considers COVID-19 mortality per inhabitant, and thus it is possible that higher county-level vaccination rates may by
+themselves provide control of mortality via herd immunity.
+Our area-level association is consistent with a protective effect, which can be explained by the vaccine’s effect of reducing
+the rate of hospitalization and severe pulmonary complications in the elderly. Evidence suggests that the vaccine benefit is
+greater in people with high-risk respiratory conditions like chronic obstructive pulmonary disease34 and asthma35 . Furthermore,
+influenza vaccination was found to have a protective effect against cardiovascular events36 , confirming previous findings that
+linked influenza infection to increased rate of hospitalization and death from myocardial infarction37, 38 .
+A complementary explanation for a putative protective effect is that unvaccinated individuals are at risk of persistent viral
+infections, leading to a decline in T-cell diversity which in turn impairs the immune response against other pathogens including
+SARS-CoV-239, 40 . Influenza vaccination, on the other hand, does not induce a strong, virus-specific CD8 T-cell immune
+response, as seen with natural infection41, 42 , and while this is considered a major disadvantage of inactivated influenza vaccines,
+it may be beneficial in clearing SARS-CoV-2 infection, as vaccinated individuals will have more T-cell diversity (and thus
+Importantly, the influenza virus has been shown to induce apoptosis and impair the cytotoxic effect of natural killer (NK)
+cells43–45 , ultimately impairing the host immune defense mechanisms against other pathogens, including potentially SARS7/17
+CoV-2, especially in the acute phase of the disease. Additionally, consistently unvaccinated individuals are more likely to have
+a higher proportion of influenza-specific resident memory T-cells (TRM ) in their lungs, which are highly proliferative and highly
+productive of inflammatory cytokines46, 47 . This, in turn, might be associated with the exaggerated inflammatory response and
+severe Acute Respiratory Distress Syndrome (ARDS) seen in some COVID-19 patients48 . Furthermore, the Influenza A virus
+has been recently shown to up-regulate ACE2 receptors in the lung alveolar cells49 , suggesting that a recent influenza infection
+can potentially lead to more severe pulmonary complications from COVID-19, in light of the fact that these same receptors are
+used by SARS-CoV-2 for cellular entry.
+We regard ours as an urgent, but preliminary, study and acknowledge several limitations. Important potentially confounding
+variables include the socioeconomic levels, quality of healthcare, and the lack of uniform death reporting approaches. While
+our covariates allow to control for some of these confounding factors, more systematic and accurate data collection approaches
+would improve the reliability of analysis such as ours. An important limitation is that we could only control for the number of
+tests performed at the state level, since testing data were not available for each county. Furthermore, testing availability and
+recommendations, especially in the initial phase of the pandemic, varied between states. We tried to mitigate this issue by using
+the total population in the county as the offset in our models, rather than the total number of confirmed cases.
+Since the number of performed tests can have an important impact on the number of reported cases, we decided not to explore
+the effect of influenza vaccination on SARS-CoV-2 reported infection rates. We were also unable to stratify and analyze
+COVID-19 death rate by age group, because this information was not available. Similarly, in our study, we could not take into
+account the variability in vaccine formulation and in vaccine efficacy, which depends on the predominant circulating strains,
+because this kind of data was not reported.
+Based on the information currently available, it is unclear whether the observed negative association with COVID-19 mortality
+could also be observed also if we considered natural influenza infection as the exposure, and whether vaccinations against other
+respiratory pathogens or other diseases can confer any protection. In this regard, it was recently proposed that live attenuated
+vaccines, by stimulating the innate immunity, could provide transient protection against COVID-1950 . It is also important to
+underscore that COVID-19 may be accompanied by innate immune response suppression51 , therefore further suggesting that
+vaccination could also be beneficial, by boosting innate immunity.
+Finally, an important potential confounder not captured in our dataset concerns the use of other drugs. Recent studies have
+proposed a potential effect of some drugs including statins and anti-hypertensives like ACEIs/ARBs on COVID-19 mortality in
+the elderly population52 ; however, these potential effects are still not confirmed and need further investigation.
+Although many important confounding variables have been taken into account in our analyses, there is still a strong need to go
+beyond aggregated data to perform analyses at the individual level. These studies would provide much more robust evidence of
+a possible protective effect of influenza vaccination on COVID-19 mortality, and also help determine the underlying biological
+If an effect consistent with our analysis was confirmed in individual level analyses, it would justify a more aggressive and
+targeted influenza vaccination policy in the elderly population and their caregivers, to reduce the rates of hospitalization, severe
+respiratory complications, and deaths from COVID-19. This would be of paramount importance given the paucity of effective
+treatment or vaccine for COVID-19 and the extreme pressure on healthcare systems.
+1. Max Roser, H. R. & Ortiz-Ospina, E. Coronavirus disease (covid-19) – statistics and research. Our World Data (2020).
+Early transmission dynamics in wuhan, china, of novel coronavirus–infected pneumonia.
+2. Li, Q. et al.
+3. Rothe, C. et al. Transmission of 2019-ncov infection from an asymptomatic contact in germany. N Engl J Med 382,
+4. Yu, P., Zhu, J., Zhang, Z., Han, Y. & Huang, L. A familial cluster of infection associated with the 2019 novel coronavirus
+5. Wu, Z. & McGoogan, J. M. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19)
+Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention.
+6. Guan, W.-J. et al. Clinical characteristics of coronavirus disease 2019 in china. N Engl J Med 382, 1708–1720 (2020).
+7. Wang, D. et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in
+wuhan, china. JAMA 323, 1061–1069 (2020).
+8. Huang, C. et al. Clinical features of patients infected with 2019 novel coronavirus in wuhan, china. Lancet 395, 497–506
+9. Lechien, J. R. et al. Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the
+coronavirus disease (covid-19): a multicenter european study. Eur Arch Otorhinolaryngol 1–11 (2020).
+10. Zhou, F. et al. Clinical course and risk factors for mortality of adult inpatients with covid-19 in wuhan, china: a retrospective
+cohort study. Lancet 395, 1054–1062 (2020).
+11. Richardson, S. et al. Presenting characteristics, comorbidities, and outcomes among 5700 patients hospitalized with
+covid-19 in the new york city area. JAMA e206775 (2020).
+12. Xing, Q. et al. Precautions are needed for covid-19 patients with coinfection of common respiratory pathogens. medRxiv
+14. Keilman, L. J. Seasonal influenza (flu). Nurs. Clin. North Am. 54, 227 – 243 (2019).
+15. Hak, E. et al. Influence of High-Risk Medical Conditions on the Effectiveness of Influenza Vaccination among Elderly
+Members of 3 Large Managed-Care Organizations. Clin. Infect. Dis. 35, 370–377 (2002).
+16. Fry, A. M. et al. Modeling the effect of different vaccine effectiveness estimates on the number of vaccine-prevented
+influenza-associated hospitalizations in older adults. Clin Infect Dis 59, 406–409 (2014).
+17. Nichol, K. L., Baken, L. & Nelson, A. Relation between influenza vaccination and outpatient visits, hospitalization, and
+mortality in elderly persons with chronic lung disease. Ann Intern Med 130, 397–403 (1999).
+18. Taksler, G. B., Rothberg, M. B. & Cutler, D. M. Association of influenza vaccination coverage in younger adults with
+influenza-related illness in the elderly. Clin Infect Dis 61, 1495–1503 (2015).
+19. Wilder-Smith, A. & Freedman, D. O. Isolation, quarantine, social distancing and community containment: pivotal role
+20. Matrajt, L. & Leung, T. Evaluating the effectiveness of social distancing interventions to delay or flatten the epidemic
+21. Wolff, G. G. Influenza vaccination and respiratory virus interference among department of defense personnel during the
+2017–2018 influenza season. Vaccine 38, 350 – 354 (2020).
+23. Hyattsville, M. National center for health statistics. guidance for certifying deaths due to covid–19. available from
+24. Wu, X., Nethery, R. C., Sabath, B. M., Braun, D. & Dominici, F. Exposure to air pollution and COVID-19 mortality in
+Harbor Laboratory Press.
+R. & Gentleman,
+R: A Language for
+JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS (1996).
+26. R Core Team. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna,
+29. ROSENBAUM, P. R. & RUBIN, D. B. The central role of the propensity score in observational studies for causal effects.
+30. Austin, P. C. An introduction to propensity score methods for reducing the effects of confounding in observational studies.
+Multivar. Behav Res 46, 399–424 (2011).
+31. Brookhart, M. A. et al. Variable selection for propensity score models. Am J Epidemiol 163, 1149–1156 (2006).
+32. SUZUKI, M., CAMACHO, A. & ARIYOSHI, K. Potential effect of virus interference on influenza vaccine effectiveness
+estimates in test-negative designs. Epidemiol. Infect. 142, 2642–2646 (2014).
+33. Cowling, B. J. et al. Increased Risk of Noninfluenza Respiratory Virus Infections Associated With Receipt of Inactivated
+Influenza Vaccine. Clin. Infect. Dis. 54, 1778–1783 (2012).
+BMC Pulm Med 17, 79 (2017).
+36. Udell, J. A. et al. Association between influenza vaccination and cardiovascular outcomes in high-risk patients: a
+meta-analysis. JAMA 310, 1711–1720 (2013).
+37. Warren-Gash, C. et al. Circulating influenza virus, climatic factors, and acute myocardial infarction: a time series study in
+england and wales and hong kong. J Infect Dis 203, 1710–1718 (2011).
+38. Madjid, M. et al. Influenza epidemics and acute respiratory disease activity are associated with a surge in autopsy-confirmed
+coronary heart disease death: results from 8 years of autopsies in 34,892 subjects. Eur Hear. J 28, 1205–1210 (2007).
+39. Lambert, N. D., Ovsyannikova, I. G., Pankratz, V. S., Jacobson, R. M. & Poland, G. A. Understanding the immune response
+40. Channappanavar, R. et al. Dysregulated type i interferon and inflammatory monocyte-macrophage responses cause lethal
+pneumonia in sars-cov-infected mice. Cell Host Microbe 19, 181–193 (2016).
+41. Grant, E. J. et al. Broad cd8(+) t cell cross-recognition of distinct influenza a strains in humans. Nat Commun 9, 5427
+42. McElhaney, J. E. et al. The immune response to influenza in older humans: beyond immune senescence.
+Immun. & ageing : I & A 17, 10–10 (2020).
+43. Mao, H. et al. Inhibition of human natural killer cell activity by influenza virions and hemagglutinin. J. virology 84,
+44. Mao, H. et al. Influenza virus directly infects human natural killer cells and induces cell apoptosis. J. virology 83,
+45. Denney, L. et al. Reduction of natural killer but not effector cd8 t lymphocytes in three consecutive cases of severe/lethal
+h1n1/09 influenza a virus infection. PLoS One 5, e10675 (2010).
+46. Purwar, R. et al. Resident memory t cells (t(rm)) are abundant in human lung: diversity, function, and antigen specificity.
+PloS one 6, e16245–e16245 (2011).
+47. Pizzolla, A. et al. Influenza-specific lung-resident memory t cells are proliferative and polyfunctional and maintain diverse
+tcr profiles. The J. clinical investigation 128, 721–733 (2018).
+48. Henderson, L. A. et al. On the alert for cytokine storm: Immunopathology in covid-19. Arthritis Rheumatol (2020).
+49. Hui, K. P. Y. et al. Tropism, replication competence, and innate immune responses of the coronavirus sars-cov-2 in
+50. Chumakov, K., Benn, C. S., Aaby, P., Kottilil, S. & Gallo, R. Can existing live vaccines prevent covid-19? Science 368,
+51. Zheng, M. et al. Functional exhaustion of antiviral lymphocytes in covid-19 patients. Cell Mol Immunol 17, 533–535,
+52. De Spiegeleer, A. et al. The effects of arbs, aceis and statins on clinical outcomes of covid-19 infection among nursing
+home residents. medRxiv 2020.05.11.20096347 (2020).
+This publication was made possible through support from the NIH-NCI grants P30CA006973 (L.M.).
+L.M. conceived the idea of the study. CZ wrote the code used to aggregate data and perform analysis. G.P. conducted the first
+analysis of the data and identified the appropriate statistical models to use. E.C. independently validated the analysis. C.Z.,
+COVID-19 data up to June 10, 2020 were imported using the JHU repository. Since this repository does not report Rhode Island
+COVID-19-related deaths at the county level, that information was obtained from the NYT repository instead. Counties with missing
+information regarding the variable of interest or the confounders as well as those with less then 10 cases were not included in the analysis.
+The final dataset used for the main analysis comprises 2034 counties.
+Shown is the coefficients and 95% CI of the influenza vaccination coverage obtained in the quasi-Poisson regression analysis as a function of
+together. From each cluster, we chose a single variable to be used as a covariate in the quasi-Poisson model in the direct adjustment approach.
+Family households
+Families with only one parent
+With bachelor degree
+With Internet
+Ratio of hospital beds (per 100,000 people)
+Alzheimer’s disease
+Atrial fibrillation
+Breast cancer
+Colorectal cancer
+Lung cancer
+Chronic obstructive pulmonary disease
+Chronic kidney disease
+Heart failure
+Ischemic heart disease
+Rheumatoid arthritis
+Tobacco use
+Median income
+Summer temperature
+Summer humidity
+Winter temperature
+Winter humidity
+Median age
+Sex ratio
+Child dependency
+Black race
+Latino race
+White race
+Asian race
+Island native race
+Other race
+Two or more races
+Total COVID-19 tests
+Days since the first case
+variables. The propensity score was calculated by regressing the logit of influenza vaccination coverage on the selected confounding variables.
+Influenza vaccination in people >= 65 years
+regression model using the number of deaths from COVID-19 as the outcome variable, influenza vaccination coverage as the independent
+variable, and adjusting for propensity score quintiles. Total population was used as offset to the model.
+Influenza vaccination in people >= 65 years
+Propensity Score
+quasi-Poisson regression model using the number of deaths from COVID-19 as the outcome variable, influenza vaccination coverage as the
+independent variable, and adjusting for propensity score as continuous variable. Total population was used as offset.
+Influenza vaccination in people >= 65 years
+the number of deaths from COVID-19 as the outcome variable, influenza vaccination coverage as the independent variable, adjusting for
+propensity score quintiles, and controlling for State differences using fixed effect model.
+Influenza vaccination in people >= 65 years
+of deaths from COVID-19 as the outcome variable, influenza vaccination coverage as the independent variable, adjusting for propensity score
+quintiles, and controlling for State differences by including State as a random factor.
+1st Quintile Intercept
+1st Quintile Immunization
+2nd Quintile Intercept
+2nd Quintile Immunization
+3rd Quintile Intercept
+3rd Quintile Immunization
+4th Quintile Intercept
+4th Quintile Immunization
+5th Quintile Intercept
+5th Quintile Immunization
+strata based on their propensity scores quintile. Then, we fit a quasi-Poisson regression in each stratum using the number of COVID-19
+deaths as the outcome and influenza vaccination coverage as the independent variable after adjusting for the propensity score. Shown is the
+intercept and coefficient for vaccination coverage from the quasi-Poisson model in each stratum.
+Influenza vaccination (> 10 cases)
+Influenza vaccination (> 50 cases)
+Influenza vaccination (> 100 cases)
+Influenza vaccination (without New York)
+distinct quasi-Poisson regressions in which the number of counties included varies based on the minimum number of cases, or in which New
+York State counties were excluded. In each model, the number of COVID-19 deaths was used as the outcome and influenza vaccination
+coverage in people >= 65 together with propensity score (continuous) were used as the independent variables. Total population was used as
+Influenza vaccination in people >= 65 years
+Family households
+Ratio of hospital beds (per 1000 people)
+Breast cancer
+Lung cancer
+Chronic obstructive pulmonary disease
+Median income
+Summer temperature
+Summer humidity
+Winter temperature
+Winter humidity
+Sex ratio
+Days since the first case
+We clustered the 42 candidate variables based on their correlation with each other, then selected only one variable from each cluster. The
+selected variables were used as linear terms in the quasi-Poisson model.

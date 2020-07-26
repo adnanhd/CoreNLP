@@ -1,588 +1,594 @@
-JOURNAL OF ADVANCED VETERINARY AND ANIMAL RESEARCH
-A periodical of the Network for the Veterinarians of Bangladesh (BDvetNET)
-VOL 7, NO. 2, PAGES 198–208
-REVIEW ARTICLE
-The emergence of novel coronavirus disease (COVID-19) in Bangladesh: Present status,
-challenges, and future management
-Mohammad Shah Alam1†, Mohammad Zahangeer Alam2†, K. H. M. Nazmul Hussain Nazir3, Md. Abdullahil Baki Bhuiyan4
-ARTICLE HISTORY
-Immediate after the official declaration of COVID-19 in Bangladesh on 8 March 2020, it has created
-public panic which results in price plummeting of the capital market and price hike of many essential commodities. Worldwide, the outbreak of COVID-19 has declared a pandemic. In response,
-the Government of Bangladesh has initiated some strict measures such as stopping the entry of
-passengers from Europe, stopping on-arrival visas and self-quarantine for 2 weeks for all passengers return from abroad. Still, many loopholes exist at the entry points of Bangladesh. Most of the
-people of Bangladesh are yet to aware of the consequences of COVID-19. In this backdrop, this
-would be helpful to undertake future management practices against the fearsome COVID-19 in
-Revised March 17, 2020
-The coronavirus was first isolated in 1937, which caused
-bronchitis in birds [1,2]. However, human coronaviruses
-(HCoV-229E and HCoV-OC43) were first characterized in the
-1960s [3], which were associated with diseases in respiratory tracts such as bronchitis and pneumonia and illnesses
-in the enteric and central nervous system [3,4]. The virus
-is named as coronavirus for the crown-like spikes on their
-surface [5]. According to the Centers for Disease Control
-and Prevention, Atlanta, USA, the syndrome of coronavirus
-is called severe acute respiratory syndrome (SARS). The
-virus SARS-associated coronavirus (SARS-CoV) has received
-worldwide attention due to its epidemic appearance in
-2003. Since then, a total of 8,098 people became sick, which
-claimed 774 lives across the globe [6]. However, there were
-no known cases of SARS reported anywhere in the world
-Correspondence Md. Abdullahil Baki Bhuiyan
-Coronavirus; outbreak; fatality;
-pneumonia; Bangladesh
-distributed under the terms of the
-after 2004 [7]. Recently, a novel coronavirus named SARSCoV-2 has spread worldwide [8], including Bangladesh,
-which is one of the most densely populated countries (160
-million) in the world [9]. Although overpopulated, the economy of Bangladesh is booming in recent times [8]. Since its
-independence in 1971, the annual gross domestic product
-in Bangladesh was 8.75 billion, which is expected to reach
-315.00 billion USD by the end of 2020 [8]. In this situation, the emergence of novel coronavirus (COVID-19) in
-Bangladesh could be a threat to the boosting economy.
-Taxonomy, types, origin and evolution of human
-Coronaviruses (CoVs) belong to the family Coronaviridae
-under order Nidovirales. The family Coronoviridae has two
-How to cite: Alam MS, Alam MZ, Nazir KHMNH, Bhuiyan MAB. The emergence of novel coronavirus disease (COVID-19) in Bangladesh: Present
-status, challenges and future management. J Adv Vet Anim Res 2020; 7(2):198–208.
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-subfamilies, such as Orthocoronaviridae and Torovirinae.
-The subfamily Orthocoronaviridae has four genera, such
-as alphacoronavirus, betacoronavirus, gammacoronavirus
-and deltacoronavirus [10]. Until now, seven types of coronaviruses have the ability to infect human. The human
-coronaviruses are 229E, NL63, OC43 and HKU1, and the
-rarer strains are SARS-CoV [11] and Middle Eastern respiratory syndrome coronavirus (MERS-CoV) which was first
-appeared in 2012 in Saudi Arabia [12] and recent SARSCoV-2 [13]. The virus SARS-CoV-2 has a single-stranded
-RNA genome ranged from 26 to 32 kilobases (kb) in length,
-which is one of the largest genomes among RNA viruses
-[14]. Ten genome sequences of SARS-Cov-2 exhibited 88%
-identity with two bat-derived SARS-like coronaviruses,
-bat-SL-CoVZC45 and bat-SL-CoVZXC21; however, they
-were more distant from SARS-CoV (about 79%) and MERSCoV about 50% [15]. Usually, the CoVs are commonly harbored in mammals and birds as well as in camels, cattle,
-cats, bats, and other animals [10]. Genomic characterization of SARS-CoV, MERS-CoV, and SARS-CoV-2 reported
-that the origination of these viruses was bats. The intermediate hosts of SARS-CoV and MERS-CoV were masked palm
-civets and dromedary camels, respectively, with human as
-terminal hosts [16]. However, the intermediate hosts of
-SARS-CoV-2 are predicted to be the unknown wild animals
-sold at the seafood market [16,17].
-Worldwide severity and outbreak of novel human coronavirus (COVID-19)
-A new type of pneumonia was detected in Wuhan city,
-Hubei Province of China, on 31 December 2019. Since then,
-a total of 44 cases with an unknown type of pneumonia
-were detected until 3 January 2020 [18,19]. The outbreak
-of this pneumonia was associated with exposures in one
-seafood market. The unknown case was confirmed as a
-new type of coronavirus on 7 January 2020. Outside of
-China, the same kind of novel coronavirus was identified
-on 13, 15, and 20 January 2020 in Thailand, Japan, and the
-Health Organization [20], the cases in Thailand, Japan,
-City, China. Officially, the WHO has named the novel coronavirus as SARS-CoV-2 causing coronavirus disease-2019
-confirmed case (a person with laboratory confirmation) of
-COVID-19 was 282 (claimed six lives), which had skyrocketed to 153,517 (claimed 5735 lives) on 15 March 2020
-(Fig. 1). Due to the severe outbreak across the globe, the
-WHO declared the outbreak of COVID-19 is pandemic on
+JOURNAL  OF  ADVANCED VETERINARY AND ANIMAL RESEARCH A periodical
+of the Network for the Veterinarians of Bangladesh (BDvetNET) VOL
+7,  NO.  2,  PAGES  198208  REVIEW ARTICLE The emergence of novel
+coronavirus disease (COVID‐19)  in  Bangladesh:  Present  status,
+challenges,  and  future management Mohammad Shah Alam1, Mohammad
+Zahangeer Alam2, K. H. M. Nazmul Hussain Nazir3,  Md.  Abdullahil
+Baki Bhuiyan4 ARTICLE HISTORY Immediate after the official decla‐
+ration of COVID‐19 in Bangladesh on 8 March 2020, it has  created
+public  panic  which  results  in price plummeting of the capital
+market and price hike of many essential  commodities.  Worldwide,
+the  outbreak  of  COVID‐19 has declared a pandemic. In response,
+the Government of Bangladesh has initiated some  strict  measures
+such  as  stopping  the entry of passengers from Europe, stopping
+on‐arrival visas and self‐quarantine for 2 weeks for all  passen‐
+gers return from abroad. Still, many loopholes exist at the entry
+points of Bangladesh. Most of the people of Bangladesh are yet to
+aware  of  the  consequences  of COVID‐19. In this backdrop, this
+would be helpful to undertake future management practices against
+the  fearsome  COVID‐19 in Revised March 17, 2020 The coronavirus
+was first isolated in 1937,  which  caused  bronchitis  in  birds
+[1,2].  However,  human  coronaviruses  (HCoV‐229E and HCoV‐OC43)
+were first characterized in the 1960s [3], which were  associated
+with  diseases in respiratory tracts such as bronchitis and pneu‐
+monia and illnesses in the enteric  and  central  nervous  system
+[3,4].  The  virus  is  named  as  coronavirus for the crown‐like
+spikes on their surface [5]. According to the Centers for Disease
+Control and Prevention, Atlanta, USA, the syndrome of coronavirus
+is called severe acute respiratory  syndrome  (SARS).  The  virus
+SARS‐associated coronavirus (SARS‐CoV) has received worldwide at‐
+tention due to its epidemic appearance in 2003. Since then, a to‐
+tal  of  8,098 people became sick, which claimed 774 lives across
+the globe [6]. However, there were no known cases of SARS report‐
+ed  anywhere  in  the  world  Correspondence  Md. Abdullahil Baki
+Bhuiyan Coronavirus; outbreak;  fatality;  pneumonia;  Bangladesh
+distributed  under  the  terms of the after 2004 [7]. Recently, a
+novel coronavirus named SARSCoV‐2 has spread worldwide  [8],  in‐
+cluding  Bangladesh,  which  is one of the most densely populated
+countries (160 million) in the world [9]. Although overpopulated,
+the  economy  of Bangladesh is booming in recent times [8]. Since
+its independence in 1971, the annual gross  domestic  product  in
+Bangladesh  was  8.75  billion, which is expected to reach 315.00
+billion USD by the end of 2020 [8]. In this situation, the  emer‐
+gence  of  novel  coronavirus (COVID‐19) in Bangladesh could be a
+threat to the boosting economy.  Taxonomy, types, origin and evo‐
+lution  of human Coronaviruses (CoVs) belong to the family Coron‐
+aviridae under order Nidovirales. The  family  Coronoviridae  has
+two  How to cite: Alam MS, Alam MZ, Nazir KHMNH, Bhuiyan MAB. The
+emergence of novel coronavirus disease (COVID‐19) in  Bangladesh:
+Present  status, challenges and future management. J Adv Vet Anim
+Res 2020; 7(2):198208.
+ Alam et al./ J. Adv. Vet. Anim. Res., 7(2):  198208,  June  2020
+subfamilies,  such  as  Orthocoronaviridae  and Torovirinae.  The
+subfamily Orthocoronaviridae has four genera, such as alphacoron‐
+avirus,  betacoronavirus,  gammacoronavirus  and deltacoronavirus
+[10]. Until now, seven types of coronaviruses have the ability to
+infect  human.  The  human coronaviruses are 229E, NL63, OC43 and
+HKU1, and the rarer strains are SARS‐CoV [11] and Middle  Eastern
+respiratory  syndrome  coronavirus (MERS‐CoV) which was first ap‐
+peared in 2012 in Saudi Arabia [12] and  recent  SARSCoV‐2  [13].
+The virus SARS‐CoV‐2 has a single‐stranded RNA genome ranged from
+26 to 32 kilobases (kb) in length, which is one  of  the  largest
+genomes  among  RNA  viruses  [14]. Ten genome sequences of SARS‐
+Cov‐2 exhibited 88% identity with two bat‐derived SARS‐like coro‐
+naviruses, bat‐SL‐CoVZC45 and bat‐SL‐CoVZXC21; however, they were
+more distant from SARS‐CoV (about  79%)  and  MERSCoV  about  50%
+[15].  Usually,  the  CoVs  are  commonly harbored in mammals and
+birds as well as in camels, cattle, cats, bats, and other animals
+[10].  Genomic  characterization of SARS‐CoV, MERS‐CoV, and SARS‐
+CoV‐2 reported that the origination of these  viruses  was  bats.
+The  intermediate hosts of SARS‐CoV and MERS‐CoV were masked palm
+civets and dromedary camels, respectively, with human as terminal
+hosts  [16].  However,  the  intermediate hosts of SARS‐CoV‐2 are
+predicted to be the unknown wild animals sold at the seafood mar‐
+ket  [16,17].   Worldwide  severity  and  outbreak of novel human
+coronavirus (COVID‐19) A new type of pneumonia  was  detected  in
+Wuhan  city,  Hubei Province of China, on 31 December 2019. Since
+then, a total of 44 cases with an unknown type of pneumonia  were
+detected until 3 January 2020 [18,19]. The outbreak of this pneu‐
+monia was associated with exposures in one  seafood  market.  The
+unknown case was confirmed as a new type of coronavirus on 7 Jan‐
+uary 2020. Outside of China, the same kind of  novel  coronavirus
+was identified on 13, 15, and 20 January 2020 in Thailand, Japan,
+and the Health Organization [20], the cases in  Thailand,  Japan,
+City,  China. Officially, the WHO has named the novel coronavirus
+as SARS‐CoV‐2 causing coronavirus disease‐2019 confirmed case  (a
+person with laboratory confirmation) of COVID‐19 was 282 (claimed
+six lives), which had skyrocketed to 153,517 (claimed 5735 lives)
+on  15 March 2020 (Fig. 1). Due to the severe outbreak across the
+globe, the WHO declared the outbreak of COVID‐19 is  pandemic  on
 11 March 2020 [8].
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-According to the current WHO report, the total fatality
-of COVID-19 is 5,735 with a fatality rate of only 3.73% [8].
-However, overall mortality combinedly caused by SARSCoV and MERS-CoV was 1632 [21,22], with the rate of
-occurrence of 9.6% [23] and 35.2% [2], respectively. When
-recorded every day; therefore, the mortality rate of COVID19 might be changing, which could not be calculated accurately until the end of this outbreak.
-The outbreak of COVID-19 and its consequence in
-Three confirmed cases of COVID-19 announced for the
-of epidemiology, disease control, and research (IEDCR).
-Subsequently, there were no confirmed cases found on
-13 March 2020. However, on 14 March 2020, two more
-confirmed cases newly detected in Bangladesh. Until now,
-COVID-19 caused no fatality in Bangladesh. Among the
-and Spain ranked 2nd, 3rd, 4th, and 5th, respectively, after
-China [8] (Fig. 2). In comparison to the global perspective,
-although the occurrence of COVID-19 is very low (only
-0.003%) in Bangladesh, the panic which spreads among
-the most densely populated country (160 million people)
-in the world is immense. The first blow of this panic hits
-into the Bangladesh stock market; due to the fear selling, the general index of the DSE plunged 279.32 points
-(6.51%) to close the day at 4,008.05 [24]. The panic also
-affected foreign trade. Qatar temporarily barred travelers
-from Bangladesh. The Prime Minister of India, Narendra
-Modi, has canceled his trip to Bangladesh on the occasion of grand inaugural ceremony of Mujib Year [25], and
-there is excessive price gouging of some essentials such as
-infected countries and Bangladesh with a percentage share of
-global cases as of 16 March 2020. (Source: WHO; situation report
-surgical and face masks, sanitizers, electronics and electrical materials, and so on. [26]. The Government on 14 March
-2020 declared that no inbound passengers from European
-countries except the UK would be allowed in Bangladesh
-until 31 March 2020. All kinds of on-arrival visas have
-been suspended for new 2 weeks. Besides, passengers
-return from any country would be self-quarantined for 14
-days [27]. Still, any relaxation on monitoring this disease
-would be very costly. All kinds of educational institutions
-would remain close until 31 March 2020 [27]. Moreover,
-all sports activities to be postponed until 31 March 2020
-[27]. Unlike the USA, Spain, Serbia, France, and Lebanon,
-Bangladesh has yet to declare a state of emergency. The
-country is now in a state of uncertainty, just watching the
-global initiatives.
-The Prime Minister (PM) of Bangladesh has promptly
-accepted the presence and reality of COVID-19 in
-to closely monitor the situation at all the entry points of
-Bangladesh and to improve the facilities of all the public
-hospitals by ensuring enough quarantine facilities. The PM
-also canceled all the prescheduled meetings, processions,
-public gatherings, and foreign trips.
-Epidemiology of COVID-19
-Environmental factors such as temperature, humidity,
-and wind speed have a significant effect on the survival
-and transmission of human coronaviruses such as SARSCoV and MERS-CoV [28]. In general, the survival of viral
-SARS-CoV could survive for 5 days on a smooth surface at
-22°C–25°C and relative humidity 40%–50% [28]. However,
-it is lost its activity with the increase of temperature and
-relative humidity at 38°C and 95%, respectively. The possible transmission of SARS-CoV has occurred through airborne droplets. Furthermore, this virus could survive in
-human feces [30]. Another human coronavirus MERS-CoV
-could remain active for an extended period as droplets on
-the solid surface at high temperature (15°C–35°C) and low
-humidity (<20%). However, with the increase of relative
-humidity (>35%) and temperatures (5°C–15°C), the survivability and spread of MERS-CoV would be reduced [31].
-Although newly emerged novel SARS-CoV-2 virus has similar origin with SARS-CoV and MERS-CoV, the role of temperature and absolute humidity in the transmission is yet
-to be clearly understood. The contradictory reports have
-scientists in China [32] reported that the increased temperature and humidity did not reduce the incidence of
-COVID-19 [32]. However, according to Wang et al. [29], the
-increased temperate and relative humidity significantly
-reduced the transmission of COVID-19 in 100 cities of
-China. Similarly, another group reported that the COVID-19
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-virus is sensitive to high temperatures (>30°C) [33]. Using
-the current statistics available in situation report 55 at the
-WHO website [8], the cumulative rate of confirmed cases
-and deaths of COVID-19 is 1.4% and 0.52%, respectively,
-in tropical or subtropical countries or regions, but it is
-98.59% and 99.47%, respectively, in temperate countries
-or subtropical and temperate regions/countries.
-Tropical/subtropical countries or regions
-Temperate countries or regions
-Confirmed cases
-Confirmed cases
-Saudi Arabia
-Sri Lanka
-United Kingdom
-United States of
-Total Confirmed cases
-Total deaths
-Percent of confirmed cases in tropical/ subtropical countries/regions
-Percent of confirmed cases in temperate countries/ regions
-Percent of death in tropical/ subtropical countries/regions
-Percent of death in temperate countries/regions
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+According to the  current  WHO  report,  the  total  fatality  of
+COVID‐19 is 5,735 with a fatality rate of only 3.73% [8].  Howev‐
+er, overall mortality combinedly caused by SARSCoV  and  MERS‐CoV
+was  1632  [21,22],  with the rate of occurrence of 9.6% [23] and
+35.2% [2], respectively. When recorded every day; therefore,  the
+mortality  rate  of COVID19 might be changing, which could not be
+calculated accurately until the end of this outbreak.   The  out‐
+break of COVID‐19 and its consequence in Three confirmed cases of
+COVID‐19 announced for the of epidemiology, disease control,  and
+research  (IEDCR).   Subsequently,  there were no confirmed cases
+found on 13 March 2020. However, on 14 March 2020, two more  con‐
+firmed  cases  newly  detected in Bangladesh. Until now, COVID‐19
+caused no fatality in Bangladesh. Among the and Spain ranked 2nd,
+3rd,  4th,  and  5th,  respectively, after China [8] (Fig. 2). In
+comparison to the global perspective, although the occurrence  of
+COVID‐19 is very low (only 0.003%) in Bangladesh, the panic which
+spreads among the most densely  populated  country  (160  million
+people)  in  the  world  is immense. The first blow of this panic
+hits into the Bangladesh stock market; due to the  fear  selling,
+the  general  index  of  the DSE plunged 279.32 points (6.51%) to
+close the day at 4,008.05 [24]. The panic also  affected  foreign
+trade.  Qatar  temporarily  barred travelers from Bangladesh. The
+Prime Minister of India, Narendra Modi, has canceled his trip  to
+Bangladesh  on  the occasion of grand inaugural ceremony of Mujib
+Year [25], and there is excessive price gouging  of  some  essen‐
+tials such as infected countries and Bangladesh with a percentage
+share of global cases as of 16 March 2020. (Source:  WHO;  situa‐
+tion  report surgical and face masks, sanitizers, electronics and
+electrical materials, and so on. [26]. The Government on 14 March
+2020  declared that no inbound passengers from European countries
+except the UK would be allowed in Bangladesh until 31 March 2020.
+All  kinds  of  on‐arrival  visas  have  been suspended for new 2
+weeks. Besides, passengers return from any country would be self‐
+quarantined for 14 days [27]. Still, any relaxation on monitoring
+this disease would be very costly. All kinds of  educational  in‐
+stitutions would remain close until 31 March 2020 [27]. Moreover,
+all sports activities to be postponed until 31 March  2020  [27].
+Unlike  the  USA,  Spain, Serbia, France, and Lebanon, Bangladesh
+has yet to declare a state of emergency. The country is now in  a
+state  of uncertainty, just watching the global initiatives.  The
+Prime Minister (PM) of Bangladesh has promptly accepted the pres‐
+ence  and reality of COVID‐19 in to closely monitor the situation
+at all the entry points of Bangladesh and to improve the  facili‐
+ties  of  all  the public hospitals by ensuring enough quarantine
+facilities. The PM also canceled all the  prescheduled  meetings,
+processions,  public gatherings, and foreign trips.  Epidemiology
+of COVID‐19 Environmental factors such as temperature,  humidity,
+and  wind  speed  have  a  significant effect on the survival and
+transmission of human coronaviruses such as SARSCoV and  MERS‐CoV
+[28].  In  general,  the survival of viral SARS‐CoV could survive
+for 5 days on a smooth surface at 22C25C  and  relative  humidity
+40%50%  [28].  However, it is lost its activity with the increase
+of temperature and relative humidity at 38C and 95%,  respective‐
+ly.  The  possible  transmission of SARS‐CoV has occurred through
+airborne droplets. Furthermore, this virus could survive in human
+feces  [30].  Another human coronavirus MERS‐CoV could remain ac‐
+tive for an extended period as droplets on the solid  surface  at
+high  temperature (15C35C) and low humidity (<20%). However, with
+the  increase  of  relative  humidity  (>35%)  and   temperatures
+(5C15C),  the  survivability  and spread of MERS‐CoV would be re‐
+duced [31].  Although newly emerged novel  SARS‐CoV‐2  virus  has
+similar  origin  with SARS‐CoV and MERS‐CoV, the role of tempera‐
+ture and absolute humidity in  the  transmission  is  yet  to  be
+clearly  understood. The contradictory reports have scientists in
+China [32] reported that the increased temperature  and  humidity
+did not reduce the incidence of COVID‐19 [32]. However, according
+to Wang et al. [29], the increased temperate and relative humidi‐
+ty  significantly  reduced  the  transmission  of COVID‐19 in 100
+cities of China.  Similarly,  another  group  reported  that  the
+COVID‐19
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+virus is sensitive to high temperatures (>30C)  [33].  Using  the
+current  statistics  available  in situation report 55 at the WHO
+website [8], the cumulative rate of confirmed cases and deaths of
+COVID‐19 is 1.4% and 0.52%, respectively, in tropical or subtrop‐
+ical countries or regions, but it is 98.59% and  99.47%,  respec‐
+tively,  in  temperate countries or subtropical and temperate re‐
+gions/countries.  Tropical/subtropical countries or regions  Tem‐
+perate countries or regions Confirmed cases Confirmed cases Saudi
+Arabia Sri Lanka United Kingdom United States of Total  Confirmed
+cases  Total  deaths Percent of confirmed cases in tropical/ sub‐
+tropical countries/regions Percent of confirmed cases in  temper‐
+ate  countries/ regions Percent of death in tropical/ subtropical
+countries/regions Percent of death in temperate countries/regions
 Up to 16 March 2020 [8].
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-transmission of COVID-19 and deaths in different climatic
-regions are caused by the variation of temperature and relative humidity in these countries or regions.
-Although the mechanism of transmission of COVID-19
-is not fully understood, the recent studies of Huang et al.
-[34] and Chan et al. [35] have reported human-to-human
-transmission through the respiratory droplets and surface
-contact. The droplets are generated from the infected person through his coughs or sneezes, which could potentially
-infect others remaining in close contact [36]. The virus
-within the droplets could remain viable on the surface of
-an object for a few days; thus, the nearby surroundings of
-an infected person are potential sources of contamination.
-The symptomatic (sickest) persons are thought to be most
-contagious. Moreover, recent evidence suggests that a person without symptoms (asymptomatic) could potentially
-spread the pathogen during the incubation period [37].
-Unlike SARS virus, the risk of contamination by COVID19 virus through feces of an infected person is low [34].
-Besides, there is no evidence of airborne dissemination of
-The subtropical monsoon climate in Bangladesh is
-characterized by heavy summer rainfall and high summer
-temperature with often excessive humidity. The range of
-ambient temperature in the summer is 36°C–40°C, and
-winter temperature is 8°C–15°C [38]. If the studies of Wang
-et al. [29,33] are true and if the trend of disease occurrence
-particularly in the summer season. Although the mechanism of high temperature and high humidity reduces the
-transmission of COVID-19 is not known yet, in the case of
-temperatures, and respiratory droplets remain airborne
-longer in dry air [39,40]. Second, cold and dry weather
-impairs mucociliary clearance, innate antiviral immunity,
-and tissue repair and makes them more susceptible to the
-virus [41,42]. These mechanisms are also likely to applicable for the COVID-19 transmission.
-Pathogenesis of COVID-19
-The clinical signs and symptoms are almost similar to that
-of SARS and MERS infections [43]. Hence, although the
-pathogenesis of COVID-19 is poorly understood, the similar mechanisms of SARS and MERS still can give us a lot of
-information on the pathogenesis of COVID-19.
-The lungs are made up of a mass of alveoli. The alveoli
-are responsible for gaseous exchange, providing oxygen
-to blood flowing through capillaries in the alveolar membrane. The alveolar walls are composed of type I and type
-II pneumocytes, along with alveolar macrophages (Fig. 3)
-[44]. Type I pneumocytes are responsible for gaseous
-exchange with blood in the capillaries of the lungs. Type
-II pneumocytes are the progenitors of type I pneumocytes
-and are also responsible for producing surfactant [45].
-SARS-CoV infection causes desquamation of pneumocytes
-by releasing inflammatory cytokine in humans and rats
-and alveolar swelling, edema, and hemorrhage in the lungs
-(Fig. 3) [46]. The virus also destroys alveolar macrophages
-that play an essential role in local immune response [47].
-In critical illness, uncontrolled inflammation, fluid accumulation, and developing fibrosis severely compromise
-gas exchange and lead to respiratory failure [42].
-Symptoms of COVID-19
-The symptoms of COVID-19 are either asymptomatic (no
-signs) or symptomatic (non-, mild-, or severe pneumonia)
-[48]. The range of mild disease (i.e., nonpneumonia or mild
-pneumonia) is about 80% of cases (mostly curable), mildto-severe pneumonia is about 14%, and critical illness is
-about 6% of cases [22]. The critical illnesses lead to severe
-consequences such as a death in the case of the elderly or
-other people who have severe chronic medical conditions
-such as heart disease, diabetes, and lung diseases [15].
-Other common signs of COVID-19 infection are respiratory
-symptoms, fever, coughing, sneezing, shortness of breath,
-Diagnosis of COVID-19 infection
-As there are no specific therapeutic drugs or vaccines available for novel COVID-19; therefore, it is essential to detect
-the disease at an early stage so that immediate isolation
-of the patient could be undertaken. Thus, the radiological
-examination is used for the early detection of COVID-19
-[49]. Thin-slice chest CT functions are more effectively
-detecting pneumonia caused by COVID-19 at a very early
-stage [50]. The sensitivity of CT for COVID-19 infection was
-98%, but it was much higher than the sensitivity (71%; p
-< 0.001) of RT-PCR [49,51]. Although nucleic acid-based
-(3%) patients, who had negative RT-qPCR for COVID-19 at
-the initial stage of COVID-19 but conduction of chest CT,
-confirmed viral pneumonia at the early stage.
-The collection of samples for the detection of the virus is
-a big challenge for the health workers. The recommended
-specimens for COVID-19 diagnosis are nasopharyngeal
-and oropharyngeal swabs; however, the collection of these
-samples requires close contact with the patients, which
-poses a risk of transmission of the viruses to the healthcare personnel. Therefore, saliva specimens are suggested
-because patients could easily spit their saliva into a sterile bottle in a noninvasive way [53]. Meanwhile, real-time
-RT-PCR using blood samples gave a very low percentage
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-and resident alveolar macrophages and pulmonary surfactant exist in the airspace (A). In the acute phase of SARS-CoV infection (B),
-type I and type II pneumocytes are infected and secrete inflammatory cytokines, whereas surfactant levels decrease. In severe illness,
-inflammation, fluid accumulation, and developing fibrosis severely damage alveoli and lead to respiratory failure (C).
-Clinical signs and
-Zoonotic transmission
-Incubation period
-Bats harbor the three
-coronaviruses as a reservoir host.
-It is still unclear whether the
-COVID-19 transmitted from bats
-to humans [10]. Then, humanto-human transmission through
-droplets, personal (handshaking),
-and contaminated surface contact
-[34,35]. It seems to be more
-transmissible than SARS and
-2–14 days [10,55]
-Mostly respiratory
-symptoms, such as fever,
-dry cough, shortness
-of breath, and in the
-most severe cases, have
-pneumonia [10]
-Primarily transmitted from bats
-to snakes, civet cats, and finally
-to human [10]. Then, similar
-transmission to COVID-19,
-including fecal [34,60].
-2–10 days, up to
-14 days [10]
-Primarily transmitted from bats
-to camels and finally to human
-[10] and then human to human
-transmission via direct respiratory
-secretion contact [34] and also
-fecal-oral transmission [60].
-days [10]
-Clinical diagnosis
-based on symptoms,
-history and chest
-imaging, and
-diagnosis by nucleic
-acid test, such as
-RT-qPCR, deep
-sequencing, and
-ELISA [34,56].
-No antiviral drug
-yet [57,58]. Oxygen
-and fluid therapy
-and antibiotics with
-oseltamivir [34,57,58].
-In severe illness,
-corticosteroids are
-used to reduce lung
-inflammation [59].
-Besides respiratory
-Similar to COVID-19
-symptoms [10], the virus
-is known to cause enteric
-symptom, such as
-diarrhea and abdominal
-pain, and finally focal
-necrosis and nephritis in
-the kidney [60].
-Similar to COVID-19
-Severe acute respiratory
-distress, severe
-pneumonia, enteric
-symptoms, and kidney
-failure [60,61].
-Similar to COVID-19
-Similar to COVID-19
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-(1%) of the positive results, and urine samples did not give
-positive results [54].
-which provides the diagnostic facilities of COVID-19. The
-detection of COVID-19 is a real-time RT-PCR-based assay
-that requires skilled human resources and sophisticated
-laboratory facilities. To avoid false results and risks of biological hazards, the Government is not allowing any other
-private organizations except IEDCR to perform this [27].
-The rapid test kits are although available in Bangladesh,
-but the WHO does not approve these kits.
-Prevention and control of COVID-19
-It is popularly said that “prevention is better than cure.”
-Prevention of COVID-19 should be the prime strategy to
-restrict this deadly disease from a further outbreak in
-Bangladesh. The WHO suggested that the transmission of
-COVID-19 should be prevented by reducing the secondary infections among close contact with persons who suffer from acute respiratory infections. Besides, the hands
-should be frequently washed after direct contact with a
-sick person; furthermore, the unprotected contact with
-wild animals should be avoided. Moreover, the COVID-19infected person should maintain a good practice of cough
-etiquettes such as by covering coughs and sneezes with
-disposable tissues or clean clothes, by washing hands, and
-by maintaining distance with noninfected persons [15]. In
-addition to these preventive measures, the Government of
-Bangladesh should be undertaken stern actions against
-the passengers, such as strictly measuring their body temperature or keep them in an isolation condition for 14 days
-at the land, sea, and airports after arrival from COVID-19infected countries.
-Effective vaccines are essential to control the coronavirus outbreaks. There are several vaccination strategies
-used against SARS-CoV, and MERS-CoV tested in animals,
-including a live-attenuated virus, inactivated virus, subunit vaccines, recombinant DNA, and protein vaccines [62].
-These studies are still underway to develop vaccines for
-Unlike SARS-CoV and MERS-CoV, no proven vaccines so
-far discovered against COVID-19. However, the first trial
-of evaluating a vaccine against COVID-19 has begun on
-15 March 2020 at kaiser permanente washington health
-promising targets for COVID-19, but more clinical trials
-still should be needed.
-Management of COVID-19 contamination
-Evidence suggests that the virus is contaminated from
-human to human very rapidly [35,64]. Although complete elimination of COVID-19 outbreak seems impossible,
-several key measures could reduce the possible transmission of SARS-CoV-2 by avoiding the contact opportunities
-of outbreak, traveling and trade restrictions, entry screening of the travelers during outbreak period, isolation of
-infected cases, and maintaining the physical distance
-within the workspace. In this backdrop, flexible working
-schedules/shifts for employees, the opportunity of distance working/teleworking, increased use of email and
-teleconferences to reduce close contacts, reduced contact between employees and customers, reduced contact
-between employees, promoting the use of other personal
-protective countermeasures, and avoiding mass gathering,
-such as sport events, concerts, religious events, conferences, and so on are advised.
-According to the WHO, the practice of good personal
-hygiene is essential [8,66]. Regularly washing hands with
-soaps and water and avoid touching the face with the
-hands are some ways to ensure personal hygiene. Wearing
-a mask is not essential until a person is detected with SARSCoV-2 to protect spreading the virus to the public [67]. The
-infected person should take rest at home or admit to the
-hospital for complete isolation for 14 days. In case of emergency, the infected person should wear a surgical mask to
-protect others.
-Potential treatments against COVID-19
-As we know, no effective treatments are available for viral
-diseases [57,58]. The supportive treatments such as oxygen therapy, conservation fluid management, and the use
-of broad-spectrum antibiotics to treat secondary bacterial infection are still practiced as important management
-are used to reduce lung inflammation [59]. Some of the
-drugs such as oseltamivir, lopinavir/ritonavir, nucleoside
-analogs, neuraminidase inhibitors, remdesivir, umifenovir, tenofovir disoproxil and lamivudine (inhibitors), chloroquine, and Shufeng Jiedu or Lianhua Qingwen capsules
-(traditional medicines of China) are advised to treat COVID19 [59,68–70]. Moreover, some inhibitors such as 3CLpro
-(3CLpro-1) and a novel vinyl sulfone protease and angiotensin-converting enzyme 2 (ACE2)-based peptide showed
-their potentiality against SARS-CoV-2 [71]. Usually, drugs
-are not effective against viral diseases. Recently, an antiviral drug Favilavir has approved by China’s National Medical
-Products Administration on 16 February 2020 to treat
-COVID-19 [72]. This drug has produced by Zhejiang Hisun
-Pharmaceutical and marketed as brand name Avigan [73].
-Current challenges of COVID-19 in Bangladesh
-News such as “Coronavirus Outbreak: Screening still lax
-at Dhaka airport” in the Daily Star on 10 March 2020 [74]
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-has frustrated the government’s efforts to combat the
-deadly COVID-19 in Bangladesh. Few initiatives have been
-observed at the Shah Jalal International Airport, such as
-the setting of some thermal scanners to check the realtime body temperature of the passengers and filling up a
-health declaration form. However, no disinfection activities
-and none of the confirmation tests by taking samples from
-the passenger’s body have performed. According to the
-WHO, the disease could remain asymptomatic for up to 14
-days. Therefore, thermal scanner and travel history are not
-enough measures to detect COVID-19 among the passengers. Apart from passengers scanning, no initiatives have
-taken to disinfect the planes and luggage of the passengers.
-There is a misconception among the people of
-Bangladesh that the disease would not sustain in the
-country due to the onset of summer when the temperature would remain above 30°C. However, the recent study
-reported that temperature does not change the transmission of COVID-19 [46]; unlike the SARS virus, there is no
-evidence that the outbreak of COVID-19 would be reduced
-at higher temperature [75].
-Other challenges are (i) lack of laboratory facilities for
-the early detection of the disease, (ii) scarcity of medical
-supplies, such as surgical masks and goggles, (iv) lack of
-personal protective equipment (PPE) for healthcare personnel, (iv) asymptomatic transmission of COVID-19 which
-could challenge the management strategies at risk [41], (v)
-lack of quarantine facilities at the hospitals, (v) it is very
-unfortunate that a good number of people of Bangladesh
-are not maintaining good hygiene and sanitation practices,
-and (vi) until now, no specific drugs or vaccines have been
-proven effective against COVID-19.
-Globally, as there are no vaccines discovered against novel
-coronavirus disease COVID-19; therefore, prevention and
-management are the best ways to tackle this deadly disease. By comparing the global outbreak, confirmed cases
-are only 0.003% in Bangladesh [8]. However, stern actions
-should be taken immediately so that further penetration
-of any case is not possible through the land-, sea-, and airports. Nationally, public awareness is the crucial factor in
-protecting this disease. The health officials, doctors, and
-to educate them about the protection and safety measures
-against COVID-19.
-Early and quick detection are essential measures to
-stop the transmission of COVID-19. The diagnostic facilities of Bangladesh should be improved by providing the
-detection facilities at all the divisional, district, and upazilla hospitals. Once a new case is detected, he should be
-isolated immediately.
-Some general recommendations are suggested as
-(i) as per the WHO’s guidelines [23], hand hygiene must
-be maintained by cleaning hands with soap and water for
-at least 20 seconds or using alcohol-based hand sanitizer,
-(ii) avoid contact hands with eyes, nose, and mouth, (iii)
-the use of disposable tissues or clothing when coughs
-and sneezes, (iv) health personnel must ensure PPE while
-working, (v) avoid interpersonal contact such as kissing,
-handshaking, and so on, (vi) avoid mass gathering and
-seek medical care when anyone feels fever, cough, and difficulty breathing, (ix) once a person is detected positive
-with COVID-19, he must be isolated for at least 14 days,
-(x) operation of public transportations such as local buses,
-launches, and trains should be limited for 2–3 weeks, and
-(xi) passengers return from abroad should be self-quarantined for 2 weeks.
-Specific recommendations to the government are as
-(i)		Apart from European flights, passengers from
-other infected countries such as China, the
-should undergo extensive screening and, if
-possible, should be kept in force isolation for 2
-weeks. Besides, the planes and luggage arriving from these countries should be disinfected.
-Compulsory screening of passengers must be
-maintained at all the entry points of Bangladesh.
-(ii)	Collaborative research between the WHO and
-government or nongovernment organizations
-should be carried out immediately to develop a
-vaccine for SARS-CoV-2.
-(iii)	Providing sufficient funds to conduct research
-on epidemiology, surveillance, and management
-of COVID-19 in Bangladesh.
-(iv)	Frequently circulate the news of public awareness and precautions about COVID-19 in mass
-Nothing to disclose.
-Conflict of interests
-Mohammad Shah Alam was involved in the planning and
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-Nazmul Hussain Nazir and Md. Abdullahil Baki Bhuiyan
-Beaudette FR, Hudson CB. Cultivation of the virus of infectious
-bronchitis. J Am Vet Med Assoc 1937; 90:51–60.
-Wang W, Lin XD, Guo WP, Zhou RH, Wang MR, Wang CQ et al.
-Discovery, diversity and evolution of novel coronaviruses sampled
-Gaunt ER, Hardie A, Claas EC, Simmonds P, Templeton KE.
-Epidemiology and clinical presentations of the four human coronaviruses 229E, HKU1, NL63, and OC43 detected over 3 years using
-a novel multiplex real-time PCR method. J Clin Microbiol 2010;
-Kahn JS, McIntosh K. History and recent advances in coronavirus
-Lin S, Lee CK, Lee SY, Kao CL, Lin CW, Wang AB, et al. Surface
-ultrastructure of SARS coronavirus revealed by atomic force
-Centers for Disease Control and Prevention CDC. Outbreak of
-severe acute respiratory syndrome--worldwide. MMWR-Morbid
-Mortal W 2003; 52(11): 226.
-World Health Organization (WHO). Novel coronavirus (2019-nCoV).
-default-source/coronaviruse/situation-reports/20200315-sitrep-55-covid-19.pdf?sfvrsn=33daa5cb_6 (Accessed 16 March
-Ashour HM, Elkhatib WF, Rahman MM, Elshabrawy HA. Insights
-into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light
-of Past Human Coronavirus Outbreaks. Pathogens 2020; 9(3): pii:
-Matoba Y, Aoki Y, Tanaka S, Yahagi K, Shimotai Y, Matsuzaki Y, et
-al. An outbreak of human coronavirus OC43 during the 2014–
-2015 influenza season in Yamagata, Japan. Jpn J Infect Dis 2015;
-Chen X, Chughtai AA, Dyda A, MacIntyre CR. Comparative epidemiology of Middle East respiratory syndrome coronavirus (MERSCoV) in Saudi Arabia and South Korea. Emerg Microbes Infec 2017;
-Ahmad T, Rodriguez-Morales AJ. Emergence of COVID-19 (formerly
-Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus
-disease-2019 (COVID-19): the epidemic and the challenges. Int J
-Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for
-virus origins and receptor binding. Lancet 2020; 395(10224):565–
-Jiang S, Du L, Shi Z. 2020. An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies. Emerg Microbes Infec 2020;
-Kim JY, Choe PG, Oh Y, Oh KJ, Kim J, Park SJ, et al. The first case
-of 2019 novel coronavirus pneumonia imported into Korea from
-Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel coronavirus from patients with pneumonia in China, 2019. New Engl J Med
-World Health Organization (WHO). Novel Coronavirus
-Chu YK, Ali GD, Jia F, Li Q, Kelvin D, Couch RC, et al. The SARSCoV ferret model in an infection–challenge study. Virology 2008;
-Mahase E. Coronavirus: covid-19 has killed more people than SARS
-and MERS combined, despite lower case fatality rate. BMJ 2020;
-World Health Organization. Water, sanitation, hygiene and waste
-management for COVID-19: technical brief, 03.03/2020 (No.
-The Prothom alo. DSE, CSE post massive plunge. Available via
-The India Today. PM Modi’s Dhaka trip cancelled after 3 coronavirus
-The Independent. Panic buying triggers mask, sanitiser crises.
-Casanova LM, Jeon S, Rutala WA, Weber DJ, Sobsey MD. Effects of
-air temperature and relative humidity on coronavirus survival on
-Booth TF, Kournikakis B, Bastien N, Ho J, Kobasa D, Stadnyk L,
-et al. Detection of airborne severe acute respiratory syndrome
-(SARS) coronavirus and environmental contamination in SARS
-Alghamdi IG, Hussain II, Almalki SS, Alghamdi MS, Alghamdi MM,
-El-Sheemy MA. 2014. The pattern of Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive epidemiological
-analysis of data from the Saudi Ministry of Health. Int J Gen Med
-Luo W, Majumder MS, Liu D, Poirier C, Mandl KD, Lipsitch
-M, et al. The role of absolute humidity on transmission
-Wang M, Jiang A, Gong L, Luo L, Guo W, Li C, et al. Temperature
-significant change COVID-19 Transmission in 429 cities. medRxiv
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features
-of patients infected with 2019 novel coronavirus in Wuhan,
-Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus
-Coronavirus disease (COVID-19) advice for the public. World
-Health Organization, Geneva, Switzerland, 2020. Available via
-Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch
-C, et al. Transmission of 2019nCoV Infection from an asymptomatic contact in Germany. New Engl J Med 2020; 382(10):970–1;
-Huda ASN, Mekhilef S, Ahsan A. 2014. Biomass energy in
-Bangladesh: current status and prospects. Renew Sust Energ Rev
-Eccles R. An explanation for the seasonality of acute upper respiratory tract viral infections. Acta Otolaryngol 2002; 122:183–91;
-Kudo E, Song E, Yockey LJ, Rakib T, Wong PW, Homer RJ, et al.
-Low ambient humidity impairs barrier function and innate resistance against influenza infection. Proc Natl Acad Sci USA 2019;
-Peiris JS, Guan Y, Yuen KY. Severe acute respiratory syndrome, Nat
-Verma GP. Fundamentals of histology. New Age International Pvt
-Zhao J, Zhao J, Van Rooijen N, Perlman S. Evasion by stealth.
-Inefficient immune activation underlies poor T cell response and
-severe disease in SARS-CoV infected mice. PloS Pathog 2009;
-Velavan TP, Meyer CG. The COVID‐19 epidemic. Trop Med Int
-Zu ZY, Jiang MD, Xu PP, Chen W, Ni QQ, Lu GM, et al. Coronavirus
-Disease 2019 (COVID-19): a perspective from China. Radiology
-Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, et al. Correlation of chest
-CT and RT-PCR testing in coronavirus disease 2019 (COVID-19) in
-Fang Y, Zhang H, Xie J, Lin M, Ying L, Pang P, et al. Sensitivity of chest
-CT for COVID-19: comparison to RT-PCR. Radiology 2020; 200432;
-Xie X, Zhong Z, Zhao W, Zheng C, Wang F, Liu J. Chest CT for typical 2019-nCoV pneumonia: relationship to negative RT-PCR
-To KKW, Tsang OTY, Yip CCY, Chan KH, Wu TC, Chan JMC, et al.
-Consistent detection of 2019 novel coronavirus in saliva. Clin
-Guarner J. Three emerging coronaviruses in two decades the
-story of SARS, MERS, and Now COVID-19. Am J Clin Pathol 2020;
-Xiaowei L, Manman G, Yizhao P, Liesu M, Shemin L. Molecular
-immune pathogenesis and diagnosis of COVID-19. J Pharmaceut
-de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS
-and MERS: recent insights into emerging coronaviruses. Nat
-Zumla A, Chan JF, Azhar EI, Hui DS, Yuen KY. Coronaviruses - drug
-The SARS, MERS and novel coronavirus (COVID-19) epidemics,
-the newest and biggest global health threats: what lessons have
-Yeo C, Kaushal S, Yeo D. Enteric involvement of coronaviruses: is faecal–oral transmission of SARS-CoV-2 possible?
-Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier
-RA. Isolation of a novel coronavirus from a man with pneumonia in
-n e w s - re l e a s e s / n i h - c l i n i c a l - t r i a l - i nve s t i g a t i o n a l - va c cine-covid-19-begins (Accessed 16 March 2020).
-Riou J, Althaus CL. Pattern of early human-to-human transmission
-of Wuhan 2019 novel coronavirus (2019nCoV), December 2019
-European Centre for Disease Prevention and Control (ECDC)
-Technical report. Infection prevention and control for the care
-of patients with 2019-nCoV in healthcare settings. Available via
-nove-coronavirus-infection-prevention-controlpatients-healthcare-settings.pdf (Accessed 12 February 2020).
-Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early transmission dynamics in Wuhan, China, of Novel Coronavirus-Infected
-Amodio E, Vitale F, Cimino L, Casuccio A, Tramuto F. Outbreak
-of Novel Coronavirus (SARS-Cov-2): First evidences from international scientific literature and pending questions. Healthcare
-Lu H. Drug treatment options for the 2019-new coronavirus
-Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir and
-Wang L, Shi W, Joyce MG, Modjarrad K, Zhang Y, Leung K, et
-al. Evaluation of candidate vaccine approaches for MERS-CoV.
-Morse JS, Lalonde T, Xu S, Liu WR. Learning from the past: possible urgent prevention and treatment options for severe acute
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
-respiratory infections caused by 2019‐nCoV. Chembiochem 2020;
-Wang M, Jiang A, Gong L, Luo L, Guo W, Li C, et al. Temperature
-significant change COVID-19 Transmission in 429 cities. medRxiv
- Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198–208, June 2020
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+transmission of COVID‐19 and deaths in different climatic regions
+are  caused by the variation of temperature and relative humidity
+in these countries or regions.  Although the mechanism of  trans‐
+mission  of  COVID‐19 is not fully understood, the recent studies
+of Huang et al.  [34] and Chan et al. [35] have  reported  human‐
+to‐human  transmission  through the respiratory droplets and sur‐
+face contact. The droplets are generated from the infected person
+through  his  coughs  or  sneezes, which could potentially infect
+others remaining in close contact  [36].  The  virus  within  the
+droplets  could  remain  viable on the surface of an object for a
+few days; thus, the nearby surroundings of an infected person are
+potential  sources  of  contamination.  The symptomatic (sickest)
+persons are thought to be most contagious. Moreover, recent  evi‐
+dence  suggests  that  a  person  without symptoms (asymptomatic)
+could potentially spread the pathogen during the incubation peri‐
+od [37].  Unlike SARS virus, the risk of contamination by COVID19
+virus through feces of an infected person is low [34].   Besides,
+there is no evidence of airborne dissemination of The subtropical
+monsoon climate in Bangladesh is characterized  by  heavy  summer
+rainfall and high summer temperature with often excessive humidi‐
+ty. The range of ambient temperature in the summer is 36C40C, and
+winter  temperature  is 8C15C [38]. If the studies of Wang et al.
+[29,33] are true and if the trend of disease occurrence  particu‐
+larly  in  the summer season. Although the mechanism of high tem‐
+perature and high humidity reduces the transmission  of  COVID‐19
+is  not  known  yet, in the case of temperatures, and respiratory
+droplets remain airborne longer in dry air [39,40]. Second,  cold
+and  dry  weather impairs mucociliary clearance, innate antiviral
+immunity, and tissue repair and makes them  more  susceptible  to
+the virus [41,42]. These mechanisms are also likely to applicable
+for the COVID‐19  transmission.   Pathogenesis  of  COVID‐19  The
+clinical  signs  and  symptoms are almost similar to that of SARS
+and MERS infections [43]. Hence,  although  the  pathogenesis  of
+COVID‐19 is poorly understood, the similar mechanisms of SARS and
+MERS still can give us a lot of information on  the  pathogenesis
+of  COVID‐19.   The  lungs  are made up of a mass of alveoli. The
+alveoli are responsible for gaseous exchange, providing oxygen to
+blood  flowing  through capillaries in the alveolar membrane. The
+alveolar walls are composed of type I and  type  II  pneumocytes,
+along with alveolar macrophages (Fig. 3) [44]. Type I pneumocytes
+are responsible for gaseous exchange with blood in the  capillar‐
+ies of the lungs. Type II pneumocytes are the progenitors of type
+I pneumocytes and are also responsible for  producing  surfactant
+[45].   SARS‐CoV  infection causes desquamation of pneumocytes by
+releasing inflammatory cytokine in humans and rats  and  alveolar
+swelling,  edema,  and hemorrhage in the lungs (Fig. 3) [46]. The
+virus also destroys alveolar macrophages that play  an  essential
+role  in local immune response [47].  In critical illness, uncon‐
+trolled inflammation, fluid accumulation, and developing fibrosis
+severely  compromise gas exchange and lead to respiratory failure
+[42].  Symptoms of COVID‐19 The symptoms of COVID‐19  are  either
+asymptomatic  (no  signs)  or symptomatic (non‐, mild‐, or severe
+pneumonia) [48]. The range of mild disease (i.e., nonpneumonia or
+mild  pneumonia)  is about 80% of cases (mostly curable), mildto‐
+severe pneumonia is about 14%, and critical illness is  about  6%
+of cases [22]. The critical illnesses lead to severe consequences
+such as a death in the case of the elderly or  other  people  who
+have severe chronic medical conditions such as heart disease, di‐
+abetes, and lung diseases [15].  Other common signs  of  COVID‐19
+infection  are  respiratory  symptoms, fever, coughing, sneezing,
+shortness of breath, Diagnosis of COVID‐19 infection As there are
+no  specific  therapeutic  drugs  or vaccines available for novel
+COVID‐19; therefore, it is essential to detect the disease at  an
+early  stage  so that immediate isolation of the patient could be
+undertaken. Thus, the radiological examination is  used  for  the
+early  detection  of COVID‐19 [49]. Thin‐slice chest CT functions
+are more effectively detecting pneumonia caused by COVID‐19 at  a
+very  early stage [50]. The sensitivity of CT for COVID‐19 infec‐
+tion was 98%, but it was much higher than the sensitivity (71%; p
+<  0.001) of RT‐PCR [49,51]. Although nucleic acid‐based (3%) pa‐
+tients, who had negative RT‐qPCR  for  COVID‐19  at  the  initial
+stage  of  COVID‐19  but  conduction of chest CT, confirmed viral
+pneumonia at the early stage.  The collection of samples for  the
+detection of the virus is a big challenge for the health workers.
+The recommended specimens for COVID‐19 diagnosis are  nasopharyn‐
+geal  and  oropharyngeal  swabs; however, the collection of these
+samples requires close contact with the patients, which  poses  a
+risk  of transmission of the viruses to the healthcare personnel.
+Therefore, saliva specimens are suggested because patients  could
+easily  spit  their saliva into a sterile bottle in a noninvasive
+way [53]. Meanwhile, real‐time RT‐PCR using blood samples gave  a
+very low percentage
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+and resident alveolar macrophages and pulmonary surfactant  exist
+in  the  airspace  (A).  In the acute phase of SARS‐CoV infection
+(B), type I and type II pneumocytes are infected and secrete  in‐
+flammatory  cytokines, whereas surfactant levels decrease. In se‐
+vere illness, inflammation, fluid  accumulation,  and  developing
+fibrosis  severely damage alveoli and lead to respiratory failure
+(C).  Clinical signs and Zoonotic transmission Incubation  period
+Bats  harbor  the three coronaviruses as a reservoir host.  It is
+still unclear whether the COVID‐19 transmitted from bats  to  hu‐
+mans  [10].  Then,  humanto‐human  transmission through droplets,
+personal (handshaking), and contaminated surface contact [34,35].
+It  seems to be more transmissible than SARS and 214 days [10,55]
+Mostly respiratory symptoms, such as fever, dry cough,  shortness
+of breath, and in the most severe cases, have pneumonia [10] Pri‐
+marily transmitted from bats to snakes, civet cats,  and  finally
+to  human [10]. Then, similar transmission to COVID‐19, including
+fecal [34,60].  210 days, up to 14 days [10] Primarily  transmit‐
+ted  from bats to camels and finally to human [10] and then human
+to human transmission via direct  respiratory  secretion  contact
+[34]  and  also fecal‐oral transmission [60].  days [10] Clinical
+diagnosis based on symptoms, history and chest imaging, and diag‐
+nosis by nucleic acid test, such as RT‐qPCR, deep sequencing, and
+ELISA [34,56].  No antiviral drug yet [57,58]. Oxygen  and  fluid
+therapy  and  antibiotics with oseltamivir [34,57,58].  In severe
+illness, corticosteroids are used  to  reduce  lung  inflammation
+[59].  Besides respiratory Similar to COVID‐19 symptoms [10], the
+virus is known to cause enteric symptom, such as diarrhea and ab‐
+dominal  pain,  and  finally  focal necrosis and nephritis in the
+kidney [60].  Similar to COVID‐19 Severe acute  respiratory  dis‐
+tress,  severe  pneumonia,  enteric  symptoms, and kidney failure
+[60,61].  Similar to COVID‐19 Similar to COVID‐19
+ Alam et al./ J. Adv. Vet. Anim. Res., 7(2):  198208,  June  2020
+(1%) of the positive results, and urine samples did not give pos‐
+itive results [54].  which provides the diagnostic facilities  of
+COVID‐19.  The  detection of COVID‐19 is a real‐time RT‐PCR‐based
+assay that requires skilled  human  resources  and  sophisticated
+laboratory  facilities.  To avoid false results and risks of bio‐
+logical hazards, the Government is not allowing any other private
+organizations  except IEDCR to perform this [27].  The rapid test
+kits are although available in Bangladesh, but the WHO  does  not
+approve  these  kits.   Prevention  and control of COVID‐19 It is
+popularly said that prevention is better than  cure.   Prevention
+of  COVID‐19 should be the prime strategy to restrict this deadly
+disease from a further outbreak in Bangladesh. The WHO  suggested
+that the transmission of COVID‐19 should be prevented by reducing
+the secondary infections among close  contact  with  persons  who
+suffer  from  acute  respiratory  infections.  Besides, the hands
+should be frequently washed after direct contact with a sick per‐
+son;  furthermore,  the  unprotected  contact  with  wild animals
+should be avoided. Moreover, the COVID‐19infected  person  should
+maintain  a good practice of cough etiquettes such as by covering
+coughs and sneezes with disposable tissues or clean  clothes,  by
+washing  hands, and by maintaining distance with noninfected per‐
+sons [15]. In addition to these preventive measures, the  Govern‐
+ment of Bangladesh should be undertaken stern actions against the
+passengers, such as strictly measuring their body temperature  or
+keep them in an isolation condition for 14 days at the land, sea,
+and airports after arrival from COVID‐19infected countries.   Ef‐
+fective  vaccines  are  essential to control the coronavirus out‐
+breaks. There are several  vaccination  strategies  used  against
+SARS‐CoV, and MERS‐CoV tested in animals, including a live‐atten‐
+uated virus, inactivated  virus,  subunit  vaccines,  recombinant
+DNA, and protein vaccines [62].  These studies are still underway
+to develop vaccines for Unlike SARS‐CoV and MERS‐CoV,  no  proven
+vaccines  so  far discovered against COVID‐19. However, the first
+trial of evaluating a vaccine against COVID‐19 has  begun  on  15
+March  2020 at kaiser permanente washington health promising tar‐
+gets for COVID‐19, but more clinical trials still should be need‐
+ed.   Management of COVID‐19 contamination Evidence suggests that
+the virus is  contaminated  from  human  to  human  very  rapidly
+[35,64]. Although complete elimination of COVID‐19 outbreak seems
+impossible, several key measures could reduce the possible trans‐
+mission  of  SARS‐CoV‐2  by avoiding the contact opportunities of
+outbreak, traveling and trade restrictions,  entry  screening  of
+the  travelers during outbreak period, isolation of infected cas‐
+es, and maintaining the physical distance within  the  workspace.
+In  this  backdrop, flexible working schedules/shifts for employ‐
+ees, the opportunity of distance  working/teleworking,  increased
+use  of  email  and teleconferences to reduce close contacts, re‐
+duced contact between employees and  customers,  reduced  contact
+between employees, promoting the use of other personal protective
+countermeasures, and  avoiding  mass  gathering,  such  as  sport
+events,  concerts,  religious  events, conferences, and so on are
+advised.  According to the WHO, the practice of good personal hy‐
+giene is essential [8,66]. Regularly washing hands with soaps and
+water and avoid touching the face with the hands are some ways to
+ensure  personal hygiene. Wearing a mask is not essential until a
+person is detected with SARSCoV‐2 to protect spreading the  virus
+to  the public [67]. The infected person should take rest at home
+or admit to the hospital for complete isolation for 14  days.  In
+case  of  emergency,  the  infected person should wear a surgical
+mask to protect others.  Potential treatments against COVID‐19 As
+we know, no effective treatments are available for viral diseases
+[57,58]. The supportive treatments such as oxygen  therapy,  con‐
+servation fluid management, and the use of broad‐spectrum antibi‐
+otics to treat secondary bacterial infection are still  practiced
+as  important  management  are  used  to reduce lung inflammation
+[59]. Some of the drugs such as oseltamivir, lopinavir/ritonavir,
+nucleoside analogs, neuraminidase inhibitors, remdesivir, umifen‐
+ovir, tenofovir disoproxil and lamivudine  (inhibitors),  chloro‐
+quine, and Shufeng Jiedu or Lianhua Qingwen capsules (traditional
+medicines of China) are advised to treat COVID19 [59,6870]. More‐
+over, some inhibitors such as 3CLpro (3CLpro‐1) and a novel vinyl
+sulfone protease and angiotensin‐converting enzyme 2 (ACE2)‐based
+peptide showed their potentiality against SARS‐CoV‐2 [71]. Usual‐
+ly, drugs are not effective against viral diseases. Recently,  an
+antiviral  drug Favilavir has approved by Chinas National Medical
+Products Administration on 16 February  2020  to  treat  COVID‐19
+[72]. This drug has produced by Zhejiang Hisun Pharmaceutical and
+marketed as  brand  name  Avigan  [73].   Current  challenges  of
+COVID‐19 in Bangladesh News such as Coronavirus Outbreak: Screen‐
+ing still lax at Dhaka airport in the Daily Star on 10 March 2020
+[74]
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+has frustrated the  governments  efforts  to  combat  the  deadly
+COVID‐19 in Bangladesh. Few initiatives have been observed at the
+Shah Jalal International Airport, such as  the  setting  of  some
+thermal  scanners  to  check the realtime body temperature of the
+passengers and filling up a health declaration form. However,  no
+disinfection  activities  and  none  of the confirmation tests by
+taking samples from the passengers body have performed. According
+to  the  WHO,  the disease could remain asymptomatic for up to 14
+days. Therefore, thermal  scanner  and  travel  history  are  not
+enough  measures  to  detect COVID‐19 among the passengers. Apart
+from passengers scanning, no initiatives have taken to  disinfect
+the  planes and luggage of the passengers.  There is a misconcep‐
+tion among the people of Bangladesh that the  disease  would  not
+sustain  in  the country due to the onset of summer when the tem‐
+perature would remain above 30C. However, the  recent  study  re‐
+ported  that  temperature  does  not  change  the transmission of
+COVID‐19 [46]; unlike the SARS virus, there is no  evidence  that
+the  outbreak  of COVID‐19 would be reduced at higher temperature
+[75].  Other challenges are (i) lack of laboratory facilities for
+the early detection of the disease, (ii) scarcity of medical sup‐
+plies, such as surgical masks and goggles, (iv) lack of  personal
+protective  equipment (PPE) for healthcare personnel, (iv) asymp‐
+tomatic transmission of COVID‐19 which could challenge  the  man‐
+agement  strategies  at risk [41], (v) lack of quarantine facili‐
+ties at the hospitals, (v) it is very  unfortunate  that  a  good
+number  of  people of Bangladesh are not maintaining good hygiene
+and sanitation practices, and (vi) until now, no  specific  drugs
+or vaccines have been proven effective against COVID‐19.  Global‐
+ly, as there are no vaccines discovered against novel coronavirus
+disease  COVID‐19;  therefore,  prevention and management are the
+best ways to tackle this deadly disease. By comparing the  global
+outbreak, confirmed cases are only 0.003% in Bangladesh [8]. How‐
+ever, stern actions should be taken immediately so  that  further
+penetration  of any case is not possible through the land‐, sea‐,
+and airports. Nationally, public awareness is the crucial  factor
+in protecting this disease. The health officials, doctors, and to
+educate them about the protection  and  safety  measures  against
+COVID‐19.   Early  and  quick detection are essential measures to
+stop the transmission of COVID‐19. The diagnostic  facilities  of
+Bangladesh  should be improved by providing the detection facili‐
+ties at all the divisional,  district,  and  upazilla  hospitals.
+Once  a  new case is detected, he should be isolated immediately.
+Some general recommendations are suggested as (i) as per the WHOs
+guidelines  [23],  hand  hygiene  must  be maintained by cleaning
+hands with soap and water for at least 20 seconds or using  alco‐
+hol‐based  hand  sanitizer,  (ii)  avoid contact hands with eyes,
+nose, and mouth, (iii) the use of disposable tissues or  clothing
+when  coughs  and  sneezes, (iv) health personnel must ensure PPE
+while working, (v) avoid interpersonal contact such  as  kissing,
+handshaking,  and so on, (vi) avoid mass gathering and seek medi‐
+cal care when anyone feels fever, cough, and  difficulty  breath‐
+ing,  (ix)  once  a person is detected positive with COVID‐19, he
+must be isolated for at least 14 days, (x)  operation  of  public
+transportations  such as local buses, launches, and trains should
+be limited for 23 weeks, and (xi) passengers return  from  abroad
+should be self‐quarantined for 2 weeks.  Specific recommendations
+to the government  are  as  (i)             Apart  from  European
+flights,  passengers from other infected countries such as China,
+the should undergo extensive screening and, if  possible,  should
+be  kept  in force isolation for 2 weeks. Besides, the planes and
+luggage arriving from  these  countries  should  be  disinfected.
+Compulsory  screening of passengers must be maintained at all the
+entry points of Bangladesh.  (ii)    Collaborative  research  be‐
+tween  the  WHO  and  government  or  nongovernment organizations
+should be carried out immediately to develop a vaccine for  SARS‐
+CoV‐2.  (iii)   Providing sufficient funds to conduct research on
+epidemiology,  surveillance,  and  management  of   COVID‐19   in
+Bangladesh.   (iv)    Frequently  circulate  the  news  of public
+awareness and precautions about COVID‐19 in mass Nothing to  dis‐
+close.   Conflict of interests Mohammad Shah Alam was involved in
+the planning and
+ Alam et al./ J. Adv. Vet. Anim. Res., 7(2):  198208,  June  2020
+Nazmul  Hussain  Nazir  and Md. Abdullahil Baki Bhuiyan Beaudette
+FR, Hudson CB. Cultivation of the virus of infectious bronchitis.
+J  Am  Vet Med Assoc 1937; 90:5160.  Wang W, Lin XD, Guo WP, Zhou
+RH, Wang MR, Wang CQ et al.  Discovery, diversity  and  evolution
+of novel coronaviruses sampled Gaunt ER, Hardie A, Claas EC, Sim‐
+monds P, Templeton KE.  Epidemiology and  clinical  presentations
+of  the  four  human coronaviruses 229E, HKU1, NL63, and OC43 de‐
+tected over 3 years using a novel multiplex real‐time PCR method.
+J  Clin  Microbiol  2010; Kahn JS, McIntosh K. History and recent
+advances in coronavirus Lin S, Lee CK, Lee SY, Kao  CL,  Lin  CW,
+Wang  AB,  et  al. Surface ultrastructure of SARS coronavirus re‐
+vealed by atomic force Centers for Disease Control and Prevention
+CDC.  Outbreak  of  severe acute respiratory syndrome‐‐worldwide.
+MMWR‐Morbid Mortal W 2003; 52(11): 226.  World  Health  Organiza‐
+tion (WHO). Novel coronavirus (2019‐nCoV).  default‐source/coron‐
+aviruse/situation‐re‐
+ports/20200315‐sitrep‐55‐covid‐19.pdf?sfvrsn=33daa5cb_6 (Accessed
+16 March Ashour HM, Elkhatib WF, Rahman MM,  Elshabrawy  HA.  In‐
+sights  into  the  Recent  2019 Novel Coronavirus (SARS‐CoV‐2) in
+Light of Past Human Coronavirus Outbreaks. Pathogens 2020;  9(3):
+pii:  Matoba Y, Aoki Y, Tanaka S, Yahagi K, Shimotai Y, Matsuzaki
+Y, et al. An outbreak of human coronavirus OC43 during  the  2014
+2015  influenza season in Yamagata, Japan. Jpn J Infect Dis 2015;
+Chen X, Chughtai AA, Dyda A, MacIntyre CR. Comparative epidemiol‐
+ogy  of Middle East respiratory syndrome coronavirus (MERSCoV) in
+Saudi Arabia and South Korea. Emerg Microbes Infec 2017; Ahmad T,
+Rodriguez‐Morales  AJ.  Emergence  of  COVID‐19 (formerly Lai CC,
+Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory  syn‐
+drome  coronavirus  2  (SARS‐CoV‐2)  and coronavirus disease‐2019
+(COVID‐19): the epidemic and the challenges. Int J Lu R, Zhao  X,
+Li  J,  Niu  P, Yang B, Wu H, et al. Genomic characterisation and
+epidemiology of 2019 novel coronavirus:  implications  for  virus
+origins  and  receptor binding. Lancet 2020; 395(10224):565 Jiang
+S, Du L, Shi Z. 2020. An emerging coronavirus  causing  pneumonia
+outbreak  in Wuhan, China: calling for developing therapeutic and
+prophylactic strategies. Emerg Microbes Infec 2020; Kim JY,  Choe
+PG,  Oh  Y,  Oh KJ, Kim J, Park SJ, et al. The first case of 2019
+novel coronavirus pneumonia imported into Korea from Zhu N, Zhang
+D,  Wang W, Li X, Yang B, Song J, et al. A novel coronavirus from
+patients with pneumonia in China, 2019.  New  Engl  J  Med  World
+Health  Organization (WHO). Novel Coronavirus Chu YK, Ali GD, Jia
+F, Li Q, Kelvin D, Couch RC, et al. The SARSCoV ferret  model  in
+an  infectionchallenge  study.  Virology  2008;  Mahase E. Coron‐
+avirus: covid‐19 has killed more people than SARS and  MERS  com‐
+bined,  despite  lower case fatality rate. BMJ 2020; World Health
+Organization. Water, sanitation, hygiene and waste management for
+COVID‐19: technical brief, 03.03/2020 (No.  The Prothom alo. DSE,
+CSE post massive plunge. Available via The India Today. PM  Modis
+Dhaka  trip  cancelled after 3 coronavirus The Independent. Panic
+buying triggers mask, sanitiser crises.  Casanova LM, Jeon S, Ru‐
+tala WA, Weber DJ, Sobsey MD. Effects of air temperature and rel‐
+ative humidity on coronavirus survival on Booth  TF,  Kournikakis
+B, Bastien N, Ho J, Kobasa D, Stadnyk L, et al. Detection of air‐
+borne severe acute respiratory syndrome  (SARS)  coronavirus  and
+environmental  contamination in SARS Alghamdi IG, Hussain II, Al‐
+malki SS, Alghamdi MS, Alghamdi MM, El‐Sheemy MA. 2014. The  pat‐
+tern  of  Middle  East  respiratory syndrome coronavirus in Saudi
+Arabia: a descriptive epidemiological analysis of data  from  the
+Saudi  Ministry  of Health. Int J Gen Med Luo W, Majumder MS, Liu
+D, Poirier C, Mandl KD, Lipsitch M, et al. The role  of  absolute
+humidity  on  transmission Wang M, Jiang A, Gong L, Luo L, Guo W,
+Li C, et al. Temperature significant change COVID‐19 Transmission
+in 429 cities. medRxiv
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical  fea‐
+tures  of patients infected with 2019 novel coronavirus in Wuhan,
+Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, et al. A  familial
+cluster  of  pneumonia associated with the 2019 novel coronavirus
+Coronavirus disease  (COVID‐19)  advice  for  the  public.  World
+Health  Organization,  Geneva,  Switzerland,  2020. Available via
+Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl  G,  Wallrauch
+C, et al. Transmission of 2019nCoV Infection from an asymptomatic
+contact in Germany. New Engl J Med 2020; 382(10):9701; Huda  ASN,
+Mekhilef  S, Ahsan A. 2014. Biomass energy in Bangladesh: current
+status and prospects. Renew Sust Energ Rev Eccles R. An  explana‐
+tion  for  the seasonality of acute upper respiratory tract viral
+infections. Acta Otolaryngol 2002; 122:18391;  Kudo  E,  Song  E,
+Yockey LJ, Rakib T, Wong PW, Homer RJ, et al.  Low ambient humid‐
+ity impairs barrier function and innate  resistance  against  in‐
+fluenza  infection.  Proc Natl Acad Sci USA 2019; Peiris JS, Guan
+Y, Yuen KY. Severe acute respiratory syndrome, Nat Verma GP. Fun‐
+damentals of histology. New Age International Pvt Zhao J, Zhao J,
+Van Rooijen N, Perlman S. Evasion by stealth.  Inefficient immune
+activation  underlies  poor T cell response and severe disease in
+SARS‐CoV infected mice. PloS Pathog 2009; Velavan TP,  Meyer  CG.
+The  COVID19  epidemic. Trop Med Int Zu ZY, Jiang MD, Xu PP, Chen
+W, Ni QQ, Lu GM, et al. Coronavirus Disease  2019  (COVID‐19):  a
+perspective  from  China.  Radiology Ai T, Yang Z, Hou H, Zhan C,
+Chen C, Lv W, et al. Correlation of chest CT and  RT‐PCR  testing
+in coronavirus disease 2019 (COVID‐19) in Fang Y, Zhang H, Xie J,
+Lin M, Ying L, Pang  P,  et  al.  Sensitivity  of  chest  CT  for
+COVID‐19:  comparison  to  RT‐PCR. Radiology 2020; 200432; Xie X,
+Zhong Z, Zhao W, Zheng C, Wang F, Liu J.  Chest  CT  for  typical
+2019‐nCoV  pneumonia:  relationship  to  negative  RT‐PCR To KKW,
+Tsang OTY, Yip CCY, Chan KH, Wu TC, Chan JMC, et al.   Consistent
+detection  of  2019  novel coronavirus in saliva. Clin Guarner J.
+Three emerging coronaviruses in two decades the  story  of  SARS,
+MERS,  and Now COVID‐19. Am J Clin Pathol 2020; Xiaowei L, Manman
+G, Yizhao P, Liesu M, Shemin L. Molecular immune pathogenesis and
+diagnosis  of  COVID‐19.  J Pharmaceut de Wit E, van Doremalen N,
+Falzarano D, Munster VJ. SARS  and  MERS:  recent  insights  into
+emerging  coronaviruses.  Nat Zumla A, Chan JF, Azhar EI, Hui DS,
+Yuen KY. Coronaviruses ‐ drug The SARS,  MERS  and  novel  coron‐
+avirus (COVID‐19) epidemics, the newest and biggest global health
+threats: what lessons have Yeo C, Kaushal S, Yeo D.  Enteric  in‐
+volvement  of  coronaviruses: is faecaloral transmission of SARS‐
+CoV‐2 possible?  Zaki AM, van Boheemen S, Bestebroer  TM,  Oster‐
+haus AD, Fouchier RA. Isolation of a novel coronavirus from a man
+with pneumonia in n e w s ‐ re l e a s e s / n i h ‐ c l i n i  c
+a  l  ‐  t  r  i  a  l ‐ i nve s t i g a t i o n a l ‐ va c cine‐
+covid‐19‐begins (Accessed 16 March 2020).  Riou  J,  Althaus  CL.
+Pattern  of early human‐to‐human transmission of Wuhan 2019 novel
+coronavirus (2019nCoV), December 2019 European Centre for Disease
+Prevention and Control (ECDC) Technical report. Infection preven‐
+tion and control for the  care  of  patients  with  2019‐nCoV  in
+healthcare  settings.  Available  via nove‐coronavirus‐infection‐
+prevention‐controlpatients‐healthcare‐settings.pdf  (Accessed  12
+February  2020).   Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et
+al. Early transmission dynamics in Wuhan, China, of Novel  Coron‐
+avirus‐Infected Amodio E, Vitale F, Cimino L, Casuccio A, Tramuto
+F. Outbreak of Novel Coronavirus  (SARS‐Cov‐2):  First  evidences
+from  international  scientific literature and pending questions.
+Healthcare Lu H. Drug treatment options for the  2019‐new  coron‐
+avirus Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remde‐
+sivir and Wang L, Shi W, Joyce MG, Modjarrad K, Zhang Y, Leung K,
+et  al.  Evaluation of candidate vaccine approaches for MERS‐CoV.
+Morse JS, Lalonde T, Xu S, Liu WR. Learning from the past: possi‐
+ble urgent prevention and treatment options for severe acute
+ Alam  et  al./  J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+respiratory infections caused by 2019nCoV. Chembiochem 2020; Wang
+M,  Jiang  A, Gong L, Luo L, Guo W, Li C, et al. Temperature sig‐
+nificant change COVID‐19 Transmission in 429 cities. medRxiv
+ Alam et al./ J. Adv. Vet. Anim. Res., 7(2): 198208, June 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

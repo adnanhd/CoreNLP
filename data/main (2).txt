@@ -1,403 +1,462 @@
-Heliyon 6 (2020) e04069
-Contents lists available at ScienceDirect
-Demographics and self-reported well-being of Brazilian adults as a function
-of pet ownership: A pilot study
-Renata Defelipe a, *, Carine Savalli b, Emma Otta a
-Departamento de Psicologia Experimental, Instituto de Psicologia, Universidade de S~
-ao Paulo, Av. Prof. Mello Moraes, 1721, 05508-030, S~
-ao Paulo, Brazil
-Departamento de Políticas Públicas e Saúde Coletiva, Universidade Federal de S~
-ao Paulo, 11015-020, Santos, Brazil
-A R T I C L E I N F O
-A B S T R A C T
-Pet ownership
-The goals of the present study were to investigate socio-demographic characteristics and well-being indicators
-associated with pet ownership. The respondents (N ¼ 801, 53.8% females; 56.2% with children) came from the
-ﬁve macro-regions of Brazil (8% North, 28% Northeast, 36% Southeast, 18% South, 10% Central-West). Their
-ages ranged from 20 to 50 years. Over half of the sample (60%) reported living with a pet. Logistic regression
-showed that residence type (to be owner versus renter) and parental status (to be childless versus to have children) were predictors of pet ownership. We found interaction between pet ownership and sex on well-being
-indicators: the Mann-Whitney test showed that men who owned a pet reported better sleep quality, better relationship with neighbors and less sadness; whereas women who owned a pet reported lower life organization. With
-respect to life satisfaction, no differences were found between pet owners and non-pet owners. Implications of our
-ﬁndings and new research directions are discussed. Our study was conducted before the Covid-19 pandemic. The
-survey should be reapplied during and after the pandemic, so that we can deepen our knowledge of the sociodemographic characteristics and subjective well-being indicators associated with pet ownership.
-Pets are animals maintained by humans in their households without
-an apparent function (Serpell, 1989; Serpell and Paul, 2011).1 They are
-named, and frequently considered members of the family. Many live
-inside the home, with access to the private space of the bedroom, and
-even share their owners' beds (Thompson and Smith, 2014). They have
-been described as serving the function of a "living security blanket" for
-children (Triebenbacher, 1998). Various theories exist to explain pet
-keeping in human households:2 (i) a deep rooted tendency to seek
-connection with nature, (ii) social buffering against negative effects of
-stress and isolation in modern urban societies, (iii) expectancy that the
-contact with animal companions promotes empathy and prosocial behaviors in children, (iv) ingrained propensity to project human mental
-states onto non-human species, (v) low cost byproduct of parental
-motivation explored by other species, and (vi) selectively neutral feature
-maintained by genetic drift (Herzog, 2011; Serpell, 2003; Serpell and
-In Brazil, dogs and cats are the most popular pets. In 2013, for the ﬁrst
-the number of dogs and cats owned. The estimated canine population
-was 52.2 million, and the feline population was 22.1 million, with 44.3%
-of households having at least one dog, and 17.7%, at least one cat (IBGE,
-2013). The National Household Sample Survey [Pesquisa Nacional por
-Amostra de Domicílios – PNAD] revealed that there were 44.9 million
-children aged 14 years or less, concluding that there were more pets than
-children in Brazil. The Brazilian Association of the Industry of Products
-for Pets [Associaç~ao Brasileira da Indústria de Produtos para Animais de
-Estimaç~ao]4 reported in 2015 that, even during the crisis faced by the
-country (Barbosa Filho, 2015), the pet market obtained a turnover of R$
-19.2 billion and an expansion of almost 7% compared to 2014 (Carvalho
-de Ostos, 2017). In 2018, Brazilians had an average expenditure with
-R. Defelipe et al.
-Heliyon 6 (2020) e04069
-their pets of R$ 294 per month (R$ 121 being destined dogs, and R$ 90,
-to cats) (Miranda and de Otoni, 2019). Few studies to date in Brazil have
-assessed pet owner's socio-demographic characteristics. These studies are
-more often conducted in other countries, as can be seen in two recent
-large-scale studies carried out in the US showing several
-socio-demographic factors associated with pet ownership. While Saunders et al. (2017) found that more pet owners were married, females,
-over 50 years old, homeowners, lived in a house, and had high household
-income (Saunders et al., 2017), Applebaum et al. (2020) did not ﬁnd
-signiﬁcant associations of pet ownership with gender and family income.
-Besides characterizing the socio-demographic proﬁle of pet owners,
-there are several studies that have discussed some beneﬁts regarding
-mental health and subjective well-being of pet ownership. Focusing on
-sleep quality, while Smith et al. (2018) found that co-sleeping with dogs
-apparently increased arousal and the frequency of wake ups in humans,
-Hoffman et al. (2018) showed that dogs were perceived as bed partners
-less disturbing than humans, promoting stronger feelings of comfort and
-and help to cope with stress. Serpell (1991) also found that people who
-adopted dogs or cats experienced one month later an important reduction
-in minor health problems including headaches and painful joints. Some
-studies have found that pet ownership is associated with lower levels of
-depression (e.g., Clark Cline, 2010), while others have not found such
-association (e.g., Siegel et al., 1999). In relation to social interactions,
-one study pointed out that pet ownership is positively associated with
-perceptions of neighborhood friendliness, favor exchanges, civic
-engagement, and sense of community (Bulsara et al., 2007). Also, dog
-owners showed more interest in the neighborhood (Cutt et al., 2008) and
-presented higher chances to engage in a conversation with strangers
-during a walk (McNicholas and Collis, 2000). Regarding conscientiousness, Allen et al. (2000) reported that pet owners expressed a sense of
-responsibility for their pets, which contributed to the structure and organization of their everyday lives. Daily routines of pet maintenance
-motivated physical exercise including daily walks, grooming and bathing, veterinary visits, and social events with other pet owners. In the
-same line, other studies showed that people who owned dogs walked
-more and were more likely to exercise regularly than non-pet owners
-(Serpell, 1991; Cutt et al., 2008; Brown and Rhodes, 2006).
-The disregard of sociodemographic characteristics might be one
-Cline (2010) showed no main effects of pet ownership on depression, but
-found interaction effects with sex and relationship status, with more
-beneﬁcial effects for women and for singles. It is possible that for married
-individuals to take care for a pet represents a burden, whereas for those
-living alone it may reduce loneliness (Branson et al., 2017).
-2.1. Participants & procedure
-The sample was composed of 801 Brazilians, 431 females (53.8%)
-and 370 males (46.2%). The respondents came from the ﬁve macroregions of Brazil (8% North, 28% Northeast, 36% Southeast, 18%
-South, and 10% Central-West). Ages ranged from 20 to 50 years (M ¼
-34.35 years, SD ¼ 8.41) and were divided into three groups: 20–29
-(36.1%), 30–39 (33.7%), 40–50 (30.2%). Over half of the sample had
-The inclusion criteria were: Brazilian, over 18 years old and access/
-2018, using quota sampling deﬁned by sex, age, and social class. The
-study was approved (Protocol Number 80833817.6.0000.5561) by the
-2.2.1. Socio-demographic data form
-The socio-demographic data form collected information regarding
-sex, age, marital status (single, cohabiting, married, divorced, widow/
-er), parenthood (childless, with children), region of residence (North,
-Northeast, Center-West, Southeast, South), household type (house,
-apartment) and status (owner, renter), educational level (elementary
-familiar income (<R$2,000; R$2,000-R$4,000; R$4,000-R$8,000;
->R$8,000; 1US Dollar ¼ 5.13 Brazilian Reais).
-2.2.2. Pet ownership status
-A single-item 'yes' or 'no' question was designed to ascertain pet
-2.2.3. Well-being self-report measures
-Respondents were asked, on a 11-point rating scale with verbal
-anchors in each pole, to report their: Sleep quality (Do you sleep well? 0 I do not sleep well to 10 - I sleep extremely well); Physical ﬁtness (Are you in
-good physical shape? 0 - I am in terrible physical shape to 10 - I am in great
-physical shape); Sadness (Are you a sad person? 0 - Not sad at all to 10 Extremely sad); Depression (Do you feel depressed in your life? 0 - Not
-depressed at all to 10 - Extremely depressed); Personal life's organization
-(Are you an Organized Person? 0 - Not organized at all to 10 - Extremely
-organized); Relationships with neighbors (How are your relationships with
-neighbors? 0 - Not good to 10 - Extremely good); and Life satisfaction
-(Thinking about your life nowadays, how satisﬁed are you? 0 - Not satisﬁed
-at all to 10 - Extremely satisﬁed). Negatively-worded items (Sadness and
-Depression) were reverse coded before analysis, so that high values
-express better well-being, that is, lower sadness and depression. The
-questionnaire used in his study is available as supplementary ﬁle (Appendix 1). These questions about well-being took part of the CPBEC
-material which assessed opinions and attitudes of Brazilian population
-according to the Organization for Economic Co-operation and Development (OECD) Guidelines on Measuring Subjective Well-being.
-This research was conducted by the Center for Applied Research on
-ﬁrst goal was to explore differences between pet owners and non-pet
-owners with respect to nine socio-demographic factors (sex, age,
-household type and status, marital status, parenthood, region of residence, educational level, familiar income). The second goal was to
-compare pet owners and non-pet owners with respect to seven selfreported well-being indicators (sleep quality, sadness, depression,
-neighborhood relationships, level of life organization, physical ﬁtness,
-and life satisfaction). Given the exploratory nature of the present study,
-the analyses of association among pet ownership, socio-demographic
-factors, and well-being indicators were carried out with due caution
-with regard to assuming causal relationships.
-2.2.4. Satisfaction with Life Scale
-Respondents also evaluated their life satisfaction through the validated Brazilian version of Diener's 5-item Satisfaction with Life Scale
-(SWLS). It includes items such as “In most ways, my life is close to my
-ideal” and “So far, I have gotten the important things I want in life”, using
-a 7-point scale that ranges from 1 strongly disagree to 7 strongly agree
-(Diener et al., 1985; Zanon et al., 2013).
-R. Defelipe et al.
-Heliyon 6 (2020) e04069
-were performed using the Mann-Whitney U test (Deshpande et al., 2017).
-Since sex factor was associated with some of these measures, comparisons between pet and non-pet owners were performed separately by sex.
-2.3. Statistical analyses
-Statistical analyses were conducted using the software Statistical
-Package for Social Sciences, version 26 (SPSS 26). In all analyses, the
-signiﬁcance level adopted was 5%. Initially data screening was carried
-out to check data integrity, by verifying inconsistencies, improbable
-response patterns (e.g., same response to most items) and missing values
-(Osborne, 2013). There were no missing data, but in total ﬁve cases
-considered outliers in their response patterns were ﬁltered out, which
-resulted in N ¼ 801. The chi-square test of independence compared the
-proportion of respondents that owned or not a pet regarding to nine
-categorical socio-demographic characteristics (sex, age group, region of
-residence, residence type, residence status, marital status, educational
-level, familiar income, and parenthood). A multivariate logistic analysis
-considered pet ownership as the response and included the variables that
-were signiﬁcant in the previous univariate analyses as predictors (sex,
-parenthood, and residence type). All odds ratio's and respective conﬁdence intervals presented were obtained from the logistic regression. In
-addition, comparisons of pet owners and non-pet owners on each of the
-Self-report Well-being measures (physical ﬁtness, sleep quality, sadness,
-depression, personal life's organization, and relationship with neighbors)
-Sixty percent of the respondents owned pets (χ2 ¼ 29.225, N ¼ 801, df
-3.1. Socio-demographic characteristics assessed in relation to pet
-owning a pet for a respondent who lived in a house was 2.338 times
-higher (95% CI: 1.531–3.570) than for a respondent who lived in an
-apartment. In addition, residence status had just a marginally signiﬁcant
-effect. Residence owners had higher odds of owning pets than renters.
-Family income had also just a marginally signiﬁcant effect. There were
-fewer pet owners in the lowest income range (<R$2,000) in comparison
-to the second income range (R$ 2,000–4,000). No signiﬁcant association
-Demographics characteristic
-Pet ownership
-Residence type
-Residence status
-Familiar income
-With children
-Residence type
-With children
-R. Defelipe et al.
-Heliyon 6 (2020) e04069
-95% CI for Exp (B)
-Residence type
-of self-organization.
-association with pet ownership was found for marital status nor for age
-In addition, only the signiﬁcant socio-demographic variables found
-by the Chi-square tests (residence type, parenthood, and sex) were
-included into the multivariate logistic regression model as predictors (see
-the ﬁnal logistic regression model was well ﬁtted (p ¼ 0.884).
-3.2. Well-being self-reported measures associated with pet ownership
-Signiﬁcant differences were found between males and females for
-sadness (Mann–Whitney U test, U ¼ 64057,5, p < 0.001), and depression
-(Mann–Whitney U test ¼ 68750, p ¼ 0.001). Males reported more
-absence of Sadness (Median males ¼ 7, IQR ¼ 5–9; Median females ¼ 6,
-IQR ¼ 4–8) and Depression (Median males ¼ 7, IQR ¼ 4–10; Median
-females ¼ 6, IQR ¼ 3–9). Separating the sample by sex, we found an
-interaction effect between pet ownership and sex. Among males (N ¼
-370), pet owners reported better relationships with neighbors (Mann–Whitney U test, U ¼ 14668.5, p ¼ 0.028), better sleep quality (Mann–Whitney U test, U ¼ 14924.5, p ¼ 0.005) and tended to report less
-sadness (Mann–Whitney U test, U ¼ 15165.5, p ¼ 0.088) than non-pet
-regarding physical ﬁtness, depression and personal life's organization.
-Among females (N ¼ 431), pet owners reported somewhat worse organization of personal life than non-pet owners (Mann–Whitney U test, U ¼
-for all other well-being measures. With respect to life satisfaction, no
-differences were found between pet owners and non-pet owners, neither
-for the sample as a whole, nor for the sex-segmented sample.
-regarding relationship with neighbors, sleep quality and sadness.
-with pet ownership was found for educational level nor for region of
-1.313 greater chances of owning a pet (95% CI: 0.971–1.774) than men.
-owning a pet for a respondent that had children was 0.711 times smaller
-(95% CI: 0.523–0.967) than for childless respondents. No signiﬁcant
-In short, our study showed that: (1) pets were present in more than
-half of the Brazilian homes (60%), (2) to be a homeowner and childless
-enhanced the odds of owning a pet, and (3) men who owened a pet
-presented better well-being indicators (better sleep quality, better
-relationships with neighbors, and less sadness) than women (lower life
-R. Defelipe et al.
-Heliyon 6 (2020) e04069
-Our study was conducted before the Covid-19 pandemic. The survey
-can be reapplied during and after the pandemic, so that we can deepen
-our knowledge of the socio-demographic characteristics and subjective
-well-being indicators associated with pet ownership. Life perspectives
-and motivational priorities may change in times of great challenges that
-bring growing mental health concerns. The value of a pet's company may
-be rethought. There may be increasing recognition of their positive
-impact on human health and subjective well-being as human social
-distancing increases. At the time of this publication, infectious diseases
-specialists do not have evidence that companion animals can spread
-COVID-19 to other animals or to people (AVMA, 2020).
-Five socio-demographic variables (residence type and status, family
-income, sex, and parenthood) distinguished pet owners from non-pet
-owners. Respondents who resided in houses were more likely to be pet
-owners than those who lived in apartments, probably due to space
-availability. This was found in other studies, in Brazil (Seraﬁni et al.,
-2008), and also in Ireland (Hepper and Wells, 1997; Downes et al., 2011).
-In addition, in our study renters tended to report less pet ownership
-compared to homeowners. There are rental agreements that contain
-no-pet clauses. Although there is no law that speciﬁcally addresses the
-issue of pets, the homeowner has the right to deny rent to anyone for
-whatever reasons he/she wishes because the residence is his/her property. The same happens in US where, according to O'Reilly-Jones (2019),
-homeowner-imposed restrictions disproportionately impact low-income
-Although the sex difference regarding pet ownership was relatively
-small, we found that females had higher chances to be pet owners than
-males. In surveys conducted in 11 Eurasian countries (Phillips et al.,
-2011) and in US (Dotson and Hyatt, 2008), females were the pets' primary caregivers. This may have also happened in our study, but, to know
-for sure, this question should be examined more directly in future studies.
-In our study, childless respondents were more likely to own a pet
-compared to those who had children. This result is in line with the idea
-that pets can serve as substitutes for friends, spouses or children, especially in today's society where people feel socially isolated and have
-fewer children (Chur-Hansen, 2010; Antonacopoulos and Pychyl, 2010).
-In summary, in the current study, pet owners tended to live in houses, to
-be homeowners, females, and childless.
-We further investigated the relationship of pet ownership and sex
-with well-being self-reported measures. This analysis showed that females, regardless of pet ownership status, reported somewhat more
-depression and sadness than males. These results are consistent with
-ﬁndings from other studies that have shown that females experience
-more negative emotions (Else-Quest et al., 2012), and are more vulnerable to develop general anxiety disorder, post-traumatic stress, and
-depression than males (Kessler, 2003; Victor et al., 2017). In our study,
-we found interaction between pet ownership and sex. However, contrary
-to our expectation (see Clark Cline, 2010), we found that pet ownership
-was associated with better sleep quality, better relationships with
-neighbors and less sadness among men, and lower life organization
-among women. Other studies showed that pet owners, regardless of sex,
-fell asleep more easily than non-pet owners (Coleman et al., 2008; Mein
-& Grant, 2018). Pets may provide humans with opportunities of: (a)
-social interaction and closeness (being represented here by better relationships with neighbors), and (b) worth reassurance and feelings of
-protection (being represented here by less sadness) (e.g., Staats et al.,
-2008). These opportunities may also mediate the better quality of sleep
-associated with animal companionship. Some pet owners may share their
-beds with dogs, and this may promote good sleep via increased feelings of
-comfort and security. Future studies could investigate the association
-with the place where pets sleep in the house among pet owners. Finally,
-we highlight that the lower level of life organization reported by female
-pet owners was an unexpected result. Allen, Kellegrew, and Jaffe (2000)
-found that pet owners structured more their everyday lives, becoming
-more and not less organized. However, we could consider that non-pet
-owners may prioritize a neat and clean home, whereas pet owners may
-prioritize mitigation of social isolation (Fishbein and Ajzen, 1975).
-Although pet ownership can bring more structure to daily routines, when
-life is too busy, having a pet can represent a burden for the pet's primary
-caregiver, disorganizing daily routines. This is a hypothesis that should
-be investigated in future studies. In the present study, pet owners did not
-differ in life satisfaction from non-pet owners, neither considering the
-single-item life satisfaction measure used nor Diener's 5-item Satisfaction
-with Life Scale (SWLS). This result is different from Applebaum's et al.
-were more satisﬁed with their lives than non-pet owners (Bao & Schreer,
-4.1. Limitations and future research
-One limitation of our study is that the survey offered only one question about pet ownership, with a “yes” or “no” answer choice that did not
-allow respondents to tell what type of pet they owned. Moreover, to
-establish causal associations on pet ownership and mental health, it
-would be necessary to implement a longitudinal study comparing
-repeated well-being self-reports from pet owners and non-pet owners,
-controlling both groups by sociodemographic characteristics, to identify
-what kind of mental health improvement could be attributed, in fact, to
-pet ownership.
-R. Defelipe: Performed the experiments; Contributed reagents, materials, analysis tools or data; Wrote the paper.
-C. Savalli: Analyzed and interpreted the data; Wrote the paper.
-E. Otta: Conceived and designed the experiments; Analyzed and
-interpreted the data; Wrote the paper.
-Funding statement
-This work was supported by S~ao Paulo Research Foundation and
-Natura Cosmeticos S.A [grants numbers 2014/50282-5, 2017/11748-7]
-and Brazilian National Research Council (CNPq) [grant number 304740/
-Competing interest statement
-Additional information
-Allen, J.M., Kellegrew, D.H., Jaffe, D., 2000. The experience of pet ownership as a
-meaningful occupation. Can. J. Occup. Ther. 67 (4), 271–278.
-AVMA, 2020. Covid-19: what Veterinarians Need to Know: AVMA. Retrieved April 9,
-Antonacopoulos, N.M.D., Pychyl, T.A., 2010. An examination of the potential role of pet
-ownership, human social support and pet attachment in the psychological health of
-individuals living alone. Anthrozo€
-Applebaum, J.W., Peek, C.W., Zsembik, B.A., 2020. Examining US pet ownership using
-the general social survey. Soc. Sci. J. 1–10.
-Bao, K.J., Schreer, G., 2016. Pets and happiness: examining the association between pet
-ownership and wellbeing. Anthrozo€
-Barbosa Filho, N., 2015. O desaﬁo macroecon^
-omico de 2015-2018 [The macroeconomic
-challenge 2015–2018]. Braz. J. Polit. Econ. 35 (3), 403–425.
-Branson, Sandy M., Boss, Lisa, Cron, Stanley, Turner, Dennis C., 2017. Depression,
-loneliness, and pet attachment in homebound older adult cat and dog owners.
-J. Mind Med. Sci. 4 (1), 38–48.
-Brown, S.G., Rhodes, R.E., 2006. Relationships among dog ownership and leisure-time
-walking in Western Canadian adults. Am. J. Prev. Med. 30 (2), 131–136.
-R. Defelipe et al.
-Heliyon 6 (2020) e04069
-Miranda, Y.A., de Otoni, S.S., 2019. Guarda dos animais domesticos nos casos de
-dissoluç~ao do vínculo conjugal. Revista Cientíﬁca FAESA 15 (1 Especial), 60–69.
-O'Reilly-Jones, K., 2019. When Fido is family: how landlord-imposed pet bans restrict
-access to housing. Columbia J. Law Soc. Probl. 52 (3), 427–472.
-Osborne, J.W., 2013. Best Practices in Data Cleaning. Sage, Los Angeles, CA.
-Phillips, C., Izmirli, S., Aldavood, J., Alonso, M., Choe, B., Hanlon, A., et al., 2011. An
-international comparison of female and male students’ attitudes to the use of animals.
-Saunders, J., Parast, L., Babey, S.H., Miles, J.V., 2017. Exploring the differences between
-pet and non-pet owners: implications for human-animal interaction research and
-policy. PloS One 12 (6), e0179494.
-Seraﬁni, C.A.V., Rosa, G.A., Guimaraes, A.M.S., De Morais, H.A., Biondo, A.W., 2008.
-Survey of owned feline and canine populations in apartments from a neighbourhood
-in Curitiba, Brazil. Zoonoses Public Health 55 (8-10), 402–405.
-Serpell, J.A., 1989. Pet-keeping and animal domestication: a reappraisal. In: CluttonBrock, J. (Ed.), The Walking Larder: Patterns of Domestication, Pastorialism and
-Predation. Unwin Hyman, London, pp. 10–21.
-Serpell, J., 1991. Beneﬁcial effects of pet ownership on some aspects of human health and
-behaviour. J. R. Soc. Med. 84 (12), 717–720.
-Serpell, J., 2003. Anthropomorphism and anthropomorphic selection—beyond the “cute
-response”. Soc. Anim. 11 (1), 83–100.
-Serpell, J.A., Paul, E.S., 2011. Pets in the family: an evolutionary perspective. In:
-Salmon, C.A., Shackelford, T.K. (Eds.), The Oxford Handbook of Evolutionary Family
-Siegel, J.M., Angulo, F.J., Detels, R., Wesch, J., Mullen, A., 1999. AIDS diagnosis and
-depression in the Multicenter AIDS Cohort Study: the ameliorating impact of pet
-ownership. AIDS Care 11 (2), 157–170.
-Smith, B.P., Browne, M., Mack, J., Kontou, T.G., 2018. An exploratory study of
-human–dog co-sleeping using actigraphy: do dogs disrupt their owner’s sleep?
-Staats, S., Wallace, H., Anderson, T., 2008. Reasons for companion animal guardianship
-(pet ownership) from two populations. Soc. Anim. 16 (3), 279–291.
-Thompson, K., Smith, B., 2014. Should we let sleeping dogs lie… with us? Synthesizing
-the literature and setting the agenda for research on human-animal co-sleeping
-practices. Humanimalia 6 (1), 114–127.
-Triebenbacher, S., 1998. Pets as transitional objects: their role in children's emotional
-development. Psychol. Rep. 82 (1), 191–200.
-Victor, T.A., Drevets, W.C., Misaki, M., Bodurka, J., Savitz, J., 2017. Sex differences in
-neural responses to subliminal sad and happy faces in healthy individuals:
-implications for depression. J. Neurosci. Res. 95 (1-2), 703–710.
-Zanon, C., Bardagi, M.P., Layous, K., Hutz, C.S., 2013. Validation of the satisfaction with
-life scale to Brazilians: evidences of measurement noninvariance across Brazil and
-US. Soc. Indicat. Res. 119 (1), 443–453.
-Bulsara, M., Wood, L., Giles-Corti, B., Bosch, D., 2007. More than a furry companion: the
-ripple effect of companion animals on neighborhood interactions and sense of
-community. Soc. Anim. 15 (1), 43–56.
-Carvalho de Ostos, N.S., 2017. Uni~ao Internacional Protetora dos Animais de S~ao Paulo:
-aticas, discursos e representaç~
-oes de uma entidade nas primeiras decadas do seculo
-XX. Rev. Bras. Hist. 37 (75), 297–318.
-Chur-Hansen, A., 2010. Grief and bereavement issues and the loss of a companion animal:
-people living with a companion animal, owners of livestock, and animal support
-workers. Clin. Psychol. 14 (1), 14–21.
-Coleman, K.J., Rosenberg, D.E., Conway, T.L., Sallis, J.F., Saelens, B.E., Frank, L.D., et al.,
-2008. Physical activity, weight status, and neighborhood characteristics of dog
-walkers. Prev. Med. 47 (3), 309–312.
-Clark Cline, K.M., 2010. Psychological effects of dog ownership: role strain, role
-enhancement, and depression. J. Soc. Psychol. 150 (2), 117–131.
-Cutt, H., Giles-Corti, B., Knuiman, M., Timperio, A., Bull, F., 2008. Understanding dog
-owners’ increased levels of physical activity: results from RESIDE. Am. J. Publ. Health
-Deshpande, J.V., Naik-Nimbalkar, U., Dewan, I., 2017. Nonparametric Statistics: Theory
-and Methods. World Scientiﬁc, New Jersey.
-Diener, E., Emmons, R.A., Larsen, R.J., Grifﬁn, S., 1985. The satisfaction with life scale.
-J. Pers. Assess. 49, 71–75.
-Dotson, M.J., Hyatt, E.M., 2008. Understanding dog–human companionship. J. Bus. Res.
-Downes, M.J., Clegg, T.A., Collins, D.M., McGrath, G., More, S.J., 2011. The spatial
-distribution of pet dogs and pet cats on the island of Ireland. BMC Vet. Res. 7 (1), 28.
-Else-Quest, N.M., Higgins, A., Allison, C., Morton, L.C., 2012. Gender differences in selfconscious emotional experience: a meta-analysis. Psychol. Bull. 138 (5), 947–981.
-Fishbein, M., Ajzen, I., 1975. Belief, Attitude, Intention, and Behavior. An Introduction to
-Theory and Research. Addison-Wesley, Reading, MA.
-Hepper, P.G., Wells, D.L., 1997. Pet ownership and adults' views on the use of animals.
-Soc. Anim. 5 (1), 45–63.
-Herzog, H., 2011. The impact of pets on human health and psychological well-being fact,
-ﬁction, or hypothesis? Curr. Dir. Psychol. Sci. 20 (4), 236–239.
-Hoffman, C.L., Stutz, K., Vasilopoulos, T., 2018. An examination of adult women’s sleep
-quality and sleep routines in relation to pet ownership and bedsharing. Anthrozo€
-Statistics], 2013. National Health Research 2013. [Internet]. IBGE, Rio de Janeiro.
-Kessler, R.C., 2003. Epidemiology of women and depression. J. Affect. Disord. 74 (1),
-McNicholas, J., Collis, G.M., 2000. Dogs as catalysts for social interactions: robustness of
-the effect. Br. J. Psychol. 91 (1), 61–70.
-Mein, G., Grant, R., 2018. A cross-sectional exploratory analysis between pet ownership,
-sleep, exercise, health and neighborhood perceptions: the Whitehall II cohort study.
+Heliyon 6 (2020) e04069 Contents lists available at ScienceDirect
+Demographics and self‐reported well‐being of Brazilian adults  as
+a  function of pet ownership: A pilot study Renata Defelipe a, *,
+Carine Savalli b, Emma Otta a Departamento de Psicologia  Experi‐
+mental, Instituto de Psicologia, Universidade de S~ ao Paulo, Av.
+Prof. Mello Moraes, 1721, 05508‐030, S~ ao Paulo, Brazil Departa‐
+mento  de  Polticas Pblicas e Sade Coletiva, Universidade Federal
+de S~ ao Paulo, 11015‐020, Santos, Brazil A R T I C L E I N F O A
+B  S  T R A C T Pet ownership The goals of the present study were
+to investigate socio‐demographic characteristics  and  well‐being
+indicators  associated  with  pet  ownership.  The respondents (N
+801, 53.8% females; 56.2% with children) came from the ve  macro‐
+regions  of  Brazil  (8% North, 28% Northeast, 36% Southeast, 18%
+South, 10% Central‐West). Their ages ranged from 20 to 50  years.
+Over  half of the sample (60%) reported living with a pet. Logis‐
+tic regression showed that residence type  (to  be  owner  versus
+renter) and parental status (to be childless versus to have chil‐
+dren) were predictors of pet ownership. We found interaction  be‐
+tween  pet  ownership and sex on well‐being indicators: the Mann‐
+Whitney test showed that men who  owned  a  pet  reported  better
+sleep  quality,  better relationship with neighbors and less sad‐
+ness; whereas women who owned a pet reported lower life organiza‐
+tion.  With  respect  to  life  satisfaction, no differences were
+found between pet owners and non‐pet owners. Implications of  our
+ndings  and  new research directions are discussed. Our study was
+conducted before the Covid‐19  pandemic.  The  survey  should  be
+reapplied  during  and  after the pandemic, so that we can deepen
+our knowledge of the sociodemographic characteristics and subjec‐
+tive  well‐being  indicators associated with pet ownership.  Pets
+are animals maintained by humans in their households  without  an
+apparent  function (Serpell, 1989; Serpell and Paul, 2011).1 They
+are named, and frequently considered members of the family.  Many
+live  inside  the  home,  with access to the private space of the
+bedroom, and even share their owners’ beds (Thompson  and  Smith,
+2014).  They  have  been  described  as serving the function of a
+"living security blanket"  for  children  (Triebenbacher,  1998).
+Various  theories  exist  to  explain pet keeping in human house‐
+holds:2 (i) a deep rooted tendency to seek  connection  with  na‐
+ture,  (ii)  social  buffering against negative effects of stress
+and isolation in modern urban societies,  (iii)  expectancy  that
+the contact with animal companions promotes empathy and prosocial
+behaviors in children, (iv) ingrained propensity to project human
+mental  states  onto non‐human species, (v) low cost byproduct of
+parental motivation explored by other species,  and  (vi)  selec‐
+tively neutral feature maintained by genetic drift (Herzog, 2011;
+Serpell, 2003; Serpell and In Brazil, dogs and cats are the  most
+popular  pets.  In  2013, for the rst the number of dogs and cats
+owned. The estimated canine population was 52.2 million, and  the
+feline population was 22.1 million, with 44.3% of households hav‐
+ing at least one dog, and 17.7%, at least one cat  (IBGE,  2013).
+The  National  Household  Sample  Survey  [Pesquisa  Nacional por
+Amostra de Domiclios  PNAD] revealed that there were 44.9 million
+children  aged  14 years or less, concluding that there were more
+pets than children in Brazil. The Brazilian  Association  of  the
+Industry  of Products for Pets [Associa~ao Brasileira da Indstria
+de Produtos para Animais de Estima~ao]4 reported  in  2015  that,
+even  during  the  crisis  faced  by  the country (Barbosa Filho,
+2015), the pet market obtained a turnover of R$ 19.2 billion  and
+an  expansion  of  almost 7% compared to 2014 (Carvalho de Ostos,
+2017). In 2018, Brazilians had an average expenditure with R. De‐
+felipe  et  al.  Heliyon 6 (2020) e04069 their pets of R$ 294 per
+month (R$ 121 being destined dogs, and R$ 90, to  cats)  (Miranda
+and  de Otoni, 2019). Few studies to date in Brazil have assessed
+pet owner’s socio‐demographic characteristics. These studies  are
+more  often  conducted  in other countries, as can be seen in two
+recent large‐scale studies carried out in the US showing  several
+socio‐demographic  factors  associated  with pet ownership. While
+Saunders et al. (2017) found that more pet owners  were  married,
+females, over 50 years old, homeowners, lived in a house, and had
+high household income (Saunders et al., 2017), Applebaum  et  al.
+(2020)  did  not  nd signicant associations of pet ownership with
+gender and family income.  Besides characterizing the socio‐demo‐
+graphic  prole of pet owners, there are several studies that have
+discussed some benets  regarding  mental  health  and  subjective
+well‐being  of  pet  ownership.  Focusing on sleep quality, while
+Smith et al. (2018) found that co‐sleeping with  dogs  apparently
+increased  arousal and the frequency of wake ups in humans, Hoff‐
+man et al. (2018) showed that dogs were perceived as bed partners
+less  disturbing than humans, promoting stronger feelings of com‐
+fort and and help to cope with stress. Serpell (1991) also  found
+that  people who adopted dogs or cats experienced one month later
+an  important  reduction  in  minor  health  problems   including
+headaches  and  painful  joints. Some studies have found that pet
+ownership is associated with lower levels  of  depression  (e.g.,
+Clark  Cline, 2010), while others have not found such association
+(e.g., Siegel et al., 1999). In relation to social  interactions,
+one study pointed out that pet ownership is positively associated
+with perceptions of neighborhood friendliness,  favor  exchanges,
+civic  engagement, and sense of community (Bulsara et al., 2007).
+Also, dog owners showed more interest in the  neighborhood  (Cutt
+et al., 2008) and presented higher chances to engage in a conver‐
+sation with strangers  during  a  walk  (McNicholas  and  Collis,
+2000).  Regarding conscientiousness, Allen et al. (2000) reported
+that pet owners expressed a sense  of  responsibility  for  their
+pets,  which  contributed  to  the  structure and organization of
+their everyday lives. Daily routines of pet maintenance motivated
+physical  exercise  including  daily walks, grooming and bathing,
+veterinary visits, and social events with other  pet  owners.  In
+the  same  line,  other studies showed that people who owned dogs
+walked more and were more likely to exercise regularly than  non‐
+pet  owners  (Serpell, 1991; Cutt et al., 2008; Brown and Rhodes,
+2006).  The disregard of sociodemographic  characteristics  might
+be  one  Cline  (2010) showed no main effects of pet ownership on
+depression, but found interaction effects with sex and  relation‐
+ship  status,  with  more benecial effects for women and for sin‐
+gles. It is possible that for married individuals  to  take  care
+for  a pet represents a burden, whereas for those living alone it
+may reduce loneliness (Branson et al., 2017).  2.1.  Participants
+&  procedure  The  sample was composed of 801 Brazilians, 431 fe‐
+males (53.8%) and 370 males (46.2%). The  respondents  came  from
+the  ve  macroregions  of  Brazil  (8%  North, 28% Northeast, 36%
+Southeast, 18% South, and 10% Central‐West). Ages ranged from  20
+to 50 years (M 34.35 years, SD  8.41) and were divided into three
+groups: 2029 (36.1%), 3039 (33.7%), 4050 (30.2%).  Over  half  of
+the  sample  had  The inclusion criteria were: Brazilian, over 18
+years old and access/ 2018, using quota sampling  dened  by  sex,
+age,  and  social  class. The study was approved (Protocol Number
+80833817.6.0000.5561) by the 2.2.1. Socio‐demographic  data  form
+The  socio‐demographic  data form collected information regarding
+sex, age, marital status (single, cohabiting, married,  divorced,
+widow/ er), parenthood (childless, with children), region of res‐
+idence (North, Northeast, Center‐West, Southeast, South),  house‐
+hold  type  (house, apartment) and status (owner, renter), educa‐
+tional   level    (elementary    familiar    income    (<R$2,000;
+R$2,000‐R$4,000;  R$4,000‐R$8,000;  >R$8,000;  1US  Dollar   5.13
+Brazilian Reais).  2.2.2.  Pet  ownership  status  A  single‐item
+’yes’ or ’no’ question was designed to ascertain pet 2.2.3. Well‐
+being self‐report measures Respondents were asked, on a  11‐point
+rating  scale  with verbal anchors in each pole, to report their:
+Sleep quality (Do you sleep well? 0 I do not sleep well to 10 ‐ I
+sleep  extremely  well); Physical tness (Are you in good physical
+shape? 0 ‐ I am in terrible physical shape to 10 ‐ I am in  great
+physical  shape);  Sadness  (Are you a sad person? 0 ‐ Not sad at
+all to 10 Extremely sad); Depression (Do you  feel  depressed  in
+your life? 0 ‐ Not depressed at all to 10 ‐ Extremely depressed);
+Personal life’s organization (Are you an Organized  Person?  0  ‐
+Not  organized at all to 10 ‐ Extremely organized); Relationships
+with neighbors (How are your relationships with  neighbors?  0  ‐
+Not good to 10 ‐ Extremely good); and Life satisfaction (Thinking
+about your life nowadays, how satised are you? 0 ‐ Not satised at
+all  to 10 ‐ Extremely satised). Negatively‐worded items (Sadness
+and Depression) were reverse coded before analysis, so that  high
+values  express better well‐being, that is, lower sadness and de‐
+pression. The questionnaire used in his  study  is  available  as
+supplementary  le  (Appendix 1). These questions about well‐being
+took part of the CPBEC material which assessed opinions and atti‐
+tudes  of  Brazilian population according to the Organization for
+Economic Co‐operation and Development (OECD) Guidelines  on  Mea‐
+suring Subjective Well‐being.  This research was conducted by the
+Center for Applied Research on rst goal was  to  explore  differ‐
+ences  between pet owners and non‐pet owners with respect to nine
+socio‐demographic factors (sex, age, household type  and  status,
+marital status, parenthood, region of residence, educational lev‐
+el, familiar income). The second goal was to compare  pet  owners
+and  non‐pet owners with respect to seven selfreported well‐being
+indicators (sleep quality, sadness, depression, neighborhood  re‐
+lationships, level of life organization, physical tness, and life
+satisfaction). Given the exploratory nature of the present study,
+the analyses of association among pet ownership, socio‐demograph‐
+ic factors, and well‐being indicators were carried out  with  due
+caution  with  regard  to  assuming causal relationships.  2.2.4.
+Satisfaction with Life Scale  Respondents  also  evaluated  their
+life  satisfaction through the validated Brazilian version of Di‐
+ener’s 5‐item Satisfaction with Life Scale  (SWLS).  It  includes
+items  such  as In most ways, my life is close to my ideal and So
+far, I have gotten the important things I want in life,  using  a
+7‐point  scale that ranges from 1 strongly disagree to 7 strongly
+agree (Diener et al., 1985; Zanon et al., 2013).  R. Defelipe  et
+al.   Heliyon 6 (2020) e04069 were performed using the Mann‐Whit‐
+ney U test (Deshpande et al., 2017).  Since sex factor was  asso‐
+ciated  with  some of these measures, comparisons between pet and
+non‐pet owners were performed separately by sex.  2.3.  Statisti‐
+cal  analyses Statistical analyses were conducted using the soft‐
+ware Statistical Package for Social Sciences,  version  26  (SPSS
+26).  In  all analyses, the signicance level adopted was 5%. Ini‐
+tially data screening was carried out to check data integrity, by
+verifying  inconsistencies,  improbable  response patterns (e.g.,
+same response to most items) and missing values (Osborne,  2013).
+There were no missing data, but in total ve cases considered out‐
+liers in their response patterns were ltered out, which  resulted
+in  N  801. The chi‐square test of independence compared the pro‐
+portion of respondents that owned or not a pet regarding to  nine
+categorical  socio‐demographic  characteristics  (sex, age group,
+region of residence, residence type,  residence  status,  marital
+status,  educational  level,  familiar income, and parenthood). A
+multivariate logistic analysis considered pet  ownership  as  the
+response  and  included  the variables that were signicant in the
+previous univariate analyses as predictors (sex, parenthood,  and
+residence  type). All odds ratio’s and respective condence inter‐
+vals presented were obtained from the logistic regression. In ad‐
+dition,  comparisons  of pet owners and non‐pet owners on each of
+the Self‐report Well‐being measures (physical tness, sleep quali‐
+ty,  sadness, depression, personal life’s organization, and rela‐
+tionship with neighbors) Sixty percent of the  respondents  owned
+pets  (2   29.225, N  801, df 3.1. Socio‐demographic characteris‐
+tics assessed in relation to pet owning a pet  for  a  respondent
+who  lived in a house was 2.338 times higher (95% CI: 1.5313.570)
+than for a respondent who lived in  an  apartment.  In  addition,
+residence  status  had  just a marginally signicant effect. Resi‐
+dence owners had higher odds of owning pets than renters.  Family
+income  had  also  just a marginally signicant effect. There were
+fewer pet owners in the lowest income range (<R$2,000) in compar‐
+ison to the second income range (R$ 2,0004,000). No signicant as‐
+sociation Demographics  characteristic  Pet  ownership  Residence
+type  Residence  status  Familiar  income With children Residence
+type With children R. Defelipe et al.  Heliyon  6  (2020)  e04069
+95% CI for Exp (B) Residence type of self‐organization.  associa‐
+tion with pet ownership was found for marital status nor for  age
+In addition, only the signicant socio‐demographic variables found
+by the Chi‐square tests (residence  type,  parenthood,  and  sex)
+were  included into the multivariate logistic regression model as
+predictors (see the nal logistic regression model was  well  tted
+(p   0.884).   3.2.  Well‐being self‐reported measures associated
+with pet ownership Signicant differences were found between males
+and  females  for  sadness  (MannWhitney  U test, U  64057,5, p <
+0.001), and depression (MannWhitney U  test   68750,  p   0.001).
+Males reported more absence of Sadness (Median males  7, IQR  59;
+Median females  6, IQR  48) and Depression (Median males  7,  IQR
+410;  Median  females  6, IQR  39). Separating the sample by sex,
+we found an interaction effect between  pet  ownership  and  sex.
+Among  males  (N  370),  pet owners reported better relationships
+with neighbors (MannWhitney U test, U  14668.5, p  0.028), better
+sleep  quality  (MannWhitney  U  test,  U  14924.5, p  0.005) and
+tended to report less sadness (MannWhitney U test, U  15165.5,  p
+0.088) than non‐pet regarding physical tness, depression and per‐
+sonal life’s organization.  Among females (N   431),  pet  owners
+reported  somewhat  worse organization of personal life than non‐
+pet owners (MannWhitney U test, U for all other  well‐being  mea‐
+sures.  With  respect  to  life satisfaction, no differences were
+found between pet owners and non‐pet owners, neither for the sam‐
+ple  as a whole, nor for the sex‐segmented sample.  regarding re‐
+lationship with neighbors, sleep quality and sadness.   with  pet
+ownership was found for educational level nor for region of 1.313
+greater chances of owning a pet (95% CI:  0.9711.774)  than  men.
+owning  a  pet for a respondent that had children was 0.711 times
+smaller (95% CI: 0.5230.967) than for childless  respondents.  No
+signicant  In short, our study showed that: (1) pets were present
+in more than half of the Brazilian homes (60%), (2) to be a home‐
+owner  and  childless  enhanced the odds of owning a pet, and (3)
+men who owened a pet presented better well‐being indicators (bet‐
+ter  sleep quality, better relationships with neighbors, and less
+sadness) than women (lower life R. Defelipe  et  al.   Heliyon  6
+(2020) e04069 Our study was conducted before the Covid‐19 pandem‐
+ic. The survey can be reapplied during and after the pandemic, so
+that we can deepen our knowledge of the socio‐demographic charac‐
+teristics and subjective well‐being  indicators  associated  with
+pet  ownership. Life perspectives and motivational priorities may
+change in times of great challenges  that  bring  growing  mental
+health  concerns.  The value of a pet’s company may be rethought.
+There may be increasing recognition of their positive  impact  on
+human health and subjective well‐being as human social distancing
+increases. At the time of this publication,  infectious  diseases
+specialists  do  not  have  evidence  that  companion animals can
+spread COVID‐19 to other animals or to people (AVMA, 2020).  Five
+socio‐demographic  variables  (residence  type and status, family
+income, sex, and parenthood) distinguished pet owners  from  non‐
+pet owners. Respondents who resided in houses were more likely to
+be pet owners than those who lived in apartments, probably due to
+space  availability.  This  was found in other studies, in Brazil
+(Serani et al., 2008), and also in  Ireland  (Hepper  and  Wells,
+1997;  Downes  et  al., 2011).  In addition, in our study renters
+tended to report less pet ownership compared to homeowners. There
+are rental agreements that contain no‐pet clauses. Although there
+is no law that specically addresses the issue of pets, the  home‐
+owner  has  the right to deny rent to anyone for whatever reasons
+he/she wishes because the residence is his/her property. The same
+happens in US where, according to O’Reilly‐Jones (2019), homeown‐
+er‐imposed restrictions disproportionately impact low‐income  Al‐
+though  the sex difference regarding pet ownership was relatively
+small, we found that females had higher chances to be pet  owners
+than  males.  In  surveys  conducted  in  11  Eurasian  countries
+(Phillips et al., 2011) and in US (Dotson and Hyatt,  2008),  fe‐
+males  were the pets’ primary caregivers. This may have also hap‐
+pened in our study, but, to know for sure, this  question  should
+be  examined  more  directly  in  future  studies.  In our study,
+childless respondents were more likely to own a pet  compared  to
+those who had children. This result is in line with the idea that
+pets can serve as substitutes for friends, spouses  or  children,
+especially in today’s society where people feel socially isolated
+and have fewer children (Chur‐Hansen,  2010;  Antonacopoulos  and
+Pychyl,  2010).   In  summary,  in  the current study, pet owners
+tended to live in houses, to be homeowners, females,  and  child‐
+less.   We further investigated the relationship of pet ownership
+and sex with well‐being  self‐reported  measures.  This  analysis
+showed that females, regardless of pet ownership status, reported
+somewhat more depression and sadness than  males.  These  results
+are  consistent  with  ndings  from other studies that have shown
+that females experience more  negative  emotions  (Else‐Quest  et
+al.,  2012),  and  are more vulnerable to develop general anxiety
+disorder,  post‐traumatic  stress,  and  depression  than   males
+(Kessler,  2003; Victor et al., 2017). In our study, we found in‐
+teraction between pet ownership and sex. However, contrary to our
+expectation  (see Clark Cline, 2010), we found that pet ownership
+was associated with better sleep  quality,  better  relationships
+with neighbors and less sadness among men, and lower life organi‐
+zation among women. Other studies showed that pet owners, regard‐
+less of sex, fell asleep more easily than non‐pet owners (Coleman
+et al., 2008; Mein & Grant, 2018). Pets may provide  humans  with
+opportunities  of:  (a)  social  interaction and closeness (being
+represented here by better relationships with neighbors), and (b)
+worth  reassurance  and feelings of protection (being represented
+here by less sadness) (e.g., Staats et al., 2008). These opportu‐
+nities  may  also  mediate the better quality of sleep associated
+with animal companionship. Some pet owners may share  their  beds
+with dogs, and this may promote good sleep via increased feelings
+of comfort and security. Future studies could investigate the as‐
+sociation  with the place where pets sleep in the house among pet
+owners. Finally, we highlight that the lower level of life  orga‐
+nization  reported by female pet owners was an unexpected result.
+Allen, Kellegrew, and Jaffe (2000) found that pet  owners  struc‐
+tured more their everyday lives, becoming more and not less orga‐
+nized. However, we could consider that non‐pet owners may priori‐
+tize  a  neat  and  clean home, whereas pet owners may prioritize
+mitigation of social isolation (Fishbein and Ajzen,  1975).   Al‐
+though  pet ownership can bring more structure to daily routines,
+when life is too busy, having a pet can represent  a  burden  for
+the  pet’s  primary caregiver, disorganizing daily routines. This
+is a hypothesis that should be investigated in future studies. In
+the present study, pet owners did not differ in life satisfaction
+from non‐pet owners, neither  considering  the  single‐item  life
+satisfaction  measure  used nor Diener’s 5‐item Satisfaction with
+Life Scale (SWLS). This result is different from  Applebaum’s  et
+al.   were more satised with their lives than non‐pet owners (Bao
+& Schreer, 4.1. Limitations and future research One limitation of
+our  study is that the survey offered only one question about pet
+ownership, with a yes or no answer choice that did not allow  re‐
+spondents  to  tell what type of pet they owned. Moreover, to es‐
+tablish causal associations on pet ownership and  mental  health,
+it would be necessary to implement a longitudinal study comparing
+repeated well‐being self‐reports from pet owners and non‐pet own‐
+ers, controlling both groups by sociodemographic characteristics,
+to identify what kind of mental health improvement could  be  at‐
+tributed,  in fact, to pet ownership.  R. Defelipe: Performed the
+experiments; Contributed reagents, materials, analysis  tools  or
+data;  Wrote the paper.  C. Savalli: Analyzed and interpreted the
+data; Wrote the paper.  E. Otta: Conceived and designed  the  ex‐
+periments;  Analyzed  and  interpreted the data; Wrote the paper.
+Funding statement This work was supported by S~ao Paulo  Research
+Foundation    and   Natura   Cosmeticos   S.A   [grants   numbers
+2014/50282‐5, 2017/11748‐7] and Brazilian National Research Coun‐
+cil (CNPq) [grant number 304740/ Competing interest statement Ad‐
+ditional information Allen, J.M.,  Kellegrew,  D.H.,  Jaffe,  D.,
+2000. The experience of pet ownership as a meaningful occupation.
+Can. J. Occup. Ther. 67 (4), 271278.  AVMA, 2020. Covid‐19:  what
+Veterinarians Need to Know: AVMA. Retrieved April 9, Antonacopou‐
+los, N.M.D., Pychyl, T.A., 2010. An examination of the  potential
+role of pet ownership, human social support and pet attachment in
+the psychological health of individuals  living  alone.  Anthrozo
+Applebaum,  J.W.,  Peek,  C.W., Zsembik, B.A., 2020. Examining US
+pet ownership using the general social survey. Soc. Sci. J.  110.
+Bao,  K.J.,  Schreer, G., 2016. Pets and happiness: examining the
+association between pet ownership and wellbeing. Anthrozo Barbosa
+Filho,  N.,  2015.  O  desao  macroecon^  omico de 2015‐2018 [The
+macroeconomic challenge 20152018]. Braz. J. Polit. Econ. 35  (3),
+403425.   Branson,  Sandy  M., Boss, Lisa, Cron, Stanley, Turner,
+Dennis C., 2017. Depression, loneliness, and  pet  attachment  in
+homebound  older  adult  cat and dog owners.  J. Mind Med. Sci. 4
+(1), 3848.  Brown, S.G., Rhodes, R.E., 2006. Relationships  among
+dog  ownership  and  leisure‐time  walking  in  Western  Canadian
+adults. Am. J. Prev. Med. 30 (2), 131136.   R.  Defelipe  et  al.
+Heliyon  6  (2020)  e04069  Miranda,  Y.A., de Otoni, S.S., 2019.
+Guarda dos animais domesticos nos casos de dissolu~ao  do  vnculo
+conjugal. Revista Cientca FAESA 15 (1 Especial), 6069.  O’Reilly‐
+Jones, K., 2019. When Fido is family:  how  landlord‐imposed  pet
+bans  restrict  access to housing. Columbia J. Law Soc. Probl. 52
+(3), 427472.  Osborne, J.W., 2013. Best Practices in Data  Clean‐
+ing. Sage, Los Angeles, CA.  Phillips, C., Izmirli, S., Aldavood,
+J., Alonso, M., Choe, B., Hanlon, A., et al., 2011.  An  interna‐
+tional  comparison  of  female and male students attitudes to the
+use of animals.  Saunders, J., Parast, L.,  Babey,  S.H.,  Miles,
+J.V.,  2017.  Exploring  the  differences between pet and non‐pet
+owners: implications for human‐animal  interaction  research  and
+policy.  PloS  One 12 (6), e0179494.  Serani, C.A.V., Rosa, G.A.,
+Guimaraes, A.M.S., De Morais, H.A., Biondo, A.W.,  2008.   Survey
+of  owned  feline  and  canine  populations  in apartments from a
+neighbourhood in Curitiba,  Brazil.  Zoonoses  Public  Health  55
+(8‐10),  402405.  Serpell, J.A., 1989. Pet‐keeping and animal do‐
+mestication: a reappraisal. In: CluttonBrock, J. (Ed.), The Walk‐
+ing  Larder:  Patterns  of Domestication, Pastorialism and Preda‐
+tion. Unwin Hyman, London, pp. 1021.  Serpell, J., 1991. Benecial
+effects  of pet ownership on some aspects of human health and be‐
+haviour. J. R. Soc. Med. 84 (12), 717720.  Serpell, J., 2003. An‐
+thropomorphism  and  anthropomorphic selectionbeyond the cute re‐
+sponse. Soc. Anim. 11 (1), 83100.   Serpell,  J.A.,  Paul,  E.S.,
+2011.  Pets  in  the  family:  an  evolutionary  perspective. In:
+Salmon, C.A., Shackelford, T.K. (Eds.), The  Oxford  Handbook  of
+Evolutionary  Family  Siegel,  J.M.,  Angulo,  F.J.,  Detels, R.,
+Wesch, J., Mullen, A., 1999. AIDS diagnosis and depression in the
+Multicenter  AIDS  Cohort  Study:  the ameliorating impact of pet
+ownership. AIDS Care 11 (2), 157170.  Smith,  B.P.,  Browne,  M.,
+Mack,  J.,  Kontou,  T.G., 2018. An exploratory study of humandog
+co‐sleeping using actigraphy: do dogs disrupt their owners sleep?
+Staats,  S., Wallace, H., Anderson, T., 2008. Reasons for compan‐
+ion animal guardianship (pet  ownership)  from  two  populations.
+Soc. Anim. 16 (3), 279291.  Thompson, K., Smith, B., 2014. Should
+we let sleeping dogs lie with us? Synthesizing the literature and
+setting the agenda for research on human‐animal co‐sleeping prac‐
+tices. Humanimalia 6 (1), 114127.  Triebenbacher, S., 1998.  Pets
+as  transitional  objects: their role in children’s emotional de‐
+velopment. Psychol. Rep. 82 (1), 191200.  Victor, T.A.,  Drevets,
+W.C.,  Misaki, M., Bodurka, J., Savitz, J., 2017. Sex differences
+in neural responses to subliminal sad and happy faces in  healthy
+individuals:  implications  for  depression. J. Neurosci. Res. 95
+(1‐2), 703710.  Zanon, C., Bardagi, M.P., Layous, K., Hutz, C.S.,
+2013.  Validation  of the satisfaction with life scale to Brazil‐
+ians: evidences of measurement noninvariance  across  Brazil  and
+US.  Soc.  Indicat. Res. 119 (1), 443453.  Bulsara, M., Wood, L.,
+Giles‐Corti, B., Bosch, D., 2007. More than  a  furry  companion:
+the  ripple  effect of companion animals on neighborhood interac‐
+tions and sense of community. Soc. Anim. 15 (1), 4356.   Carvalho
+de  Ostos, N.S., 2017. Uni~ao Internacional Protetora dos Animais
+de S~ao Paulo: aticas, discursos e representa~ oes de  uma  enti‐
+dade  nas  primeiras  decadas  do  seculo XX. Rev. Bras. Hist. 37
+(75), 297318.  Chur‐Hansen, A., 2010. Grief and  bereavement  is‐
+sues  and  the  loss  of a companion animal: people living with a
+companion animal, owners of livestock, and animal  support  work‐
+ers.  Clin.  Psychol.  14  (1),  1421.  Coleman, K.J., Rosenberg,
+D.E., Conway, T.L., Sallis, J.F., Saelens, B.E., Frank, L.D.,  et
+al.,  2008.  Physical  activity,  weight status, and neighborhood
+characteristics of dog walkers. Prev. Med. 47 (3), 309312.  Clark
+Cline,  K.M.,  2010. Psychological effects of dog ownership: role
+strain, role enhancement, and depression. J.  Soc.  Psychol.  150
+(2),  117131.   Cutt, H., Giles‐Corti, B., Knuiman, M., Timperio,
+A., Bull, F., 2008. Understanding dog owners increased levels  of
+physical activity: results from RESIDE. Am. J. Publ. Health Desh‐
+pande, J.V., Naik‐Nimbalkar, U., Dewan, I.,  2017.  Nonparametric
+Statistics:  Theory and Methods. World Scientic, New Jersey.  Di‐
+ener, E., Emmons, R.A., Larsen, R.J., Grifn, S., 1985. The satis‐
+faction  with  life  scale.   J. Pers. Assess. 49, 7175.  Dotson,
+M.J., Hyatt, E.M., 2008. Understanding doghuman companionship. J.
+Bus. Res.  Downes, M.J., Clegg, T.A., Collins, D.M., McGrath, G.,
+More, S.J., 2011. The spatial distribution of pet  dogs  and  pet
+cats  on  the  island of Ireland. BMC Vet. Res. 7 (1), 28.  Else‐
+Quest, N.M., Higgins, A., Allison, C., Morton, L.C., 2012. Gender
+differences  in selfconscious emotional experience: a meta‐analy‐
+sis. Psychol. Bull. 138 (5), 947981.  Fishbein,  M.,  Ajzen,  I.,
+1975.  Belief, Attitude, Intention, and Behavior. An Introduction
+to Theory and Research.  Addison‐Wesley,  Reading,  MA.   Hepper,
+P.G.,  Wells,  D.L., 1997. Pet ownership and adults’ views on the
+use of animals.  Soc. Anim. 5 (1), 4563.  Herzog, H.,  2011.  The
+impact of pets on human health and psychological well‐being fact,
+ction, or hypothesis? Curr. Dir. Psychol. Sci.  20  (4),  236239.
+Hoffman,  C.L., Stutz, K., Vasilopoulos, T., 2018. An examination
+of adult womens sleep quality and sleep routines in  relation  to
+pet ownership and bedsharing. Anthrozo Statistics], 2013. Nation‐
+al Health  Research  2013.  [Internet].  IBGE,  Rio  de  Janeiro.
+Kessler, R.C., 2003. Epidemiology of women and depression. J. Af‐
+fect. Disord. 74 (1), McNicholas, J., Collis, G.M., 2000. Dogs as
+catalysts  for social interactions: robustness of the effect. Br.
+J. Psychol. 91 (1), 6170.  Mein, G., Grant, R.,  2018.  A  cross‐
+sectional  exploratory analysis between pet ownership, sleep, ex‐
+ercise, health and neighborhood perceptions: the Whitehall II co‐
+hort study.
+
+
+
+
+
+
+
+
+

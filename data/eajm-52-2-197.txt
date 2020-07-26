@@ -1,452 +1,462 @@
-Eurasian J Med 2020; 52(2): 197-201
-Coronavirus Infection Prevention by Wearing Masks
-Thi Sinh Vo1
-, Tran Thi Thu Ngoc Vo2,3
-, Tran Thi Bich Chau Vo4
-The coronavirus disease 2019 (COVID-19) [2019-nCoV; severe acute respiratory syndrome coronavirus
-2 (SARS-CoV-2)] was first detected in Wuhan, China at the end of 2019. In current status, spread of COVID-19 in person-to-person could be caused mainly by respiratory droplets, which leads to the spread of
-the influenza virus in both community and clinicians. Thus, in order to reduce the risk of that, the urgent
-management strategies against COVID-19 are to block transmission, isolation, protection, and using drug or
-vaccine updated on an ongoing basis. unfortunately, no drugs or vaccines still has yet been allowed to treat
-patients with COVID-19, so the rapid detection of effective intercessions against COVID-19 is seemed a
-of COVID-19, the influence of droplets travel in person-to-person transmission and the effect of wearing
-masks in the infection prevention of influenza virus, as well as understanding its advantage and role in the
-coronavirus infection prevention.
-Keywords: Coronavirus, COVID-19, Infection prevention of influenza virus, Wearing masks.
-Vo. Coronavirus Infection Prevention by Wearing
-Masks. Eurasian J Med 2020; 52(2): 197-201.
-Department of Acupuntur, Tuina and
-Chinese Medicine, Anhui, China
-Qui Nhon City Hospital, Binh Dinh, Vietnam
-Department of Industrial Management, Can Tho
-Correspondence to: Tran Thi Bich Chau Vo
-The coronavirus disease 2019 (COVID-19) outbreak is one of the hot issues around the
-world today. As known, the influenza virus (influenza A virus subtype H1N1 (H1N1), severe
-acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS), and COVID-19 viruses) outbreak is a threat to human health, as well as a major challenge for both
-community and clinicians [1-4]. For example, health care workers (HCWs) can initially be at
-risk and get infected from examining and treating patients with a respiratory infection [5]
-and then become indiscreet carriers to other patients, family members, and the community
-if they do not regularly wash their hands or take other infection-preventive measures. In
-addition, owing to shortages in the availability of antiviral medicine and delays in drug or
-vaccine development, respiratory protection is one of the key non-pharmaceutical interventions for protection of both community and clinicians. As such, it is truly necessary for
-each individual in the community and for clinicians to use personal respiratory protective
-methods to prevent infection of the influenza virus. Therefore, currently, handwashing and
-wearing masks are one of the ways of preventing infection of the influenza virus. However,
-currently, there are gaps in the knowledge about the prevention of influenza virus by wearing masks (cloth masks, medical masks, N95 respirators, and surgical masks). Hence, this
-paper aims to introduce the characteristics of COVID-19, the influence of droplet travel
-in person-to-person transmission, and the effect of wearing masks in COVID-19 infection
-Characteristics of COVID-19
-To date, the emergence and rapid transmission of COVID-19 from patients with severe pneumonia in Wuhan, China, has become a global health concern [6-9]. The features of COVID-19
-are similar to those of SARS (or MERS), which is known as a single-stranded RNA b-coronavirus
-genome with enveloping and positive-sense, ranging from 26 to 32 kilobases in length [10],
-as well as encoding non-structural, structural, and accessory proteins. Fever, fatigue, and dry
-cough are considered symptoms of COVID-19. Sometimes, there are a few patients with mild
-198 • Vo et al. Wearing Masks in COVID-19 Infection Prevention
-To further understand its characteristics, Huang
-et al. [9] and Chan et al. [14] showed the multifocal ground-glass changes in the chest and
-1) that are typical of viral pneumonia. One of
-the disease development features is the bilateral
-multiple lobular and sub segmental areas of consolidation found in the chest CT scan. Besides,
-in CT scan images, the lungs of older patients
-were further diffused and found to be wider
-than those of the younger patients [11, 14]. According to some references for the source of
-the COVID-19 emergence, most of the infected patients were associated with the seafood
-wholesale market in Wuhan, China [9], or the
-COVID-19 virus penetrated into the market
-place before it spread from there [15]; however, the spread of COVID-19 remains largely
-unknown. Transmission of COVID-19 could be
-airborne or human-to-human contact; however,
-both aerosol and fecal-oral transmission still remain unclear [13]. To date, critical public health
-measures to reduce the transmission of COVID-19 include quarantine both in community
-and clinicians, as well as timely diagnosis (through
-testing kits, etc.) and strict participation to prevent the spread of the virus in health care settings [16]. Furthermore, lessons from the influenza virus (H1N1, SARS-CoV, and MERS-CoV)
-outbreak also support to effectively prepare for
-COVID-19 outbreak [17].
-Wearing Masks to Prevent COVID-19 Infection
-Influence of droplet travel in person-toperson transmission
-As known, reducing transmission of the influenza virus in both community and clinicians
-may not only help support them but also prevent person-to-person transmission during an
-influenza virus pandemic. For other protective
-strategies, drugs or vaccines may be limited in
-permission from [14]
-Droplet diameter (μm)
-Arylesterase (ARE) activity could be a useful
-marker in COPD.
-PON1 RR phenotype was common in COPD
-and this result is consistent with PON1 genotype
-studies in COPD.
-Smoking and RR phenotype can be defined independent determinants relation with COPD.
-Main Points
-availability. Thus, it is truly necessary for clearly
-understanding the influence of droplet travel in
-person-to-person transmission to support the
-COVID-19 infection prevention. Transmission
-of COVID-19 could be airborne or through
-contact, especially large droplets and airborne
-routes are credited to person-to-person transmission, which could be the cause of a large
-number of influenza infections, as well as travel
-of droplets, which involves traveling of droplet-
-symptoms and then patients gradually start experiencing aches, nasal congestion, runny nose,
-sore throat, or diarrhea. Several people who are
-infected do not develop any symptoms; in particular, older adults and people with underlying
-medical diseases (diabetes, heart problems, or
-high blood pressure) are prone to experience
-serious symptoms, especially those with a history of close contact with COVID-19-infected
-patients and a history of travel to Wuhan, China.
-The period of incubation is generally 3–7 days
-of 14 days [11]. For example, a 65-year-old Chinese man was admitted to Cho Ray Hospital in
-Ho Chi Minh City, Vietnam [12] and a 35-yearold man was referred to an urgent care clinic
-in Snohomish, Washington, USA [13], both had
-cough and fever during the last four days of the
-incubatory period.
-Eurasian J Med 2020; 52(2): 197-201
-Time to evaporate
-Time to reach ground
-(2m) as a rigid sphere
-RH=0 and Tair=18°C
-Free-falling water droplet
-Time to reach
-Eurasian J Med 2020; 52(2): 197-201
-borne diseases that can transmit from one person to another. A typical example for travel of
-droplets is sneezing, which is seen as an exhalation mode with common respiratory symptoms;
-in particular, respiratory infectious symptoms
-could create mucus and stimulate various nerves
-within the nasal mucous membranes and lead to
-a sneeze. However, the mechanism of the biological dynamics of a sneeze is a little different
-from that of other respiratory activities. According to some references, the velocity of the
-exhaled air in sneezing is much larger than that
-of breathing and coughing [18-20], and the created total number of droplets during the sneeze
-is also larger than that of other respiratory activities [21]; one can refer to some references of
-the distribution of size of droplets produced by
-a cough [22-24], a sneeze [25-27], speech [24,
-28, 29], and a breath [24, 30-33], and the concentration and number of droplets [34-36].
-considered to be on the basis of relative humidity, air speed, and respiratory jets, which could
-be the result of their evaporation and movement from expulsion during respiratory activities. Specifically, Xie et al. [37] calculated both
-lifetimes and size changes of a droplet, as well as
-how far the droplets travel. The results showed
-that the droplets with the largest size possible
-completely evaporate before falling 2 m away
-(60-100 μm); these droplets are moved further
-(i.e., >6 m [n=50 ms-1] in sneezing, >2 m [n=10
-ms-1] in coughing, and <1 m [n=1 ms-1] in breathing). It is really important to develop measures
-of effective engineering control for the prevention of respiratory infectious symptoms, as well
-as to explore the person-to-person transmission mechanisms involving travel of droplets of
-infectious diseases. The results suggested that
-the rapid evaporation of small droplets and the
-quick falling of larger droplets on the ground
-or on surfaces, as well as horizontally deported
-large droplets could also travel a long distance.
-Moreover, these droplets could be suspended
-in the air with low relative humidity conditions,
-which can lead to the increase in the possibility
-of subsequent inhalation. Thus, an understanding of the travel of droplets has been significant
-for developing measures of effective engineering control in the prevention of COVID-19 infection and in exploring the person-to-person
-transmission mechanisms of infectious diseases.
-However, respiratory protection demonstrates
-that aerial transmission is one of the assumed
-methods of transmission of the influenza virus
-[39]. The results of trials confirmed that only
-large droplets are discovered close to the pa-
-Vo et al. Wearing Masks in COVID-19 Infection Prevention
-sizes could be found at short distances from the
-patient, and aerosolized transmission could also
-occur at a close distance [41].
-Finally, the main transmission of COVID-19 is
-related to the droplets created when a person
-breathes, talks, coughs, or sneezes. When the
-droplets travel, they get suspended in the air
-and quickly fall on the ground or on surfaces.
-Besides, anyone can become infected with the
-virus because of breathing within 1 m of personto-person distance as well as touching a contagious surface followed by touching eyes, nose, or
-mouth without washing hands.
-Effect of Wearing Masks in COVID-19 Infection
-There are some randomized controlled clinical trials (RCTs), which are not only based on
-handwashing [43-45] but also on wearing masks
-(cloth masks, medical masks, N95 respirators,
-and surgical masks) both in community and clinicians [46-49]; however, the trials of wearing
-masks for respiratory protection are limited, and
-the effect of wearing masks in the COVID-19 infection prevention is not yet clearly understood.
-As known, the influenza spread could occur by
-could be inhaled with a range of 0.1-100 μm
-[50-55]; thus, the personal respiratory protective equipment is really needed to prevent or
-limit the influenza virus outbreak. Besides, N95
-respirators could be unavailable in many countries at short notice of a pandemic; therefore,
-it is truly important to understand clearly the
-relative effectiveness of personal respiratory
-protective equipment. So far, there are a few
-comparative studies of personal respiratory
-protective equipment [46,47] and data comparing the surgical mask with the N95 respirator
-among HCWs [56,57]. Although N95 respirators are not regularly suggested for seasonal
-influenza, they could play a role in personal
-protection against the influenza virus pandemic
-(H1N1, SARS, MERS, and COVID-19 viruses).
-The result indicates that HCWs wearing surgical masks are not prone to experience influenza
-compared with those wearing N95 respirators
-while treating patients with influenza. There
-are trials for personal protection against respiratory infections, for example, MacIntyre et al.
-[58] performed RCTs to investigate the effect
-of medical masks and N95 respirators, proving
-that N95 respirators provided superior protection against infections of droplet transmission.
-Besides, to ensure safety and health of HCWs,
-the superiority of respirators in preventing re-
-spiratory infections are also included in infection
-control guidelines. Currently, there are only five
-of a common ground around the effect of two
-kinds of masks (medical masks and N95 respirators) for HCWs against influenza [48, 59-62].
-Although N95 respirators have been displayed
-as superior than medical masks in preventing influenza respiratory infection, there are still no
-studies that examined the laboratory-confirmed
-influenza. In other smaller trials, it was found
-that there is no increase in respiratory diseases
-between HCWs while wearing medical masks
-[59]. Besides, there is only one small-scale RCT
-that compared medical masks and N95 respirators in HCWs [48], concluding that there is
-no difference, but there is a lack of an arm of
-controlling. Although medical masks were not
-designed to provide respiratory protection [63],
-with lower filtration efficiency, they were designed specifically for personal protection [6466]. Moreover, they were designed to prevent
-wound contamination for the surgeon [67-69].
-Thus, these large-scale RCTs were also unable to
-demonstrate any differences between the two
-kinds of masks in the influenza infection [60, 61].
-A recently conducted trial identified the effect
-of cloth masks compared with medical masks,
-concluding that cloth masks could increase the
-risk of infection in HCWs [62]. In addition, the
-period of wearing the disposable mask, extent
-to which it protects, and invention of reusable
-masks should be researched further.
-Overall, in the current COVID-19 outbreak,
-infection of the influenza virus. However, there
-are several important limitations of the RCTs,
-including the lack of performed measures during the study period and non-collection of data
-regarding the frequency of device changing [70].
-If everyone wears masks, we cannot differentiate between those who are unwell by observing that they are wearing masks. Recently, the
-World Health Organization suggested that people with respiratory symptoms and those who
-care for people with symptoms should wear
-masks [71]. It is truly important to wear and
-remove masks correctly to reduce the personto-person transmission of COVID-19 as well as
-to ensure correct fit of the mask so that it covers the nose and mouth properly [72, 73]. We
-should use soap with water (or warm water) or
-hand sanitizer for handwashing, and make sure
-that the mask covers the nose, mouth, and chin
-there are no gaps, and we should avoid touching
-or adjusting the masks during use. Similar measures are taken while removing a mask, with few
-200 • Vo et al. Wearing Masks in COVID-19 Infection Prevention
-differences: untie the bottom tie of the mask,
-then remove top tie and remove the mask from
-the face; the mask must be discarded immediately and cannot be reused. Handwashing is the
-final step. Moreover, older adults and people
-with underlying medical conditions are recommended to wear masks, if available.
-In summary, to develop effective measures of
-prevention to control infectious diseases in
-both community and clinicians, it is necessary
-to understand clearly the knowledge about
-prevention of the influenza virus. Because the
-COVID-19 pandemic is worsening by the hour,
-individuals need to rapidly respond to this risk.
-Washing hands diligently, covering coughs, and
-avoiding crowds and close contact are measures
-to avoid the risks of transmission in the community. Wearing masks routinely is especially
-recommended for all individuals to prevent exposure in the community before the vaccine is
-invented. Therefore, isolation, handwashing, and
-preventing the spread of the virus are the practical strategies used to tackle the spread of COVID-19. In addition, respiratory protection by
-wearing masks is one of the methods to prevent
-infection of the influenza virus; however, trials
-related to COVID-19 are limited. In addition,
-the period of wearing the disposable mask, the
-level of protection of masks, and the invention
-of reusable masks should be researched further.
-Ethics Committee Approval: N/A.
-Informed Consent: N/A.
-scientists, as well as the support of Qui Nhon City
-study has received no financial support.
-Horcajada JP, Pumarola T, Martinez JA, et al. A
-nosocomial outbreak of influenza during a period without influenza epidemic activity. Eur
-Respir J 2003; 21: 303-7. [Crossref]
-Dawood FS, Jain S, Finelli L, et al. Emergence
-of a Novel Swine-Origin Influenza A (H1N1)
-Virus in Humans Novel Swine-Origin Influenza
-A (H1N1) Virus Investigation Team, New Engl J
-Med 2009; 360: 2605-15. [Crossref]
-Cohen J, Enserink M. SWINE FLU After Delays,
-WHO Agrees: The 2009 Pandemic Has Begun.
-Science 2009; 324: 1496-7. [Crossref]
-Neumann G, Noda T, Kawaoka Y. Emergence
-and pandemic potential of swine-origin H1N1
-influenza virus. Nature 2009; 459: 931-9.
-Donnelly CA, Ghani AC, Leung GM, et al. Epidemiological determinants of spread of causal agent
-of severe acute respiratory syndrome in Hong
-Kong. Lancet 2003; 361: 1761-6. [Crossref]
-Zhu N, Zhang D, Wang W, et al. A novel coronavirus from patients with pneumonia in China, 2019
-N Engl J Med 2020; 38: 727-33. [Crossref]
-Lu HZ, Stratton CW, Tang YW. Outbreak of
-pneumonia of unknown etiology in Wuhan,
-China: The mystery and the miracle. J Med Virol
-Hui DS, Azha EI, Madani TA, et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel
-coronavirus outbreak in Wuhan, China. Int J Infect Dis 2020: 91: 264-6. [Crossref]
-Huang C, Wang Y, Li X. Clinical features of
-patients infected with 2019 novel coronavirus in Wuhan, China Lancet 2020; 395: 496.
-Su S, Wong G, Shi WF, et al. Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses. Trends Microbiol 2016; 24: 490-502.
-Diagnosis and treatment of new coronavirus
-Phan LT, Nguyen TV, Luong QC, et al. Importation and Human-to-Human Transmission of
-a Novel Coronavirus in Vietnam. N Engl J Med
-Holshue ML. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020;
-Chan JFW, Yuan SF, Kok KH, et al. A familial
-cluster of pneumonia associated with the 2019
-novel coronavirus indicating person-to-person
-transmission: a study of a family cluster. Lancet
-Cohen, J. Wuhan seafood market may not be
-source of novel virus spreading globally’, 2020.
-org/news/2020/2001/wuhan-seafood-marketmay-not-be-source-novel-virus-spreading-globally [Crossref]
-Carlos WG, Dela Cruz CS, Cao B, et al. Novel
-Wuhan (2019-nCoV) Coronavirus. Am J Resp
-Crit Care 2020; 201: 7-8. [Crossref]
-Yoo JH. The Fight against the 2019-nCoV Outbreak: an Arduous March Has Just Begun. J Korean Med Sci 2020; 35: e56. [Crossref]
-Gao NP, Ni JL. Transient CFD simulation of the
-respiration process and inter-person exposure
-assessment Build Environ 2006; 41: 1214-22.
-Eurasian J Med 2020; 52(2): 197-201
-19. Gupta JK, Lin CH, Chen Q. Flow dynamics and
-characterization of a cough’, Indoor Air 2009;
-20. Gupta JK, Lin C, Chen QY. Characterizing exhaled airflow from breathing and talking. Indoor
-Air 2010; 20: 31-9. [Crossref]
-21. Duguid JP. The size and the duration of air-carriage of respiratory droplets and droplet-nuclei.
-J. Hyg 1946; 44: 471-9. [Crossref]
-22. Fennelly KP, Martyny JW, Fulton KE, et al.
-Cough-generated aerosols of Mycobacterium
-tuberculosis - A new method to study infectiousness. Am J Resp Crit Care 2004; 169: 6049. [Crossref]
-23. Yang SH, Lee GWM, Chen CM, et al. The size
-and concentration of droplets generated by
-coughing in human subjects J Aerosol Med 2007;
-24. Johnson GR, Morawska L. The Mechanism of
-Breath Aerosol Formation. J Aerosol Med Pulm
-D 2009; 22: 229-37. [Crossref]
-25. Buckland FE, Tyrrell DA. Experiments on spread
-of colds: 1. Laboratory studies on dispersal of nasal secretion. J Hyg 1964; 62: 365-77. [Crossref]
-26. Nicas M, Nazaroff W, Hubbar A. Toward understanding the risk of secondary airborne infection:
-Emission of respirable pathogens. J Occup Environ Hyg 2005; 2: 143-54. [Crossref]
-27. Gralton J, Tovey E, McLaws ML, et al. The role
-28. Chao CYH, Wan MP, Morawska L, et al. Characterization of expiration air jets and droplet size
-distributions immediately at the mouth opening J
-Aerosol Sci 2009; 40: 122-33. [Crossref]
-29. Xie XJ, Li YG, Sun HQ, et al. Exhaled droplets
-due to talking and coughing J R Soc Interface
-2009; 6: S703-14. [Crossref]
-30. Edwards DA, Man JC, Brand P, et al. Inhaling to
-mitigate exhaled bioaerosols P Natl Acad Sci
-USA 200; 101: 17383-8. [Crossref]
-31. Fabian P, McDevitt JJ, DeHaan WH, et al. Influenza Virus in Human Exhaled Breath: An
-Observational Study Plos One 2008; 3: e2691.
-32. Wainwright CE, France MW, O’Rourke P, et al.
-Cough-generated aerosols of Pseudomonas aeruginosa and other Gram-negative bacteria from
-patients with cystic fibrosis. Thorax 2009; 64:
-33. Almstrand AC, Bake B, Ljungstrom E, et al. Effect
-34. Haslbeck K, Schwarz K, Hohlfeld JM, et al. Submicron droplet formation in the human lung. J
-Aerosol Sci 2010; 41: 429-38. [Crossref]
-35. Holmgren H, Ljungstrom E, Almstrand AC, et al.
-from 0.01 to 2.0 mu m. J Aerosol Sci 2010; 41:
-36. Morawska L, Johnson GR, Ristovski ZD, et al.
-Size distribution and sites of origin of droplets
-expelled from the human respiratory tract during expiratory activities. J Aerosol Sci 2009; 40:
-Eurasian J Med 2020; 52(2): 197-201
-37. Fabian P, Brain J, Houseman EA, et al. Origin of
-Pulm D 2011; 24: 137-47. [Crossref]
-38. Xie X, Li Y, Chwang ATY, et al. How far droplets
-can move in indoor environments - revisiting the
-Wells evaporation-falling curve Indoor Air 2007;
-39. Wells WF. On air-borne infection: Study II. Droplets and droplet nuclei. Am J Hyg 1934; 20: 6118. [Crossref]
-40. MacIntyre CR, Chughtai AA, Seale H, et al. Respiratory protection for healthcare workers
-treating Ebola virus disease (EVD): Are facemasks sufficient to meet occupational health
-and safety obligations?. Int J Nurs Stud 2014; 51:
-41. Osterholm MT, Moore KA, Kelley NS, et al.
-Transmission of Ebola Viruses: What we know
-and what we do not know. mBio 2015; 6:
-e01154. [Crossref]
-42. Shuchman M. Improving protection for Ebola
-workers. Can Med Assoc J 2015; 187: E85-6.
-43. Delamou A, Beavogui AH, Konde MK, et al.
-Ebola: better protection needed for Guinean
-health-care workers. Lancet 2015; 385: 503-4.
-44. Perez-Garza J, Garcia S, Heredia N. Removal of
-Escherichia coli and Enterococcus faecalis after hand
-washing with antimicrobial and nonantimicrobial
-soap and persistence of these bacteria in rinsates.
-J Food Protect 2017; 80: 1670-5. [Crossref]
-45. Larson EL, Lin SX, Gomez-Pichardo C, et al.
-Effect of antibacterial home cleaning and handwashing products on infectious disease symptoms - A randomized, double-blind trial. Ann
-Intern Med 2004; 140: 321-9. [Crossref]
-46. Rabie T, Curti V. Handwashing and risk of respiratory infections: a quantitative systematic
-47. Cowling BJ, Chan KH, Fang VJ, et al. Facemasks
-and Hand Hygiene to Prevent Influenza Transmission in Households A Cluster Randomized
-Trial. Ann Intern Med 2009; 151: 437-W144.
-48. Maclntyre CR, Cauchemez S, Dwyer DE, et al.
-Face Mask Use and Control of Respiratory Virus
-Transmission in Households Emerg Infect Dis
-Vo et al. Wearing Masks in COVID-19 Infection Prevention
-49. Loeb M, Dafoe N, Mahony J, et al. Surgical mask
-vs N95 respirator for preventing Influenza
-among health care workers a randomized trial.
-JAMA 2009; 302: 1865-71. [Crossref]
-50. Atrie D, Worster A. Surgical mask versus N95
-respirator for preventing influenza among health
-care workers: a randomized trial. Can J Emerg
-Med 2012; 14: 50-2. [Crossref]
-51. Maines TR, Jayarama A, Belser JA, et al. Transmission and Pathogenesis of Swine-Origin 2009
-A(H1N1) Influenza Viruses in Ferrets and Mice.
-Science 2009; 325: 484-7. [Crossref]
-52. Tellier R. Transmission of influenza A in human beings’, Lancet Infect Dis 2007; 7: 759-60.
-53. Lee RV.Transmission of influenza A in human beings. Lancet Infect Dis 2007; 7: 760-1.
-54. Tang JW, Li G. Transmission of influenza A in
-human beings. Lancet Infect Dis 2007; 7: 758.
-55. Brankston G, Gitterman L, Hirji Z, et al. Transmission of influenza A in human beings. Lancet
-Infect Dis 2007; 7: 257-65. [Crossref]
-56. Naik AD, Issac TT, Street RL, et al. Understanding the quality chasm for hypertension control
-58. MacIntyre CR, Chughtai AA, Rahma B, et al.
-The efficacy of medical masks and respirators against respiratory infection in healthcare
-workers’. Influenza Other Resp 2017; 11: 511-7.
-59. Jacobs JL, Ohde S, Takahashi O, et al. Use of
-surgical face masks to reduce the incidence of
-the common cold among health care workers in
-Japan: A randomized controlled trial. Am J Infect
-Control 2009; 37: 417-9. [Crossref]
-60. MacIntyre CR, Wang QY, Cauchemez S, et al.
-A cluster randomized clinical trial comparing
-fit-tested and non-fit-tested N95 respirators to
-medical masks to prevent respiratory virus infection in health care workers. Influenza Other
-Resp 2011; 5: 170-9. [Crossref]
-61. MacIntyre CR, Wang QY, Seale H, et al. A Randomized Clinical Trial of Three Options for N95
-Respirators and Medical Masks in Health Work-
-ers. Am J Resp Crit Care 2013; 187: 960-6.
-MacIntyre CR, Seale H, Dung TC, et al. A cluster
-randomised trial of cloth masks compared with
-medical masks in healthcare workers. BMJ Open
-2015; 5: e006577. [Crossref]
-Shine KI, Rogers B, Goldfrank LR. Novel H1N1
-Influenza and Respiratory Protection for Health
-Care Workers. New Engl J Med 2009; 361:
-Balazy A, Toivola M, Adhikari A, et al. Do N95
-respirators provide 95% protection level against
-airborne viruses, and how adequate are surgical masks? Am J Infect Control 2006; 34: 51-7.
-Lawrence RB, Duling MG, Calvert CA, et al.
-Comparison of performance of three different
-types of respiratory protection devices. J Occup
-Environ Hyg 2006; 3: 465-74. [Crossref]
-Weber A, Willeke K, Marchioni R, et al. Aerosol
-penetration and leakage characteristics of masks
-used in the health-care industry. Am J Infect
-Control 1993; 21: 167-73. [Crossref]
-Sellden E. Is routine use of a face mask necessary
-in the operating room? Anesthesiology 2010;
-Mitchell NJ, Hunt S. Surgical face masks in
-modern operating-rooms - a costly and unnecessary ritual. J Hosp Infect 1991; 18: 239-42.
-Tunevall TG, Bessey PQ. Postoperative wound
-infections and surgical face masks - a controlledstudy. World J Surg 1991; 15: 383-8. [Crossref]
-Palen TE, Felix KG. Surgical masks vs N95 respirators for preventing influenza. JAMA 2010; 303:
-Feng S, Shen C, Xia N, et al. Rational use of face
-masks in the COVID-19 pandemic. Lancet Respir
-Med 2020; 8: 434-6. [Crossref]
-Does Wearing a Mask Protect You from the Flu
-and Other Viruses? Healthline, 2020. Available
-COVID-19 (novel coronavirus) - face mask
-and hygiene advice. Ministry of Health Manatū
+Eurasian J Med 2020; 52(2): 197‐201 Coronavirus Infection Preven‐
+tion by Wearing Masks Thi Sinh Vo1 , Tran Thi Thu  Ngoc  Vo2,3  ,
+Tran  Thi  Bich  Chau Vo4 The coronavirus disease 2019 (COVID‐19)
+[2019‐nCoV;  severe  acute  respiratory  syndrome  coronavirus  2
+(SARS‐CoV‐2)]  was  first  detected in Wuhan, China at the end of
+2019. In current status, spread of COVID‐19  in  person‐to‐person
+could  be  caused  mainly by respiratory droplets, which leads to
+the spread of the influenza virus in both  community  and  clini‐
+cians. Thus, in order to reduce the risk of that, the urgent man‐
+agement strategies against COVID‐19 are  to  block  transmission,
+isolation,  protection,  and  using drug or vaccine updated on an
+ongoing basis. unfortunately, no drugs or vaccines still has  yet
+been allowed to treat patients with COVID‐19, so the rapid detec‐
+tion of effective intercessions against COVID‐19 is seemed  a  of
+COVID‐19,  the  influence  of droplets travel in person‐to‐person
+transmission and the effect of wearing  masks  in  the  infection
+prevention  of  influenza virus, as well as understanding its ad‐
+vantage and role in the coronavirus infection  prevention.   Key‐
+words:  Coronavirus,  COVID‐19, Infection prevention of influenza
+virus, Wearing masks.  Vo. Coronavirus  Infection  Prevention  by
+Wearing  Masks.  Eurasian J Med 2020; 52(2): 197‐201.  Department
+of Acupuntur, Tuina and Chinese Medicine, Anhui, China  Qui  Nhon
+City  Hospital,  Binh Dinh, Vietnam Department of Industrial Man‐
+agement, Can Tho Correspondence to: Tran Thi  Bich  Chau  Vo  The
+coronavirus  disease  2019  (COVID‐19) outbreak is one of the hot
+issues around the world today. As known, the influenza virus (in‐
+fluenza  A  virus  subtype  H1N1 (H1N1), severe acute respiratory
+syndrome (SARS), Middle East  respiratory  syndrome  (MERS),  and
+COVID‐19  viruses)  outbreak is a threat to human health, as well
+as a major challenge for both community and clinicians [1‐4]. For
+example,  health care workers (HCWs) can initially be at risk and
+get infected from examining and treating patients with a respira‐
+tory  infection  [5] and then become indiscreet carriers to other
+patients, family members, and the community if they do not  regu‐
+larly  wash  their  hands or take other infection‐preventive mea‐
+sures. In addition, owing to shortages in the availability of an‐
+tiviral  medicine and delays in drug or vaccine development, res‐
+piratory protection is one of the key  non‐pharmaceutical  inter‐
+ventions  for  protection  of  both  community and clinicians. As
+such, it is truly necessary for each individual in the  community
+and for clinicians to use personal respiratory protective methods
+to prevent infection of the influenza virus. Therefore,  current‐
+ly, handwashing and wearing masks are one of the ways of prevent‐
+ing infection of the influenza virus. However,  currently,  there
+are gaps in the knowledge about the prevention of influenza virus
+by wearing masks (cloth masks, medical  masks,  N95  respirators,
+and  surgical  masks).  Hence,  this  paper aims to introduce the
+characteristics of COVID‐19, the influence of droplet  travel  in
+person‐to‐person transmission, and the effect of wearing masks in
+COVID‐19 infection Characteristics of COVID‐19 To date, the emer‐
+gence  and  rapid transmission of COVID‐19 from patients with se‐
+vere pneumonia in Wuhan, China, has become a global  health  con‐
+cern [6‐9]. The features of COVID‐19 are similar to those of SARS
+(or MERS), which is known as a single‐stranded RNA  b‐coronavirus
+genome  with enveloping and positive‐sense, ranging from 26 to 32
+kilobases in length [10], as  well  as  encoding  non‐structural,
+structural, and accessory proteins. Fever, fatigue, and dry cough
+are considered symptoms of COVID‐19. Sometimes, there are  a  few
+patients  with  mild 198  Vo et al. Wearing Masks in COVID‐19 In‐
+fection Prevention To  further  understand  its  characteristics,
+Huang  et  al.  [9]  and  Chan  et al. [14] showed the multifocal
+ground‐glass changes in the chest and 1) that are typical of  vi‐
+ral pneumonia. One of the disease development features is the bi‐
+lateral multiple lobular and sub segmental areas of consolidation
+found in the chest CT scan. Besides, in CT scan images, the lungs
+of older patients were further diffused and  found  to  be  wider
+than  those  of  the younger patients [11, 14]. According to some
+references for the source of the COVID‐19 emergence, most of  the
+infected patients were associated with the seafood wholesale mar‐
+ket in Wuhan, China [9], or the COVID‐19  virus  penetrated  into
+the  market  place before it spread from there [15]; however, the
+spread of  COVID‐19  remains  largely  unknown.  Transmission  of
+COVID‐19  could  be  airborne or human‐to‐human contact; however,
+both aerosol and fecal‐oral  transmission  still  remain  unclear
+[13].  To  date,  critical  public  health measures to reduce the
+transmission of COVID‐19 include quarantine both in community and
+clinicians,  as  well  as timely diagnosis (through testing kits,
+etc.) and strict participation to prevent the spread of the virus
+in  health  care settings [16]. Furthermore, lessons from the in‐
+fluenza virus (H1N1, SARS‐CoV, and MERS‐CoV) outbreak  also  sup‐
+port  to effectively prepare for COVID‐19 outbreak [17].  Wearing
+Masks to Prevent COVID‐19 Infection Influence of  droplet  travel
+in  person‐toperson  transmission As known, reducing transmission
+of the influenza virus in both community and clinicians  may  not
+only  help  support them but also prevent person‐to‐person trans‐
+mission during an influenza virus pandemic. For other  protective
+strategies,  drugs  or vaccines may be limited in permission from
+[14] Droplet diameter (m) Arylesterase (ARE) activity could be  a
+useful  marker in COPD.  PON1 RR phenotype was common in COPD and
+this result is consistent with PON1  genotype  studies  in  COPD.
+Smoking  and RR phenotype can be defined independent determinants
+relation with COPD.  Main Points availability. Thus, it is  truly
+necessary  for  clearly  understanding  the  influence of droplet
+travel in person‐to‐person transmission to support  the  COVID‐19
+infection  prevention. Transmission of COVID‐19 could be airborne
+or through contact, especially large droplets and airborne routes
+are credited to person‐to‐person transmission, which could be the
+cause of a large number of influenza infections, as well as trav‐
+el of droplets, which involves traveling of droplet‐ symptoms and
+then patients gradually start experiencing aches,  nasal  conges‐
+tion,  runny  nose,  sore throat, or diarrhea. Several people who
+are infected do not develop any symptoms;  in  particular,  older
+adults  and  people  with  underlying medical diseases (diabetes,
+heart problems, or high blood pressure) are prone  to  experience
+serious  symptoms,  especially those with a history of close con‐
+tact with COVID‐19‐infected patients and a history of  travel  to
+Wuhan,  China.   The period of incubation is generally 37 days of
+14 days [11]. For example, a 65‐year‐old Chinese man was admitted
+to  Cho  Ray  Hospital  in  Ho  Chi Minh City, Vietnam [12] and a
+35‐yearold man was referred to an  urgent  care  clinic  in  Sno‐
+homish, Washington, USA [13], both had cough and fever during the
+last four days of the incubatory period.  Eurasian  J  Med  2020;
+52(2):  197‐201  Time to evaporate Time to reach ground (2m) as a
+rigid sphere RH=0 and Tair=18C Free‐falling water droplet Time to
+reach Eurasian J Med 2020; 52(2): 197‐201 borne diseases that can
+transmit from one person to another. A typical example for travel
+of droplets is sneezing, which is seen as an exhalation mode with
+common respiratory symptoms; in  particular,  respiratory  infec‐
+tious  symptoms  could  create mucus and stimulate various nerves
+within the nasal mucous membranes and lead to a sneeze.  However,
+the  mechanism of the biological dynamics of a sneeze is a little
+different from that of other respiratory activities. According to
+some  references,  the velocity of the exhaled air in sneezing is
+much larger than that of breathing and coughing [18‐20], and  the
+created total number of droplets during the sneeze is also larger
+than that of other respiratory activities [21]; one can refer  to
+some  references of the distribution of size of droplets produced
+by a cough [22‐24], a sneeze [25‐27], speech [24, 28, 29], and  a
+breath  [24, 30‐33], and the concentration and number of droplets
+[34‐36].  considered to be on the basis of relative humidity, air
+speed,  and  respiratory jets, which could be the result of their
+evaporation and movement from expulsion during respiratory activ‐
+ities.  Specifically,  Xie  et al. [37] calculated both lifetimes
+and size changes of a droplet, as well as how  far  the  droplets
+travel.  The  results  showed  that the droplets with the largest
+size possible  completely  evaporate  before  falling  2  m  away
+(60‐100  m);  these  droplets are moved further (i.e., >6 m [n=50
+ms‐1] in sneezing, >2 m [n=10 ms‐1] in coughing, and  <1  m  [n=1
+ms‐1]  in  breathing). It is really important to develop measures
+of effective engineering control for the prevention of respirato‐
+ry  infectious symptoms, as well as to explore the person‐to‐per‐
+son transmission mechanisms involving travel of droplets  of  in‐
+fectious  diseases. The results suggested that the rapid evapora‐
+tion of small droplets and the quick falling of  larger  droplets
+on  the  ground  or on surfaces, as well as horizontally deported
+large droplets could also  travel  a  long  distance.   Moreover,
+these  droplets  could  be suspended in the air with low relative
+humidity conditions, which can lead to the increase in the possi‐
+bility  of  subsequent  inhalation. Thus, an understanding of the
+travel of droplets has been significant for  developing  measures
+of  effective  engineering  control in the prevention of COVID‐19
+infection and  in  exploring  the  person‐to‐person  transmission
+mechanisms  of infectious diseases.  However, respiratory protec‐
+tion demonstrates that aerial transmission is one of the  assumed
+methods  of transmission of the influenza virus [39]. The results
+of trials confirmed that only large droplets are discovered close
+to  the pa‐ Vo et al. Wearing Masks in COVID‐19 Infection Preven‐
+tion sizes could be found at short distances  from  the  patient,
+and aerosolized transmission could also occur at a close distance
+[41].  Finally, the main transmission of COVID‐19 is  related  to
+the  droplets  created  when a person breathes, talks, coughs, or
+sneezes. When the droplets travel, they get suspended in the  air
+and  quickly  fall on the ground or on surfaces.  Besides, anyone
+can become infected with the virus because of breathing within  1
+m  of  personto‐person  distance as well as touching a contagious
+surface followed by touching eyes, nose, or mouth without washing
+hands.   Effect  of Wearing Masks in COVID‐19 Infection There are
+some randomized controlled clinical trials (RCTs), which are  not
+only  based  on  handwashing  [43‐45]  but  also on wearing masks
+(cloth masks, medical masks, N95 respirators, and surgical masks)
+both  in community and clinicians [46‐49]; however, the trials of
+wearing masks for respiratory protection are limited, and the ef‐
+fect of wearing masks in the COVID‐19 infection prevention is not
+yet clearly understood.  As known, the influenza spread could oc‐
+cur  by could be inhaled with a range of 0.1‐100 m [50‐55]; thus,
+the personal respiratory protective equipment is really needed to
+prevent  or limit the influenza virus outbreak. Besides, N95 res‐
+pirators could be unavailable in many countries at  short  notice
+of  a  pandemic;  therefore,  it is truly important to understand
+clearly the relative effectiveness of personal  respiratory  pro‐
+tective equipment. So far, there are a few comparative studies of
+personal respiratory protective equipment [46,47] and  data  com‐
+paring  the  surgical  mask  with  the  N95 respirator among HCWs
+[56,57]. Although N95 respirators are not regularly suggested for
+seasonal influenza, they could play a role in personal protection
+against the influenza  virus  pandemic  (H1N1,  SARS,  MERS,  and
+COVID‐19 viruses).  The result indicates that HCWs wearing surgi‐
+cal masks are not prone to  experience  influenza  compared  with
+those  wearing  N95  respirators while treating patients with in‐
+fluenza. There are trials for personal protection against  respi‐
+ratory  infections, for example, MacIntyre et al.  [58] performed
+RCTs to investigate the effect of medical masks and N95  respira‐
+tors,  proving  that N95 respirators provided superior protection
+against infections of droplet transmission.  Besides,  to  ensure
+safety and health of HCWs, the superiority of respirators in pre‐
+venting re‐ spiratory infections are also included  in  infection
+control  guidelines.  Currently,  there are only five of a common
+ground around the effect of two kinds of masks (medical masks and
+N95  respirators)  for  HCWs  against influenza [48, 59‐62].  Al‐
+though N95 respirators have been displayed as superior than medi‐
+cal  masks  in  preventing influenza respiratory infection, there
+are still no studies that examined the  laboratory‐confirmed  in‐
+fluenza.  In  other smaller trials, it was found that there is no
+increase in respiratory diseases between HCWs while wearing medi‐
+cal  masks  [59]. Besides, there is only one small‐scale RCT that
+compared medical masks and N95 respirators in HCWs [48], conclud‐
+ing that there is no difference, but there is a lack of an arm of
+controlling. Although medical masks were not designed to  provide
+respiratory  protection  [63],  with lower filtration efficiency,
+they were designed specifically for personal  protection  [6466].
+Moreover,  they  were designed to prevent wound contamination for
+the surgeon [67‐69].  Thus, these large‐scale RCTs were also  un‐
+able  to  demonstrate  any  differences  between the two kinds of
+masks in the influenza infection [60, 61].  A recently  conducted
+trial  identified the effect of cloth masks compared with medical
+masks, concluding that cloth masks could increase the risk of in‐
+fection in HCWs [62]. In addition, the period of wearing the dis‐
+posable mask, extent to which it protects, and invention of reus‐
+able masks should be researched further.  Overall, in the current
+COVID‐19 outbreak, infection of  the  influenza  virus.  However,
+there  are  several  important limitations of the RCTs, including
+the lack of performed measures during the study period  and  non‐
+collection  of  data  regarding  the frequency of device changing
+[70].  If everyone wears masks, we cannot  differentiate  between
+those  who  are  unwell by observing that they are wearing masks.
+Recently, the World Health  Organization  suggested  that  people
+with  respiratory  symptoms  and  those  who care for people with
+symptoms should wear masks [71]. It is truly  important  to  wear
+and  remove  masks correctly to reduce the personto‐person trans‐
+mission of COVID‐19 as well as to ensure correct fit of the  mask
+so that it covers the nose and mouth properly [72, 73]. We should
+use soap with water (or warm water) or hand sanitizer  for  hand‐
+washing,  and make sure that the mask covers the nose, mouth, and
+chin there are no gaps, and we should avoid touching or adjusting
+the masks during use. Similar measures are taken while removing a
+mask, with few 200  Vo et al. Wearing Masks in COVID‐19 Infection
+Prevention  differences:  untie  the bottom tie of the mask, then
+remove top tie and remove the mask from the face; the  mask  must
+be discarded immediately and cannot be reused. Handwashing is the
+final step. Moreover, older adults  and  people  with  underlying
+medical  conditions  are recommended to wear masks, if available.
+In summary, to develop effective measures of prevention  to  con‐
+trol  infectious diseases in both community and clinicians, it is
+necessary to understand clearly the knowledge about prevention of
+the  influenza  virus. Because the COVID‐19 pandemic is worsening
+by the hour, individuals need to rapidly respond  to  this  risk.
+Washing  hands  diligently,  covering coughs, and avoiding crowds
+and close contact are measures to avoid the risks of transmission
+in  the  community.  Wearing masks routinely is especially recom‐
+mended for all individuals to prevent exposure in  the  community
+before  the  vaccine is invented. Therefore, isolation, handwash‐
+ing, and preventing the spread of the  virus  are  the  practical
+strategies  used  to  tackle the spread of COVID‐19. In addition,
+respiratory protection by wearing masks is one of the methods  to
+prevent infection of the influenza virus; however, trials related
+to COVID‐19 are limited. In addition, the period of  wearing  the
+disposable mask, the level of protection of masks, and the inven‐
+tion of reusable masks should be researched further.  Ethics Com‐
+mittee  Approval:  N/A.   Informed  Consent: N/A.  scientists, as
+well as the support of Qui Nhon City study has received no finan‐
+cial  support.   Horcajada  JP, Pumarola T, Martinez JA, et al. A
+nosocomial outbreak of influenza during a period without influen‐
+za  epidemic  activity.  Eur Respir J 2003; 21: 303‐7. [Crossref]
+Dawood FS, Jain S, Finelli L, et al. Emergence of a Novel  Swine‐
+Origin  Influenza A (H1N1) Virus in Humans Novel Swine‐Origin In‐
+fluenza A (H1N1) Virus Investigation Team, New Engl J  Med  2009;
+360: 2605‐15. [Crossref] Cohen J, Enserink M. SWINE FLU After De‐
+lays, WHO Agrees: The 2009 Pandemic  Has  Begun.   Science  2009;
+324:  1496‐7.  [Crossref] Neumann G, Noda T, Kawaoka Y. Emergence
+and pandemic potential of swine‐origin H1N1 influenza virus.  Na‐
+ture  2009;  459: 931‐9.  Donnelly CA, Ghani AC, Leung GM, et al.
+Epidemiological determinants of spread of causal agent of  severe
+acute  respiratory  syndrome  in  Hong  Kong.  Lancet  2003; 361:
+1761‐6. [Crossref] Zhu N, Zhang D, Wang W, et al. A novel  coron‐
+avirus  from  patients with pneumonia in China, 2019 N Engl J Med
+2020; 38: 727‐33. [Crossref] Lu HZ, Stratton CW,  Tang  YW.  Out‐
+break  of pneumonia of unknown etiology in Wuhan, China: The mys‐
+tery and the miracle. J Med Virol Hui DS, Azha EI, Madani TA,  et
+al.  The  continuing  2019‐nCoV  epidemic  threat of novel coron‐
+aviruses to global health ‐ The  latest  2019  novel  coronavirus
+outbreak  in  Wuhan,  China.  Int  J  Infect Dis 2020: 91: 264‐6.
+[Crossref] Huang C, Wang Y, Li X. Clinical features  of  patients
+infected with 2019 novel coronavirus in Wuhan, China Lancet 2020;
+395: 496.  Su S, Wong G, Shi WF, et al. Epidemiology, Genetic Re‐
+combination,  and Pathogenesis of Coronaviruses. Trends Microbiol
+2016; 24: 490‐502.  Diagnosis and treatment  of  new  coronavirus
+Phan LT, Nguyen TV, Luong QC, et al. Importation and Human‐to‐Hu‐
+man Transmission of a Novel Coronavirus in Vietnam. N Engl J  Med
+Holshue  ML.  First  Case of 2019 Novel Coronavirus in the United
+States. N Engl J Med 2020; Chan JFW, Yuan SF, Kok KH,  et  al.  A
+familial  cluster  of  pneumonia  associated  with the 2019 novel
+coronavirus indicating person‐to‐person transmission: a study  of
+a  family  cluster. Lancet Cohen, J. Wuhan seafood market may not
+be   source   of   novel   virus   spreading   globally,    2020.
+org/news/2020/2001/wuhan‐seafood‐marketmay‐not‐be‐source‐novel‐
+virus‐spreading‐globally [Crossref] Carlos WG, Dela Cruz CS,  Cao
+B,  et  al.  Novel  Wuhan (2019‐nCoV) Coronavirus. Am J Resp Crit
+Care 2020; 201: 7‐8. [Crossref] Yoo JH.  The  Fight  against  the
+2019‐nCoV Outbreak: an Arduous March Has Just Begun. J Korean Med
+Sci 2020; 35: e56. [Crossref] Gao NP, Ni JL. Transient CFD  simu‐
+lation  of  the respiration process and inter‐person exposure as‐
+sessment Build Environ 2006; 41: 1214‐22.  Eurasian J  Med  2020;
+52(2):  197‐201  19.  Gupta JK, Lin CH, Chen Q. Flow dynamics and
+characterization of a cough, Indoor Air 2009; 20. Gupta  JK,  Lin
+C,  Chen  QY.  Characterizing  exhaled airflow from breathing and
+talking. Indoor Air 2010; 20: 31‐9. [Crossref] 21. Duguid JP. The
+size and the duration of air‐carriage of respiratory droplets and
+droplet‐nuclei.  J. Hyg 1946; 44: 471‐9. [Crossref] 22.  Fennelly
+KP,  Martyny  JW,  Fulton KE, et al.  Cough‐generated aerosols of
+Mycobacterium tuberculosis ‐ A new method  to  study  infectious‐
+ness.  Am  J  Resp Crit Care 2004; 169: 6049. [Crossref] 23. Yang
+SH, Lee GWM, Chen CM,  et  al.  The  size  and  concentration  of
+droplets  generated  by  coughing in human subjects J Aerosol Med
+2007; 24. Johnson GR, Morawska L. The Mechanism of Breath Aerosol
+Formation.  J Aerosol Med Pulm D 2009; 22: 229‐37. [Crossref] 25.
+Buckland FE, Tyrrell DA. Experiments on spread of colds: 1. Labo‐
+ratory  studies  on dispersal of nasal secretion. J Hyg 1964; 62:
+365‐77. [Crossref] 26. Nicas M, Nazaroff W, Hubbar A. Toward  un‐
+derstanding the risk of secondary airborne infection: Emission of
+respirable pathogens.  J  Occup  Environ  Hyg  2005;  2:  143‐54.
+[Crossref] 27. Gralton J, Tovey E, McLaws ML, et al. The role 28.
+Chao CYH, Wan MP, Morawska L, et al. Characterization of  expira‐
+tion  air  jets and droplet size distributions immediately at the
+mouth opening J Aerosol Sci 2009; 40: 122‐33. [Crossref] 29.  Xie
+XJ,  Li  YG,  Sun  HQ, et al. Exhaled droplets due to talking and
+coughing J R Soc Interface 2009; 6: S703‐14. [Crossref]  30.  Ed‐
+wards  DA,  Man  JC, Brand P, et al. Inhaling to mitigate exhaled
+bioaerosols P Natl Acad Sci USA 200; 101: 17383‐8. [Crossref] 31.
+Fabian P, McDevitt JJ, DeHaan WH, et al. Influenza Virus in Human
+Exhaled Breath: An Observational Study Plos One 2008;  3:  e2691.
+32.  Wainwright CE, France MW, ORourke P, et al.  Cough‐generated
+aerosols of Pseudomonas aeruginosa and other Gram‐negative bacte‐
+ria from patients with cystic fibrosis. Thorax 2009; 64: 33. Alm‐
+strand AC, Bake B, Ljungstrom E, et al. Effect  34.  Haslbeck  K,
+Schwarz K, Hohlfeld JM, et al. Submicron droplet formation in the
+human lung. J Aerosol Sci 2010; 41: 429‐38. [Crossref] 35.  Holm‐
+gren  H,  Ljungstrom E, Almstrand AC, et al.  from 0.01 to 2.0 mu
+m. J Aerosol Sci 2010; 41: 36. Morawska L, Johnson GR,  Ristovski
+ZD, et al.  Size distribution and sites of origin of droplets ex‐
+pelled from the human respiratory tract during expiratory activi‐
+ties. J Aerosol Sci 2009; 40: Eurasian J Med 2020; 52(2): 197‐201
+37. Fabian P, Brain J, Houseman EA, et al. Origin of Pulm D 2011;
+24:  137‐47.  [Crossref]  38. Xie X, Li Y, Chwang ATY, et al. How
+far droplets can move in indoor  environments  ‐  revisiting  the
+Wells evaporation‐falling curve Indoor Air 2007; 39. Wells WF. On
+air‐borne infection: Study II. Droplets and droplet nuclei. Am  J
+Hyg  1934;  20:  6118.  [Crossref] 40. MacIntyre CR, Chughtai AA,
+Seale H, et al. Respiratory  protection  for  healthcare  workers
+treating  Ebola  virus disease (EVD): Are facemasks sufficient to
+meet occupational health and safety obligations?. Int J Nurs Stud
+2014;  51:  41. Osterholm MT, Moore KA, Kelley NS, et al.  Trans‐
+mission of Ebola Viruses: What we know and what we do  not  know.
+mBio  2015;  6: e01154. [Crossref] 42. Shuchman M. Improving pro‐
+tection for Ebola workers. Can Med Assoc J 2015; 187: E85‐6.  43.
+Delamou  A,  Beavogui AH, Konde MK, et al.  Ebola: better protec‐
+tion needed for Guinean health‐care workers.  Lancet  2015;  385:
+503‐4.   44.  Perez‐Garza  J, Garcia S, Heredia N. Removal of Es‐
+cherichia coli and Enterococcus faecalis after hand washing  with
+antimicrobial  and nonantimicrobial soap and persistence of these
+bacteria in rinsates.  J Food Protect 2017; 80:  1670‐5.  [Cross‐
+ref]  45.  Larson EL, Lin SX, Gomez‐Pichardo C, et al.  Effect of
+antibacterial home cleaning and handwashing  products  on  infec‐
+tious  disease  symptoms  ‐ A randomized, double‐blind trial. Ann
+Intern Med 2004; 140: 321‐9. [Crossref] 46.  Rabie  T,  Curti  V.
+Handwashing  and  risk  of respiratory infections: a quantitative
+systematic 47. Cowling BJ, Chan KH, Fang VJ, et al. Facemasks and
+Hand  Hygiene  to  Prevent Influenza Transmission in Households A
+Cluster Randomized Trial. Ann Intern  Med  2009;  151:  437‐W144.
+48.  Maclntyre  CR,  Cauchemez S, Dwyer DE, et al.  Face Mask Use
+and Control of Respiratory Virus Transmission in Households Emerg
+Infect  Dis Vo et al. Wearing Masks in COVID‐19 Infection Preven‐
+tion 49. Loeb M, Dafoe N, Mahony J, et al. Surgical mask  vs  N95
+respirator  for  preventing Influenza among health care workers a
+randomized trial.  JAMA 2009; 302: 1865‐71. [Crossref] 50.  Atrie
+D,  Worster A. Surgical mask versus N95 respirator for preventing
+influenza among health care workers: a randomized  trial.  Can  J
+Emerg  Med  2012; 14: 50‐2. [Crossref] 51. Maines TR, Jayarama A,
+Belser JA, et al. Transmission and Pathogenesis  of  Swine‐Origin
+2009  A(H1N1)  Influenza  Viruses  in  Ferrets and Mice.  Science
+2009; 325: 484‐7. [Crossref] 52. Tellier R. Transmission  of  in‐
+fluenza  A  in  human  beings, Lancet Infect Dis 2007; 7: 759‐60.
+53. Lee RV.Transmission of influenza A in  human  beings.  Lancet
+Infect  Dis  2007;  7: 760‐1.  54. Tang JW, Li G. Transmission of
+influenza A in human beings. Lancet Infect Dis 2007; 7: 758.  55.
+Brankston  G,  Gitterman  L,  Hirji Z, et al. Transmission of in‐
+fluenza A in human beings. Lancet Infect  Dis  2007;  7:  257‐65.
+[Crossref] 56. Naik AD, Issac TT, Street RL, et al. Understanding
+the quality chasm for  hypertension  control  58.  MacIntyre  CR,
+Chughtai  AA,  Rahma B, et al.  The efficacy of medical masks and
+respirators against respiratory infection in healthcare  workers.
+Influenza  Other  Resp  2017;  11: 511‐7.  59. Jacobs JL, Ohde S,
+Takahashi O, et al. Use of surgical face masks to reduce the  in‐
+cidence  of the common cold among health care workers in Japan: A
+randomized controlled trial. Am J Infect Control 2009; 37: 417‐9.
+[Crossref]  60.  MacIntyre  CR,  Wang  QY, Cauchemez S, et al.  A
+cluster randomized clinical trial comparing fit‐tested  and  non‐
+fit‐tested N95 respirators to medical masks to prevent respirato‐
+ry virus infection in health care workers. Influenza  Other  Resp
+2011; 5: 170‐9. [Crossref] 61. MacIntyre CR, Wang QY, Seale H, et
+al. A Randomized Clinical Trial of Three Options for N95 Respira‐
+tors  and  Medical Masks in Health Work‐ ers. Am J Resp Crit Care
+2013; 187: 960‐6.  MacIntyre CR, Seale H, Dung TC, et al. A clus‐
+ter  randomised  trial of cloth masks compared with medical masks
+in healthcare workers. BMJ  Open  2015;  5:  e006577.  [Crossref]
+Shine KI, Rogers B, Goldfrank LR. Novel H1N1 Influenza and Respi‐
+ratory Protection for Health Care Workers. New Engl J  Med  2009;
+361:  Balazy  A, Toivola M, Adhikari A, et al. Do N95 respirators
+provide 95% protection level against airborne  viruses,  and  how
+adequate  are surgical masks? Am J Infect Control 2006; 34: 51‐7.
+Lawrence RB, Duling MG, Calvert CA, et al.  Comparison of perfor‐
+mance of three different types of respiratory protection devices.
+J Occup Environ Hyg 2006; 3: 465‐74. [Crossref] Weber A,  Willeke
+K, Marchioni R, et al. Aerosol penetration and leakage character‐
+istics of masks used in the health‐care  industry.  Am  J  Infect
+Control 1993; 21: 167‐73. [Crossref] Sellden E. Is routine use of
+a face mask necessary in the operating room? Anesthesiology 2010;
+Mitchell  NJ,  Hunt  S.  Surgical face masks in modern operating‐
+rooms ‐ a costly and unnecessary ritual. J Hosp Infect 1991;  18:
+239‐42.   Tunevall  TG, Bessey PQ. Postoperative wound infections
+and surgical face masks ‐ a controlledstudy. World J  Surg  1991;
+15:  383‐8.  [Crossref] Palen TE, Felix KG. Surgical masks vs N95
+respirators for preventing influenza. JAMA  2010;  303:  Feng  S,
+Shen  C, Xia N, et al. Rational use of face masks in the COVID‐19
+pandemic. Lancet Respir Med 2020; 8: 434‐6. [Crossref] Does Wear‐
+ing  a  Mask  Protect You from the Flu and Other Viruses? Health‐
+line, 2020. Available COVID‐19 (novel coronavirus)  ‐  face  mask
+and hygiene advice. Ministry of Health Manat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

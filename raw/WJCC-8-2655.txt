@@ -1,0 +1,256 @@
+WJ C C
+Clinical Cases
+World J Clin Cases 2020 June 26; 8(12): 2655-2661
+CASE REPORT
+Low-grade fever during COVID-19 convalescence: A report of 3
+Shu-Fan Zhuang, Jia Hu, Nan Qiao, Zhi-Hui Lan, Jun-Yu Lai, Jian-Guang Wu, Xiao-Yong Wu
+(0000-0002-2613-896X); Jia Hu
+(0000-0002-4459-3106); Nan Qiao
+(0000-0001-8202-1945); Zhi-Hui Lan
+(0000-0003-0629-0267); Jun-Yu Lai
+Wu (0000-0002-4005-6776); XiaoYong Wu (0000-0002-2229-5183).
+J, Lan ZH, and Lai JY treated these
+patients and participated in
+collecting data; Wu JG guided
+treatment; Wu XY performed the
+read and approved the final
+Shu-Fan Zhuang, Jia Hu, Department of Gastroenterology, The Affiliated Hospital of Jiangxi
+Nanchang 330088, Jiangxi Province, China
+Traditional Chinese Medicine, Nanchang 330006, Jiangxi Province, China
+Jun-Yu Lai, Jian-Guang Wu, Department of Cardiology, The Affiliated Hospital of Jiangxi
+Traditional Chinese Medicine, Nanchang 330006, Jiangxi Province, China
+Medicine, 445 Bayi Avenue, Donghu District, Nanchang 330006, Jiangxi Province, China.
+Supported by Emergency Special
+Project on Prevention and
+Treatment of COVID-19 with
+Traditional Chinese Medicine, No.
+Informed consent statement:
+Informed written consent was
+obtained from the patient for
+publication of this report and any
+accompanying images.
+Conflict-of-interest statement: The
+conflict of interest.
+CARE Checklist (2016) statement:
+Checklist (2016), and the
+revised according to the CARE
+Low-grade fever during convalescence is an atypical symptom of coronavirus
+disease 2019 (COVID-19). Reports of such cases are rare, and the mechanism and
+outcome of low-grade fever during COVID-19 convalescence are not completely
+clear. We report 3 cases with low-grade fever during COVID-19 convalescence
+and highlight the main clinical, radiographic, and laboratory characteristics,
+thereby increasing the level of expertise in the clinical management of COVID-19
+during convalescence and facilitating individualized decision-making.
+CASE SUMMARY
+We describe 3 patients with COVID-19, two females aged 62 and 66 years and a
+male 55 years, who had low-grade fever during COVID-19 convalescence. All 3
+patients had no other discomfort or comorbidities during low-grade process.
+Lesions on computed tomography in all 3 patients had resolved during this
+period. Two patients tested negative on two consecutive severe acute respiratory
+syndrome coronavirus 2 tests with an interval of at least 24 h between tests. Body
+temperature in all 3 patients returned to normal after several days without
+treatment, and fever recurrence was not observed.
+Enhancing the knowledge of low-grade fever during COVID-19 convalescence
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+distribute, remix, adapt, build
+on different terms, provided the
+original work is properly cited and
+First decision: April 24, 2020
+Revised: May 5, 2020
+may increase the expertise in the delivery of optimal healthcare services.
+Key words: COVID-19; Convalescence; Low-grade fever; Clinical characteristics; SARSCoV-2; Case report
+Core tip: Coronavirus disease 2019 (COVID-19) has spread rapidly worldwide, and our
+knowledge of this infection is still insufficient in many respects. We present 3 cases with
+low-grade fever during COVID-19 convalescence. These cases highlight the main
+clinical, radiographic, and laboratory characteristics of COVID-19 and help provide
+guidance for frontline medical staff in terms of clinical management and individualized
+decision-making during convalescence.
+Citation: Zhuang SF, Hu J, Qiao N, Lan ZH, Lai JY, Wu JG, Wu XY. Low-grade fever during
+COVID-19 convalescence: A report of 3 cases. World J Clin Cases 2020; 8(12): 2655-2661
+Since the outbreak in December 2019, coronavirus disease 2019 (COVID-19) has
+spread worldwide[1]. The number of infected cases and the death toll have markedly
+increased [2] . Studies have confirmed that COVID-19 is caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) via human to human
+transmission[3]. Although there have been reports on the epidemiological and clinical
+characteristics of COVID-19[1,4], our knowledge on this infection is still insufficient in
+many respects, such as symptoms, trends, prognosis, etc. In particular, if disease
+fluctuations or recurrence develop during convalescence, which refers to recovered
+non-febrile patients without respiratory symptoms[5], a patient's treatment may fail
+and the patient may spread the virus to others. Thus, we report 3 clinical cases of lowgrade fever (axillary temperature of 37-38°C) during COVID-19 convalescence, and
+highlight the main clinical, radiographic, and laboratory characteristics. We hope that
+this report will enhance the knowledge of COVID-19 and help increase the level of
+expertise in frontline medical staff with regard to clinical management and
+individualized decision-making during convalescence.
+CASE PRESENTATION
+Chief complaints
+Patient A was a 62-year-old female who had a fever, cough, and anorexia for 1 wk,
+Patient B was a 66-year-old female with a fever and cough for 2 d, and Patient C was a
+55-year-old male with a fever, cough, and fatigue for 4 d.
+History of present illness
+Patient A: From disease onset on 1 February 2020, the patient had a fever with a
+maximum axillary temperature of 39.8°C, which was accompanied by a cough and
+upper respiratory tract infection and was treated with antibiotics and ribavirin.
+Isolation and preventive measures were not taken. The patient's condition did not
+improve, and COVID-19 was confirmed on February 7 by positive SARS-CoV-2
+oropharyngeal swab test at our local Center for Disease Control (CDC). She was
+transferred to an isolation ward, and antiviral treatment with arbidol was
+administered. Her temperature returned to normal on February 10, but new lesions
+and arbidol were discontinued on February 18 and February 20, respectively, and no
+drugs were used since then. During convalescence, the patient's cough and anorexia
+were completely relieved, and two consecutive SARS-CoV-2 tests were negative with
+an interval of at least 24 h between tests. However, she developed low-grade fever for
+3 d from February 23 to 25 without any other discomfort or comorbidities, and her CT
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+Patient B: From disease onset on 4 February 2020, the patient had a fever with a
+maximum axillary temperature of 38.1°C, accompanied by a cough (details shown in
+common upper respiratory tract infection and was treated with the Lianhua Qingwen
+not improve, and COVID-19 was confirmed on February 5 by positive SARS-CoV-2
+oropharyngeal swab test at our local CDC. She was transferred to an isolation ward
+17, and no drugs were used since then. During convalescence, the patient's cough was
+remained positive. She developed low-grade fever for 4 d from February 23 to 26
+temperature returned to normal without treatment.
+Patient C: From disease onset on 31 January 2020, the patient had a fever with a
+maximum axillary temperature of 39.9°C, which was accompanied by a cough and
+respiratory tract infection and was treated with antibiotics. Isolation and preventive
+measures were not taken, and the patient's condition did not improve. COVID-19 was
+confirmed on February 3 by positive SARS-CoV-2 oropharyngeal swab test at our
+local CDC. He was transferred to an isolation ward and treated with arbidol,
+interferon, glucocorticoid, and expectorants. His temperature returned to normal on
+drugs were discontinued on February 13. During convalescence, the patient's cough
+and fatigue were completely relieved, and two consecutive SARS-CoV-2 tests were
+negative with an interval of at least 24 h between tests. However, he developed lowgrade fever for 3 d from February 24 to 26 without any other discomfort or
+normal without treatment.
+Personal and family history
+Patient A had contact with a COVID-19-confirmed patient (not confirmed at that
+time). Patient B had no contact history in the affected regions or with infected persons.
+Patient C had contact with persons from Wuhan, China, where the epidemic was first
+Physical examination upon admission
+In all 3 patients, Velcro rales were heard in both lungs at the onset and disappeared
+during convalescence.
+Laboratory examinations
+Blood cell analysis and SARS-CoV-2 test results in the 3 patients at different time
+function, electrolytes, lipid, and glucose), tumor biomarkers, and coagulation function
+Imaging examinations
+Patient A: On February 5 (onset stage), ground-glass opacities (GGO) were seen in the
+posterior right lower lung. On February 13 (temperature returned to normal), the
+lesion was significantly enlarged with solid shadows and blurred edges. On February
+24 (low-grade fever stage during convalescence), the lesions had been absorbed and
+the density was decreased.
+Patient B: On February 6 (onset stage), there were multiple irregular schistose GGO in
+both lungs (mainly under the pleura) with consolidations and strip shadows. On
+February 16 (temperature returned to normal) the lesions were partially absorbed, the
+range reduced, and the density decreased. On February 24 (low-grade fever stage
+during convalescence), the lesions were further absorbed and were less dense.
+Patient C: On February 3 (onset stage), small patchy GGO appeared in the right lung.
+On February 10 (temperature returned to normal), the lesions were increased and
+enlarged, showing multiple irregular schistose GGO in both lungs (mainly under the
+pleura) and some strip shadows in the posterior left lower lung. On February 25 (lowgrade fever stage during convalescence), the lesions were absorbed and reduced, with
+partial strip changes.
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+Patient A
+Patient B
+Patient C
+Age in yr
+Hb: 110-160 g/L
+PCT: 0.5-1.5 ng/mL
+CRP: ≤ 10 mg/L
+SAA: ≤ 10 mg/L
+SARS-CoV-2 test
+++: Severe; +: Mild or moderate. CRP: C-reactive protein; Hb: Hemoglobin; NA: Not available; N: Negative; NEUT: Neutrophils; P: Positive; PCT:
+Procalcitonin; PLT: Platelet; SAA: Serum amyloid A; RBC: Red blood cell; WBC: White blood cell.
+FINAL DIAGNOSIS
+The 3 patients were confirmed with COVID-19 by positive SARS-CoV-2
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+returned to normal. Lesions had resolved in all 3 patients when low-grade fever occurred. Red arrows indicate new lesions.
+oropharyngeal swab test at our local CDC.
+All 3 patients did not receive any treatment for low-grade fever, and body
+temperature returned to normal after several days.
+OUTCOME AND FOLLOW-UP
+The 3 patients had no recurrence of low-grade fever, any other discomfort, or
+comorbidities. Patients A and C had no recurrence of positive SARS-CoV-2 tests.
+SARS-CoV-2 tests in Patient B were negative on March 4 and did not change to
+Self-limiting low-grade fever during COVID-19 convalescence is an atypical symptom
+of infectious diseases. The characteristics of the 3 presented cases are summarized as
+All 3 patients experienced leukopenia and neutropenia during low-grade fever.
+Leukopenia and neutropenia often indicate low immunity[6,7] and are more common in
+COVID-19 patients than in non-COVID-19 patients[8]. The trend in white blood cells in
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+the 3 patients shifted with disease onset, normothermia, and low-grade fever. That is,
+leukopenia occurred during the course of fever but returned to normal when the
+patients were normothermic. We speculate that these patients with COVID-19 had
+low-grade fever during convalescence because their immunity was not fully
+recovered at this stage. This suggests that disease fluctuations and recurrence of
+positive SARS-CoV-2 may occur in convalescence [9] , thus surveillance cannot be
+relaxed at this stage.
+The CT features in the 3 patients were consistent with typical COVID-19 and
+include involvement of both lung parenchyma and interstitium; the GGO and a single
+lesion appearing in early-phase of disease; coexistence of aggravation and repair of
+CT signs in the advanced phase; and presentation of multifocal distributions in the
+middle and lower lung areas and the posterior lung region[10]. Other studies have
+reported that during recovery from COVID-19 (without severe respiratory distress),
+severe lung abnormalities are seen approximately 10 d after initial onset of
+symptoms[11]. This suggests that changes in CT lesions are not directly related to body
+temperature, and these two sets of data could complement each other in risk
+assessment of COVID-19.
+During the course of low-grade fever, the 3 patients had no other discomfort or
+comorbidities, and their temperature returned to normal without any treatment. We
+speculate that low-grade fever may be driven by SARS-CoV-2 evolution with genetic
+diversity. Phan[3] found mutations and deletions on coding and non-coding regions in
+complete or near-complete genomes of SARS-CoV-2. Therefore, the emergence of
+deficient genomes during mutation and recombination of the virus is not
+surprising [12] , and this is similar to cell wall-deficient bacteria [13] . Non-dominant
+deficient genomes can easily escape immune attacks while dominant genomes are
+with complete viral replication [14] and stimulating the host's antiviral immune
+It is noteworthy that two of the 3 patients had consecutive negative SARS-CoV-2
+tests with an interval of at least 24 h between tests but another patient remained
+positive when low-grade fever occurred. To date, no research has accurately
+confirmed the contagious period of COVID-19. The return of a positive SARS-CoV-2
+RNA test during convalescence has been reported[9]. In addition to the basic immunity
+of the host and the high-mutation biological characteristics of SARS-CoV-2, detection
+could be affected by the site at which specimens are obtained, operators’ experience,
+and the actual viral load[9,16]. Furthermore, SARS-CoV-2 infection mainly focuses on
+the lungs rather than the upper respiratory tract[17], and some studies have indicated
+that higher viral loads have been detected in the nose than in the throat[9]; thus,
+sampling during the recovery stage using throat a swab or sputum may not detect the
+Given the possibility of turning positive again for SARS-CoV-2 and to provide
+warnings for other COVID-19 cases, we suggest that: (1) Multiple biological sample
+tests should be considered, including oropharyngeal swabs, nasopharyngeal swabs,
+sputum, bronchoalveolar lavage fluid, blood, stool, and urine, especially for highly
+suspected false-negative SARS-CoV-2 candidates; (2) The number of consecutive
+negative SARS-CoV-2 tests with an interval of at least 24 h between tests should be
+increased to 3 before discharge; (3) All discharged patients should extend home
+quarantine for at least 21 d; and (4) Patients who have not turned negative for SARSCoV-2 more than 1.5 mo should be closely monitored and even during convalescence
+should also be regularly tested for risk assessment.
+Low-grade fever during convalescence is an atypical symptom of COVID-19. These
+cases are not rare, but the mechanism and outcome of low-grade fever during
+convalescence is not yet completely clear. Enhancing the knowledge on low-grade
+fever during COVID-19 convalescence might facilitate refined risk surveillance,
+precision risk assessment, and dynamic risk management, thereby increasing the level
+of expertise for tailored delivery of optimal healthcare services for each patient with
+Zhuang SF et al. Low-grade fever during COVID-19 convalescence
+Ling Y, Xu SB, Lin YX, Tian D, Zhu ZQ, Dai FH, Wu F, Song ZG, Huang W, Chen J, Hu BJ, Wang S,
+Mao EQ, Zhu L, Zhang WH, Lu HZ. Persistence and clearance of viral RNA in 2019 novel coronavirus
+Hastreiter AA, Makiyama EN, Borelli P, Fock RA. Impairment of G-CSF receptor on granulocytic
+Wen J, Yang T, Wang J, Ma X, Tong Y, Zhao Y. Kanglaite Injection Combined with Chemotherapy
+versus Chemotherapy Alone for the Improvement of Clinical Efficacy and Immune Function in Patients
+Li YX, Wu W, Yang T, Zhou W, Fu YM, Feng QM, Ye JM. [Characteristics of peripheral blood leukocyte
+Chen D, Xu W, Lei Z, Huang Z, Liu J, Gao Z, Peng L. Recurrence of positive SARS-CoV-2 RNA in
+Zhou S, Wang Y, Zhu T, Xia L. CT Features of Coronavirus Disease 2019 (COVID-19) Pneumonia in 62
+Pan F, Ye T, Sun P, Gui S, Liang B, Li L, Zheng D, Wang J, Hesketh RL, Yang L, Zheng C. Time Course
+of Lung Changes at Chest CT during Recovery from Coronavirus Disease 2019 (COVID-19). Radiology
+Ismail SNFB, Baharum SN, Fazry S, Low CF. Comparative genome analysis reveals a distinct influence
+of nucleotide composition on virus-host species-specific interaction of prawn-infecting nodavirus. J Fish
+Xu Y, Zhang B, Wang L, Jing T, Chen J, Xu X, Zhang W, Zhang Y, Han J. Unusual features and
+Saira K, Lin X, DePasse JV, Halpin R, Twaddle A, Stockwell T, Angus B, Cozzi-Lepri A, Delfino M,
+Dugan V, Dwyer DE, Freiberg M, Horban A, Losso M, Lynfield R, Wentworth DN, Holmes EC, Davey R,
+Wentworth DE, Ghedin E; INSIGHT FLU002 Study Group; INSIGHT FLU003 Study Group. Sequence
+analysis of in vivo defective interfering-like RNA of influenza A H1N1 pandemic virus. J Virol 2013; 87:
+Boergeling Y, Rozhdestvensky TS, Schmolke M, Resa-Infante P, Robeck T, Randau G, Wolff T, Gabriel
+G, Brosius J, Ludwig S. Evidence for a Novel Mechanism of Influenza Virus-Induced Type I Interferon
+Li Z, Yi Y, Luo X, Xiong N, Liu Y, Li S, Sun R, Wang Y, Hu B, Chen W, Zhang Y, Wang J, Huang B,
+Lin Y, Yang J, Cai W, Wang X, Cheng J, Chen Z, Sun K, Pan W, Zhan Z, Chen L, Ye F. Development
+and clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis. J
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei
+Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q,
+Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+7041 Koll Center Parkway, Suite 160, Pleasanton, CA 94566, USA

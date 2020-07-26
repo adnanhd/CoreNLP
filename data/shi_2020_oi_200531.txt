@@ -1,609 +1,660 @@
-Original Investigation | Psychiatry
-Prevalence of and Risk Factors Associated
-With Mental Health Symptoms Among the General Population
-in China During the Coronavirus Disease 2019 Pandemic
-Le Shi, PhD; Zheng-An Lu, MSc; Jian-Yu Que, MSc; Xiao-Lin Huang, MSc; Lin Liu, MSc; Mao-Sheng Ran, PhD; Yi-Miao Gong, MA; Kai Yuan, PhD; Wei Yan, PhD;
-Yan-Kun Sun, PhD; Jie Shi, MD, PhD; Yan-Ping Bao, PhD; Lin Lu, MD, PhD
-Key Points
-IMPORTANCE People exposed to coronavirus disease 2019 (COVID-19) and a series of imperative
-containment measures could be psychologically stressed, yet the burden of and factors associated
-with mental health symptoms remain unclear.
-Question What are the patterns of and
-factors associated with mental health
-conditions among the general
-population during the coronavirus
-OBJECTIVE To investigate the prevalence of and risk factors associated with mental health
-symptoms in the general population in China during the COVID-19 pandemic.
-disease 2019 (COVID-19) outbreak
-in China?
-Findings In this survey study with
-DESIGN, SETTING, AND PARTICIPANTS This large-sample, cross-sectional, population-based,
-56 679 participants across all 34
-province-level regions in China, 27.9% of
-province-level regions in China and included participants aged 18 years and older. Data analysis was
-participants had symptoms of
-performed from March to May 2020.
-depression, 31.6% had symptoms of
-anxiety, 29.2% had symptoms of
-MAIN OUTCOMES AND MEASURES The prevalence of symptoms of depression, anxiety, insomnia,
-insomnia, and 24.4% had symptoms of
-and acute stress among the general population in China during the COVID-19 pandemic was
-acute stress during the outbreak.
-evaluated using the Patient Health Questionnaire–9, Generalized Anxiety Disorder–7, Insomnia
-Factors independently associated with
-Severity Index, and Acute Stress Disorder Scale. Logistic regression analyses were used to explore
-negative mental health outcomes
-demographic and COVID-19–related risk factors.
-included having confirmed or suspected
-COVID-19, having a relative with
-RESULTS Of 71 227 individuals who clicked on the survey link, 56 932 submitted the questionnaires,
-confirmed or suspected COVID-19,
-for a participation rate of 79.9%. After excluding the invalid questionnaires, 56 679 participants
-having occupational exposure risks,
-(mean [SD] age, 35.97 [8.22] years; 27 149 men [47.9%]) were included in the study; 39 468
-living in Hubei province, and
-respondents (69.6%) were aged 18 to 39 years. During the COVID-19 pandemic, the rates of mental
-experiencing quarantine and delays in
-health symptoms among the survey respondents were 27.9% (95% CI, 27.5%-28.2%) for depression,
-returning to work.
-31.6% (95% CI, 31.2%-32.0%) for anxiety, 29.2% (95% CI, 28.8%-29.6%) for insomnia, and 24.4%
-(95% CI, 24.0%-24.7%) for acute stress. Participants with confirmed or suspected COVID-19 and
-their family members or friends had a high risk for symptoms of depression (adjusted odds ratios
-[ORs], 3.27 [95% CI, 1.84-5.80] for patients; 1.53 [95% CI, 1.26-1.85] for family or friends), anxiety
-(adjusted ORs, 2.48 [95% CI, 1.43-4.31] for patients; 1.53 [95% CI, 1.27-1.84] for family or friends),
-insomnia (adjusted ORs, 3.06 [95% CI, 1.73-5.43] for patients; 1.62 [95% CI, 1.35-1.96] for family or
-friends), and acute stress (adjusted ORs, 3.50 [95% CI, 2.02-6.07] for patients; 1.77 [95% CI, 1.462.15] for family or friends). Moreover, people with occupational exposure risks and residents in Hubei
-Meaning The mental health burden
-associated with COVID-19 is
-considerable among the general
-population of China, suggesting that
-mental health interventions are in
-urgent demand during the COVID-19
-pandemic, especially for some at-risk
-province had increased odds of symptoms of depression (adjusted ORs, 1.96 [95% CI, 1.77-2.17] for
-occupational exposure; 1.42 [95% CI, 1.19-1.68] for Hubei residence), anxiety (adjusted ORs, 1.93
-[95% CI, 1.75-2.13] for occupational exposure; 1.54 [95% CI, 1.30-1.82] for Hubei residence), insomnia
-(adjusted ORs, 1.60 [95% CI, 1.45-1.77] for occupational exposure; 1.20 [95% CI, 1.01-1.42] for Hubei
-residence), and acute stress (adjusted ORs, 1.98 [95% CI, 1.79-2.20] for occupational exposure; 1.49
-+ Supplemental content
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-[95% CI, 1.25-1.79] for Hubei residence). Both centralized quarantine (adjusted ORs, 1.33 [95% CI,
-1.10-1.61] for depression; 1.46 [95% CI, 1.22-1.75] for anxiety; 1.63 [95% CI, 1.36-1.95] for insomnia;
-1.46 [95% CI, 1.21-1.77] for acute stress) and home quarantine (adjusted ORs, 1.30 [95% CI, 1.25-1.36]
-for depression; 1.28 [95% CI, 1.23-1.34] for anxiety; 1.24 [95% CI, 1.19-1.30] for insomnia; 1.29 [95%
-CI, 1.24-1.35] for acute stress) were associated with the 4 negative mental health outcomes. Being at
-work was associated with lower risks of depression (adjusted OR, 0.85 [95% CI, 0.79-0.91]), anxiety
-(adjusted OR, 0.92 [95% CI, 0.86-0.99]), and insomnia (adjusted OR, 0.87 [95% CI, 0.81-0.94]).
-CONCLUSIONS AND RELEVANCE The results of this survey indicate that mental health symptoms
-may have been common during the COVID-19 outbreak among the general population in China,
-especially among infected individuals, people with suspected infection, and people who might have
-contact with patients with COVID-19. Some measures, such as quarantine and delays in returning to
-work, were also associated with mental health among the public. These findings identify populations
-at risk for mental health problems during the COVID-19 pandemic and may help in implementing
-mental health intervention policies in other countries and regions.
-In December 2019, the coronavirus disease 2019 (COVID-19) outbreak occurred and aroused global
-attention.1 It has infected more than 6.1 million people and caused 376 000 deaths worldwide across
-216 countries, areas, or territories according to June 3, 2020, data from the World Health
-Organization.2 In contrast to previous epidemics and pandemics, such as severe acute respiratory
-syndrome and Middle East respiratory syndrome, COVID-19 is more contagious and spreads faster.3
-The World Health Organization officially announced that COVID-19 was a pandemic and called
-on the whole world to work together to confront this infection.4 Compulsory measures, such as
-implemented in China and other countries to impede further escalation of the pandemic.5-8 Facing
-this large-scale infectious public health event and these enormous disruptions to daily life, people are
-under unprecedented pressure and are experiencing severe psychological distress.9
-Few studies have investigated COVID-19–related mental health symptoms in the general
-population. One pilot study10 in China reported that nearly one-half of the respondents considered
-the mental health impact of COVID-19 as moderate or severe, and one-third exhibited anxiety
-symptoms. To set priorities for public health policies and implement effective health care
-interventions, the prevalence of mental health symptoms and factors that are associated with them
-during the COVID-19 outbreak need to be determined urgently. Thus, we conducted a large-sample,
-anxiety, insomnia, and acute stress and potential risk factors in the general population in China.
-Study Design
-questionnaire. This study follows the American Association for Public Opinion Research (AAPOR)
-reporting guideline.
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-in China. The survey link was posted on the website. We used a convenience sampling method. The
-registered members clicked the link on the platform and responded to the survey voluntarily until the
-convenience sample covered all 34 province-level regions in China. This was an anonymous survey,
-and confidentiality of data was ensured.
-Study Population
-The respondents were all registered members of Joybuy. A total of 71 227 individuals clicked on the
-survey link, and 57 006 individuals commenced the survey, among whom 74 individuals refused to
-provide informed consent and 56 932 participants provided informed consent and submitted the
-questionnaires. One hundred fifty-six questionnaires that did not provide valid age information were
-excluded from the analysis. Ninety-seven respondents who were younger than 18 years were also
-present conditions.
-Measurements and Covariates
-The survey lasted approximately 15 minutes and had 4 parts. The first part gathered demographic
-information of the participants, including gender, age, living area (urban vs rural), level of education,
-marital status, monthly family income, geographic region, history of chronic diseases, history of
-psychiatric disorders, family history of psychiatric disorders, and occupation. The second part asked
-epidemic-related questions. The third part evaluated isolation conditions and social attitudes toward
-The fourth part of the questionnaire consisted of 4 standardized scales, including the Chinese
-versions of Patient Health Questionnaire–9,11 Generalized Anxiety Disorder–7,12 Insomnia Severity
-Index,13 and Acute Stress Disorder Scale,14 which measured symptoms of depression, anxiety,
-insomnia, and acute stress, respectively. The total scores of these scales were interpreted as follows:
-Patient Health Questionnaire–9, normal (0-4), mild (5-9), moderate (10-14), and severe (15-27)
-depression; Generalized Anxiety Disorder–7, normal (0-4), mild (5-9), moderate (10-14), and severe
-(15-21) anxiety; Insomnia Severity Index, normal (0-7), subthreshold (8-14), moderate (15-21), and
-severe (22-28) insomnia; and Acute Stress Disorder Scale, acute stress symptoms (a dissociative
-cluster score ⱖ9 and cumulative re-experiencing, avoidance, and arousal cluster scores ⱖ28). In the
-present study, cutoff scores of 5 for the Patient Health Questionnaire–9, 5 for the Generalized
-Anxiety Disorder–7 scale, and 8 for the Insomnia Severity Index were adopted to detect symptoms of
-depression, anxiety, and insomnia.
-In this study, frontline workers are considered to be individuals who directly participated in the
-control of COVID-19, covering a wide range of occupations (eg, medicine, research, public health,
-media, security work, police, community work, emergency material delivery services, charity,
-construction, management, and psychological interventions). Frontline workers were presumed to
-have direct contact with patients with COVID-19. They were also presumed to possess personal
-protective equipment when they were in contact with patients with COVID-19. People with
-occupational exposure risks are individuals who did not necessarily participate in COVID-19 control
-but were required to contact people at work and could subjectively conceive of threats of being
-infected, including sanitary workers, taxi drivers, and supermarket workers, among others. They
-were presumed to be poorly equipped with self-protective measures.
-Statistical Analysis
-Descriptive statistics were used to present demographic data. The prevalence of symptoms of
-depression, anxiety, insomnia, and acute stress was calculated using the aforementioned cutoff
-scores and reported as the percentages of cases in different populations. The 95% CIs were
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-produced by the exact binomial methods. χ2 tests were used to compare the prevalence of mild-tosevere mental health symptoms in different populations. To explore factors potentially associated
-with depression, anxiety, insomnia, and acute stress, unadjusted logistic regression and multiple
-logistic regression analyses were performed, and odds ratios (ORs) and 95% CIs are presented.
-Two-sided Wald tests were conducted to determine whether the ORs in the regression models were
-statistically significant. All of the variables that were statistically significant in the unadjusted
-regression analysis and those that might convey important information were entered into the
-the Supplement. The level of significance was set to P < .05. All of the statistical analyses were
-performed using SPSS statistical software version 22 (IBM Corp). Data analysis was performed from
-March to May 2020.
-Demographic Characteristics
-Data from a total of 56 679 eligible participants were included in the final analysis, for a participation
-rate of 79.9% (56 932 of 71 227 participants). The participants included in the analysis represented
-all 34 province-level regions in China. Of the total sample, 27 149 participants (47.9%) were male, and
-the mean (SD) age was 35.97 (8.22) years; 39 468 participants (69.6%) were aged 18 to 39 years. Of
-(77.2%) were married. Most of the participants (52 839 participants [93.2%]) lived in urban areas,
-and 2352 (4.1%) were from Hubei province (ie, the province most severely affected by COVID-19 in
-China). This survey included data from 100 individuals (0.2%) with confirmed or suspected cases of
-COVID-19, 219 (0.4%) people who were in close contact with patients with COVID-19, and 9725
-(17.2%) frontline workers. Of the total number of respondents, 608 (1.1%) had at least 1 family
-member or friend who was infected with COVID-19, 17 587 (31.0%) had at least 1 family member or
-friend who was a frontline worker, 16 454 (29.0%) had quarantine experience, 19 754 (34.9%) were
-not yet back to work, and 2904 (5.1%) had occupational exposure risks. Additional demographic and
-Prevalence of Symptoms of Depression, Anxiety, Insomnia, and Acute Stress
-The prevalence of symptoms for the 4 mental health conditions among the total sample was 27.9%
-(95% CI, 27.5%-28.2%) for depression (15 802 participants total, including 9688 participants [17.1%]
-with mild depression and 6114 participants [10.8%] with moderate-to-severe depression), 31.6%
-(95% CI, 31.2%-32.0%) for anxiety (17 897 participants total, including 12 026 participants [21.2%]
-with mild anxiety and 5871 participants [10.4%] with moderate-to-severe anxiety), 29.2% (95% CI,
-28.8%-29.6%) for insomnia (16 564 participants total, including 13 308 participants [23.5%] with
-subthreshold insomnia and 3256 participants [5.7%] with moderate-to-severe insomnia), and 24.4%
-(95% CI, 24.0%-24.7%) for acute stress (13 817 participants). The prevalence of symptoms of the 4
-mental health was high among patients with COVID-19 (depression, 75.0%; anxiety, 71.0%; insomnia,
-68.0%; acute stress, 71.0%), frontline workers (depression, 30.4%; anxiety, 34.0%; insomnia,
-32.4%; acute stress, 27.3%), family members or friends of patients with COVID-19 (depression,
-46.7%; anxiety, 49.3%; insomnia, 48.4%; acute stress, 42.4%), family members or friends of
-frontline workers (depression, 29.3%; anxiety, 33.1%; insomnia, 31.6%; acute stress, 25.3%),
-residents of Hubei province (depression, 40.8%; anxiety, 44.9%; insomnia, 38.3%; acute stress,
-33.7%), participants who were in close contact with patients with COVID-19 (depression, 53.9%;
-anxiety, 52.1%; insomnia, 56.2%; acute stress, 42.9%), participants who had been to Hubei province
-during the past 2 months (depression, 37.5%; anxiety, 41.5%; insomnia, 36.5%; acute stress, 30.2%),
-participants who experienced both centralized quarantine (depression, 38.0%; anxiety, 42.6%;
-insomnia, 43.3%; acute stress, 35.8%) and home quarantine (depression, 32.7%; anxiety, 36.4%;
-insomnia, 32.9%; acute stress, 28.3%), participants who had not yet returned to work (depression,
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-for the Total Sample
-Participants, No. (%)
-Age, y
-Living area
-Level of education
-Less than college
-College degree or higher
-Marital status
-Monthly family income, ¥a
-Geographical region, China
-Missing values
-History of chronic diseases
-History of psychiatric disorders
-Family history of psychiatric disorders
-Are you infected with COVID-19?
-Confirmed or suspected cases
-Not infected
-Are you a frontline worker?
-Have any of your family members or friends been infected with COVID-19?
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-for the Total Sample (continued)
-Participants, No. (%)
-Are any of your family members or friends frontline workers?
-Have you come in close contact with patients infected with COVID-19?b
-Are you in Hubei province now?
-Have you been to Hubei province in the past 2 mos?
-Have you ever experienced quarantine?
-Are you back to work now?
-Work at home
-Work not at home
-Not back to work
-Are you likely to be exposed to other people at work?
-Exposed to patients infected with COVID-19
-Exposed to patients with other diseases
-Exposed to general people
-Not at work, work at home, or without exposure to people at work
-Missing values
-Abbreviation: COVID-19, coronavirus disease 2019.
-As of June 10, 2020, 1 ¥ = $0.14 US.
-Close contact is defined as people who have direct
-contact with confirmed or suspected cases of
-COVID-19, including family members who live with
-patients, colleagues who work with patients,
-classmates who study with patients, passengers who
-take the same vehicle as patients, and so on.
-30.4%; anxiety, 33.6%; insomnia, 30.5%; acute stress, 25.5%), and participants who had
-occupational exposure risks (depression, 40.2%; anxiety, 45.0%; insomnia, 37.1%; acute stress,
-37.8%). Additional details on the prevalence of the mental health symptoms in different populations
-Factors Associated With Symptoms of Depression, Anxiety, Insomnia,
-and Acute Stress
-The results of the unadjusted analysis of demographic and epidemic-related variables are presented
-lower income levels, and having a personal history of psychiatric disorders were still found to be
-associated with the symptoms of depression, anxiety, insomnia, and acute stress. Male participants
-and unmarried people displayed a remarkably higher risk for depression, insomnia, and acute stress
-Individuals with confirmed or suspected COVID-19 had at least twice the risk for the 4 mental
-health symptoms compared with those not infected with COVID-19 (adjusted ORs, 3.27 [95% CI,
-1.84-5.80] for depression, 2.48 [95% CI, 1.43-4.31] for anxiety, 3.06 [95% CI, 1.73-5.43] for insomnia,
-and 3.50 [95% CI, 2.02-6.07] for symptoms of acute stress). Family members or friends of patients
-with COVID-19 were also susceptible to symptoms of depression (adjusted OR, 1.53; 95% CI,
-1.26-1.85), anxiety (adjusted OR, 1.53; 95% CI, 1.27-1.84), insomnia (adjusted OR, 1.62; 95% CI,
-1.35-1.96), and acute stress symptoms (adjusted OR, 1.77; 95% CI, 1.46-2.15). In addition, associations
-were identified between potential occupational exposure risks to patients with COVID-19 and the 4
-Not infected
-Have you come in close contact
-with patients infected
-with COVID-19?
-Are any of your family members
-or friends frontline workers?
-Have any of your family members
-or friends been infected
-with COVID-19?
-Are you a frontline worker?
-Confirmed or
-suspected cases
-Are you infected with COVID-19?
-Living area
-Age, y
-P valuee
-to severe
-Participants, No. (%)
-Total, No. (%)
-[95% CI]
-Participants, No. (%)
-to severe
-Total, No. (%)
-[95% CI]
-P valuee
-Subthreshold to severe
-Participants, No. (%)
-Total, No. (%)
-[95% CI]
-P valuee
-Total, No. (%)
-[95% CI]
-Acute stressd
-P valuee
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-Work not at home
-Exposed to patients
-with other diseases
-Exposed to general
-Not at work, work at
-home, or without
-exposure to people at
-Scores of 8 to 14 on the Insomnia Severity Index were defined as subthreshold insomnia, and scores of 15 or
-higher were defined as moderate-to-severe insomnia.
-Scores of 5 to 9 on the Generalized Anxiety Disorder–7 were defined as mild anxiety, and scores of 10 or higher
-were defined as moderate-to-severe anxiety.
-Scores of 5 to 9 on the Patient Health Questionnaire–9 were defined as mild depression, and scores of 10 or
-higher were defined as moderate-to-severe depression.
-P valuee
-Abbreviation: COVID-19, coronavirus disease 2019.
-Exposed to patients
-infected with
-Are you likely to be exposed
-to other people at work?
-Work at home
-Are you back to work now?
-Have you ever experienced quarantine?
-Have you been to Hubei province
-in the past 2 mos?
-Are you in Hubei province now?
-to severe
-Participants, No. (%)
-Total, No. (%)
-[95% CI]
-Participants, No. (%)
-to severe
-P valuee
-Total, No. (%)
-[95% CI]
-P valuee
-χ2 tests were used to compare the prevalence of mild-to-severe mental health symptoms in different
-Total, No. (%)
-[95% CI]
-Subthreshold to severe
-Acute stress symptoms were defined as having an Acute Stress Disorder Scale dissociative cluster score of 9 or
-higher and cumulative re-experiencing, avoidance, and arousal cluster scores of 28 or higher.
-P valuee
-Participants, No. (%)
-Acute stressd
-Total, No. (%)
-[95% CI]
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-mental health outcomes (adjusted ORs, 1.96 [95% CI, 1.77-2.17] for depression, 1.93 [95% CI, 1.752.13] for anxiety, 1.60 [95% CI, 1.45-1.77] for insomnia, and 1.98 [95% CI, 1.79-2.20] for acute stress
-symptoms). Respondents with centralized quarantine or home quarantine experience had higher
-risks than those without quarantine experience of having depression (adjusted ORs, 1.33 [95% CI,
-1.10-1.61] vs 1.30 [95% CI, 1.25-1.36]), anxiety (adjusted ORs, 1.46 [95% CI, 1.22-1.75] vs 1.28 [95% CI,
-1.23-1.34]), insomnia (adjusted ORs, 1.63 [95% CI, 1.36-1.95] vs 1.24 [95% CI, 1.19-1.30]), and acute
-stress symptoms (adjusted ORs, 1.46 [95% CI, 1.21-1.77] vs 1.29 [95% CI, 1.24-1.35]). Hubei residents
-also demonstrated a higher risk than participants from other provinces, with adjusted ORs of 1.42
-(95% CI, 1.19-1.68) for depression, 1.54 (95% CI, 1.30-1.82) for anxiety, 1.20 (95% CI, 1.01-1.42) for
-insomnia, and 1.49 (95% CI, 1.25-1.79) for acute stress symptoms. Nonetheless, being at work was
-associated with a lower risk of having symptoms of depression (adjusted OR, 0.85; 95% CI,
-0.79-0.91), anxiety (adjusted OR, 0.92; 95% CI, 0.86-0.99), and insomnia (adjusted OR, 0.87; 95%
-CI, 0.81-0.94). Frontline workers had an elevated risk for insomnia (adjusted OR, 1.06; 95% CI, 1.001.12) and acute stress symptoms (adjusted OR, 1.08; 95% CI, 1.01-1.14), and being a close contact of a
-patient with COVID-19 remained statistically significant in the multivariable model of insomnia (1.55;
-The present study investigated the prevalence of and factors associated with mental health
-symptoms among the general population in China during the COVID-19 pandemic based on a
-nationwide, large-sample survey. Approximately one-quarter (24.4%) to one-third (31.6%) of
-respondents exhibited symptoms of depression, anxiety, insomnia, and acute stress. We also
-identified several psychologically vulnerable populations, such as individuals with confirmed or
-suspected COVID-19 and their relatives, respondents with occupational exposure risks, those who
-experienced quarantine, those who lived in Hubei province, and those who had not yet returned to
-work. These findings provide a comprehensive profile of psychological status in the general
-population in China during the COVID-19 outbreak and may contribute to developing populationspecific mental health management and intervention strategies.
-The prevalence of mental health symptoms in the present study is consistent with the results of
-an epidemiological study15 that was conducted in early February 2020 among the general population
-in China, which indicated that nearly 35% of the respondents manifested psychological distress
-January 2020 found that nearly one-third of respondents experienced moderate-to-severe mental
-health outcomes. The prevalence of these mental health symptoms during this period of the
-pandemic was higher than before the outbreak, during which rates of moderate-to-severe
-depression, moderate-to-severe anxiety, and insomnia in China were approximately 6.0%, 5.3%, and
-15.0%, respectively.16-19 The prevalence of psychiatric morbidities during the severe acute
-respiratory syndrome epidemic in Singapore was reported to be 22.9%,20 and one-third of people
-exhibited psychological distress during the equine influenza outbreak in Australia.21 The prevalence
-was in accordance with previous studies of such psychiatric problems during other disasters.22,23
-These findings indicate that severe emotional distress occurs among the general population during
-public health events and underscore the importance of preventing and treating mental health
-problems during the COVID-19 outbreak.
-The present study identified several population groups who were likely to develop mental
-health symptoms. Compared with uninfected people, those with confirmed or suspected COVID-19
-were 2 to 3 times more likely to report mental health symptoms. The prevalence of symptoms of the
-4 mental health conditions was high among patients with COVID-19 (depression, 75.0%; anxiety,
-71.0%; insomnia, 68.0%; acute stress, 71.0%). This is partially consistent with findings among
-patients with severe acute respiratory syndrome.24 The higher risk of mental health symptoms
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-AOR (95% CI)
-P value
-AOR (95% CI)
-P value
-AOR (95% CI)
-Acute stressd
-P value
-AOR (95% CI)
-P value
-Age, y
-Living area
-Level of education
-Less than college
-College or higher
-Marital status
-Monthly family income, ¥e
-History of chronic diseases
-History of psychiatric disorders
-Family history of psychiatric disorders
-Are you infected with COVID-19?
-Confirmed or suspected
-Not infected
-Are you a frontline worker?
-Have any of your family members
-or friends been infected
-with COVID-19?
-Are any of your family members
-or friends frontline workers?
-Have you come in close contact
-with patients infected
-with COVID-19 ?
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-AOR (95% CI)
-P value
-AOR (95% CI)
-P value
-AOR (95% CI)
-Acute stressd
-P value
-AOR (95% CI)
-P value
-Are you in Hubei province now?
-Have you been to Hubei province
-in the past 2 mos?
-Have you ever experienced quarantine?
-Are you back to work now?
-Work at home
-Work not at home
-Not back to work
-Are you likely to be exposed
-to other people at work?
-Exposed to patients
-infected with COVID-19
-Exposed to patients with
-other diseases
-Exposed to general people
-Not at work, work at
-home, or without exposure
-to people at work
-Abbreviations: AOR, adjusted odds ratio; COVID-19, coronavirus disease 2019; NA, not
-available (variables that were not analyzed because they were not statistically significant
-in the unadjusted regression model).
-Depression was defined as Patient Health Questionnaire–9 score of 5 or higher.
-Anxiety was defined as Generalized Anxiety Disorder–7 score of 5 or higher.
-Insomnia was defined as Insomnia Severity Index score of 8 or higher.
-Acute stress was defined as having an Acute Stress Disorder Scale dissociative cluster
-score of 9 or higher and cumulative re-experiencing, avoidance, and arousal cluster
-score of 28 or higher.
-As of June 10, 2020, 1 ¥ = $0.14 US.
-physical pain, and adverse effects of medications that are used to treat infections.25 Moreover, family
-members and friends of patients with COVID-19 were susceptible to mental health disturbances. We
-found that nearly 50% of family members or friends of patients with COVID-19 experienced mild-tosevere mental health symptoms. Loved ones experiencing negative outcomes during disasters has
-been shown to be a strong catalyst of mental health disorders.26,27 In addition, relatives of patients
-with COVID-19 may worry about becoming infected themselves, may be quarantined, and may feel
-stigmatized, all of which may exacerbate psychological distress.28,29
-The present study also found that people with occupational exposure risks reported greater
-symptoms of depression, anxiety, insomnia, and acute stress. People who work in high-risk
-environments often report more fatigue, health worries, and fear.30 COVID-19 may be symptomless
-during the incubation period, and its clinical manifestations can be easily confused with those of
-normal influenza.31,32 Therefore, people may understandably feel a threat of becoming infected by
-being exposed to general patients, thereby affecting their psychological well-being. However, in the
-present study, frontline work was not significantly associated with depression or anxiety. A previous
-study33 suggested that people at moderate infection risk (eg, individuals who might come in contact
-with patients with suspected cases) had more adverse mental health outcomes than those at high
-risk (eg, individuals who worked in infectious wards). The high infection risk group may be more
-aware of the risk, have better coping skills, have less uncertainty, and have more access to personal
-protective equipment and social support.
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-Another prominent finding was the substantial impact of quarantine experience on mental
-health, which is consistent with prior studies.28 Quarantine can contribute to poor mental health in
-both children and adults.23,34 People may experience fear of infection, frustration, and boredom
-during quarantine. Insufficient basic supplies and disruptions of information flow can increase both
-fear and anxiety.28 In the present study, both centralized quarantine and home quarantine enhanced
-the odds of adverse mental health outcomes. Moreover, centralized quarantine can have a more
-pernicious outcome because of fear of infection, being in an enclosed space, and being in an
-unfamiliar and crowded environment. The environment plays a vital role in maintaining healthy
-emotions and sleep.35,36 An unfamiliar and crowded environment may be a catalyst for the unique
-association between centralized quarantine and poor mental health status.
-A high probability of symptoms of depression and anxiety was found among people who had
-not yet returned to work. Among people who had returned to work, those who worked at home had
-a higher risk of mental health symptoms compared with those who did not work at home. Being
-occupied with work activities can serve as a distraction from epidemic-related information.
-Interpersonal interactions that occur with conventional styles of work, in contrast to working at
-home, can ameliorate depression and lower the risk of mental disorders.37,38 Our results imply that
-accelerating people’s return to normal work may have a positive influence on mental health.
-Some demographic factors may also influence mental health during the COVID-19 pandemic.
-Unmarried status and lower income were identified as risk factors for poor mental health outcomes,
-which is consistent with previous studies.39-41 However, opposite trends were observed for gender
-and age. The higher susceptibility of male participants to mental health symptoms during the
-crowded places or not wearing masks) and higher infective rate.42,43 The higher risk of mental health
-symptoms among younger people was also identified in this study, which is consistent with a
-to the fact that young adults frequently engage in social media and may be more exposed to
-self-reported history of mental disorders in this study was low, which might be attributed to stigma
-toward mental illnesses47 and the low recognition rate of mental health symptoms48 in China. We
-cannot exclude the possibility that the representativeness of the sample may influence the
-proportion of self-reported mental disorders.
-Strengths and Limitations
-The strengths of this study include its extensive geographic coverage across China, large sample size,
-and the special study period. Participants with different demographic and COVID-19 epidemic–
-related characteristics were recruited from all 34 province-level regions in China. In addition, to the
-best of our knowledge, this is the first study that has systematically investigated the prevalence of
-and factors associated with mental health symptoms (ie, symptoms of depression, anxiety, insomnia,
-and acute stress) by standardized rating scales among the general population during the COVID-19
-pandemic in China. Our findings may provide more helpful information for policy making, recognition
-of high-risk populations, and framework design for population-specific psychological crisis
-sampling method. Aside from posting our questionnaires on the main Joybuy website, we also sent
-proportional questionnaire links to registered members to increase the response rate. Although this
-study had extensive geographic coverage across China and a large sample size, it was conducted
-among internet users who were young and highly educated; thus, the representativeness of the
-sample might be limited. Second, the status of mental health symptoms was based on the
-respondents’ self-reports rather than clinical diagnoses. Third, this was a cross-sectional study.
-Therefore, associations between mental health symptoms and risk factors cannot necessarily be
-considered causal relationships. Fourth, the results may only reflect mental health status during the
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-epidemic. Follow-up studies are needed to determine the possible long-term mental health
-outcomes associated with the COVID-19 pandemic.
-The prevalence of symptoms of depression, anxiety, insomnia, and acute stress was high in this
-sample of study participants from China during the COVID-19 pandemic, especially among patients
-with confirmed or suspected COVID-19 and their family members and friends, people with
-occupational exposure risks, and residents of Hubei province. Pervasive intervention measures,
-including quarantine and delays in returning to work, were closely associated with negative mental
-health outcomes. These findings suggest that the COVID-19 pandemic may have severe mental
-health repercussions. Population-specific mental health interventions are urgently needed to meet
-demand during this outbreak. Future studies are needed to explore the association of the COVID-19
-pandemic with mental health in other countries and its long-term outcomes.
-ARTICLE INFORMATION
-JAMA Network Open.
-Beijing, China (Gong, L. Lu).
-integrity of the data and the accuracy of the data analysis. Dr L. Shi and Ms Z.-A. Lu contributed equally to
-this work.
-Concept and design: L. Shi, Z.-A. Lu, Que, Huang, Gong, Yan, J. Shi, Bao, L. Lu.
-Acquisition, analysis, or interpretation of data: L. Shi, Z.-A. Lu, Liu, Ran, Yuan, Sun, Bao.
-Statistical analysis: L. Shi, Z.-A. Lu, Liu, Yuan, Sun, Bao.
-Obtained funding: L. Shi.
-Administrative, technical, or material support: L. Shi, Huang, Gong, Bao, L. Lu.
-Supervision: Ran, J. Shi, Bao, L. Lu.
-Conflict of Interest Disclosures: None.
-Funding/Support: This study was supported by grants 81761128036, 81821092, and 31900805 from the National
-Natural Science Foundation of China, grant BMU2020HKYZX008 from the Special Research Fund of Peking
-National Key Research and Development Program of China.
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection,
-Additional Contributions: We thank all of the participants for their willingness to participate in the study and the
-time that they devoted to the study.
-1. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet. 2020;
-3. Meo SA, Alhowikan AM, Al-Khlaiwi T, et al. Novel coronavirus 2019-nCoV: prevalence, biological and clinical
-4. Mahase E. COVID-19: WHO declares pandemic because of “alarming levels” of spread, severity, and inaction.
-5. Ebrahim SH, Ahmed QA, Gozzer E, Schlagenhauf P, Memish ZA. COVID-19 and community mitigation strategies
-7. Chen S, Yang J, Yang W, Wang C, Bärnighausen T. COVID-19 control in China during mass population movements
-8. Adalja AA, Toner E, Inglesby TV. Priorities for the US health community responding to COVID-19. JAMA. 2020;
-9. Bao Y, Sun Y, Meng S, Shi J, Lu L. 2019-nCoV epidemic: address mental health care to empower society. Lancet.
-10. Wang C, Pan R, Wan X, et al. Immediate psychological responses and associated factors during the initial stage
-of the 2019 coronavirus disease (COVID-19) epidemic among the general population in China. Int J Environ Res
-12. He XY, Li CB, Qian J, Cui HS, Wu WY. Reliability and validity of a generalized anxiety disorder scale in general
-13. Bai CJ, Ji DH, Chen LX, Li L, Wang CX. Reliability and validity of Insomnia Severity Index in clinical insomnia
-14. Bryant RA, Moulds ML, Guthrie RM. Acute Stress Disorder Scale: a self-report measure of acute stress disorder.
-15. Qiu J, Shen B, Zhao M, Wang Z, Xie B, Xu Y. A nationwide survey of psychological distress among Chinese
-people in the COVID-19 epidemic: implications and policy recommendations. Gen Psychiatr. 2020;33(2):e100213.
-16. Gupta S, Goren A, Dong P, Liu D. Prevalence, awareness, and burden of major depressive disorder in urban
-17. Zhou X, Bi B, Zheng L, et al. The prevalence and risk factors for depression symptoms in a rural Chinese sample
-18. Yu W, Singh SS, Calhoun S, Zhang H, Zhao X, Yang F. Generalized anxiety disorder in urban China: prevalence,
-20. Sim K, Huak Chan Y, Chong PN, Chua HC, Wen Soon S. Psychosocial and coping responses within the
-community health care setting towards a national outbreak of an infectious disease. J Psychosom Res. 2010;68(2):
-21. Taylor MR, Agho KE, Stevens GJ, Raphael B. Factors influencing psychological distress during a disease
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-22. van Griensven F, Chakkraband ML, Thienkrua W, et al; Thailand Post-Tsunami Mental Health Study Group.
-Mental health problems among adults in tsunami-affected areas in southern Thailand. JAMA. 2006;296(5):
-23. Thienkrua W, Cardozo BL, Chakkraband ML, et al; Thailand Post-Tsunami Mental Health Study Group.
-Symptoms of posttraumatic stress disorder and depression among children in tsunami-affected areas in southern
-24. Cheng SK, Wong CW, Tsang J, Wong KC. Psychological distress and negative appraisals in survivors of severe
-27. Tang B, Liu X, Liu Y, Xue C, Zhang L. A meta-analysis of risk factors for depression in adults and children after
-28. Brooks SK, Webster RK, Smith LE, et al. The psychological impact of quarantine and how to reduce it: rapid
-29. Person B, Sy F, Holton K, Govert B, Liang A; National Center for Inectious Diseases/SARS Community Outreach
-factors associated with psychological outcomes in healthcare employees during an infectious disease outbreak.
-31. Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel
-32. Bai Y, Yao L, Wei T, et al. Presumed asymptomatic carrier transmission of COVID-19. JAMA. 2020;323(14):
-33. Chan SS, Leung GM, Tiwari AF, et al. The impact of work-related risk on nurses during the SARS outbreak in
-34. Hawryluck L, Gold WL, Robinson S, Pogorski S, Galea S, Styra R. SARS control and psychological effects of
-35. Rautio N, Filatova S, Lehtiniemi H, Miettunen J. Living environment and its relationship to depressive mood:
-36. Andrillon T, Poulsen AT, Hansen LK, Léger D, Kouider S. Neural markers of responsiveness to the environment
-37. Stafford M, De Silva M, Stansfeld S, Marmot M. Neighbourhood social capital and common mental disorder:
-38. Wang R, Xue D, Liu Y, Chen H, Qiu Y. The relationship between urbanization and depression in China: the
-39. Lee S, Leung CM, Kwok KP, Lam Ng K. A community-based study of the relationship between somatic and
-40. Stein DJ, Lim CCW, Roest AM, et al; WHO World Mental Health Survey Collaborators. The cross-national
-epidemiology of social anxiety disorder: data from the World Mental Health Survey Initiative. BMC Med. 2017;15
-41. Dong X, Wang Y, Chen Y, et al. Poor sleep quality and influencing factors among rural adults in Deqing, China.
-42. Zhong BL, Luo W, Li HM, et al. Knowledge, attitudes, and practices towards COVID-19 among Chinese
-43. Li LQ, Huang T, Wang YQ, et al. COVID-19 patients’ clinical characteristics, discharge rate, and fatality rate of
-JAMA Network Open | Psychiatry
-Mental Health Symptoms Among the General Population During the COVID-19 Outbreak in China
-44. Peng EY, Lee MB, Tsai ST, et al. Population-based post-crisis psychological distress: an example from the SARS
-46. Lu S, Reavley N, Zhou J, et al. Depression among the general adult population in Jiangsu Province of China:
-48. Wang Y, Murray AM, Toussaint AK, et al. Why is the recognition rate of psychological distress under-estimated
-in general hospitals? a cross-sectional observational study in China. Medicine (Baltimore). 2019;98(27):e16274.
-Acute Stress
+Original  Investigation  | Psychiatry Prevalence of and Risk Fac‐
+tors Associated With Mental Health  Symptoms  Among  the  General
+Population  in China During the Coronavirus Disease 2019 Pandemic
+Le Shi, PhD; Zheng‐An Lu, MSc; Jian‐Yu Que, MSc; Xiao‐Lin  Huang,
+MSc;  Lin  Liu,  MSc;  Mao‐Sheng  Ran, PhD; Yi‐Miao Gong, MA; Kai
+Yuan, PhD; Wei Yan, PhD; Yan‐Kun Sun, PhD; Jie Shi, MD, PhD; Yan‐
+Ping  Bao,  PhD; Lin Lu, MD, PhD Key Points IMPORTANCE People ex‐
+posed to coronavirus disease 2019 (COVID‐19) and a series of  im‐
+perative  containment measures could be psychologically stressed,
+yet the burden of and factors associated with mental health symp‐
+toms  remain unclear.  Question What are the patterns of and fac‐
+tors associated with mental health conditions among  the  general
+population  during  the  coronavirus OBJECTIVE To investigate the
+prevalence of and risk  factors  associated  with  mental  health
+symptoms  in  the general population in China during the COVID‐19
+pandemic.  disease 2019 (COVID‐19) outbreak in  China?   Findings
+In  this survey study with DESIGN, SETTING, AND PARTICIPANTS This
+large‐sample, cross‐sectional, population‐based, 56 679  partici‐
+pants  across  all  34  province‐level regions in China, 27.9% of
+province‐level regions in China and included participants aged 18
+years  and  older. Data analysis was participants had symptoms of
+performed from March to May 2020.  depression, 31.6% had symptoms
+of  anxiety, 29.2% had symptoms of MAIN OUTCOMES AND MEASURES The
+prevalence of symptoms of depression, anxiety,  insomnia,  insom‐
+nia, and 24.4% had symptoms of and acute stress among the general
+population in China during the COVID‐19 pandemic was acute stress
+during  the  outbreak.   evaluated using the Patient Health Ques‐
+tionnaire9, Generalized Anxiety Disorder7, Insomnia Factors inde‐
+pendently associated with Severity Index, and Acute Stress Disor‐
+der Scale. Logistic regression analyses were used to explore neg‐
+ative mental health outcomes demographic and COVID‐19related risk
+factors.  included having confirmed or suspected COVID‐19, having
+a  relative with RESULTS Of 71 227 individuals who clicked on the
+survey link, 56 932 submitted the  questionnaires,  confirmed  or
+suspected  COVID‐19, for a participation rate of 79.9%. After ex‐
+cluding the invalid questionnaires, 56  679  participants  having
+occupational  exposure risks, (mean [SD] age, 35.97 [8.22] years;
+27 149 men [47.9%]) were included in the study; 39 468 living  in
+Hubei province, and respondents (69.6%) were aged 18 to 39 years.
+During the COVID‐19 pandemic, the rates  of  mental  experiencing
+quarantine and delays in health symptoms among the survey respon‐
+dents were 27.9% (95% CI, 27.5%‐28.2%) for depression,  returning
+to work.  31.6% (95% CI, 31.2%‐32.0%) for anxiety, 29.2% (95% CI,
+28.8%‐29.6%) for insomnia, and 24.4% (95%  CI,  24.0%‐24.7%)  for
+acute  stress.  Participants with confirmed or suspected COVID‐19
+and their family members or friends had a high risk for  symptoms
+of   depression  (adjusted  odds  ratios  [ORs],  3.27  [95%  CI,
+1.84‐5.80] for patients; 1.53 [95% CI, 1.26‐1.85] for  family  or
+friends), anxiety (adjusted ORs, 2.48 [95% CI, 1.43‐4.31] for pa‐
+tients; 1.53 [95% CI, 1.27‐1.84] for family or friends), insomnia
+(adjusted  ORs,  3.06 [95% CI, 1.73‐5.43] for patients; 1.62 [95%
+CI, 1.35‐1.96] for family or friends), and acute stress (adjusted
+ORs,  3.50  [95%  CI,  2.02‐6.07]  for  patients;  1.77  [95% CI,
+1.462.15] for family or friends). Moreover, people  with  occupa‐
+tional  exposure  risks and residents in Hubei Meaning The mental
+health burden associated with COVID‐19 is considerable among  the
+general population of China, suggesting that mental health inter‐
+ventions are in urgent demand during the COVID‐19 pandemic, espe‐
+cially  for  some at‐risk province had increased odds of symptoms
+of depression (adjusted ORs, 1.96 [95% CI, 1.77‐2.17] for occupa‐
+tional  exposure;  1.42 [95% CI, 1.19‐1.68] for Hubei residence),
+anxiety (adjusted ORs, 1.93 [95% CI, 1.75‐2.13] for  occupational
+exposure; 1.54 [95% CI, 1.30‐1.82] for Hubei residence), insomnia
+(adjusted ORs, 1.60 [95% CI, 1.45‐1.77]  for  occupational  expo‐
+sure;  1.20  [95%  CI, 1.01‐1.42] for Hubei residence), and acute
+stress (adjusted ORs, 1.98 [95% CI, 1.79‐2.20]  for  occupational
+exposure; 1.49 + Supplemental content JAMA Network Open | Psychi‐
+atry Mental Health Symptoms Among the General  Population  During
+the COVID‐19 Outbreak in China [95% CI, 1.25‐1.79] for Hubei res‐
+idence). Both centralized quarantine (adjusted ORs, 1.33 [95% CI,
+1.10‐1.61]  for depression; 1.46 [95% CI, 1.22‐1.75] for anxiety;
+1.63 [95% CI, 1.36‐1.95] for insomnia; 1.46 [95%  CI,  1.21‐1.77]
+for  acute  stress)  and home quarantine (adjusted ORs, 1.30 [95%
+CI, 1.25‐1.36] for depression; 1.28 [95% CI, 1.23‐1.34] for anxi‐
+ety;  1.24  [95%  CI,  1.19‐1.30]  for  insomnia;  1.29  [95% CI,
+1.24‐1.35] for acute stress) were associated with the 4  negative
+mental  health  outcomes. Being at work was associated with lower
+risks of depression (adjusted OR, 0.85 [95% CI, 0.79‐0.91]), anx‐
+iety  (adjusted  OR, 0.92 [95% CI, 0.86‐0.99]), and insomnia (ad‐
+justed OR, 0.87 [95% CI, 0.81‐0.94]).  CONCLUSIONS AND  RELEVANCE
+The  results  of this survey indicate that mental health symptoms
+may have been common during the COVID‐19 outbreak among the  gen‐
+eral  population in China, especially among infected individuals,
+people with suspected infection, and people who might  have  con‐
+tact  with patients with COVID‐19. Some measures, such as quaran‐
+tine and delays in returning to work, were also  associated  with
+mental  health  among the public. These findings identify popula‐
+tions at risk for mental health problems during the COVID‐19 pan‐
+demic  and  may  help  in implementing mental health intervention
+policies in other countries and regions.  In December  2019,  the
+coronavirus disease 2019 (COVID‐19) outbreak occurred and aroused
+global attention.1 It has infected more than 6.1  million  people
+and  caused 376 000 deaths worldwide across 216 countries, areas,
+or territories according to June 3, 2020,  data  from  the  World
+Health  Organization.2 In contrast to previous epidemics and pan‐
+demics, such as severe acute respiratory syndrome and Middle East
+respiratory  syndrome,  COVID‐19  is  more contagious and spreads
+faster.3 The World Health Organization officially announced  that
+COVID‐19 was a pandemic and called on the whole world to work to‐
+gether to confront this infection.4 Compulsory measures, such  as
+implemented  in China and other countries to impede further esca‐
+lation of the pandemic.5‐8  Facing  this  large‐scale  infectious
+public health event and these enormous disruptions to daily life,
+people are under unprecedented pressure and are experiencing  se‐
+vere  psychological  distress.9  Few  studies  have  investigated
+COVID‐19related mental health symptoms in the general population.
+One  pilot  study10 in China reported that nearly one‐half of the
+respondents considered the mental health impact  of  COVID‐19  as
+moderate  or severe, and one‐third exhibited anxiety symptoms. To
+set priorities for public health policies and implement effective
+health  care interventions, the prevalence of mental health symp‐
+toms and  factors  that  are  associated  with  them  during  the
+COVID‐19  outbreak  need to be determined urgently. Thus, we con‐
+ducted a large‐sample, anxiety, insomnia, and  acute  stress  and
+potential risk factors in the general population in China.  Study
+Design questionnaire. This study follows the American Association
+for  Public  Opinion  Research (AAPOR) reporting guideline.  JAMA
+Network Open | Psychiatry Mental Health Symptoms Among the Gener‐
+al Population During the COVID‐19 Outbreak in China in China. The
+survey link was posted on the website. We used a convenience sam‐
+pling  method.  The  registered  members  clicked the link on the
+platform and responded to the survey voluntarily until the conve‐
+nience  sample  covered  all  34 province‐level regions in China.
+This was an anonymous survey, and confidentiality of data was en‐
+sured.  Study Population The respondents were all registered mem‐
+bers of Joybuy. A total of 71 227 individuals clicked on the sur‐
+vey link, and 57 006 individuals commenced the survey, among whom
+74 individuals refused to provide informed  consent  and  56  932
+participants  provided  informed  consent and submitted the ques‐
+tionnaires. One hundred fifty‐six  questionnaires  that  did  not
+provide  valid  age  information were excluded from the analysis.
+Ninety‐seven respondents who were younger than 18 years were also
+present conditions.  Measurements and Covariates The survey last‐
+ed approximately 15 minutes and had 4 parts. The first part gath‐
+ered  demographic information of the participants, including gen‐
+der, age, living area (urban vs rural), level of education, mari‐
+tal  status, monthly family income, geographic region, history of
+chronic diseases, history of psychiatric disorders, family histo‐
+ry  of  psychiatric  disorders,  and  occupation. The second part
+asked epidemic‐related questions. The third part evaluated isola‐
+tion  conditions  and  social attitudes toward The fourth part of
+the questionnaire consisted of 4 standardized  scales,  including
+the Chinese versions of Patient Health Questionnaire9,11 General‐
+ized Anxiety Disorder7,12 Insomnia Severity  Index,13  and  Acute
+Stress  Disorder  Scale,14 which measured symptoms of depression,
+anxiety, insomnia, and  acute  stress,  respectively.  The  total
+scores  of  these  scales  were  interpreted  as follows: Patient
+Health  Questionnaire9,  normal  (0‐4),  mild   (5‐9),   moderate
+(10‐14),  and severe (15‐27) depression; Generalized Anxiety Dis‐
+order7, normal (0‐4), mild (5‐9), moderate  (10‐14),  and  severe
+(15‐21)  anxiety;  Insomnia  Severity  Index,  normal (0‐7), sub‐
+threshold (8‐14), moderate (15‐21), and severe (22‐28)  insomnia;
+and  Acute Stress Disorder Scale, acute stress symptoms (a disso‐
+ciative cluster score 9 and  cumulative  re‐experiencing,  avoid‐
+ance,  and arousal cluster scores 28). In the present study, cut‐
+off scores of 5 for the Patient Health Questionnaire9, 5 for  the
+Generalized  Anxiety  Disorder7  scale,  and  8  for the Insomnia
+Severity Index were adopted to  detect  symptoms  of  depression,
+anxiety, and insomnia.  In this study, frontline workers are con‐
+sidered to be individuals who directly participated in  the  con‐
+trol  of  COVID‐19,  covering  a  wide  range of occupations (eg,
+medicine, research, public health, media, security work,  police,
+community  work,  emergency  material delivery services, charity,
+construction,  management,  and   psychological   interventions).
+Frontline  workers  were presumed to have direct contact with pa‐
+tients with COVID‐19. They were also presumed to possess personal
+protective equipment when they were in contact with patients with
+COVID‐19. People with occupational exposure risks are individuals
+who  did not necessarily participate in COVID‐19 control but were
+required to contact people at work and  could  subjectively  con‐
+ceive  of  threats of being infected, including sanitary workers,
+taxi drivers, and supermarket workers, among  others.  They  were
+presumed  to  be  poorly  equipped with self‐protective measures.
+Statistical Analysis Descriptive statistics were used to  present
+demographic data. The prevalence of symptoms of depression, anxi‐
+ety, insomnia, and acute stress was calculated using  the  afore‐
+mentioned  cutoff scores and reported as the percentages of cases
+in different populations. The 95% CIs were JAMA  Network  Open  |
+Psychiatry  Mental  Health  Symptoms Among the General Population
+During the COVID‐19 Outbreak in China produced by the exact bino‐
+mial  methods.  2  tests  were  used to compare the prevalence of
+mild‐tosevere mental health symptoms in different populations. To
+explore  factors potentially associated with depression, anxiety,
+insomnia, and acute stress, unadjusted  logistic  regression  and
+multiple  logistic  regression  analyses were performed, and odds
+ratios (ORs) and 95% CIs are  presented.   Two‐sided  Wald  tests
+were  conducted  to  determine  whether the ORs in the regression
+models were statistically significant. All of the variables  that
+were statistically significant in the unadjusted regression anal‐
+ysis and those that might convey important information  were  en‐
+tered  into the the Supplement. The level of significance was set
+to P < .05. All of the statistical analyses were performed  using
+SPSS  statistical  software  version 22 (IBM Corp). Data analysis
+was performed from March to May 2020.   Demographic  Characteris‐
+tics  Data  from a total of 56 679 eligible participants were in‐
+cluded in the final analysis, for a participation rate  of  79.9%
+(56 932 of 71 227 participants). The participants included in the
+analysis represented all 34 province‐level regions in  China.  Of
+the  total sample, 27 149 participants (47.9%) were male, and the
+mean (SD) age was 35.97 (8.22) years; 39 468 participants (69.6%)
+were  aged  18  to 39 years. Of (77.2%) were married. Most of the
+participants (52 839 participants [93.2%]) lived in urban  areas,
+and  2352  (4.1%) were from Hubei province (ie, the province most
+severely affected by COVID‐19 in China). This survey included da‐
+ta  from 100 individuals (0.2%) with confirmed or suspected cases
+of COVID‐19, 219 (0.4%) people who were in close contact with pa‐
+tients  with COVID‐19, and 9725 (17.2%) frontline workers. Of the
+total number of respondents, 608 (1.1%) had  at  least  1  family
+member  or  friend who was infected with COVID‐19, 17 587 (31.0%)
+had at least 1 family member or friend who was a frontline  work‐
+er, 16 454 (29.0%) had quarantine experience, 19 754 (34.9%) were
+not yet back to work, and 2904 (5.1%) had  occupational  exposure
+risks.  Additional  demographic and Prevalence of Symptoms of De‐
+pression, Anxiety, Insomnia, and Acute Stress The  prevalence  of
+symptoms  for the 4 mental health conditions among the total sam‐
+ple was 27.9% (95% CI, 27.5%‐28.2%) for depression (15  802  par‐
+ticipants  total,  including  9688 participants [17.1%] with mild
+depression and 6114 participants [10.8%] with  moderate‐to‐severe
+depression), 31.6% (95% CI, 31.2%‐32.0%) for anxiety (17 897 par‐
+ticipants total, including 12 026 participants [21.2%] with  mild
+anxiety  and  5871  participants  [10.4%] with moderate‐to‐severe
+anxiety), 29.2% (95% CI, 28.8%‐29.6%) for insomnia (16  564  par‐
+ticipants  total, including 13 308 participants [23.5%] with sub‐
+threshold insomnia and 3256 participants [5.7%] with moderate‐to‐
+severe  insomnia),  and  24.4%  (95%  CI,  24.0%‐24.7%) for acute
+stress (13 817 participants). The prevalence of symptoms of the 4
+mental  health was high among patients with COVID‐19 (depression,
+75.0%; anxiety, 71.0%; insomnia,  68.0%;  acute  stress,  71.0%),
+frontline  workers  (depression, 30.4%; anxiety, 34.0%; insomnia,
+32.4%; acute stress, 27.3%), family members  or  friends  of  pa‐
+tients  with  COVID‐19 (depression, 46.7%; anxiety, 49.3%; insom‐
+nia, 48.4%; acute stress, 42.4%), family members  or  friends  of
+frontline  workers  (depression, 29.3%; anxiety, 33.1%; insomnia,
+31.6%; acute stress, 25.3%), residents of Hubei province (depres‐
+sion,  40.8%;  anxiety,  44.9%;  insomnia,  38.3%;  acute stress,
+33.7%), participants who were in close contact with patients with
+COVID‐19  (depression,  53.9%;  anxiety,  52.1%; insomnia, 56.2%;
+acute stress, 42.9%), participants who had been to Hubei province
+during  the past 2 months (depression, 37.5%; anxiety, 41.5%; in‐
+somnia, 36.5%; acute stress, 30.2%), participants who experienced
+both  centralized  quarantine (depression, 38.0%; anxiety, 42.6%;
+insomnia, 43.3%; acute stress, 35.8%) and  home  quarantine  (de‐
+pression,  32.7%;  anxiety, 36.4%; insomnia, 32.9%; acute stress,
+28.3%), participants who had not yet returned  to  work  (depres‐
+sion, JAMA Network Open | Psychiatry Mental Health Symptoms Among
+the General Population During the COVID‐19 Outbreak in China  for
+the  Total  Sample Participants, No. (%) Age, y Living area Level
+of education Less than college College degree or  higher  Marital
+status  Monthly family income, a Geographical region, China Miss‐
+ing values History of chronic  diseases  History  of  psychiatric
+disorders Family history of psychiatric disorders Are you infect‐
+ed with COVID‐19?  Confirmed or suspected cases Not infected  Are
+you  a  frontline  worker?   Have  any  of your family members or
+friends been infected with COVID‐19?  JAMA Network Open | Psychi‐
+atry  Mental  Health Symptoms Among the General Population During
+the COVID‐19 Outbreak in China for the Total  Sample  (continued)
+Participants,  No.  (%) Are any of your family members or friends
+frontline workers?  Have you come in close contact with  patients
+infected with COVID‐19?b Are you in Hubei province now?  Have you
+been to Hubei province in the past 2 mos?  Have you ever  experi‐
+enced  quarantine?   Are you back to work now?  Work at home Work
+not at home Not back to work Are you likely to be exposed to oth‐
+er  people  at  work?  Exposed to patients infected with COVID‐19
+Exposed to patients with other diseases Exposed to general people
+Not  at work, work at home, or without exposure to people at work
+Missing values Abbreviation: COVID‐19, coronavirus disease  2019.
+As  of June 10, 2020, 1  = $0.14 US.  Close contact is defined as
+people who have direct contact with confirmed or suspected  cases
+of  COVID‐19,  including  family  members who live with patients,
+colleagues who work with patients, classmates who study with  pa‐
+tients,  passengers who take the same vehicle as patients, and so
+on.   30.4%;  anxiety,  33.6%;  insomnia,  30.5%;  acute  stress,
+25.5%), and participants who had occupational exposure risks (de‐
+pression, 40.2%; anxiety, 45.0%; insomnia, 37.1%;  acute  stress,
+37.8%). Additional details on the prevalence of the mental health
+symptoms in different populations Factors Associated  With  Symp‐
+toms  of  Depression, Anxiety, Insomnia, and Acute Stress The re‐
+sults of the unadjusted analysis of demographic and  epidemic‐re‐
+lated  variables  are presented lower income levels, and having a
+personal history of psychiatric disorders were still found to  be
+associated  with  the  symptoms of depression, anxiety, insomnia,
+and acute stress. Male participants  and  unmarried  people  dis‐
+played  a  remarkably  higher  risk for depression, insomnia, and
+acute stress Individuals with confirmed or suspected COVID‐19 had
+at least twice the risk for the 4 mental health symptoms compared
+with those not infected with COVID‐19 (adjusted  ORs,  3.27  [95%
+CI, 1.84‐5.80] for depression, 2.48 [95% CI, 1.43‐4.31] for anxi‐
+ety, 3.06 [95% CI, 1.73‐5.43] for insomnia,  and  3.50  [95%  CI,
+2.02‐6.07]  for  symptoms  of  acute  stress).  Family members or
+friends of patients with COVID‐19 were also susceptible to  symp‐
+toms  of depression (adjusted OR, 1.53; 95% CI, 1.26‐1.85), anxi‐
+ety (adjusted OR, 1.53; 95% CI,  1.27‐1.84),  insomnia  (adjusted
+OR, 1.62; 95% CI, 1.35‐1.96), and acute stress symptoms (adjusted
+OR, 1.77; 95% CI,  1.46‐2.15).  In  addition,  associations  were
+identified  between  potential occupational exposure risks to pa‐
+tients with COVID‐19 and the 4 Not  infected  Have  you  come  in
+close  contact  with patients infected with COVID‐19?  Are any of
+your family members or friends frontline workers?   Have  any  of
+your  family members or friends been infected with COVID‐19?  Are
+you a frontline worker?  Confirmed or suspected cases Are you in‐
+fected with COVID‐19?  Living area Age, y P valuee to severe Par‐
+ticipants, No. (%) Total, No. (%) [95% CI] Participants, No.  (%)
+to severe Total, No. (%) [95% CI] P valuee Subthreshold to severe
+Participants, No. (%) Total, No. (%) [95% CI] P valuee Total, No.
+(%)  [95% CI] Acute stressd P valuee JAMA Network Open | Psychia‐
+try Mental Health Symptoms Among the  General  Population  During
+the  COVID‐19  Outbreak  in China Work not at home Exposed to pa‐
+tients with other diseases Exposed to general Not at  work,  work
+at  home,  or  without exposure to people at Scores of 8 to 14 on
+the Insomnia Severity Index were defined as  subthreshold  insom‐
+nia,  and  scores of 15 or higher were defined as moderate‐to‐se‐
+vere insomnia.  Scores of 5 to 9 on the Generalized Anxiety  Dis‐
+order7  were  defined as mild anxiety, and scores of 10 or higher
+were defined as moderate‐to‐severe anxiety.  Scores of 5 to 9  on
+the  Patient  Health  Questionnaire9 were defined as mild depres‐
+sion, and scores of 10 or higher were defined as  moderate‐to‐se‐
+vere  depression.   P  valuee Abbreviation: COVID‐19, coronavirus
+disease 2019.  Exposed to patients infected with Are  you  likely
+to be exposed to other people at work?  Work at home Are you back
+to work now?  Have you ever  experienced  quarantine?   Have  you
+been to Hubei province in the past 2 mos?  Are you in Hubei prov‐
+ince now?  to severe Participants, No. (%) Total,  No.  (%)  [95%
+CI]  Participants, No. (%) to severe P valuee Total, No. (%) [95%
+CI] P valuee 2 tests were used to compare the prevalence of mild‐
+to‐severe mental health symptoms in different Total, No. (%) [95%
+CI] Subthreshold to severe Acute stress symptoms were defined  as
+having  an Acute Stress Disorder Scale dissociative cluster score
+of 9 or higher and  cumulative  re‐experiencing,  avoidance,  and
+arousal  cluster  scores of 28 or higher.  P valuee Participants,
+No. (%) Acute stressd Total, No. (%) [95% CI] JAMA Network Open |
+Psychiatry  Mental  Health  Symptoms Among the General Population
+During the COVID‐19 Outbreak in China JAMA Network Open | Psychi‐
+atry  Mental  Health Symptoms Among the General Population During
+the COVID‐19 Outbreak in China mental health  outcomes  (adjusted
+ORs,  1.96  [95%  CI,  1.77‐2.17]  for  depression, 1.93 [95% CI,
+1.752.13] for anxiety, 1.60 [95% CI, 1.45‐1.77] for insomnia, and
+1.98  [95% CI, 1.79‐2.20] for acute stress symptoms). Respondents
+with centralized quarantine or  home  quarantine  experience  had
+higher  risks  than those without quarantine experience of having
+depression (adjusted ORs, 1.33 [95% CI, 1.10‐1.61] vs  1.30  [95%
+CI,  1.25‐1.36]), anxiety (adjusted ORs, 1.46 [95% CI, 1.22‐1.75]
+vs 1.28 [95% CI, 1.23‐1.34]), insomnia (adjusted ORs,  1.63  [95%
+CI,  1.36‐1.95]  vs  1.24  [95% CI, 1.19‐1.30]), and acute stress
+symptoms (adjusted ORs, 1.46 [95% CI, 1.21‐1.77] vs 1.29 [95% CI,
+1.24‐1.35]). Hubei residents also demonstrated a higher risk than
+participants from other provinces, with adjusted ORs of 1.42 (95%
+CI, 1.19‐1.68) for depression, 1.54 (95% CI, 1.30‐1.82) for anxi‐
+ety, 1.20 (95% CI, 1.01‐1.42) for insomnia,  and  1.49  (95%  CI,
+1.25‐1.79)  for acute stress symptoms. Nonetheless, being at work
+was associated with a lower risk of having symptoms of depression
+(adjusted  OR,  0.85;  95%  CI, 0.79‐0.91), anxiety (adjusted OR,
+0.92; 95% CI, 0.86‐0.99), and insomnia (adjusted  OR,  0.87;  95%
+CI, 0.81‐0.94). Frontline workers had an elevated risk for insom‐
+nia (adjusted OR, 1.06; 95% CI, 1.001.12) and acute stress  symp‐
+toms  (adjusted  OR,  1.08; 95% CI, 1.01‐1.14), and being a close
+contact of a patient with COVID‐19 remained statistically signif‐
+icant  in  the multivariable model of insomnia (1.55; The present
+study investigated the prevalence of and factors associated  with
+mental health symptoms among the general population in China dur‐
+ing the COVID‐19 pandemic based  on  a  nationwide,  large‐sample
+survey. Approximately one‐quarter (24.4%) to one‐third (31.6%) of
+respondents exhibited symptoms of depression, anxiety,  insomnia,
+and acute stress. We also identified several psychologically vul‐
+nerable populations, such as individuals with confirmed  or  sus‐
+pected COVID‐19 and their relatives, respondents with occupation‐
+al exposure risks, those who experienced  quarantine,  those  who
+lived  in  Hubei  province, and those who had not yet returned to
+work. These findings provide a comprehensive profile  of  psycho‐
+logical  status  in  the  general  population in China during the
+COVID‐19 outbreak and may contribute to developing populationspe‐
+cific  mental health management and intervention strategies.  The
+prevalence of mental health symptoms in the present study is con‐
+sistent  with  the results of an epidemiological study15 that was
+conducted in early February 2020 among the general population  in
+China,  which  indicated that nearly 35% of the respondents mani‐
+fested psychological distress January 2020 found that nearly one‐
+third of respondents experienced moderate‐to‐severe mental health
+outcomes. The prevalence of these mental health  symptoms  during
+this  period of the pandemic was higher than before the outbreak,
+during which rates of moderate‐to‐severe depression, moderate‐to‐
+severe  anxiety,  and  insomnia in China were approximately 6.0%,
+5.3%, and 15.0%, respectively.16‐19 The prevalence of psychiatric
+morbidities during the severe acute respiratory syndrome epidemic
+in Singapore was reported to be 22.9%,20 and one‐third of  people
+exhibited psychological distress during the equine influenza out‐
+break in Australia.21 The prevalence was in accordance with  pre‐
+vious  studies  of  such psychiatric problems during other disas‐
+ters.22,23 These findings indicate that severe emotional distress
+occurs  among  the general population during public health events
+and underscore the importance of preventing and  treating  mental
+health  problems during the COVID‐19 outbreak.  The present study
+identified several population groups who were likely  to  develop
+mental  health  symptoms.  Compared with uninfected people, those
+with confirmed or suspected COVID‐19 were 2 to 3 times more like‐
+ly  to  report mental health symptoms. The prevalence of symptoms
+of the 4 mental health conditions was high  among  patients  with
+COVID‐19  (depression,  75.0%;  anxiety,  71.0%; insomnia, 68.0%;
+acute stress, 71.0%). This is partially consistent with  findings
+among  patients  with  severe  acute  respiratory syndrome.24 The
+higher risk of mental health symptoms JAMA Network Open | Psychi‐
+atry  Mental  Health Symptoms Among the General Population During
+the COVID‐19 Outbreak in China AOR (95% CI) P value AOR (95%  CI)
+P  value  AOR (95% CI) Acute stressd P value AOR (95% CI) P value
+Age, y Living area Level of education Less than  college  College
+or  higher  Marital  status  Monthly  family income, e History of
+chronic diseases History of psychiatric disorders Family  history
+of  psychiatric  disorders  Are you infected with COVID‐19?  Con‐
+firmed or suspected Not infected  Are  you  a  frontline  worker?
+Have  any  of  your  family members or friends been infected with
+COVID‐19?  Are any of your family members  or  friends  frontline
+workers?   Have  you come in close contact with patients infected
+with COVID‐19 ?  JAMA Network Open  |  Psychiatry  Mental  Health
+Symptoms  Among  the  General Population During the COVID‐19 Out‐
+break in China AOR (95% CI) P value AOR (95% CI) P value AOR (95%
+CI)  Acute  stressd P value AOR (95% CI) P value Are you in Hubei
+province now?  Have you been to Hubei province in the past 2 mos?
+Have  you ever experienced quarantine?  Are you back to work now?
+Work at home Work not at home Not back to work Are you likely  to
+be exposed to other people at work?  Exposed to patients infected
+with COVID‐19 Exposed to patients with other diseases Exposed  to
+general  people Not at work, work at home, or without exposure to
+people at work Abbreviations: AOR, adjusted odds ratio; COVID‐19,
+coronavirus  disease 2019; NA, not available (variables that were
+not analyzed because they were not statistically  significant  in
+the  unadjusted regression model).  Depression was defined as Pa‐
+tient Health Questionnaire9 score of 5 or  higher.   Anxiety  was
+defined  as  Generalized  Anxiety Disorder7 score of 5 or higher.
+Insomnia was defined as Insomnia Severity Index  score  of  8  or
+higher.   Acute stress was defined as having an Acute Stress Dis‐
+order Scale dissociative cluster score of 9 or higher and cumula‐
+tive  re‐experiencing, avoidance, and arousal cluster score of 28
+or higher.  As of June 10, 2020, 1  = $0.14 US.   physical  pain,
+and  adverse effects of medications that are used to treat infec‐
+tions.25 Moreover, family members and friends  of  patients  with
+COVID‐19 were susceptible to mental health disturbances. We found
+that nearly 50% of family members or  friends  of  patients  with
+COVID‐19  experienced mild‐tosevere mental health symptoms. Loved
+ones experiencing negative outcomes  during  disasters  has  been
+shown to be a strong catalyst of mental health disorders.26,27 In
+addition, relatives of patients with COVID‐19 may worry about be‐
+coming  infected  themselves,  may  be  quarantined, and may feel
+stigmatized, all  of  which  may  exacerbate  psychological  dis‐
+tress.28,29 The present study also found that people with occupa‐
+tional exposure risks reported greater  symptoms  of  depression,
+anxiety, insomnia, and acute stress. People who work in high‐risk
+environments often  report  more  fatigue,  health  worries,  and
+fear.30 COVID‐19 may be symptomless during the incubation period,
+and its clinical manifestations can be easily confused with those
+of  normal  influenza.31,32  Therefore, people may understandably
+feel a threat of becoming infected by being  exposed  to  general
+patients,  thereby affecting their psychological well‐being. How‐
+ever, in the present study, frontline work was not  significantly
+associated  with  depression  or anxiety. A previous study33 sug‐
+gested that people at moderate infection  risk  (eg,  individuals
+who might come in contact with patients with suspected cases) had
+more adverse mental health outcomes than those at high risk  (eg,
+individuals  who  worked in infectious wards). The high infection
+risk group may be more aware of  the  risk,  have  better  coping
+skills,  have  less uncertainty, and have more access to personal
+protective equipment and social support.   JAMA  Network  Open  |
+Psychiatry  Mental  Health  Symptoms Among the General Population
+During the COVID‐19 Outbreak in China Another  prominent  finding
+was  the  substantial  impact  of quarantine experience on mental
+health, which is consistent with prior studies.28 Quarantine  can
+contribute   to   poor   mental   health  in  both  children  and
+adults.23,34 People may experience fear  of  infection,  frustra‐
+tion,  and boredom during quarantine. Insufficient basic supplies
+and disruptions of information flow can increase  both  fear  and
+anxiety.28  In the present study, both centralized quarantine and
+home quarantine enhanced the odds of adverse mental  health  out‐
+comes.  Moreover,  centralized  quarantine can have a more perni‐
+cious outcome because of fear of infection, being in an  enclosed
+space,  and  being  in an unfamiliar and crowded environment. The
+environment plays a vital role in  maintaining  healthy  emotions
+and  sleep.35,36  An  unfamiliar and crowded environment may be a
+catalyst for the unique association between  centralized  quaran‐
+tine  and poor mental health status.  A high probability of symp‐
+toms of depression and anxiety was found among people who had not
+yet  returned  to  work.  Among  people who had returned to work,
+those who worked at home had a higher risk of mental health symp‐
+toms compared with those who did not work at home. Being occupied
+with work activities can serve as a distraction from epidemic‐re‐
+lated  information.   Interpersonal  interactions that occur with
+conventional styles of work, in contrast to working at home,  can
+ameliorate  depression  and  lower  the  risk  of  mental  disor‐
+ders.37,38 Our results imply that accelerating peoples return  to
+normal work may have a positive influence on mental health.  Some
+demographic factors may also influence mental health  during  the
+COVID‐19  pandemic.  Unmarried status and lower income were iden‐
+tified as risk factors for poor mental health outcomes, which  is
+consistent  with  previous studies.39‐41 However, opposite trends
+were observed for gender and age. The  higher  susceptibility  of
+male  participants  to  mental health symptoms during the crowded
+places or not wearing masks) and higher infective rate.42,43  The
+higher  risk  of  mental health symptoms among younger people was
+also identified in this study, which is consistent with a to  the
+fact  that young adults frequently engage in social media and may
+be more exposed to self‐reported history of mental  disorders  in
+this  study  was  low, which might be attributed to stigma toward
+mental illnesses47 and the low recognition rate of mental  health
+symptoms48  in  China. We cannot exclude the possibility that the
+representativeness of the sample may influence the proportion  of
+self‐reported  mental  disorders.   Strengths and Limitations The
+strengths of this study include its extensive geographic coverage
+across  China,  large  sample size, and the special study period.
+Participants with different demographic and COVID‐19 epidemic re‐
+lated  characteristics  were recruited from all 34 province‐level
+regions in China. In addition, to the best of our knowledge, this
+is  the  first  study  that  has  systematically investigated the
+prevalence of and factors associated with mental health  symptoms
+(ie, symptoms of depression, anxiety, insomnia, and acute stress)
+by standardized rating scales among the general population during
+the  COVID‐19  pandemic  in  China. Our findings may provide more
+helpful information for policy making, recognition  of  high‐risk
+populations, and framework design for population‐specific psycho‐
+logical crisis sampling method. Aside from posting our  question‐
+naires  on  the  main  Joybuy  website, we also sent proportional
+questionnaire links to registered members  to  increase  the  re‐
+sponse  rate. Although this study had extensive geographic cover‐
+age across China and a large sample size, it was conducted  among
+internet users who were young and highly educated; thus, the rep‐
+resentativeness of the sample might be limited. Second, the  sta‐
+tus  of mental health symptoms was based on the respondents self‐
+reports rather than clinical diagnoses. Third, this was a  cross‐
+sectional  study.   Therefore, associations between mental health
+symptoms and risk factors cannot necessarily be considered causal
+relationships. Fourth, the results may only reflect mental health
+status during the JAMA Network Open |  Psychiatry  Mental  Health
+Symptoms  Among  the  General Population During the COVID‐19 Out‐
+break in China epidemic. Follow‐up studies are needed  to  deter‐
+mine  the  possible  long‐term  mental health outcomes associated
+with the COVID‐19 pandemic.  The prevalence of  symptoms  of  de‐
+pression,  anxiety,  insomnia,  and acute stress was high in this
+sample of study participants from China during the COVID‐19  pan‐
+demic,  especially  among  patients  with  confirmed or suspected
+COVID‐19 and their family members and friends, people with  occu‐
+pational  exposure risks, and residents of Hubei province. Perva‐
+sive intervention measures, including quarantine  and  delays  in
+returning  to  work, were closely associated with negative mental
+health outcomes. These findings suggest that the COVID‐19 pandem‐
+ic  may  have severe mental health repercussions. Population‐spe‐
+cific mental health interventions are urgently needed to meet de‐
+mand  during  this outbreak. Future studies are needed to explore
+the association of the COVID‐19 pandemic with  mental  health  in
+other  countries and its long‐term outcomes.  ARTICLE INFORMATION
+JAMA Network Open.  Beijing, China (Gong, L. Lu).   integrity  of
+the  data and the accuracy of the data analysis. Dr L. Shi and Ms
+Z.‐A. Lu contributed equally to this work.  Concept  and  design:
+L. Shi, Z.‐A. Lu, Que, Huang, Gong, Yan, J. Shi, Bao, L. Lu.  Ac‐
+quisition, analysis, or interpretation of data: L. Shi, Z.‐A. Lu,
+Liu,  Ran,  Yuan,  Sun, Bao.  Statistical analysis: L. Shi, Z.‐A.
+Lu, Liu, Yuan, Sun, Bao.  Obtained funding: L. Shi.   Administra‐
+tive,  technical,  or material support: L. Shi, Huang, Gong, Bao,
+L. Lu.  Supervision: Ran, J. Shi, Bao, L. Lu.  Conflict of Inter‐
+est Disclosures: None.  Funding/Support: This study was supported
+by grants 81761128036, 81821092, and 31900805 from  the  National
+Natural  Science  Foundation of China, grant BMU2020HKYZX008 from
+the Special Research Fund of Peking National Key Research and De‐
+velopment  Program of China.  JAMA Network Open | Psychiatry Men‐
+tal Health Symptoms  Among  the  General  Population  During  the
+COVID‐19  Outbreak  in China Role of the Funder/Sponsor: The fun‐
+ders had no role in the design and conduct of the study;  collec‐
+tion,  Additional Contributions: We thank all of the participants
+for their willingness to participate in the study  and  the  time
+that  they devoted to the study.  1. Wang C, Horby PW, Hayden FG,
+Gao GF. A novel coronavirus outbreak of  global  health  concern.
+Lancet. 2020; 3. Meo SA, Alhowikan AM, Al‐Khlaiwi T, et al. Novel
+coronavirus 2019‐nCoV: prevalence, biological and clinical 4. Ma‐
+hase  E. COVID‐19: WHO declares pandemic because of alarming lev‐
+els of spread, severity, and inaction.  5. Ebrahim SH, Ahmed  QA,
+Gozzer E, Schlagenhauf P, Memish ZA. COVID‐19 and community miti‐
+gation strategies 7. Chen S, Yang J, Yang W, Wang C,  Brnighausen
+T.  COVID‐19 control in China during mass population movements 8.
+Adalja AA, Toner E, Inglesby TV. Priorities  for  the  US  health
+community  responding  to  COVID‐19. JAMA. 2020; 9. Bao Y, Sun Y,
+Meng S, Shi J, Lu L. 2019‐nCoV epidemic:  address  mental  health
+care  to  empower  society. Lancet.  10. Wang C, Pan R, Wan X, et
+al. Immediate psychological responses and associated factors dur‐
+ing  the initial stage of the 2019 coronavirus disease (COVID‐19)
+epidemic among the general population in China. Int J Environ Res
+12. He XY, Li CB, Qian J, Cui HS, Wu WY. Reliability and validity
+of a generalized anxiety disorder scale in general 13. Bai CJ, Ji
+DH,  Chen LX, Li L, Wang CX. Reliability and validity of Insomnia
+Severity Index in clinical insomnia 14.  Bryant  RA,  Moulds  ML,
+Guthrie RM. Acute Stress Disorder Scale: a self‐report measure of
+acute stress disorder.  15. Qiu J, Shen B, Zhao M, Wang Z, Xie B,
+Xu Y. A nationwide survey of psychological distress among Chinese
+people in the COVID‐19 epidemic: implications and  policy  recom‐
+mendations.  Gen  Psychiatr.  2020;33(2):e100213.   16.  Gupta S,
+Goren A, Dong P, Liu D. Prevalence, awareness, and burden of  ma‐
+jor  depressive  disorder  in urban 17. Zhou X, Bi B, Zheng L, et
+al. The prevalence and risk factors for depression symptoms in  a
+rural Chinese sample 18. Yu W, Singh SS, Calhoun S, Zhang H, Zhao
+X, Yang F. Generalized anxiety disorder in  urban  China:  preva‐
+lence,  20.  Sim  K,  Huak Chan Y, Chong PN, Chua HC, Wen Soon S.
+Psychosocial and coping responses  within  the  community  health
+care  setting  towards  a national outbreak of an infectious dis‐
+ease. J Psychosom  Res.  2010;68(2):  21.  Taylor  MR,  Agho  KE,
+Stevens GJ, Raphael B. Factors influencing psychological distress
+during a disease JAMA Network Open  |  Psychiatry  Mental  Health
+Symptoms  Among  the  General Population During the COVID‐19 Out‐
+break in China 22. van Griensven F, Chakkraband ML, Thienkrua  W,
+et  al;  Thailand Post‐Tsunami Mental Health Study Group.  Mental
+health problems among adults in tsunami‐affected areas in  south‐
+ern  Thailand.  JAMA.  2006;296(5):  23. Thienkrua W, Cardozo BL,
+Chakkraband ML, et al; Thailand Post‐Tsunami Mental Health  Study
+Group.   Symptoms of posttraumatic stress disorder and depression
+among children in tsunami‐affected areas in  southern  24.  Cheng
+SK,  Wong  CW, Tsang J, Wong KC. Psychological distress and nega‐
+tive appraisals in survivors of severe 27. Tang B, Liu X, Liu  Y,
+Xue C, Zhang L. A meta‐analysis of risk factors for depression in
+adults and children after 28. Brooks SK, Webster RK, Smith LE, et
+al.  The psychological impact of quarantine and how to reduce it:
+rapid 29. Person B, Sy F, Holton K, Govert B, Liang  A;  National
+Center for Inectious Diseases/SARS Community Outreach factors as‐
+sociated with psychological outcomes in healthcare employees dur‐
+ing  an infectious disease outbreak.  31. Chen N, Zhou M, Dong X,
+et al. Epidemiological and clinical characteristics of  99  cases
+of  2019  novel 32. Bai Y, Yao L, Wei T, et al. Presumed asympto‐
+matic carrier transmission of COVID‐19. JAMA.  2020;323(14):  33.
+Chan  SS,  Leung GM, Tiwari AF, et al. The impact of work‐related
+risk on nurses during the SARS outbreak in 34. Hawryluck L,  Gold
+WL,  Robinson  S,  Pogorski S, Galea S, Styra R. SARS control and
+psychological effects of 35. Rautio N, Filatova S, Lehtiniemi  H,
+Miettunen  J.  Living environment and its relationship to depres‐
+sive mood: 36. Andrillon  T,  Poulsen  AT,  Hansen  LK,  Lger  D,
+Kouider  S.  Neural  markers of responsiveness to the environment
+37. Stafford M, De Silva M, Stansfeld S, Marmot M.  Neighbourhood
+social capital and common mental disorder: 38. Wang R, Xue D, Liu
+Y, Chen H, Qiu Y. The relationship between urbanization  and  de‐
+pression  in China: the 39. Lee S, Leung CM, Kwok KP, Lam Ng K. A
+community‐based study of the relationship between somatic and 40.
+Stein  DJ, Lim CCW, Roest AM, et al; WHO World Mental Health Sur‐
+vey Collaborators. The cross‐national epidemiology of social anx‐
+iety  disorder:  data from the World Mental Health Survey Initia‐
+tive. BMC Med. 2017;15 41. Dong X, Wang Y, Chen Y,  et  al.  Poor
+sleep  quality  and influencing factors among rural adults in De‐
+qing, China.  42. Zhong BL, Luo W, Li HM, et al. Knowledge, atti‐
+tudes,  and  practices  towards COVID‐19 among Chinese 43. Li LQ,
+Huang T, Wang YQ, et al. COVID‐19 patients clinical  characteris‐
+tics,  discharge  rate,  and fatality rate of JAMA Network Open |
+Psychiatry Mental Health Symptoms Among  the  General  Population
+During  the  COVID‐19 Outbreak in China 44. Peng EY, Lee MB, Tsai
+ST, et al. Population‐based post‐crisis  psychological  distress:
+an  example from the SARS 46. Lu S, Reavley N, Zhou J, et al. De‐
+pression among the general adult population in  Jiangsu  Province
+of  China: 48. Wang Y, Murray AM, Toussaint AK, et al. Why is the
+recognition rate of  psychological  distress  under‐estimated  in
+general  hospitals? a cross‐sectional observational study in Chi‐
+na. Medicine (Baltimore). 2019;98(27):e16274.  Acute Stress
+
+
+
+
+
+
+
+
+
+

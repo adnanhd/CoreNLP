@@ -1,637 +1,660 @@
-REVIEW ARTICLE
-COVID-19. An update for orthopedic surgeons
-Mohammad Kamal Abdelnasser1, Mohamed Morsy1, Ahmed E. Osman1, Ayman F. AbdelKawi1,
-Mahmoud Fouad Ibrahim1, Amr Eisa1, Amr A. Fadle1, Amr Hatem1, Mohammed Anter Abdelhameed1,*,
-Ahmed Abdelazim A. Hassan1, and Ahmed Shawky Abdelgawaad1,2
-Spine center, Helios Klinikum Erfurt, Nordhaeuser street 74, 88089 Erfurt, Germany
-Abstract – The COVID-19 pandemic has affected our world in a short period of time, and the orthopedic surgery
-practice was not an exclusion. Elective care was deferred in most health care facilities and emergency care was continued with strict precautions. With rapid progression of the pandemic, the response of the medical community is also
-rapidly changing in all aspects of delivering care. This led to a large number of publications with reports, guidelines,
-performed with all related terms on two scientiﬁc search engines, PubMed and SCOPUS, and the results were ﬁltered
-5 main headings; the impact of pandemic on the orthopedic practice, COVID-19 and the trauma patient, elective and
-emergency surgeries during the pandemic, peri-operative management of the patient with COVID-19, Miscellaneous
-Key words: COVID-19, Orthopaedics.
-COVID-19 or SARS-CoV-2 was ﬁrst identiﬁed as a potential infectious threat in China in December 2019, [1–3] and
-declared as a pandemic by the World Health Organization on
-March 11, 2020 [4]. With the massive burden on health systems
-around the world, COVID-19 has heavily impacted all aspects
-of the medical practice including specialities that are not
-directly related to its clinical effects such as orthopedic surgery.
-Elective surgical procedures have been postponed in order to
-reduce the burden on health systems and allow for more availability of hospital beds for the more needy. Management of
-emergent and urgent surgical cases has also been affected [5].
-A continuous need is present to address the daily new information and to employ them in our orthopedic practices. Moreover,
-with more countries reaching their peak and plateau phase,
-healthcare facilities are getting ready to reopen and resume
-medical care. This will require a solid understanding of the
-precautions required for this resumption during such a critical
-phase, which may extend for a few months ahead, not to
-mention some speculations of a second wave of COVID-19
-guidelines relevant to the orthopedic community available in
-the literature to help us plan for the current phase and those
-yet to come.
-To provide the most relevant and up to date information for
-the orthopedic community, a systematic approach was used to
-gather information. A literature search was conducted on May
-22nd on Medline and SCOPUS with the terms “COVID-19”,
-“COVID 19”, “COVID”, “Corona virus” or “Corona”, together
-and Meta-Analyses (PRISMA) method and ﬂowchart were
-after omitting duplicates. Screening by title and abstract further
-which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-reduced the number to 262 after exclusion of non-English
-information. Relevant information was digested and organized
-under 5 main headings; the impact of COVID-19 pandemic
-on the orthopedic practice, COVID-19 and the trauma patient,
-elective and emergency surgeries during the pandemic, perioperative management of the patient with COVID-19,
-Miscellaneous effects of the pandemic such as those on training
-programs and the evolution of telemedicine.
-The impact of COVID-19 pandemic
-Lack of sufﬁcient evidence and the highly contagious nature
-of COVID-19 led to drastic measures implemented by many
-countries varying from social distancing to total lockdown,
-which had tremendous global economic and social effects
-[7, 8]. The COVID-19 pandemic represents an unprecedented
-challenge to healthcare systems mainly due to the exponential
-expansion of the patient population in need of hospitalization
-surpassing available resources [9–14]. With the risks posed by
-shortage of Personal Protective Equipment (PPE) [13–15]
-non-traditional solutions were developed such as 3D printed face
-shields, reusable gowns, and protocols for the re-use of PPE
-[18]. Moreover, the sudden overload of healthcare systems mandated institution of new hospitals as well as changing the bed
-capacity to increase respiratory care beds; this was coupled with
-initial reduction and later cancelation of all elective procedures
-in order to save the available resources and limit spread of the
-virus [19–27]. In the midst of this crisis, the orthopedic surgeon
-was surely affected: from de-specialization and serving on the
-frontline, to upgrades from fellow to faculty and reassignment
-of residents to clinical care rotations [18–28]. Managing
-COVID-19 patients with surgical emergencies and trauma with
-the risk of self-infection have led to a higher degree of anxiety
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-to provide meetings for faculty, quick and wide spread of
-knowledge, and outreach to patients through telehealth systems
-COVID-19 and the trauma patient
-So far, very few studies reported the association between
-COVID-19 and trauma patients [33–35]. Given the fact that
-patients with fractures especially of the lower extremity and
-those with limited ambulatory capacity are more susceptible
-to respiratory infection [36], the association between
-COVID-19 and trauma patients is not unlikely.
-Mi et al. reported on 10 trauma patients with COVID-19,
-seven of them (70%) had a nosocomial infection after
-admission to the hospital because of their fracture [34].
-Although SARS-CoV-2 was positive in only 6 patients, the
-characteristic CT ground-glass opacities were evident in all
-patients. Clinical symptoms were not different from those present in patients without factures. Lymphopenia was more common in patients with fractures. Moreover, D-Dimer and the
-median neutrophilic count were higher than the upper normal
-limits of the corresponding indicators. These might be special
-laboratory indicators of fractures in patients with COVID-19.
-Four patients (40%) died and three others (30%) developed
-between COVID-19 pneumonia and fractures can lead to severe
-adverse outcomes and increased mortality [34].
-Catellani et al. reported on 16 patients of proximal femoral
-fractures positive for COVID-19 [35]. All patients presented
-with fever and oxygen desaturation on ambient air; 14 of them
-required respiratory support. Improved respiratory parameters
-were evident in 12 out of 13 patients who underwent early
-may contribute to the overall patient stability, improvement in
-physiological ventilation, seated mobilization, and general
-patient comfort in bed [35].
-Nevertheless, the association between COVID-19 characteristic CT picture and trauma patients has also been reported
-in absence of symptoms related to COVID-19 pneumonia [33].
-Emergent, urgent, and elective procedures
-The necessity to choose which operations to proceed with
-and which can wait is a challenging and sometimes difﬁcult
-decision during the pandemic crisis. In the light of the available
-questions to our practice.
-A. What is the definition of an elective procedure?
-In the time of the pandemic, it is important to identify
-elective procedures or in other terms, the ones that could be
-delayed. Although this may sound simple, the pandemic itself
-has made such a sharp distinction impossible, creating a large
-gray zone. This question is particularly relevant to the orthopedic practice as 47% of the expenditure is from elective surgeries
-[37]. With no consensus reached in the orthopedic community,
-to each facility according to its resources and to each patient
-according to the condition [37–39].
-The Ohio Hospital Association (OHA) deﬁned elective
-surgeries as those not meeting the following criteria “threat to
-the patient’s life if surgery or procedure is not performed, threat
-of permanent dysfunction of an extremity or an organ system,
-risk of metastasis or progression of staging, or risk of rapidly
-diseases (low or moderate risk of clinical deterioration) can
-short-term clinical deterioration) should be considered for surgery with precautions [40].
-The COVID-19 status of the patient whether positive, negative, or not tested is another important factor that affects the
-time of surgical intervention [40].
-B. Why postpone elective procedures?
-Reducing surgeries saves resources including hospital beds,
-PPEs, as well as protecting the surgical staff [5]. This can also
-diminish the risk of perioperative complications and mortality,
-[40, 41] reduce unnecessary patient trafﬁc and decrease the
-introduction and spread of disease among patients and health
-care providers [5].
-C. What should be offered to patients as an alternative
-to surgical intervention?
-Delays of operative intervention in elective cases although
-temporary, might extend for months as a best estimate. Patients
-should be offered sound alternatives to assist them bear the
-anticipated waiting times, this could be in the form of optimized
-medical treatment, individualized non-surgical options through
-psychological support, and in pediatric patients engaging families and stressing on safety measures [40–42].
-D. Are there any recommendations on categorizing
-and managing orthopedic conditions?
-according to urgency, [37, 38] as well as guidelines put forth
-by international societies [45–47].
-Awad et al. stratiﬁed orthopedic conditions into ﬁve categories according to urgency, A through E, A being the most
-urgent [45]. Open fractures, acute neurovascular derangements
-as well as acute infections were rendered as emergent (A) to be
-operated within 24 h. Closed fractures were grouped under B or
-C. Deformities, arthroplasty and trigger ﬁnger were grouped
-Farrell et al. suggested some management plans for
-the pediatric orthopedic patient [42]. In the pediatric trauma
-patient, modiﬁcations to standard care were mostly to the
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-e.g., Spine
-Priority A
-Closed reduction of a
-Facet dislocation
-Priority B
-Cauda equina
-Foot and ankle
-Priority C
-Priority D
-Operative lumbar
-discectomy with
-Operative foot
-Priority E
-Ankle arthroplasty or
-Gartland 1 Supracondylar fracture
-Fibular Fracture
-What to do immediately
-Collar and cuff, removed by family at 3 weeks.
-Apply walking boot
-Weight bear as tolerated
-None required.
-Family to remove boot at week 4
-Teleconference week 6
-New case of a
-club foot
-Do not start a Ponseti
-risk of transmission
-Anterior Cruciate
-Excellent results can be still obtained
-with a period of delay
-during the COVID-19 era [48]. Patients were classiﬁed into
-three levels according to the urgency of surgical intervention
-and the facility in which the patient should be operated upon.
-E. How to triage patients during the COVID-19 pandemic?
-Awad et al. recommended regional organization by assigning designated hospitals with orthopedic staff to treat only suspected or conﬁrmed COVID-19 patients and other hospitals in
-the same regions to treat exclusively non-infected patients [45].
-This may not be feasible in some regions or districts and in such
-a case, the same hospital should be divided into areas or wards
-according to the risk of exposure to the virus, with a stratiﬁed
-On the personnel level, all should apply the general selfprotection rules like, safe distancing, face masks, goggles for
-eye protection, hand disinfection, regular decontamination of
-all patient/staff contact points, and avoidance of touching one’s
-working in the hospital involved in direct patient care, while
-the other teams are away from the hospital through 14 days
-as a “quarantine” between episodes of direct patient care [51].
-This requires adequate number of medical staff which has not
-always been the case in the COVID-19 pandemic.
-Ponsetti casting can be commenced later
-Consider teleconferencing
-Follow-up after the pandemic.
-Offer prehab program.
-On the patient level, in hospitals still running outpatient
-clinics, patients should be screened for symptoms like (fever,
-cough, sore throat), if the patient shows positive symptoms
-consider delaying the outpatient management till test results
-are available. If a patient’s operation could not be delayed for
-testing, then the patient should be re-triaged into the emergency
-category and presumed COVID positive. All of this should be
-done with proper precautions such as wearing face masks,
-distancing, and well-aerated waiting areas [52, 53].
-As for patients in the Emergency Department (ED) and
-crowded triage areas, same protective precautions apply, and
-if the patient is oriented, he/she is asked for the suspect criteria
-for COVID-19 infection. Suspected or conﬁrmed COVID-19
-patients should be isolated in a separate room and should keep
-at least 6 feet distance from other patients or non-treating staff.
-COVID-19 Polymerase Chain Reaction (PCR) testing should
-be done for all patients that will be admitted or will undergo
-surgery. Surgeons should not approach the triage area without
-the minimum standard PPE recommended. PPE should be
-exchanged if they are damaged or soiled or before leaving
-the ED. Only required equipment and assessment tools should
-be brought into the triage room to minimize the number of
-items that need to be disinfected after the exposure [45–54].
-F. What are the peri-operative precautions when operating
-on a COVID-19 positive or suspected case?
-This should be incorporated into hospital plans and rules to
-face the pandemic, [55] and can be subdivided into measures
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-Surgical Spine Pathologies
-Cervical or thoracic myelopathy (symptomatic;
-disc herniations, infections, tumor burden)
-Acute or subacute lumbar disc herniations
-Compression fracture (without neurologic deﬁcits)
-Proceed with surgical intervention at hospital location.
-Proceed with surgical intervention at ambulatory surgical center
-(ASC) versus consider at hospital facility if low COVID-19 census.
-Defer surgery or reconsider risks versus beneﬁts of continued
-conservative management.
-Consider course of steroid therapy (injection or oral).
-Odontoid fractures in elderly will be managed conservatively,
-with option of treating symptomatic nonunion surgically in future.
-urgency of the condition is multifactorial and differs according to the institution, resources and patient characteristics (see text). **The
-emergency patients stay postoperatively in the Isolation Ward till available test results for COVID-19 Infection.
-involving the operating room, personnel, anesthesia, the procedure, and postoperative precautions.
-Operating room measures
-Separate operating rooms (OR) should be designated for
-COVID-19 positive patients, isolated from other operating rooms
-[5–45]. The operating room is preferred to have a separate
-ventilation system with negative pressure [5, 58–60], which if
-not available, it is recommended to add High-Efﬁciency
-Particulate Air (HEPA) ﬁlters to positive pressure rooms
-[51–54]. Moreover, Air conditioning should be turned off
-Only the materials necessary for the case should be brought
-into the OR [5]. All equipment and screens should be covered
-with plastic sheets to facilitate decontamination [45]. Consider
-attenuation of residual environmental contamination through
-cleaning with surface disinfectants and ultraviolet light
-All trafﬁc in and out of the OR should be minimized
-[5–54]. All doors should be closed once the patient is transferred in and during the whole operation [5]. The path of the
-patient to and from the OR should be kept clear and better to
-be separate from other operating rooms [5]. Patients should
-cover their face with a surgical mask [5]. The patient should
-recover in the operating room and transferred directly to the
-isolation ward [5–62].
-The number of personnel inside the OR should be kept to
-the minimum. Services personnel should not enter the room
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-until enough time has elapsed for air changers to reduce the risk
-of contamination [45–61]. Sales representatives, residents, and
-fellows should be discarded from OR unless essential [5–51].
-inspection or destruction [5, 45–61]. All contaminated instruments and devices should be disinfected separately followed
-by proper labeling [5, 45–61].
-Operating personnel
-Postoperative precautions
-The fewest number of personnel possible is the main goal,
-with the highest skilled surgeon performing the procedure to
-avoid prolongation of the surgery [51, 54, 59, 64]. All personnel
-in the operating room should wear the PPE which include Association of Advancement of Medical Instrumentation (AAMI)
-level III surgical gowns, surgical hood (for head and neck covering), double gloves, facemasks and either N95, Filtering Face
-Piece 2 (FFP2) respirators with a face shield/googles or Powered
-Air-Purifying Respirator (PARP), ﬂuid-resistant shoes or
-booties [5, 49–57]. Donning and dofﬁng of PPE should be done
-in an anteroom if available, [5–56] with hand hygiene prior and
-after donning/dofﬁng PPE [5]. Avoid self-contamination during
-PPE dofﬁng. Disinfect the ﬁrst pair of gloves with an alcohol
-solution, before removing the surgical mask with the shield
-and the hair cap [5–56]. Consider placing a simple surgical mask
-on top of the N-95 to prevent gross contamination. Each time
-N95 respirator is taken off, it must be double-checked for not
-being soiled or damaged before reuse [5, 45–57]. Full face shield
-is preferred to protective eye goggles [5, 52–57].
-Dedicated anesthesia machines should be exclusively designated for COVID-19 positive cases [62]. The most experienced
-anesthesiologist should intubate the patient in the shortest
-possible time with minimal airway manipulation, avoiding
-face mask ventilation and open-air way suction as possible
-[5, 45–60]. Keep the minimum number of personnel inside
-the anesthesia room which should be separate from the operating room, which should not be entered for 15–20 min after
-intubation [5, 51–57].
-Use deep anesthesia and neuromuscular blockage. Preoxygenation should be performed via well-ﬁtting face mask
-to avoid hypoxia in critically ill COVID-19 patients with respiratory failure [60–65]. It is preferred to avoid general anesthesia
-and use of regional/spinal anesthesia is recommended whenever
-possible [60].
-Surgical procedure
-Consider the use of minimally invasive approaches to
-decrease operating staff exposure and shorten case duration
-[5, 51–66]. Use disposable medical supplies/instruments whenever possible, and absorbable sutures for wound closure to
-avoid a postoperative unnecessary visit [45–51]. The use of
-electrocautery should be reduced to minimize the surgical
-smoke and should be used in conjunction with a smoke evacuator [5, 58, 59, 67]. Care should be taken when using sharp
-objects to avoid sharp injury or damage of PPE [61]. The use
-of power tools like bone saws, reamers, and drills should be
-reduced to the minimum and the power settings should be as
-low as possible, as they release aerosols, increasing the risk
-of virus spread. Suction devices to remove smoke and aerosols
-should be used during their use [68].
-All body ﬂuids as blood, secretions, urine, or pathological specimens should be collected in double sealed bags for
-The transfer to isolation wards should be through dedicated
-corridors and elevators which should be carefully sterilized after
-transport [55, –62]. During the transfer, transport personnel
-should wear PPE which should not be the same as worn during
-the procedure and patients should be wearing N-95/FFP2 masks
-and covered with disposable operating sheets [5, 58–62].
-Surgeons must be aware of common postoperative complications from COVID-19 infections. In the presence of fever and
-one of the symptoms of a respiratory infection (dry cough, etc.),
-laboratory tests for COVID-19 diagnosis must be ordered.
-Suspected cases should be reported immediately together with
-transfer of the patient to an isolation ward [69]. Patients should
-receive adequate nutrition, ﬂuid hydration, and electrolyte
-balance to promote immune recovery and rapid rehabilitation
-[61]. Frequent monitoring of temperature, laboratory Complete
-Blood Count (CBC), C-reactive protein, and Ferritin level
-should be done [70]. Severe COVID-19 infection might cause
-a “cytokine storm syndrome”, which is characterized by a
-fulminant and fatal hyper-cytokinemia with multiorgan failure.
-An increased level of ferritin occurs in approximately 50% of
-patients. All patients with severe COVID-19 should be screened
-for hyper-inﬂammation markers [71].
-Safe and effective patient care during the pandemic
-and telemedicine
-In order to resume safe patient care, telemedicine has been
-widely used during this pandemic [72–75]. Telemedicine
-allows health care providers to deliver clinical services to
-patients through the use of the widely available telecommunication technologies. It can be used for patient triage, postoperative
-educational programs or videoconferences. Moreover, rehabilitation can be tele-monitored through special technologies such
-as wireless sensors for range of motion such as the knee following knee arthroplasty. Nonetheless, telemedicine has its limitations. Patients with sutures to remove, cast to change or need
-comprehensive clinical examination will still have to pay an
-in person visit to the health care facility. Also, there are obstacles for wide implementation of such services such as infrastructure cost, provider and patient education, data protection,
-ethical consideration, legalization, and payment regulation [64].
-In order to facilitate the use of telemedicine, the Ofﬁce for
-Civil Rights at the U.S. Department of Health and Human
-Zoom, and FaceTime without imposing penalties for noncompliance. In all cases, documentation within the patient medical
-record is mandatory [76].
-Training during the pandemic
-The COVID-19 crisis called for alternative methods to
-resume resident and fellow education [77–79], an example is
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-the ﬂipped virtual classroom method, in which the learners are
-meeting focused on active learning and case-based discussions.
-webinars, and telehealth clinics with resident involvement.
-Many applications such as Webex, Google Classroom,
-conferences. The main drawback to this approach is that it cannot involve actual clinical or surgical skills teaching. Others
-include difﬁculties some senior staff may have with utilizing
-modern technology, slow internet speed in some regions, and
-difﬁculties with viewing some pictures especially radiology
-[80]. To overcome these obstacles high-deﬁnition 3D operative
-videos and surgical simulations are being employed. Various
-simulation modalities are available including surgical skills
-laboratories, cadaveric dissections and procedural training,
-and computer-based virtual reality training [81–84].
-The 2020 Annual Meeting of American Academy of
-Orthopedic Surgeons (AAOS) is now being made available
-through the AAOS website. This includes instructional course
-lectures, and ask expert sessions, in addition to the traditional
-research paper and poster presentations. The American Association of Hip and Knee Surgeons (AAHKS) has developed the
-for resident and fellow training through recording attendance
-Making use of the crisis and planning for the
-post-pandemic era
-Global cooperation and exchange of experiences are still to
-be improved. The pandemic is still in various stages in different
-countries. Countries with increasing numbers of cases and
-mortalities are learning from those recovering from the crisis.
-The future requires better planning and re-allocation of
-resources to be prepared for such events.
-To make use of the available technologies in telemedicine is
-of utmost importance. Remote triaging and examination techniques, feedback through mobile applications, and virtual interdisciplinary meetings should be encouraged. Urgent legislative
-reforms to adapt to these changes are mandatory.
-E-learning, virtual conferences, webinars, and simulation
-training initiatives must be supported by the international
-scientiﬁc societies. Curricula should be revised to adapt to these
-needs. Non-technical skills should constitute integral part of
-learning programs.
-Plans should be prepared to manage the accumulated long
-waiting lists of elective surgeries [85–89]. Prioritization should
-be rational without inferring excessive burden on the recovering
-health system after the crisis.
-including orthopedic surgery will differ after the pandemic is
-over. Implementation of new technologies, restructuring our
-health systems with incorporation of telemedicine as well as
-reorganizing of our traditional training programs will be crucial
-for a more effective and optimal delivery of care.
-Conflict of Interest
-There is no funding source.
+REVIEW ARTICLE COVID‐19. An update for orthopedic surgeons Moham‐
+mad Kamal Abdelnasser1, Mohamed Morsy1, Ahmed E. Osman1, Ayman F.
+AbdelKawi1, Mahmoud Fouad Ibrahim1, Amr Eisa1, Amr A. Fadle1, Amr
+Hatem1, Mohammed Anter Abdelhameed1,*, Ahmed  Abdelazim  A.  Has‐
+san1,  and  Ahmed  Shawky  Abdelgawaad1,2  Spine  center,  Helios
+Klinikum Erfurt, Nordhaeuser street 74, 88089 Erfurt, Germany Ab‐
+stract   The  COVID‐19 pandemic has affected our world in a short
+period of time, and the orthopedic surgery practice  was  not  an
+exclusion. Elective care was deferred in most health care facili‐
+ties and emergency care was continued  with  strict  precautions.
+With rapid progression of the pandemic, the response of the medi‐
+cal community is also rapidly changing in all aspects of deliver‐
+ing  care.  This  led  to a large number of publications with re‐
+ports, guidelines, performed with all related terms on two scien‐
+tic  search  engines,  PubMed  and  SCOPUS,  and the results were
+ltered 5 main headings; the impact of pandemic on the  orthopedic
+practice, COVID‐19 and the trauma patient, elective and emergency
+surgeries during the pandemic, peri‐operative management  of  the
+patient  with  COVID‐19,  Miscellaneous  Key words: COVID‐19, Or‐
+thopaedics.  COVID‐19 or SARS‐CoV‐2 was rst identied as a  poten‐
+tial  infectious  threat  in China in December 2019, [13] and de‐
+clared as a pandemic by the World Health  Organization  on  March
+11,  2020  [4].  With the massive burden on health systems around
+the world, COVID‐19 has heavily impacted all aspects of the medi‐
+cal practice including specialities that are not directly related
+to its clinical effects such  as  orthopedic  surgery.   Elective
+surgical  procedures  have  been postponed in order to reduce the
+burden on health systems and allow for more availability of  hos‐
+pital  beds for the more needy. Management of emergent and urgent
+surgical cases has also been affected [5].  A continuous need  is
+present  to  address the daily new information and to employ them
+in our orthopedic practices. Moreover, with more countries reach‐
+ing  their peak and plateau phase, healthcare facilities are get‐
+ting ready to reopen and resume medical care. This will require a
+solid  understanding of the precautions required for this resump‐
+tion during such a critical phase, which may  extend  for  a  few
+months  ahead,  not to mention some speculations of a second wave
+of COVID‐19  guidelines  relevant  to  the  orthopedic  community
+available in the literature to help us plan for the current phase
+and those yet to come.  To provide the most relevant  and  up  to
+date  information  for the orthopedic community, a systematic ap‐
+proach was used to gather information. A  literature  search  was
+conducted  on  May  22nd  on  Medline  and  SCOPUS with the terms
+COVID‐19, COVID 19, COVID, Corona virus or Corona,  together  and
+Meta‐Analyses (PRISMA) method and owchart were after omitting du‐
+plicates. Screening by title and abstract further  which  permits
+unrestricted  use,  distribution, and reproduction in any medium,
+provided the original work is properly cited.   M.K.  Abdelnasser
+et  al.:  SICOT‐J 2020, 6, 24 reduced the number to 262 after ex‐
+clusion of non‐English information. Relevant information was  di‐
+gested  and  organized  under  5  main  headings;  the  impact of
+COVID‐19 pandemic on the orthopedic practice,  COVID‐19  and  the
+trauma  patient, elective and emergency surgeries during the pan‐
+demic, perioperative management of  the  patient  with  COVID‐19,
+Miscellaneous  effects  of the pandemic such as those on training
+programs and  the  evolution  of  telemedicine.   The  impact  of
+COVID‐19 pandemic Lack of sufcient evidence and the highly conta‐
+gious nature of COVID‐19 led to drastic measures  implemented  by
+many  countries varying from social distancing to total lockdown,
+which had tremendous global economic and social effects  [7,  8].
+The  COVID‐19  pandemic  represents an unprecedented challenge to
+healthcare systems mainly due to the exponential expansion of the
+patient  population  in need of hospitalization surpassing avail‐
+able resources [914]. With the risks posed by shortage of Person‐
+al  Protective  Equipment  (PPE) [1315] non‐traditional solutions
+were developed such as 3D printed face shields,  reusable  gowns,
+and  protocols  for  the re‐use of PPE [18]. Moreover, the sudden
+overload of healthcare systems mandated institution of new hospi‐
+tals as well as changing the bed capacity to increase respiratory
+care beds; this was coupled with initial reduction and later can‐
+celation  of  all elective procedures in order to save the avail‐
+able resources and limit spread of the virus [1927]. In the midst
+of  this crisis, the orthopedic surgeon was surely affected: from
+de‐specialization and serving on the frontline, to upgrades  from
+fellow  to faculty and reassignment of residents to clinical care
+rotations [1828]. Managing COVID‐19 patients with surgical  emer‐
+gencies  and trauma with the risk of self‐infection have led to a
+higher degree of anxiety M.K. Abdelnasser et al.:  SICOT‐J  2020,
+6,  24  to provide meetings for faculty, quick and wide spread of
+knowledge, and outreach to patients  through  telehealth  systems
+COVID‐19 and the trauma patient So far, very few studies reported
+the association between COVID‐19 and trauma patients [3335]. Giv‐
+en  the fact that patients with fractures especially of the lower
+extremity and those with limited  ambulatory  capacity  are  more
+susceptible  to  respiratory  infection [36], the association be‐
+tween COVID‐19 and trauma patients is not unlikely.   Mi  et  al.
+reported on 10 trauma patients with COVID‐19, seven of them (70%)
+had a nosocomial infection after admission to  the  hospital  be‐
+cause  of  their fracture [34].  Although SARS‐CoV‐2 was positive
+in only 6 patients, the characteristic CT ground‐glass  opacities
+were  evident in all patients. Clinical symptoms were not differ‐
+ent from those present in patients without factures.  Lymphopenia
+was more common in patients with fractures. Moreover, D‐Dimer and
+the median neutrophilic count were higher than the  upper  normal
+limits  of  the  corresponding indicators. These might be special
+laboratory indicators of fractures  in  patients  with  COVID‐19.
+Four patients (40%) died and three others (30%) developed between
+COVID‐19 pneumonia and fractures can lead to severe adverse  out‐
+comes and increased mortality [34].  Catellani et al. reported on
+16 patients of proximal femoral fractures positive  for  COVID‐19
+[35].  All  patients presented with fever and oxygen desaturation
+on ambient air; 14 of them required respiratory support. Improved
+respiratory  parameters were evident in 12 out of 13 patients who
+underwent early may contribute to the overall patient  stability,
+improvement  in  physiological  ventilation, seated mobilization,
+and general patient comfort in bed [35].  Nevertheless, the asso‐
+ciation between COVID‐19 characteristic CT picture and trauma pa‐
+tients has also been reported in absence of symptoms  related  to
+COVID‐19  pneumonia  [33].  Emergent, urgent, and elective proce‐
+dures The necessity to choose which operations  to  proceed  with
+and  which  can wait is a challenging and sometimes difcult deci‐
+sion during the pandemic crisis. In the light  of  the  available
+questions to our practice.  A. What is the definition of an elec‐
+tive procedure?  In the time of the pandemic, it is important  to
+identify  elective  procedures  or  in other terms, the ones that
+could be delayed. Although this may sound  simple,  the  pandemic
+itself  has  made such a sharp distinction impossible, creating a
+large gray zone. This question is particularly  relevant  to  the
+orthopedic  practice  as  47% of the expenditure is from elective
+surgeries [37]. With no consensus reached in the orthopedic  com‐
+munity,  to  each facility according to its resources and to each
+patient according to the condition [3739].  The Ohio Hospital As‐
+sociation (OHA) dened elective surgeries as those not meeting the
+following criteria threat to the patients life if surgery or pro‐
+cedure  is  not  performed, threat of permanent dysfunction of an
+extremity or an organ system, risk of metastasis  or  progression
+of  staging, or risk of rapidly diseases (low or moderate risk of
+clinical deterioration) can  short‐term  clinical  deterioration)
+should  be  considered  for  surgery  with precautions [40].  The
+COVID‐19 status of the patient whether positive, negative, or not
+tested  is another important factor that affects the time of sur‐
+gical intervention [40].  B. Why  postpone  elective  procedures?
+Reducing surgeries saves resources including hospital beds, PPEs,
+as well as protecting the surgical staff [5]. This can  also  di‐
+minish  the  risk  of  perioperative complications and mortality,
+[40, 41] reduce unnecessary patient trafc and decrease the intro‐
+duction  and  spread  of  disease  among patients and health care
+providers [5].  C. What should be offered to patients as  an  al‐
+ternative  to  surgical intervention?  Delays of operative inter‐
+vention in elective cases although temporary,  might  extend  for
+months  as  a best estimate. Patients should be offered sound al‐
+ternatives to assist them bear  the  anticipated  waiting  times,
+this  could  be in the form of optimized medical treatment, indi‐
+vidualized non‐surgical options  through  psychological  support,
+and  in  pediatric  patients  engaging  families and stressing on
+safety measures [4042].  D. Are there any recommendations on cat‐
+egorizing  and  managing orthopedic conditions?  according to ur‐
+gency, [37, 38] as well as guidelines put forth by  international
+societies [4547].  Awad et al. stratied orthopedic conditions in‐
+to ve categories according to urgency, A through E, A  being  the
+most  urgent  [45].  Open fractures, acute neurovascular derange‐
+ments as well as acute infections were rendered as  emergent  (A)
+to be operated within 24 h. Closed fractures were grouped under B
+or C. Deformities, arthroplasty and  trigger  nger  were  grouped
+Farrell  et al. suggested some management plans for the pediatric
+orthopedic patient [42]. In the pediatric trauma patient, modica‐
+tions  to  standard  care  were mostly to the M.K. Abdelnasser et
+al.: SICOT‐J 2020, 6, 24 e.g., Spine Priority A Closed  reduction
+of  a  Facet  dislocation  Priority B Cauda equina Foot and ankle
+Priority C Priority D Operative lumbar discectomy with  Operative
+foot  Priority  E  Ankle arthroplasty or Gartland 1 Supracondylar
+fracture Fibular Fracture What to do immediately Collar and cuff,
+removed  by family at 3 weeks.  Apply walking boot Weight bear as
+tolerated None required.  Family to remove boot at week  4  Tele‐
+conference  week 6 New case of a club foot Do not start a Ponseti
+risk of transmission Anterior Cruciate Excellent results  can  be
+still  obtained  with  a  period of delay during the COVID‐19 era
+[48]. Patients were classied into three levels according  to  the
+urgency  of  surgical  intervention and the facility in which the
+patient should be operated upon.  E. How to triage patients  dur‐
+ing  the COVID‐19 pandemic?  Awad et al. recommended regional or‐
+ganization by  assigning  designated  hospitals  with  orthopedic
+staff  to  treat  only suspected or conrmed COVID‐19 patients and
+other hospitals in the same regions to treat exclusively  non‐in‐
+fected  patients  [45].  This may not be feasible in some regions
+or districts and in such a case, the same hospital should be  di‐
+vided  into  areas  or wards according to the risk of exposure to
+the virus, with a stratied On the personnel level, all should ap‐
+ply  the general selfprotection rules like, safe distancing, face
+masks, goggles for eye protection, hand disinfection, regular de‐
+contamination  of all patient/staff contact points, and avoidance
+of touching ones working in the hospital involved in  direct  pa‐
+tient  care,  while  the  other  teams are away from the hospital
+through 14 days as a quarantine between episodes  of  direct  pa‐
+tient  care [51].  This requires adequate number of medical staff
+which has not always been the  case  in  the  COVID‐19  pandemic.
+Ponsetti casting can be commenced later Consider teleconferencing
+Follow‐up after the pandemic.  Offer prehab program.  On the  pa‐
+tient  level,  in hospitals still running outpatient clinics, pa‐
+tients should be screened for symptoms like (fever,  cough,  sore
+throat), if the patient shows positive symptoms consider delaying
+the outpatient management till test results are available.  If  a
+patients operation could not be delayed for testing, then the pa‐
+tient should be re‐triaged into the emergency category  and  pre‐
+sumed COVID positive. All of this should be done with proper pre‐
+cautions such as wearing face masks, distancing, and well‐aerated
+waiting areas [52, 53].  As for patients in the Emergency Depart‐
+ment (ED) and crowded triage areas, same  protective  precautions
+apply,  and  if  the patient is oriented, he/she is asked for the
+suspect criteria for COVID‐19  infection.  Suspected  or  conrmed
+COVID‐19  patients  should  be  isolated  in  a separate room and
+should keep at least 6 feet distance from other patients or  non‐
+treating staff.  COVID‐19 Polymerase Chain Reaction (PCR) testing
+should be done for all patients that will be admitted or will un‐
+dergo surgery. Surgeons should not approach the triage area with‐
+out the minimum standard PPE recommended. PPE should be exchanged
+if  they are damaged or soiled or before leaving the ED. Only re‐
+quired equipment and assessment tools should be brought into  the
+triage  room to minimize the number of items that need to be dis‐
+infected after the exposure [4554].  F. What are the  peri‐opera‐
+tive  precautions  when  operating on a COVID‐19 positive or sus‐
+pected case?  This should be incorporated into hospital plans and
+rules  to face the pandemic, [55] and can be subdivided into mea‐
+sures M.K. Abdelnasser et al.: SICOT‐J 2020, 6, 24 Surgical Spine
+Pathologies  Cervical  or  thoracic myelopathy (symptomatic; disc
+herniations, infections, tumor burden) Acute or  subacute  lumbar
+disc herniations Compression fracture (without neurologic decits)
+Proceed with surgical intervention at hospital location.  Proceed
+with  surgical  intervention  at ambulatory surgical center (ASC)
+versus consider at hospital facility if low COVID‐19 census.  De‐
+fer  surgery  or reconsider risks versus benets of continued con‐
+servative management.  Consider course of steroid therapy (injec‐
+tion  or  oral).   Odontoid  fractures in elderly will be managed
+conservatively, with option of treating symptomatic nonunion sur‐
+gically  in  future.   urgency of the condition is multifactorial
+and differs according to the institution, resources  and  patient
+characteristics (see text). **The emergency patients stay postop‐
+eratively in the Isolation Ward till available test  results  for
+COVID‐19  Infection.   involving  the  operating room, personnel,
+anesthesia, the procedure, and postoperative precautions.   Oper‐
+ating  room measures Separate operating rooms (OR) should be des‐
+ignated for COVID‐19 positive patients, isolated from other oper‐
+ating rooms [545]. The operating room is preferred to have a sep‐
+arate ventilation system with negative pressure [5, 5860],  which
+if not available, it is recommended to add High‐Efciency Particu‐
+late Air (HEPA) lters to positive pressure  rooms  [5154].  More‐
+over,  Air  conditioning  should be turned off Only the materials
+necessary for the case should be brought into  the  OR  [5].  All
+equipment  and  screens  should be covered with plastic sheets to
+facilitate decontamination [45]. Consider attenuation of residual
+environmental  contamination through cleaning with surface disin‐
+fectants and ultraviolet light All trafc in and  out  of  the  OR
+should  be  minimized  [554]. All doors should be closed once the
+patient is transferred in and during the whole operation [5]. The
+path  of  the patient to and from the OR should be kept clear and
+better to be separate from other operating  rooms  [5].  Patients
+should  cover  their  face  with a surgical mask [5]. The patient
+should recover in the operating room and transferred directly  to
+the  isolation ward [562].  The number of personnel inside the OR
+should be kept to the minimum. Services personnel should not  en‐
+ter  the  room M.K. Abdelnasser et al.: SICOT‐J 2020, 6, 24 until
+enough time has elapsed for air changers to reduce  the  risk  of
+contamination  [4561]. Sales representatives, residents, and fel‐
+lows should be discarded from OR unless essential [551].  inspec‐
+tion  or  destruction [5, 4561]. All contaminated instruments and
+devices should be disinfected separately followed by  proper  la‐
+beling  [5, 4561].  Operating personnel Postoperative precautions
+The fewest number of personnel possible is the  main  goal,  with
+the  highest  skilled  surgeon  performing the procedure to avoid
+prolongation of the surgery [51, 54, 59, 64].  All  personnel  in
+the  operating room should wear the PPE which include Association
+of Advancement of Medical Instrumentation (AAMI) level III surgi‐
+cal  gowns,  surgical  hood  (for head and neck covering), double
+gloves, facemasks and either N95, Filtering Face Piece  2  (FFP2)
+respirators  with  a face shield/googles or Powered Air‐Purifying
+Respirator (PARP), uid‐resistant shoes or booties [5, 4957]. Don‐
+ning and dofng of PPE should be done in an anteroom if available,
+[556] with hand hygiene prior and after  donning/dofng  PPE  [5].
+Avoid self‐contamination during PPE dofng. Disinfect the rst pair
+of gloves with an alcohol solution, before removing the  surgical
+mask  with  the shield and the hair cap [556]. Consider placing a
+simple surgical mask on top of the N‐95 to prevent gross contami‐
+nation. Each time N95 respirator is taken off, it must be double‐
+checked for not being soiled or damaged before reuse  [5,  4557].
+Full  face  shield  is  preferred  to  protective eye goggles [5,
+5257].  Dedicated anesthesia machines should be exclusively  des‐
+ignated  for  COVID‐19  positive cases [62]. The most experienced
+anesthesiologist should intubate the patient in the shortest pos‐
+sible  time  with minimal airway manipulation, avoiding face mask
+ventilation and open‐air way suction as possible [5, 4560].  Keep
+the  minimum number of personnel inside the anesthesia room which
+should be separate from the operating room, which should  not  be
+entered  for 1520 min after intubation [5, 5157].  Use deep anes‐
+thesia and neuromuscular blockage. Preoxygenation should be  per‐
+formed  via  well‐tting  face mask to avoid hypoxia in critically
+ill COVID‐19 patients with respiratory failure [6065]. It is pre‐
+ferred  to  avoid  general  anesthesia and use of regional/spinal
+anesthesia is recommended whenever possible [60].  Surgical  pro‐
+cedure  Consider  the use of minimally invasive approaches to de‐
+crease operating staff exposure and  shorten  case  duration  [5,
+5166].  Use disposable medical supplies/instruments whenever pos‐
+sible, and absorbable sutures for wound closure to avoid a  post‐
+operative  unnecessary  visit  [4551].  The use of electrocautery
+should be reduced to minimize the surgical smoke  and  should  be
+used  in conjunction with a smoke evacuator [5, 58, 59, 67]. Care
+should be taken when using sharp objects to avoid sharp injury or
+damage  of PPE [61]. The use of power tools like bone saws, ream‐
+ers, and drills should be reduced to the minimum  and  the  power
+settings  should be as low as possible, as they release aerosols,
+increasing the risk of virus spread. Suction  devices  to  remove
+smoke  and  aerosols  should  be used during their use [68].  All
+body uids as blood, secretions, urine, or pathological  specimens
+should  be  collected  in  double sealed bags for The transfer to
+isolation wards should be through dedicated corridors and  eleva‐
+tors  which  should  be carefully sterilized after transport [55,
+62]. During the transfer, transport  personnel  should  wear  PPE
+which should not be the same as worn during the procedure and pa‐
+tients should be wearing N‐95/FFP2 masks and covered with dispos‐
+able  operating sheets [5, 5862].  Surgeons must be aware of com‐
+mon postoperative complications from COVID‐19 infections. In  the
+presence of fever and one of the symptoms of a respiratory infec‐
+tion (dry cough, etc.), laboratory tests for  COVID‐19  diagnosis
+must  be ordered.  Suspected cases should be reported immediately
+together with transfer of the patient to an isolation ward  [69].
+Patients  should  receive  adequate nutrition, uid hydration, and
+electrolyte balance to promote immune recovery and rapid rehabil‐
+itation [61]. Frequent monitoring of temperature, laboratory Com‐
+plete Blood Count (CBC), C‐reactive protein, and  Ferritin  level
+should  be done [70]. Severe COVID‐19 infection might cause a cy‐
+tokine storm syndrome, which is characterized by a fulminant  and
+fatal  hyper‐cytokinemia  with  multiorgan failure.  An increased
+level of ferritin occurs in approximately 50%  of  patients.  All
+patients  with severe COVID‐19 should be screened for hyper‐inam‐
+mation markers [71].  Safe and effective patient care during  the
+pandemic  and  telemedicine In order to resume safe patient care,
+telemedicine has been widely used during  this  pandemic  [7275].
+Telemedicine  allows  health  care  providers to deliver clinical
+services to patients through the  use  of  the  widely  available
+telecommunication  technologies.  It  can  be  used  for  patient
+triage, postoperative educational programs  or  videoconferences.
+Moreover,  rehabilitation  can  be tele‐monitored through special
+technologies such as wireless sensors for range of motion such as
+the  knee  following knee arthroplasty. Nonetheless, telemedicine
+has its limitations. Patients with sutures  to  remove,  cast  to
+change or need comprehensive clinical examination will still have
+to pay an in person visit to  the  health  care  facility.  Also,
+there are obstacles for wide implementation of such services such
+as infrastructure cost, provider and patient education, data pro‐
+tection, ethical consideration, legalization, and payment regula‐
+tion [64].  In order to facilitate the use of  telemedicine,  the
+Ofce  for Civil Rights at the U.S. Department of Health and Human
+Zoom, and FaceTime without imposing penalties for  noncompliance.
+In  all cases, documentation within the patient medical record is
+mandatory [76].  Training during the pandemic The COVID‐19 crisis
+called for alternative methods to resume resident and fellow edu‐
+cation [7779], an example is M.K.  Abdelnasser  et  al.:  SICOT‐J
+2020,  6,  24  the  ipped  virtual classroom method, in which the
+learners are meeting focused on active  learning  and  case‐based
+discussions.   webinars, and telehealth clinics with resident in‐
+volvement.  Many applications such as  Webex,  Google  Classroom,
+conferences. The main drawback to this approach is that it cannot
+involve actual clinical or surgical skills teaching.  Others  in‐
+clude difculties some senior staff may have with utilizing modern
+technology, slow internet speed in some regions,  and  difculties
+with viewing some pictures especially radiology [80]. To overcome
+these obstacles high‐denition 3D operative  videos  and  surgical
+simulations are being employed. Various simulation modalities are
+available including surgical skills laboratories, cadaveric  dis‐
+sections  and procedural training, and computer‐based virtual re‐
+ality training [8184].  The 2020 Annual Meeting of American Acad‐
+emy  of  Orthopedic  Surgeons  (AAOS) is now being made available
+through the AAOS website. This includes instructional course lec‐
+tures,  and  ask  expert sessions, in addition to the traditional
+research paper and poster presentations. The American Association
+of  Hip  and Knee Surgeons (AAHKS) has developed the for resident
+and fellow training through recording attendance  Making  use  of
+the crisis and planning for the post‐pandemic era Global coopera‐
+tion and exchange of experiences are still to  be  improved.  The
+pandemic is still in various stages in different countries. Coun‐
+tries with increasing numbers of cases and mortalities are learn‐
+ing  from  those recovering from the crisis.  The future requires
+better planning and re‐allocation of resources to be prepared for
+such  events.   To  make  use  of  the  available technologies in
+telemedicine is of utmost importance. Remote triaging and  exami‐
+nation techniques, feedback through mobile applications, and vir‐
+tual interdisciplinary meetings should be encouraged. Urgent leg‐
+islative  reforms  to  adapt  to these changes are mandatory.  E‐
+learning, virtual conferences, webinars, and simulation  training
+initiatives must be supported by the international scientic soci‐
+eties. Curricula should be revised to adapt to these needs.  Non‐
+technical skills should constitute integral part of learning pro‐
+grams.  Plans should be prepared to manage the  accumulated  long
+waiting lists of elective surgeries [8589]. Prioritization should
+be rational without inferring excessive burden on the  recovering
+health  system  after  the  crisis.  including orthopedic surgery
+will differ after the pandemic is  over.  Implementation  of  new
+technologies, restructuring our health systems with incorporation
+of telemedicine as well as reorganizing of our traditional train‐
+ing programs will be crucial for a more effective and optimal de‐
+livery of care.  Conflict of Interest There is no funding source.
 1. Holshue ML, DeBolt C, Lindquist S, et al. (2020) First case of
-2019 novel coronavirus in the United States. N Engl J Med 382,
-2. Li Q, Guan X, Wu P, et al. (2020) Early transmission dynamics
-in Wuhan, China, of novel coronavirus-infected pneumonia.
-N Engl J Med 382, 1199–1207.
-3. Sun P, Lu X, Xu C, et al. (2020) Understanding of COVID-19
-based on current evidence. J Med Virol 92, 548–551.
-4. Houdek MT, Wagner ER, Wyles CC, et al. (2015) New options
-for vascularized bone reconstruction in the upper extremity.
-Semin Plast Surg 29, 20–29.
-5. Brindle M, Gawande A (2020) Managing COVID-19 in surgical
-systems. Ann Surg 272, e1–e2.
-6. Moher D, Liberati A, Tetzlaff J, et al. (2009) Preferred reporting
-statement. PLoS Med 6, e1000097.
-7. Correia M, Ramos RF, Bahten LCV (2020) The surgeons and
-8. Vaccaro AR, Getz CL, Cohen BE, et al. (2020) Practice
-management during the COVID-19 pandemic. J Am Acad
-Orthop Surg 28, 464–470.
-9. Buerhaus PI, Auerbach DI, Staiger DO (2020) Older clinicians
-and the surge in novel coronavirus disease 2019 (COVID-19).
-10. Dunham AM, Rieder TN, Humbyrd CJ (2020) A bioethical
-perspective for navigating moral dilemmas amidst the COVID-19
-pandemic. J Am Acad Orthop Surg 28, 471–476.
-12. McBride KE, Brown KGM, Fisher OM, et al. (2020) Impact of
-the COVID-19 pandemic on surgical services: Early experiences
-at a nominated COVID-19 centre. ANZ J Surg 90, 663–665.
-13. Ranney ML, Griffeth V, Jha AK (2020) Critical supply shortages –
+2019 novel coronavirus in the United States. N Engl J Med 382, 2.
+Li  Q, Guan X, Wu P, et al. (2020) Early transmission dynamics in
+Wuhan, China, of novel coronavirus‐infected pneumonia.  N Engl  J
+Med  382,  11991207.   3. Sun P, Lu X, Xu C, et al. (2020) Under‐
+standing of COVID‐19 based on current evidence. J Med  Virol  92,
+548551.  4. Houdek MT, Wagner ER, Wyles CC, et al. (2015) New op‐
+tions for vascularized bone reconstruction in the upper  extremi‐
+ty.   Semin  Plast Surg 29, 2029.  5. Brindle M, Gawande A (2020)
+Managing COVID‐19 in surgical systems. Ann Surg  272,  e1e2.   6.
+Moher  D, Liberati A, Tetzlaff J, et al. (2009) Preferred report‐
+ing statement. PLoS Med 6, e1000097.  7.  Correia  M,  Ramos  RF,
+Bahten  LCV (2020) The surgeons and 8. Vaccaro AR, Getz CL, Cohen
+BE, et al. (2020) Practice management during the COVID‐19 pandem‐
+ic.  J  Am Acad Orthop Surg 28, 464470.  9. Buerhaus PI, Auerbach
+DI, Staiger DO (2020) Older clinicians and  the  surge  in  novel
+coronavirus  disease  2019 (COVID‐19).  10. Dunham AM, Rieder TN,
+Humbyrd CJ (2020) A bioethical perspective for  navigating  moral
+dilemmas  amidst the COVID‐19 pandemic. J Am Acad Orthop Surg 28,
+471476.  12. McBride KE, Brown KGM, Fisher OM, et al. (2020)  Im‐
+pact of the COVID‐19 pandemic on surgical services: Early experi‐
+ences at a nominated COVID‐19 centre. ANZ J Surg 90, 663665.  13.
+Ranney  ML,  Griffeth  V, Jha AK (2020) Critical supply shortages
 the need for ventilators and personal protective equipment during
-the COVID-19 pandemic. N Engl J Med 382, e41.
-14. Truog RD, Mitchell C, Daley GQ (2020) The toughest triage –
-allocating ventilators in a pandemic. N Engl J Med 382, 1973–1975
-15. Prevention CfDCa (2020) Strategies for optimizing the supply of
-hcp/respirators-strategy/index.html. Accessed 04/20/2020 2020.
-16. Vaishya R, Vaish A (2020) Roles and responsibilities of the
-orthopaedic community and the society during COVID-19
-pandemic. Indian J Orthop 54, 398–399.
-17. Boškoski I, Gallo C, Wallace MB, et al. (2020) COVID-19
-pandemic and personal protective equipment shortage: Protective efﬁcacy comparing masks and scientiﬁc methods for
-respirator reuse. Gastrointest Endosc S0016-5107(20)34247-4.
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-18. Lancaster EM, Sosa JA, Sammann A, et al. (2020) Rapid
-response of an academic surgical department to the COVID-19
-pandemic: Implications for patients, surgeons, and the community. J Am Coll Surg 230, 1064–1073.
-19. Enriquez P (2016) Crispr-mediated epigenome editing. Yale
-J Biol Med 89, 471–486.
-21. Ashford RU, Nichols JS, Mangwani J (2020) Annotation: The
-COVID-19 pandemic and clinical orthopaedic and trauma
-surgery. J Clin Orthop Trauma 11, 504–505.
-22. Ducournau F, Arianni M, Awwad S, et al. (2020) Covid- 19:
-Initial experience of an International Group of Hand Surgeons.
-Hand Surg Rehabil 39, 159–166.
-COVID-19 and spinal surgery. J Neurosurg Spine, 1–3.
-24. Peloso A, Moeckli B, Oldani G, et al. (2020) Response of a
-European surgical department to the COVID-19 crisis. Swiss
-Med Wkly 150, w20241.
-25. Thaler M, Khosravi I, Hirschmann MT, et al. (2020) Disruption
-of joint arthroplasty services in Europe during the COVID-19
-(EHS) and the European Knee Associates (EKA). Knee Surg
-Sports Traumatol Arthrosc, 1–8.
-26. D’Apolito R, Faraldi M, Ottaiano I, et al. (2020) Disruption of
-arthroplasty practice in an orthopedic center in northern Italy
-during the coronavirus disease 2019 pandemic. J Arthroplasty
-27. Meneghini RM (2020) Resource reallocation during the
-COVID-19 pandemic in a suburban hospital system: Implications for outpatient hip and knee arthroplasty. J Arthroplasty 35,
-28. Ahmed S, Leong Glenn TW, Chong YL (2020) Surgical
-response to COVID-19 pandemic: A Singapore perspective.
-J Am Coll Surg 230, 1074–1077.
-29. Haleem A, Javaid M, Vaishya R, et al. (2020) Effects of
-COVID-19 pandemic in the ﬁeld of orthopaedics. J Clinic
-Orthop Trauma 11, 498-499.
-30. Ross SW, Lauer CW, Miles WS, et al. (2020) Maximizing the
-calm before the storm: Tiered surgical response plan for novel
-coronavirus (COVID-19). J Am Coll Surg 230, 1080–1091.e3.
-31. Sarpong NO, Forrester LA, Levine WN (2020) What’s important: Redeployment of the orthopaedic surgeon during the
-COVID-19 pandemic: Perspectives from the trenches. J Bone
-Joint Surg Am 102, 1019–102.
-32. Xu J, Xu QH, Wang CM, et al. (2020) Psychological status of
-surgical staff during the COVID-19 outbreak. Psychiatry Res
-33. Khazaei M, Asgari R, Zarei E, et al. (2020) Incidentally
-diagnosed COVID-19 infection in trauma patients; a clinical
-experience. Arch Acad Emerg Med 8, e31.
-34. Mi B, Chen L, Xiong Y, et al. (2020) Characteristics and early
-prognosis of COVID-19 infection in fracture patients. J Bone
-Joint Surg Am 102, 750–758.
-35. Catellani F., Coscione A., D’Ambrosi R., et al. (2020)
-Treatment of proximal femoral fragility fractures in patients
-with COVID-19 during the SARS-CoV-2 outbreak in northern
-36. Chen YC, Lin WC (2017) Risk of long-term infection-related
-death in clinical osteoporotic vertebral fractures: A hospitalbased analysis. PLoS One 12, e0182614.
-37. Stahel PF (2020) How to risk-stratify elective surgery during the
-COVID-19 pandemic? Patient Saf Surg 14, 8.
-of state guidelines for elective orthopaedic procedures during
-the COVID-19 outbreak. J Bone Joint Surg Am 102, 942–945.
-39. Lee J, Choi JY, Kim MS (2020) Elective surgeries during the
-40. Besnier E, Tuech JJ, Schwarz L (2020) We asked the experts:
-COVID-19 outbreak: Is there still a place for scheduled surgery?
-“Reﬂection from pathophysiological data”. World J Surg.
-41. Lei S, Jiang F, Su W, et al. (2020) Clinical characteristics
-and outcomes of patients undergoing surgeries during the
-incubation period of COVID-19 infection. EClinicalMedicine,
-42. Farrell S, Schaeffer EK, Mulpuri K (2020) Recommendations
-for the care of pediatric orthopedic patients during the COVID
-pandemic. J Am Acad Orthop Surg 28, e477–e486.
-43. DePhillipo NN, Larson CM, O’Neill OR, et al. (2020)
-Guidelines for ambulatory surgery centers for the care of
-surgically necessary/time-sensitive orthopaedic cases during the
-COVID-19 pandemic. J Bone Joint Surg Am.
-44. Massey PA, McClary K, Zhang AS, et al. (2020) Orthopaedic
-surgical selection and inpatient paradigms during the coronavirus COVID-19 pandemic. J Am Acad Orthop Surg.
-45. Awad ME, Rumley JCL, Vazquez JA, et al. (2020) Perioperative considerations in urgent surgical care of suspected and
-conﬁrmed COVID-19 orthopedic patients: Operating rooms
-protocols and recommendations in the current COVID-19
-pandemic. J Am Acad Orthop Surg.
-46. Balibrea JM, Badia JM, Rubio Perez I, et al. (2020). Surgical
-management of patients with COVID-19 infection. Recommendations of the Spanish Association of Surgeons. Cir Esp.
-47. De Vitis R, Passiatore M, Perna A, et al. (2020) COVID-19
-contagion and contamination through hands of trauma patients:
-What risks and what precautions? J Hosp Infect.
+the  COVID‐19  pandemic.  N  Engl  J Med 382, e41.  14. Truog RD,
+Mitchell C, Daley GQ (2020) The toughest triage allocating venti‐
+lators  in  a pandemic. N Engl J Med 382, 19731975 15. Prevention
+CfDCa (2020) Strategies for optimizing the supply of hcp/respira‐
+tors‐strategy/index.html.  Accessed 04/20/2020 2020.  16. Vaishya
+R, Vaish A (2020) Roles and responsibilities of  the  orthopaedic
+community  and the society during COVID‐19 pandemic. Indian J Or‐
+thop 54, 398399.  17. Bokoski I, Gallo  C,  Wallace  MB,  et  al.
+(2020) COVID‐19 pandemic and personal protective equipment short‐
+age: Protective efcacy comparing masks and scientic  methods  for
+respirator   reuse.  Gastrointest  Endosc  S0016‐5107(20)34247‐4.
+M.K. Abdelnasser et al.: SICOT‐J 2020, 6, 24  18.  Lancaster  EM,
+Sosa  JA,  Sammann A, et al. (2020) Rapid response of an academic
+surgical department to the COVID‐19  pandemic:  Implications  for
+patients,  surgeons,  and  the  community.  J  Am  Coll Surg 230,
+10641073.  19. Enriquez P (2016) Crispr‐mediated epigenome  edit‐
+ing.  Yale  J  Biol  Med 89, 471486.  21. Ashford RU, Nichols JS,
+Mangwani J (2020) Annotation: The COVID‐19 pandemic and  clinical
+orthopaedic  and trauma surgery. J Clin Orthop Trauma 11, 504505.
+22. Ducournau F, Arianni M, Awwad S, et  al.  (2020)  Covid‐  19:
+Initial  experience  of  an International Group of Hand Surgeons.
+Hand Surg Rehabil 39, 159166.  COVID‐19  and  spinal  surgery.  J
+Neurosurg  Spine,  13.  24. Peloso A, Moeckli B, Oldani G, et al.
+(2020) Response of a European surgical department to the COVID‐19
+crisis.  Swiss  Med  Wkly 150, w20241.  25. Thaler M, Khosravi I,
+Hirschmann MT, et al. (2020)  Disruption  of  joint  arthroplasty
+services  in  Europe  during  the COVID‐19 (EHS) and the European
+Knee Associates (EKA). Knee Surg Sports Traumatol  Arthrosc,  18.
+26.  DApolito  R, Faraldi M, Ottaiano I, et al. (2020) Disruption
+of arthroplasty practice in  an  orthopedic  center  in  northern
+Italy during the coronavirus disease 2019 pandemic. J Arthroplas‐
+ty 27. Meneghini  RM  (2020)  Resource  reallocation  during  the
+COVID‐19 pandemic in a suburban hospital system: Implications for
+outpatient hip and knee  arthroplasty.  J  Arthroplasty  35,  28.
+Ahmed  S,  Leong  Glenn  TW, Chong YL (2020) Surgical response to
+COVID‐19 pandemic: A Singapore perspective.  J Am Coll Surg  230,
+10741077.   29.  Haleem A, Javaid M, Vaishya R, et al. (2020) Ef‐
+fects of COVID‐19 pandemic in the eld of orthopaedics.  J  Clinic
+Orthop  Trauma  11, 498‐499.  30. Ross SW, Lauer CW, Miles WS, et
+al. (2020) Maximizing the calm before the storm: Tiered  surgical
+response  plan  for  novel coronavirus (COVID‐19). J Am Coll Surg
+230, 10801091.e3.  31. Sarpong NO, Forrester LA, Levine WN (2020)
+Whats  important:  Redeployment of the orthopaedic surgeon during
+the COVID‐19 pandemic: Perspectives from  the  trenches.  J  Bone
+Joint  Surg  Am  102,  1019102.  32. Xu J, Xu QH, Wang CM, et al.
+(2020) Psychological status of surgical staff during the COVID‐19
+outbreak. Psychiatry Res 33. Khazaei M, Asgari R, Zarei E, et al.
+(2020) Incidentally diagnosed COVID‐19 infection  in  trauma  pa‐
+tients;  a  clinical experience. Arch Acad Emerg Med 8, e31.  34.
+Mi B, Chen L, Xiong Y, et al. (2020)  Characteristics  and  early
+prognosis  of  COVID‐19  infection  in  fracture patients. J Bone
+Joint Surg Am  102,  750758.   35.  Catellani  F.,  Coscione  A.,
+DAmbrosi R., et al. (2020) Treatment of proximal femoral fragili‐
+ty fractures in patients with COVID‐19 during the SARS‐CoV‐2 out‐
+break  in  northern  36. Chen YC, Lin WC (2017) Risk of long‐term
+infection‐related death in clinical osteoporotic vertebral  frac‐
+tures: A hospitalbased analysis. PLoS One 12, e0182614.  37. Sta‐
+hel PF (2020) How to risk‐stratify elective  surgery  during  the
+COVID‐19  pandemic?  Patient Saf Surg 14, 8.  of state guidelines
+for elective orthopaedic procedures during the COVID‐19 outbreak.
+J  Bone  Joint  Surg  Am 102, 942945.  39. Lee J, Choi JY, Kim MS
+(2020) Elective surgeries during the 40.  Besnier  E,  Tuech  JJ,
+Schwarz  L  (2020)  We  asked  the experts: COVID‐19 outbreak: Is
+there still a place for scheduled surgery?  Reection from  patho‐
+physiological  data.  World J Surg.  41. Lei S, Jiang F, Su W, et
+al. (2020) Clinical characteristics and outcomes of patients  un‐
+dergoing  surgeries  during the incubation period of COVID‐19 in‐
+fection. EClinicalMedicine, 42. Farrell S, Schaeffer EK,  Mulpuri
+K (2020) Recommendations for the care of pediatric orthopedic pa‐
+tients during the COVID pandemic.  J  Am  Acad  Orthop  Surg  28,
+e477e486.  43. DePhillipo NN, Larson CM, ONeill OR, et al. (2020)
+Guidelines for ambulatory surgery centers for the care of  surgi‐
+cally   necessary/time‐sensitive  orthopaedic  cases  during  the
+COVID‐19 pandemic. J Bone Joint Surg Am.  44. Massey PA,  McClary
+K, Zhang AS, et al. (2020) Orthopaedic surgical selection and in‐
+patient paradigms during the coronavirus COVID‐19 pandemic. J  Am
+Acad  Orthop  Surg.   45. Awad ME, Rumley JCL, Vazquez JA, et al.
+(2020) Perioperative considerations in urgent  surgical  care  of
+suspected  and  conrmed  COVID‐19  orthopedic patients: Operating
+rooms protocols and recommendations in the current COVID‐19  pan‐
+demic.  J  Am Acad Orthop Surg.  46. Balibrea JM, Badia JM, Rubio
+Perez I, et al. (2020).  Surgical  management  of  patients  with
+COVID‐19 infection. Recommendations of the Spanish Association of
+Surgeons. Cir Esp.  47. De Vitis R, Passiatore M, Perna A, et al.
+(2020)  COVID‐19  contagion  and  contamination  through hands of
+trauma patients: What risks and what precautions? J Hosp  Infect.
 48. Donnally CJ 3rd, Shenoy K, Vaccaro AR, et al. (2020) Triaging
-spine surgery in the COVID-19 era. Clin Spine Surg.
-49. Viswanath A, Monga P (2020) Working through the COVID-19
-allied heath personnel. J Clin Orthop Trauma.
-50. Yeo D, Yeo C, Kaushal S, et al. (2020) COVID-19 & the
-general surgical department – measures to reduce spread of
-SARS-Cov-2 among surgeons. Ann Surg.
-51. Stinner DJ, Lebrun C, Hsu JR, et al. (2020) The orthopaedic
-trauma service and COVID-19 – practice considerations to
-optimize outcomes and limit exposure. J Orthop Trauma.
-52. Forrester JD, Nassar AK, Maggio PM, et al. (2020) Precautions
-for operating room team members during the COVID-19
-pandemic. J Am Coll Surg.
-53. Kmietowicz Z (2020) Rules on isolation rooms for suspected
-COVID-19 cases in GP surgeries to be relaxed. BMJ (Clinical
-research ed.) 368, m707.
-54. Vannabouathong C, Devji T, Ekhtiari S, et al. (2020) Novel
-coronavirus COVID-19: Current evidence and evolving strategies. J Bone Joint Surg Am.
-55. Aminian A, Safari S, Razeghian-Jahromi A, et al. (2020)
-COVID-19 outbreak and surgical practice: Unexpected fatality
-in perioperative period. Ann Surg.
-56. Rodrigues-Pinto R, Sousa R, Oliveira A (2020) Preparing to
-perform trauma and orthopaedic surgery on patients with
-COVID-19. J Bone Joint Surg Am.
-M.K. Abdelnasser et al.: SICOT-J 2020, 6, 24
-57. Abdelrahman T, Ansell J, Brown C, et al. (2020) Systematic
-COVID-19 pandemic. BJS Open.
-58. Chow TT, Yang XY (2004) Ventilation performance in
-activities and practical guidance. J Hosp Infect 56, 85–92.
-59. Ti LK, Ang LS, Foong TW, et al. (2020) What we do when a
-COVID-19 patient needs an operation: Operating room preparation and guidance. Can J Anaesth.
-60. Wax RS, Christian MD (2020) Practical recommendations for
-critical care and anesthesiology teams caring for novel coronavirus (2019-nCoV) patients. Can J Anaesth 67, 568–576.
-61. Chandy PE, Nasir MU, Srinivasan S, et al. (2020) Interventional
-radiology and COVID-19: Evidence-based measures to limit
-transmission. Diagn Interv Radiol.
-62. Chen X, Liu Y, Gong Y, et al. (2020) Perioperative management of patients infected with the novel coronavirus: Recommendation from the joint task force of the Chinese Society of
-Anesthesiology and the Chinese Association of Anesthesiologists. Anesthesiology.
-63. Dexter F, Parra MC, Brown JR, et al. (2020) Perioperative
-COVID-19 defense: An evidence-based approach for optimization of infection control and operating room management.
-Anesth Analg.
-64. Chang Liang Z, Wang W, Murphy D, et al. (2020) Novel
-coronavirus and orthopaedic surgery: Early experiences from
-Singapore. J Bone Joint Surg Am.
-65. Chee VW, Khoo ML, Lee SF, et al. (2004) Infection control
-measures for operative procedures in severe acute respiratory
-syndrome-related patients. Anesthesiology 100, 1394–1398.
-66. Chadi SA, Guidolin K, Caycedo-Marulanda A, et al. (2020)
-Current evidence for minimally invasive surgery during the
-COVID-19 pandemic and risk mitigation strategies: A narrative
-67. Zheng MH, Boni L, Fingerhut A (2020) Minimally invasive
-surgery and the novel coronavirus outbreak: Lessons learned in
-China and Italy. Ann Surg.
-68. Yeh HC, Turner RS, Jones RK, et al. (1995) Characterization of
-aerosols produced during surgical procedures in hospitals. Aero
-Sci Technol 22, 151–161.
-69. BJS Society (2020) Global guidance for surgical care during the
-COVID-19 pandemic. Br J Surg.
-70. Seguin A, Galicier L, Boutboul D, et al. (2016) Pulmonary
-involvement in patients with hemophagocytic lymphohistiocytosis. Chest 149, 1294–1301.
-71. Mehta P, McAuley DF, Brown M, et al. (2020) COVID-19:
-Consider cytokine storm syndromes and immunosuppression.
-72. Parisien R.L., Shin M., Constant M., et al. (2020) Telehealth
-utilization in response to the novel coronavirus (COVID-19)
-pandemic in orthopaedic surgery. J Am Acad Orthop Surg.
-73. Tanaka MJ, Oh LS, Martin SD, et al. (2020) Telemedicine in the
-era of COVID-19: The virtual orthopaedic examination. J Bone
-Joint Surg Am.
-74. Pratap Singh R, Javaid M, Haleem A, et al. (2020) Internet of
-medical things (iomt) for orthopaedic in COVID-19 pandemic:
-Roles, challenges, and applications. J Clin Orthop Trauma.
-75. Bini SA, Schilling PL, Patel SP, et al. (2020) Digital
-orthopaedics: A glimpse into the future in the midst of a
-pandemic. J Arthroplasty.
-76. Halawi MJ, Wang DD, Hunt TR 3rd (2020) What’s important:
-Weathering the COVID-19 crisis: Time for leadership, vigilance, and unity. J Bone Joint Surg Am.
-77. Dowdell JE, Louie PK, Virk S, et al. (2020) Spine fellowship
-training reorganizing during a pandemic: Perspectives from a
-tertiary orthopedic specialty center in the epicenter of outbreak.
-Spine J.
-78. Tait S, MacLean R, Gopinath B (2020) Covid 19 and training in
-the UK – correspondence. Int J Surg.
-79. Saleh H. (2020) Orthopedic surgery training during the COVID-19
-pandemic: Dusting off my stethoscope. Spine (Phila Pa 1976).
-80. Chick RC, Clifton GT, Peace KM, et al. (2020) Using
-technology to maintain the education of residents during the
-COVID-19 pandemic. J Surg Educ.
-81. Kogan M, Klein SE, Hannon CP, et al. (2020) Orthopaedic
-education during the COVID-19 pandemic. J Am Acad Orthop
-82. McKechnie T, Levin M, Zhou K, et al. (2020) Virtual surgical
-training during COVID-19: Operating room simulation platforms accessible from home. Ann Surg.
-83. Day RW, Taylor BM, Bednarski B, et al. (2020) Virtual
-interviews for surgical training program applicants during
-COVID-19: Lessons learned and recommendations. Ann Surg.
-84. Ehrlich H, McKenney M, Elkbuli A (2020) We asked the
-experts: Virtual learning in surgical education during the
-COVID-19 pandemic-shaping the future of surgical education
-and training. World J Surg 1–3.
-85. Oussedik S, Zagra L, Shin GY, et al. (2020) Reinstating elective
-orthopaedic surgery in the age of COVID-19. Bone Joint J 1–4.
-86. Parvizi J, Gehrke T, Krueger CA, et al. (2020) Resuming
-elective orthopaedic surgery during the COVID-19 pandemic:
-Guidelines developed by The International Consensus Group
-(ICM). J Bone Joint Surg Am.
-87. O’Connor CM, Anoushiravani AA, DiCaprio MR, et al. (2020)
-Economic recovery after the COVID-19 pandemic: Resuming elective orthopedic surgery and total joint arthroplasty. J Arthroplasty.
-88. Mouton C, Hirschmann MT, Ollivier M, et al. (2020) COVID-19
-– ESSKA guidelines and recommendations for resuming elective
-surgery. J Exp Orthop 7, 28.
-89. de Caro F, Hirschmann TM, Verdonk P (2020) Returning to
-orthopaedic business as usual after COVID-19: Strategies and
-options. Knee Surg Sports Traumatol Arthrosc 1–6.
-Hassan AAA & Abdelgawaad AS (2020) COVID-19. An update for orthopedic surgeons. SICOT-J 6, 24
+spine  surgery  in  the  COVID‐19  era.  Clin  Spine  Surg.   49.
+Viswanath  A,  Monga P (2020) Working through the COVID‐19 allied
+heath personnel. J Clin Orthop Trauma.  50. Yeo D, Yeo C, Kaushal
+S, et al. (2020) COVID‐19 & the general surgical department  mea‐
+sures to reduce spread of SARS‐Cov‐2 among  surgeons.  Ann  Surg.
+51.  Stinner  DJ, Lebrun C, Hsu JR, et al. (2020) The orthopaedic
+trauma service and COVID‐19  practice considerations to  optimize
+outcomes  and limit exposure. J Orthop Trauma.  52. Forrester JD,
+Nassar AK, Maggio PM, et al.  (2020)  Precautions  for  operating
+room  team  members during the COVID‐19 pandemic. J Am Coll Surg.
+53. Kmietowicz Z (2020) Rules on isolation  rooms  for  suspected
+COVID‐19  cases  in GP surgeries to be relaxed. BMJ (Clinical re‐
+search ed.) 368, m707.  54. Vannabouathong C, Devji  T,  Ekhtiari
+S, et al. (2020) Novel coronavirus COVID‐19: Current evidence and
+evolving strategies. J Bone Joint Surg Am.  55. Aminian A, Safari
+S,  Razeghian‐Jahromi A, et al. (2020) COVID‐19 outbreak and sur‐
+gical practice: Unexpected fatality in perioperative period.  Ann
+Surg.   56. Rodrigues‐Pinto R, Sousa R, Oliveira A (2020) Prepar‐
+ing to perform trauma and orthopaedic surgery  on  patients  with
+COVID‐19. J Bone Joint Surg Am.  M.K. Abdelnasser et al.: SICOT‐J
+2020, 6, 24 57. Abdelrahman T, Ansell J, Brown C, et  al.  (2020)
+Systematic  COVID‐19  pandemic.  BJS  Open.  58. Chow TT, Yang XY
+(2004) Ventilation performance in activities and practical  guid‐
+ance.  J  Hosp  Infect 56, 8592.  59. Ti LK, Ang LS, Foong TW, et
+al. (2020) What we do when a COVID‐19 patient needs an operation:
+Operating  room preparation and guidance. Can J Anaesth.  60. Wax
+RS, Christian MD (2020) Practical  recommendations  for  critical
+care  and  anesthesiology  teams  caring  for  novel  coronavirus
+(2019‐nCoV) patients. Can J Anaesth 67, 568576.  61.  Chandy  PE,
+Nasir  MU,  Srinivasan  S, et al. (2020) Interventional radiology
+and COVID‐19: Evidence‐based measures to limit transmission.  Di‐
+agn  Interv Radiol.  62. Chen X, Liu Y, Gong Y, et al. (2020) Pe‐
+rioperative management of patients infected with the novel coron‐
+avirus:  Recommendation  from the joint task force of the Chinese
+Society of Anesthesiology and the Chinese Association of Anesthe‐
+siologists. Anesthesiology.  63. Dexter F, Parra MC, Brown JR, et
+al. (2020) Perioperative COVID‐19 defense: An evidence‐based  ap‐
+proach  for  optimization of infection control and operating room
+management.  Anesth Analg.  64. Chang Liang Z, Wang W, Murphy  D,
+et  al.  (2020)  Novel coronavirus and orthopaedic surgery: Early
+experiences from Singapore. J Bone Joint Surg Am.  65.  Chee  VW,
+Khoo ML, Lee SF, et al. (2004) Infection control measures for op‐
+erative procedures in severe acute  respiratory  syndrome‐related
+patients.  Anesthesiology  100, 13941398.  66. Chadi SA, Guidolin
+K, Caycedo‐Marulanda A, et al. (2020) Current evidence for  mini‐
+mally invasive surgery during the COVID‐19 pandemic and risk mit‐
+igation strategies: A narrative 67. Zheng MH, Boni L, Fingerhut A
+(2020)  Minimally invasive surgery and the novel coronavirus out‐
+break: Lessons learned in China and Italy. Ann Surg.  68. Yeh HC,
+Turner  RS,  Jones RK, et al. (1995) Characterization of aerosols
+produced during surgical procedures in hospitals. Aero Sci  Tech‐
+nol  22, 151161.  69. BJS Society (2020) Global guidance for sur‐
+gical care during the COVID‐19 pandemic. Br J Surg.   70.  Seguin
+A, Galicier L, Boutboul D, et al. (2016) Pulmonary involvement in
+patients  with  hemophagocytic  lymphohistiocytosis.  Chest  149,
+12941301.   71.  Mehta  P,  McAuley  DF,  Brown  M, et al. (2020)
+COVID‐19: Consider cytokine storm  syndromes  and  immunosuppres‐
+sion.   72.  Parisien  R.L.,  Shin M., Constant M., et al. (2020)
+Telehealth utilization  in  response  to  the  novel  coronavirus
+(COVID‐19)  pandemic  in  orthopaedic  surgery.  J Am Acad Orthop
+Surg.   73.  Tanaka  MJ,  Oh  LS,  Martin  SD,  et   al.   (2020)
+Telemedicine  in the era of COVID‐19: The virtual orthopaedic ex‐
+amination. J Bone Joint Surg Am.  74. Pratap Singh R,  Javaid  M,
+Haleem A, et al. (2020) Internet of medical things (iomt) for or‐
+thopaedic in COVID‐19 pandemic: Roles, challenges,  and  applica‐
+tions.  J  Clin  Orthop Trauma.  75. Bini SA, Schilling PL, Patel
+SP, et al. (2020) Digital orthopaedics: A glimpse into the future
+in  the midst of a pandemic. J Arthroplasty.  76. Halawi MJ, Wang
+DD, Hunt TR 3rd (2020) Whats important: Weathering  the  COVID‐19
+crisis:  Time  for leadership, vigilance, and unity. J Bone Joint
+Surg Am.  77. Dowdell JE, Louie PK, Virk S, et al.  (2020)  Spine
+fellowship  training reorganizing during a pandemic: Perspectives
+from a tertiary orthopedic specialty center in the  epicenter  of
+outbreak.   Spine  J.   78.  Tait S, MacLean R, Gopinath B (2020)
+Covid 19 and training in the UK  correspondence. Int J Surg.  79.
+Saleh  H.  (2020) Orthopedic surgery training during the COVID‐19
+pandemic: Dusting off my stethoscope. Spine (Phila Pa 1976).  80.
+Chick RC, Clifton GT, Peace KM, et al. (2020) Using technology to
+maintain the education of residents during the COVID‐19 pandemic.
+J Surg Educ.  81. Kogan M, Klein SE, Hannon CP, et al. (2020) Or‐
+thopaedic education during the COVID‐19 pandemic. J Am  Acad  Or‐
+thop 82. McKechnie T, Levin M, Zhou K, et al. (2020) Virtual sur‐
+gical training during COVID‐19: Operating room  simulation  plat‐
+forms  accessible  from  home.  Ann Surg.  83. Day RW, Taylor BM,
+Bednarski B, et al. (2020) Virtual interviews for surgical train‐
+ing  program applicants during COVID‐19: Lessons learned and rec‐
+ommendations. Ann Surg.  84. Ehrlich H,  McKenney  M,  Elkbuli  A
+(2020)  We asked the experts: Virtual learning in surgical educa‐
+tion during the COVID‐19 pandemic‐shaping the future of  surgical
+education  and  training. World J Surg 13.  85. Oussedik S, Zagra
+L, Shin  GY,  et  al.  (2020)  Reinstating  elective  orthopaedic
+surgery  in the age of COVID‐19. Bone Joint J 14.  86. Parvizi J,
+Gehrke T, Krueger CA, et al. (2020) Resuming elective orthopaedic
+surgery during the COVID‐19 pandemic: Guidelines developed by The
+International Consensus Group (ICM). J Bone Joint Surg  Am.   87.
+OConnor CM, Anoushiravani AA, DiCaprio MR, et al. (2020) Economic
+recovery after the COVID‐19 pandemic: Resuming elective  orthope‐
+dic  surgery  and  total joint arthroplasty. J Arthroplasty.  88.
+Mouton C, Hirschmann MT, Ollivier M, et al. (2020) COVID‐19
+ ESSKA  guidelines  and  recommendations  for  resuming  elective
+surgery.  J Exp Orthop 7, 28.  89. de Caro F, Hirschmann TM, Ver‐
+donk P (2020) Returning to orthopaedic business  as  usual  after
+COVID‐19:  Strategies  and  options.  Knee  Surg Sports Traumatol
+Arthrosc 16.  Hassan AAA & Abdelgawaad AS (2020) COVID‐19. An up‐
+date for orthopedic surgeons. SICOT‐J 6, 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

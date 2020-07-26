@@ -1,813 +1,924 @@
-Xiao et al. Genome Medicine
-Open Access
-Multiple approaches for massively parallel
-sequencing of SARS-CoV-2 genomes
-directly from clinical samples
-Minfeng Xiao1,2†, Xiaoqing Liu3†, Jingkai Ji1,2,4†, Min Li1,2,5†, Jiandong Li1,2,5†, Lin Yang6†, Wanying Sun1,2,5,
-Peidi Ren1,2, Guifang Yang6, Jincun Zhao3,7, Tianzhu Liang1,2, Huahui Ren1, Tian Chen6, Huanzi Zhong1,
-Wenchen Song1,2, Yanqun Wang3, Ziqing Deng1,2, Yanping Zhao1,2, Zhihua Ou1,2, Daxi Wang1,2, Jielun Cai1,
-Xinyi Cheng1,2,8, Taiqing Feng6, Honglong Wu9, Yanping Gong9, Huanming Yang1,10, Jian Wang1,10, Xun Xu1,11,
-Shida Zhu1,12, Fang Chen1,6, Yanyan Zhang6*†, Weijun Chen5,9*†, Yimin Li3*† and Junhua Li1,2,8*†
-Background: COVID-19 (coronavirus disease 2019) has caused a major epidemic worldwide; however, much is yet
-to be known about the epidemiology and evolution of the virus partly due to the scarcity of full-length SARS-CoV-2
-(severe acute respiratory syndrome coronavirus 2) genomes reported. One reason is that the challenges underneath
-sequencing SARS-CoV-2 directly from clinical samples have not been completely tackled, i.e., sequencing samples
-with low viral load often results in insufficient viral reads for analyses.
-Methods: We applied a novel multiplex PCR amplicon (amplicon)-based and hybrid capture (capture)-based
-sequencing, as well as ultra-high-throughput metatranscriptomic (meta) sequencing in retrieving complete
-genomes, inter-individual and intra-individual variations of SARS-CoV-2 from serials dilutions of a cultured isolate,
-and eight clinical samples covering a range of sample types and viral loads. We also examined and compared the
-sensitivity, accuracy, and other characteristics of these approaches in a comprehensive manner.
-Minfeng Xiao, Xiaoqing Liu, Jingkai Ji, Min Li, Jiandong Li, and Lin Yang are
-Yanyan Zhang, Weijun Chen, Yimin Li, and Junhua Li are the joint senior
-MGI, BGI-Shenzhen, Shenzhen 518083, China
-State Key Laboratory of Respiratory Disease, National Clinical Research
-BGI-Shenzhen, Shenzhen 518083, China
-which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
-licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
-Xiao et al. Genome Medicine
-Results: We demonstrated that both amplicon and capture methods efficiently enriched SARS-CoV-2 content from
-clinical samples, while the enrichment efficiency of amplicon outran that of capture in more challenging samples.
-We found that capture was not as accurate as meta and amplicon in identifying between-sample variations,
-whereas amplicon method was not as accurate as the other two in investigating within-sample variations,
-heavily rely on intra-host dynamics. We illustrated that meta uncovered rich genetic information in the clinical
-samples besides SARS-CoV-2, providing references for clinical diagnostics and therapeutics. Taken all factors above
-and cost-effectiveness into consideration, we proposed guidance for how to choose sequencing strategy for SARSCoV-2 under different situations.
-Conclusions: This is, to the best of our knowledge, the first work systematically investigating inter- and intraindividual variations of SARS-CoV-2 using amplicon- and capture-based whole-genome sequencing, as well as the
-first comparative study among multiple approaches. Our work offers practical solutions for genome sequencing and
-analyses of SARS-CoV-2 and other emerging viruses.
-Keywords: Emerging infectious diseases, COVID-19, Metatranscriptomic sequencing, Hybrid capture, Multiplex PCR,
-iSNV, Quasispecies, Genomic surveillance, Virus evolution
-As of 14 March 2020, severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2) has surpassed severe acute
-respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV)
-in every aspect, infecting over 140,000 people in more
-than 110 countries, with a mortality of over 5000 [1]. So
-far, coronaviruses have caused three major epidemics in
-the past two decades, posing a great challenge to global
-health and economy. Massively parallel sequencing
-(MPS) of viral genomes has demonstrated enormous
-capacity as a powerful tool to study emerging infectious
-diseases, such as SARS, MERS, Zika, and Ebola, in tracing the outbreak origin and drivers, tracking transmission chains, mapping the spread, and monitoring the
-evolution of the etiological agents [2–7]. Though by 14
-March 2020, fewer than 500 SARS-CoV-2 genomes were
-GeneBank DataBase (CNGBdb), NCBI GenBank, and
-the Global Initiative on Sharing All Influenza Data
-(GISAID), and much remains unknown about the
-epidemiology and evolution of the virus. One possible
-samples with low virus abundance.
-The first teams obtained the SARS-CoV-2 genome
-sequences through metatranscriptomic MPS, supplemented by PCR and Sanger sequencing of a combination
-of bronchoalveolar-lavage fluid (BALF) and culture [8–
-10] or from BALF directly [11]. Experience from studying SARS-CoV showed that BALF from the lower respiratory tract was an ideal sample type with higher viral
-load [12]. However, BALF was not routinely collected
-from every patient, and human airway epithelial (HAE)
-cell culture is very labor-intensive and time-consuming,
-taking 4 to 6 weeks [9, 13]. Chan et al. managed to get
-the whole-genome sequences through metatranscriptomic sequencing with Oxford Nanopore platform supplemented by Sanger sequencing from both
-whole-genome sequence using oropharyngeal and nasopharyngeal specimens through Sanger and metatranscriptomic sequencing with both Illumina and MinIon
-[15]. To date, multiplex PCR-based or hybrid capturebased whole-genome sequencing of SARS-CoV-2, as well
-as comparative studies between different approaches,
-Besides inter-individual variations, dissecting intraindividual dynamics of viruses also largely promotes our
-understanding of virus-host interactions, viral evolution,
-and transmission as demonstrated for Ebola, Zika, Influenza, etc. [5, 16–18]. The analyses of intra-individual
-single nucleotide variations (iSNVs) and its allele frequency have also contributed to anti-viral therapy and
-drug resistance, e.g., to reveal highly conserved genes
-during the outbreak that potentially serve as ideal therapeutic targets [17, 19]. However, it is challenging to accurately detect iSNVs from clinical samples, especially
-when the samples are subjected to extra steps of enrichment and amplification.
-Therefore, we aim to comprehensively compare the
-sensitivity, inter-individual (variant) and intra-individual
-(iSNV) accuracy, and other general features of different
-approaches by systematically utilizing ultra-highthroughput metatranscriptomic, hybrid capture-based,
-and amplicon-based sequencing approaches to obtain
-genomic information of SARS-CoV-2 from serial
-Xiao et al. Genome Medicine
-dilutions of a cultured isolate and directly from clinical
-samples. We present a reasonable sequencing strategy
-that fits into different scenarios and estimate the
-minimal amount of sequencing data for downstream
-SARS-CoV-2 genome analyses. Our study offers practical solutions to facilitate the studies of SARS-CoV-2
-and other emerging viruses in the future and would
-promote extensive genomic sequencing and analyses of
-SARS-CoV-2 and other emerging viruses, which would
-in turn contribute to real-time virus surveillance and
-managing viral outbreaks. Benefiting from our experimental workflows and bioinformatic pipelines, BGI
-Group has launched a Global Initiative on Open-source
-sequencing and ultra-deep metatranscriptomic sequencing available to global research teams within GIOG-S.
-Sampling, RNA extraction, reverse transcription, and qRTPCR
-adaptor ligation, and 18-cycle PCR amplification; and (4)
-PCR products were unique dual indexed (UDI), before going through circularization and rolling circle replication
-(RCR) to generate DNA nanoball (DNB)-based libraries.
-Negative controls prepared from nuclease-free water and
-total RNA isolated from human Michigan Cancer
-Foundation-7 (MCF-7) breast cancer cells were included.
-DNB preps of clinical samples were sequenced on the
-ultra-high-throughput DNBSEQ-T7 platform (MGI,
-Shenzhen, China) with paired-end 100 nt strategy, generating 321 Gb sequencing data for each sample on average.
-global/) has regional headquarters in Europe (Copenhagen,
-Denmark), Asia Pacific (Hong Kong, China), and Americas
-cn/) operates in 39 countries and regions with branches including Hong Kong in China, Kobe in Japan, Dubai in UAE,
-Riga in Latvia, and San Jose in the USA. The global training
-and service network is located in major countries and regions on 6 continents, with 40 training/after-sales service
-centers. To acquire reagents, instruments, and technical
-Clinical specimens (including throat swab, nasal swab,
-anal swab, and sputum) were obtained from confirmed
-COVID-19 cases at the First Affiliated Hospital of
-Academy of Military Medical Science (AMMS) and subjected to 10-fold serial dilutions. Virus isolation and
-RNA extraction were done in a biosafety level (BSL) 2+
-laboratory with BSL-3 protection. Total RNA was
-extracted directly from the clinical specimens without
-inactivating the virus with QiAamp RNeasy Mini Kit
-(Qiagen, Heiden, Germany) following the manufacturer’s
-instructions without modification. Real-time reverse
-transcription PCR (qRT-PCR) targeting RdRp gene and
-N gene of SARS-CoV-2 was used to detect and quantify
-the viral RNA within clinical samples and serial dilutions
-of the cultured isolate using the SARS-CoV-2 Nucleic
-Acid Detection Kit following the manufacture’s protocol
-(Geneodx, Shanghai, China, and BGI-Shenzhen, Shenzhen, China).
-A hybrid capture technique was used to enrich SARS-CoV2-specific content from the metatranscriptomic doublestranded DNA libraries with the 2019-nCoVirus DNA/
-RNA Capture Panel (BOKE, Beijing, China). Negative controls prepared from nuclease-free water and total RNA isolated from human MCF-7 breast cancer cells were included.
-The manufacturer’s instructions were slightly modified to
-accommodate the MGISEQ-2000 platform, i.e., blocker oligos and PCR primer oligos were replaced by MGIEasy exon
-capture assistive kit (MGI, Shenzhen, China). DNB-based libraries were constructed and sequenced on the MGISEQ2000 platform with paired-end 100 nt strategy using the
-same protocol described above, generating 37 Gb sequencing data for each sample on average.
-Metatranscriptomic library preparation and sequencing
-Amplicon-based enrichment and sequencing
-Host DNA was removed from RNA samples using
-DNase I, and the concentration of RNA samples was
-measured by Qubit RNA HS Assay Kit (Thermo Fisher
-Scientific, Waltham, MA, USA). DNA-depleted and
-purified RNA was used to construct the double-stranded
-(ds) circular DNA library with MGIEasy RNA Library
-preparation reagent set (MGI, Shenzhen, China), as
-follows: (1) RNA was fragmented by incubating with
-fragmentation buffer at 87 °C for 6 min; (2) ds cDNA
-was synthesized using random hexamers with fragmented RNA; (3) ds cDNA was subjected to end repair,
-Total RNA was reverse transcribed to synthesize the
-first-strand cDNA with random hexamers and Superscript II reverse transcriptase kit (Invitrogen, Carlsbad,
-USA). Sequencing was attempted on all samples regardless of Ct value including negative controls prepared
-from nuclease-free water and NA12878 human gDNA.
-A two-step SARS-CoV-2 genome amplification was performed with an equimolar mixture of primers using
-ATOPlex SARS-CoV-2 Full Length Genome Panel following the manufacture’s protocol (MGI, Shenzhen,
-China), generating 137× ~ 400 bp amplicons or 299× ~
-Hybrid capture-based enrichment and sequencing
-Xiao et al. Genome Medicine
-200 bp amplicons, and the genome positions of the
-Twenty microliters of first-strand cDNA was mixed with
-the components of the first PCR reaction following the
-manufacturer’s instructions. Two nanograms of human
-gDNA was added to each PCR reaction of the cultured
-isolate. A set of controls was adopted to help quantifying
-viral load and identify potential contamination. During
-library construction for amplicon sequencing, each sample was mixed with a fixed copy number of lambda genomic DNA (external control), and the external control
-and the SARS-CoV-2 genomes were amplified at the
-same time. The PCR was performed as follows: 5 min at
-37 °C; 10 min at 95 °C; 15 cycles of 10 s at 95 °C, 1 min at
-64 °C, 1 min at 60 °C, to 10 s at 72 °C; and 2 min at 72 °C.
-The products were purified with MGI EasyDNA Clean
-beads (MGI, BGI-Shenzhen, China) at a 5:4 ratio and
-cleaned with 80% concentration ethanol according to
-the manufacturer’s instructions. The 2nd PCR was performed under the same regimen as the 1st PCR except
-for 25 cycles, and the bead-purified products from the
-first PCR reaction were unique dual indexed. After the
-2nd PCR, products were purified following the same
-procedures as the 1st PCR and quantified using the
-Qubit dsDNA High Sensitivity assay on Qubit 3.0 (Life
-Technologies). PCR products of samples yielding sufficient material (> 5 ng/μl) were pooled at equimolar to a
-total DNA amount of 300 ng before converting to
-single-stranded circular DNA. DNB-based libraries were
-generated from 20 μl of single-stranded circular DNA
-pools and sequenced on the MGISEQ-2000 platform
-with single-end 400 nt strategy, generating 1.8 Gb
-sequencing data for each sample on average.
-Identification of Coronaviridae-like reads in massively
-parallel sequencing data
-For metatranscriptomic and hybrid capture sequencing
-data, total reads were first processed using Kraken
-v0.10.5 [20] (default parameters) with a self-built database of Coronaviridae genomes (including SARS, MERS,
-and SARS-CoV-2 genome sequences downloaded from
-GISAID, NCBI, and CNGB) to identify Coronaviridaelike reads in a loose manner. fastp v0.19.5 [21] (parameters: -q 20 -u 20 -n 1 -l 50) and SOAPnuke v1.5.6 [22]
-were used to remove low-quality reads, duplications, and
-adaptor contaminations. Low-complexity reads were
-then removed using PRINSEQ v0.20.4 [23] (parameters:
--lc_method dust -lc_threshold 7). Samples that exhibited
-higher coverage and at least 10-fold higher average
-sequencing depth than negative controls were accepted
-for downstream analyses of inter- and intra-individual
-For amplicon sequencing data, SE400 reads were first
-processed with fastp v0.19.5 [21] (parameters: -q 20 -u
-20 -n 1 -l 50) to remove low-quality reads and adaptor
-sequences. Primer sequences and the 21 nt upstream
-and downstream of primers within the reads were then
-trimmed with BAMClipper v1.1.1 [24] (parameters: -n 4
--u 21 -d 21). Reads with low-quality bases, adaptors,
-primers, and adjacent sequences completely removed as
-described above were considered as clean reads for
-downstream analyses. The viral load of SARS-CoV-2
-was quantified based on the data from both external
-control and the target virus. We define a C = target viral
-load/(target viral load + external control load), and a C >
-0.1% of negative groups (prepared from human nucleic
-only when the C value of the sample is an order of magnitude higher than that of negative groups, for instance,
-if C < 0.01% for all negative controls and C > 0.1% for an
-experimental group.
-Genome assembly of SARS-CoV-2
-For metatranscriptomic and hybrid capture sequencing,
-the Coronaviridae-like reads of samples with < 100×
-average sequencing depth were directly de novo assembled with SPAdes (v3.14.0, [25]) using the default
-settings. The Coronaviridae-like reads of samples with >
-100× average sequencing depth across SARS-CoV-2 genome were subsampled to achieve 100× sequencing depth
-before being assembled.
-For amplicon sequencing, SARS-CoV-2 consensus
-sequences were generated using Pilon v1.23 [26] (parameters: --changes –vcf --changes --vcf --mindepth 1 --fix
-all, amb). Nucleotide positions with sequencing depth <
-100× or < 5-fold higher than that of negative controls
-were masked as ambiguous base N.
-Visualization of coverage depth across the viral genomes
-The Coronaviridae-like reads from metatranscriptomic
-and hybrid capture sequencing data were aligned against
-the SARS-CoV-2 reference genome (GISAID accession:
-EPI_ISL_402119) [27] with BWA aln (v0.7.16) [28]. Duplications were identified by Picard Markduplicates
-default settings. For each sample, we calculated the
-depth of coverage at each nucleotide position of the
-SARS-CoV-2 reference genome with SAMtools (v1.9)
-[29] and scaled the values to the mean depth. For each
-nucleotide position, we calculated the median depth and
-20th and 80th percentiles across all samples. Coverage
-depth across the SARS-CoV-2 reference genome was
-plotted within a 200-nt sliding window using the ggplot2
-[30] package in R (v3.6.1) [31].
-Xiao et al. Genome Medicine
-Amplicon sequencing data was processed as described
-above, except that duplications were not removed. A
-heatmap was generated to visualize the viral genome
-coverage for all samples sequenced by the amplicon
-method with the pheatmap v1.0.12 [32] package in R
-(v3.6.1) [31]. The depth at each nucleotide position was
-binarized and was shown in blue if depth of coverage
-was 100× and above.
-Relationship between viral load and minimum
-sequencing output across methods
-SARS-CoV-2 reads of metatranscriptomic and hybrid
-capture sequencing data were identified by aligning the
-Coronaviridae-like reads against the SARS-CoV-2 reference genome (GISAID accession: EPI_ISL_402119) [27]
-with BWA in a strict manner of coverage ≥ 95% and
-identity ≥ 90%. For comparisons of the coverage depth
-of the viral genome across samples and methods, we
-normalized the viral reads to total sequencing reads with
-SARS-CoV-2 reads per million (SARS-CoV-2-RPM).
-SARS-CoV-2-RPM for amplicon sequencing data was
-calculated by the same pipeline applied for metatranscriptomic and hybrid capture sequencing data.
-To estimate the minimum data required for genome
-assembly and genome variation analysis, we applied
-gradient-based sampling to the SARS-CoV-2 genome
-alignments (referred to BAM files) to each dataset using
-SAMtools (v1.9) [29]. The effective genome coverage
-was set as 95% for all three MPS methods. Considering
-the distinct technologies used in different methods, we
-set method-dependent thresholds of effective depth as
-follows: (1) ≥ 10× for metatranscriptomic sequencing, (2)
-≥ 20× for hybrid capture sequencing, and (3) ≥ 100× for
-amplicon sequencing. We next calculated the coverage
-and depth within each subsampled BAM file per sample
-to determine the minimal BAM file that could meet the
-above thresholds of both coverage and sequencing
-depth. The method-dependent minimum sequencing
-output of each sample was estimated accordingly. We
-assessed the correlations between the SARS-CoV-2 genome copies per milliliter in diluted samples of cultured
-isolates and the minimum sequencing output for amplicon- and capture-based methods using Pearson’s correlation coefficient (R) with the function scatter from the R
-package (v3.6.1) ggpubr (v0.2.5) [33].
-Analysis of inter- and intra-individual variants
-For metatranscriptomic and hybrid capture sequencing
-data, variant calling was performed based on the BAM
-processed as described above, except that duplications
-were not removed. Variants were first called with
-freebayes (v1.3.1) [34] (parameters: -p 1 -q 20 -m 60
---min-coverage 10 -V), and the low-confidence variants
-were removed with snippy-vcf_filter (v3.2) [35] (parameters: --minqual 100 --mincov 10 --minfrac 0.8). The
-remaining variants in VCF files generated by freebayes
-were annotated in SARS-CoV-2 genome assemblies and
-com/alimanfoo/pysamstats) (parameters: -type variation_
-strand --min-baseq 20 -D 1000000) was used to count
-the number of matches, mismatches, deletions, and insertions at each base to determine the allele frequencies.
-Variant calls with allele frequencies ≥ 80% were identified as SNVs.
-Nucleotide positions with ≥ 100× sequencing depth
-from amplicon sequencing, ≥ 10× from metatranscriptomic sequencing, and ≥ 20× from capture sequencing
-were kept for iSNV calling. The candidate iSNVs were
-further filtered as follows: (1) frequency filtering, only
-minor alleles (frequency ≥ 5% and < 50%) and major alleles (frequency ≥ 50% and ≤ 95%) were remained; (2)
-depth filtering, iSNVs with fewer than five forward or reverse reads were removed; and (3) strand bias filtering
-(not applicable to single-end reads of amplicon sequencing), iSNVs were removed if there were more than a
-10-fold strand bias or a 5-fold difference between the
-strand bias of the variant call and that of the reference
-Taxonomy of clinical samples by unbiased
-metatranscriptomic sequencing
-For metatranscriptomic sequencing of clinical samples,
-raw sequencing data of a single sequence lane (approximately 60–75 Gb per sample) was used to simultaneously assess the RNA expression patterns of human,
-bacteria, and viruses in clinical samples from COVID-19
-patients. We first used the software fastp (v0.19.5) [21]
-to filter low-quality reads and remove adapter with parameters: -5 -3 -q 20 -c -l 30. After QC, we mapped
-high-quality reads to hg19 and removed human ribosomal RNA (rRNA) reads by using SOAP2 v2.21 [37] (parameters: -m 0 -x 1000 -s 28 -l 32 -v 5 -r 1), and the
-remaining RNA reads were then aligned to hg19 by
-HISAT2 [38] with default settings to identify non-rRNA
-human transcripts as previously described. Next, we applied Kraken 2 [39] (version 2.0.8-beta, parameters:
---threads 24 --confidence 0) to assign microbial taxonomic ranks to non-human RNA reads against the large
-reference database MiniKraken2 (April 2019, 8 GB) built
-from the Refseq bacteria, archaea, and viral libraries and
-the h38 human genome. Bracken [40] (Bayesian Reestimation of Abundance with Kraken) was further applied
-to estimate microbial relative abundances based on taxonomic ranks of reads assigned by Kraken2.
-Xiao et al. Genome Medicine
-Design of the comparative study
-We sampled eight specimens from COVID-19 patients
-in February 2020, including throat swab, nasal swab, anal
-swab, and sputum specimens, and the corresponding
-cycle threshold (Ct) value of SARS-CoV-2 qRT-PCR
-boost the coverage and depth of the viral genome by
-ultra-deep metatranscriptomic sequencing with an
-average sequencing output of 1,607,264,105 paired-end
-complete viral genome assemblies for each specimen,
-the sequencing depth varied across specimens. Only
-0.002–0.003% of the total reads were assigned to the
-SARS-CoV-2 in three samples (GZMU0014, GZM
-U0030, and GZMU0031) with Ct between 29 and 32,
-resulting in inferior sequencing depth (less than 100×)
-culture might improve the situation, but this requires
-high-standard laboratory settings and expertise apart
-from being time-consuming. Also, unexpected mutations
-that are not concordant with original clinical samples
-may be introduced during the culturing process.
-To enrich adequate viral content for whole-genome
-sequencing in a convenient manner, we pursued two
-other methods: multiplex PCR amplification (amplicon)
-and hybrid capture (capture) (Fig. 1). We designed a systematic study to comprehensively validate the uniformity, sensitivity, and inter-individual (variant) and intraindividual (iSNV) accuracy of multiple approaches by
-performed qRT-PCR of 10-fold serial dilutions (D1–D7)
-of the cultured isolate, and the Ct was 17.3, 20.8, and
-24.5 for 28.7, 31.8, 35, and 39.9, respectively, indicating
-the undiluted RNA (D0) of the cultured isolate contained ~ 1E+08 genome copies per milliliter. For amplicon sequencing, we utilized two kits comprising two sets
-of primers generating PCR products of 300–400 bp and
-100–200 bp, respectively. The ~ 400 bp amplicon-based
-sequencing was implemented in all samples and
-analyzed throughout the study, while the ~ 200 bp
-amplicon-based sequencing was only applied in the cultured isolate for coverage analysis.
-Comparison of uniformity and sensitivity
-Theoretically, amplicon sequencing should be the most
-sensitive and economical method among the three and
-are highly related. Although, there are still potential pitfalls, for instance, the 40-cycle PCR in our workflow
-might augment trace amounts of SARS-CoV-2 crosscontamination. To ensure the confidence of the datasets,
-we included serial dilutions of the cultured isolate and
-negative controls prepared from nuclease-free water and
-human nucleic acids since the 1st PCR. All samples in ~
-400 bp amplicon-based sequencing exhibited > 99.5%
-coverage of 1× depth across the SARS-CoV-2 genome
-except for 1E+01 (95.23%), GZMU0031 (73.65%), HNA
-(6.17%), and water (60.24%) and > 97.00% coverage of
-100× depth across the SARS-CoV-2 genome except for
-GZMU0030 (94.15%), GZMU0042 (88.17%), GZMU0014
-(71.66%), D7 (39.49%), GZMU0031 (0.00%), HNA
-(0.00%), and water (0.00%), suggesting the primers were
-well designed and the positive datasets were reliable
-(Fig. 3a). We also set stringent and method-specific criteria to filter low-confidence sequencing reads and samples based on a set of controls (see the “Methods”
-section). Another pitfall is that amplification across the
-genome can hardly be unbiased, causing difficulties in
-complete genome assembly. Indeed, amplicon sequencing exhibited a lower level of uniformity compared with
-metatranscriptomic sequencing, in terms of coverage
-across the viral genomes from the cultural isolate and
-the clinical samples tested in our study (Fig. 3b, d; Additional file 2 Fig. S1). To our surprise, however, capture
-Sample ID
-GZMU0047 Nasal swab
-Ct No. of sequencing read
-No. of SARS-CoV-2 read
-Percentage of SARS-CoV-2 read
-GZMU0016 Sputum
-GZMU0048 Throat
-GZMU0044 Nasal swab
-GZMU0030 Throat
-GZMU0014 Sputum
-GZMU0042 Sputum
-GZMU0031 Anal swab
-Xiao et al. Genome Medicine
-Fig. 1 The general workflow of multiple sequencing approaches adopted in this study. We employed unique dual indexing (UDI) strategy and
-DNB-based (DNA nanoball) PCR-free MPS platform to minimize index hopping and relevant sequencing errors [41–43]. a Amplicon-based
-enrichment: the UDI was integrated in the 2nd PCR. Navy, multiplex PCR primers. b Metatranscriptomic library preparations: the UDI was
-integrated in the adaptor ligation and universal PCR steps. c Library preparations and hybrid capture-based enrichment: the UDI was integrated in
-the adaptor ligation and pre-capture PCR steps. Ocher, ssDNA probes. Red and green lines represent adaptor sequences; green dots represent
-phosphate groups
-sequencing was almost as uniform as meta sequencing,
-demonstrating better performance than the previous
-capture method used to enrich ZIKV despite that SARSCoV-2 genome is ~ 3-fold larger than ZIKV [44] (Fig. 3b,
-120 ssDNA probes covering 2× of the SARS-CoV-2 genome to capture the libraries, and (2) we employed the
-DNBSEQ sequencing technology that features PCR-free
-rolling circle replication (RCR) of DNA nanoballs
-The sequencing results of amplicon and capture
-approaches revealed dramatic increases in the ratio of
-SARS-CoV-2 reads out of the total reads compared with
-meta sequencing, suggesting the enrichment was highly
-efficient—5596-fold in capture method and 5710-fold in
-sensitivity of different methods, we plotted the number
-of SARS-CoV-2 reads per million (SARS-CoV-2-RPM)
-of total sequencing reads against the viral concentration
-for each sample. Meta sequencing produced significantly
-lower SARS-CoV-2-RPM than the other two methods
-among clinical samples tested with a wide range of Ct
-values (Fig. 3e). The productivity was similar between
-the other two methods when the input RNA of the cultured isolate contained 1E+05 genome copies per milliliter and above (Fig. 3e). However, amplicon sequencing
-produced 10- to 100-fold more SARS-CoV-2 reads than
-capture sequencing when the input RNA concentration
-of the cultured isolate was 1E+04 genome copies per
-milliliter and lower, suggesting amplicon-based enrichment was more efficient than capture for more challenging samples (conc. ≤ 1E+04 genome copies per
-milliliter, or Ct ≥ 28.7) (Fig. 3e). Meta sequencing—as expected—produced dramatically lower SARS-CoV-2-RPM
-Xiao et al. Genome Medicine
-Xiao et al. Genome Medicine
-Fig. 2 Overview of the study design. Eight clinical samples and serial dilutions of a cultured isolate were subjected to direct metatranscriptomic
-library construction, amplicon-based enrichment, and hybrid capture-based enrichment, respectively. Libraries generated from each method were
-pooled, respectively. DNB, DNA nanoball. 14, GZMU0014; 16, GZMU0016; 30, GZMU0030; 31, GZMU0031; 42, GZMU0042; 44, GZMU0044; 47,
-GZMU0047; 48, GZMU0048. D0, undiluted sample of the cultured isolate; D1–D7, seven serial diluted samples of the cultured isolate, ranging from
-1E+07 to 1E+01 genome copies per milliliter, in 10-fold dilution. “-”, negative controls prepared from nuclease-free water and human nucleic
-acids. PE100, paired-end 100-nt reads; SE400, single-end 100-nt reads
-than the other two methods among clinical samples
-tested with a wide range of Ct values, whereas amplicon
-and capture were generally comparable to each other
-(Fig. 3f). Considering the costs for sequencing, storage,
-and analysis increase substantially with larger datasets,
-we tried to estimate how much sequencing data must be
-produced for each approach in order to achieve 10×
-depth across 95% of the SARS-CoV-2 genome, and the
-practical, cost-effective guidance for future sequencing,
-we also assessed the minimum sequencing output required to pass the stringent filters (≥ 95% coverage and
-method-specific depth, see the “Methods” section) in
-our pipelines corresponding to different viral loads. We
-estimated that for high-confidence downstream analyses,
-amplicon sequencing requires at least 2757 to 186 megabases (Mb) for samples containing 1E+02 to 1E+06 copies of SARS-CoV-2 genome per milliliter, while capture
-frequencies detected in capture sequencing datasets were
-generally approximate to meta sequencing, while most
-allele frequencies in amplicon sequencing datasets deviated with those in meta sequencing (Fig. 4c). A similar
-pattern was shown for clinical samples, indicating that
-amplicon sequencing was unreliable of quantifying
-minor allele frequencies (Fig. 4d). Plotting allele frequencies against SARS-CoV-2 concentrations supported the
-above finding and further revealed that amplicon
-sequencing was unreliable of allele frequencies at all
-concentrations while capture sequencing was reliable at
-> 1E+03 genome copies per milliliter (Additional file 2
-Fig. S3). Referring to the iSNV identified in clinical samples by meta sequencing, we then calculated the false
-positive rate (FPR) of minor alleles called by amplicon
-and capture methods. The FPR of minor alleles identified in amplicon sequencing was 0.74%, while that in
-capture sequencing was 0.02%. Together, these results
-suggest amplicon sequencing was not as accurate as capture sequencing in identifying minor alleles.
-Investigation of inter- and intra-individual variations
-Microbiome in clinical samples
-To determine the accuracy of different approaches in
-discovering inter-individual genetic diversity, we tested
-each method in calling the single nucleotide variations
-(SNVs) and verified some of the SNVs with Sanger sequencing (Additional file 2 Fig. S2). Two to five SNVs
-were identified within each clinical sample, and in all the
-seven samples, SNVs identified by the three methods
-were concordant except that capture missed one SNV at
-position 16535 in GZMU0014 (Fig. 4a). We then investigated the allele frequencies of these sites across methods
-and found that alleles identified by capture sequencing
-displayed lower frequencies than the other two methods,
-especially for GZMU0014, GZMU0030, and GZMU0042
-where the viral load was lower (Ct ≥ 29), which explained
-why capture sequencing neglected an SNV in our pipeline when the cutoff of SNV calling was set as 80% allele
-frequency (Fig. 4b). These data indicate that amplicon
-sequencing is more accurate than capture sequencing in
-identifying SNVs, especially for challenging samples.
-To further determine the accuracy of different approaches in identifying SARS-CoV-2 iSNVs, we examined minor allele frequencies in serial dilutions of the
-cultured SARS-CoV-2 isolate and clinical samples. For
-serial dilutions of the cultured isolate, the minor allele
-In addition to target viral genome, metatranscriptomic
-sequencing has also allowed us to investigate RNA expression patterns of the overall microbiome and host
-distinguishing co-infections, and dissecting virus-host interactions. To explore the microbiota, we performed further metatranscriptomic analysis of the clinical samples.
-We were able to identify host nucleic acids in all of the
-samples, and over 95% of total reads were from the host
-in sputum, nasal, and throat samples (Additional file 2
-Fig. S4a). Virus contributed to less than 5% of reads in
-anal swab and throat swab while more than 50% of reads
-in nasal swab (Additional file 2 Fig. S4b). These results
-suggest nasal swab could be the most ideal sample type
-for viral detection among the four sample types, which
-agrees with recent clinical evidence [45]. Previous studies have compared different sample types of other coronaviruses
-nasopharyngeal aspirates and throat and nose swabs appear to be the most useful clinical specimens in the first
-5 days of illness caused by SARS-CoV infection [46] and
-nasal swabs are the candidate sample of choice for detecting MERS-CoV using qRT-PCR technology in apparently healthy camels [47].
-Xiao et al. Genome Medicine
-Fig. 3 Sequencing coverage and depth of the cultured isolate and eight clinical samples. a Amplicon sequencing coverage by sample (row)
-across the SARS-CoV-2 genome. Dark blue, sequencing depth ≥ 100×; heatmap (bottom) sums coverage across all samples. HNA, negative control
-prepared from human nucleic acids; water, negative control prepared from nuclease-free water. Green horizontal lines on heatmap, amplicon
-locations. Overlap regions between amplicons range from 59 to 209 bp. b–d Normalized coverage across viral genomes of the clinical samples
-across methods. e SARS-CoV-2-RPM sequence plotted against genome copies per milliliter for the cultured isolate. Three independent
-experiments were performed for amplicon sequencing. Dark blue, ~ 400 bp amplicon-based sequencing including human and lambda phage
-nucleic acid background; soft blue, ~ 200 bp amplicon-based sequencing; fluorescent cyan, ~ 400 bp amplicon-based sequencing excluding
-human and lambda phage nucleic acid background (NAB); red, capture sequencing; grey, meta sequencing. f SARS-CoV-2-RPM (reads per million)
-sequence plotted against qRT-PCR Ct value for the clinical samples. Dark blue, amplicon; red, capture; grey, meta. g Estimated minimum amount
-of bases required by each method for high-confidence downstream analyses. Dark blue, amplicon; red, capture
-Among the viral reads, over 90% were Coronaviridae,
-which is consistent with clinical diagnostics (Additional file 2 Fig. S4c). Reads from other viruses were
-also identified, indicating further measurements could
-be taken to confirm if co-infection exists (Additional file 2
-Fig. S4). Bacterial composition was also shown, providing support for scientific research, as well as for further
-confirmation of bacterial infection and antibiotics
-prescription (Additional file 2 Fig. S4d-f).
-Guidance for virus sequencing
-Taken together, each sequencing scheme elaborated here
-a reasonable, cost-effective strategy for sequencing and
-analyzing SARS-CoV-2 under different situations: (1) if
-one wants to study other genetic materials than the
-target viruses, or the viruses become highly diversified
-via recombinational events, or the viral load within the
-Xiao et al. Genome Medicine
-Fig. 4 Between-sample and within-sample variants of SARS-CoV-2 detected across methods. a SNVs detected between clinical samples against a
-reference genome (GISAID accession: EPI_ISL_402119) [27]. Alleles with ≥ 80% frequencies were called. *SNVs verified by Sanger sequencing. b
-Allele frequencies of the identified SNVs. Dark blue, amplicon; red, capture; grey, meta. Minor allele frequencies detected in serial dilutions of the
-cultured isolate (c) and clinical samples (d) across methods. Dark blue, amplicon vs meta; red, capture vs meta. Minor alleles are defined with ≥
-5% and < 50% frequencies. Besides general quality filter, iSNVs had to pass depth and strand bias filter as described in the “Methods” section
-Hybrid capture-based
-Multiplex PCR amplicon-based
-Sequencing objective
-Microbiome + human
-Target genome
-Target genome
-2nd strand synthesis
-Library preparation
-Estimated time for library construction
-Oligo synthesis
-Estimated cost per sample (USD)a
-Estimated minimum data for downstream analyses
-The price varies greatly with different sequencing output and in different regions
-Xiao et al. Genome Medicine
-RNA sample is high (e.g., conc. ≥ 1E+05 viral genome
-copies per milliliter, or Ct ≤ 24.5), meta sequencing can
-be prioritized; (2) if one focuses on intra-individual variations for more challenging samples (e.g., conc. < 1E+05
-and > 1E+03 viral genome copies per milliliter, or Ct >
-24.5 and < 31.8), capture sequencing seems to be a justified choice; and (3) if identifying SNVs is the main
-purpose, the most convenient, economical strategy
-would be amplicon sequencing that can support analyses
-of samples containing lower than 1E+05 viral genome
-copies per milliliter, or Ct > 24.5.
-Sequencing low-titer viruses directly from clinical samples is challenging, especially for coronaviruses that are
-the largest among RNA viruses (~ 3-fold larger compared with ZIKV). Isolating viruses and enriching them
-in cell culture require high-standard laboratory settings
-and expertise apart from being time-consuming. The enrichment methods presented here have several advantages—to different degrees—over the other existing
-protocols [48, 49]. Firstly, the multiplex PCR protocol
-for ZIKV sequencing [48] and the Artic Network protocol for SARS-CoV-2 sequencing [49] require library
-preparation after PCR. Our amplicon method is more
-convenient since the barcoding and adaptor ligation
-steps are integrated into the PCR process; in other
-words, the PCR products are the library. Secondly, we
-adopt a set of controls to help us quantify viral load and
-identify potential contamination. During library construction for amplicon sequencing, each sample was
-mixed with standard lambda genomic DNA (external
-control), and the external control and the SARS-CoV-2
-genomes are amplified at the same time. After sequencing, the viral load of SARS-CoV-2 is quantified based
-on the data from both external control and the target
-virus. We define a C = target viral load/(target viral
-load + external control load), and a C > 0.1% of negative
-groups (prepared from human nucleic acids and
-value of the sample is an order of magnitude higher than
-that of negative groups, for instance, if C < 0.01% for all
-negative controls and C > 0.1% for an experimental
-group. Finally, our work is the first that focuses around
-the use of BGI and MGI materials and platforms while
-previous protocols were mainly designed for Illumina or
-Oxford Nanopore Technologies (ONT).
-Compared with direct metatranscriptomic sequencing,
-hybrid capture and amplicon sequencing methods are
-more sensitive but less accurate and neither of the two
-can be used to sequence highly diverse or recombinant
-viruses because the primers and probes are specific to
-known viral genomes. Although amplicon sequencing
-compromises its accuracy, it becomes the most convenient and economical method of all. Either or a combination of the approaches described here can be chosen to
-cope with various needs of researchers, e.g., metatranscriptomic sequencing data with insufficient coverage
-and depth can be pooled with hybrid capture data to
-generate high-quality assemblies [44]. From the perspective of virologists who conduct genomic studies of
-SARS-CoV-2, one dilemma is that there is hardly any
-standard of which sequencing method should be chosen
-for different samples or research purposes. Clinical specimens are precious, and it is unlikely to test each method
-on them. Of course, time and cost are also important
-factors that are needed to be considered. Therefore, in
-this work, we systematically examined the advantages
-and disadvantages of each method using different samples and proposed a guidance for rationally choosing the
-Moreover, we estimated the minimum sequencing output required for different samples using each method.
-This is another frequently encountered question, because larger output requires higher sequencing expenses,
-larger storage space, and more computing resources.
-The most cost-effective way is to generate the minimum
-amount of data needed for downstream analyses. Our
-work provides practical help for researchers to estimate
-how much data is necessary, although it varies with experimental procedures (e.g., total RNA extraction, rRNA
-depletion) and sample types (e.g., nasal swab typically requires less data than other sample types), and thus
-should be determined case by case.
-Some advantages and disadvantages described above
-might be specific to the experimental workflows and bioinformatic pipelines presented in the current work, for
-instance, (1) the uniformity of amplicon sequencing can
-be improved by reducing the amount of cycles in the 1st
-PCR to 13 while increasing that in the 2nd PCR to 17 or
-increasing the molar ratios of primers targeting the region with low coverage, e.g., genomic position 16965–
-17246; (2) the amplicon sequencing is particularly convenient compared with previous counterparts since the
-standard fragmentation and library construction steps
-are omitted here by integrating adaptor and barcode
-ligation in the 2nd PCR and sequencing the amplicons
-using single-end 400 nt reads; (3) using less than 506
-pieces of 120 ssDNA probes in hybrid capture may
-attenuate the sequencing coverage while decrease the
-uniformity; (4) metatranscriptomic sequencing was conducted with an ultra-high-throughput sequencing platform so that the successful rate was substantially higher
-than usual; and (5) the minimal amount of data necessary for analyzing the SARS-CoV-2 genome from clinical
-samples across methods can be deviated from that predicted by data from the cultured isolate, and this was
-Xiao et al. Genome Medicine
-possibly due to the fact that nucleic acid background
-from the host and other microbes varies (Additional file 2
-consider the time spent in sequencing since the workflows can be easily adapted to various platforms including Illumina and ONT, besides DNBSEQ of MGI.
-All three methods can effectively obtain SARS-CoV-2
-genome information from clinical samples and can be
-used to study genome variations of the virus. However,
-the sensitivity, accuracy, and cost of the three methods
-vary greatly, and thus, each method must be rationally
-chosen to cope with different research purposes and
-different clinical samples. This work offers practical
-guidance for genome sequencing and analyses of SARSCoV-2 and other emerging viruses.
-Additional file 2: Fig. S1. Normalized coverage across SARS-CoV-2 genomes of serial dilutions of the cultured isolate sequenced by multiple
-approaches. Fig. S2. Sanger sequencing results of SNVs in clinical samples. Fig. S3. Box-plot of allele frequencies against SARS-CoV-2 genome
-of serial dilutions of the cultured isolate and eight SARS-CoV-2 positive
-sequencing data summary of serial dilutions of the cultured isolate and
-eight SARS-CoV-2 positive clinical samples collected from Guangzhou
-required to achieve high-confidence variants calling analyses for different
-MPS: Massively parallel sequencing; COVID-19: Coronavirus disease 2019;
-SARS-CoV: Severe acute respiratory syndrome coronavirus; MERS-CoV: Middle
-East respiratory syndrome coronavirus; BALF: Bronchoalveolar-lavage fluid;
-HAE: Human airway epithelial; iSNV: Intra-individual single nucleotide
-variation; Ct: Cycle threshold; RCR: Rolling circle replication; DNB: DNA
-nanoball; RPM: Reads per million; UDI: Unique dual indexing; HNA: Human
-nucleic acid; NAB: Nucleic acid background
-We attribute this work to the amazing people in this land who dedicate
-themselves to the battle of mankind against viruses. The sequencing of this
-work was supported by China National GeneBank. We appreciate all the
-J.L., W.C., and M.X. conceived the project. X.L., J. Z, Y.W., and Y.L. sampled and
-processed the clinical specimen. M.X., Ji.L., M.L., and J.L. designed the
-experiments. L.Y. and Y.Z. developed the multiplex PCR amplicon-based sequencing method. M.L., Ji.L., Y. L, P.R. W.S., G.Y., and T.C. performed the multiplex PCR and amplicon sequencing. Ji.L. and P.R. performed the
-metatranscriptomic library construction and hybrid capture experiments. J.J.,
-M. L, W.S., T.L., H.R., and H.Z. processed the sequencing data and conducted
-the bioinformatic analyses. J.L., M.X. H.Z., J.J., M.L., and W.S. interpreted the
-This work is funded by the National Science and Technology Major Project
-of China (no. 2017ZX10303406); the National Major Project for Control and
-Prevention of Infectious Disease in China (2018ZX10301101-004); the
-emergency grants for prevention and control of SARS-CoV-2 of Ministry of
-Science and Technology (2020YFC0841400) and Guangdong province, China
-(2020B111107001, 2020B111108001, 2018B020207013); the Guangdong Provincial Key Laboratory of Genome Read and Write (no. 2017B030301011); the
-Guangdong Provincial Academician Workstation of BGI Synthetic Genomics
-(no. 2017B090904014); and the Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics (DRC-SZ [2016]884).
-Availability of data and materials
-The data that support the findings of this study have been deposited into
-CNGBdb with project IDs CNP0000951 [50] and CNP0000955 [51]; into
-numbers EPI_ISL_414663, EPI_ISL_414686, EPI_ISL_414687, EPI_ISL_414688,
-EPI_ISL_414689, EPI_ISL_414690, EPI_ISL_414691, and EPI_ISL_414692 [52];
-and into NCBI with accession numbers MT568634, MT568635, MT568636,
-MT568637, MT568638, MT568639, MT568640, MT568641 [53] and
-PRJNA637515 [54]. The software and parameters used in data analyses
-Ethics approval and consent to participate
-Informed consent was obtained from all participants enrolled in studies at
-study conformed to the principles of the Declaration of Helsinki. The IRB of
-BGI-Shenzhen approved the sequencing and downstream analyses of samples collected by the aforementioned institution under ethical clearance no.
-Consent for publication
-Not applicable
-Competing interests
-L.Y., Y.Z., F.C., and X.X. have applied for a patent relating to the ampliconbased method, and the details can be found below:
-PCR primer pair and application thereof
-Patent applicant: MGI Tech Co., Ltd
-Name of inventor(s): Lin Yang, Ya Gao, Guodong Huang, Yicong Wang,
-Yuqian Wang, Yanyan Zhang, Fang Chen, Na Zhong, Hui Jiang, Xun Xu
-Application number: PCT/CN2017/089195
-BGI-Shenzhen, Shenzhen 518083, China. 2Shenzhen Key Laboratory of
-Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen 518083, China.
-State Key Laboratory of Respiratory Disease, National Clinical Research
-of Sciences, Shenzhen 518083, China. 6MGI, BGI-Shenzhen, Shenzhen 518083,
-China. 9BGI PathoGenesis Pharmaceutical Technology, Shenzhen, China.
-Guangdong Provincial Key Laboratory of Genome Read and Write,
-BGI-Shenzhen, Shenzhen 518120, China. 12Shenzhen Engineering Laboratory
-for Innovative Molecular Diagnostics, BGI-Shenzhen, Shenzhen 518120, China.
-Xiao et al. Genome Medicine
-1. WHO: Coronavirus disease (COVID-2019) situation report - 54. World Health
-2. Dudas G, Carvalho LM, Bedford T, Tatem AJ, Baele G, Faria NR, Park DJ,
-Ladner JT, Arias A, Asogun D, et al. Virus genomes reveal factors that spread
-and sustained the Ebola epidemic. Nature. 2017;544:309–15.
-3. Dudas G, Carvalho LM, Rambaut A, Bedford T. Correction: MERS-CoV
-spillover at the camel-human interface. Elife. 2018;7.
-4. Gardy JL, Loman NJ. Towards a genomics-informed, real-time, global
-5. Gire SK, Goba A, Andersen KG, Sealfon RS, Park DJ, Kanneh L, Jalloh S,
-Momoh M, Fullah M, Dudas G, et al. Genomic surveillance elucidates Ebola
-virus origin and transmission during the 2014 outbreak. Science. 2014;345:
-6. Grubaugh ND, Ladner JT, Kraemer MUG, Dudas G, Tan AL, Gangavarapu K,
-Wiley MR, White S, Theze J, Magnani DM, et al. Genomic epidemiology
-reveals multiple introductions of Zika virus into the United States. Nature.
-7. Sabir JS, Lam TT, Ahmed MM, Li L, Shen Y, Abo-Aba SE, Qureshi MI, AbuZeid M, Zhang Y, Khiyami MA, et al. Co-circulation of three camel
-coronavirus species and recombination of MERS-CoVs in Saudi Arabia.
-8. Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N,
-et al. Genomic characterisation and epidemiology of 2019 novel
-coronavirus: implications for virus origins and receptor binding. Lancet.
-9. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu
-R, et al. A novel coronavirus from patients with pneumonia in China, 2019.
-N Engl J Med. 2020;382:727–33.
-10. Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B,
-Huang CL, et al. A pneumonia outbreak associated with a new coronavirus
-of probable bat origin. Nature. 2020;579:270–3.
-11. Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, Hu Y, Tao ZW, Tian JH, Pei
-YY, et al. A new coronavirus associated with human respiratory disease in
-China. Nature. 2020.
-12. Drosten C, Chiu LL, Panning M, Leong HN, Preiser W, Tam JS, Gunther S,
-Kramme S, Emmerich P, Ng WL, et al. Evaluation of advanced reverse
-transcription-PCR assays and an alternative PCR target region for detection
-of severe acute respiratory syndrome-associated coronavirus. J Clin
-13. Jonsdottir HR, Dijkman R. Coronaviruses and the human airway: a universal
-system for virus-host interaction studies. Virol J. 2016;13:24.
-14. Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, Xing F, Liu J, Yip CC, Poon
-RW, et al. A familial cluster of pneumonia associated with the 2019 novel
-coronavirus indicating person-to-person transmission: a study of a family
-cluster. Lancet. 2020;395:514–23.
-15. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C,
-Ericson K, Wilkerson S, Tural A, et al. First case of 2019 novel coronavirus in
-the United States. N Engl J Med. 2020(382):929–36.
-16. McCrone JT, Woods RJ, Martin ET, Malosh RE, Monto AS, Lauring AS.
-Stochastic processes constrain the within and between host evolution of
-influenza virus. Elife. 2018;7:e35962.
-17. Ni M, Chen C, Qian J, Xiao HX, Shi WF, Luo Y, Wang HY, Li Z, Wu J, Xu PS, et al.
-Intra-host dynamics of Ebola virus during 2014. Nat Microbiol. 2016;1:16151.
-18. Park DJ, Dudas G, Wohl S, Goba A, Whitmer SL, Andersen KG, Sealfon RS, Ladner
-JT, Kugelman JR, Matranga CB, et al. Ebola virus epidemiology, transmission, and
-evolution during seven months in Sierra Leone. Cell. 2015;161:1516–26.
-19. Domingo E, Sheldon J, Perales C. Viral quasispecies evolution. Microbiol Mol
-Biol Rev. 2012;76:159–216.
-20. Wood DE, Salzberg SL. Kraken: ultrafast metagenomic sequence
-classification using exact alignments. Genome Biol. 2014;15:R46.
-21. Chen S, Zhou Y, Chen Y, Gu J. fastp: an ultra-fast all-in-one FASTQ
-preprocessor. Bioinformatics. 2018;34:i884–90.
-22. Chen Y, Chen Y, Shi C, Huang Z, Zhang Y, Li S, Li Y, Ye J, Yu C, Li Z, et al.
-SOAPnuke: a MapReduce acceleration-supported software for integrated
-quality control and preprocessing of high-throughput sequencing data.
-23. Schmieder R, Edwards R. Quality control and preprocessing of
-metagenomic datasets. Bioinformatics. 2011;27:863–4.
-24. Au CH, Ho DN, Kwong A, Chan TL, Ma ESK. BAMClipper: removing primers
-from alignments to minimize false-negative mutations in amplicon nextgeneration sequencing. Sci Rep. 2017;7:1567.
-25. Bankevich A, Nurk S, Antipov D, Gurevich AA, Dvorkin M, Kulikov AS, Lesin
-VM, Nikolenko SI, Pham S, Prjibelski AD, et al. SPAdes: a new genome
-assembly algorithm and its applications to single-cell sequencing. J Comput
-26. Walker BJ, Abeel T, Shea T, Priest M, Abouelliel A, Sakthikumar S, Cuomo CA,
-Zeng Q, Wortman J, Young SK, Earl AM. Pilon: an integrated tool for
-comprehensive microbial variant detection and genome assembly
-improvement. PLoS One. 2014;9:e112963.
-27. Tan W, Zhao X, Wang W, Ma X, Jiang Y, Lu R, Wang J, Zhou W, Niu P, Liu P,
-et al. hCoV-19/Wuhan/IVDC-HB-01/2019. GISAID Accession: EPI_ISL_402119.
-28. Li H, Durbin R. Fast and accurate short read alignment with BurrowsWheeler transform. Bioinformatics. 2009;25:1754–60.
-29. Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G,
-Durbin R. 1000 Genome Project Data Processing Subgroup. The sequence
-alignment/map format and SAMtools. Bioinformatics. 2009;25:2078–9.
-31. R Core Team. R: A language and environment for statistical computing. R
-org/. Accessed 5 July 2019.
-packages/pheatmap. Accessed 4 Jan 2019.
-34. Garrison E, Marth G. Haplotype-based variant detection from short-read
-sequencing. arXiv:1207.3907v2 [q-bio.GN]. Accessed 20 July 2012.
-36. Cingolani P, Platts A, Wang le L, Coon M, Nguyen T, Wang L, Land SJ, Lu X,
-Ruden DM. A program for annotating and predicting the effects of single
-nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila
-melanogaster strain w1118; iso-2; iso-3. Fly (Austin). 2012;6(2):80–92.
-37. Li R, Yu C, Li Y, Lam TW, Yiu SM, Kristiansen K, Wang J. SOAP2: an improved
-ultrafast tool for short read alignment. Bioinformatics. 2009;25:1966–7.
-38. Kim D, Paggi JM, Park C, Bennett C, Salzberg SL. Graph-based genome
-alignment and genotyping with HISAT2 and HISAT-genotype. Nat
-39. Wood DE, Lu J, Langmead B. Improved metagenomic analysis with Kraken
-2. Genome Biol. 2019;20:257.
-40. Lu J, Breitwieser FP, Thielen P, Salzberg SL. Bracken: estimating species
-41. Li Q, Zhao X, Zhang W, Wang L, Wang J, Xu D, Mei Z, Liu Q, Du S, Li Z, et al.
-Reliable multiplex sequencing with rare index mis-assignment on DNBbased NGS platform. BMC Genomics. 2019;20:215.
-42. Xia Z, Jiang Y, Drmanac R, Shen H, Liu P, Li Z, Chen F, Jiang H, Shi S, Xi Y.
-Advanced whole genome sequencing using a complete PCR-free massively
-43. Kircher M, Sawyer S, Meyer M. Double indexing overcomes inaccuracies in
-multiplex sequencing on the Illumina platform. Nucleic Acids Res. 2012;40:
-44. Metsky HC, Matranga CB, Wohl S, Schaffner SF, Freije CA, Winnicki SM, West
-K, Qu J, Baniecki ML, Gladden-Young A, et al. Zika virus evolution and
-spread in the Americas. Nature. 2017;546:411–5.
-45. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, Yu J, Kang M, Song Y,
-Xia J, et al. SARS-CoV-2 viral load in upper respiratory specimens of infected
-patients. N Engl J Med. 2020;382:1177–9.
-46. Chan KH, Poon LL, Cheng VC, Guan Y, Hung IF, Kong J, Yam LY, Seto WH,
-Yuen KY, Peiris JS. Detection of SARS coronavirus in patients with suspected
-SARS. Emerg Infect Dis. 2004;10:294–9.
-47. Mohran KA, Farag EA, Reusken CB, Raj VS, Lamers MM, Pas SD, Voermans J,
-Smits SL, Alhajri MM, Alhajri F, et al. The sample of choice for detecting
-Middle East respiratory syndrome coronavirus in asymptomatic dromedary
-camels using real-time reversetranscription polymerase chain reaction. Rev
-Sci Tech. 2016;35:905–11.
-Xiao et al. Genome Medicine
-48. Quick J, Grubaugh ND, Pullan ST, Claro IM, Smith AD, Gangavarapu K,
-Oliveira G, Robles-Sikisaka R, Rogers TF, Beutler NA, et al. Multiplex PCR
-method for MinION and Illumina sequencing of Zika and other virus
-genomes directly from clinical samples. Nat Protoc. 2017;12:1261–76.
-protocols.io.bdp7i5rn. Accessed 9 Apr 2020.
-50. Zhao J, Wang Y. COVID-19-Project-1-the First Affiliated Hospital of
-cngb.org/search/project/CNP0000951/. CNGB Sequence Archive. Accessed
-51. Ji J. Multiple approaches for massively parallel sequencing of HCoV-19
-cngb.org/search/project/CNP0000955/. Accessed 3 Apr 2020.
-52. Zhao J, Wang Y. hCoV-19/Guangzhou. GISAID Accession: EPI_ISL_414663,
-epi3/. Accessed 16 Mar 2020.
-53. Zhao J, Wang Y, Li M. Multiple approaches for massively parallel sequencing
-of HCoV-19 (SARS-CoV-2) genomes directly from clinical samples. GenBank:
-Accessed 5 June 2020.
-54. Ji J. Multiple approaches for massively parallel sequencing of SARS-CoV-2
-samples. BioProject Accession: PRJNA637515. NCBI Sequence Read Archive.
+Xiao  et  al. Genome Medicine Open Access Multiple approaches for
+massively parallel sequencing of SARS‐CoV‐2 genomes directly from
+clinical samples Minfeng Xiao1,2, Xiaoqing Liu3, Jingkai Ji1,2,4,
+Min Li1,2,5, Jiandong Li1,2,5, Lin Yang6, Wanying Sun1,2,5, Peidi
+Ren1,2,  Guifang  Yang6, Jincun Zhao3,7, Tianzhu Liang1,2, Huahui
+Ren1, Tian Chen6, Huanzi Zhong1, Wenchen Song1,2,  Yanqun  Wang3,
+Ziqing  Deng1,2,  Yanping  Zhao1,2,  Zhihua  Ou1,2, Daxi Wang1,2,
+Jielun Cai1, Xinyi Cheng1,2,8, Taiqing Feng6, Honglong Wu9,  Yan‐
+ping  Gong9,  Huanming Yang1,10, Jian Wang1,10, Xun Xu1,11, Shida
+Zhu1,12, Fang Chen1,6, Yanyan  Zhang6*,  Weijun  Chen5,9*,  Yimin
+Li3*  and  Junhua Li1,2,8* Background: COVID‐19 (coronavirus dis‐
+ease 2019) has caused a major epidemic worldwide;  however,  much
+is  yet  to  be known about the epidemiology and evolution of the
+virus partly due to the scarcity of full‐length  SARS‐CoV‐2  (se‐
+vere  acute respiratory syndrome coronavirus 2) genomes reported.
+One reason is that the  challenges  underneath  sequencing  SARS‐
+CoV‐2  directly  from  clinical  samples have not been completely
+tackled, i.e., sequencing samples with low viral load  often  re‐
+sults  in insufficient viral reads for analyses.  Methods: We ap‐
+plied a novel multiplex PCR amplicon (amplicon)‐based and  hybrid
+capture   (capture)‐based  sequencing,  as  well  as  ultra‐high‐
+throughput metatranscriptomic  (meta)  sequencing  in  retrieving
+complete  genomes,  inter‐individual  and intra‐individual varia‐
+tions of SARS‐CoV‐2 from serials dilutions of a cultured isolate,
+and  eight  clinical samples covering a range of sample types and
+viral loads. We also examined and compared the sensitivity, accu‐
+racy,  and other characteristics of these approaches in a compre‐
+hensive manner.  Minfeng Xiao, Xiaoqing Liu, Jingkai Ji, Min  Li,
+Jiandong  Li,  and  Lin Yang are Yanyan Zhang, Weijun Chen, Yimin
+Li, and Junhua Li are the joint senior MGI,  BGI‐Shenzhen,  Shen‐
+zhen  518083,  China State Key Laboratory of Respiratory Disease,
+National Clinical Research BGI‐Shenzhen, Shenzhen  518083,  China
+which  permits  use, sharing, adaptation, distribution and repro‐
+duction in any medium or format, as long as you give licence  and
+your intended use is not permitted by statutory regulation or ex‐
+ceeds the permitted use, you will need  to  obtain  Xiao  et  al.
+Genome  Medicine  Results: We demonstrated that both amplicon and
+capture methods  efficiently  enriched  SARS‐CoV‐2  content  from
+clinical  samples,  while  the  enrichment efficiency of amplicon
+outran that of capture in more  challenging  samples.   We  found
+that  capture was not as accurate as meta and amplicon in identi‐
+fying between‐sample variations, whereas amplicon method was  not
+as accurate as the other two in investigating within‐sample vari‐
+ations, heavily rely on intra‐host dynamics. We illustrated  that
+meta  uncovered  rich genetic information in the clinical samples
+besides SARS‐CoV‐2, providing references for clinical diagnostics
+and  therapeutics. Taken all factors above and cost‐effectiveness
+into consideration, we proposed guidance for how  to  choose  se‐
+quencing strategy for SARSCoV‐2 under different situations.  Con‐
+clusions: This is, to the best of our knowledge, the  first  work
+systematically  investigating  inter‐  and intraindividual varia‐
+tions of SARS‐CoV‐2  using  amplicon‐  and  capture‐based  whole‐
+genome  sequencing,  as well as the first comparative study among
+multiple approaches. Our  work  offers  practical  solutions  for
+genome  sequencing  and analyses of SARS‐CoV‐2 and other emerging
+viruses.  Keywords: Emerging infectious diseases, COVID‐19, Meta‐
+transcriptomic  sequencing,  Hybrid capture, Multiplex PCR, iSNV,
+Quasispecies, Genomic surveillance,  Virus  evolution  As  of  14
+March  2020,  severe  acute  respiratory  syndrome  coronavirus 2
+(SARS‐CoV‐2) has  surpassed  severe  acute  respiratory  syndrome
+coronavirus (SARS‐CoV) and Middle East respiratory syndrome coro‐
+navirus (MERS‐CoV) in every aspect, infecting over 140,000 people
+in more than 110 countries, with a mortality of over 5000 [1]. So
+far, coronaviruses have caused three major epidemics in the  past
+two decades, posing a great challenge to global health and econo‐
+my. Massively parallel sequencing  (MPS)  of  viral  genomes  has
+demonstrated enormous capacity as a powerful tool to study emerg‐
+ing infectious diseases, such as SARS, MERS, Zika, and Ebola,  in
+tracing  the  outbreak  origin and drivers, tracking transmission
+chains, mapping the spread, and monitoring the evolution  of  the
+etiological  agents [27]. Though by 14 March 2020, fewer than 500
+SARS‐CoV‐2 genomes were GeneBank DataBase (CNGBdb), NCBI GenBank,
+and the Global Initiative on Sharing All Influenza Data (GISAID),
+and much remains unknown about the epidemiology and evolution  of
+the  virus.  One  possible samples with low virus abundance.  The
+first teams obtained  the  SARS‐CoV‐2  genome  sequences  through
+metatranscriptomic MPS, supplemented by PCR and Sanger sequencing
+of a combination of bronchoalveolar‐lavage fluid (BALF) and  cul‐
+ture  [8 10] or from BALF directly [11]. Experience from studying
+SARS‐CoV showed that BALF from the lower respiratory tract was an
+ideal  sample type with higher viral load [12]. However, BALF was
+not routinely collected from every patient, and human airway  ep‐
+ithelial (HAE) cell culture is very labor‐intensive and time‐con‐
+suming, taking 4 to 6 weeks [9, 13]. Chan et al. managed  to  get
+the  whole‐genome sequences through metatranscriptomic sequencing
+with Oxford Nanopore platform supplemented by  Sanger  sequencing
+from  both whole‐genome sequence using oropharyngeal and nasopha‐
+ryngeal specimens through Sanger and metatranscriptomic  sequenc‐
+ing  with  both Illumina and MinIon [15]. To date, multiplex PCR‐
+based or hybrid capturebased  whole‐genome  sequencing  of  SARS‐
+CoV‐2, as well as comparative studies between different approach‐
+es, Besides inter‐individual variations, dissecting intraindivid‐
+ual  dynamics  of viruses also largely promotes our understanding
+of virus‐host interactions, viral evolution, and transmission  as
+demonstrated  for  Ebola,  Zika,  Influenza,  etc. [5, 1618]. The
+analyses of intra‐individual single nucleotide variations (iSNVs)
+and  its  allele  frequency  have  also contributed to anti‐viral
+therapy and drug resistance, e.g.,  to  reveal  highly  conserved
+genes  during the outbreak that potentially serve as ideal thera‐
+peutic targets [17, 19]. However, it is challenging to accurately
+detect  iSNVs  from clinical samples, especially when the samples
+are subjected to extra steps  of  enrichment  and  amplification.
+Therefore, we aim to comprehensively compare the sensitivity, in‐
+ter‐individual (variant) and  intra‐individual  (iSNV)  accuracy,
+and  other general features of different approaches by systemati‐
+cally utilizing ultra‐highthroughput  metatranscriptomic,  hybrid
+capture‐based, and amplicon‐based sequencing approaches to obtain
+genomic information of SARS‐CoV‐2 from serial Xiao et al.  Genome
+Medicine dilutions of a cultured isolate and directly from clini‐
+cal samples. We present a  reasonable  sequencing  strategy  that
+fits  into different scenarios and estimate the minimal amount of
+sequencing data for downstream SARS‐CoV‐2  genome  analyses.  Our
+study  offers  practical  solutions  to facilitate the studies of
+SARS‐CoV‐2 and other emerging viruses in  the  future  and  would
+promote  extensive  genomic sequencing and analyses of SARS‐CoV‐2
+and other emerging viruses, which would in turn contribute to re‐
+al‐time virus surveillance and managing viral outbreaks. Benefit‐
+ing from our experimental workflows and bioinformatic  pipelines,
+BGI  Group  has  launched  a Global Initiative on Open‐source se‐
+quencing and ultra‐deep metatranscriptomic  sequencing  available
+to  global  research  teams within GIOG‐S.  Sampling, RNA extrac‐
+tion, reverse transcription, and  qRTPCR  adaptor  ligation,  and
+18‐cycle PCR amplification; and (4) PCR products were unique dual
+indexed (UDI), before going through circularization  and  rolling
+circle replication (RCR) to generate DNA nanoball (DNB)‐based li‐
+braries.  Negative controls prepared from nuclease‐free water and
+total  RNA  isolated  from  human  Michigan  Cancer  Foundation‐7
+(MCF‐7) breast cancer cells were included.  DNB preps of clinical
+samples  were  sequenced  on  the ultra‐high‐throughput DNBSEQ‐T7
+platform (MGI, Shenzhen, China) with paired‐end 100 nt  strategy,
+generating  321  Gb  sequencing  data for each sample on average.
+global/) has regional headquarters in  Europe  (Copenhagen,  Den‐
+mark),  Asia  Pacific (Hong Kong, China), and Americas cn/) oper‐
+ates in 39 countries and regions  with  branches  including  Hong
+Kong  in  China, Kobe in Japan, Dubai in UAE, Riga in Latvia, and
+San Jose in the USA. The global training and service  network  is
+located  in  major countries and regions on 6 continents, with 40
+training/after‐sales service centers. To  acquire  reagents,  in‐
+struments,  and  technical  Clinical  specimens (including throat
+swab, nasal swab, anal swab, and sputum) were obtained from  con‐
+firmed COVID‐19 cases at the First Affiliated Hospital of Academy
+of Military Medical Science (AMMS) and subjected to 10‐fold seri‐
+al  dilutions.  Virus isolation and RNA extraction were done in a
+biosafety level (BSL) 2+ laboratory with BSL‐3 protection.  Total
+RNA  was  extracted  directly from the clinical specimens without
+inactivating the virus with QiAamp RNeasy Mini Kit (Qiagen,  Hei‐
+den,  Germany)  following  the manufacturers instructions without
+modification. Real‐time reverse transcription PCR (qRT‐PCR)  tar‐
+geting  RdRp gene and N gene of SARS‐CoV‐2 was used to detect and
+quantify the viral RNA within clinical samples and  serial  dilu‐
+tions  of  the cultured isolate using the SARS‐CoV‐2 Nucleic Acid
+Detection  Kit  following  the  manufactures  protocol  (Geneodx,
+Shanghai,  China,  and  BGI‐Shenzhen, Shenzhen, China).  A hybrid
+capture technique was used to enrich  SARS‐CoV2‐specific  content
+from the metatranscriptomic doublestranded DNA libraries with the
+2019‐nCoVirus DNA/ RNA Capture Panel (BOKE, Beijing, China). Neg‐
+ative  controls  prepared  from nuclease‐free water and total RNA
+isolated from human MCF‐7 breast cancer cells were included.  The
+manufacturers  instructions were slightly modified to accommodate
+the MGISEQ‐2000 platform, i.e., blocker  oligos  and  PCR  primer
+oligos  were replaced by MGIEasy exon capture assistive kit (MGI,
+Shenzhen, China). DNB‐based libraries were  constructed  and  se‐
+quenced on the MGISEQ2000 platform with paired‐end 100 nt strate‐
+gy using the same protocol described above, generating 37 Gb  se‐
+quencing data for each sample on average.  Metatranscriptomic li‐
+brary preparation and sequencing  Amplicon‐based  enrichment  and
+sequencing  Host  DNA was removed from RNA samples using DNase I,
+and the concentration of RNA samples was measured by Qubit RNA HS
+Assay  Kit  (Thermo Fisher Scientific, Waltham, MA, USA). DNA‐de‐
+pleted and purified RNA was used to construct the double‐stranded
+(ds)  circular  DNA  library with MGIEasy RNA Library preparation
+reagent set (MGI, Shenzhen, China), as follows: (1) RNA was frag‐
+mented by incubating with fragmentation buffer at 87 C for 6 min;
+(2) ds cDNA was synthesized using random hexamers with fragmented
+RNA;  (3)  ds cDNA was subjected to end repair, Total RNA was re‐
+verse transcribed to synthesize the first‐strand cDNA with random
+hexamers  and  Superscript II reverse transcriptase kit (Invitro‐
+gen, Carlsbad, USA). Sequencing was attempted on all samples  re‐
+gardless  of  Ct  value including negative controls prepared from
+nuclease‐free water and NA12878 human  gDNA.   A  two‐step  SARS‐
+CoV‐2  genome  amplification was performed with an equimolar mix‐
+ture of primers using ATOPlex SARS‐CoV‐2 Full Length Genome Panel
+following  the manufactures protocol (MGI, Shenzhen, China), gen‐
+erating 137 ~ 400 bp amplicons or 299 ~ Hybrid capture‐based  en‐
+richment and sequencing Xiao et al. Genome Medicine 200 bp ampli‐
+cons, and the genome  positions  of  the  Twenty  microliters  of
+first‐strand  cDNA was mixed with the components of the first PCR
+reaction following the manufacturers instructions. Two  nanograms
+of human gDNA was added to each PCR reaction of the cultured iso‐
+late. A set of controls was adopted  to  help  quantifying  viral
+load  and  identify  potential contamination. During library con‐
+struction for amplicon sequencing, each sample was mixed  with  a
+fixed  copy  number of lambda genomic DNA (external control), and
+the external control and the SARS‐CoV‐2 genomes were amplified at
+the  same  time. The PCR was performed as follows: 5 min at 37 C;
+10 min at 95 C; 15 cycles of 10 s at 95 C, 1 min at 64 C,  1  min
+at  60  C, to 10 s at 72 C; and 2 min at 72 C.  The products were
+purified with MGI EasyDNA Clean beads (MGI, BGI‐Shenzhen,  China)
+at a 5:4 ratio and cleaned with 80% concentration ethanol accord‐
+ing to the manufacturers instructions. The 2nd PCR was  performed
+under  the  same regimen as the 1st PCR except for 25 cycles, and
+the bead‐purified products  from  the  first  PCR  reaction  were
+unique  dual  indexed.  After the 2nd PCR, products were purified
+following the same procedures as the 1st PCR and quantified using
+the  Qubit  dsDNA High Sensitivity assay on Qubit 3.0 (Life Tech‐
+nologies). PCR products of samples yielding  sufficient  material
+(>  5 ng/l) were pooled at equimolar to a total DNA amount of 300
+ng before converting to single‐stranded circular  DNA.  DNB‐based
+libraries  were  generated  from 20 l of single‐stranded circular
+DNA pools and sequenced on the MGISEQ‐2000 platform with  single‐
+end  400  nt strategy, generating 1.8 Gb sequencing data for each
+sample on average.  Identification of Coronaviridae‐like reads in
+massively parallel sequencing data For metatranscriptomic and hy‐
+brid capture sequencing data, total reads  were  first  processed
+using  Kraken v0.10.5 [20] (default parameters) with a self‐built
+database of Coronaviridae  genomes  (including  SARS,  MERS,  and
+SARS‐CoV‐2  genome  sequences  downloaded  from GISAID, NCBI, and
+CNGB) to identify Coronaviridaelike  reads  in  a  loose  manner.
+fastp v0.19.5 [21] (parameters: ‐q 20 ‐u 20 ‐n 1 ‐l 50) and SOAP‐
+nuke v1.5.6 [22] were used to remove low‐quality reads,  duplica‐
+tions, and adaptor contaminations. Low‐complexity reads were then
+removed using PRINSEQ v0.20.4 [23] (parameters:  ‐lc_method  dust
+‐lc_threshold  7).  Samples that exhibited higher coverage and at
+least 10‐fold higher average sequencing depth than negative  con‐
+trols  were accepted for downstream analyses of inter‐ and intra‐
+individual For amplicon sequencing data, SE400 reads  were  first
+processed  with  fastp v0.19.5 [21] (parameters: ‐q 20 ‐u 20 ‐n 1
+‐l 50) to remove low‐quality reads and adaptor sequences.  Primer
+sequences and the 21 nt upstream and downstream of primers within
+the reads were then trimmed with BAMClipper v1.1.1 [24]  (parame‐
+ters:  ‐n 4 ‐u 21 ‐d 21). Reads with low‐quality bases, adaptors,
+primers, and adjacent sequences completely removed  as  described
+above were considered as clean reads for downstream analyses. The
+viral load of SARS‐CoV‐2 was quantified based on  the  data  from
+both  external control and the target virus. We define a C = tar‐
+get viral load/(target viral load + external control load), and a
+C  >  0.1%  of  negative groups (prepared from human nucleic only
+when the C value of the sample is an order  of  magnitude  higher
+than  that of negative groups, for instance, if C < 0.01% for all
+negative controls and C > 0.1% for an experimental group.  Genome
+assembly  of SARS‐CoV‐2 For metatranscriptomic and hybrid capture
+sequencing, the Coronaviridae‐like reads of samples  with  <  100
+average  sequencing  depth  were  directly de novo assembled with
+SPAdes (v3.14.0, [25]) using the  default  settings.  The  Coron‐
+aviridae‐like  reads  of  samples  with  > 100 average sequencing
+depth across SARS‐CoV‐2 genome were subsampled to achieve 100 se‐
+quencing  depth before being assembled.  For amplicon sequencing,
+SARS‐CoV‐2 consensus sequences were generated using  Pilon  v1.23
+[26]  (parameters:  ‐‐changes  vcf  ‐‐changes  ‐‐vcf ‐‐mindepth 1
+‐‐fix all, amb). Nucleotide positions with sequencing depth < 100
+or  < 5‐fold higher than that of negative controls were masked as
+ambiguous base N.  Visualization of coverage depth across the vi‐
+ral  genomes The Coronaviridae‐like reads from metatranscriptomic
+and hybrid capture sequencing data were aligned against the SARS‐
+CoV‐2  reference  genome  (GISAID accession: EPI_ISL_402119) [27]
+with BWA aln (v0.7.16) [28]. Duplications were identified by  Pi‐
+card  Markduplicates default settings. For each sample, we calcu‐
+lated the depth of coverage at each nucleotide  position  of  the
+SARS‐CoV‐2  reference genome with SAMtools (v1.9) [29] and scaled
+the values to the mean depth. For each  nucleotide  position,  we
+calculated  the median depth and 20th and 80th percentiles across
+all samples.  Coverage  depth  across  the  SARS‐CoV‐2  reference
+genome  was  plotted within a 200‐nt sliding window using the gg‐
+plot2 [30] package in  R  (v3.6.1)  [31].   Xiao  et  al.  Genome
+Medicine  Amplicon  sequencing  data  was  processed as described
+above, except that duplications were not removed. A  heatmap  was
+generated  to visualize the viral genome coverage for all samples
+sequenced by the amplicon method with the pheatmap  v1.0.12  [32]
+package in R (v3.6.1) [31]. The depth at each nucleotide position
+was binarized and was shown in blue if depth of coverage was  100
+and  above.  Relationship between viral load and minimum sequenc‐
+ing output across methods SARS‐CoV‐2 reads of  metatranscriptomic
+and  hybrid  capture  sequencing data were identified by aligning
+the Coronaviridae‐like reads  against  the  SARS‐CoV‐2  reference
+genome  (GISAID  accession:  EPI_ISL_402119)  [27]  with BWA in a
+strict manner of coverage  95% and identity  90%. For comparisons
+of  the  coverage  depth  of  the viral genome across samples and
+methods, we normalized the viral reads to total sequencing  reads
+with   SARS‐CoV‐2  reads  per  million  (SARS‐CoV‐2‐RPM).   SARS‐
+CoV‐2‐RPM for amplicon sequencing data was calculated by the same
+pipeline  applied  for  metatranscriptomic and hybrid capture se‐
+quencing data.  To estimate the minimum data required for  genome
+assembly and genome variation analysis, we applied gradient‐based
+sampling to the SARS‐CoV‐2 genome  alignments  (referred  to  BAM
+files)  to each dataset using SAMtools (v1.9) [29]. The effective
+genome coverage was set as 95% for all three MPS methods. Consid‐
+ering the distinct technologies used in different methods, we set
+method‐dependent thresholds of effective depth  as  follows:  (1)
+10 for metatranscriptomic sequencing, (2)
+ 20  for hybrid capture sequencing, and (3)  100 for amplicon se‐
+quencing. We next calculated the coverage and depth  within  each
+subsampled  BAM file per sample to determine the minimal BAM file
+that could meet the above thresholds of  both  coverage  and  se‐
+quencing depth. The method‐dependent minimum sequencing output of
+each sample was estimated accordingly. We assessed  the  correla‐
+tions  between the SARS‐CoV‐2 genome copies per milliliter in di‐
+luted samples of cultured isolates  and  the  minimum  sequencing
+output  for  amplicon‐  and  capture‐based methods using Pearsons
+correlation coefficient (R) with the function scatter from the  R
+package  (v3.6.1)  ggpubr  (v0.2.5) [33].  Analysis of inter‐ and
+intra‐individual variants For metatranscriptomic and hybrid  cap‐
+ture  sequencing data, variant calling was performed based on the
+BAM processed as described above, except that  duplications  were
+not  removed.  Variants were first called with freebayes (v1.3.1)
+[34] (parameters: ‐p 1 ‐q 20 ‐m 60 ‐‐min‐coverage 10 ‐V), and the
+low‐confidence   variants  were  removed  with  snippy‐vcf_filter
+(v3.2) [35] (parameters:  ‐‐minqual  100  ‐‐mincov  10  ‐‐minfrac
+0.8).  The remaining variants in VCF files generated by freebayes
+were annotated in SARS‐CoV‐2 genome  assemblies  and  com/aliman‐
+foo/pysamstats)  (parameters: ‐type variation_ strand ‐‐min‐baseq
+20 ‐D 1000000) was used to count the number of matches, mismatch‐
+es,  deletions,  and insertions at each base to determine the al‐
+lele frequencies.  Variant calls  with  allele  frequencies   80%
+were identified as SNVs.  Nucleotide positions with  100 sequenc‐
+ing depth from amplicon sequencing,  10  from  metatranscriptomic
+sequencing,  and   20  from capture sequencing were kept for iSNV
+calling. The candidate iSNVs were further  filtered  as  follows:
+(1)  frequency filtering, only minor alleles (frequency  5% and <
+50%) and major alleles (frequency  50% and  95%)  were  remained;
+(2)  depth  filtering,  iSNVs with fewer than five forward or re‐
+verse reads were removed; and (3) strand bias filtering (not  ap‐
+plicable  to single‐end reads of amplicon sequencing), iSNVs were
+removed if there were more than a 10‐fold strand bias or a 5‐fold
+difference  between  the strand bias of the variant call and that
+of the reference Taxonomy of clinical samples by  unbiased  meta‐
+transcriptomic  sequencing  For  metatranscriptomic sequencing of
+clinical samples, raw sequencing data of a single  sequence  lane
+(approximately 6075 Gb per sample) was used to simultaneously as‐
+sess the RNA expression patterns of human, bacteria, and  viruses
+in  clinical  samples  from  COVID‐19 patients. We first used the
+software fastp (v0.19.5) [21] to filter low‐quality reads and re‐
+move  adapter with parameters: ‐5 ‐3 ‐q 20 ‐c ‐l 30. After QC, we
+mapped high‐quality reads to hg19 and removed human ribosomal RNA
+(rRNA)  reads by using SOAP2 v2.21 [37] (parameters: ‐m 0 ‐x 1000
+‐s 28 ‐l 32 ‐v 5 ‐r 1), and the remaining  RNA  reads  were  then
+aligned  to hg19 by HISAT2 [38] with default settings to identify
+non‐rRNA human transcripts as previously described. Next, we  ap‐
+plied Kraken 2 [39] (version 2.0.8‐beta, parameters: ‐‐threads 24
+‐‐confidence 0) to assign microbial taxonomic ranks to  non‐human
+RNA reads against the large reference database MiniKraken2 (April
+2019, 8 GB) built from the Refseq bacteria,  archaea,  and  viral
+libraries  and the h38 human genome. Bracken [40] (Bayesian Rees‐
+timation of Abundance with Kraken) was further applied  to  esti‐
+mate  microbial  relative  abundances based on taxonomic ranks of
+reads assigned by Kraken2.  Xiao et al. Genome Medicine Design of
+the  comparative  study  We sampled eight specimens from COVID‐19
+patients in February 2020, including  throat  swab,  nasal  swab,
+anal  swab,  and  sputum  specimens,  and the corresponding cycle
+threshold (Ct) value of SARS‐CoV‐2 qRT‐PCR boost the coverage and
+depth  of  the  viral genome by ultra‐deep metatranscriptomic se‐
+quencing with  an  average  sequencing  output  of  1,607,264,105
+paired‐end  complete  viral  genome assemblies for each specimen,
+the sequencing depth varied across specimens. Only 0.0020.003% of
+the  total reads were assigned to the SARS‐CoV‐2 in three samples
+(GZMU0014, GZM U0030, and GZMU0031) with Ct between  29  and  32,
+resulting  in  inferior  sequencing depth (less than 100) culture
+might improve the situation, but this requires high‐standard lab‐
+oratory  settings  and expertise apart from being time‐consuming.
+Also, unexpected mutations that are not concordant with  original
+clinical  samples may be introduced during the culturing process.
+To enrich adequate viral content for whole‐genome sequencing in a
+convenient  manner,  we  pursued two other methods: multiplex PCR
+amplification (amplicon) and hybrid capture (capture)  (Fig.  1).
+We  designed  a  systematic study to comprehensively validate the
+uniformity, sensitivity, and inter‐individual (variant)  and  in‐
+traindividual (iSNV) accuracy of multiple approaches by performed
+qRT‐PCR of 10‐fold serial dilutions (D1D7) of the  cultured  iso‐
+late, and the Ct was 17.3, 20.8, and 24.5 for 28.7, 31.8, 35, and
+39.9, respectively, indicating the undiluted RNA (D0) of the cul‐
+tured isolate contained ~ 1E+08 genome copies per milliliter. For
+amplicon sequencing, we utilized two kits comprising two sets  of
+primers  generating  PCR products of 300400 bp and 100200 bp, re‐
+spectively. The ~ 400 bp amplicon‐based sequencing was implement‐
+ed  in all samples and analyzed throughout the study, while the ~
+200 bp amplicon‐based sequencing was only applied in the cultured
+isolate for coverage analysis.  Comparison of uniformity and sen‐
+sitivity Theoretically, amplicon sequencing should  be  the  most
+sensitive  and  economical  method among the three and are highly
+related. Although, there are still potential  pitfalls,  for  in‐
+stance,  the  40‐cycle  PCR  in  our workflow might augment trace
+amounts of SARS‐CoV‐2 crosscontamination. To  ensure  the  confi‐
+dence  of  the datasets, we included serial dilutions of the cul‐
+tured isolate and negative controls prepared  from  nuclease‐free
+water and human nucleic acids since the 1st PCR. All samples in ~
+400 bp amplicon‐based sequencing exhibited > 99.5% coverage of  1
+depth across the SARS‐CoV‐2 genome except for 1E+01 (95.23%), GZ‐
+MU0031 (73.65%), HNA (6.17%), and water  (60.24%)  and  >  97.00%
+coverage of 100 depth across the SARS‐CoV‐2 genome except for GZ‐
+MU0030  (94.15%),  GZMU0042  (88.17%),  GZMU0014   (71.66%),   D7
+(39.49%),  GZMU0031 (0.00%), HNA (0.00%), and water (0.00%), sug‐
+gesting the primers were well designed and the positive  datasets
+were reliable (Fig. 3a). We also set stringent and method‐specif‐
+ic criteria to filter low‐confidence sequencing reads and samples
+based  on  a  set  of controls (see the Methods section). Another
+pitfall is that amplification across the genome can hardly be un‐
+biased, causing difficulties in complete genome assembly. Indeed,
+amplicon sequencing exhibited a lower level  of  uniformity  com‐
+pared  with  metatranscriptomic  sequencing, in terms of coverage
+across the viral genomes from the cultural isolate and the clini‐
+cal  samples  tested  in our study (Fig. 3b, d; Additional file 2
+Fig. S1). To our surprise, however, capture  Sample  ID  GZMU0047
+Nasal  swab Ct No. of sequencing read No. of SARS‐CoV‐2 read Per‐
+centage of SARS‐CoV‐2 read GZMU0016 Sputum  GZMU0048  Throat  GZ‐
+MU0044 Nasal swab GZMU0030 Throat GZMU0014 Sputum GZMU0042 Sputum
+GZMU0031 Anal swab Xiao et al. Genome Medicine Fig. 1 The general
+workflow of multiple sequencing approaches adopted in this study.
+We employed unique dual indexing  (UDI)  strategy  and  DNB‐based
+(DNA  nanoball)  PCR‐free  MPS platform to minimize index hopping
+and relevant sequencing errors [4143]. a  Amplicon‐based  enrich‐
+ment:  the UDI was integrated in the 2nd PCR. Navy, multiplex PCR
+primers. b Metatranscriptomic library preparations: the  UDI  was
+integrated in the adaptor ligation and universal PCR steps. c Li‐
+brary preparations and hybrid capture‐based enrichment:  the  UDI
+was integrated in the adaptor ligation and pre‐capture PCR steps.
+Ocher, ssDNA probes. Red and green lines  represent  adaptor  se‐
+quences; green dots represent phosphate groups sequencing was al‐
+most as uniform as meta sequencing, demonstrating better  perfor‐
+mance  than  the  previous capture method used to enrich ZIKV de‐
+spite that SARSCoV‐2 genome is ~ 3‐fold  larger  than  ZIKV  [44]
+(Fig. 3b, 120 ssDNA probes covering 2 of the SARS‐CoV‐2 genome to
+capture the libraries, and (2) we employed the DNBSEQ  sequencing
+technology  that  features  PCR‐free  rolling  circle replication
+(RCR) of DNA nanoballs The sequencing  results  of  amplicon  and
+capture  approaches  revealed  dramatic increases in the ratio of
+SARS‐CoV‐2 reads out of the total reads compared  with  meta  se‐
+quencing, suggesting the enrichment was highly efficient5596‐fold
+in capture method and 5710‐fold in sensitivity of different meth‐
+ods, we plotted the number of SARS‐CoV‐2 reads per million (SARS‐
+CoV‐2‐RPM) of total sequencing reads against the viral concentra‐
+tion for each sample. Meta sequencing produced significantly low‐
+er SARS‐CoV‐2‐RPM than the other two methods among clinical  sam‐
+ples tested with a wide range of Ct values (Fig. 3e). The produc‐
+tivity was similar between the other two methods when  the  input
+RNA  of  the  cultured  isolate contained 1E+05 genome copies per
+milliliter and above (Fig. 3e). However, amplicon sequencing pro‐
+duced 10‐ to 100‐fold more SARS‐CoV‐2 reads than capture sequenc‐
+ing when the input RNA concentration of the cultured isolate  was
+1E+04  genome  copies per milliliter and lower, suggesting ampli‐
+con‐based enrichment was more efficient  than  capture  for  more
+challenging  samples  (conc.  1E+04 genome copies per milliliter,
+or Ct  28.7) (Fig. 3e). Meta sequencingas  expectedproduced  dra‐
+matically  lower  SARS‐CoV‐2‐RPM Xiao et al. Genome Medicine Xiao
+et al. Genome Medicine Fig. 2 Overview of the study design. Eight
+clinical  samples and serial dilutions of a cultured isolate were
+subjected to direct metatranscriptomic library construction,  am‐
+plicon‐based enrichment, and hybrid capture‐based enrichment, re‐
+spectively. Libraries generated from each method were pooled, re‐
+spectively.  DNB,  DNA  nanoball. 14, GZMU0014; 16, GZMU0016; 30,
+GZMU0030; 31, GZMU0031; 42, GZMU0042; 44, GZMU0044; 47, GZMU0047;
+48, GZMU0048. D0, undiluted sample of the cultured isolate; D1D7,
+seven serial diluted samples of  the  cultured  isolate,  ranging
+from  1E+07 to 1E+01 genome copies per milliliter, in 10‐fold di‐
+lution. ‐, negative controls prepared  from  nuclease‐free  water
+and  human  nucleic acids. PE100, paired‐end 100‐nt reads; SE400,
+single‐end 100‐nt reads than the other two methods among clinical
+samples  tested  with a wide range of Ct values, whereas amplicon
+and capture were generally comparable to each  other  (Fig.  3f).
+Considering  the  costs for sequencing, storage, and analysis in‐
+crease substantially with larger datasets, we tried  to  estimate
+how  much  sequencing  data must be produced for each approach in
+order to achieve 10 depth across 95% of  the  SARS‐CoV‐2  genome,
+and the practical, cost‐effective guidance for future sequencing,
+we also assessed the minimum sequencing output required  to  pass
+the  stringent  filters ( 95% coverage and method‐specific depth,
+see the Methods section) in our pipelines corresponding  to  dif‐
+ferent  viral  loads. We estimated that for high‐confidence down‐
+stream analyses, amplicon sequencing requires at  least  2757  to
+186  megabases  (Mb) for samples containing 1E+02 to 1E+06 copies
+of SARS‐CoV‐2 genome per milliliter,  while  capture  frequencies
+detected  in  capture sequencing datasets were generally approxi‐
+mate to meta sequencing, while most allele frequencies in  ampli‐
+con  sequencing  datasets  deviated with those in meta sequencing
+(Fig. 4c). A similar pattern was shown for clinical samples,  in‐
+dicating  that  amplicon sequencing was unreliable of quantifying
+minor allele frequencies (Fig. 4d). Plotting  allele  frequencies
+against SARS‐CoV‐2 concentrations supported the above finding and
+further revealed that amplicon sequencing was unreliable  of  al‐
+lele  frequencies  at all concentrations while capture sequencing
+was reliable at > 1E+03 genome copies per milliliter  (Additional
+file  2  Fig.  S3).  Referring to the iSNV identified in clinical
+samples by meta sequencing, we then calculated the false positive
+rate  (FPR) of minor alleles called by amplicon and capture meth‐
+ods. The FPR of minor alleles identified in  amplicon  sequencing
+was  0.74%, while that in capture sequencing was 0.02%. Together,
+these results suggest amplicon sequencing was not as accurate  as
+capture  sequencing  in identifying minor alleles.  Investigation
+of inter‐ and intra‐individual variations Microbiome in  clinical
+samples To determine the accuracy of different approaches in dis‐
+covering  inter‐individual  genetic  diversity,  we  tested  each
+method  in  calling  the  single nucleotide variations (SNVs) and
+verified some of the SNVs with Sanger sequencing (Additional file
+2 Fig. S2). Two to five SNVs were identified within each clinical
+sample, and in all the seven  samples,  SNVs  identified  by  the
+three  methods were concordant except that capture missed one SNV
+at position 16535 in GZMU0014 (Fig. 4a). We then investigated the
+allele  frequencies  of these sites across methods and found that
+alleles identified by capture sequencing displayed lower frequen‐
+cies  than  the  other  two methods, especially for GZMU0014, GZ‐
+MU0030, and GZMU0042 where the viral load  was  lower  (Ct   29),
+which  explained  why  capture sequencing neglected an SNV in our
+pipeline when the cutoff of SNV calling was  set  as  80%  allele
+frequency (Fig. 4b). These data indicate that amplicon sequencing
+is more accurate than capture sequencing in identifying SNVs, es‐
+pecially for challenging samples.  To further determine the accu‐
+racy of different approaches in identifying SARS‐CoV‐2 iSNVs,  we
+examined minor allele frequencies in serial dilutions of the cul‐
+tured SARS‐CoV‐2 isolate and clinical samples. For  serial  dilu‐
+tions  of  the  cultured isolate, the minor allele In addition to
+target viral genome, metatranscriptomic sequencing has  also  al‐
+lowed  us  to  investigate RNA expression patterns of the overall
+microbiome and host distinguishing co‐infections, and  dissecting
+virus‐host  interactions. To explore the microbiota, we performed
+further metatranscriptomic analysis of the clinical samples.   We
+were  able  to identify host nucleic acids in all of the samples,
+and over 95% of total reads were from the host in sputum,  nasal,
+and  throat  samples (Additional file 2 Fig. S4a). Virus contrib‐
+uted to less than 5% of reads in anal swab and throat swab  while
+more  than  50%  of  reads  in nasal swab (Additional file 2 Fig.
+S4b). These results suggest nasal swab could be  the  most  ideal
+sample  type  for  viral  detection  among the four sample types,
+which agrees with recent clinical evidence [45]. Previous studies
+have  compared  different sample types of other coronaviruses na‐
+sopharyngeal aspirates and throat and nose swabs appear to be the
+most  useful  clinical  specimens  in the first 5 days of illness
+caused by SARS‐CoV infection [46] and nasal swabs are the  candi‐
+date  sample of choice for detecting MERS‐CoV using qRT‐PCR tech‐
+nology in apparently healthy camels [47].   Xiao  et  al.  Genome
+Medicine  Fig.  3  Sequencing  coverage and depth of the cultured
+isolate and eight clinical samples. a Amplicon sequencing  cover‐
+age  by sample (row) across the SARS‐CoV‐2 genome. Dark blue, se‐
+quencing depth  100; heatmap (bottom) sums  coverage  across  all
+samples. HNA, negative control prepared from human nucleic acids;
+water, negative control prepared from nuclease‐free water.  Green
+horizontal  lines on heatmap, amplicon locations. Overlap regions
+between amplicons range from 59 to 209 bp. bd Normalized coverage
+across  viral  genomes  of the clinical samples across methods. e
+SARS‐CoV‐2‐RPM sequence plotted against genome copies per  milli‐
+liter  for  the  cultured  isolate. Three independent experiments
+were performed for amplicon sequencing. Dark blue, ~ 400  bp  am‐
+plicon‐based  sequencing including human and lambda phage nucleic
+acid background; soft blue, ~ 200 bp  amplicon‐based  sequencing;
+fluorescent  cyan,  ~  400 bp amplicon‐based sequencing excluding
+human and lambda phage nucleic acid background (NAB);  red,  cap‐
+ture  sequencing;  grey, meta sequencing. f SARS‐CoV‐2‐RPM (reads
+per million) sequence plotted against qRT‐PCR Ct  value  for  the
+clinical  samples. Dark blue, amplicon; red, capture; grey, meta.
+g Estimated minimum amount of bases required by each  method  for
+high‐confidence  downstream  analyses.  Dark blue, amplicon; red,
+capture Among the viral reads, over 90% were Coronaviridae, which
+is  consistent  with clinical diagnostics (Additional file 2 Fig.
+S4c). Reads from other viruses were also  identified,  indicating
+further  measurements  could  be taken to confirm if co‐infection
+exists (Additional file 2 Fig. S4). Bacterial composition was al‐
+so  shown,  providing support for scientific research, as well as
+for further confirmation of bacterial infection  and  antibiotics
+prescription  (Additional file 2 Fig. S4d‐f).  Guidance for virus
+sequencing Taken together, each sequencing scheme elaborated here
+a  reasonable, cost‐effective strategy for sequencing and analyz‐
+ing SARS‐CoV‐2 under different situations: (1) if  one  wants  to
+study  other  genetic  materials  than the target viruses, or the
+viruses become highly diversified via recombinational events,  or
+the  viral load within the Xiao et al. Genome Medicine Fig. 4 Be‐
+tween‐sample and within‐sample variants  of  SARS‐CoV‐2  detected
+across  methods. a SNVs detected between clinical samples against
+a reference genome (GISAID accession: EPI_ISL_402119) [27]. Alle‐
+les  with   80% frequencies were called. *SNVs verified by Sanger
+sequencing. b Allele frequencies of  the  identified  SNVs.  Dark
+blue,  amplicon;  red, capture; grey, meta. Minor allele frequen‐
+cies detected in serial dilutions of the cultured isolate (c) and
+clinical samples (d) across methods. Dark blue, amplicon vs meta;
+red, capture vs meta. Minor alleles are defined with 5% and < 50%
+frequencies.  Besides  general  quality filter, iSNVs had to pass
+depth and strand bias filter as described in the Methods  section
+Hybrid  capture‐based Multiplex PCR amplicon‐based Sequencing ob‐
+jective Microbiome + human Target genome Target genome 2nd strand
+synthesis  Library  preparation  Estimated  time for library con‐
+struction Oligo synthesis Estimated cost per sample (USD)a  Esti‐
+mated  minimum  data  for  downstream  analyses  The price varies
+greatly with different sequencing output and in different regions
+Xiao  et  al.  Genome  Medicine  RNA  sample is high (e.g., conc.
+1E+05 viral genome copies per milliliter, or Ct  24.5), meta  se‐
+quencing can be prioritized; (2) if one focuses on intra‐individ‐
+ual variations for more challenging samples (e.g., conc. <  1E+05
+and  > 1E+03 viral genome copies per milliliter, or Ct > 24.5 and
+< 31.8), capture sequencing seems to be a justified  choice;  and
+(3) if identifying SNVs is the main purpose, the most convenient,
+economical strategy would be amplicon sequencing that can support
+analyses  of  samples  containing  lower  than 1E+05 viral genome
+copies per milliliter, or Ct > 24.5.  Sequencing low‐titer virus‐
+es  directly from clinical samples is challenging, especially for
+coronaviruses that are the largest among RNA  viruses  (~  3‐fold
+larger  compared with ZIKV). Isolating viruses and enriching them
+in cell culture require high‐standard laboratory settings and ex‐
+pertise  apart  from being time‐consuming. The enrichment methods
+presented here have several  advantagesto  different  degreesover
+the other existing protocols [48, 49]. Firstly, the multiplex PCR
+protocol for ZIKV sequencing [48] and the Artic Network  protocol
+for  SARS‐CoV‐2 sequencing [49] require library preparation after
+PCR. Our amplicon method is more convenient since  the  barcoding
+and  adaptor  ligation steps are integrated into the PCR process;
+in other words, the PCR products are the  library.  Secondly,  we
+adopt  a set of controls to help us quantify viral load and iden‐
+tify potential contamination. During library construction for am‐
+plicon sequencing, each sample was mixed with standard lambda ge‐
+nomic DNA (external control), and the external  control  and  the
+SARS‐CoV‐2 genomes are amplified at the same time. After sequenc‐
+ing, the viral load of SARS‐CoV‐2 is quantified based on the data
+from  both external control and the target virus. We define a C =
+target viral load/(target viral load +  external  control  load),
+and  a  C  > 0.1% of negative groups (prepared from human nucleic
+acids and value of the sample is an  order  of  magnitude  higher
+than  that of negative groups, for instance, if C < 0.01% for all
+negative controls and C > 0.1% for an experimental group.  Final‐
+ly,  our work is the first that focuses around the use of BGI and
+MGI materials and platforms while previous protocols were  mainly
+designed  for  Illumina  or  Oxford  Nanopore Technologies (ONT).
+Compared with direct metatranscriptomic sequencing,  hybrid  cap‐
+ture  and amplicon sequencing methods are more sensitive but less
+accurate and neither of the two can be used  to  sequence  highly
+diverse or recombinant viruses because the primers and probes are
+specific to known viral  genomes.  Although  amplicon  sequencing
+compromises its accuracy, it becomes the most convenient and eco‐
+nomical method of all. Either or a combination of the  approaches
+described  here  can  be chosen to cope with various needs of re‐
+searchers, e.g., metatranscriptomic sequencing data with insuffi‐
+cient  coverage  and depth can be pooled with hybrid capture data
+to generate high‐quality assemblies [44]. From the perspective of
+virologists who conduct genomic studies of SARS‐CoV‐2, one dilem‐
+ma is that there is  hardly  any  standard  of  which  sequencing
+method should be chosen for different samples or research purpos‐
+es. Clinical specimens are precious, and it is unlikely  to  test
+each  method on them. Of course, time and cost are also important
+factors that are needed to  be  considered.  Therefore,  in  this
+work, we systematically examined the advantages and disadvantages
+of each method using different samples and  proposed  a  guidance
+for  rationally  choosing  the Moreover, we estimated the minimum
+sequencing output  required  for  different  samples  using  each
+method.  This is another frequently encountered question, because
+larger output requires higher sequencing expenses, larger storage
+space, and more computing resources.  The most cost‐effective way
+is to generate the minimum amount of data needed  for  downstream
+analyses. Our work provides practical help for researchers to es‐
+timate how much data is necessary, although it varies with exper‐
+imental  procedures  (e.g., total RNA extraction, rRNA depletion)
+and sample types (e.g., nasal swab typically requires  less  data
+than  other  sample types), and thus should be determined case by
+case.  Some advantages and disadvantages described above might be
+specific  to  the  experimental workflows and bioinformatic pipe‐
+lines presented in the current work, for instance, (1)  the  uni‐
+formity  of  amplicon  sequencing can be improved by reducing the
+amount of cycles in the 1st PCR to 13 while  increasing  that  in
+the  2nd PCR to 17 or increasing the molar ratios of primers tar‐
+geting the region with low coverage, e.g., genomic position 16965
+17246;  (2)  the  amplicon  sequencing is particularly convenient
+compared with previous counterparts since the standard fragmenta‐
+tion and library construction steps are omitted here by integrat‐
+ing adaptor and barcode ligation in the 2nd  PCR  and  sequencing
+the  amplicons using single‐end 400 nt reads; (3) using less than
+506 pieces of 120 ssDNA probes in hybrid  capture  may  attenuate
+the  sequencing coverage while decrease the uniformity; (4) meta‐
+transcriptomic  sequencing  was  conducted  with  an  ultra‐high‐
+throughput  sequencing  platform  so that the successful rate was
+substantially higher than usual; and (5) the  minimal  amount  of
+data  necessary for analyzing the SARS‐CoV‐2 genome from clinical
+samples across methods can be deviated from that predicted by da‐
+ta  from  the  cultured  isolate, and this was Xiao et al. Genome
+Medicine possibly due to the fact that  nucleic  acid  background
+from  the  host and other microbes varies (Additional file 2 con‐
+sider the time spent in sequencing since  the  workflows  can  be
+easily  adapted  to various platforms including Illumina and ONT,
+besides DNBSEQ of MGI.  All three methods can effectively  obtain
+SARS‐CoV‐2  genome  information  from clinical samples and can be
+used to study genome variations of the virus. However, the sensi‐
+tivity, accuracy, and cost of the three methods vary greatly, and
+thus, each method must be rationally chosen to cope with  differ‐
+ent  research  purposes and different clinical samples. This work
+offers practical guidance for genome sequencing and  analyses  of
+SARSCoV‐2  and  other  emerging viruses.  Additional file 2: Fig.
+S1. Normalized coverage across SARS‐CoV‐2 genomes of serial dilu‐
+tions  of  the cultured isolate sequenced by multiple approaches.
+Fig. S2. Sanger sequencing results of SNVs in  clinical  samples.
+Fig. S3. Box‐plot of allele frequencies against SARS‐CoV‐2 genome
+of serial dilutions of the cultured isolate and eight  SARS‐CoV‐2
+positive  sequencing data summary of serial dilutions of the cul‐
+tured isolate and eight SARS‐CoV‐2 positive clinical samples col‐
+lected  from  Guangzhou required to achieve high‐confidence vari‐
+ants calling analyses for different MPS: Massively  parallel  se‐
+quencing;  COVID‐19:  Coronavirus  disease 2019; SARS‐CoV: Severe
+acute respiratory syndrome  coronavirus;  MERS‐CoV:  Middle  East
+respiratory  syndrome  coronavirus;  BALF: Bronchoalveolar‐lavage
+fluid; HAE: Human airway epithelial; iSNV: Intra‐individual  sin‐
+gle  nucleotide variation; Ct: Cycle threshold; RCR: Rolling cir‐
+cle replication; DNB: DNA nanoball; RPM: Reads per million;  UDI:
+Unique  dual indexing; HNA: Human nucleic acid; NAB: Nucleic acid
+background We attribute this work to the amazing people  in  this
+land  who  dedicate  themselves  to the battle of mankind against
+viruses. The sequencing of this work was supported by  China  Na‐
+tional  GeneBank. We appreciate all the J.L., W.C., and M.X. con‐
+ceived the project. X.L., J. Z, Y.W., and Y.L. sampled  and  pro‐
+cessed  the  clinical  specimen.  M.X., Ji.L., M.L., and J.L. de‐
+signed the experiments. L.Y. and Y.Z. developed the multiplex PCR
+amplicon‐based  sequencing  method. M.L., Ji.L., Y. L, P.R. W.S.,
+G.Y., and T.C. performed the multiplex PCR and amplicon  sequenc‐
+ing. Ji.L. and P.R. performed the metatranscriptomic library con‐
+struction and hybrid capture experiments. J.J., M. L, W.S., T.L.,
+H.R.,  and  H.Z.  processed the sequencing data and conducted the
+bioinformatic analyses. J.L., M.X. H.Z., J.J., M.L., and W.S. in‐
+terpreted  the  This  work  is funded by the National Science and
+Technology Major Project of China (no. 2017ZX10303406);  the  Na‐
+tional  Major  Project  for  Control and Prevention of Infectious
+Disease in China (2018ZX10301101‐004); the emergency  grants  for
+prevention  and  control of SARS‐CoV‐2 of Ministry of Science and
+Technology  (2020YFC0841400)  and   Guangdong   province,   China
+(2020B111107001,  2020B111108001,  2018B020207013); the Guangdong
+Provincial  Key  Laboratory  of  Genome  Read  and   Write   (no.
+2017B030301011); the Guangdong Provincial Academician Workstation
+of BGI Synthetic Genomics (no. 2017B090904014); and the  Shenzhen
+Engineering Laboratory for Innovative Molecular Diagnostics (DRC‐
+SZ [2016]884).  Availability of data and materials The data  that
+support the findings of this study have been deposited into CNGB‐
+db with project IDs CNP0000951 [50]  and  CNP0000955  [51];  into
+numbers     EPI_ISL_414663,    EPI_ISL_414686,    EPI_ISL_414687,
+EPI_ISL_414688, EPI_ISL_414689,  EPI_ISL_414690,  EPI_ISL_414691,
+and  EPI_ISL_414692  [52];  and  into NCBI with accession numbers
+MT568634,  MT568635,  MT568636,  MT568637,  MT568638,   MT568639,
+MT568640,  MT568641  [53]  and PRJNA637515 [54]. The software and
+parameters used in data analyses Ethics approval and  consent  to
+participate  Informed  consent was obtained from all participants
+enrolled in studies at study conformed to the principles  of  the
+Declaration of Helsinki. The IRB of BGI‐Shenzhen approved the se‐
+quencing and downstream analyses  of  samples  collected  by  the
+aforementioned  institution  under ethical clearance no.  Consent
+for publication Not applicable Competing  interests  L.Y.,  Y.Z.,
+F.C.,  and  X.X. have applied for a patent relating to the ampli‐
+conbased method, and the details can be found below:  PCR  primer
+pair  and application thereof Patent applicant: MGI Tech Co., Ltd
+Name of inventor(s): Lin Yang,  Ya  Gao,  Guodong  Huang,  Yicong
+Wang,  Yuqian Wang, Yanyan Zhang, Fang Chen, Na Zhong, Hui Jiang,
+Xun Xu Application number: PCT/CN2017/089195 BGI‐Shenzhen,  Shen‐
+zhen  518083, China. 2Shenzhen Key Laboratory of Unknown Pathogen
+Identification, BGI‐Shenzhen, Shenzhen 518083, China.  State  Key
+Laboratory  of Respiratory Disease, National Clinical Research of
+Sciences, Shenzhen 518083, China.  6MGI,  BGI‐Shenzhen,  Shenzhen
+518083, China. 9BGI PathoGenesis Pharmaceutical Technology, Shen‐
+zhen, China.  Guangdong Provincial Key Laboratory of Genome  Read
+and Write, BGI‐Shenzhen, Shenzhen 518120, China. 12Shenzhen Engi‐
+neering Laboratory for  Innovative  Molecular  Diagnostics,  BGI‐
+Shenzhen, Shenzhen 518120, China.  Xiao et al. Genome Medicine 1.
+WHO: Coronavirus disease  (COVID‐2019)  situation  report  ‐  54.
+World  Health 2. Dudas G, Carvalho LM, Bedford T, Tatem AJ, Baele
+G, Faria NR, Park DJ, Ladner JT, Arias A, Asogun D, et al.  Virus
+genomes  reveal  factors that spread and sustained the Ebola epi‐
+demic. Nature. 2017;544:30915.  3. Dudas G, Carvalho LM,  Rambaut
+A,  Bedford  T. Correction: MERS‐CoV spillover at the camel‐human
+interface. Elife. 2018;7.  4. Gardy JL, Loman NJ. Towards  a  ge‐
+nomics‐informed,  real‐time,  global 5. Gire SK, Goba A, Andersen
+KG, Sealfon RS, Park DJ, Kanneh L, Jalloh S, Momoh M,  Fullah  M,
+Dudas  G, et al. Genomic surveillance elucidates Ebola virus ori‐
+gin and transmission during the 2014 outbreak. Science. 2014;345:
+6.  Grubaugh  ND,  Ladner  JT, Kraemer MUG, Dudas G, Tan AL, Gan‐
+gavarapu K, Wiley MR, White S, Theze J, Magnani DM, et al. Genom‐
+ic epidemiology reveals multiple introductions of Zika virus into
+the United States. Nature.  7. Sabir JS, Lam TT, Ahmed MM, Li  L,
+Shen  Y,  Abo‐Aba SE, Qureshi MI, AbuZeid M, Zhang Y, Khiyami MA,
+et al. Co‐circulation of three camel coronavirus species and  re‐
+combination of MERS‐CoVs in Saudi Arabia.  8. Lu R, Zhao X, Li J,
+Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, et  al.  Ge‐
+nomic  characterisation  and  epidemiology  of  2019 novel coron‐
+avirus: implications for  virus  origins  and  receptor  binding.
+Lancet.  9. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X,
+Huang B, Shi W, Lu R, et al. A novel  coronavirus  from  patients
+with  pneumonia  in  China,  2019.  N Engl J Med. 2020;382:72733.
+10. Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR,  Zhu
+Y,  Li B, Huang CL, et al. A pneumonia outbreak associated with a
+new coronavirus of probable bat  origin.  Nature.  2020;579:2703.
+11.  Wu  F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, Hu Y, Tao ZW,
+Tian JH, Pei YY, et al. A new coronavirus associated  with  human
+respiratory  disease in China. Nature. 2020.  12. Drosten C, Chiu
+LL, Panning M, Leong HN, Preiser W, Tam JS, Gunther S, Kramme  S,
+Emmerich  P,  Ng  WL, et al. Evaluation of advanced reverse tran‐
+scription‐PCR assays and an alternative PCR target region for de‐
+tection  of  severe  acute respiratory syndrome‐associated coron‐
+avirus. J Clin 13. Jonsdottir HR, Dijkman  R.  Coronaviruses  and
+the  human  airway: a universal system for virus‐host interaction
+studies. Virol J. 2016;13:24.  14. Chan JF, Yuan S,  Kok  KH,  To
+KK,  Chu  H, Yang J, Xing F, Liu J, Yip CC, Poon RW, et al. A fa‐
+milial cluster of pneumonia associated with the 2019 novel coron‐
+avirus  indicating  person‐to‐person  transmission:  a study of a
+family cluster. Lancet. 2020;395:51423.  15. Holshue  ML,  DeBolt
+C,  Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C, Ericson
+K, Wilkerson S, Tural A, et al. First case of 2019  novel  coron‐
+avirus  in the United States. N Engl J Med. 2020(382):92936.  16.
+McCrone JT, Woods RJ, Martin ET, Malosh RE, Monto AS, Lauring AS.
+Stochastic processes constrain the within and between host evolu‐
+tion of influenza virus. Elife. 2018;7:e35962.  17. Ni M, Chen C,
+Qian  J,  Xiao  HX, Shi WF, Luo Y, Wang HY, Li Z, Wu J, Xu PS, et
+al.  Intra‐host dynamics of Ebola virus during 2014. Nat Microbi‐
+ol.  2016;1:16151.  18. Park DJ, Dudas G, Wohl S, Goba A, Whitmer
+SL, Andersen KG, Sealfon RS, Ladner JT, Kugelman JR, Matranga CB,
+et al. Ebola virus epidemiology, transmission, and evolution dur‐
+ing seven months in Sierra  Leone.  Cell.  2015;161:151626.   19.
+Domingo  E,  Sheldon  J, Perales C. Viral quasispecies evolution.
+Microbiol Mol Biol Rev. 2012;76:159216.  20.  Wood  DE,  Salzberg
+SL.  Kraken:  ultrafast metagenomic sequence classification using
+exact alignments. Genome Biol. 2014;15:R46.  21. Chen S, Zhou  Y,
+Chen Y, Gu J. fastp: an ultra‐fast all‐in‐one FASTQ preprocessor.
+Bioinformatics. 2018;34:i88490.  22. Chen Y, Chen Y, Shi C, Huang
+Z,  Zhang  Y,  Li  S, Li Y, Ye J, Yu C, Li Z, et al.  SOAPnuke: a
+MapReduce acceleration‐supported software for integrated  quality
+control  and  preprocessing  of  high‐throughput sequencing data.
+23. Schmieder R, Edwards R. Quality control and preprocessing  of
+metagenomic  datasets.  Bioinformatics. 2011;27:8634.  24. Au CH,
+Ho DN, Kwong A, Chan TL, Ma  ESK.  BAMClipper:  removing  primers
+from  alignments to minimize false‐negative mutations in amplicon
+nextgeneration sequencing. Sci Rep. 2017;7:1567.   25.  Bankevich
+A,  Nurk  S, Antipov D, Gurevich AA, Dvorkin M, Kulikov AS, Lesin
+VM, Nikolenko SI, Pham S, Prjibelski AD, et  al.  SPAdes:  a  new
+genome assembly algorithm and its applications to single‐cell se‐
+quencing. J Comput 26. Walker BJ, Abeel  T,  Shea  T,  Priest  M,
+Abouelliel  A,  Sakthikumar S, Cuomo CA, Zeng Q, Wortman J, Young
+SK, Earl AM. Pilon: an integrated tool for  comprehensive  micro‐
+bial variant detection and genome assembly improvement. PLoS One.
+2014;9:e112963.  27. Tan W, Zhao X, Wang W, Ma X, Jiang Y, Lu  R,
+Wang  J,  Zhou  W,  Niu  P,  Liu  P,  et  al. hCoV‐19/Wuhan/IVDC‐
+HB‐01/2019. GISAID Accession: EPI_ISL_402119.  28. Li  H,  Durbin
+R.  Fast  and  accurate  short read alignment with BurrowsWheeler
+transform. Bioinformatics. 2009;25:175460.  29. Li  H,  Handsaker
+B,  Wysoker  A,  Fennell T, Ruan J, Homer N, Marth G, Abecasis G,
+Durbin R. 1000 Genome Project Data Processing Subgroup.  The  se‐
+quence   alignment/map   format   and  SAMtools.  Bioinformatics.
+2009;25:20789.  31. R Core Team. R: A  language  and  environment
+for  statistical  computing. R org/. Accessed 5 July 2019.  pack‐
+ages/pheatmap. Accessed 4 Jan 2019.  34.  Garrison  E,  Marth  G.
+Haplotype‐based  variant  detection  from  short‐read sequencing.
+arXiv:1207.3907v2 [q‐bio.GN]. Accessed 20 July  2012.   36.  Cin‐
+golani P, Platts A, Wang le L, Coon M, Nguyen T, Wang L, Land SJ,
+Lu X, Ruden DM. A program for annotating and predicting  the  ef‐
+fects  of  single  nucleotide  polymorphisms, SnpEff: SNPs in the
+genome of Drosophila melanogaster strain w1118; iso‐2; iso‐3. Fly
+(Austin).  2012;6(2):8092.  37. Li R, Yu C, Li Y, Lam TW, Yiu SM,
+Kristiansen K, Wang J. SOAP2:  an  improved  ultrafast  tool  for
+short  read alignment. Bioinformatics. 2009;25:19667.  38. Kim D,
+Paggi JM, Park C, Bennett  C,  Salzberg  SL.  Graph‐based  genome
+alignment  and genotyping with HISAT2 and HISAT‐genotype. Nat 39.
+Wood DE, Lu J, Langmead B.  Improved  metagenomic  analysis  with
+Kraken  2.  Genome  Biol. 2019;20:257.  40. Lu J, Breitwieser FP,
+Thielen P, Salzberg SL. Bracken: estimating  species  41.  Li  Q,
+Zhao  X, Zhang W, Wang L, Wang J, Xu D, Mei Z, Liu Q, Du S, Li Z,
+et al.  Reliable multiplex sequencing with rare index mis‐assign‐
+ment  on  DNBbased  NGS platform. BMC Genomics. 2019;20:215.  42.
+Xia Z, Jiang Y, Drmanac R, Shen H, Liu P, Li Z, Chen F, Jiang  H,
+Shi  S,  Xi Y.  Advanced whole genome sequencing using a complete
+PCR‐free massively 43. Kircher M, Sawyer S, Meyer M.  Double  in‐
+dexing  overcomes inaccuracies in multiplex sequencing on the Il‐
+lumina platform. Nucleic Acids Res. 2012;40: 44. Metsky  HC,  Ma‐
+tranga  CB, Wohl S, Schaffner SF, Freije CA, Winnicki SM, West K,
+Qu J, Baniecki ML, Gladden‐Young A, et al. Zika  virus  evolution
+and  spread  in  the Americas. Nature. 2017;546:4115.  45. Zou L,
+Ruan F, Huang M, Liang L, Huang H, Hong Z, Yu J, Kang M, Song  Y,
+Xia  J,  et al. SARS‐CoV‐2 viral load in upper respiratory speci‐
+mens of infected patients. N Engl  J  Med.  2020;382:11779.   46.
+Chan KH, Poon LL, Cheng VC, Guan Y, Hung IF, Kong J, Yam LY, Seto
+WH, Yuen KY, Peiris JS. Detection of SARS coronavirus in patients
+with  suspected SARS. Emerg Infect Dis. 2004;10:2949.  47. Mohran
+KA, Farag EA, Reusken CB, Raj VS, Lamers MM, Pas SD, Voermans  J,
+Smits  SL, Alhajri MM, Alhajri F, et al. The sample of choice for
+detecting Middle East respiratory syndrome coronavirus in  asymp‐
+tomatic  dromedary  camels  using  real‐time reversetranscription
+polymerase chain reaction. Rev Sci Tech. 2016;35:90511.  Xiao  et
+al.  Genome  Medicine  48. Quick J, Grubaugh ND, Pullan ST, Claro
+IM, Smith AD,  Gangavarapu  K,  Oliveira  G,  Robles‐Sikisaka  R,
+Rogers TF, Beutler NA, et al. Multiplex PCR method for MinION and
+Illumina sequencing of Zika and other virus genomes directly from
+clinical    samples.    Nat   Protoc.   2017;12:126176.    proto‐
+cols.io.bdp7i5rn. Accessed 9 Apr  2020.   50.  Zhao  J,  Wang  Y.
+COVID‐19‐Project‐1‐the     First     Affiliated    Hospital    of
+cngb.org/search/project/CNP0000951/. CNGB Sequence  Archive.  Ac‐
+cessed  51.  Ji J. Multiple approaches for massively parallel se‐
+quencing of HCoV‐19 cngb.org/search/project/CNP0000955/. Accessed
+3 Apr 2020.  52. Zhao J, Wang Y. hCoV‐19/Guangzhou. GISAID Acces‐
+sion: EPI_ISL_414663, epi3/. Accessed 16 Mar 2020.  53.  Zhao  J,
+Wang Y, Li M. Multiple approaches for massively parallel sequenc‐
+ing of HCoV‐19 (SARS‐CoV‐2) genomes directly from  clinical  sam‐
+ples.  GenBank:  Accessed  5  June  2020.  54. Ji J. Multiple ap‐
+proaches for massively parallel sequencing of SARS‐CoV‐2 samples.
+BioProject Accession: PRJNA637515. NCBI Sequence Read Archive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

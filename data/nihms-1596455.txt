@@ -1,947 +1,1056 @@
-Predictions, role of interventions and effects of a historic
-national lockdown in India’s response to the COVID-19
-pandemic: data science call to arms
-Debashree Ray1,2,*, Maxwell Salvatore3,4,*, Rupam Bhattacharyya3, Lili Wang3, Jiacong
-Du3,4, Shariq Mohammed3,5, Soumik Purkayastha3, Aritra Halder6, Alexander Rix3,4, Daniel
-Barker3, Michael Kleinsasser3, Yiwang Zhou3, Debraj Bose3, Peter Song3, Mousumi
-Banerjee3,8, Veerabhadran Baladandayuthapani3, Parikshit Ghosh7, Bhramar
-With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national
-lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this
-paper was completed, and then to May 18 while this paper was being revised. In this paper, we use
-a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention
-forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total
-number of COVID-19 infections in India compared to other less severe non-pharmaceutical
-interventions. We compare effects of hypothetical durations of lockdown on reducing the number
-of active and new infections. We find that the lockdown, if implemented correctly, can reduce the
-total number of cases in the short term, and buy India invaluable time to prepare its healthcare and
-disease-monitoring system. Our analysis shows we need to have some measures of suppression in
-place after the lockdown for increased benefit (as measured by reduction in the number of cases).
-A longer lockdown between 42–56 days is preferable to substantially “flatten the curve” when
-J.D., S.M. and S.P. analyzed the data. B.M. participated in funding acquisition, investigation and provided resources. L.W., P.S. and
-B.M. developed the methodology. M.S. and B.M. administered the project. M.S., A.R., D.B. and M.K. created the software/app. M.B.,
-V.B., P.G. and B.M. supervised the study. D.R., M.S., R.B., L.W., A.R., M.K. and B.M. helped in the visualization. D.R., M.S., R.B.,
-Ray et al.
-compared to 21–28 days of lockdown. Our models focus solely on projecting the number of
-COVID-19 infections and, thus, inform policymakers about one aspect of this multi-faceted
-decision-making problem. We conclude with a discussion on the pivotal role of increased testing,
-reliable and transparent data, proper uncertainty quantification, accurate interpretation of
-forecasting models, reproducible data science methods and tools that can enable data-driven
-policymaking during a pandemic. Our software products are available at covind19.org.
-Basic reproduction number; Coronavirus; Credible interval; India; Intervention forecasting; SIR
-Four months since the first case of COVID-19 in Wuhan, China, the SARS-CoV-2 virus has
-engulfed the world and has been declared a global pandemic (“WHO Director-General’s
-Opening Remarks at the Media Briefing on COVID-19 – 11 March 2020,” 2020). The
-number of confirmed cases worldwide stands at a staggering 1,930,780 (as of 9:20 AM EST
-April 14, 2020, Microsoft bing coronavirus tracker (Microsoft bing COVID-19 tracker)). Of
-a population of 1.34 billion (compare China at 1.39 billion and USA at 325.7 million)
-(World Bank). India has been vigilant and early in instituting strong public health
-interventions including sealing the borders with travel ban/canceling almost all visas, closing
-March 24, India took the historic decision of a 21-day national lockdown starting March 25,
-when it had reported only 536 COVID-19 cases and 11 fatalities. In the subsequent days, we
-have seen a steady growth in the number of new cases and fatalities, with growth rates
-slower than other affected countries but in 21 days, the curve has not yet “turned the corner”
-forecasting models in this paper use data up to April 14 with the premise of a 21-day
-lockdown in place. The lockdown was further extended to May 3, soon after the analysis of
-this paper was completed. The lockdown was again extended to May 18 while this paper was
-being revised, thus entailing almost an 8-week lockdown period.
-While India seems to have done relatively well in controlling the number of confirmed cases
-missing or unknown component in this assessment: “The number of truly affected cases,”
-which depends on the extent of testing, the accuracy of the test results and, in particular, the
-frequency and scale of testing of asymptomatic cases who may have been exposed. The
-frequency of testing has been low in India. According to the Indian Council of Medical
-Research (ICMR), only 229,426 subjects have been tested as of April 14 (<0.03% of the
-population) (Indian Council of Medical Research, 2020). When there is no approved vaccine
-or drug for treating COVID-19, entering phase 2 or phase 3 of escalation will have
-devastating consequences on both the already overstretched healthcare system of India, and
-Ray et al.
-US or Italy, COVID-19 enters gradually and then explodes suddenly.
-reference. The estimated capacity of hospital beds in India is 70 per 100,000 (Hospital Beds
-(per 1,000 People), 2020), which is an upper bound on treatment capacity. Given an average
-occupancy rate of 75%, only a quarter of these are available (Sindhu et al. 2019). Moreover,
-critically ill COVID-19 patients (about 5–10% of those infected) will require ICU beds and
-ventilator support. India has only 35–58 thousand ICU beds with very high occupancy rates
-and at most 1 ventilator per 2 ICU beds (Times of India). In order to roll out interventions
-and plan for healthcare infrastructure, robust projection models for outcomes of interest are
-necessary. There are many outcomes that are of potential interest to policymakers; for
-example: how many infected cases will be hospitalized? How many will be admitted to the
-ICU? How many patients will need ventilators? And, finally, what will be the mortality due
-to COVID-19 infections? We focus on the number of active cases as our target of prediction
-due to the limited data from India on the other outcomes. From other nations we know that
-roughly 20% of infections will probably need hospitalization (Root, 2020) and 5% will need
-ICU admission (Guan et al., 2020), and case-fatality rates vary between 1–5% (Oke &
-Henegan, 2020). This may provide crude estimates of other outcomes from case-count
-analyze the COVID-19 case-count data from India. The approaches for modeling the disease
-transmission and then forecasting the number of cases at a future time can be broadly
-categorized into two genres: exponential/Poisson type models, and compartmental
-epidemiologic models. For instance, Ranjan (2020) and Gupta and Shankar (2020) used the
-classical exponential model, S. Das (2020) used a Poisson regression model while Deb and
-Majumdar (2020) used an auto-regressive moving average model to analyze incidence
-pattern over time. The compartmental epidemiologic models include variations of the
-susceptible-infected-removed (SIR) model, which is guided by a set of differential equations
-relating the number of susceptible people, the number of infected people (cases) and the
-number of people who have been removed (either recovered or dead) at any given time. This
-simple SIR model has been used by Ranjan (2020) and Dhanwant and Ramanathan (2020).
-Singh and Adhikari (2020) used an age-structured SIR and social contact model, where an
-SIR model is assumed in each age category. Another extension of the SIR model is the SEIR
-model that incorporates an additional compartment of truly exposed people that is a latent
-variable. Mandal et al. (2020), Chatterjee et al. (2020), Sardar et al. (2020) and Senapati et
-al. (2020) used one or the other variation of the SEIR model. For example, Sardar et al.
-(2020) used an extra compartment for lockdown to capture in-home isolation and study the
-these existing models for India.
-primary forecasting objectives: (a) Forecasting future case-counts (short term and long term)
-with different forms of suppression measures in place (post lockdown) (b) Studying the
-Ray et al.
-relative impact of length/duration of a lockdown on our predictions of cumulative
-COVID-19 infections. We carry out extensive sensitivity analysis to assess the robustness of
-our forecasting models. We conclude with a discussion regarding the need for reliable casecount data, increased testing, the importance of uncertainty quantification of the projected
-case-counts, and transparent data science methods that can inform and influence
-Medium studying pre (Ray et al., 2020), during (Salvatore, Wang, et al., 2020) and post
-(Salvatore, Ray, et al., 2020) lockdown effects, providing critical information for
-policymakers and having an extensive reach (Reuters (Ghosal, 2020), Times of India (P. Das,
-2020), The Guardian (Ellis-Petersen, 2020), The Economic Times (Noronha, 2020)), an
-interactive and dynamic RShiny app that daily updates forecasts as new case counts are
-reported, and publicly available codes for reproducible research.
-The rest of the paper is organized as follows. In Section 2 we describe the structure of the
-eSIR model, our parameter choices and the Bayesian computational algorithm. In Section 3
-we present results from analyzing the data from India that include a sensitivity analysis. We
-assess how our forecasting model updates itself with more accrual of data over time. In
-Section 4 we provide an itemized discussion of some of the salient data and data science
-issues related to intervention forecasting and case-count projections. Section 5 presents a
-brief conclusion.
-Methods and Notation
-Study design and data source
-We used the current daily data on number of COVID-19 infected cases, recoveries and
-deaths in India to predict the number of infected and removed cases at any given time (L.
-Wang et al., 2020). We obtained the data (up to April 14) from the 2019 Novel Coronavirus
-Engineering (JHU CSSE) and from covid19india.org (covid19india, 2020; Dong et al., 2020;
-Our statistical model for predictions
-Overview—The standard SIR model was recently extended to incorporate time-varying
-transmission rates or time-varying quarantine protocols and is known as the extended SIR
-(eSIR) model (L. Wang et al., 2020). When using the eSIR model with time-varying disease
-transmission rate, it can depict a series of time-varying changes caused by either external
-variation like government-initiated macro isolation measures, community-level protective
-measures and environment changes, or internal variations like mutations and evolutions of
-the pathogen. To implement the eSIR model, a Bayesian hierarchical framework is assumed.
-Using the current time series data on the proportions of infected and the removed people, a
-Markov chain Monte Carlo (MCMC) implementation of this Bayesian model provides not
-only posterior estimation of parameters and prevalence of all the three compartments in the
-SIR model, but also predicted proportions of the infected and the removed people at future
-Ray et al.
-time points. The R package for implementing this general model for understanding disease
-Mathematical framework of the eSIR model—The eSIR model works by assuming
-that the true underlying probabilities of the three compartments follow a latent Markov
-transition process, and that we observe only the daily proportions of infected cases and
-removed cases. First, let us establish some notation. Assume that the observed proportions of
-infected and removed cases on day t are denoted by Y tI and Y tR, respectively. Further, denote
-the true underlying probabilities of the S, I, and R compartments on day t by θtS, θtI , and θtR,
-respectively, and assume that for any t, θtS + θtI + θtR = 1. Assuming a usual SIR model on the
-Here, β > 0 denotes the disease transmission rate, and γ > 0 denotes the removal rate. The
-basic reproduction number R0 : =
-indicates the expected number of cases generated by one
-infected case in the absence of any intervention and assuming that the whole population is
-susceptible. At this stage, for the observed infected and removed proportions, we assume a
-Beta-Dirichlet state-space model, independent conditionally on the underlying process:
-Y tI θt, τ ∼ Beta λI θtI , λI 1 − θtI ,
-Y tR θt, τ ∼ Beta λRθtR, λR 1 − θtR .
-Further, the Markov process on the latent proportions is built as:
-where θt denotes the vector of the underlying population probabilities of the three
-compartments, whose mean is modeled as an unknown function of the probability vector
-from the previous time point, along with the transition parameters; τ = β, γ, θ0T , λ, κ denotes
-the whole set of parameters where λI, λR and κ are parameters controlling variability of the
-observation and latent process, respectively. The function f(.) is then solved as the mean
-transition probability determined by the SIR dynamical system, using a fourth order RungeKutta approximation.
-Priors and the MCMC algorithm setup of the eSIR model—The prior on the initial
-vector of latent probabilities is set as θ0 ∼ Diricℎlet 1 − Y 1I − Y 1R, Y 1I , Y 1R , θ0S = 1 − θ0I − θ0R.
-The prior distribution of the basic reproduction number is R0 ~ LogNormal(0.582,0.223) so
-Ray et al.
-that E(R0) = 2 and SD(R0) = 1, where E and SD denote the mean and standard deviation
-respectively. The prior distribution of the removal rate is γ ~ LogNormal(−2.955,0.910) so
-that E(γ) = 0.082 and SD(γ) = 0.1. The prior mean of the removal rate γ indicates an
-average infectious period of 12 days, which is originally set using estimates from the SARS
-outbreak in Hong Kong (Mkhatshwa & Mummert, 2010) due to the similarity between the
-two viruses; this value also aligns well with several recent studies on COVID-19 in China
-(Chen et al. 2020; Li et al., 2020; Ryu & Chun, 2020). The prior mean of the basic
-reproduction number, 2.0, is approximately the average of estimates from many other
-COVID-19 studies on the Indian population (S. Das, 2020; Deb & Majumdar, 2020; Ranjan,
-2020; Sardar et al., 2020; Singh & Adhikari, 2020). We have conducted sensitivity analysis
-to evaluate how robust the model is towards the prior settings using Indian population
-COVID-19 data. The sensitivity issue can be minimized with more observed data of longer
-exponentially increasing period and stronger intensities by focusing on cities or states that
-are highly exposed. Note that the prior mean of the distribution of the transmission rate β
-equals γR0. For the variability parameters, the default choice is to set large variances in both
-observed and latent processes, which may be adjusted over the course of the epidemic with
-more data becoming available:
-κ, λI , λR ∼ iid Gamma(2, 0.0001) .
-Denoting t0 as the last date of data availability, and assuming that the forecast spans over the
-period [t0 + 1, T], our algorithm is as follows.
-0. Take M draws from the posterior θ1: t0, τ | Y 1: t0 .
-1. For each solution path m ∈ {1, … , M}, iterate between the following two steps via
-Draw θt(m) from θt | θt − 1 , τ (m) , t ∈ t0 + 1, …, T .
-Draw Y t(m) from Y t | θt(m), τ (m) , t ∈ t0 + 1, …, T .
-Modeling intervention—We model the effect of interventions by assuming that the
-intervention will result in a decrease in the transmission from the S compartment to the I
-compartment. We do so by decreasing the effective rate of transition (or, equivalently, the
-chance of interaction between members of S and I), by introducing a time-varying
-transmission rate modifier π(t) + ∈ [0,1]. This updates the flow between the three
-Ray et al.
-The reproductivity is, thus, modified by the intervention over time as R0π(t). To better
-understand the introduction of this effect modifier, we follow an example given by L. Wang
-et al. (2020). Suppose at a time t, qs(t) ∈ [0,1] is the chance of an at-risk person being in
-home isolation, and qI(t) ∈ [0,1] is the chance of an infected person being in hospital
-quarantine. Consequently, the chance of disease transmission when an at-risk person meets
-an infected person is β 1 − qS(t) θtS 1 − qI(t) θtI : = β π(t)θtSθtI , with
-π(t): = 1 − qS(t) 1 − qI(t) ∈ [0, 1]. In effect, this π(t) modifies the chance of a susceptible
-person meeting with an infected person which is termed as a transmission modifier. In this
-steadily increased community-level awareness and responsible quarantine and preventive
-measures, and the country-wide lockdown measures initiated by the government. This
-predefined transmission modifier can be smoothly incorporated into the differential
-equations as well as the MCMC algorithms. Its functional form can be quite flexible in
-reflecting the changing pattern of human intervention that affects the transmission rate of the
-epidemic within the population.
-Implementation of the eSIR model—We implemented the proposed algorithm in R
-package rjags (Plummer et al.) and the differential equations were solved via a fourth-order
-Runge–Kutta approximation. To ensure quality of the MCMC, we set the adaptation number
-to be 104, thinned the chain by keeping one draw from every 10 random draws to reduce
-autocorrelation, set a burnin period of 105 draws to let the chain stabilize, and starting from
-4 separate chains. Thus, in total, we have 2×105 effective draws with about 2×106 draws
-discarded. One could reduce the computation time, but consequently might risk the quality
-of data. This implementation provides not only posterior estimation on parameters and
-prevalence of all three compartments in the SIR model, but also predicted proportions of the
-infected and the removed cases at future time points. To obtain predicted case-counts from
-the predicted prevalence, we used 1.34 billion as the population of India, thus treating the
-country as a homogeneous system for the outbreak (The World Bank).
-Uncertainty Quantification—One major advantage of a Bayesian implementation is that
-uncertainty associated with all parameters and functions of parameters can be calculated
-from exact posterior draws without relying on large-scale approximation or the delta
-method. The credible intervals (CrI) for the prevalence are computed using the posterior
-distribution of proportions given the observed confirmed and removed prevalence, i.e.,
-Y t + 1 : T | Y 1:
-t0, Y 1: t0 and Y t0 + 1 : T | Y 1: t0, Y 1: t0, where t0 denotes the last observed date,
-and T denotes the last forecast date.
-More specifically, suppose we want to compute the 95% posterior CrI for the observed
-proportion of confirmed cases on the first day of forecast, i.e., a CrI for the random variable
-Y tI0 + 1. Then, from the M solution paths of the posterior, we have the draws
-Y t + 1, 1 ≤ m ≤ M . We construct a 95% posterior CrI for Y tI0 + 1 by simply computing the
-2.5th upper and lower percentiles from this set of M draws. The cumulative prevalences are
-sums of the draws from the I and R compartments at a given time and thus the confidence
-Ray et al.
-interval for the sum can be calculated in a similar way. Case-counts can be obtained from
-prevalences by using population size. Similar techniques apply to θtI0 + j for any 1 ≤ j ≤ T – t0
-and transmission parameters like β and γ. For instance, a 95% posterior CrI for β can be
-constructed by calculating the 2.5th upper and lower percentiles of {β(m), 1 ≤ m ≤ M}.
-Therefore, we could simply define R(m) =
-∀ 1 ≤ m ≤ M,
-and compute the 95% posterior
-CrI for the effective reproduction number R from {β(m), 1 ≤ m ≤ M}.
-Parameter choices for short-term forecasts
-We made projections of the cumulative number of cases over a time horizon to assess the
-short-term impact of lockdown as well as the long-term impact of lockdown and postlockdown activities. For the short-term forecast on April 30, we assumed lockdown is
-implemented until April 14 with either a 1- or a 2-week delay in people’s adherence/
-compliance to lockdown restrictions. We compared these projections with two hypothetical
-scenarios: (A) no non-pharmaceutical intervention (i.e., a constant disease transmission rate
-over time since the first case was reported in India), (B) a moderate intervention with social
-distancing and travel bans only (i.e., a decreased transmission rate compared to no
-intervention). The prior mean for R0 (the expected number of cases generated by one
-infected person assuming that the whole population is susceptible) was set at 2.0. This was
-estimated based on the early phase data in India and is consistent with other models (S. Das,
-2020; Deb & Majumdar, 2020; Ranjan, 2020; Sardar et al., 2020; Singh & Adhikari, 2020).
-For the no intervention and the moderate intervention scenarios, we chose the transmission
-rate and the removal rate such that the means for the prior distribution of the basic
-reproductive number R0 are 2.0 and 1.5 respectively (SD=1). The change in R0 from 2.0 to
-1.5 as an effect of intervention was created based on what we saw regarding the effect of
-interventions and the relative reduction of R0 in Wuhan (C. Wang et al., 2020). Given the
-similar population size and comparable population densities in China and India, the
-assumption on similar effect of interventions on the pandemic across the two countries does
-not seem too restrictive. For the current scenario of lockdown, our chosen mean for the prior
-of R0 starts with 2.0 during the period of no intervention, drops to 75% of its original value
-or 1.5 during the period of moderate intervention, and further drops to 0.8 during the 21-day
-(assuming a gradual, moderate resumption of daily activities). The drop in R0 from 2.0 to
-0.8 during lockdown represents a 60% reduction, which is proportionally slightly less than
-the ~65% drop estimated in R0 from the COVID-19 outbreak in Wuhan following the
-introduction of cordon sanitaire (Lin, 2020; Pan et al., 2020).
-Parameter choices for long-term forecasts
-For the longer-term forecast until June 15, we considered three hypothetical post-lockdown
-scenarios: (i) people return to normal activities due to the urgent desire for reconnecting
-after lockdown; (ii) people return to moderate activities as they did during the period with
-social distancing and travel ban intervention; and (iii) people make a cautious return out of
-fear for the coronavirus and partake in subdued activities. For these three scenarios, we
-assume the prior mean on R0 moves back up from 0.8 to 2.0, 1.5 and 1.2 respectively three
-Ray et al.
-weeks after lockdown ends on April 14. We compared these post-lockdown scenarios with
-another hypothetical scenario involving perpetual social distancing and travel ban without
-any lockdown (we fixed the prior mean on R0 at 1.5 over the entire forecasting interval). The
-Parameter choices for duration of lockdown analysis
-To assess the long-term impact of lockdown duration, we considered four scenarios: 21-,
-28-, 42, and 56-day lockdown periods. In all scenarios, we assume the prior mean on R0
-remains at 0.8 for the duration of the lockdown. Post-lockdown, the prior mean on R0
-gradually returns to a value of 1.5 over a span of three weeks (analogous to the “moderate
-return” scenario). The changes to R0 values across our simulation scenarios for studying
-Open-source software
-We are committed to data transparency and reproducible research. Daily updates of our India
-projections, based on cases, recovered and deaths reported the day before by
-covid19india.org, a crowd-sourced database using state bulletins and official handles, can be
-found in our interactive and dynamic Shiny app (covind19.org). Apart from the scenarios
-with quantification of uncertainties. Open source code underlying this app are available at
-As we interpret the results from our model, let us use caution in not over-interpreting the
-numbers. Any statistical model is wrinkled with many assumptions. Similarly, the
-predictions themselves have large uncertainty (as reflected by the large upper credible
-limits). A rigorous quantitative treatment often allows us to analyze a problem with clarity
-and objectivity, but we recommend focusing more on the qualitative takeaway messages
-from this exercise rather than concentrating on the exact numerical projections or quoting
-them with certainty.
-Short-term forecast of cumulative case counts in India
-Under national lockdown (March 25 – April 14), our predicted cumulative number of
-COVID-19 cases in India on April 30 are 19,625 and 19,503 (upper 95% CrI 130,326 and
-129,422) assuming a 1- or 2-week delay (i.e., either a quick or a slow adherence),
-respectively, in people’s adherence to lockdown restrictions and a gradual, moderate
-the predicted cumulative number of cases under “no intervention” and the “intervention
-involving social distancing and travel bans without lockdown” are 222 thousand and 53
-thousand (upper 95% CrI of nearly 1.4 million and 0.3 million) respectively. Under quick
-lockdown with moderate return compared to “no intervention” and “social distancing and
-travel ban”. The relative reduction in cases between two scenarios (often from the least to
-Ray et al.
-the most intense intervention) is calculated as the difference between an estimate (on a
-particular day, e.g., April 30) under the social distancing and travel ban scenario and under
-the lockdown with moderate return scenario and then divided by the estimate under the
-social distancing and travel ban scenario.
-We are reporting only the upper credible limit here and elsewhere since the lower credible
-limits are very small and uninformative due to the large uncertainty in our predictions arising
-from many unknowns. We also believe that our point estimates are at best underestimates
-due to potential surveillance bias (under-reporting and/or misdiagnosis of case-counts) and
-our model not taking into account the population density, age-sex composition and regional
-contact network structure of the whole nation. Increase in testing and community
-transmission may lead to a spike in a single day and that may increase the projections
-substantially upward. Regardless of the exact numbers it is clear that the 21-day lockdown
-will likely have a strong relative effect on reducing the predicted number of cases in the
-short term when compared to weaker interventions.
-Long-term impact of lockdown on the outbreak in India
-We took a close look at what might be coming in the next two months, based on what we
-have seen in other countries and an epidemiologic model that has been gainfully employed
-to assess the effect of interventions in Hubei province (L. Wang et al., 2020). We estimate
-that roughly 388 thousand (upper 95% CrI 2.4 million), 7.5 million (upper 95% CrI 104
-million), and 18.5 million (upper 95% CrI 196 million) cases are prevented on May 15, June
-15, and July 15, respectively, by instituting a 21-day lockdown with quick adherence and a
-cautious return compared to perpetual social distancing and travel ban (without lockdown)
-respectively, compared to perpetual social distancing.
-Without some measures of suppression after lockdown is lifted, the impact of lockdown in
-bringing down the case-counts (the now ubiquitous term, “flattening the curve”) can be
-(“normal”) curve first passes the social distancing and travel ban curve on June 5. In
-particular, if people immediately go back to pre-intervention (“normal”) activities postlockdown, a surge in the predicted case-counts is expected in the long-term beyond what we
-would have seen if there were only social distancing and travel ban measures without any
-lockdown (27 million when post-lockdown activity returns to pre-intervention levels versus
-26 million under social distancing and travel ban without a lockdown period on July 31;
-return post-lockdown would surpass social distancing and travel ban (if these scenarios
-continued perpetually). Long-term forecasting under slow adherence (2-week delay) can be
-We present posterior density and trace plots for the underlying model parameters β, γ and
-R0, posterior distributions for the predictions Y and the latent proportions θ for the I and R
-compartments over time, and estimates and posterior distribution of the daily prevalence of
-active cases over time or
-Ray et al.
-Relative impact of duration of lockdown on predicted case-counts
-We took the quick adherence epidemiologic models and compared the 21-day lockdown
-21-day lockdown with a hypothetical lockdown of longer duration, we find that 28-, 42-, and
-56-day lockdowns can approximately prevent 733 thousand (upper 95% CrI 6.8 million), 1.4
-million (upper 95% CrI 9.8 million), 1.6 million (upper 95% CrI 10.3 million) cases by June
-15, respectively. These numbers correspond to a relative reduction in cases of 45%, 86% and
-96%, respectively. A 28-day lockdown does not appear to have a substantial impact on
-cumulative case counts when compared to a 21-day lockdown. From an epidemiologic
-perspective, there appears to be some evidence that suggests a 42- or 56-day lockdown
-would have a more meaningful impact on reducing cumulative COVID-19 case counts in
-India. Our models suggest that some form of post-lockdown suppression (e.g., extension of
-social distancing measures, limits of gathering size, etc.) is necessary to observe long-term
-benefits of the lockdown period. We note that longer lockdown periods are also
-accompanied by increasing costs to individuals such as economic costs, mental health issues,
-other public health exacerbation costs, and must be considered in policymaking.
-Lockdown duration study under the slow adherence (2-week delay) scenario can be found in
-Sensitivity analyses
-We did explore some alternative assumptions and conducted thorough sensitivity analysis
-before settling on the models presented above. In one example, we assumed that there are
-actually 10 times the number of reported cases to date to reflect potential underreporting of
-cases due to lack of testing. We note that our predictions of case-counts indeed go up and the
-under-reporting). In another scenario, we assumed these cases occurred in metropolitan
-areas to reflect a potential intensification of case clustering. In our primary analyses, we
-assumed that the cumulative case-counts across the country represent equal contributions
-from all the regions, and using the whole population of India as a scaling factor to compute
-initial inputs for Y 1:
-t0 and Y 1: t0. This may lead to extremely small proportions, which may
-in turn yield underestimated outputs from the eSIR model. Changing the total population
-size from that of India to that of representative (large) cities from the hub states (the states of
-Kerala, Maharashtra and Karnataka, and the national capital region of Delhi) is a simple but
-intuitive way to potentially do away with the aforementioned underestimation. We note that
-yet a third scenario, we hypothesized that the prior mean of R0 is set at 3.0 or 4.0 instead of
-2.0 (i.e., a single infected individual would infect 3 or 4 susceptible individuals, on average,
-between 1.8 and 2.4, irrespective of whether a higher/lower starting (prior) mean was used.
-We observe that a prior mean of 4.0 for R0 sways the posterior R0 estimate substantially
-(posterior mean 3.38). As more data accumulate, we will expect the effect of the prior on the
-posterior estimates to diminish. The posterior distributions of the prevalence in each
-Ray et al.
-compartment and latent proportions under these changing scenarios are available in
-In summary, these sensitivity analysis scenarios did not appreciably change our conclusions
-in broad qualitative terms, though the exact quantitative projections for case-counts are quite
-sensitive to such choices. We note that the estimate of basic reproduction number R0 is more
-robust to underreporting issues as counts in all compartments of our eSIR model are
-assumed to be underreported. Since underreported case-counts affect all our hypothetical
-intervention scenarios in a similar way, the relative comparison of interventions and the
-associated conclusion remain valid in a qualitative sense. In all cases, our confidence in
-these projections decreases markedly the farther into the future we try to forecast. It is
-extremely important to update these models as new data arise.
-Model Calibration
-To check the calibrating properties of our model, we truncated the data to certain dates and
-tried assessing the quality of the case-count predictions with essentially adding one more
-do notice the projected case-counts change significantly with more data and improve
-(become closer to the observed) with more data. Our projections always underestimate the
-observed counts. This phenomenon is also due to more testing being done each week.
-However, the observed number of infected cases is always within the 95% prediction
-credible interval provided by our model. This again reveals the large uncertainty in our
-Our projections using current daily data on case counts until April 14 in India show that the
-lockdown, if implemented correctly in the end, has a high chance of reducing the number of
-COVID-19 cases in the short term and buying India invaluable time to prepare its healthcare
-and disease monitoring system. In the long-term, we need to have some measures of
-suppression in place after the lockdown is lifted to prevent a massive surge in the number of
-cases that can quickly overwhelm an already over-stretched Indian healthcare system
-resulting in increased fatalities. Specific vulnerable populations will be at higher risk of
-severity and fatality from COVID-19 infection: older persons and persons with pre-existing
-medical conditions (e.g., high blood pressure, heart disease, lung disease, cancer, diabetes,
-immunocompromised persons) (Coronavirus Disease 2019 (COVID-19): Are You at Higher
-1 provides a description of the approximate number of individuals in these high-risk
-categories in India. Beyond the fragile population characterized by health and economic
-indicators, we must remember that healthcare workers and first responders at the front line
-of this pandemic are amongst the most vulnerable (C. Wang et al., 2020). Though we have
-focused on forecasting and modeling of COVID-19 case-counts in this paper, we recognize
-that this is only one component of the problem. Long term surveillance and management of
-the COVID-19 crisis is needed with not just public health in mind but also to take care of the
-economic, social, and psychological impact that it will have on the people of India.
-Ray et al.
-Our statistical modeling and forecasts are not without limitations. We have limited number
-of data points and a wide time-window to extrapolate for the long-term forecasts. The
-uncertainty in our predictions is large due to many unknowns arising from model
-assumptions, population demographics, the number of COVID-19 diagnostic tests
-administered per day, testing criteria, accuracy of the test results, and heterogeneity in
-implementation of different government-initiated interventions and community-level
-protective measures across the country. We have neither accounted for age-structure, contact
-patterns or spatial information to finesse our predictions (Klein et al., 2020; Mandal et al.,
-2020; Singh & Adhikari, 2020) nor considered the possibility of a latent number of true
-cases, only a fraction of which are ascertained and observed (C. Wang et al., 2020). Increase
-in frequency and scale of testing, and community transmission of the SARS-CoV-2 virus
-may lead to a spike in a single day and that can shift the projection curve substantially
-upwards. COVID-19 hotspots in India are not uniformly spread across the country, and statelevel forecasts (S. Das, 2020) may be more meaningful for state-level policymaking. We are
-assuming that the implementation and effects of public health interventions and policies are
-the same everywhere in India by treating India as a homogeneous unit.
-The eSIR model treats the entire group of people within a single compartment as
-homogenous and exchangeable. We also assume that all subjects who were not infected are
-susceptible. Certainly, this overlooks the possibilities of people moving between states and
-different subsets of infected and susceptible populations having greater or lesser likelihood
-of coming into contact with one another. To account for all such potential factors, we need
-more nuanced modeling. One potential way is to break up the interaction component into
-further sub-compartments; however, sparsity of current data in each sub-compartment is an
-issue. Another way that has been pursued in a recent study is to inform the SIR modeling via
-introducing contact networks at the initial stage (Bhattacharyya et al., 2020). However, it is
-worth noting that any such approach would need more granular and reliable data containing
-individual details of the confirmed cases including their location and travel history. Even
-though such data are available from some self-reporting-based repositories (Novel Corona
-Virus 2019 Dataset, 2020), the quality and detail of the information provided are quite
-heterogeneous and, thus, how to best utilize such data remains a question. We see the
-tremendous role of data and its transparency of collection and reporting in finessing our
-predictions. Accurate and consistent reporting of case counts and deaths due to COVID-19
-are extremely critical. Future opportunities for improving our model include incorporating
-contagion network, age-structure, estimating SEIR model, incorporating test imperfection,
-and estimating true fatality/death rates. Future research would benefit from easily accessible
-hospitalization data, accurate recording of deaths in death records, and availability of
-ecological-level covariate data. Regardless of the caveats in our study, our analyses show the
-impact and necessity of lockdown and of suppressed activity post-lockdown in India.
-Though the exact numerical projections are perhaps far from the truth, the qualitative
-inference on the relative effects of the interventions are still valuable and valid since all
-projections are subject to similar biases.
-Ray et al.
-One ideological limitation of considering only the perspective of controlling COVID-19
-transmission in our model is the inability to account for excess deaths due to other causes
-during this period (chronic disease and mental health related diseases in particular), or the
-flexibility to factor in reduction in mortality/morbidity due to some other infectious or flulike illnesses, traffic accidents or health benefits of reduced air pollution levels. A more
-expansive framework of a cost-benefit analysis is needed as we gather more data and build
-may affect our conclusions. India’s priorities in testing have changed multiple times over the
-last few weeks. On March 17, India proposed testing all people who recently traveled
-internationally and developed symptoms (fever, cough, difficulty in breathing etc.) of
-COVID-19 within 14 days of return, or all symptomatic contacts of laboratory confirmed
-positive cases, or all symptomatic health care workers managing respiratory distress. On
-March 20, India revised this testing strategy to include all symptomatic healthcare workers,
-all hospitalized patients with Severe Acute Respiratory Illness (fever and cough and/or
-shortness of breath), and asymptomatic direct and high-risk contacts of a confirmed case to
-be tested once between day 5 and day 14 of coming into contact. More recently, the testing
-strategy was again revised on April 9 to additionally include testing of all symptomatic
-people in hotspots/cluster and in large migration gatherings/evacuee centers. These testing
-We looked a little deeper into the issue of testing bias using data from Our World in Data
-(staying at about 4%) and do not show an obvious increasing trend yet like in other countries
-have performed remarkably in administering a large number of tests per detected case and
-serve as examples for the world. We also looked at the proportion of the population tested in
-tested around 1–3% of the population, India has tested roughly 0.06% population and it will
-take weeks if not months for India to reach testing 1–3% of the population. In the absence of
-rapid and large-scale testing, informative proxies or surrogates can be tracked through
-syndromic surveillance, temperature reporting, monitoring hospital admissions and medical
-claims due to respiratory and flu like illnesses. This additional information will strengthen
-the prediction models. In absence of these models we rely on sensitivity analysis for
-Our data science product
-Finally, in our strong commitment to reproducibility and dissemination of our research, we
-cov-ind-19) and created an interactive and dynamic RShiny app (covind19.org) to visualize
-Ray et al.
-the observed data and create predictions under hypothetical scenarios with quantification of
-uncertainties. These forecasts are updated daily as new data come in. We hope these
-products will remain our contribution and service as data scientists during this tragic global
-catastrophe, and the model and methods will be used to analyze data from other countries.
-Our epidemiologic and mathematical calculations make a convincing case for enforcing
-national lockdown in the largest democracy in the world, acting early, before the growth of
-COVID-19 infections in India starts to accelerate. We observe the public health benefit of
-extending the lockdown by 3–5 weeks in our projections. Measures of suppression are
-needed post-lockdown to acquire maximal long-term benefits from the lockdown. We also
-illustrate the critical role of epidemiologic forecasting in aiding policy decisions through this
-modeling exercise. We highlight the importance of conducting model checks, sensitivity
-analysis and uncertainty quantification.
-We realize that these draconian public health measures come at a tremendous price to social
-and economic health that can last for months or even years after the restrictions on social
-mobility are lifted. Our general message to the public is to proceed with prudence and
-caution and adhere to effective public health interventions until there are rapid and reliable
-home testing kits [there is none yet] (Food and Drug Administration, 2020), FDA approved
-drugs [Solidarity Trial] (World Health Organization, 2020), and a vaccine [5 clinical trials
-Professor Ravi Pendse, for enabling daily updates to our models and allocating us abundant computational
-came together to provide their service as quarantined data scientists. We thank our families and friends for their
-support during these unprecedented times. The initial report made a profound impact through media outlets; we
-found inspiration in the heroic battles by frontline health workers, we found hope in science, we found strength in
-the power of common people and we found solace in the magic of human kindness. We wish the government and
-Disclosure Statement
-Proportion of population in specifically vulnerable subgroups at potentially high risk of
-COVID-19 severity risk in India.
-Number (in millions)
-Prinja et al. 2019
-Ray et al.
-Number (in millions)
-Population over 65
-CIA World Factbook
-Gupta & Ram 2019
-Gupta & Ram 2019
-People with cardiovascular disease*
-Prabhakaran et al. 2018
-Population with COPD*
-Population with asthma*
-Develop cancer by age 75 (men)**
-Develop cancer by age 75 (men)**
-Population with diabetes (adult)
-Access to inpatient department facilities***
-Access to outpatient department***
-based on 2020 est. of 1.38 billion from UN Department of Economic and Social Affairs
-defined as within 5-kilometer distance of home or work
-of Cancer Prevention and Research
-Intervention landscape of countries severely affected by COVID-19
-Date of¶1st
-Lockdown in Wuhan on 01/22, extended to neighboring cities in 1
-Hubei province on 01/23. Wuhan lockdown to be lifted on 04/08.
-Tested widely for the virus, isolated cases and quarantined
-transmission of the virus. The country appears to have reined in
-the outbreak without some of the2strict lockdown strategies
-deployed elsewhere in the world.
-On 01/31, restricted travel from China; expanded restrictions to
-other countries on 02/29. On 03/03, CDC lifted all restrictions on
-testing. On 03/15, CDC recommends no gatherings of350 people
-or more. Stay-at-home directives issued at state-level.
-On 03/17, France imposed a nationwide lockdown, prohibiting
-gatherings of any size and postponing the second round its
-municipal elections. The lockdown was one of Europe’s most
-stringent. While residents were told to stay home, officials
-allowed people to go out for fresh air but warned that meeting a 3
-friend on the street or in a park would be punishable with a fine.
-Germany has a National Pandemic Plan, with three stages. In the
-identifying contact persons, who are put in personal quarantine
-and are monitored and tested. In the second stage (protection) the
-strategy will change to using measures to protect vulnerable
-persons from becoming infected. The final stage (mitigation) will
-try to avoid spikes4of intensive treatment in order to maintain
-medical services.
-Citizens advised to stay at home. Violators to be fined with the
-exception of a few special circumstances, in order to contain the
-spread of the disease. The government is supporting and
-curative options.
-Ray et al.
-Date of¶1st
-Flights to China suspended and a national emergency declared on
-universities closed on 03/04. By 03/09, the entire nation placed
-under lockdown, with restaurants, bars closing on 03/11 and 6
-factories closing on 03/22. All nonessential production halted.
-bars, restaurants and shops selling nonessential items have been 7
-shut since March 14 and most of the population is house bound.
-prayers and moved to restrict visitors from China. On 03/15, the
-official leading Iran's response to the new coronavirus
-acknowledged Sunday that the pandemic could overwhelm health
-facilities in his
-8 country, which is battling the worst outbreak in the
-Middle East.
-Date of 1 case data obtained from JHU CSSE time series data on LUV1D-19 (except for China & South Korea)
-Comparison of types of infectious disease models, specifically those used to study
-COVID-19 in India
-Model type
-Research question
-Gupta and
-Provide estimate of
-the infected
-population using
-death counts
-Simple model helpful
-for scant data; modeled
-epidemic hotspots
-Not accounted for
-population demographics
-(limited by data), nonpharmaceutical (NP)
-intervention effects; requires
-infection fatality rate
-Poisson log-linear
-prediction of future
-case counts;
-estimate R0
-Simple model helpful
-for short- & mediumterm forecasts using
-scant data; accounted for
-quadratic effect of time
-Not accounted for
-population demographics
-(limited by data), hotspots,
-NP intervention effects;
-surveillance bias
-Deb and
-Analyze the trend
-pattern of
-incidence; estimate
-Accounted for quadratic
-effect of time, lockdown
-effect; captured time
-dependence incidence
-Not accounted for
-population demographics
-(limited by data), hotspots;
-surveillance bias
-Ray et al.
-Model type
-Research question
-prediction of future
-case counts;
-estimate R0
-Classical epidemiologic
-model used; accounted
-for social distancing
-Not accounted for
-population demographics
-(limited by data), hotspots;
-surveillance bias; used first
-few weeks of data
-SIR model
-Dhanwant and
-prediction of future
-case counts
-Classical epidemiologic
-model used; split
-observed data into
-training and test data;
-training data used to
-learn the transmission
-rate; incorporated
-lockdown effect
-Not accounted for
-population demographics
-(limited by data), hotspots;
-surveillance bias; lockdown
-training data not used to
-learn about transmission
-rate under lockdown
-SIR model
-Singh and
-Study progress of
-the disease and
-impact of social
-measures; estimate
-Extended epidemiologic
-model accounting for
-age distribution, social
-contact, social
-distancing effect
-Not accounted for other
-population demographics
-(limited by data), hotspots;
-surveillance bias; complex
-model given the scant count
-data and spotty individuallevel data
-Mandal et al.
-Identify NP
-strategies that can
-help control the
-Extended epidemiologic
-model with an added
-compartment for
-quarantine; accounted
-for other NP
-interventions, and
-connectivity between
-two places
-Not accounted for
-population demographics
-(limited by data);
-surveillance bias; complex
-model given the scant count
-data; lockdown effect not
-studied; studied four cities
-Expanded SEIR
-Chatterjee et
-Assess the impact
-on healthcare
-resources; study the
-effect of different
-NP interventions
-Extended epidemiologic
-model with added subcompartments for
-quarantined, recovered
-and death; accounted for
-different NP
-interventions; accounted
-for age groups
-Not accounted for other
-population demographics
-(limited by data), hotspots;
-surveillance bias; complex
-model given the scant count
-data and spotty individuallevel data; hospitalizationrelated parameters based on
-UK data; lockdown effect
-not studied
-Extended epidemiologic
-model with added subcompartments for
-asymptomatic cases,
-hospitalized, recovered
-and death
-Not accounted for other
-population demographics
-(limited by data), hotspots;
-surveillance bias; complex
-model given the scant count
-data; lockdown effect not
-Extended epidemiologic
-model with added subcompartments for
-asymptomatic cases,
-lockdown, hospitalized,
-recovered and death;
-accounted for
-transmission variability
-between symptomatic
-and asymptomatic
-groups; modeled
-hotspots and overall
-Not accounted for other
-population demographics
-(limited by data);
-surveillance bias; complex
-model given the scant count
-Expanded SEIR
-Senapati et al.
-Assess the effect of
-different NP
-Expanded SEIR
-Sardar et al.
-Assess long-term
-effect of 21-day
-lockdown; estimate
-Ray et al.
-The SIR model with (A) or without (B) considering human intervention by introducing a
-transmission rate modifier π(t).
-Ray et al.
-Implied R0 schedules corresponding to the hypothetical scenarios under slow adherence.
-Ray et al.
-Short-term daily growth in cumulative case counts in India assuming a 2- week delay in
-people’s adherence to restrictions. Observed data are shown for days up to April 14.
-Predicted future case counts for April 15 until April 30 are based on observed data until
-April 14 using the eSIR model.
-Ray et al.
-Long-term daily growth in case counts in India per 100,000 people assuming a 2-week delay
-and how that is affected by different non-pharmaceutical intervention strategies. Predicted
-cumulative (a) and incident (b) case counts from April 30 to July 31 from the eSIR model
-are shown, based on observed data until April 14.
-a. Predicted number of COVID-19 cases in India under hypothetical scenarios
-b. Predicted number of new COVID-19 cases in India under hypothetical scenarios
-Ray et al.
-Ray et al.
-Ray et al.
-Trace plots and posterior density plots for the underlying model parameters β (a), γ (b), and
-R0 (c), posterior distributions for the predictions Y and the latent proportions θ for the I (d)
-and R (e) compartments over time, and estimates and posterior distribution of the daily
-prevalence of active cases over time or
-(f). These plots correspond to the 21-day
-lockdown with moderate return scenario under quick adherence.
-a. Trace plots and posterior density plots for β
-Ray et al.
-b. Trace plots and posterior density plots for γ
-c. Trace plots and posterior density plots for R0
-d. Posterior distribution for the predictions Y and the latent proportions θ for the I (infected)
-e. Posterior distribution for the predictions Y and the latent proportions θ for the R
-f. Estimates and posterior distribution of the daily prevalence of active cases over time or
-Ray et al.
-Cumulative (a) and incidence (b) graphs for forecasting models assuming a 2-week delay
-under 21-, 28-, 42-, and 56-day lockdown scenarios using observed data through April 14.
-a. Predicted number of COVID-19 infections under varying lockdown lengths
-b. Predicted number of daily COVID-19 infections under varying lockdown lengths
-Ray et al.
-Implied R0 schedules corresponding to quick and slow adherence for the hypothetical
-lockdown duration scenarios.
-a. R0 over time by scenario
-b. R0 over time by scenario
-Ray et al.
-Ray et al.
-Posterior distributions of the projected case-counts and latent proportions under sensitivity
-a. Scenario with 10 times the number of reported cases (e.g., under-reporting)
-b. Scenario using metro population (e.g., to mimic case-clustering)
-c. Scenario with prior mean of R0 = 2
-d. Scenario with prior mean of R0 = 3
-e. Scenario with prior mean of R0 = 4
-Ray et al.
-Model Calibration: Relative comparison of predictions using observed data up to a certain
-date (April 1, 7 and 14). Observed data (gray) is provided through April 30.
-Ray et al.
-Daily testing patterns in selected countries
-Ray et al.
-Testing numbers and proportions for 61 countries around the world affected by COVID-19
-Bhattacharyya R, Mohammed S, Baladandayuthapani V, Banerjee S, & Nanda U (2020, 4). Regional
-Contact Networks and the Pandemic Spread of COVID-19 in India. Medium.
-Chatterjee K, Chatterjee K, Kumar A, & Shankar S (2020). Healthcare impact of COVID-19 epidemic
-Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X,
-& Zhang L (2020). Epidemiological and clinical characteristics of 99 cases of 2019 novel
-coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet, 395(10223), 507–513.
-Coronavirus Disease 2019 (COVID-19): Are You at Higher Risk for Severe Illness? (2020). Centers
-Das P (2020, 4 1). “Epidemiologic models show we need aggressive measures in the early
-Das S (2020). Prediction of COVID-19 disease progression in India: Under the effect of national
-Deb S, & Majumdar M (2020). A time series method to analyze incidence pattern and estimate
-Ray et al.
-Dong E, Du H, & Gardner L (2020). An interactive web-based dashboard to track COVID-19 in real
-time. The Lancet Infectious Diseases 10.1016/S1473-3099(20)30120-1.
-Ellis-Petersen H (2020, 3 25). Overcome by anxiety: Indians in lockdown many can ill afford. The
-Food and Drug Administration. (2020, 3 20). Coronavirus (COVID-19) Update: FDA Alerts
-Ghosal D (2020, 3 23). India faces spike in coronavirus cases, says study, in test for health system.
-Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, Liu L, Shan H, Lei C, Hui DSC, Du B, Li L, Zeng G, Yuen
-K-Y, Chen R, Tang C, Wang T, Chen P, Xiang J, … Zhong N (2020). Clinical characteristics of
-Gupta S, & Shankar R (2020). Estimating the number of COVID-19 infections in Indian hotspots using
-Hasell J, Ortiz-Ospina E, Mathieu E, Ritchie H, Beltekian D, Macdonald B, & Roser M (n.d.). Our
-Indian Council of Medical Research. (2020). SARS-CoV-2 (COVID-19) Testing: Status Update 14
-April 2020 9:00 PM IST.
-Klein E, Lin G, Tseng K, Schueller E, Kappor G, & Laxminarayan R (2020). COVID-19 for India
-Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X,
-Xiang N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Liu M, … Feng Z (2020). Early transmission
-Medicine, 382(13), 1199–1207. 10.1056/NEJMoa2001316. [PubMed: 31995857]
-Lin X (2020). Analysis of 25,000 lab-confirmed COVID-19 cases in Wuhan: Epidemiological
-Mandal S, Bhatnagar T, Arinaminpathy N, Agarwal A, Chowdhury A, Murhekar M, Gangakhedkar R,
-& Sarkar S (2020). Prudent public health intervention strategies to control the coronavirus disease
-Microsoft bing COVID-19 tracker. (n.d.). Microsoft Corporation. Retrieved March 19, 2020, from
-Mkhatshwa T, & Mummert A (2010). Modeling super-spreading events for infectious diseases: Case
-Noronha G (2020, 4 10). India could see a reduction in the number of coronavirus cases by next week:
-Oke J, & Henegan C (2020, 4). Global COVID-19 Case Fatality Rates. CEBM Research.
-Ray et al.
-Pan A, Liu L, Wang C, Guo H, Hao X, Wang Q, Huang J, He N, Yu H, Lin X, Wei S, & Wu T (2020).
-Association of public health interventions with the epidemiology of the COVID-19 outbreak in
-Wuhan, China. JAMA 10.1001/jama.2020.6130.
-Plummer M, Stukalov A, & Denwood M (n.d.). rjags: Bayesian Graphical Models using MCMC.
-Ranjan R (2020). Predictions for COVID-19 outbreak in India using epidemiological models.
-Ray D, Bhattacharyya R, Wang L, Salvatore M, Mohammed S, Halder A, Zhou Y, Song P, Purkayastha
-S, Bose D, Banerjee M, Baladandayuthapani V, Ghosh P, & Mukherjee B (2020, 3 21). Predictions
-Root A (2020, 4). Nearly a third of Americans with COVID-19 are hospitalized. Here are the latest
-numbers. Barron’s.
-coronavirus. Epidemiology and Health, 42, e2020006 10.4178/epih.e2020006. [PubMed:
-Salvatore M, Ray D, Du J, Wang L, Das S, Kleinsasser M, Rix A, Barker D, & Mukherjee B (2020, 4).
-Salvatore M, Wang L, Bhattacharyya R, Purkayastha S, Mohammed S, Halder A, Barker D,
-Kleinsasser M, Rix A, Banerjee M, Baladandayuthapani V, Ray D, & Mukherjee B (2020, 4 3).
-Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of
-Sardar T, Nadim SS, & Chattopadhyay J (2020). Assessment of 21 days lockdown effect in some states
-Senapati A, Rana S, Das T, & Chattopadhyay J (2020). Impact of intervention on the spread of
-Sindhu J, Reddy KK, Satyanarayana N, Devaraya S, & Fathima A (2019). Hospital utilization
-statistics: Thirty-five year trend analysis, a measure of operational efficiency of a tertiary care
-Singh R, & Adhikari R (2020). Age-structured impact of social distancing on the COVID-19 epidemic
-Times of India. (2020, 3). Coronavirus: Does India have enough ventilators, hospital beds? The Times
-Wang C, Liu L, Hao X, Guo H, Wang Q, Huang J, He N, Yu H, Lin X, Pan A, Wei S, & Wu T (2020).
-Evolving epidemiology and impact of non-pharmaceutical interventions on the outbreak of
-coronavirus disease 2019 in Wuhan, China. MedRxiv. 10.1101/2020.03.03.20030593.
-Wang L, Zhou Y, He J, Zhu B, Wang F, Tang L, Eisenberg M, & Song PX (2020). An epidemiological
-forecast model and software assessing interventions on COVID-19 epidemic in China. MedRxiv.
-WHO Director-General’s opening remarks at the media briefing on COVID-19 – 11 March 2020.
-Ray et al.
-World Health Organization. (2020, 3 27). WHO Director-General’s opening remarks at the media
-Ray et al.
-Description of the cases, recovered and fatalities in India with landmark policy/
-recommendations. Data used up to April 14.
-Ray et al.
-Early phase of the epidemic and daily growth in cumulative COVID-19 case counts in India
-compared to other countries affected by the pandemic using data through April 14.
-Ray et al.
-Implied R0 schedules corresponding the hypothetical scenarios under quick adherence.
-Ray et al.
-Short-term daily growth in cumulative case counts in India assuming a 1-week delay in
-people’s adherence to restrictions. Observed data are shown for days up to April 14.
-Predicted future case counts for April 15 until April 30 are based on observed data until
-April 14 using the eSIR model. The dashed horizontal line represents the upper 95%
-credible limit for estimates under “lockdown with moderate release” scenario.
-Ray et al.
-Long-term daily growth in case counts in India per 100,000 people assuming a 1-week delay
-and how that is affected by different non-pharmaceutical intervention strategies. Predicted
-cumulative (a) and incident (b) case counts from May 1 to July 31 from the eSIR model are
-shown, based on observed data until April 14. Corresponding plots for slow adherence are in
-a. Predicted number of COVID-19 cases in India under hypothetical scenarios
-b. Predicted number of new COVID-19 cases in India under hypothetical scenarios
-Ray et al.
-Cumulative (a) and incidence (b) graphs for forecasting models assuming a 1-week delay
-under 21-, 28-, 42-, and 56-day lockdown scenarios using observed data through April 14.
-a. Predicted number of COVID-19 infections under varying lockdown lengths
-b. Predicted number of daily COVID-19 infections under varying lockdown lengths
-Ray et al.
-Timeline of COVID-19 interventions in India.
-• India issues travel ban on four countries - China, South Korea, Italy, and Iran
-• Union Health Ministry issues advisory to avoid mass gatherings
-• Mayor of Agra urges the Union government to close down historical monuments including Taj Mahal
-• Kuwait suspends flights to India
-• Qatar puts India on travel ban list
-• Manipur closes its border with Myanmar
-• India suspends all visas/e-visas granted to nationals of France, Germany, and Spain on or before today
-• WHO declares the COVID-19 outbreak as ‘pandemicȁ
-• India suspends all visas excepting those for diplomatic, UN, or international bodies, official and employment purposes until
-• India reports 1st death
-• India reports 2nd death
-• Several academic institutions (e.g., JNU, IIT, IIM) cancel classes/convocations; some hostels close
-• Central government proposes social distancing measures until March 31
-• India bans passengers from EU countries, UK, and Turkey until March 31
-• Central government recommends closure of educational institutions until March 31
-• Taj Mahal is shut until March 31; ASI closes 3,000 monuments and 200 museums
-• Mandatory quarantine is imposed on passengers coming from UAE, Qatar, Oman, and Kuwait
-• India is heading towards a countrywide lockdown mode
-• Some state governments ban public transportation
-• Prime Minister urges people of India to observe self-imposed curfew (‘Janata Curfew’) on March 22
-• Maharashtra announces lockdown in Mumbai, Nagpur and Pune
-• Private labs can conduct COVID-19 tests, says Maharashtra government
-• Rajasthan government declares lockdown until March 31
-• 12 states including Telangana and Delhi announce lockdown until March 31
-• Railways suspends all train services until March 31
-• Central government orders all states in India to impose lockdown
-• Legal action is to be initiated against people violating lockdown measures
-• Prime Minister of India announces lockdown for 21 days as country records 552 COVID-19 cases and 10 deaths
-• Central government unveils stimulus package to help those hit by 21-day lockdown
-• Priorities are to construct COVID-19 hospitals, sample testing, contact-tracing and social distancing: Union Health ministry
-• Common exit strategy necessary for “staggered” relaxations after lockdown period ends, Prime Minister tells chief ministers
-• Prime Minister instructs union ministers to prepare a graded plan to gradually open departments that are not COVID-19
-• Prime Minister and chief ministers decide on lockdown extension to April 11
-• Odisha extends lockdown until April 30 and becomes first Indian state to do so
-Ray et al.
-Comparison of estimated projections and posterior estimates of model parameters across different sensitivity
-analysis scenarios under 21-day lockdown with moderate return, using observed data until April 14. Prior SD
-for R0 is 1.0.
-Posterior Estimates
-Sensitivity Analysis Scenario
-Predictions May 15
-Prior mean for R0 = 2
-Prior mean for R0 = 3
-Prior mean for R0 = 4
-Observed case-counts are multiplied by 10, prior mean for R0 = 2
-Assume that the cases happen in metro hotspots, use population size N=32 million instead of national population 1.34 billion, prior mean for R0
-Ray et al.
-Comparison of model projections using observed data up to different dates assuming a 21-day lockdown with
-moderate return.
-Projected Counts [Upper Credible Interval]
-Posterior Estimates [95% CrI]
-Used data up to April 1
-Used data up to April 7
-Used data up to April 14
-Note: All prediction scenarios assume a prior mean of R0 = 2
+Predictions,  role of interventions and effects of a historic na‐
+tional lockdown in Indias response to the COVID‐19 pandemic: data
+science  call to arms Debashree Ray1,2,*, Maxwell Salvatore3,4,*,
+Rupam Bhattacharyya3,  Lili  Wang3,  Jiacong  Du3,4,  Shariq  Mo‐
+hammed3,5, Soumik Purkayastha3, Aritra Halder6, Alexander Rix3,4,
+Daniel Barker3, Michael Kleinsasser3, Yiwang Zhou3, Debraj Bose3,
+Peter  Song3,  Mousumi  Banerjee3,8, Veerabhadran Baladandayutha‐
+pani3, Parikshit Ghosh7, Bhramar With only 536 cases and  11  fa‐
+talities,  India  took the historic decision of a 21‐day national
+lockdown on March 25. The lockdown was first extended  to  May  3
+soon  after the analysis of this paper was completed, and then to
+May 18 while this paper was being revised. In this paper, we  use
+a  Bayesian  extension of the Susceptible‐Infected‐Removed (eSIR)
+model designed for intervention forecasting to study  the  short‐
+and  long‐term  impact of an initial 21‐day lockdown on the total
+number of COVID‐19 infections in India compared to other less se‐
+vere  non‐pharmaceutical interventions. We compare effects of hy‐
+pothetical durations of lockdown on reducing the number of active
+and  new  infections.  We  find that the lockdown, if implemented
+correctly, can reduce the total number  of  cases  in  the  short
+term, and buy India invaluable time to prepare its healthcare and
+disease‐monitoring system. Our analysis shows  we  need  to  have
+some  measures of suppression in place after the lockdown for in‐
+creased benefit (as measured by reduction in the number  of  cas‐
+es).   A  longer lockdown between 4256 days is preferable to sub‐
+stantially flatten the curve when J.D., S.M.  and  S.P.  analyzed
+the data. B.M. participated in funding acquisition, investigation
+and provided resources. L.W., P.S. and B.M. developed the method‐
+ology.  M.S.  and B.M. administered the project. M.S., A.R., D.B.
+and M.K. created the software/app. M.B., V.B., P.G. and B.M.  su‐
+pervised  the  study. D.R., M.S., R.B., L.W., A.R., M.K. and B.M.
+helped in the visualization. D.R., M.S., R.B., Ray et  al.   com‐
+pared  to  2128 days of lockdown. Our models focus solely on pro‐
+jecting the number of COVID‐19 infections and, thus, inform poli‐
+cymakers  about  one aspect of this multi‐faceted decision‐making
+problem. We conclude with a discussion on the pivotal role of in‐
+creased testing, reliable and transparent data, proper uncertain‐
+ty quantification, accurate interpretation of forecasting models,
+reproducible data science methods and tools that can enable data‐
+driven policymaking during a pandemic. Our software products  are
+available  at  covind19.org.   Basic  reproduction number; Coron‐
+avirus; Credible interval; India; Intervention  forecasting;  SIR
+Four months since the first case of COVID‐19 in Wuhan, China, the
+SARS‐CoV‐2 virus has engulfed the world and has been  declared  a
+global pandemic (WHO Director‐Generals Opening Remarks at the Me‐
+dia Briefing on COVID‐19  11 March 2020,  2020).  The  number  of
+confirmed cases worldwide stands at a staggering 1,930,780 (as of
+9:20 AM EST April 14, 2020, Microsoft  bing  coronavirus  tracker
+(Microsoft  bing COVID‐19 tracker)). Of a population of 1.34 bil‐
+lion (compare China at 1.39 billion and  USA  at  325.7  million)
+(World  Bank).  India  has been vigilant and early in instituting
+strong public health interventions including sealing the  borders
+with travel ban/canceling almost all visas, closing March 24, In‐
+dia took the historic decision  of  a  21‐day  national  lockdown
+starting  March  25, when it had reported only 536 COVID‐19 cases
+and 11 fatalities. In the subsequent days, we have seen a  steady
+growth  in  the  number  of new cases and fatalities, with growth
+rates slower than other affected countries but in  21  days,  the
+curve  has  not  yet turned the corner forecasting models in this
+paper use data up to April 14 with the premise of a 21‐day  lock‐
+down  in  place. The lockdown was further extended to May 3, soon
+after the analysis of this paper was completed. The lockdown  was
+again extended to May 18 while this paper was being revised, thus
+entailing almost an 8‐week lockdown period.  While India seems to
+have  done relatively well in controlling the number of confirmed
+cases missing or unknown component in this assessment: The number
+of  truly affected cases, which depends on the extent of testing,
+the accuracy of the test results and, in particular, the frequen‐
+cy  and  scale of testing of asymptomatic cases who may have been
+exposed. The frequency of testing has been low in India.  Accord‐
+ing  to  the  Indian  Council  of  Medical  Research (ICMR), only
+229,426 subjects have been tested as of April 14 (<0.03%  of  the
+population)  (Indian  Council  of  Medical  Research, 2020). When
+there is no approved vaccine or drug for treating  COVID‐19,  en‐
+tering  phase  2  or  phase 3 of escalation will have devastating
+consequences on both the already overstretched healthcare  system
+of  India, and Ray et al.  US or Italy, COVID‐19 enters gradually
+and then explodes suddenly.  reference. The estimated capacity of
+hospital  beds  in  India  is  70 per 100,000 (Hospital Beds (per
+1,000 People), 2020), which is an upper bound on treatment capac‐
+ity.  Given  an  average occupancy rate of 75%, only a quarter of
+these are available (Sindhu et al.  2019).  Moreover,  critically
+ill COVID‐19 patients (about 510% of those infected) will require
+ICU beds and ventilator support. India has only 3558 thousand ICU
+beds  with very high occupancy rates and at most 1 ventilator per
+2 ICU beds (Times of India). In order to roll  out  interventions
+and  plan for healthcare infrastructure, robust projection models
+for outcomes of interest are necessary. There are  many  outcomes
+that  are of potential interest to policymakers; for example: how
+many infected cases will be hospitalized? How many will be admit‐
+ted to the ICU? How many patients will need ventilators? And, fi‐
+nally, what will be the mortality due to COVID‐19 infections?  We
+focus  on  the number of active cases as our target of prediction
+due to the limited data from India on the  other  outcomes.  From
+other  nations we know that roughly 20% of infections will proba‐
+bly need hospitalization (Root, 2020) and 5% will need ICU admis‐
+sion  (Guan  et  al., 2020), and case‐fatality rates vary between
+15% (Oke & Henegan, 2020). This may provide  crude  estimates  of
+other  outcomes  from  case‐count analyze the COVID‐19 case‐count
+data from India. The approaches for modeling the  disease  trans‐
+mission and then forecasting the number of cases at a future time
+can be broadly categorized into two  genres:  exponential/Poisson
+type  models,  and  compartmental  epidemiologic  models. For in‐
+stance, Ranjan (2020) and Gupta and Shankar (2020) used the clas‐
+sical  exponential model, S. Das (2020) used a Poisson regression
+model while Deb and Majumdar (2020) used an auto‐regressive  mov‐
+ing  average  model  to  analyze incidence pattern over time. The
+compartmental epidemiologic models include variations of the sus‐
+ceptible‐infected‐removed  (SIR)  model, which is guided by a set
+of differential equations relating the number of susceptible peo‐
+ple, the number of infected people (cases) and the number of peo‐
+ple who have been removed (either recovered or dead) at any given
+time.  This  simple  SIR model has been used by Ranjan (2020) and
+Dhanwant and Ramanathan (2020).  Singh and Adhikari  (2020)  used
+an age‐structured SIR and social contact model, where an SIR mod‐
+el is assumed in each age category. Another extension of the  SIR
+model  is the SEIR model that incorporates an additional compart‐
+ment of truly exposed people that is a latent variable. Mandal et
+al.  (2020),  Chatterjee  et al. (2020), Sardar et al. (2020) and
+Senapati et al. (2020) used one or the  other  variation  of  the
+SEIR model. For example, Sardar et al.  (2020) used an extra com‐
+partment for lockdown to capture in‐home isolation and study  the
+these existing models for India.  primary forecasting objectives:
+(a) Forecasting future case‐counts (short  term  and  long  term)
+with different forms of suppression measures in place (post lock‐
+down) (b) Studying the Ray et al.  relative impact of  length/du‐
+ration  of  a  lockdown on our predictions of cumulative COVID‐19
+infections. We carry out extensive sensitivity analysis to assess
+the robustness of our forecasting models. We conclude with a dis‐
+cussion regarding the need for reliable casecount data, increased
+testing, the importance of uncertainty quantification of the pro‐
+jected case‐counts, and transparent data science methods that can
+inform and influence Medium studying pre (Ray et al., 2020), dur‐
+ing (Salvatore, Wang, et al., 2020) and post (Salvatore, Ray,  et
+al.,  2020)  lockdown effects, providing critical information for
+policymakers and having  an  extensive  reach  (Reuters  (Ghosal,
+2020),  Times  of  India  (P. Das, 2020), The Guardian (Ellis‐Pe‐
+tersen, 2020), The Economic Times (Noronha, 2020)),  an  interac‐
+tive  and  dynamic RShiny app that daily updates forecasts as new
+case counts are reported, and publicly available codes for repro‐
+ducible research.  The rest of the paper is organized as follows.
+In Section 2 we describe the structure of the eSIR model, our pa‐
+rameter choices and the Bayesian computational algorithm. In Sec‐
+tion 3 we present results from analyzing the data from India that
+include  a  sensitivity  analysis.  We assess how our forecasting
+model updates itself with more accrual of data over time. In Sec‐
+tion  4  we provide an itemized discussion of some of the salient
+data and data science issues related to intervention  forecasting
+and  case‐count  projections.  Section 5 presents a brief conclu‐
+sion.  Methods and Notation Study design and data source We  used
+the  current daily data on number of COVID‐19 infected cases, re‐
+coveries and deaths in India to predict the  number  of  infected
+and  removed  cases at any given time (L.  Wang et al., 2020). We
+obtained the data (up to April 14) from  the  2019  Novel  Coron‐
+avirus   Engineering   (JHU   CSSE)   and  from  covid19india.org
+(covid19india, 2020; Dong et al., 2020; Our statistical model for
+predictions  OverviewThe standard SIR model was recently extended
+to incorporate time‐varying transmission  rates  or  time‐varying
+quarantine protocols and is known as the extended SIR (eSIR) mod‐
+el (L. Wang et al., 2020). When using the eSIR model  with  time‐
+varying  disease  transmission  rate,  it  can depict a series of
+time‐varying changes caused by  either  external  variation  like
+government‐initiated  macro  isolation  measures, community‐level
+protective measures and environment changes, or  internal  varia‐
+tions like mutations and evolutions of the pathogen. To implement
+the eSIR model, a Bayesian  hierarchical  framework  is  assumed.
+Using the current time series data on the proportions of infected
+and the removed people, a Markov chain Monte Carlo (MCMC)  imple‐
+mentation  of this Bayesian model provides not only posterior es‐
+timation of parameters and prevalence of all the  three  compart‐
+ments in the SIR model, but also predicted proportions of the in‐
+fected and the removed people at future Ray et al.  time  points.
+The R package for implementing this general model for understand‐
+ing disease Mathematical framework of the eSIR modelThe eSIR mod‐
+el  works  by  assuming that the true underlying probabilities of
+the three compartments follow a latent Markov transition process,
+and  that we observe only the daily proportions of infected cases
+and removed cases. First, let us establish some notation.  Assume
+that  the  observed  proportions of infected and removed cases on
+day t are denoted by Y tI and Y tR, respectively. Further, denote
+the true underlying probabilities of the S, I, and R compartments
+on day t by tS, tI , and tR, respectively, and  assume  that  for
+any  t, tS + tI + tR = 1. Assuming a usual SIR model on the Here,
+> 0 denotes the disease transmission rate, and  > 0  denotes  the
+removal  rate. The basic reproduction number R0 : = indicates the
+expected number of cases generated by one infected  case  in  the
+absence  of  any intervention and assuming that the whole popula‐
+tion is susceptible. At this stage, for the observed infected and
+removed  proportions, we assume a Beta‐Dirichlet state‐space mod‐
+el, independent conditionally on the underlying process: Y tI  t,
+Beta I tI , I 1  tI , Y tR t,   Beta RtR, R 1  tR .  Further, the
+Markov process on the latent proportions is built as: where t de‐
+notes  the  vector  of the underlying population probabilities of
+the three compartments, whose mean is modeled as an unknown func‐
+tion  of  the  probability  vector  from the previous time point,
+along with the transition parameters;  = , , 0T , ,  denotes  the
+whole  set  of parameters where I, R and  are parameters control‐
+ling variability of the observation and latent  process,  respec‐
+tively.  The  function f(.) is then solved as the mean transition
+probability determined by  the  SIR  dynamical  system,  using  a
+fourth order RungeKutta approximation.  Priors and the MCMC algo‐
+rithm setup of the eSIR modelThe prior on the initial  vector  of
+latent  probabilities is set as 0  Diriclet 1  Y 1I  Y 1R, Y 1I ,
+Y 1R , 0S = 1  0I  0R.  The prior distribution of the  basic  re‐
+production  number  is  R0 ~ LogNormal(0.582,0.223) so Ray et al.
+that E(R0) = 2 and SD(R0) = 1, where E and SD denote the mean and
+standard  deviation  respectively.  The prior distribution of the
+removal rate is  ~ LogNormal(2.955,0.910) so that E() = 0.082 and
+SD()  = 0.1. The prior mean of the removal rate  indicates an av‐
+erage infectious period of 12 days, which is originally set using
+estimates  from  the SARS outbreak in Hong Kong (Mkhatshwa & Mum‐
+mert, 2010) due to the similarity between the two  viruses;  this
+value also aligns well with several recent studies on COVID‐19 in
+China (Chen et al. 2020; Li et al., 2020; Ryu & Chun, 2020).  The
+prior mean of the basic reproduction number, 2.0, is approximate‐
+ly the average of estimates from many other COVID‐19  studies  on
+the  Indian  population (S. Das, 2020; Deb & Majumdar, 2020; Ran‐
+jan, 2020; Sardar et al., 2020; Singh & Adhikari, 2020). We  have
+conducted  sensitivity  analysis to evaluate how robust the model
+is towards the prior settings using  Indian  population  COVID‐19
+data.  The  sensitivity issue can be minimized with more observed
+data of longer exponentially increasing period and  stronger  in‐
+tensities  by  focusing  on  cities or states that are highly ex‐
+posed. Note that the prior mean of the distribution of the trans‐
+mission  rate  equals R0. For the variability parameters, the de‐
+fault choice is to set large variances in both observed  and  la‐
+tent processes, which may be adjusted over the course of the epi‐
+demic with more data becoming available: , I ,  R   iid  Gamma(2,
+0.0001) .  Denoting t0 as the last date of data availability, and
+assuming that the forecast spans over the period [t0 + 1, T], our
+algorithm  is  as follows.  0. Take M draws from the posterior 1:
+t0,  | Y 1: t0 .  1. For each solution path m  {1,  , M}, iterate
+between  the  following  two  steps via Draw t(m) from t | t  1 ,
+(m) , t  t0 + 1, , T .  Draw Y t(m) from Y t | t(m),  (m) , t  t0
++ 1, , T .  Modeling interventionWe model the effect of interven‐
+tions by assuming that the intervention will result in a decrease
+in  the transmission from the S compartment to the I compartment.
+We do so by decreasing the  effective  rate  of  transition  (or,
+equivalently,  the chance of interaction between members of S and
+I), by introducing a time‐varying transmission rate modifier  (t)
++  [0,1]. This updates the flow between the three Ray et al.  The
+reproductivity is, thus, modified by the intervention  over  time
+as  R0(t).  To  better understand the introduction of this effect
+modifier, we follow an example given by L. Wang  et  al.  (2020).
+Suppose  at  a  time  t, qs(t)  [0,1] is the chance of an at‐risk
+person being in home isolation, and qI(t)  [0,1] is the chance of
+an  infected  person  being in hospital quarantine. Consequently,
+the chance of disease transmission when an at‐risk  person  meets
+an  infected  person  is   1  qS(t) tS 1  qI(t) tI : =  (t)tStI ,
+with (t): = 1  qS(t) 1  qI(t)  [0, 1]. In effect, this (t)  modi‐
+fies  the chance of a susceptible person meeting with an infected
+person which is  termed  as  a  transmission  modifier.  In  this
+steadily  increased  community‐level  awareness  and  responsible
+quarantine and preventive measures, and the country‐wide lockdown
+measures  initiated  by the government. This predefined transmis‐
+sion modifier can be smoothly incorporated into the  differential
+equations as well as the MCMC algorithms. Its functional form can
+be quite flexible in reflecting the changing pattern of human in‐
+tervention  that  affects  the  transmission rate of the epidemic
+within the population.  Implementation of the eSIR modelWe imple‐
+mented the proposed algorithm in R package rjags (Plummer et al.)
+and the differential equations were  solved  via  a  fourth‐order
+RungeKutta  approximation.  To ensure quality of the MCMC, we set
+the adaptation number to be 104, thinned the chain by keeping one
+draw  from every 10 random draws to reduce autocorrelation, set a
+burnin period of 105 draws to let the chain stabilize, and start‐
+ing  from  4 separate chains. Thus, in total, we have 2105 effec‐
+tive draws with about 2106 draws discarded. One could reduce  the
+computation  time, but consequently might risk the quality of da‐
+ta. This implementation provides not only posterior estimation on
+parameters  and  prevalence  of all three compartments in the SIR
+model, but also predicted proportions of the infected and the re‐
+moved  cases  at  future  time  points. To obtain predicted case‐
+counts from the predicted prevalence, we used 1.34 billion as the
+population  of  India, thus treating the country as a homogeneous
+system for the outbreak (The World Bank).  Uncertainty  Quantifi‐
+cationOne  major  advantage  of a Bayesian implementation is that
+uncertainty associated with all parameters and functions  of  pa‐
+rameters can be calculated from exact posterior draws without re‐
+lying on large‐scale approximation or the delta method. The cred‐
+ible  intervals  (CrI)  for the prevalence are computed using the
+posterior distribution of proportions  given  the  observed  con‐
+firmed  and removed prevalence, i.e., Y t + 1 : T | Y 1: t0, Y 1:
+t0 and Y t0 + 1 : T | Y 1: t0, Y 1: t0, where t0 denotes the last
+observed  date,  and  T  denotes  the  last  forecast date.  More
+specifically, suppose we want to compute the  95%  posterior  CrI
+for  the  observed proportion of confirmed cases on the first day
+of forecast, i.e., a CrI for the random variable Y tI0 + 1. Then,
+from the M solution paths of the posterior, we have the draws Y t
++ 1, 1  m  M . We construct a 95% posterior CrI for Y tI0 + 1  by
+simply  computing the 2.5th upper and lower percentiles from this
+set of M draws. The cumulative prevalences are sums of the  draws
+from the I and R compartments at a given time and thus the confi‐
+dence Ray et al.  interval for the sum can  be  calculated  in  a
+similar  way. Case‐counts can be obtained from prevalences by us‐
+ing population size. Similar techniques apply to tI0 + j for  any
+1  j  T  t0 and transmission parameters like  and . For instance,
+a 95% posterior CrI for  can be constructed  by  calculating  the
+2.5th  upper and lower percentiles of {(m), 1  m  M}.  Therefore,
+we could simply define R(m) =
+ 1  m  M, and compute the 95% posterior CrI for the effective re‐
+production  number  R from {(m), 1  m  M}.  Parameter choices for
+short‐term forecasts We made projections of the cumulative number
+of  cases  over a time horizon to assess the short‐term impact of
+lockdown as well as the long‐term impact of  lockdown  and  post‐
+lockdown  activities. For the short‐term forecast on April 30, we
+assumed lockdown is implemented until April 14 with either  a  1‐
+or  a  2‐week  delay in peoples adherence/ compliance to lockdown
+restrictions. We compared these projections with two hypothetical
+scenarios:  (A)  no non‐pharmaceutical intervention (i.e., a con‐
+stant disease transmission rate over time since  the  first  case
+was  reported  in India), (B) a moderate intervention with social
+distancing and travel bans only (i.e., a  decreased  transmission
+rate compared to no intervention). The prior mean for R0 (the ex‐
+pected number of cases generated by one infected person  assuming
+that  the  whole  population is susceptible) was set at 2.0. This
+was estimated based on the early phase data in India and is  con‐
+sistent  with  other  models (S. Das, 2020; Deb & Majumdar, 2020;
+Ranjan, 2020; Sardar et al., 2020; Singh & Adhikari, 2020).   For
+the  no  intervention and the moderate intervention scenarios, we
+chose the transmission rate and the removal rate  such  that  the
+means for the prior distribution of the basic reproductive number
+R0 are 2.0 and 1.5 respectively (SD=1). The change in R0 from 2.0
+to  1.5 as an effect of intervention was created based on what we
+saw regarding the effect of interventions and the relative reduc‐
+tion  of  R0  in  Wuhan (C. Wang et al., 2020). Given the similar
+population size and comparable population densities in China  and
+India,  the  assumption on similar effect of interventions on the
+pandemic across the two countries does not seem too  restrictive.
+For  the  current  scenario  of lockdown, our chosen mean for the
+prior of R0 starts with 2.0 during the period of no intervention,
+drops  to  75%  of its original value or 1.5 during the period of
+moderate intervention, and further drops to 0.8 during the 21‐day
+(assuming  a  gradual,  moderate resumption of daily activities).
+The drop in R0 from 2.0 to 0.8 during lockdown represents  a  60%
+reduction,  which  is  proportionally slightly less than the ~65%
+drop estimated in R0 from the COVID‐19 outbreak in Wuhan  follow‐
+ing  the introduction of cordon sanitaire (Lin, 2020; Pan et al.,
+2020).  Parameter choices for long‐term forecasts For the longer‐
+term  forecast  until  June  15, we considered three hypothetical
+post‐lockdown scenarios: (i) people return to  normal  activities
+due  to  the  urgent desire for reconnecting after lockdown; (ii)
+people return to moderate activities as they did during the peri‐
+od  with social distancing and travel ban intervention; and (iii)
+people make a cautious return out of fear for the coronavirus and
+partake  in subdued activities. For these three scenarios, we as‐
+sume the prior mean on R0 moves back up from 0.8 to 2.0, 1.5  and
+1.2  respectively  three Ray et al.  weeks after lockdown ends on
+April 14. We compared these post‐lockdown scenarios with  another
+hypothetical  scenario  involving perpetual social distancing and
+travel ban without any lockdown (we fixed the prior mean on R0 at
+1.5  over the entire forecasting interval). The Parameter choices
+for duration of lockdown analysis To assess the long‐term  impact
+of lockdown duration, we considered four scenarios: 21‐, 28‐, 42,
+and 56‐day lockdown periods. In all scenarios, we assume the pri‐
+or  mean  on  R0 remains at 0.8 for the duration of the lockdown.
+Post‐lockdown, the prior mean on R0 gradually returns to a  value
+of  1.5 over a span of three weeks (analogous to the moderate re‐
+turn scenario). The changes to R0 values  across  our  simulation
+scenarios  for  studying Open‐source software We are committed to
+data transparency and reproducible research. Daily updates of our
+India  projections, based on cases, recovered and deaths reported
+the day before by covid19india.org, a crowd‐sourced database  us‐
+ing state bulletins and official handles, can be found in our in‐
+teractive and dynamic Shiny app (covind19.org).  Apart  from  the
+scenarios  with quantification of uncertainties. Open source code
+underlying this app are available at As we interpret the  results
+from  our  model, let us use caution in not over‐interpreting the
+numbers. Any statistical model is wrinkled with many assumptions.
+Similarly,  the predictions themselves have large uncertainty (as
+reflected by the large upper credible limits). A rigorous quanti‐
+tative treatment often allows us to analyze a problem with clari‐
+ty and objectivity, but we recommend focusing more on the  quali‐
+tative  takeaway  messages from this exercise rather than concen‐
+trating on the exact numerical projections or quoting  them  with
+certainty.   Short‐term forecast of cumulative case counts in In‐
+dia Under national lockdown (March 25  April 14),  our  predicted
+cumulative  number  of  COVID‐19  cases  in India on April 30 are
+19,625 and 19,503 (upper 95% CrI 130,326 and 129,422) assuming  a
+1‐  or  2‐week  delay (i.e., either a quick or a slow adherence),
+respectively, in peoples adherence to lockdown restrictions and a
+gradual,  moderate the predicted cumulative number of cases under
+no intervention and the intervention involving social  distancing
+and travel bans without lockdown are 222 thousand and 53 thousand
+(upper 95% CrI of nearly 1.4 million and 0.3 million) respective‐
+ly.  Under quick lockdown with moderate return compared to no in‐
+tervention and social distancing and travel ban. The relative re‐
+duction  in  cases between two scenarios (often from the least to
+Ray et al.  the most intense intervention) is calculated  as  the
+difference  between an estimate (on a particular day, e.g., April
+30) under the social distancing and travel ban scenario and under
+the  lockdown  with  moderate return scenario and then divided by
+the estimate under the social distancing and travel ban scenario.
+We are reporting only the upper credible limit here and elsewhere
+since the lower credible limits are very small and  uninformative
+due to the large uncertainty in our predictions arising from many
+unknowns. We also believe that our point estimates  are  at  best
+underestimates  due to potential surveillance bias (under‐report‐
+ing and/or misdiagnosis of case‐counts) and our model not  taking
+into  account the population density, age‐sex composition and re‐
+gional contact network structure of the whole nation. Increase in
+testing  and community transmission may lead to a spike in a sin‐
+gle day and that may increase the projections  substantially  up‐
+ward. Regardless of the exact numbers it is clear that the 21‐day
+lockdown will likely have a strong relative  effect  on  reducing
+the  predicted number of cases in the short term when compared to
+weaker interventions.  Long‐term impact of lockdown on  the  out‐
+break  in  India  We took a close look at what might be coming in
+the next two months, based on what we have seen  in  other  coun‐
+tries and an epidemiologic model that has been gainfully employed
+to assess the effect of interventions in Hubei province (L.  Wang
+et  al.,  2020). We estimate that roughly 388 thousand (upper 95%
+CrI 2.4 million), 7.5 million (upper 95% CrI  104  million),  and
+18.5  million  (upper 95% CrI 196 million) cases are prevented on
+May 15, June 15, and July  15,  respectively,  by  instituting  a
+21‐day  lockdown  with quick adherence and a cautious return com‐
+pared to perpetual social  distancing  and  travel  ban  (without
+lockdown)  respectively, compared to perpetual social distancing.
+Without some measures of suppression after  lockdown  is  lifted,
+the  impact of lockdown in bringing down the case‐counts (the now
+ubiquitous term, flattening the  curve)  can  be  (normal)  curve
+first  passes  the social distancing and travel ban curve on June
+5. In particular, if people immediately go back to  pre‐interven‐
+tion  (normal)  activities postlockdown, a surge in the predicted
+case‐counts is expected in the long‐term  beyond  what  we  would
+have  seen  if  there  were only social distancing and travel ban
+measures without any lockdown (27 million when post‐lockdown  ac‐
+tivity returns to pre‐intervention levels versus 26 million under
+social distancing and travel ban without a lockdown period on Ju‐
+ly  31;  return post‐lockdown would surpass social distancing and
+travel ban (if these scenarios continued perpetually).  Long‐term
+forecasting under slow adherence (2‐week delay) can be We present
+posterior density and trace plots for the underlying model param‐
+eters  ,   and  R0, posterior distributions for the predictions Y
+and the latent proportions  for the I  and  R  compartments  over
+time,  and  estimates  and  posterior  distribution  of the daily
+prevalence of active cases over time or Ray et al.  Relative  im‐
+pact of duration of lockdown on predicted case‐counts We took the
+quick adherence epidemiologic  models  and  compared  the  21‐day
+lockdown  21‐day  lockdown with a hypothetical lockdown of longer
+duration, we find that 28‐, 42‐, and 56‐day lockdowns can approx‐
+imately  prevent  733  thousand  (upper 95% CrI 6.8 million), 1.4
+million (upper 95% CrI 9.8 million), 1.6 million (upper  95%  CrI
+10.3  million) cases by June 15, respectively. These numbers cor‐
+respond to a relative reduction in cases of 45%, 86% and 96%, re‐
+spectively.  A 28‐day lockdown does not appear to have a substan‐
+tial impact on cumulative case counts when compared to  a  21‐day
+lockdown.  From an epidemiologic perspective, there appears to be
+some evidence that suggests a 42‐ or 56‐day lockdown would have a
+more  meaningful  impact  on  reducing  cumulative  COVID‐19 case
+counts in India. Our models suggest that some form of  post‐lock‐
+down  suppression (e.g., extension of social distancing measures,
+limits of gathering size, etc.) is necessary to observe long‐term
+benefits of the lockdown period. We note that longer lockdown pe‐
+riods are also accompanied by  increasing  costs  to  individuals
+such as economic costs, mental health issues, other public health
+exacerbation costs,  and  must  be  considered  in  policymaking.
+Lockdown  duration  study under the slow adherence (2‐week delay)
+scenario can be found in Sensitivity analyses We did explore some
+alternative assumptions and conducted thorough sensitivity analy‐
+sis before settling on the models presented above. In  one  exam‐
+ple,  we  assumed  that there are actually 10 times the number of
+reported cases to date to  reflect  potential  underreporting  of
+cases  due  to  lack  of testing. We note that our predictions of
+case‐counts indeed go up and  the  under‐reporting).  In  another
+scenario,  we  assumed these cases occurred in metropolitan areas
+to reflect a potential intensification of case clustering. In our
+primary  analyses,  we  assumed  that  the cumulative case‐counts
+across the country represent equal contributions from all the re‐
+gions,  and using the whole population of India as a scaling fac‐
+tor to compute initial inputs for Y 1: t0 and Y 1: t0.  This  may
+lead  to extremely small proportions, which may in turn yield un‐
+derestimated outputs from the eSIR model. Changing the total pop‐
+ulation size from that of India to that of representative (large)
+cities from the hub states (the states of Kerala, Maharashtra and
+Karnataka,  and the national capital region of Delhi) is a simple
+but intuitive way to potentially do away with the  aforementioned
+underestimation.  We  note that yet a third scenario, we hypothe‐
+sized that the prior mean of R0 is set at 3.0 or 4.0  instead  of
+2.0  (i.e., a single infected individual would infect 3 or 4 sus‐
+ceptible individuals, on average, between 1.8 and 2.4,  irrespec‐
+tive  of  whether  a higher/lower starting (prior) mean was used.
+We observe that a prior mean of 4.0 for R0 sways the posterior R0
+estimate  substantially (posterior mean 3.38). As more data accu‐
+mulate, we will expect the effect of the prior on  the  posterior
+estimates  to diminish. The posterior distributions of the preva‐
+lence in each Ray et al.  compartment and latent proportions  un‐
+der  these  changing scenarios are available in In summary, these
+sensitivity analysis scenarios did  not  appreciably  change  our
+conclusions  in broad qualitative terms, though the exact quanti‐
+tative projections for case‐counts are quite  sensitive  to  such
+choices.  We  note that the estimate of basic reproduction number
+R0 is more robust to underreporting issues as counts in all  com‐
+partments  of  our  eSIR  model  are assumed to be underreported.
+Since underreported case‐counts affect all our  hypothetical  in‐
+tervention scenarios in a similar way, the relative comparison of
+interventions and the associated conclusion  remain  valid  in  a
+qualitative  sense. In all cases, our confidence in these projec‐
+tions decreases markedly the farther into the future  we  try  to
+forecast. It is extremely important to update these models as new
+data arise.  Model Calibration To check the  calibrating  proper‐
+ties  of  our  model,  we truncated the data to certain dates and
+tried assessing the quality of the  case‐count  predictions  with
+essentially  adding  one more do notice the projected case‐counts
+change significantly with more data and improve (become closer to
+the  observed)  with more data. Our projections always underesti‐
+mate the observed counts. This phenomenon is  also  due  to  more
+testing  being  done  each week.  However, the observed number of
+infected cases is always within the 95% prediction  credible  in‐
+terval provided by our model. This again reveals the large uncer‐
+tainty in our Our projections using current daily  data  on  case
+counts  until April 14 in India show that the lockdown, if imple‐
+mented correctly in the end, has a high chance  of  reducing  the
+number  of  COVID‐19 cases in the short term and buying India in‐
+valuable time to prepare its healthcare  and  disease  monitoring
+system.  In  the long‐term, we need to have some measures of sup‐
+pression in place after the lockdown is lifted to prevent a  mas‐
+sive  surge  in the number of cases that can quickly overwhelm an
+already over‐stretched Indian healthcare system resulting in  in‐
+creased  fatalities.  Specific  vulnerable populations will be at
+higher risk of severity and  fatality  from  COVID‐19  infection:
+older  persons  and  persons with pre‐existing medical conditions
+(e.g., high blood pressure, heart disease, lung disease,  cancer,
+diabetes,  immunocompromised  persons)  (Coronavirus Disease 2019
+(COVID‐19): Are You at Higher 1 provides a description of the ap‐
+proximate  number of individuals in these high‐risk categories in
+India. Beyond the fragile population characterized by health  and
+economic indicators, we must remember that healthcare workers and
+first responders at the front line of this pandemic  are  amongst
+the  most  vulnerable  (C. Wang et al., 2020). Though we have fo‐
+cused on forecasting and modeling of COVID‐19 case‐counts in this
+paper,  we recognize that this is only one component of the prob‐
+lem. Long term surveillance and management of the COVID‐19 crisis
+is  needed  with  not just public health in mind but also to take
+care of the economic, social, and psychological  impact  that  it
+will  have  on  the people of India.  Ray et al.  Our statistical
+modeling and forecasts are not without limitations. We have  lim‐
+ited  number of data points and a wide time‐window to extrapolate
+for the long‐term forecasts. The uncertainty in  our  predictions
+is  large  due  to  many unknowns arising from model assumptions,
+population demographics, the number of COVID‐19 diagnostic  tests
+administered  per day, testing criteria, accuracy of the test re‐
+sults, and heterogeneity in implementation of  different  govern‐
+ment‐initiated  interventions and community‐level protective mea‐
+sures across the country. We  have  neither  accounted  for  age‐
+structure, contact patterns or spatial information to finesse our
+predictions (Klein et al., 2020; Mandal et al., 2020; Singh & Ad‐
+hikari,  2020)  nor considered the possibility of a latent number
+of true cases, only a fraction of which are ascertained  and  ob‐
+served (C. Wang et al., 2020). Increase in frequency and scale of
+testing, and community transmission of the SARS‐CoV‐2  virus  may
+lead to a spike in a single day and that can shift the projection
+curve substantially upwards. COVID‐19 hotspots in India  are  not
+uniformly spread across the country, and statelevel forecasts (S.
+Das, 2020) may be more meaningful for  state‐level  policymaking.
+We  are  assuming  that  the implementation and effects of public
+health interventions and policies are the same everywhere in  In‐
+dia  by  treating  India  as  a homogeneous unit.  The eSIR model
+treats the entire group of people within a single compartment  as
+homogenous and exchangeable. We also assume that all subjects who
+were not infected are susceptible. Certainly, this overlooks  the
+possibilities  of people moving between states and different sub‐
+sets of infected and susceptible populations  having  greater  or
+lesser likelihood of coming into contact with one another. To ac‐
+count for all such potential factors, we need more nuanced model‐
+ing.  One  potential way is to break up the interaction component
+into further sub‐compartments; however, sparsity of current  data
+in  each  sub‐compartment  is an issue. Another way that has been
+pursued in a recent study is to inform the SIR modeling  via  in‐
+troducing contact networks at the initial stage (Bhattacharyya et
+al., 2020). However, it is worth noting that  any  such  approach
+would  need more granular and reliable data containing individual
+details of the confirmed cases including their location and trav‐
+el  history.  Even though such data are available from some self‐
+reporting‐based repositories (Novel Corona  Virus  2019  Dataset,
+2020),  the  quality  and  detail of the information provided are
+quite heterogeneous and, thus, how to best utilize such data  re‐
+mains  a  question.  We  see  the tremendous role of data and its
+transparency of collection and reporting in finessing our predic‐
+tions.  Accurate  and  consistent  reporting  of  case counts and
+deaths due to COVID‐19 are extremely critical. Future  opportuni‐
+ties for improving our model include incorporating contagion net‐
+work, age‐structure, estimating SEIR  model,  incorporating  test
+imperfection,  and  estimating  true fatality/death rates. Future
+research would benefit from easily accessible hospitalization da‐
+ta, accurate recording of deaths in death records, and availabil‐
+ity of ecological‐level covariate data. Regardless of the caveats
+in our study, our analyses show the impact and necessity of lock‐
+down and of suppressed activity post‐lockdown in  India.   Though
+the  exact  numerical projections are perhaps far from the truth,
+the qualitative inference on the relative effects of  the  inter‐
+ventions  are  still valuable and valid since all projections are
+subject to similar biases.  Ray et al.  One  ideological  limita‐
+tion  of considering only the perspective of controlling COVID‐19
+transmission in our model is the inability to account for  excess
+deaths  due  to  other causes during this period (chronic disease
+and mental health related diseases in particular), or the  flexi‐
+bility  to factor in reduction in mortality/morbidity due to some
+other infectious  or  flulike  illnesses,  traffic  accidents  or
+health benefits of reduced air pollution levels. A more expansive
+framework of a cost‐benefit analysis is needed as we gather  more
+data  and  build may affect our conclusions. Indias priorities in
+testing have changed multiple times over the last few  weeks.  On
+March 17, India proposed testing all people who recently traveled
+internationally and developed symptoms (fever, cough,  difficulty
+in  breathing  etc.) of COVID‐19 within 14 days of return, or all
+symptomatic contacts of laboratory confirmed positive  cases,  or
+all  symptomatic  health  care  workers managing respiratory dis‐
+tress. On March 20, India revised this testing  strategy  to  in‐
+clude  all  symptomatic  healthcare workers, all hospitalized pa‐
+tients with Severe Acute Respiratory  Illness  (fever  and  cough
+and/or  shortness  of  breath), and asymptomatic direct and high‐
+risk contacts of a confirmed case to be tested once between day 5
+and  day  14  of  coming into contact. More recently, the testing
+strategy was again revised on April  9  to  additionally  include
+testing  of  all  symptomatic  people  in hotspots/cluster and in
+large migration  gatherings/evacuee  centers.  These  testing  We
+looked  a little deeper into the issue of testing bias using data
+from Our World in Data (staying at about 4%) and do not  show  an
+obvious  increasing  trend  yet like in other countries have per‐
+formed remarkably in administering a large number  of  tests  per
+detected case and serve as examples for the world. We also looked
+at the proportion of the population tested in tested  around  13%
+of  the population, India has tested roughly 0.06% population and
+it will take weeks if not months for India to reach  testing  13%
+of  the population. In the absence of rapid and large‐scale test‐
+ing, informative proxies or surrogates  can  be  tracked  through
+syndromic  surveillance, temperature reporting, monitoring hospi‐
+tal admissions and medical claims due to respiratory and flu like
+illnesses.  This  additional information will strengthen the pre‐
+diction models. In absence of these models we rely on sensitivity
+analysis for Our data science product Finally, in our strong com‐
+mitment to reproducibility and dissemination of our research,  we
+cov‐ind‐19)  and  created  an  interactive and dynamic RShiny app
+(covind19.org) to visualize Ray et al.   the  observed  data  and
+create  predictions under hypothetical scenarios with quantifica‐
+tion of uncertainties. These forecasts are updated daily  as  new
+data come in. We hope these products will remain our contribution
+and service as data scientists during this tragic  global  catas‐
+trophe,  and  the  model and methods will be used to analyze data
+from other countries.  Our epidemiologic and mathematical  calcu‐
+lations make a convincing case for enforcing national lockdown in
+the largest democracy in the  world,  acting  early,  before  the
+growth  of  COVID‐19 infections in India starts to accelerate. We
+observe the public health benefit of extending the lockdown by 35
+weeks  in  our  projections.  Measures  of suppression are needed
+post‐lockdown to acquire  maximal  long‐term  benefits  from  the
+lockdown.  We  also illustrate the critical role of epidemiologic
+forecasting in aiding policy decisions through this modeling  ex‐
+ercise.  We  highlight the importance of conducting model checks,
+sensitivity analysis and uncertainty quantification.  We  realize
+that  these draconian public health measures come at a tremendous
+price to social and economic health that can last for  months  or
+even  years after the restrictions on social mobility are lifted.
+Our general message to the public is to proceed with prudence and
+caution and adhere to effective public health interventions until
+there are rapid and reliable home testing  kits  [there  is  none
+yet]  (Food  and  Drug  Administration, 2020), FDA approved drugs
+[Solidarity Trial] (World Health Organization, 2020), and a  vac‐
+cine [5 clinical trials Professor Ravi Pendse, for enabling daily
+updates to our models and allocating  us  abundant  computational
+came together to provide their service as quarantined data scien‐
+tists. We thank our families and friends for their support during
+these unprecedented times. The initial report made a profound im‐
+pact through media outlets; we found inspiration  in  the  heroic
+battles by frontline health workers, we found hope in science, we
+found strength in the power of common people and we found  solace
+in  the  magic of human kindness. We wish the government and Dis‐
+closure Statement Proportion of population in  specifically  vul‐
+nerable  subgroups  at potentially high risk of COVID‐19 severity
+risk in India.  Number (in millions) Prinja et al.  2019  Ray  et
+al.   Number  (in millions) Population over 65 CIA World Factbook
+Gupta & Ram 2019 Gupta & Ram 2019 People with cardiovascular dis‐
+ease*  Prabhakaran  et  al. 2018 Population with COPD* Population
+with asthma* Develop cancer by age 75 (men)** Develop  cancer  by
+age  75  (men)** Population with diabetes (adult) Access to inpa‐
+tient department facilities*** Access to outpatient department***
+based on 2020 est. of 1.38 billion from UN Department of Economic
+and Social Affairs defined as within 5‐kilometer distance of home
+or  work of Cancer Prevention and Research Intervention landscape
+of countries severely affected by COVID‐19 Date of1st Lockdown in
+Wuhan  on  01/22, extended to neighboring cities in 1 Hubei prov‐
+ince on 01/23. Wuhan lockdown to  be  lifted  on  04/08.   Tested
+widely for the virus, isolated cases and quarantined transmission
+of the virus. The country appears to have reined in the  outbreak
+without some of the2strict lockdown strategies deployed elsewhere
+in the world.  On 01/31, restricted travel from  China;  expanded
+restrictions  to  other  countries on 02/29. On 03/03, CDC lifted
+all restrictions on testing. On 03/15, CDC recommends no  gather‐
+ings  of350  people  or  more.  Stay‐at‐home directives issued at
+state‐level.  On 03/17, France  imposed  a  nationwide  lockdown,
+prohibiting  gatherings  of  any  size  and postponing the second
+round its municipal elections. The lockdown was  one  of  Europes
+most stringent. While residents were told to stay home, officials
+allowed people to go out for fresh air but warned that meeting  a
+3  friend  on  the street or in a park would be punishable with a
+fine.  Germany has a National Pandemic Plan, with  three  stages.
+In the identifying contact persons, who are put in personal quar‐
+antine and are monitored and tested. In the second stage (protec‐
+tion)  the strategy will change to using measures to protect vul‐
+nerable persons from becoming infected. The final stage  (mitiga‐
+tion) will try to avoid spikes4of intensive treatment in order to
+maintain medical services.  Citizens advised to stay at home. Vi‐
+olators  to  be fined with the exception of a few special circum‐
+stances, in order to contain the spread of the disease. The  gov‐
+ernment  is  supporting  and  curative options.  Ray et al.  Date
+of1st Flights to China suspended and  a  national  emergency  de‐
+clared  on universities closed on 03/04. By 03/09, the entire na‐
+tion placed under lockdown, with  restaurants,  bars  closing  on
+03/11  and 6 factories closing on 03/22. All nonessential produc‐
+tion halted.  bars, restaurants and  shops  selling  nonessential
+items  have been 7 shut since March 14 and most of the population
+is house bound.  prayers and moved to restrict visitors from Chi‐
+na.  On  03/15,  the  official leading Iran’s response to the new
+coronavirus acknowledged Sunday that the pandemic could overwhelm
+health  facilities  in his 8 country, which is battling the worst
+outbreak in the Middle East.  Date of 1 case data  obtained  from
+JHU  CSSE  time series data on LUV1D‐19 (except for China & South
+Korea) Comparison of types of infectious disease models, specifi‐
+cally  those  used to study COVID‐19 in India Model type Research
+question Gupta and Provide estimate of  the  infected  population
+using  death  counts Simple model helpful for scant data; modeled
+epidemic hotspots Not accounted for population demographics (lim‐
+ited  by  data), nonpharmaceutical (NP) intervention effects; re‐
+quires infection fatality rate Poisson log‐linear  prediction  of
+future case counts; estimate R0 Simple model helpful for short‐ &
+mediumterm forecasts using scant data;  accounted  for  quadratic
+effect of time Not accounted for population demographics (limited
+by data), hotspots, NP intervention  effects;  surveillance  bias
+Deb and Analyze the trend pattern of incidence; estimate Account‐
+ed for quadratic effect of time, lockdown effect;  captured  time
+dependence  incidence  Not  accounted for population demographics
+(limited by data), hotspots; surveillance bias Ray et al.   Model
+type Research question prediction of future case counts; estimate
+R0 Classical epidemiologic model used; accounted for social  dis‐
+tancing Not accounted for population demographics (limited by da‐
+ta), hotspots; surveillance bias; used first few  weeks  of  data
+SIR model Dhanwant and prediction of future case counts Classical
+epidemiologic model used; split observed data into  training  and
+test data; training data used to learn the transmission rate; in‐
+corporated lockdown effect Not  accounted  for  population  demo‐
+graphics (limited by data), hotspots; surveillance bias; lockdown
+training data not used to learn  about  transmission  rate  under
+lockdown  SIR  model  Singh and Study progress of the disease and
+impact of social measures; estimate Extended epidemiologic  model
+accounting  for age distribution, social contact, social distanc‐
+ing effect Not accounted for other population demographics  (lim‐
+ited  by  data), hotspots; surveillance bias; complex model given
+the scant count data and spotty individuallevel  data  Mandal  et
+al.   Identify  NP  strategies that can help control the Extended
+epidemiologic model with an added compartment for quarantine; ac‐
+counted  for other NP interventions, and connectivity between two
+places Not accounted for population demographics (limited by  da‐
+ta); surveillance bias; complex model given the scant count data;
+lockdown effect not studied; studied four  cities  Expanded  SEIR
+Chatterjee  et  Assess  the impact on healthcare resources; study
+the effect of different NP interventions  Extended  epidemiologic
+model  with  added subcompartments for quarantined, recovered and
+death; accounted for different NP  interventions;  accounted  for
+age  groups Not accounted for other population demographics (lim‐
+ited by data), hotspots; surveillance bias; complex  model  given
+the  scant  count data and spotty individuallevel data; hospital‐
+izationrelated parameters based on UK data; lockdown  effect  not
+studied  Extended  epidemiologic model with added subcompartments
+for asymptomatic cases, hospitalized, recovered and death Not ac‐
+counted  for  other  population  demographics  (limited by data),
+hotspots; surveillance bias; complex model given the scant  count
+data; lockdown effect not Extended epidemiologic model with added
+subcompartments for asymptomatic cases,  lockdown,  hospitalized,
+recovered  and  death; accounted for transmission variability be‐
+tween symptomatic and asymptomatic groups; modeled  hotspots  and
+overall  Not accounted for other population demographics (limited
+by data); surveillance bias; complex model given the scant  count
+Expanded  SEIR Senapati et al.  Assess the effect of different NP
+Expanded SEIR Sardar et al.  Assess long‐term  effect  of  21‐day
+lockdown;  estimate Ray et al.  The SIR model with (A) or without
+(B) considering human intervention by introducing a  transmission
+rate  modifier (t).  Ray et al.  Implied R0 schedules correspond‐
+ing to the hypothetical scenarios under slow adherence.   Ray  et
+al.   Short‐term  daily growth in cumulative case counts in India
+assuming a 2‐ week delay in peoples  adherence  to  restrictions.
+Observed  data  are shown for days up to April 14.  Predicted fu‐
+ture case counts for April 15 until April 30  are  based  on  ob‐
+served  data  until  April  14  using the eSIR model.  Ray et al.
+Long‐term daily growth in case counts in India per 100,000 people
+assuming  a  2‐week  delay  and how that is affected by different
+non‐pharmaceutical intervention strategies. Predicted  cumulative
+(a)  and  incident  (b) case counts from April 30 to July 31 from
+the eSIR model are shown, based on observed data until April  14.
+a. Predicted number of COVID‐19 cases in India under hypothetical
+scenarios b. Predicted number of new COVID‐19 cases in India  un‐
+der  hypothetical  scenarios  Ray  et al.  Ray et al.  Ray et al.
+Trace plots and posterior density plots for the underlying  model
+parameters   (a),   (b),  and R0 (c), posterior distributions for
+the predictions Y and the latent proportions  for the I (d) and R
+(e) compartments over time, and estimates and posterior distribu‐
+tion of the daily prevalence of active cases over  time  or  (f).
+These  plots  correspond to the 21‐day lockdown with moderate re‐
+turn scenario under quick adherence.  a. Trace plots and posteri‐
+or  density  plots  for  Ray et al.  b. Trace plots and posterior
+density plots for c. Trace plots and posterior density plots  for
+R0 d. Posterior distribution for the predictions Y and the latent
+proportions  for the I (infected) e. Posterior  distribution  for
+the  predictions Y and the latent proportions  for the R f. Esti‐
+mates and posterior distribution of the daily prevalence  of  ac‐
+tive  cases over time or Ray et al.  Cumulative (a) and incidence
+(b) graphs for forecasting models assuming a 2‐week  delay  under
+21‐,  28‐, 42‐, and 56‐day lockdown scenarios using observed data
+through April 14.  a. Predicted number of COVID‐19 infections un‐
+der  varying  lockdown  lengths  b.  Predicted  number  of  daily
+COVID‐19 infections under varying lockdown  lengths  Ray  et  al.
+Implied  R0  schedules  corresponding to quick and slow adherence
+for the hypothetical lockdown duration  scenarios.   a.  R0  over
+time  by  scenario b. R0 over time by scenario Ray et al.  Ray et
+al.  Posterior distributions of the projected case‐counts and la‐
+tent  proportions under sensitivity a. Scenario with 10 times the
+number of reported cases (e.g., under‐reporting) b. Scenario  us‐
+ing metro population (e.g., to mimic case‐clustering) c. Scenario
+with prior mean of R0 = 2 d. Scenario with prior mean of R0  =  3
+e.  Scenario with prior mean of R0 = 4 Ray et al.  Model Calibra‐
+tion: Relative comparison of predictions using observed  data  up
+to  a  certain  date (April 1, 7 and 14). Observed data (gray) is
+provided through April 30.  Ray et al.  Daily testing patterns in
+selected  countries  Ray  et al.  Testing numbers and proportions
+for 61 countries around the  world  affected  by  COVID‐19  Bhat‐
+tacharyya R, Mohammed S, Baladandayuthapani V, Banerjee S, & Nan‐
+da U (2020, 4). Regional Contact Networks and the Pandemic Spread
+of  COVID‐19 in India. Medium.  Chatterjee K, Chatterjee K, Kumar
+A, & Shankar S (2020). Healthcare  impact  of  COVID‐19  epidemic
+Chen  N,  Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu
+Y, Wei Y, Xia J, Yu T, Zhang X, & Zhang L (2020). Epidemiological
+and  clinical  characteristics  of  99 cases of 2019 novel coron‐
+avirus pneumonia  in  Wuhan,  China:  a  descriptive  study.  The
+Lancet, 395(10223), 507513.  Coronavirus Disease 2019 (COVID‐19):
+Are You at Higher Risk for Severe Illness? (2020). Centers Das  P
+(2020,  4  1).  Epidemiologic models show we need aggressive mea‐
+sures in the early Das S (2020). Prediction of  COVID‐19  disease
+progression  in  India: Under the effect of national Deb S, & Ma‐
+jumdar M (2020). A time series method to analyze  incidence  pat‐
+tern  and  estimate Ray et al.  Dong E, Du H, & Gardner L (2020).
+An interactive web‐based dashboard  to  track  COVID‐19  in  real
+time.         The        Lancet        Infectious        Diseases
+10.1016/S1473‐3099(20)30120‐1.  Ellis‐Petersen H  (2020,  3  25).
+Overcome by anxiety: Indians in lockdown many can ill afford. The
+Food  and  Drug  Administration.  (2020,   3   20).   Coronavirus
+(COVID‐19)  Update: FDA Alerts Ghosal D (2020, 3 23). India faces
+spike in coronavirus cases, says study, in test for  health  sys‐
+tem.  Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, Liu L, Shan H, Lei
+C, Hui DSC, Du B, Li L, Zeng G, Yuen K‐Y, Chen R, Tang C, Wang T,
+Chen  P,  Xiang  J,   Zhong N (2020). Clinical characteristics of
+Gupta S, & Shankar R (2020). Estimating the  number  of  COVID‐19
+infections  in  Indian  hotspots  using Hasell J, Ortiz‐Ospina E,
+Mathieu E, Ritchie H, Beltekian D, Macdonald B, & Roser M (n.d.).
+Our  Indian  Council  of  Medical  Research.  (2020).  SARS‐CoV‐2
+(COVID‐19) Testing: Status Update 14  April  2020  9:00  PM  IST.
+Klein  E, Lin G, Tseng K, Schueller E, Kappor G, & Laxminarayan R
+(2020). COVID‐19 for India Li Q, Guan X, Wu P, Wang  X,  Zhou  L,
+Tong  Y,  Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang N, Wu
+Y, Li C, Chen Q, Li D, Liu T, Zhao J, Liu M,  Feng Z (2020). Ear‐
+ly   transmission   Medicine,   382(13),  11991207.  10.1056/NEJ‐
+Moa2001316. [PubMed: 31995857] Lin X (2020). Analysis  of  25,000
+lab‐confirmed  COVID‐19 cases in Wuhan: Epidemiological Mandal S,
+Bhatnagar T, Arinaminpathy N, Agarwal A, Chowdhury A, Murhekar M,
+Gangakhedkar  R,  & Sarkar S (2020). Prudent public health inter‐
+vention strategies to control the coronavirus  disease  Microsoft
+bing  COVID‐19  tracker. (n.d.). Microsoft Corporation. Retrieved
+March 19, 2020, from Mkhatshwa T, & Mummert  A  (2010).  Modeling
+super‐spreading  events  for  infectious diseases: Case Noronha G
+(2020, 4 10). India could see a reduction in the number of coron‐
+avirus  cases  by next week: Oke J, & Henegan C (2020, 4). Global
+COVID‐19 Case Fatality Rates. CEBM Research.  Ray et al.  Pan  A,
+Liu  L, Wang C, Guo H, Hao X, Wang Q, Huang J, He N, Yu H, Lin X,
+Wei S, & Wu T (2020).  Association of public health interventions
+with  the  epidemiology of the COVID‐19 outbreak in Wuhan, China.
+JAMA 10.1001/jama.2020.6130.  Plummer M, Stukalov A, & Denwood  M
+(n.d.).  rjags:  Bayesian  Graphical Models using MCMC.  Ranjan R
+(2020). Predictions for COVID‐19 outbreak in India using epidemi‐
+ological  models.   Ray  D, Bhattacharyya R, Wang L, Salvatore M,
+Mohammed S, Halder A, Zhou Y, Song  P,  Purkayastha  S,  Bose  D,
+Banerjee M, Baladandayuthapani V, Ghosh P, & Mukherjee B (2020, 3
+21). Predictions Root A (2020, 4). Nearly a  third  of  Americans
+with COVID‐19 are hospitalized. Here are the latest numbers. Bar‐
+rons.   coronavirus.  Epidemiology  and  Health,   42,   e2020006
+10.4178/epih.e2020006. [PubMed: Salvatore M, Ray D, Du J, Wang L,
+Das S, Kleinsasser M, Rix A, Barker D, & Mukherjee B  (2020,  4).
+Salvatore  M, Wang L, Bhattacharyya R, Purkayastha S, Mohammed S,
+Halder A, Barker D, Kleinsasser M, Rix A,  Banerjee  M,  Baladan‐
+dayuthapani V, Ray D, & Mukherjee B (2020, 4 3).  Historic 21‐day
+lockdown, predictions for lockdown effects and the role  of  data
+in  this  crisis of Sardar T, Nadim SS, & Chattopadhyay J (2020).
+Assessment of 21 days lockdown effect in some states Senapati  A,
+Rana  S,  Das T, & Chattopadhyay J (2020). Impact of intervention
+on the spread of Sindhu J, Reddy KK, Satyanarayana N, Devaraya S,
+&  Fathima A (2019). Hospital utilization statistics: Thirty‐five
+year trend analysis, a measure of  operational  efficiency  of  a
+tertiary care Singh R, & Adhikari R (2020). Age‐structured impact
+of social distancing on the COVID‐19  epidemic  Times  of  India.
+(2020,  3). Coronavirus: Does India have enough ventilators, hos‐
+pital beds? The Times Wang C, Liu L, Hao X, Guo H, Wang Q,  Huang
+J, He N, Yu H, Lin X, Pan A, Wei S, & Wu T (2020).  Evolving epi‐
+demiology and impact of non‐pharmaceutical interventions  on  the
+outbreak  of  coronavirus  disease 2019 in Wuhan, China. MedRxiv.
+10.1101/2020.03.03.20030593.  Wang L, Zhou Y, He J, Zhu  B,  Wang
+F,  Tang  L,  Eisenberg  M,  & Song PX (2020). An epidemiological
+forecast model and software assessing interventions  on  COVID‐19
+epidemic  in  China.  MedRxiv.  WHO Director‐Generals opening re‐
+marks at the media briefing on COVID‐19  11 March 2020.   Ray  et
+al.  World Health Organization. (2020, 3 27). WHO Director‐Gener‐
+als opening remarks at the media Ray et al.  Description  of  the
+cases,  recovered  and  fatalities in India with landmark policy/
+recommendations. Data used up to April 14.   Ray  et  al.   Early
+phase  of  the  epidemic  and daily growth in cumulative COVID‐19
+case counts in India compared to other countries affected by  the
+pandemic  using  data  through  April 14.  Ray et al.  Implied R0
+schedules corresponding the hypothetical  scenarios  under  quick
+adherence.   Ray  et  al.   Short‐term daily growth in cumulative
+case counts in India assuming a 1‐week delay in peoples adherence
+to restrictions. Observed data are shown for days up to April 14.
+Predicted future case counts for April  15  until  April  30  are
+based  on  observed data until April 14 using the eSIR model. The
+dashed horizontal line represents the upper  95%  credible  limit
+for estimates under lockdown with moderate release scenario.  Ray
+et al.  Long‐term daily  growth  in  case  counts  in  India  per
+100,000  people  assuming a 1‐week delay and how that is affected
+by different non‐pharmaceutical intervention strategies. Predict‐
+ed cumulative (a) and incident (b) case counts from May 1 to July
+31 from the eSIR model are shown, based on  observed  data  until
+April  14.  Corresponding plots for slow adherence are in a. Pre‐
+dicted number of COVID‐19 cases in India under hypothetical  sce‐
+narios  b.  Predicted number of new COVID‐19 cases in India under
+hypothetical scenarios Ray et al.  Cumulative (a)  and  incidence
+(b)  graphs  for forecasting models assuming a 1‐week delay under
+21‐, 28‐, 42‐, and 56‐day lockdown scenarios using observed  data
+through April 14.  a. Predicted number of COVID‐19 infections un‐
+der  varying  lockdown  lengths  b.  Predicted  number  of  daily
+COVID‐19  infections  under  varying  lockdown lengths Ray et al.
+Timeline of COVID‐19 interventions in India.
+ India issues travel ban on four countries ‐ China, South  Korea,
+Italy, and Iran
+ Union Health Ministry issues advisory to avoid mass gatherings
+ Mayor  of Agra urges the Union government to close down histori‐
+cal monuments including Taj Mahal
+ Kuwait suspends flights to India
+ Qatar puts India on travel ban list
+ Manipur closes its border with Myanmar
+ India suspends all visas/e‐visas granted to nationals of France,
+Germany, and Spain on or before today
+ WHO declares the COVID‐19 outbreak as pandemic
+ India  suspends all visas excepting those for diplomatic, UN, or
+international bodies, official and employment purposes until
+ India reports 1st death
+ India reports 2nd death
+ Several academic  institutions  (e.g.,  JNU,  IIT,  IIM)  cancel
+classes/convocations; some hostels close
+ Central  government  proposes  social  distancing measures until
+March 31
+ India bans passengers from EU countries, UK,  and  Turkey  until
+March 31
+ Central  government  recommends  closure of educational institu‐
+tions until March 31
+ Taj Mahal is shut until March 31; ASI closes 3,000 monuments and
+200 museums
+ Mandatory  quarantine  is imposed on passengers coming from UAE,
+Qatar, Oman, and Kuwait
+ India is heading towards a countrywide lockdown mode
+ Some state governments ban public transportation
+ Prime Minister urges people of  India  to  observe  self‐imposed
+curfew (Janata Curfew) on March 22
+ Maharashtra announces lockdown in Mumbai, Nagpur and Pune
+ Private  labs  can conduct COVID‐19 tests, says Maharashtra gov‐
+ernment
+ Rajasthan government declares lockdown until March 31
+ 12 states including Telangana and Delhi announce lockdown  until
+March 31
+ Railways suspends all train services until March 31
+ Central government orders all states in India to impose lockdown
+ Legal  action  is to be initiated against people violating lock‐
+down measures
+ Prime Minister of India announces lockdown for 21 days as  coun‐
+try records 552 COVID‐19 cases and 10 deaths
+ Central government unveils stimulus package to help those hit by
+21‐day lockdown
+ Priorities are to construct COVID‐19 hospitals, sample  testing,
+contact‐tracing and social distancing: Union Health ministry
+ Common  exit  strategy necessary for staggered relaxations after
+lockdown period ends, Prime Minister tells chief ministers
+ Prime Minister instructs union ministers  to  prepare  a  graded
+plan to gradually open departments that are not COVID‐19
+ Prime  Minister and chief ministers decide on lockdown extension
+to April 11
+ Odisha extends lockdown until April 30 and becomes first  Indian
+state  to  do  so Ray et al.  Comparison of estimated projections
+and posterior estimates of model parameters across different sen‐
+sitivity  analysis  scenarios under 21‐day lockdown with moderate
+return, using observed data until April 14. Prior SD  for  R0  is
+1.0.   Posterior  Estimates Sensitivity Analysis Scenario Predic‐
+tions May 15 Prior mean for R0 = 2 Prior mean for R0  =  3  Prior
+mean  for R0 = 4 Observed case‐counts are multiplied by 10, prior
+mean for R0 = 2 Assume that the cases happen in  metro  hotspots,
+use  population  size N=32 million instead of national population
+1.34 billion, prior mean for R0 Ray et al.  Comparison  of  model
+projections  using observed data up to different dates assuming a
+21‐day lockdown with moderate return.   Projected  Counts  [Upper
+Credible  Interval] Posterior Estimates [95% CrI] Used data up to
+April 1 Used data up to April 7 Used data up to  April  14  Note:
+All prediction scenarios assume a prior mean of R0 = 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

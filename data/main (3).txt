@@ -1,517 +1,594 @@
-Laboratory diagnosis of SARS-CoV-2: available approaches and limitations
-J. M. Abduljalil
-The ongoing pandemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is one of the most devastating outbreaks
-witnessed in the last 100 years. The outbreak started in China and spread rapidly to almost every country, culminating in woefully
-overwhelmed health-care systems in most countries. The only approved diagnostic test to accompany radiographic evaluation is reverse
-transcription PCR. However, the applicability of this test in diagnosis and surveillance is challenged by a global shortage of reagents and
-the lack of well-equipped laboratories with specialized staff in several low- and middle-income countries. Loop-mediated isothermal
-ampliﬁcation and CRISPR-based diagnostic assays have developed and expected to play a role however, their accuracy is still inferior to
-the recommended PCR approach. The need for the development of accurate and rapid diagnostic assays became apparent.
-Immunodiagnostic tests and other molecular approaches were developed and tested. Other recently developed point-of-care molecular
-tests are expected to be helpful in pandemic management as no particular skills are required from the operator. Fortunately, a number
-chemiluminescence platforms or lateral ﬂow cassettes.
-Keywords: Antigen, Coronavirus disease 2019, Isothermal ampliﬁcation, Nasopharyngeal swab, Real-time RT-PCR, Serology
-Medically important coronaviruses were identiﬁed from the
-nasal secretions of patients with mild colds for the ﬁrst time in
-the 1960s. Generally, coronaviruses are spherical (80–160 nm),
-pleomorphic, enveloped, single-stranded, positive-sense RNA
-viruses [1]. Their helical nucleocapsid surrounds a nonsegmented genome (27–32 kb) characterized by a 5ʹ-end
-containing genes important for viral replication and pathogenesis in the host cell [2]. The 3ʹ-end genomic region harbours
-genes for nucleocapsid and membrane proteins [3]. In 2003, the
-animal coronavirus severe acute respiratory syndrome
-coronavirus (SARS-CoV) was described; it crossed the species
-barrier and resulted in the epidemic of severe acute respiratory
-syndrome (SARS) in China and nearby countries. Middle East
-respiratory syndrome coronavirus (MERS-CoV) was described
-in 2012, when an outbreak took place in the Middle East of a
-similar disease called Middle East respiratory syndrome (MERS)
-[4]. A third animal coronavirus to be described, severe acute
-respiratory syndrome coronavirus 2 (SARS-CoV-2), originated
-from the Chinese city of Wuhan and led to the ongoing
-pandemic of coronavirus disease 2019 (COVID-19) [5]. SARSCoV-2 seems to have spilled over from the bat population
-through an intermediate host (most likely the pangolin) [6].
-Since the ofﬁcial announcement of this novel coronavirus
-(known then as 2019-nCoV) in China in December 2019, the
-global conﬁrmed cases had reached 6 663 304 in more than 190
-countries and territories with a total of 392 802 deaths as of 6
-June 2020 (10:00 CEST) [7]. Similar to SARS-CoV and MERSCoV, infections of SARS-CoV-2 predominate in adults and
-men without a conﬁrmed underlying cause [8]. The majority of
-New Microbe and New Infect 2020; 36: 100713
-New Microbes and New Infections, Volume 36 Number C,
-SARS-CoV-2 infections are subclinical, whereas symptomatic
-patients usually present with cough, fever, fatigue and groundglass appearance of lungs on radiographic imaging [9]. Admission to intensive care units is common because of the bad
-prognosis in individuals with co-morbidities and in the elderly
-population [10,11]. The clinical management of SARS-CoV-2
-The laboratory-based approach to the diagnosis of SARSCoV-2 is real-time reverse transcription PCR (rRT-PCR)
-approved by the WHO and by the US CDC. Due to the
-pandemic situation, testing laboratories were overwhelmed and
-shortage of reagents became a global issue. The introduction of
-accurate serological tests will undoubtedly facilitate pandemic
-management, in addition to reducing time, costs and workloads
-in national laboratories and health-care systems. For accurate
-diagnosis, rRT-PCR should be accompanied by computed tomography (CT) radioimaging [14]. Indeed, patients were found
-to develop ground-glass appearance on chest CT before the
-successful detection of viral RNA. Generally, rRT-PCR results
-turn positive 4–6 days after lung manifestations become
-apparent on radiographs [15].
-Next-generation sequencing and microarray analyses are not
-currently applied for diagnosis of SARS-CoV-2; however, these
-techniques are important research tools for the scrutiny of
-provide a concise view of the currently known diagnostic tests
-for SARS-CoV-2. Laboratory staff should be aware of the
-importance of continually consulting up-to-date laboratory
-for infectious diseases as information becomes available or
-more accurate data are obtained regarding the disease and
-Considerations before laboratory testing
-As of 12 May 2020, the WHO deﬁnes a suspected case as ‘A
-patient with any acute respiratory illness and having been in
-contact with a conﬁrmed or probable COVID-19 case in the
-last 14 days before symptom onset’ [17]. However, this deﬁnition is not valid in countries where SARS-CoV-2 is spreading
-widely in a community transmission pattern. In such communities, acquiring the infection may occur by contact with
-asymptomatic untested cases. Hence, an individual with relevant clinical manifestations not fully explained by other aetiology should be considered as a suspected case [12].
-Diagnosis of suspected and asymptomatic cases is of paramount importance in the management and control of outbreaks. When testing is not possible, specimens should be
-shipped, according to WHO instructions, to the nearest
-reference laboratory [18]. It should be noted that a negative
-result does not rule out the infection and the tested person may
-be still in the ﬁrst days of infection when viral RNA load in
-caution and follow-up testing are recommended for highly
-suspected individuals. It should be noted that most SARS-CoV-2
-tests are currently approved to be implemented only under the
-current emergency situation and manufacturer-independent
-evaluation for test performance is mostly lacking. In other
-words, clinical correlation with patient history and radiographic
-imaging is necessary to determine the correct infection status.
-Diagnostic specimens: types and times
-For general procedures for specimen collection, interim guides
-from the WHO and CDC are the best to consult [18,19].
-Notably, different respiratory specimens (from upper and
-lower parts of the tract) were found to have different detection
-rates of SARS-CoV-2. Indeed, variations occur between patients and even in the same individual during the course of the
-illness; the pattern of viral shedding is not fully understood
-[20–22]. For instance, nasopharyngeal specimens have shown
-negative results, while viral RNA was detected in sputum
-specimens from the same patients [23]. Additionally, the accuracy of the test depends on specimen quality and quantity,
-time of collection during the course of the disease, and the
-inherent quality of the test kit [15].
-Swab specimens are not possible from bedridden patients
-with severe respiratory involvement or those undergoing mechanical ventilation. Invasive procedures to obtain endotracheal
-aspirates, sputum and bronchial lavage are possible ways to
-obtain specimens from such patients. Throat swabs were found
-to result in false-negative results as viral RNA was recovered
-from sputum samples of patients after viral load in the throat
-illness progresses, lower respiratory tract specimens become
-the best choice [22,26]. However, collection of specimens from
-the lower respiratory tract may increase infection risk to
-health-care workers owing to aerosol generation during
-collection procedures [27]. Saliva and nasal wash specimens
-have been found to be good alternatives, especially when laboratory biosafety measures cannot be met [28–30]. Stool and
-blood specimens were found to contain SARS-CoV-2 and viral
-RNA has been successfully detected from such specimens by
-RT-PCR; however, their diagnostic value has not been studied
-thoroughly [31]. Lastly, minimum essential medium, sterile
-phosphate buffer, and 0.9% saline solutions were all found to be
-alternatives to viral transport media [32].
-Specimen processing
-Upon receiving the specimen, immediate testing procedures
-should be performed in a biosafety cabinet of class II or higher.
-Care should be paid to minimizing aerosol generation during
-specimen manipulation. In addition to biosafety precautions, the
-testing operator should be aware of technical factors affecting
-result accuracy [33]. For nucleic acid ampliﬁcation assays, the
-processing kit reagents should be the recommended match
-with the PCR platform to be used [33]. Moreover, reagent
-preparation and storage should be in accordance with the
-manufacturer’s instructions. For RNA extraction phase, various
-bioMérieux) have been validated by the CDC to work properly
-when manufacturer’s instructions are followed strictly [33].
-Specimens should quickly be diluted in lysis buffer containing
-an inactivating agent (guanidinium-based compounds to inactivate virions) and non-denaturing detergent to disrupt the lipid
-envelopes of respiratory epithelial cells and the virus. Additionally, lysis buffer also prevents viral RNA degradation [34].
-When self-enclosed automated systems are used, success of
-this step is optimally guaranteed. The currently used systems
-are ID NOW™ (Abbott, Abbott Park, IL, USA), Cobas Liat®
-(Roche Molecular Systems, Basel, Switzerland) and GeneXpert® (Cepheid, Sunnyvale, CA, USA). Extracted RNA
-should be stored at or below –70°C if subsequent steps of
-analysis are to be performed later.
-Detection of SARS-CoV-2 nucleic acid
-There are two available categories for RNA ampliﬁcation tests
-for SARS-CoV-2; rRT-PCR and loop-mediated isothermal
-ampliﬁcation (LAMP). For SARS-CoV-2 detection, protocols of
-rRT-PCR were approved by WHO and the US Food and Drug
-Administration (FDA), whereas the isothermal ampliﬁcation
-infections, RT-PCR is the most common tool due to its accuracy and popularity [35]. Additionally, less common ampliﬁcation assays other than PCR are also used in the detection of
-RNA viruses. Nonetheless, the accuracy of nucleic acid ampliﬁcation tests is ultimately affected by mutations in the sequences targeted by test primers [36].
-Real-time RT-PCR
-Different qualitative rRT-PCR protocols for SARS-CoV-2
-Laboratory diagnosis of SARS-CoV-2
-[33,34,37–39]. Two diagnostic rRT-PCR-based assays are
-accepted for procurement under Emergency Use Listing procedure; Genesig Real-Time PCR Coronavirus (Primerdesign
-Ltd, Southampton, UK) and Cobas SARS-CoV-2 6800/8800
-system (Roche Molecular Systems). The Cobas 6800 SARSCoV-2 system from Roche was recently evaluated by Rocheindependent researchers and found to be reliable for detecting SARS-CoV-2 RNA in nasopharyngeal specimens [40].
-The ﬁrst rRT-PCR protocol developed outside China
-incorporated primers targeting genes of the envelope protein
-(E), nucleocapsid (N) and RNA polymerase (RdRp) [39]. The
-primers of E and RdRp were the most sensitive and were
-rapidly and widely adopted in Europe [41]. However, RdRp
-primers were found to cross-react with RNA of SARS-CoV
-[42]. A point worth mentioning is that reagent design has the
-most inﬂuential role on assay performance, therefore, welloptimized targets are expected to arise from different
-genomic sequences of SARS-CoV-2.
-Currently, numerous primers are designed to target various
-RNA sequences in six genes of SARS-CoV-2 for diagnostic
-purposes: ORF1a/b, ORF1b-nsp14 (50 -UTR), RdRp (RNAdependent RNA polymerase), S (spike protein), E (envelope),
-N1/N2/N3 (nucleocapsid) and RdRp/Hel (RNA-dependent RNA
-polymerase/helicase). Of note, a recent study found nucleocapsid N2 and envelope E genes to be the most sensitive singleplex reactions and no signiﬁcant change in cycle threshold
-(Ct) was noted when both assays were combined [43]. The
-recommended rRT-PCR diagnostic panel by CDC includes
-primers for (i) two speciﬁc regions of SARS-CoV-2 nucleocapsid (N) gene and (ii) human RNase P gene (RP) in a one-step
-qualitative RT-PCR-based detection [33].
-Real-time RT-PCR tests have been positive in convalescent
-patients after earlier negative RT-PCR tests performed in the
-same laboratory with the same testing kit and same technician
-[44–47]. False results in rRT-PCR may be attributed to various
-factors. Variations in viral load kinetics may lead to collecting
-specimens with less viral load resulting in false-negative results.
-False-negative results for RT-PCR were also reported in cases of
-typical CT ﬁndings of SARS-CoV-2 infection [48,49]. Indeed,
-some researchers found the sensitivity of rRT-PCR to be around
-70% in SARS-CoV-2 diagnosis [49]. Additionally, studies have
-indicated that the SARS-CoV-2 genome is undergoing an evolutionary process through mutations and active genetic recombination [50,51]. This observation is expected because RNA viruses
-lack efﬁcient proofreading machinery to ensure ﬁdelity of RNA
-replication [52]. Mutations in primer and probe targeted sequences may lead to false-negative results, but can be reduced by
-targeting two or three sequences within the viral genome.
-New Microbes and New Infections, Volume 36 Number C,
-FIG. 1. Principle of reverse transcription loop-mediated isothermal ampliﬁcation (RT-LAMP). B2 backwards inner primer (BIP) anneals to the target
-RNA forming a start point for reverse transcriptase to synthesize a complementary DNA strand (cDNA) (1). The outer primer B3 anneals to a
-sequence outside that of B2 to initiate synthesis of a new cDNA (2). During synthesis of the second cDNA, the former strand is displaced by the
-reverse transcriptase (3). The displaced strand is released with a loop at the 50 end. Forward inner primer F2 anneals to the 30 end of the newly
-released cDNA strand and DNA polymerase starts synthesis of a complementary DNA strand (4). Forwards outer primer F3 anneals to the 30 end of
-the strand formed by the F2 primer and DNA polymerase initiates the synthesis of new strand and simultaneous displacing of the former (5). The
-recently displaced cDNA strand contains complementary sequences at both ends, hence it forms a dumbbell-shaped structure (6). This structure is the
-starting material for loop-mediated ampliﬁcation cycles. It contains multiple sites for ampliﬁcation initiation and is rapidly converted to stem-loop DNA
-structures in response to self-primed synthesis at the 30 end (7). At the same time, backwards inner primer B2 to the single-stranded loop region to
-start DNA synthesis culminating in long concatemers (8 and 9). Further synthesis leads to dumbbell-shaped structures and accumulation of ampliﬁcation dsDNA products (10).
-Isothermal ampliﬁcation assays
-Loop-mediated isothermal ampliﬁcation is based on the technology of autocycling strand displacement DNA synthesis via
-special DNA polymerase (Bst) (Fig. 1). In such tests, the positive
-reaction is detected visually or by simple turbidity measurement [53]. Incorporation of ﬂuorescent intercalating dyes to
-these tests is possible, allowing for real-time monitoring of the
-reaction [54]. The technique was further developed to enable
-RNA detection by reverse transcription with successful application in detection of numerous RNA viruses including H7N9
-inﬂuenza virus, MERS-CoV, West Nile virus and Zika virus
-the WHO or FDA to be performed even under emergency
-situations. Successful application of real-time LAMP tests in the
-SARS-CoV-2 pandemic will positively contribute to pandemic
-management because this test is rapid (results are available in
-less than 1 hour) and can be performed using a small instrument
-at general laboratories in hospitals, at bedsides or in the ﬁeld.
-Nonetheless, primer designing for LAMP tests is more difﬁcult
-than in PCR assays.
-A handful of studies have developed, optimized and tested
-RT-LAMP assays for the diagnosis of SARS-CoV-2 using
-primers for different genes [59–64]. Park et al. found primers
-of the nucleocapsid gene to be the most sensitive, detecting as
-low as 100 RNA copy/reaction [60]. This level of detection is
-still considered high for sensitive diagnosis of suspected cases.
-Indeed, the primer sets of another study targeting Orﬂ1ab and
-S genes achieved a detection level as low as 20 copies/reaction
-[59]. Moreover, high sensitivity and speciﬁcity of RT-LAMP
-were also found comparable to that of PCR [60].
-Next-generation assays
-Applications of CRISPR-Cas technology in diagnostic microbiology and biomedicine is growing rapidly [65]. Within the past 2
-years, researchers invented new diagnostic sensitive assays
-based on the CRISPR-Cas system for detection of infectious
-agents with minimal or no equipment to perform the tests [66].
-In April 2020, American scientists developed an RT-LAMPbased CRISPR-Cas assay on lateral ﬂow strips to detect the
-RNA of SARS-CoV-2 in extracts from nasopharyngeal specimens [67]. The assay is performed by dipping the test strip into
-the RNA extract solution of the treated specimen and after 40
-minutes the results are visually read. The Cas12, protein
-component of CRISPR-Cas, is guided by specially designed
-associated RNA (gRNA) to base-pair with a speciﬁc RNA
-sequence of SARS-CoV-2. When the Cas12–gRNA complex
-recognizes the targeted sequence, a labelled single-stranded
-DNA reporter probe is cleaved by Cas12 to liberate a ﬂuorescent molecule visible to naked eye. However, its current
-sensitivity is lower than of rRT-PCR. As in nucleic acid ampliﬁcation assays, CRISPR-based diagnostics are also expected to
-generate false results if mutations have occurred in the targeted
-Immunodiagnostic approaches
-Immunodiagnostic point-of-care tests generating rapid results
-(in less than 1 hour) are less complex than molecular tests.
-Based on current evidence, seroconversion for SARS-CoV-2
-was found to occurs between 7 and 11 days after onset of
-symptoms [68]. Consequently, antibody detection assays
-might be impractical for diagnosis of acute (current) infection
-at the early stage. Nonetheless, these tests may be useful in
-epidemiological surveillance (retrospective evaluation), contact tracing and research studies addressing neutralizing
-the FDA [69]. Six of these tests are to be performed only in
-Laboratory diagnosis of SARS-CoV-2
-laboratories certiﬁed to perform high complexity tests,
-whereas the remaining panel can be performed in laboratories
-with requirement of moderate complexity tests. Antibody
-detecting tests are either run on ELISA, chemiluminescence
-(Cobas analysers platforms) or rapid-test lateral ﬂow cassettes. On the other hand, a single lateral ﬂow cassette (Soﬁa 2
-SARS antigen FIA® from Quidel, San Diego, CA, USA) was
-nasopharyngeal and nasal swabs. Other antibody-detecting
-tests exploit recombinant nucleocapsid antigens to detect/
-quantify anti-SARS-CoV-2 antibodies in blood. However,
-dozens have been developed and introduced to markets with
-limited independent validation.
-Due to high nucleotide sequence similarity with SARS-CoV,
-cross-reactivity is expected in such tests and their sensitivity is
-expected to range from 34% to 80% [70–72]. Some lateral ﬂow
-rapid test kits have the capacity to detect IgM and IgG or viral
-and past SARS-CoV-2 infections. Theoretically, such assays will
-decrease the time, costs and labour of testing in comparison to
-nucleic acid ampliﬁcation assays. The majority of available
-immunodiagnostic tests are based on the principle of immunochromatography (i.e. lateral ﬂow) (Fig. 2). However, sampling
-variations and variations between individuals in terms of viral
-load are important factors affecting the accuracy of such assays
-Antigen detection tests
-Rapid antigen detection kits are generally characterized by
-suboptimal sensitivity and speciﬁcity [73]. Nonetheless, unique
-and conserved domains of proteins in SARS-CoV-2 could be
-exploited to develop sensitive testing kits. Two approaches are
-expected to increase the sensitivity of such tests: (i) prior
-treatment to concentrate the targeted antigen and (ii) use of
-monoclonal antibodies to different epitopes of the antigen to be
-detected. Two recent pre-print studies reported a sensitivity
-range of 93%–100% and 100% speciﬁcity of the immunochromatography SARS-CoV-2 antigen tests targeting N protein
-[74,75] (accessed 13 May 2020).
-Serological tests
-against SARS-CoV-2 [69]. Such tests are mostly based on the
-principles of immunochromatography, chemiluminescence or
-ELISA to detect IgG or IgG and IgM in serum. Serodiagnosis is
-believed to be useful in convalescent patients with negative PCR
-ﬁndings, as the accuracy of molecular assays is inﬂuenced by
-New Microbes and New Infections, Volume 36 Number C,
-FIG. 2. Principle of immunochromatography. This drawing shows lateral ﬂow to
-detect an antigen. The specimen containing the antigen (Analyte) is placed on
-the sample pad. The antigen, with the
-ﬂuid, moves to the conjugate pad where it
-is bound by a labelled antibody speciﬁc to
-the targeted antigen. The conjugate pad
-also contains labelled antibodies nonspeciﬁc to the antigen to be detected.
-through the nitrocellulose membrane and
-reach the ‘Test line’ area. In this area,
-antigen-speciﬁc antibodies are immobilized to catch the antigen–antibody
-complexes accumulate in this area, the
-line becomes visible to the naked eye.
-The non-speciﬁc antibodies also migrate
-and pass the ‘Test line’ to reach the
-‘Control line’ area and that line also becomes visible. The test is considered
-positive only when the two lines (T and
-C) are visible. (Reproduced from Paulini
-et al. [82]).
-viral shedding dynamics [20]. However, cross-reactivity with
-other antibodies is a major challenge to serological tests. In fact,
-the proﬁle of the humoral immune response to SARS-CoV-2 is
-still partially unknown [76,77]. From the second week of
-assays. In the third week after onset of symptoms, the IgM titre
-peaks and then gradually decreases whereas IgG stabilises
-around 4 weeks [68,77,78]. It should be noted that interference
-from other antibodies, mounted against other phylogenetically
-related viruses, is to be evaluated.
-With the exception of immunodeﬁcient individuals, infections of SARS-CoV-2 result in cell-mediated immunity
-and humoral responses by IgM, IgA and IgG uniformly in all
-patients. IgM is usually the ﬁrst class to be produced within
-the ﬁrst week of onset followed by robust IgG immunity
-[77]. IgM and IgG against SARS-CoV-2 were detected by
-quantitative ELISA and qualitative immunochromatography
-assays with an increase in detection rates as the course of
-the illness progressed [79,80]. However, a recent study (of
-a small sample size and still as a preprint) from Oxford
-accurate than lateral ﬂow strips with high sensitivity for IgG
-from day 10 after onset [81]. Another immunodiagnostic
-test for quantitative measurement of interleukin-6 (Elecsys
-IL-6 from Roche Diagnostics) has also been granted an
-helpful in determining the risk of intubation with mechanical
-ventilation as it measures the level of inﬂammatory
-response in individuals with SARS-CoV-2.
-The choice of specimen type for SARS-CoV-2 diagnosis is subject
-to patient condition and stage of the disease course. Specimens
-from upper respiratory tract are the best choice during the early
-days of the illness, wheras sputum is the most sensitive at later
-stages. Owing to occasional false results with rRT-PCR, CT
-radiography should be obtained to reach an accurate diagnosis
-and for proper management. As in other RNA viruses, mutations
-and other genetic changes are likely to occur, which may result in
-pitfalls of nucleic acid ampliﬁcation assays. Genomic homology of
-SARS-CoV-2 with other coronaviruses is also a challenge to
-serological and antigen detection tests. However, improvements
-in such point-of-care tests are expected to aid in better management of the pandemic as they are rapid and simple to
-perform. Epidemiological studies will be easily conducted once
-accurate serological tests become available.
-This work is a personal effort and did not receive any speciﬁc
-Conﬂict of interest
-conﬂict of interest.
-[1] Saif LJ, Wang Q, Vlasova AN, Jung K, Xiao S. Coronaviruses. In:
-Zimmerman JJ, Karriker LA, Ramirez A, Schwartz KJ, Stevenson GW,
-Sons, Ltd; 2019. p. 488–523.
-[2] Yoshimoto FK. The proteins of severe acute respiratory syndrome
-coronavirus-2 (SARS CoV-2 or n-COV19), the cause of COVID-19.
-Protein J 2020;39:198–216.
-[3] Wu A, Peng Y, Huang B, Ding X, Wang X, Niu P, et al. Genome
-composition and divergence of the novel coronavirus (2019-nCoV)
-originating in China. Cell Host Microbe 2020;27:325–8.
-[4] de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and MERS:
-[5] Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel
-coronavirus from patients with pneumonia in China, 2019. N Engl J
-[6] Zhang T, Wu Q, Zhang Z. Probable pangolin origin of SARS-CoV-2
-associated with the COVID-19 outbreak. Curr Biol 2020;30:1346–51.
-[8] Del Rio C, Malani PN. COVID-19-new insights on a rapidly changing
-epidemic. JAMA 2020;323:1339–40.
-[9] Abduljalil JM, Abduljalil BM. Epidemiology, genome, and clinical features of the pandemic SARS-CoV-2: a recent view. New Microbe. New
-[10] Wu Z, McGoogan JM. Characteristics of and important lessons from
-the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease
-Control and Prevention. JAMA 2020;323:1239–42.
-[11] Paules CI, Marston HD, Fauci AS. Coronavirus infections—more than
-just the common cold. JAMA 2020;323:707–8.
-[12] World Health Organization. Clinical management of COVID-19.
-Geneva: WHO; 2020.
-[13] World Health Organization. Clinical management of severe acute
-respiratory infection when COVID-19 is suspected (v1.2). Geneva:
-WHO; 2020. p. 1–21.
-Laboratory diagnosis of SARS-CoV-2
-[14] Wang Y, Kang H, Liu X, Tong Z. Combination of RT-qPCR testing and
-clinical features for diagnosis of COVID-19 facilitates management of
-SARS-CoV-2 outbreak. J Med Virol 2020;92:538–9.
-[15] Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, et al. Correlation of
-[16] Li B, Si H-R, Zhu Y, Yang X-L, Anderson DE, Shi Z-L, et al. Discovery
-of bat coronaviruses through surveillance and probe capture-based
-[17] World Health Organization. Global surveillance for COVID-19 caused
-by human infection with COVID-19 virus. Geneva: WHO; 2020.
-who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance. [Accessed 25 April 2020].
-[19] Centers for Disease Control and Prevention. Clinical specimens: novel
-2019-ncov/lab/guidelines-clinical-specimens.html. [Accessed 27 April
-[20] He X, Lau EHY, Wu P, Deng X, Wang J, Hao X, et al. Temporal dynamics in viral shedding and transmissibility of COVID-19. Nat Med
-[21] Liu Y, Yan LM, Wan L, Xiang TX, Le A, Liu JM, et al. Viral dynamics in
-mild and severe cases of COVID-19. Lancet Infect Dis 2020:1–2.
-[22] Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2
-viral load in upper respiratory specimens of infected patients. N Engl J
-[23] Winichakoon P, Chaiwarith R, Liwsrisakun C, Salee P, Goonna A,
-Limsukon A, et al. Negative nasopharyngeal and oropharyngeal swabs
-do not rule out COVID-19. J Clin Microbiol 2020;58:1–2.
-[24] World Health Organization. Report of the WHO-China joint mission
-on coronavirus disease 2019 (COVID-19). Geneva: WHO; 2020.
-[25] Joynt GM, Wu WK. Understanding COVID-19: what does viral RNA
-[26] Pan Y, Zhang D, Yang P, Poon LLM, Wang Q. Viral load of SARS-CoV2 in clinical samples. Lancet Infect Dis 2020;20:411–2.
-[27] Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol
-generating procedures and risk of transmission of acute respiratory
-[28] Azzi L, Carcano G, Gianfagna F, Grossi P, Gasperina DD, Genoni A,
-et al. Saliva is a reliable tool to detect SARS-CoV-2. J Infect 2020.
-[29] Tang Y-W, Schmitz JE, Persing DH, Stratton CW. The laboratory
-diagnosis of COVID-19 infection: current issues and challenges. J Clin
-[30] To KK-W, Tsang OT-Y, Yip CC-Y, Chan K-H, Wu T-C, Chan JM-C,
-et al. Consistent detection of 2019 novel coronavirus in saliva. Clin
-[31] Yeo C, Kaushal S, Yeo D. Enteric involvement of coronaviruses: is
-faecal–oral transmission of SARS-CoV-2 possible? Lancet Gastroenterol Hepatol 2020;5:335–7.
-[32] Rodino KG, Espy MJ, Buckwalter SP, Walchak RC, Germer JJ,
-Fernholz E, et al. Evaluation of saline, phosphate buffered saline and
-minimum essential medium as potential alternatives to viral transport
-[33] Centers for Disease Control and Prevention. CDC real-time RT-PCR
-diagnostic panel. Atlanta, GA: CDC; 2020.
-New Microbes and New Infections, Volume 36 Number C,
-[34] Chu DKW, Pan Y, Cheng SMS, Hui KPY, Krishnan P, Liu Y, et al.
-Molecular diagnosis of a novel coronavirus (2019-nCoV) causing an
-outbreak of pneumonia. Clin Chem 2020;66:549–55.
-[35] Grifﬁn DW, Gibson CJ, Lipp EK, Riley K, Paul JH, Rose JB. Detection
-of viral pathogens by reverse transcriptase PCR and of microbial indicators by standard methods in the canals of the Florida Keys. Appl
-Environ Microbiol 1999;65:4118–25.
-[36] Bustin SA, Nolan T. Pitfalls of quantitative real-time reverse-transcription polymerase chain reaction. J Biomol Tech 2004;15:155–66.
-[37] Nao N, Shirato K, Katano H, Matsuyama S, Takeda M. Detection of
-second case of 2019-nCoV infection in Japan. 2020. Tokyo.
-[38] Chinese Center for Disease Control and Prevention. Emergency
-response technical centre. Laboratory testing for COVID-19. Beijing:
-Chinese CDC; 2020.
-[39] Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DKW,
-et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time
-[40] Poljak M, Korva M, Knap Gasper N, Fujs Komlos K, Sagadin M, Ursic T,
-et al. Clinical evaluation of the cobas SARS-CoV-2 test and a diagnostic
-platform switch during 48 hours in the midst of the COVID-19
-[41] Reusken CBEM, Broberg EK, Haagmans B, Meijer A, Corman VM,
-Papa A, et al. Laboratory readiness and response for novel coronavirus
-(2019-nCoV) in expert laboratories in 30 EU/EEA countries25.
-[42] Chan JF-W, Yip CC-Y, To KK-W, Tang TH-C, Wong SC-Y,
-Leung K-H, et al. Improved molecular diagnosis of COVID-19 by the
-novel, highly sensitive and speciﬁc COVID-19-RdRp/Hel real-time
-reverse transcription-PCR assay validated in vitro and with clinical
-[43] Waggoner JJ, Stittleburg V, Pond R, Saklawi Y, Sahoo MK, Babiker A,
-et al. Triplex real-time RT-PCR for severe acute respiratory syndrome
-[44] Xing Y, Mo P, Xiao Y, Zhao O, Zhang Y, Wang F. Post-discharge
-surveillance and positive virus detection in two medical staff recovered
-from coronavirus disease 2019 (COVID-19), China, January to
-[45] Lan L, Xu D, Ye G, Xia C, Wang S, Li Y, et al. Positive RT-PCR test
-results in patients recovered from COVID-19. JAMA 2020;323:
-[46] Chen D, Xu W, Lei Z, Huang Z, Liu J, Gao Z, et al. Recurrence of
-positive SARS-CoV-2 RNA in COVID-19: a case report. Int J Infect Dis
-[47] Zhang J, Yan K, Ye H, Lin J, Zheng J, Cai T. SARS-CoV-2 turned
-positive in a discharged patient with COVID-19 arouses concern
-regarding the present standard for discharge. Int J Infect Dis 2020.
-[48] Wong HYF, Lam HYS, Fong AH-T, Leung ST, Chin TW-Y, Lo CSY,
-et al. Frequency and distribution of chest radiographic ﬁndings in
-[49] Fang Y, Zhang H, Xie J, Lin M, Ying L, Pang P, et al. Sensitivity of chest
-CT for COVID-19: comparison to RT-PCR. Radiology 2020:200432.
-[50] Sun J, He W-T, Wang L, Lai A, Ji X, Zhai X, et al. COVID-19:
-epidemiology, evolution, and cross-disciplinary perspectives. Trends
-Mol Med 2020;26:483–95.
-[51] Phan T. Genetic diversity and evolution of SARS-CoV-2. Infect Genet
-[52] Sanjuán R, Domingo-Calap P. Mechanisms of viral mutation. Cell Mol
-Life Sci 2016;73:4433–48.
-[53] Notomi T, Mori Y, Tomita N, Kanda H. Loop-mediated isothermal
-ampliﬁcation (LAMP): principle, features, and future prospects.
-J Microbiol 2015;53:1–5.
-[54] Oscorbin IP, Belousova EA, Zakabunin AI, Boyarskikh UA,
-Filipenko ML. Comparison of ﬂuorescent intercalating dyes for quantitative loop-mediated isothermal ampliﬁcation (qLAMP). Biotechniques 2016;61:20–5.
-[55] Huang P, Wang H, Cao Z, Jin H, Chi H, Zhao J, et al. A rapid and
-speciﬁc assay for the detection of MERS-CoV. Front Microbiol 2018;9:
-[56] Chotiwan N, Brewster CD, Magalhaes T, Weger-Lucarelli J,
-Duggal NK, Rückert C, et al. Rapid and speciﬁc detection of Asian- and
-[57] Cao Z, Wang H, Wang L, Li L, Jin H, Xu C, et al. Visual detection of
-West Nile Virus using reverse transcription loop-mediated isothermal
-ampliﬁcation combined with a vertical ﬂow visualization strip. Front
-[58] Ge Y, Wu B, Qi X, Zhao K, Guo X, Zhu Y, et al. Rapid and sensitive
-detection of novel avian-origin inﬂuenza a (H7N9) virus by reverse
-transcription loop-mediated isothermal ampliﬁcation combined with a
-lateral-ﬂow device. PLoS One 2013;8:e69941.
-[59] Yan C, Cui J, Huang L, Du B, Chen L, Xue G, et al. Rapid and visual
-detection of 2019 novel coronavirus (SARS-CoV-2) by a reverse
-transcription loop-mediated isothermal ampliﬁcation assay. Clin
-1016/j.jmoldx.2020.03.006. in press.
-[61] Lu R, Wu X, Wan Z, Li Y, Zuo L, Qin J, et al. Development of a novel
-reverse transcription loop-mediated isothermal ampliﬁcation method
-[62] Baek YH, Um J, Antigua KJC, Park J-H, Kim Y, Oh S, et al. Development of a reverse transcription-loop-mediated isothermal ampliﬁcation as a rapid early-detection method for novel SARS-CoV-2. Emerg
-Microbe. Infect 2020;9:998–1007.
-[63] Yu L, Wu S, Hao X, Dong X, Mao L, Pelechano V, et al. Rapid detection
-of COVID-19 coronavirus using a reverse transcriptional loopmediated isothermal ampliﬁcation (RT-LAMP) diagnostic platform.
-[64] Lu R, Wu X, Wan Z, Li Y, Jin X, Zhang C. A Novel Reverse transcription loop-mediated isothermal ampliﬁcation method for rapid
-[65] Foss DV, Hochstrasser ML, Wilson RC. Clinical applications of
-CRISPR-based genome editing and diagnostics. Transfusion 2019;59:
-[66] Chiu C. Cutting-edge infectious disease diagnostics with CRISPR. Cell
-Host Microbe 2018;23:702–4.
-[67] Broughton JP, Deng X, Yu G, Fasching CL, Servellita V, Singh J, et al.
-CRISPR–Cas12-based detection of SARS-CoV-2. Nat Biotechnol
-[68] Long Q-X, Liu B-Z, Deng H-J, Wu G-C, Deng K, Chen Y-K, et al.
-Antibody responses to SARS-CoV-2 in patients with COVID-19. Nat
-[70] Bruning AHL, Leeﬂang MMG, Vos JMBW, Spijker R, de Jong MD,
-Wolthers KC, et al. Rapid tests for inﬂuenza, respiratory syncytial
-Döhla M, Boesecke C, Schulte B, Diegmann C, Sib E, Richter E, et al.
-Rapid point-of-care testing for SARS-CoV-2 in a community screening
-setting shows low sensitivity. Public Health 2020;182:170–2.
-Li Z, Yi Y, Luo X, Xiong N, Liu Y, Li S, et al. Development and clinical
-application of a rapid IgM-IgG combined antibody test for SARS-CoV-2
-Merckx J, Wali R, Schiller I, Caya C, Gore GC, Chartrand C, et al.
-Diagnostic accuracy of novel and traditional rapid tests for inﬂuenza
-Porte L, Legarraga P, Vollrath V, Aguilera X, Munita JM, Araos R, et al.
-Evaluation of novel antigen-based rapid detection test for the diagnosis
-Diao B, Wen K, Chen J, Liu Y, Yuan Z, Han C, et al. Diagnosis of acute
-Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, et al. Dysregulation of
-immune response in patients with COVID-19 in Wuhan, China. Clin
-Laboratory diagnosis of SARS-CoV-2
-[77] Prompetchara E, Ketloy C, Palaga T. Immune responses in COVID-19
-and potential vaccines: lessons learned from SARS and MERS epidemic.
-[79] Jääskeläinen AJ, Kekäläinen E, Kallio-Kokko H, Mannonen L, Kortela E,
-[80] Pan Y, Li X, Yang G, Fan J, Tang Y, Zhao J, et al. Serological immunochromatographic approach in diagnosis with SARS-CoV-2 infected
-[81] Adams ER, Ainsworth M, Anand R, Andersson MI, Auckland K,
-Baillie JK, et al. Antibody testing for COVID-19: a report from the
-[82] Paulini I, Siqueira-Silva J, Thomaz L, Rocha L, Harsi C, Bellei N, et al.
-Development of a prototype immunochromatographic test for rapid
-diagnosis of respiratory adenovirus infection. Braz J Infect Dis 2017;21:
+Laboratory diagnosis of SARS‐CoV‐2: available approaches and lim‐
+itations J. M. Abduljalil The ongoing pandemic  of  severe  acute
+respiratory  syndrome  coronavirus  2  (SARS‐CoV‐2) is one of the
+most devastating outbreaks witnessed in the last 100  years.  The
+outbreak  started  in  China  and  spread rapidly to almost every
+country, culminating in woefully overwhelmed health‐care  systems
+in most countries. The only approved diagnostic test to accompany
+radiographic evaluation is reverse  transcription  PCR.  However,
+the  applicability  of this test in diagnosis and surveillance is
+challenged by a global shortage of reagents and the lack of well‐
+equipped  laboratories with specialized staff in several low‐ and
+middle‐income countries. Loop‐mediated isothermal amplication and
+CRISPR‐based  diagnostic  assays  have  developed and expected to
+play a role however, their accuracy is still inferior to the rec‐
+ommended  PCR  approach. The need for the development of accurate
+and rapid diagnostic assays  became  apparent.   Immunodiagnostic
+tests  and  other molecular approaches were developed and tested.
+Other recently developed point‐of‐care molecular  tests  are  ex‐
+pected  to  be  helpful  in  pandemic management as no particular
+skills are required from  the  operator.  Fortunately,  a  number
+chemiluminescence  platforms  or lateral ow cassettes.  Keywords:
+Antigen, Coronavirus disease 2019,  Isothermal  amplication,  Na‐
+sopharyngeal swab, Real‐time RT‐PCR, Serology Medically important
+coronaviruses were identied from the nasal secretions of patients
+with  mild colds for the rst time in the 1960s. Generally, coron‐
+aviruses are spherical (80160 nm), pleomorphic,  enveloped,  sin‐
+gle‐stranded,  positive‐sense  RNA viruses [1]. Their helical nu‐
+cleocapsid surrounds a nonsegmented genome (2732  kb)  character‐
+ized  by a 5‐end containing genes important for viral replication
+and pathogenesis in the host cell [2]. The 3‐end  genomic  region
+harbours  genes  for  nucleocapsid  and membrane proteins [3]. In
+2003, the animal coronavirus severe  acute  respiratory  syndrome
+coronavirus (SARS‐CoV) was described; it crossed the species bar‐
+rier and resulted in the epidemic  of  severe  acute  respiratory
+syndrome (SARS) in China and nearby countries. Middle East respi‐
+ratory syndrome coronavirus (MERS‐CoV)  was  described  in  2012,
+when  an outbreak took place in the Middle East of a similar dis‐
+ease called Middle East respiratory syndrome (MERS) [4]. A  third
+animal coronavirus to be described, severe acute respiratory syn‐
+drome coronavirus 2 (SARS‐CoV‐2),  originated  from  the  Chinese
+city of Wuhan and led to the ongoing pandemic of coronavirus dis‐
+ease 2019 (COVID‐19) [5]. SARSCoV‐2 seems to  have  spilled  over
+from the bat population through an intermediate host (most likely
+the pangolin) [6].  Since the ofcial announcement of  this  novel
+coronavirus  (known then as 2019‐nCoV) in China in December 2019,
+the global conrmed cases had reached 6 663 304 in more  than  190
+countries  and territories with a total of 392 802 deaths as of 6
+June 2020 (10:00 CEST) [7]. Similar to SARS‐CoV and MERSCoV,  in‐
+fections  of  SARS‐CoV‐2  predominate in adults and men without a
+conrmed underlying cause [8]. The majority of New Microbe and New
+Infect  2020;  36: 100713 New Microbes and New Infections, Volume
+36 Number C, SARS‐CoV‐2 infections are subclinical, whereas symp‐
+tomatic  patients  usually present with cough, fever, fatigue and
+groundglass appearance of lungs on radiographic imaging [9].  Ad‐
+mission  to  intensive  care  units  is common because of the bad
+prognosis in individuals with co‐morbidities and in  the  elderly
+population  [10,11].  The  clinical  management of SARS‐CoV‐2 The
+laboratory‐based approach to the diagnosis of SARSCoV‐2 is  real‐
+time  reverse transcription PCR (rRT‐PCR) approved by the WHO and
+by the US CDC. Due to the pandemic situation,  testing  laborato‐
+ries  were  overwhelmed  and shortage of reagents became a global
+issue. The introduction of accurate serological  tests  will  un‐
+doubtedly facilitate pandemic management, in addition to reducing
+time, costs and workloads in national  laboratories  and  health‐
+care  systems. For accurate diagnosis, rRT‐PCR should be accompa‐
+nied by computed tomography (CT) radioimaging [14].  Indeed,  pa‐
+tients  were found to develop ground‐glass appearance on chest CT
+before the successful detection of viral RNA. Generally,  rRT‐PCR
+results  turn  positive  46 days after lung manifestations become
+apparent on radiographs [15].  Next‐generation sequencing and mi‐
+croarray  analyses  are  not  currently  applied for diagnosis of
+SARS‐CoV‐2; however,  these  techniques  are  important  research
+tools for the scrutiny of provide a concise view of the currently
+known diagnostic tests for SARS‐CoV‐2. Laboratory staff should be
+aware of the importance of continually consulting up‐to‐date lab‐
+oratory for infectious diseases as information becomes  available
+or more accurate data are obtained regarding the disease and Con‐
+siderations before laboratory testing As of 12 May 2020, the  WHO
+denes  a  suspected  case as A patient with any acute respiratory
+illness and having been in contact with  a  conrmed  or  probable
+COVID‐19 case in the last 14 days before symptom onset [17]. How‐
+ever, this denition is not valid in countries where SARS‐CoV‐2 is
+spreading  widely  in  a  community transmission pattern. In such
+communities, acquiring the infection may occur  by  contact  with
+asymptomatic  untested  cases. Hence, an individual with relevant
+clinical manifestations not fully explained  by  other  aetiology
+should be considered as a suspected case [12].  Diagnosis of sus‐
+pected and asymptomatic cases is of paramount importance  in  the
+management  and  control of outbreaks. When testing is not possi‐
+ble, specimens should be shipped, according to WHO  instructions,
+to the nearest reference laboratory [18]. It should be noted that
+a negative result does not rule out the infection and the  tested
+person  may  be still in the rst days of infection when viral RNA
+load in caution and follow‐up testing are recommended for  highly
+suspected  individuals.  It  should be noted that most SARS‐CoV‐2
+tests are currently approved to be  implemented  only  under  the
+current  emergency situation and manufacturer‐independent evalua‐
+tion for test performance is  mostly  lacking.  In  other  words,
+clinical  correlation with patient history and radiographic imag‐
+ing is necessary to determine the correct infection status.   Di‐
+agnostic  specimens:  types  and times For general procedures for
+specimen collection, interim guides from the WHO and CDC are  the
+best  to  consult [18,19].  Notably, different respiratory speci‐
+mens (from upper and lower parts of the tract) were found to have
+different detection rates of SARS‐CoV‐2. Indeed, variations occur
+between patients and even  in  the  same  individual  during  the
+course of the illness; the pattern of viral shedding is not fully
+understood [2022]. For instance,  nasopharyngeal  specimens  have
+shown  negative  results,  while viral RNA was detected in sputum
+specimens from the same patients [23]. Additionally, the accuracy
+of  the  test  depends  on specimen quality and quantity, time of
+collection during the course of the  disease,  and  the  inherent
+quality  of  the  test kit [15].  Swab specimens are not possible
+from bedridden patients with severe  respiratory  involvement  or
+those  undergoing  mechanical ventilation. Invasive procedures to
+obtain endotracheal aspirates, sputum and  bronchial  lavage  are
+possible  ways  to  obtain  specimens  from such patients. Throat
+swabs were found to result in false‐negative results as viral RNA
+was recovered from sputum samples of patients after viral load in
+the throat illness progresses, lower respiratory tract  specimens
+become  the best choice [22,26]. However, collection of specimens
+from the lower respiratory tract may increase infection  risk  to
+health‐care workers owing to aerosol generation during collection
+procedures [27]. Saliva and nasal wash specimens have been  found
+to  be  good  alternatives,  especially when laboratory biosafety
+measures cannot be met [2830]. Stool  and  blood  specimens  were
+found  to  contain SARS‐CoV‐2 and viral RNA has been successfully
+detected from such specimens by RT‐PCR; however, their diagnostic
+value  has  not been studied thoroughly [31]. Lastly, minimum es‐
+sential medium, sterile phosphate buffer, and 0.9%  saline  solu‐
+tions  were all found to be alternatives to viral transport media
+[32].  Specimen processing Upon receiving the specimen, immediate
+testing  procedures should be performed in a biosafety cabinet of
+class II or higher.  Care should be paid  to  minimizing  aerosol
+generation during specimen manipulation. In addition to biosafety
+precautions, the testing operator should be  aware  of  technical
+factors affecting result accuracy [33]. For nucleic acid amplica‐
+tion assays, the processing kit reagents should be the recommend‐
+ed match with the PCR platform to be used [33]. Moreover, reagent
+preparation and storage should be in accordance with the manufac‐
+turers instructions. For RNA extraction phase, various bioMrieux)
+have been validated by the CDC to work properly when  manufactur‐
+ers  instructions  are  followed strictly [33].  Specimens should
+quickly be diluted in lysis  buffer  containing  an  inactivating
+agent  (guanidinium‐based  compounds  to  inactivate virions) and
+non‐denaturing detergent to disrupt the lipid envelopes of respi‐
+ratory epithelial cells and the virus. Additionally, lysis buffer
+also prevents viral RNA degradation [34].  When self‐enclosed au‐
+tomated systems are used, success of this step is optimally guar‐
+anteed. The currently used systems are  ID  NOW  (Abbott,  Abbott
+Park,  IL,  USA),  Cobas  Liat  (Roche  Molecular Systems, Basel,
+Switzerland) and GeneXpert (Cepheid,  Sunnyvale,  CA,  USA).  Ex‐
+tracted  RNA should be stored at or below 70C if subsequent steps
+of analysis are to be performed later.  Detection  of  SARS‐CoV‐2
+nucleic  acid There are two available categories for RNA amplica‐
+tion tests for SARS‐CoV‐2; rRT‐PCR and  loop‐mediated  isothermal
+amplication  (LAMP).  For SARS‐CoV‐2 detection, protocols of rRT‐
+PCR were approved by WHO and the US Food and Drug  Administration
+(FDA),  whereas  the isothermal amplication infections, RT‐PCR is
+the most common tool due to its accuracy and popularity [35]. Ad‐
+ditionally, less common amplication assays other than PCR are al‐
+so used in the detection of RNA viruses. Nonetheless, the accura‐
+cy  of  nucleic  acid amplication tests is ultimately affected by
+mutations in the sequences targeted by test primers [36].   Real‐
+time  RT‐PCR  Different  qualitative  rRT‐PCR protocols for SARS‐
+CoV‐2 Laboratory diagnosis of SARS‐CoV‐2 [33,34,3739]. Two  diag‐
+nostic  rRT‐PCR‐based  assays  are accepted for procurement under
+Emergency Use Listing procedure;  Genesig  Real‐Time  PCR  Coron‐
+avirus  (Primerdesign  Ltd, Southampton, UK) and Cobas SARS‐CoV‐2
+6800/8800  system  (Roche  Molecular  Systems).  The  Cobas  6800
+SARSCoV‐2  system from Roche was recently evaluated by Rocheinde‐
+pendent researchers and found to be reliable for detecting  SARS‐
+CoV‐2 RNA in nasopharyngeal specimens [40].  The rst rRT‐PCR pro‐
+tocol developed  outside  China  incorporated  primers  targeting
+genes of the envelope protein (E), nucleocapsid (N) and RNA poly‐
+merase (RdRp) [39]. The primers of E and RdRp were the most  sen‐
+sitive and were rapidly and widely adopted in Europe [41]. Howev‐
+er, RdRp primers were found to cross‐react with RNA  of  SARS‐CoV
+[42].  A  point  worth  mentioning is that reagent design has the
+most inuential role on assay  performance,  therefore,  wellopti‐
+mized  targets  are  expected to arise from different genomic se‐
+quences of SARS‐CoV‐2.  Currently, numerous primers are  designed
+to  target  various  RNA sequences in six genes of SARS‐CoV‐2 for
+diagnostic purposes: ORF1a/b, ORF1b‐nsp14 (50 ‐UTR), RdRp (RNAde‐
+pendent   RNA  polymerase),  S  (spike  protein),  E  (envelope),
+N1/N2/N3 (nucleocapsid) and  RdRp/Hel  (RNA‐dependent  RNA  poly‐
+merase/helicase).  Of  note, a recent study found nucleocapsid N2
+and envelope E genes to be the most  sensitive  singleplex  reac‐
+tions  and  no signicant change in cycle threshold (Ct) was noted
+when both assays were combined [43]. The recommended rRT‐PCR  di‐
+agnostic panel by CDC includes primers for (i) two specic regions
+of SARS‐CoV‐2 nucleocapsid (N) gene and (ii) human RNase  P  gene
+(RP)  in a one‐step qualitative RT‐PCR‐based detection [33].  Re‐
+al‐time RT‐PCR tests have been positive in convalescent  patients
+after earlier negative RT‐PCR tests performed in the same labora‐
+tory with the same testing kit and same technician [4447].  False
+results  in  rRT‐PCR may be attributed to various factors. Varia‐
+tions in viral load kinetics may  lead  to  collecting  specimens
+with less viral load resulting in false‐negative results.  False‐
+negative results for RT‐PCR were also reported in cases of  typi‐
+cal  CT  ndings of SARS‐CoV‐2 infection [48,49]. Indeed, some re‐
+searchers found the sensitivity of rRT‐PCR to be  around  70%  in
+SARS‐CoV‐2  diagnosis  [49]. Additionally, studies have indicated
+that the SARS‐CoV‐2 genome is undergoing an evolutionary  process
+through  mutations and active genetic recombination [50,51]. This
+observation is expected because RNA viruses lack  efcient  proof‐
+reading machinery to ensure delity of RNA replication [52]. Muta‐
+tions in primer and probe targeted sequences may lead  to  false‐
+negative  results,  but  can be reduced by targeting two or three
+sequences within the viral genome.  New Microbes and  New  Infec‐
+tions,  Volume  36  Number  C, FIG. 1. Principle of reverse tran‐
+scription  loop‐mediated  isothermal  amplication  (RT‐LAMP).  B2
+backwards  inner primer (BIP) anneals to the target RNA forming a
+start point for reverse transcriptase to synthesize a  complemen‐
+tary  DNA strand (cDNA) (1). The outer primer B3 anneals to a se‐
+quence outside that of B2 to initiate synthesis  of  a  new  cDNA
+(2).  During  synthesis  of the second cDNA, the former strand is
+displaced by the reverse transcriptase (3). The displaced  strand
+is  released  with  a loop at the 50 end. Forward inner primer F2
+anneals to the 30 end of the newly released cDNA strand  and  DNA
+polymerase  starts  synthesis  of a complementary DNA strand (4).
+Forwards outer primer F3 anneals to the  30  end  of  the  strand
+formed  by the F2 primer and DNA polymerase initiates the synthe‐
+sis of new strand and simultaneous displacing of the former  (5).
+The  recently  displaced  cDNA  strand contains complementary se‐
+quences at both ends, hence it forms a dumbbell‐shaped  structure
+(6).  This  structure  is the starting material for loop‐mediated
+amplication cycles. It contains multiple  sites  for  amplication
+initiation  and  is rapidly converted to stem‐loop DNA structures
+in response to self‐primed synthesis at the 30 end  (7).  At  the
+same  time, backwards inner primer B2 to the single‐stranded loop
+region to start DNA synthesis culminating in long concatemers  (8
+and 9). Further synthesis leads to dumbbell‐shaped structures and
+accumulation of amplication dsDNA products (10).  Isothermal  am‐
+plication assays Loop‐mediated isothermal amplication is based on
+the technology of autocycling strand displacement  DNA  synthesis
+via  special  DNA  polymerase  (Bst) (Fig. 1). In such tests, the
+positive reaction is detected visually  or  by  simple  turbidity
+measurement  [53].  Incorporation of uorescent intercalating dyes
+to these tests is possible, allowing for real‐time monitoring  of
+the  reaction [54]. The technique was further developed to enable
+RNA detection by reverse transcription with  successful  applica‐
+tion  in detection of numerous RNA viruses including H7N9 inuenza
+virus, MERS‐CoV, West Nile virus and Zika virus the WHO or FDA to
+be performed even under emergency situations. Successful applica‐
+tion of real‐time LAMP tests in the SARS‐CoV‐2 pandemic will pos‐
+itively  contribute  to  pandemic management because this test is
+rapid (results are available in less than 1 hour) and can be per‐
+formed using a small instrument at general laboratories in hospi‐
+tals, at bedsides or in the eld.  Nonetheless,  primer  designing
+for  LAMP tests is more difcult than in PCR assays.  A handful of
+studies have developed, optimized and tested RT‐LAMP  assays  for
+the  diagnosis  of  SARS‐CoV‐2  using primers for different genes
+[5964]. Park et al. found primers of the nucleocapsid gene to  be
+the  most  sensitive,  detecting  as low as 100 RNA copy/reaction
+[60]. This level of detection is still considered high for sensi‐
+tive  diagnosis  of  suspected cases.  Indeed, the primer sets of
+another study targeting Or1ab and S genes  achieved  a  detection
+level as low as 20 copies/reaction [59]. Moreover, high sensitiv‐
+ity and specicity of RT‐LAMP were also found comparable  to  that
+of  PCR  [60].  Next‐generation assays Applications of CRISPR‐Cas
+technology in diagnostic microbiology and biomedicine is  growing
+rapidly  [65].  Within the past 2 years, researchers invented new
+diagnostic sensitive assays based on the  CRISPR‐Cas  system  for
+detection  of  infectious  agents with minimal or no equipment to
+perform the tests [66].  In April 2020, American  scientists  de‐
+veloped  an RT‐LAMPbased CRISPR‐Cas assay on lateral ow strips to
+detect the RNA of  SARS‐CoV‐2  in  extracts  from  nasopharyngeal
+specimens  [67]. The assay is performed by dipping the test strip
+into the RNA extract solution of the treated specimen  and  after
+40 minutes the results are visually read. The Cas12, protein com‐
+ponent of CRISPR‐Cas, is guided by specially designed  associated
+RNA (gRNA) to base‐pair with a specic RNA sequence of SARS‐CoV‐2.
+When the Cas12gRNA complex recognizes the  targeted  sequence,  a
+labelled  single‐stranded  DNA reporter probe is cleaved by Cas12
+to liberate a uorescent molecule visible to naked  eye.  However,
+its  current  sensitivity is lower than of rRT‐PCR. As in nucleic
+acid amplication assays, CRISPR‐based diagnostics  are  also  ex‐
+pected  to  generate  false results if mutations have occurred in
+the targeted Immunodiagnostic approaches Immunodiagnostic  point‐
+of‐care  tests generating rapid results (in less than 1 hour) are
+less complex than molecular tests.  Based  on  current  evidence,
+seroconversion  for  SARS‐CoV‐2 was found to occurs between 7 and
+11 days after onset of symptoms [68]. Consequently, antibody  de‐
+tection  assays might be impractical for diagnosis of acute (cur‐
+rent) infection at the early stage. Nonetheless, these tests  may
+be  useful in epidemiological surveillance (retrospective evalua‐
+tion), contact tracing and research studies addressing neutraliz‐
+ing  the FDA [69]. Six of these tests are to be performed only in
+Laboratory diagnosis of SARS‐CoV‐2 laboratories certied  to  per‐
+form  high  complexity  tests, whereas the remaining panel can be
+performed in laboratories with requirement of moderate complexity
+tests. Antibody detecting tests are either run on ELISA, chemilu‐
+minescence (Cobas analysers platforms) or rapid‐test  lateral  ow
+cassettes. On the other hand, a single lateral ow cassette (Soa 2
+SARS antigen FIA from Quidel, San Diego, CA, USA) was nasopharyn‐
+geal  and nasal swabs. Other antibody‐detecting tests exploit re‐
+combinant nucleocapsid antigens to  detect/  quantify  anti‐SARS‐
+CoV‐2  antibodies  in  blood. However, dozens have been developed
+and introduced to markets with  limited  independent  validation.
+Due  to high nucleotide sequence similarity with SARS‐CoV, cross‐
+reactivity is expected in such tests and their sensitivity is ex‐
+pected  to  range  from  34% to 80% [7072]. Some lateral ow rapid
+test kits have the capacity to detect IgM and IgG  or  viral  and
+past  SARS‐CoV‐2  infections. Theoretically, such assays will de‐
+crease the time, costs and labour of testing in comparison to nu‐
+cleic  acid  amplication assays. The majority of available immun‐
+odiagnostic tests are based on the principle of  immunochromatog‐
+raphy  (i.e.  lateral  ow) (Fig. 2). However, sampling variations
+and variations between individuals in terms of viral load are im‐
+portant factors affecting the accuracy of such assays Antigen de‐
+tection tests Rapid antigen detection kits are generally  charac‐
+terized  by  suboptimal  sensitivity and specicity [73]. Nonethe‐
+less, unique and conserved  domains  of  proteins  in  SARS‐CoV‐2
+could  be  exploited  to  develop sensitive testing kits. Two ap‐
+proaches are expected to increase the sensitivity of such  tests:
+(i)  prior treatment to concentrate the targeted antigen and (ii)
+use of monoclonal antibodies to different epitopes of the antigen
+to be detected. Two recent pre‐print studies reported a sensitiv‐
+ity range of 93%100% and 100% specicity of the immunochromatogra‐
+phy  SARS‐CoV‐2  antigen  tests  targeting N protein [74,75] (ac‐
+cessed 13 May 2020).  Serological tests against SARS‐CoV‐2  [69].
+Such tests are mostly based on the principles of immunochromatog‐
+raphy, chemiluminescence or ELISA to detect IgG or IgG and IgM in
+serum. Serodiagnosis is believed to be useful in convalescent pa‐
+tients with negative PCR ndings, as the accuracy of molecular as‐
+says  is  inuenced  by New Microbes and New Infections, Volume 36
+Number C, FIG. 2. Principle of immunochromatography. This drawing
+shows  lateral  ow  to detect an antigen. The specimen containing
+the antigen (Analyte) is placed on the sample pad.  The  antigen,
+with  the  uid, moves to the conjugate pad where it is bound by a
+labelled antibody specic to the targeted antigen.  The  conjugate
+pad also contains labelled antibodies nonspecic to the antigen to
+be detected.  through the nitrocellulose membrane and  reach  the
+Test line area. In this area, antigen‐specic antibodies are immo‐
+bilized to catch the antigenantibody complexes accumulate in this
+area,  the line becomes visible to the naked eye.  The non‐specic
+antibodies also migrate and pass the Test line to reach the  Con‐
+trol  line  area  and that line also becomes visible. The test is
+considered positive only when the two lines (T and C)  are  visi‐
+ble.  (Reproduced  from Paulini et al. [82]).  viral shedding dy‐
+namics [20]. However, cross‐reactivity with other antibodies is a
+major  challenge  to serological tests. In fact, the prole of the
+humoral immune response to SARS‐CoV‐2 is still partially  unknown
+[76,77].  From the second week of assays. In the third week after
+onset of symptoms, the IgM titre peaks  and  then  gradually  de‐
+creases  whereas  IgG  stabilises  around  4 weeks [68,77,78]. It
+should be noted that interference from other antibodies,  mounted
+against other phylogenetically related viruses, is to be evaluat‐
+ed.  With the exception of immunodecient individuals,  infections
+of  SARS‐CoV‐2  result  in cell‐mediated immunity and humoral re‐
+sponses by IgM, IgA and IgG uniformly in  all  patients.  IgM  is
+usually the rst class to be produced within the rst week of onset
+followed by robust IgG immunity [77]. IgM and IgG  against  SARS‐
+CoV‐2  were  detected  by  quantitative ELISA and qualitative im‐
+munochromatography assays with an increase in detection rates  as
+the  course  of the illness progressed [79,80]. However, a recent
+study (of a small sample size and still as a preprint)  from  Ox‐
+ford  accurate  than  lateral ow strips with high sensitivity for
+IgG from day 10 after onset [81]. Another  immunodiagnostic  test
+for  quantitative measurement of interleukin‐6 (Elecsys IL‐6 from
+Roche Diagnostics) has also been granted an helpful in  determin‐
+ing the risk of intubation with mechanical ventilation as it mea‐
+sures the level of inammatory response in individuals with  SARS‐
+CoV‐2.   The  choice of specimen type for SARS‐CoV‐2 diagnosis is
+subject to patient condition and stage  of  the  disease  course.
+Specimens from upper respiratory tract are the best choice during
+the early days of the illness, wheras sputum is the  most  sensi‐
+tive at later stages. Owing to occasional false results with rRT‐
+PCR, CT radiography should be obtained to reach an accurate diag‐
+nosis  and  for proper management. As in other RNA viruses, muta‐
+tions and other genetic changes are likely to  occur,  which  may
+result  in  pitfalls  of nucleic acid amplication assays. Genomic
+homology of SARS‐CoV‐2 with other coronaviruses is also  a  chal‐
+lenge  to  serological  and antigen detection tests. However, im‐
+provements in such point‐of‐care tests are  expected  to  aid  in
+better management of the pandemic as they are rapid and simple to
+perform. Epidemiological studies will be  easily  conducted  once
+accurate serological tests become available.  This work is a per‐
+sonal effort and did not receive any specic  Conict  of  interest
+conict of interest.  [1] Saif LJ, Wang Q, Vlasova AN, Jung K, Xi‐
+ao S. Coronaviruses. In: Zimmerman JJ, Karriker  LA,  Ramirez  A,
+Schwartz  KJ,  Stevenson  GW,  Sons,  Ltd;  2019. p. 488523.  [2]
+Yoshimoto FK. The proteins of severe acute  respiratory  syndrome
+coronavirus‐2  (SARS  CoV‐2  or  n‐COV19), the cause of COVID‐19.
+Protein J 2020;39:198216.  [3] Wu A, Peng Y,  Huang  B,  Ding  X,
+Wang  X,  Niu  P, et al. Genome composition and divergence of the
+novel coronavirus (2019‐nCoV) originating in China. Cell Host Mi‐
+crobe  2020;27:3258.  [4] de Wit E, van Doremalen N, Falzarano D,
+Munster VJ. SARS and MERS: [5] Zhu N, Zhang D, Wang W, Li X, Yang
+B,  Song J, et al. A novel coronavirus from patients with pneumo‐
+nia in China, 2019. N Engl J [6] Zhang T, Wu Q, Zhang Z. Probable
+pangolin  origin  of SARS‐CoV‐2 associated with the COVID‐19 out‐
+break. Curr Biol 2020;30:134651.   [8]  Del  Rio  C,  Malani  PN.
+COVID‐19‐new  insights  on  a  rapidly  changing  epidemic.  JAMA
+2020;323:133940.  [9] Abduljalil JM, Abduljalil BM. Epidemiology,
+genome,  and  clinical features of the pandemic SARS‐CoV‐2: a re‐
+cent view. New Microbe. New [10] Wu Z, McGoogan JM.  Characteris‐
+tics  of  and important lessons from the coronavirus disease 2019
+(COVID‐19) outbreak in China: summary of a report of 72 314 cases
+from  the Chinese Center for Disease Control and Prevention. JAMA
+2020;323:123942.  [11] Paules CI, Marston HD,  Fauci  AS.  Coron‐
+avirus   infectionsmore   than   just   the   common  cold.  JAMA
+2020;323:7078.  [12] World Health Organization. Clinical  manage‐
+ment  of COVID‐19.  Geneva: WHO; 2020.  [13] World Health Organi‐
+zation. Clinical management of severe acute respiratory infection
+when  COVID‐19  is  suspected  (v1.2). Geneva: WHO; 2020. p. 121.
+Laboratory diagnosis of SARS‐CoV‐2 [14] Wang Y, Kang  H,  Liu  X,
+Tong  Z. Combination of RT‐qPCR testing and clinical features for
+diagnosis of COVID‐19 facilitates management of  SARS‐CoV‐2  out‐
+break.  J Med Virol 2020;92:5389.  [15] Ai T, Yang Z, Hou H, Zhan
+C, Chen C, Lv W, et al. Correlation of [16] Li B, Si H‐R, Zhu  Y,
+Yang  X‐L,  Anderson  DE, Shi Z‐L, et al. Discovery of bat coron‐
+aviruses through surveillance and probe capture‐based [17]  World
+Health  Organization.  Global surveillance for COVID‐19 caused by
+human  infection  with  COVID‐19  virus.   Geneva:   WHO;   2020.
+who.int/emergencies/diseases/novel‐coronavirus‐2019/technical‐
+guidance. [Accessed 25 April 2020].   [19]  Centers  for  Disease
+Control     and    Prevention.    Clinical    specimens:    novel
+2019‐ncov/lab/guidelines‐clinical‐specimens.html.  [Accessed   27
+April  [20]  He  X,  Lau EHY, Wu P, Deng X, Wang J, Hao X, et al.
+Temporal dynamics  in  viral  shedding  and  transmissibility  of
+COVID‐19.  Nat Med [21] Liu Y, Yan LM, Wan L, Xiang TX, Le A, Liu
+JM, et al. Viral dynamics in mild and severe cases  of  COVID‐19.
+Lancet Infect Dis 2020:12.  [22] Zou L, Ruan F, Huang M, Liang L,
+Huang H, Hong Z, et al. SARS‐CoV‐2 viral load in upper respirato‐
+ry  specimens  of infected patients. N Engl J [23] Winichakoon P,
+Chaiwarith R, Liwsrisakun C, Salee P, Goonna A,  Limsukon  A,  et
+al.  Negative  nasopharyngeal and oropharyngeal swabs do not rule
+out COVID‐19. J Clin Microbiol 2020;58:12.  [24] World Health Or‐
+ganization.  Report of the WHO‐China joint mission on coronavirus
+disease 2019 (COVID‐19). Geneva: WHO; 2020.  [25]  Joynt  GM,  Wu
+WK. Understanding COVID‐19: what does viral RNA [26] Pan Y, Zhang
+D, Yang P, Poon LLM, Wang Q. Viral load of SARS‐CoV2 in  clinical
+samples.  Lancet  Infect Dis 2020;20:4112.  [27] Tran K, Cimon K,
+Severn M, Pessoa‐Silva CL, Conly J. Aerosol generating procedures
+and  risk  of transmission of acute respiratory [28] Azzi L, Car‐
+cano G, Gianfagna F, Grossi P, Gasperina DD,  Genoni  A,  et  al.
+Saliva  is  a  reliable tool to detect SARS‐CoV‐2. J Infect 2020.
+[29] Tang Y‐W, Schmitz JE, Persing DH, Stratton CW. The laborato‐
+ry  diagnosis  of  COVID‐19  infection:  current issues and chal‐
+lenges. J Clin [30] To KK‐W, Tsang OT‐Y, Yip CC‐Y, Chan  K‐H,  Wu
+T‐C,  Chan JM‐C, et al. Consistent detection of 2019 novel coron‐
+avirus in saliva. Clin [31] Yeo C, Kaushal S, Yeo D. Enteric  in‐
+volvement  of  coronaviruses: is faecaloral transmission of SARS‐
+CoV‐2 possible? Lancet Gastroenterol Hepatol  2020;5:3357.   [32]
+Rodino  KG,  Espy MJ, Buckwalter SP, Walchak RC, Germer JJ, Fern‐
+holz E, et al. Evaluation of saline,  phosphate  buffered  saline
+and  minimum  essential medium as potential alternatives to viral
+transport [33] Centers for Disease Control  and  Prevention.  CDC
+real‐time  RT‐PCR  diagnostic panel. Atlanta, GA: CDC; 2020.  New
+Microbes and New Infections, Volume 36 Number C,  [34]  Chu  DKW,
+Pan  Y,  Cheng SMS, Hui KPY, Krishnan P, Liu Y, et al.  Molecular
+diagnosis of a novel coronavirus (2019‐nCoV) causing an  outbreak
+of pneumonia. Clin Chem 2020;66:54955.  [35] Grifn DW, Gibson CJ,
+Lipp EK, Riley K, Paul JH, Rose JB. Detection of viral  pathogens
+by reverse transcriptase PCR and of microbial indicators by stan‐
+dard methods in the canals of the Florida Keys. Appl Environ  Mi‐
+crobiol  1999;65:411825.   [36]  Bustin  SA, Nolan T. Pitfalls of
+quantitative real‐time reverse‐transcription polymerase chain re‐
+action.  J  Biomol  Tech  2004;15:15566.   [37] Nao N, Shirato K,
+Katano H, Matsuyama S, Takeda M.  Detection  of  second  case  of
+2019‐nCoV  infection  in Japan. 2020. Tokyo.  [38] Chinese Center
+for Disease Control and Prevention. Emergency response  technical
+centre.  Laboratory  testing  for COVID‐19. Beijing: Chinese CDC;
+2020.  [39] Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer  A,
+Chu  DKW,  et al. Detection of 2019 novel coronavirus (2019‐nCoV)
+by real‐time [40] Poljak M, Korva M, Knap Gasper N,  Fujs  Komlos
+K,  Sagadin  M,  Ursic T, et al. Clinical evaluation of the cobas
+SARS‐CoV‐2 test and a diagnostic platform switch during 48  hours
+in the midst of the COVID‐19 [41] Reusken CBEM, Broberg EK, Haag‐
+mans B, Meijer A, Corman VM, Papa A, et al. Laboratory  readiness
+and  response for novel coronavirus (2019‐nCoV) in expert labora‐
+tories in 30 EU/EEA countries25.  [42] Chan JF‐W,  Yip  CC‐Y,  To
+KK‐W,  Tang TH‐C, Wong SC‐Y, Leung K‐H, et al. Improved molecular
+diagnosis of COVID‐19 by the novel, highly sensitive  and  specic
+COVID‐19‐RdRp/Hel real‐time reverse transcription‐PCR assay vali‐
+dated in vitro and with clinical [43] Waggoner JJ, Stittleburg V,
+Pond  R, Saklawi Y, Sahoo MK, Babiker A, et al. Triplex real‐time
+RT‐PCR for severe acute respiratory syndrome [44] Xing Y,  Mo  P,
+Xiao  Y, Zhao O, Zhang Y, Wang F. Post‐discharge surveillance and
+positive virus detection in  two  medical  staff  recovered  from
+coronavirus  disease  2019 (COVID‐19), China, January to [45] Lan
+L, Xu D, Ye G, Xia C, Wang S, Li Y, et al. Positive  RT‐PCR  test
+results  in patients recovered from COVID‐19. JAMA 2020;323: [46]
+Chen D, Xu W, Lei Z, Huang Z, Liu J, Gao Z, et al. Recurrence  of
+positive  SARS‐CoV‐2 RNA in COVID‐19: a case report. Int J Infect
+Dis [47] Zhang J, Yan K, Ye H, Lin J, Zheng J, Cai T.  SARS‐CoV‐2
+turned  positive  in  a  discharged patient with COVID‐19 arouses
+concern regarding the present standard for discharge. Int  J  In‐
+fect Dis 2020.  [48] Wong HYF, Lam HYS, Fong AH‐T, Leung ST, Chin
+TW‐Y, Lo CSY, et al. Frequency and distribution of  chest  radio‐
+graphic  ndings  in  [49]  Fang Y, Zhang H, Xie J, Lin M, Ying L,
+Pang P, et al. Sensitivity of chest CT for  COVID‐19:  comparison
+to  RT‐PCR.  Radiology  2020:200432.  [50] Sun J, He W‐T, Wang L,
+Lai A, Ji X, Zhai X, et al.  COVID‐19:  epidemiology,  evolution,
+and    cross‐disciplinary    perspectives.    Trends    Mol   Med
+2020;26:48395.  [51] Phan T. Genetic diversity and  evolution  of
+SARS‐CoV‐2.  Infect  Genet [52] Sanjun R, Domingo‐Calap P. Mecha‐
+nisms of viral mutation. Cell Mol Life Sci 2016;73:443348.   [53]
+Notomi T, Mori Y, Tomita N, Kanda H. Loop‐mediated isothermal am‐
+plication (LAMP): principle, features, and future  prospects.   J
+Microbiol  2015;53:15.  [54] Oscorbin IP, Belousova EA, Zakabunin
+AI, Boyarskikh UA, Filipenko ML. Comparison of uorescent interca‐
+lating dyes for quantitative loop‐mediated isothermal amplication
+(qLAMP). Biotechniques 2016;61:205.  [55] Huang P, Wang H, Cao Z,
+Jin H, Chi H, Zhao J, et al. A rapid and specic assay for the de‐
+tection of MERS‐CoV. Front Microbiol  2018;9:  [56]  Chotiwan  N,
+Brewster CD, Magalhaes T, Weger‐Lucarelli J, Duggal NK, Rckert C,
+et al. Rapid and specic detection of Asian‐ and [57] Cao Z,  Wang
+H,  Wang  L,  Li  L, Jin H, Xu C, et al. Visual detection of West
+Nile Virus using reverse transcription  loop‐mediated  isothermal
+amplication  combined  with  a  vertical  ow visualization strip.
+Front [58] Ge Y, Wu B, Qi X, Zhao K, Guo X, Zhu Y, et  al.  Rapid
+and  sensitive  detection  of novel avian‐origin inuenza a (H7N9)
+virus by reverse transcription loop‐mediated isothermal  amplica‐
+tion  combined  with a lateral‐ow device. PLoS One 2013;8:e69941.
+[59] Yan C, Cui J, Huang L, Du B, Chen L, Xue G, et al. Rapid and
+visual  detection of 2019 novel coronavirus (SARS‐CoV‐2) by a re‐
+verse transcription loop‐mediated isothermal  amplication  assay.
+Clin  1016/j.jmoldx.2020.03.006.  in press.  [61] Lu R, Wu X, Wan
+Z, Li Y, Zuo L, Qin J, et al.  Development  of  a  novel  reverse
+transcription  loop‐mediated  isothermal  amplication method [62]
+Baek YH, Um J, Antigua KJC, Park J‐H, Kim Y, Oh S, et al.  Devel‐
+opment of a reverse transcription‐loop‐mediated isothermal ampli‐
+cation as a rapid early‐detection method  for  novel  SARS‐CoV‐2.
+Emerg  Microbe.  Infect  2020;9:9981007.  [63] Yu L, Wu S, Hao X,
+Dong X, Mao L, Pelechano V, et al. Rapid  detection  of  COVID‐19
+coronavirus using a reverse transcriptional loopmediated isother‐
+mal amplication (RT‐LAMP) diagnostic platform.  [64] Lu R, Wu  X,
+Wan  Z, Li Y, Jin X, Zhang C. A Novel Reverse transcription loop‐
+mediated isothermal amplication method for rapid  [65]  Foss  DV,
+Hochstrasser ML, Wilson RC. Clinical applications of CRISPR‐based
+genome editing and diagnostics. Transfusion 2019;59: [66] Chiu C.
+Cutting‐edge  infectious  disease  diagnostics  with CRISPR. Cell
+Host Microbe 2018;23:7024.  [67] Broughton  JP,  Deng  X,  Yu  G,
+Fasching CL, Servellita V, Singh J, et al.  CRISPRCas12‐based de‐
+tection of SARS‐CoV‐2. Nat Biotechnol [68]  Long  Q‐X,  Liu  B‐Z,
+Deng H‐J, Wu G‐C, Deng K, Chen Y‐K, et al.  Antibody responses to
+SARS‐CoV‐2 in patients  with  COVID‐19.  Nat  [70]  Bruning  AHL,
+Leeang  MMG, Vos JMBW, Spijker R, de Jong MD, Wolthers KC, et al.
+Rapid tests for inuenza, respiratory syncytial Dhla  M,  Boesecke
+C,  Schulte B, Diegmann C, Sib E, Richter E, et al.  Rapid point‐
+of‐care testing for SARS‐CoV‐2 in a community  screening  setting
+shows  low sensitivity. Public Health 2020;182:1702.  Li Z, Yi Y,
+Luo X, Xiong N, Liu Y, Li S, et al. Development and clinical  ap‐
+plication  of  a  rapid  IgM‐IgG combined antibody test for SARS‐
+CoV‐2 Merckx J, Wali R, Schiller I, Caya C, Gore GC, Chartrand C,
+et  al.  Diagnostic accuracy of novel and traditional rapid tests
+for inuenza Porte L, Legarraga P, Vollrath V, Aguilera X,  Munita
+JM,  Araos R, et al.  Evaluation of novel antigen‐based rapid de‐
+tection test for the diagnosis Diao B, Wen K, Chen J, Liu Y, Yuan
+Z, Han C, et al. Diagnosis of acute Qin C, Zhou L, Hu Z, Zhang S,
+Yang S, Tao Y, et al. Dysregulation of  immune  response  in  pa‐
+tients  with  COVID‐19 in Wuhan, China. Clin Laboratory diagnosis
+of SARS‐CoV‐2 [77] Prompetchara E, Ketloy C, Palaga T. Immune re‐
+sponses  in COVID‐19 and potential vaccines: lessons learned from
+SARS and MERS epidemic.  [79] Jskelinen AJ, Keklinen  E,  Kallio‐
+Kokko  H, Mannonen L, Kortela E, [80] Pan Y, Li X, Yang G, Fan J,
+Tang Y, Zhao J, et al. Serological immunochromatographic approach
+in diagnosis with SARS‐CoV‐2 infected [81] Adams ER, Ainsworth M,
+Anand R, Andersson MI, Auckland K, Baillie JK,  et  al.  Antibody
+testing for COVID‐19: a report from the [82] Paulini I, Siqueira‐
+Silva J, Thomaz L, Rocha L, Harsi C, Bellei N, et  al.   Develop‐
+ment  of a prototype immunochromatographic test for rapid diagno‐
+sis of  respiratory  adenovirus  infection.  Braz  J  Infect  Dis
+2017;21:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

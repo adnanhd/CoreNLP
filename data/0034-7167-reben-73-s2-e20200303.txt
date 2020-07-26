@@ -1,341 +1,396 @@
-ORIGINAL ARTICLE
-Personal Protective Equipment in the coronavirus pandemic:
-training with Rapid Cycle Deliberate Practice
-Equipamento de Proteção Individual na pandemia por coronavírus: treinamento com Prática Deliberada em Ciclos Rápidos
-Equipo de Protección Personal en pandemia de coronavirus: entrenamiento con Práctica Deliberada en Ciclos Rápidos
-Hudson Carmo de OliveiraI
-Lucimar Casimiro de SouzaI,II
-Taina Coutinho LeiteI,III
-Juliana Faria CamposI
-Universidade Federal do Rio de Janeiro. Rio de Janeiro,
-Rio de Janeiro, Brazil
-Hospital Samaritano. Rio de Janeiro, Rio de Janeiro, Brazil
-Hospital Pró-Cardíaco. Rio de Janeiro, Rio de Janeiro, Brazil
-Oliveira HC, Souza LC, Leite TC, Campos JF. Personal
-Protective Equipment in the coronavirus pandemic:
-training with Rapid Cycle Deliberate Practice.
-Hudson Carmo de Oliveira
-Objective: to discuss the application of Rapid Cycle Deliberate Practice for attire and unattire
-training in the context of COVID-19 and structure a practical guide to the application at this
-juncture. Methods: this methodological study described theoretical and practical aspects of
-the application of a simulation strategy as a technological training tool. An application guide
-Results: maximizing time in Deliberate Practice, feedback with evidence and psychological
-security are the principles of this strategy. The dynamic involves repetition and feedback.
-The application guide presents the sequence of actions for attire and unattire. Final
-considerations: coping with this pandemic requires appropriate use of personal protective
-educational tool for attire/unattire, since it encourages mastery performance.
-Descriptors: Simulation Training; Personal Protective Equipment; Covid-19; Pandemics;
-Containment of Biohazards.
-Objetivo: discutir a aplicação da Prática Deliberada em Ciclos Rápidos para o treinamento
-de paramentação e desparamentação no contexto da COVID-19 e estruturar um guia prático
-para a aplicação nesta conjuntura. Métodos: estudo metodológico que descreve aspectos
-teóricos e práticos da aplicação de uma estratégia de simulação na qualidade de ferramenta
-tecnológica de treinamento. Um guia de aplicação foi construído a partir da busca de evidências
-provenientes dos principais órgãos de autoridade em saúde do Brasil. Resultados: maximização
-do tempo em Prática Deliberada, feedback com evidência e segurança psicológica são os
-princípios desta estratégia. A dinâmica envolve repetições e feedbacks. O guia de aplicação
-apresenta a sequência de ações para paramentação e desparamentação. Considerações
-finais: o enfrentamento desta pandemia requer uso apropriado de Equipamento de Proteção
-Individual. Os autores sugerem a Prática Deliberada em Ciclos Rápidos como ferramenta
-educacional tecnológica para paramentação/desparamentação, visto que incentiva uma
-performance com maestria.
-Descritores: Treinamento por Simulação; Equipamento de Proteção Individual; Coronavírus;
-Pandemia; Contenção de Riscos Biológicos.
-EDITOR IN CHIEF: Dulce Barbosa
-ASSOCIATE EDITOR: Antonio José de Almeida Filho
-Objetivo: discutir la aplicación de la Práctica Deliberada en Ciclos Rápidos para la formación
-de vestimentas y depargaciones en el contexto de COVID-19 y estructurar una guía práctica
-para la aplicación en esta coyuntura. Métodos: estudio metodológico que describe aspectos
-teóricos y prácticos de la aplicación de una estrategia de simulación como herramienta de
-capacitación tecnológica. Se creó una guía de aplicación a partir de la búsqueda de evidencia
-de las principales autoridades de salud en Brasil. Resultados: maximizar el tiempo en la
-práctica deliberada, la retroalimentación basada en evidencia y la seguridad psicológica son
-los principios de esta estrategia. La dinámica implica repeticiones y retroalimentaciones. La
-guía de aplicación presenta la secuencia de acciones para vestirse y vestirse. Consideraciones
-finales: enfrentar esta pandemia requiere el uso apropiado de Equipo de Protección Personal.
-Los autores sugieren la práctica deliberada en ciclos rápidos como una herramienta educativa
-tecnológica para vestirse/desvestirse, ya que fomenta un desempeño magistral.
-Descriptores: Entrenamiento Simulado; Equipo de Protección Personal; Coronavirus;
-Pandemia; Contención de Riesgos Biológicos.
-Personal Protective Equipment in the coronavirus pandemic: training with Rapid Cycle Deliberate Practice
-Oliveira HC, Souza LC, Leite TC, Campos JF.
-The Coronavirus Disease epidemic (COVID-19), caused by the
-new coronavirus (Sars-CoV-2), originated in 2019 in the city of
-Wuhan, China. In early 2020 it became a pandemic as it hit 24
-to nearly two million people infected and nearly 130 thousand
-deaths caused by the virus. The countries most affected by
-coronavirus disease are the United States, with more than 600
-thousand confirmed cases; Italy, Spain, Germany and France, with
-more than 100 thousand confirmed cases each; United Kingdom,
-with more than 98 thousand cases; and China, with more than 80
-thousand confirmed cases. Among those mentioned, all have a
-rate of contamination of health professionals(1). Italy, for instance,
-had 14,032 cases of contamination of these professionals, with
-a lethality rate of 11.8% of those aged between 70 and 79 years
-old, and 1.3% among those aged 60-69 years old(2).
-Since it is a respiratory transmission virus, personal protective
-equipment (PPE) use is essential to contemplate the standard
-precautions, contact and droplet measures recommended to face
-this pandemic(3). Therefore, an investment in knowledge, training
-and qualification of health professionals on proper use of this
-equipment in care management of infected patients becomes
-indispensable. Proper attire and unattire are an effective way to
-avoid contamination among health professionals(4).
-A strategy to achieve the proper use of this equipment, as
-well as the protection of health professionals, is the implementation and compliance with strict PPE protocols. In 2014,
-during the Ebola outbreak, contamination of two health
-professionals was associated with probable non-compliance
-with these protocols. A study found that approximately half
-of the sample of health professionals touched, without gloves,
-a potentially contaminated PPE surface and about 26% inappropriately touched the front of the mask(5), which shows the
-inappropriate disposal of PPE.
-Research shows that all professionals without updating
-and who do not practice repeatedly end in stagnant skills or
-deviations in techniques, over time(6). In addition, prolonged
-periods of non-use of skills, known as retention intervals, lead
-to a decline in performance(6). That said, it is significant that
-health services provide training for all professionals who will
-have or may have contact with people infected with the new
-However, conventional training using demonstrations does
-not guarantee that the professional will be properly and unparalleled. A study on training and education, in the context of
-highly infectious diseases, in emergency services, showed that
-professionals felt the need for quality training and lack of sufficient confidence to respond to these diseases(7). Therefore, it is
-necessary to conduct training that allows practical implementation of appropriate technique among all participants, in favor of
-minimizing technical errors, a fact that implies a reduction in the
-risk of contamination of health professionals.
-Rapid Cycle Deliberate Practice (RCDP) is a simulation strategy
-aimed at improving participants’ performance to achieve mastery
-in a skill. It is organized to promote task repetition and provide
-immediate evidence-based feedback through an instructor.
-Created in a setting of pediatric cardiorespiratory arrest, RCDP
-showed improvement in the cardiopulmonary resuscitation skills
-of health professionals(8). By assuming that the RCDP should be
-applied as a technological tool in other populations and in different contexts of skills, the present study suggests RCDP use
-in capacity building and training of attire and unattire of PPE.
-Thus, health professionals will perform with mastery when facing
-COVID-19. RCDP is an educational technology with an immediate impact on the improvement and technical improvement of
-health professionals, meeting the current demand for information
-in the health setting.
-To discuss the application of Rapid Cycle Deliberate Practice
-for training in attire and unattire and to structure a practical guide
-to the application of RCDP in attire and unattire of PPE in procedures that generate aerosolization in the context of COVID-19.
-This methodological study was structured in two parts: 1)
-Explanation of the theoretical and operational aspects for the
-applicability of the RCDP in attire and removing the necessary
-PPE for procedures that may generate aerosols, in the context of
-coping with the COVID-19 pandemic; 2) Construction of a RCDP
-application guide at this juncture.
-To construct the guide, relevant information was gathered for
-attire and unattire the PPE necessary to face COVID-19. The data
-were extracted from the main official materials released by the
-agencies linked to the Brazilian health area, such as Ministry of
-Health, Brazilian National Health Surveillance Agency (Agência
-Nacional de Vigilância Sanitária, abbreviated Anvisa), Federal
-Nursing Council (Conselho Federal de Enfermagem, abbreviated
-COFEN), and Regional Nursing Council (Conselho Regional de
-Enfermagem, abbreviated COREN). From the data collected, the
-best evidence and recommendations in force were selected.
-Respecting the RCDP principles, the guide was built in five
-cycles, with specific objectives. The first two cycles refer to proper
-attire, and the next three refer to unattire. Each cycle contains
-three to eleven tasks considered to be critical points, which are
-points whose errors would lead to potential contamination. The
-cycles and stages were named as follows: Cycle 1 refers to the
-first stage of unattire, Cycle 2 to the second stage of attire, Cycle
-3 to Unattire stage I, Cycle 4 to Unattire stage II and Cycle 5 to
-Unattire stage III.
-THEORICAL ASPECTS OF RAPID CYCLE DELIBERATE PRACTICE
-Deliberate Practice is a concept based on studies on skill
-acquisition. It was coined by Ericsson et al. in their research on
-expertise. It is defined as a series of specific activities that improve the performance of individuals by being subjected to the
-following factors: a) task with a defined objective; b) motivation
-to improve; c) feedbacks; and d) vast opportunity for repetition
-and gradual refinement of performance(9). Rapid Cycle Deliberate
-Practice is a simulation strategy created by Hunt et al. in 2014,
-Personal Protective Equipment in the coronavirus pandemic: training with Rapid Cycle Deliberate Practice
-Oliveira HC, Souza LC, Leite TC, Campos JF.
-which appropriated the concept of Deliberate Practice and added
-an intense and rapid transition between feedbacks and task
-practice in an explored clinical case until the skill was mastered.
-This alternation was dubbed the fast cycle(8).
-For the proper application of the RCDP, one must be aware
-of its three basic principles. The first is called maximizing time in
-deliberate practice, in which it is recommended to give several
-opportunities to perform the task perfectly. The idea is to seek
-to achieve automatization in performance through repetition,
-i.e. to create muscle memory to do the right thing. For this to be
-possible, it is necessary to receive corrections from an instructor,
-in case there is an error in the performance. These corrections are
-with evidence(8).
-RCDP feedbacks are classified as directed and immediate. They
-are provided after an error is detected. Thus, it is understood
-that the instructor will make interruptions to explain the most
-appropriate way to perform that task, according to the existing
-scientific evidence, or even from the consensus of experts. This
-means that coaches need to master the training topic, in addition to possessing ownership and confidence in the application
-of the RCDP. After feedback, participants are asked to go back
-10 seconds and perform the task again(8). In case of an error, a
-new block is performed, creating a quick cycle between task,
-interruption and feedback. The dynamics of interruptions can
-Doing again
-Going back
-Cycle Deliberate Practice
-In order for these interruptions to be accepted favorably and to
-prevent participants from behaving defensively, it is necessary to
-ensure a partnership agreement between coach and participant.
-Training should not be started without an understanding that
-interruptions are essential to achieving mastery performance. It
-is noteworthy that Hunt et al. call this style as coaching(8) . With
-this, the third principle is explicit psychological security.
-RAPID CYCLE DELIBERATE PRACTICE OPERATING ASPECTS
-IN THE ATTIRE AND UNATTIRE
-Having understood the three principles of the RCDP, the training dynamics is discussed. A minimum of two and a maximum of
-five participants are suggested. The first action of RCDP training
-is to ensure psychological security. At this point, the trainer must
+ORIGINAL ARTICLE Personal Protective Equipment in the coronavirus
+pandemic: training with Rapid Cycle Deliberate  Practice  Equipa‐
+mento de Proteo Individual na pandemia por coronavrus: treinamen‐
+to com Prtica Deliberada em Ciclos  Rpidos  Equipo  de  Proteccin
+Personal  en  pandemia  de coronavirus: entrenamiento con Prctica
+Deliberada en Ciclos Rpidos Hudson  Carmo  de  OliveiraI  Lucimar
+Casimiro  de  SouzaI,II  Taina  Coutinho LeiteI,III Juliana Faria
+CamposI Universidade Federal do Rio de Janeiro. Rio  de  Janeiro,
+Rio  de  Janeiro, Brazil Hospital Samaritano. Rio de Janeiro, Rio
+de Janeiro, Brazil Hospital Pr‐Cardaco. Rio de  Janeiro,  Rio  de
+Janeiro,  Brazil Oliveira HC, Souza LC, Leite TC, Campos JF. Per‐
+sonal Protective Equipment in the coronavirus pandemic:  training
+with  Rapid  Cycle Deliberate Practice.  Hudson Carmo de Oliveira
+Objective: to discuss the application of Rapid  Cycle  Deliberate
+Practice  for  attire  and  unattire  training  in the context of
+COVID‐19 and structure a practical guide to  the  application  at
+this juncture. Methods: this methodological study described theo‐
+retical and practical aspects of the application of a  simulation
+strategy  as  a technological training tool. An application guide
+Results: maximizing time in Deliberate  Practice,  feedback  with
+evidence  and  psychological  security are the principles of this
+strategy. The dynamic involves repetition and feedback.  The  ap‐
+plication  guide  presents the sequence of actions for attire and
+unattire. Final considerations: coping  with  this  pandemic  re‐
+quires  appropriate  use  of personal protective educational tool
+for attire/unattire, since  it  encourages  mastery  performance.
+Descriptors:  Simulation Training; Personal Protective Equipment;
+Covid‐19; Pandemics; Containment of Biohazards.  Objetivo: discu‐
+tir  a  aplicao  da  Prtica  Deliberada  em  Ciclos Rpidos para o
+treinamento de paramentao e desparamentao no contexto da COVID‐19
+e estruturar um guia prtico para a aplicao nesta conjuntura. Mto‐
+dos: estudo metodolgico que descreve aspectos tericos  e  prticos
+da aplicao de uma estratgia de simulao na qualidade de ferramenta
+tecnolgica de treinamento. Um guia de  aplicao  foi  construdo  a
+partir  da busca de evidncias provenientes dos principais rgos de
+autoridade em sade do Brasil. Resultados: maximizao do  tempo  em
+Prtica Deliberada, feedback com evidncia e segurana psicolgica so
+os princpios desta estratgia. A dinmica envolve repeties e  feed‐
+backs.  O  guia de aplicao apresenta a sequncia de aes para para‐
+mentao e desparamentao. Consideraes finais: o enfrentamento desta
+pandemia requer uso apropriado de Equipamento de Proteo Individu‐
+al. Os autores sugerem a Prtica Deliberada em Ciclos Rpidos  como
+ferramenta  educacional tecnolgica para paramentao/desparamentao,
+visto que incentiva uma performance com  maestria.   Descritores:
+Treinamento por Simulao; Equipamento de Proteo Individual; Coron‐
+avrus; Pandemia; Conteno de Riscos Biolgicos.  EDITOR  IN  CHIEF:
+Dulce  Barbosa ASSOCIATE EDITOR: Antonio Jos de Almeida Filho Ob‐
+jetivo: discutir la aplicacin de la Prctica Deliberada en  Ciclos
+Rpidos para la formacin de vestimentas y depargaciones en el con‐
+texto de COVID‐19 y estructurar una gua prctica para la aplicacin
+en  esta  coyuntura. Mtodos: estudio metodolgico que describe as‐
+pectos tericos y prcticos de la aplicacin de  una  estrategia  de
+simulacin  como herramienta de capacitacin tecnolgica. Se cre una
+gua de aplicacin a partir de la bsqueda de evidencia de las prin‐
+cipales  autoridades de salud en Brasil. Resultados: maximizar el
+tiempo en la prctica deliberada, la  retroalimentacin  basada  en
+evidencia  y  la  seguridad psicolgica son los principios de esta
+estrategia. La  dinmica  implica  repeticiones  y  retroalimenta‐
+ciones.  La  gua  de  aplicacin presenta la secuencia de acciones
+para vestirse y vestirse. Consideraciones finales: enfrentar esta
+pandemia requiere el uso apropiado de Equipo de Proteccin Person‐
+al.  Los autores sugieren la prctica deliberada en ciclos  rpidos
+como  una  herramienta  educativa tecnolgica para vestirse/desve‐
+stirse, ya que fomenta un desempeo magistral.  Descriptores:  En‐
+trenamiento  Simulado; Equipo de Proteccin Personal; Coronavirus;
+Pandemia; Contencin de Riesgos  Biolgicos.   Personal  Protective
+Equipment  in the coronavirus pandemic: training with Rapid Cycle
+Deliberate Practice Oliveira HC, Souza LC, Leite TC,  Campos  JF.
+The  Coronavirus  Disease  epidemic (COVID‐19), caused by the new
+coronavirus (Sars‐CoV‐2), originated  in  2019  in  the  city  of
+Wuhan,  China. In early 2020 it became a pandemic as it hit 24 to
+nearly two million people infected and nearly 130 thousand deaths
+caused  by  the virus. The countries most affected by coronavirus
+disease are the United States, with more than 600  thousand  con‐
+firmed  cases;  Italy,  Spain, Germany and France, with more than
+100 thousand confirmed cases each; United Kingdom, with more than
+98  thousand  cases;  and  China, with more than 80 thousand con‐
+firmed cases. Among those mentioned, all have a rate of  contami‐
+nation  of  health  professionals(1).  Italy,  for  instance, had
+14,032 cases of contamination  of  these  professionals,  with  a
+lethality  rate  of  11.8%  of those aged between 70 and 79 years
+old, and 1.3% among those aged 60‐69 years old(2).  Since it is a
+respiratory  transmission  virus,  personal  protective equipment
+(PPE) use is essential to contemplate the  standard  precautions,
+contact  and  droplet  measures  recommended to face this pandem‐
+ic(3). Therefore, an investment in knowledge, training and quali‐
+fication  of health professionals on proper use of this equipment
+in care management of infected  patients  becomes  indispensable.
+Proper attire and unattire are an effective way to avoid contami‐
+nation among health professionals(4).  A strategy to achieve  the
+proper use of this equipment, as well as the protection of health
+professionals, is the implementation and compliance  with  strict
+PPE  protocols. In 2014, during the Ebola outbreak, contamination
+of two health professionals was associated with probable non‐com‐
+pliance  with  these  protocols. A study found that approximately
+half of the  sample  of  health  professionals  touched,  without
+gloves,  a potentially contaminated PPE surface and about 26% in‐
+appropriately touched the front of the mask(5), which  shows  the
+inappropriate  disposal  of PPE.  Research shows that all profes‐
+sionals without updating and who do not practice  repeatedly  end
+in  stagnant skills or deviations in techniques, over time(6). In
+addition, prolonged periods of non‐use of skills, known as reten‐
+tion  intervals,  lead to a decline in performance(6). That said,
+it is significant that health services provide training  for  all
+professionals  who  will have or may have contact with people in‐
+fected with the new However, conventional training  using  demon‐
+strations  does not guarantee that the professional will be prop‐
+erly and unparalleled. A study on training and education, in  the
+context  of  highly  infectious  diseases, in emergency services,
+showed that professionals felt the need for quality training  and
+lack  of  sufficient  confidence to respond to these diseases(7).
+Therefore, it is necessary to conduct training that allows  prac‐
+tical  implementation of appropriate technique among all partici‐
+pants, in favor of minimizing technical errors, a fact  that  im‐
+plies  a reduction in the risk of contamination of health profes‐
+sionals.  Rapid Cycle Deliberate Practice (RCDP) is a  simulation
+strategy  aimed  at improving participants performance to achieve
+mastery in a skill. It is organized to  promote  task  repetition
+and provide immediate evidence‐based feedback through an instruc‐
+tor.  Created in a setting of pediatric cardiorespiratory arrest,
+RCDP  showed  improvement  in  the  cardiopulmonary resuscitation
+skills of health professionals(8).  By  assuming  that  the  RCDP
+should  be  applied  as a technological tool in other populations
+and in different contexts of skills, the present  study  suggests
+RCDP use in capacity building and training of attire and unattire
+of PPE.  Thus, health professionals  will  perform  with  mastery
+when  facing  COVID‐19. RCDP is an educational technology with an
+immediate impact on the improvement and technical improvement  of
+health  professionals, meeting the current demand for information
+in the health setting.  To discuss the application of Rapid Cycle
+Deliberate  Practice  for  training in attire and unattire and to
+structure a practical guide to the application of RCDP in  attire
+and unattire of PPE in procedures that generate aerosolization in
+the context of COVID‐19.  This methodological  study  was  struc‐
+tured  in two parts: 1) Explanation of the theoretical and opera‐
+tional aspects for the applicability of the RCDP  in  attire  and
+removing  the  necessary  PPE  for  procedures  that may generate
+aerosols, in the context of coping with the COVID‐19 pandemic; 2)
+Construction  of  a  RCDP application guide at this juncture.  To
+construct the guide, relevant information was gathered for attire
+and  unattire  the  PPE necessary to face COVID‐19. The data were
+extracted from the main official materials released by the  agen‐
+cies  linked  to  the  Brazilian health area, such as Ministry of
+Health, Brazilian National Health Surveillance Agency (Agncia Na‐
+cional  de Vigilncia Sanitria, abbreviated Anvisa), Federal Nurs‐
+ing Council (Conselho Federal de Enfermagem, abbreviated  COFEN),
+and  Regional  Nursing  Council (Conselho Regional de Enfermagem,
+abbreviated COREN). From the data collected,  the  best  evidence
+and  recommendations in force were selected.  Respecting the RCDP
+principles, the guide was built in five cycles, with specific ob‐
+jectives.  The  first  two cycles refer to proper attire, and the
+next three refer to unattire. Each cycle contains three to eleven
+tasks  considered  to  be critical points, which are points whose
+errors would lead to  potential  contamination.  The  cycles  and
+stages  were  named as follows: Cycle 1 refers to the first stage
+of unattire, Cycle 2 to the second stage of attire,  Cycle  3  to
+Unattire  stage  I,  Cycle  4 to Unattire stage II and Cycle 5 to
+Unattire stage III.  THEORICAL ASPECTS OF RAPID CYCLE  DELIBERATE
+PRACTICE  Deliberate  Practice  is  a concept based on studies on
+skill acquisition. It was coined by Ericsson et al. in their  re‐
+search on expertise. It is defined as a series of specific activ‐
+ities that improve the performance of individuals by  being  sub‐
+jected  to  the  following factors: a) task with a defined objec‐
+tive; b) motivation to improve; c) feedbacks; and d) vast  oppor‐
+tunity  for  repetition and gradual refinement of performance(9).
+Rapid Cycle Deliberate Practice is a simulation strategy  created
+by  Hunt  et  al.  in  2014, Personal Protective Equipment in the
+coronavirus pandemic: training with Rapid Cycle Deliberate  Prac‐
+tice Oliveira HC, Souza LC, Leite TC, Campos JF.  which appropri‐
+ated the concept of Deliberate Practice and added an intense  and
+rapid  transition  between  feedbacks and task practice in an ex‐
+plored clinical case until the skill was mastered.  This alterna‐
+tion was dubbed the fast cycle(8).  For the proper application of
+the RCDP, one must be aware of its three  basic  principles.  The
+first  is called maximizing time in deliberate practice, in which
+it is recommended to give several opportunities  to  perform  the
+task  perfectly. The idea is to seek to achieve automatization in
+performance through repetition, i.e. to create muscle  memory  to
+do  the  right thing. For this to be possible, it is necessary to
+receive corrections from an instructor, in case there is an error
+in the performance. These corrections are with evidence(8).  RCDP
+feedbacks are classified as directed and immediate. They are pro‐
+vided after an error is detected. Thus, it is understood that the
+instructor will make interruptions to explain the most  appropri‐
+ate way to perform that task, according to the existing scientif‐
+ic evidence, or even from the consensus of  experts.  This  means
+that  coaches  need  to master the training topic, in addition to
+possessing ownership and confidence in  the  application  of  the
+RCDP.  After  feedback, participants are asked to go back 10 sec‐
+onds and perform the task again(8). In case of an  error,  a  new
+block  is  performed, creating a quick cycle between task, inter‐
+ruption and feedback. The dynamics  of  interruptions  can  Doing
+again Going back Cycle Deliberate Practice In order for these in‐
+terruptions to be accepted favorably and to prevent  participants
+from  behaving  defensively, it is necessary to ensure a partner‐
+ship agreement between coach and  participant.   Training  should
+not  be  started  without an understanding that interruptions are
+essential to achieving mastery performance. It is noteworthy that
+Hunt et al. call this style as coaching(8) . With this, the third
+principle is explicit psychological security.  RAPID CYCLE DELIB‐
+ERATE  PRACTICE OPERATING ASPECTS IN THE ATTIRE AND UNATTIRE Hav‐
+ing understood the three principles of the RCDP, the training dy‐
+namics  is discussed. A minimum of two and a maximum of five par‐
+ticipants are suggested. The first action of RCDP training is  to
+ensure  psychological  security.  At this point, the trainer must
 explain the dynamics of the simulation. He/she should stress that
-his/her role is to help participants improve their performance,
-in order to create muscle memory to perform the attire and
-unattire without errors and that this will bring benefits to avoid
-contamination by Sars-CoV-2. He/she must also inform about the
-possibility of several interruptions necessary to hear feedback,
-but which will be resumed immediately after the feedback, taking into account the explanations given. All of these instructions
-must be verbally welcoming and charismatic, in accordance with
-the RCDP’s own coaching style.
-When guaranteeing the third principle of the RCDP, the trainer
-demonstrates all the equipment, inputs and items existing in
-the simulation and chooses a participant to start the setting
-(or decide together). The trainer then narrates the clinical case
-and declares the start of training. The chosen one begins to
-carry out the activities. The other participants are positioned
-on the sides so that they can hear feedback. In case of a critical error, participants are interrupted. At this point, immediate
-and targeted feedback should take place. Targeted feedback
-means that the trainer must make the information explicit,
-always based on the best evidence available. This proved to be
-more efficient than encouraging participants to try to answer
-or look for the answer(8).
-This is an interesting aspect of RCDP, since in the scope of
-simulation, some techniques, such as debriefing, encourage selfperception and self-reflection, in which the facilitator exercises
-the function of guiding thinking so that participants and their
-group find their conclusions. RCDP goes against the grain, as
-it does not aim at reflective debates, but focuses on task repetition, aiming at the creation of muscular memory to act with
-mastery. Therefore, it is essential to provide explicit evidence for
-participants to receive it, understand its importance and return
-to practice as soon as possible.
-To exemplify the targeted feedback, one can imagine a situation in which participants forget to mold the nose support on
-the respiratory protection mask. In this case, the trainer must say
-“It is necessary to mold the nose on the mask so that the correct
-sealing occurs, according to Anvisa’s Technical Note 4 of 2020”. If
-participants keep the error, the trainer interrupts them by saying
-“Let’s stop, go back 10 seconds and try again”(8).
-Participants who started training continue to train and receive feedback until the end of the first cycle. Upon completing
-it perfectly, the initiator takes his/her position with another
-participant, taking the place of observer. This happens until
-everyone has completed the first cycle. This dynamic is repeated
-until the end of the training. It is worth mentioning that before
-starting any cycle, the participants of the turn must perform all
-the tasks of the first cycle and proceed with the second and so
-on. Participants must always start in the first cycle.
-Personal Protective Equipment in the coronavirus pandemic: training with Rapid Cycle Deliberate Practice
-Oliveira HC, Souza LC, Leite TC, Campos JF.
-RAPID CYCLE DELIBERATE PRACTICE APPLICATION GUIDE
-Chart 1 - Guide to Rapid Cycle Deliberate Practice in attire and unattire for
-professionals who work less than 1 meter from the suspected or confirmed
-patient with the new coronavirus infection and who perform procedures
-with risk of aerosol generation
-Disposing in infectious garbage;
-Hand hygiene with 70% alcohol for 20 to 30 seconds;
-Cycle 5 - Unattire Stage III
-Going outside the room or antechamber (without surgical gown and
-Cycle 1 - Attire stage I
-Hand hygiene with 70% alcohol for 20 to 30 seconds;
-Hand hygiene;
-Removing the cap by the inner region;
-Wearing surgical gown;
-Disposing in infectious garbage;
-Tying the surgical gown properly (so it doesn’t fall off );
-Hand hygiene with 70% alcohol for 20 to 30 seconds;
-Cycle 2 - Attire stage II
-Removing safety glasses or face shield (covering the front and side of
-the face, holding from the sides and supporting it on a surface*2);
-Assessing conditions* of the respiratory protection mask (particulate
-up to 0.3μ (N95, N99, N100, PFF2 or PFF3);
-Hand hygiene;
-(In the case of a new mask) Holding the outside in the shape of a cup
-and approaching the nose and mouth;
-Removing the mask by the side elastics without touching the inner
-surface (NEVER holding the front of the mask). Pulling in the upperanterior direction;
-(In case of already used mask) Putting on gloves before holding by the
-Packing the mask in a paper envelope*3 with the elastics out, to
-facilitate the removal of the mask;
-With the other hand, directing the elastics of the mask to the back of
-the head, one at a time;
-Hand hygiene;
-Shaping the nose support;
-Performing sealing test of the respiratory protection mask;
-(In case of already used mask) Removing the glove, discarding it and
-hand hygiene;
-Putting safety glasses or face shield, which covers the front and side
-of the face;
-Putting on cap;
-Going to the room or area where the patient is;
-Hand hygiene with 70% alcohol for 20-30 seconds;
-Cycle 3 - Unattire Stage I
-Not leaving the patient’s room;
-Removing gloves by pulling the first one from the outside of the wrist
-with the fingers of the opposite hand;
-Holding the removed glove with the other gloved hand;
-Touching the inside of the gloved hand’s wrist with the opposite index
-finger (without gloves) and removing the other glove;
-Disposing the glove in infectious waste;
-Hand hygiene with 70% alcohol for 20-30 seconds;
-Cycle 4 - Unattire Stage II
-Untying the bottom of the surgical gown;
-Untying the top of the surgical gown, keeping your hand in the
-Holding the surgical gown from the inside;
-Pulling it in the anterior-inferior direction (extending the forearms);
-With the right hand, holding the surgical gown close to the wrist of
-the left hand;
-Pulling the left hand;
-With the left hand, holding the surgical gown close to the wrist of the
-right hand;
-Pulling the right hand;
-At the end of separation, wearing gloves to clean the safety glasses or
-the face shield and the area where they were supported.
-Note: *1Inspect mask integrity (damp, dirty, torn, dented or creased masks cannot be used) and make
-sure that strips, nasal bridge and nasal foam material are not degraded(4); *2 Safety glasses should be
-used exclusively by each professional, should be cleaned with water and soap and then disinfected
-with 70% liquid alcohol, sodium hypochlorite or another disinfectant recommended by the manufacturer(4); *3Plastic or other materials can be used, as long as they are not hermetically sealed. Never
-place the used mask in a closed plastic bag, as it may become damp and potentially contaminated(4).
-FINAL CONSIDERATIONS
-in the attire and unattire of the personal protective equipment
-needed to cope with coronavirus disease (COVID-19). This theme
-is different from the original context of creating the RCDP strategy.
-It was carried out in a pediatric cardiopulmonary resuscitation
-encourage research to be carried out to test the applicability of
-RCDP in other situations and institutions. Due to the Sars-CoV-2
-pandemic and the growing need for quality training in attire and
-unattire, we suggest the RCDP strategy as a technological tool in
-the educational field. It must be applied to train health professionals in order to achieve mastery in the skill of attire, avoiding
-contamination by the virus.
-Due to the emergency situation of COVID-19, in addition to
-the discussion as to the applicability of the RCDP in vesting and
-creating the RCDP application guide. Adjustments can be made
-in this guide both to meet the reality of the institutions and to
-to the validation of the guide by specialists. It is suggested that
-clinical studies be conducted to generate concrete results on the
-applicability of RCDP in this perspective.
-Academic Excellence Program of Coordination of Superior
-Level Staff Improvement - Ministry of Education of Brazil.
-Holding the inside of the surgical gown and fold it;
-To be continued
-Personal Protective Equipment in the coronavirus pandemic: training with Rapid Cycle Deliberate Practice
-Oliveira HC, Souza LC, Leite TC, Campos JF.
-World Health Organization. Coronavirus disease 2019 (COVID-19) Situation report -87 [Internet]. 2020[cited 2020 May 02]. Available from:
-Task force COVID-19 del Dipartimento Malattie Infettive e Servizio di Informatica, Istituto Superiore di Sanità. Epidemia COVID-19,
-Holland M, Zaloga DJ, Friderici CS. COVID-19: Personal Protective Equipment (PPE) for the emergency physician. Vis J Emerg Med.
-Ministério da Saúde (BR). Anvisa. Nota Técnica nº 04/2020. Orientações para serviços de saúde: medidas de prevenção e
-controle que devem ser adotadas durante a assistência aos casos suspeitos ou confirmados de infecção pelo novo coronavírus
-Kantor J. Behavioral considerations and impact on personal protective equipment (PPE) use: Early lessons from the coronavirus (COVID-19)
-LE AB, Buehler SA, Maniscalco PM, Lane P, Rupp LE, Ernest E, et al. Determining training and education needs pertaining to highly
-infectious disease preparedness and response: a gap analysis survey of US emergency medical services practitioners. Am J Infect Control.
-Hunt EA, Duval-Arnould JM, Nelson-McMillan KL, Bradshaw JH, Diener-West M, Perretta JS, et al. Pediatric resident resuscitation skills
+his/her  role  is to help participants improve their performance,
+in order to create  muscle  memory  to  perform  the  attire  and
+unattire  without  errors  and  that  this will bring benefits to
+avoid contamination by Sars‐CoV‐2. He/she must also inform  about
+the  possibility of several interruptions necessary to hear feed‐
+back, but which will be resumed immediately after  the  feedback,
+taking into account the explanations given. All of these instruc‐
+tions must be verbally welcoming and charismatic,  in  accordance
+with  the  RCDPs own coaching style.  When guaranteeing the third
+principle of the RCDP, the trainer demonstrates  all  the  equip‐
+ment,  inputs  and items existing in the simulation and chooses a
+participant to start the setting (or decide together). The train‐
+er  then  narrates  the  clinical  case and declares the start of
+training. The chosen one begins to carry out the activities.  The
+other  participants  are positioned on the sides so that they can
+hear feedback. In case of a critical error, participants are  in‐
+terrupted.  At this point, immediate and targeted feedback should
+take place. Targeted feedback means that the  trainer  must  make
+the  information  explicit,  always  based  on  the best evidence
+available. This proved to be more efficient than encouraging par‐
+ticipants to try to answer or look for the answer(8).  This is an
+interesting aspect of RCDP, since in  the  scope  of  simulation,
+some techniques, such as debriefing, encourage selfperception and
+self‐reflection, in which the facilitator exercises the  function
+of  guiding  thinking  so  that participants and their group find
+their conclusions. RCDP goes against the grain, as  it  does  not
+aim at reflective debates, but focuses on task repetition, aiming
+at the creation of muscular memory to act  with  mastery.  There‐
+fore,  it  is essential to provide explicit evidence for partici‐
+pants to receive it, understand  its  importance  and  return  to
+practice  as  soon  as possible.  To exemplify the targeted feed‐
+back, one can imagine a situation in which participants forget to
+mold the nose support on the respiratory protection mask. In this
+case, the trainer must say It is necessary to mold  the  nose  on
+the mask so that the correct sealing occurs, according to Anvisas
+Technical Note 4 of 2020. If participants  keep  the  error,  the
+trainer  interrupts  them by saying Lets stop, go back 10 seconds
+and try again(8).  Participants who started training continue  to
+train and receive feedback until the end of the first cycle. Upon
+completing it perfectly, the  initiator  takes  his/her  position
+with another participant, taking the place of observer. This hap‐
+pens until everyone has completed the first cycle.  This  dynamic
+is repeated until the end of the training. It is worth mentioning
+that before starting any cycle, the participants of the turn must
+perform  all  the  tasks  of the first cycle and proceed with the
+second and so on. Participants must always start in the first cy‐
+cle.   Personal Protective Equipment in the coronavirus pandemic:
+training with Rapid Cycle Deliberate Practice Oliveira HC,  Souza
+LC,  Leite TC, Campos JF.  RAPID CYCLE DELIBERATE PRACTICE APPLI‐
+CATION GUIDE Chart 1 ‐ Guide to Rapid Cycle  Deliberate  Practice
+in attire and unattire for professionals who work less than 1 me‐
+ter from the suspected or confirmed patient with the  new  coron‐
+avirus  infection and who perform procedures with risk of aerosol
+generation Disposing in infectious garbage; Hand hygiene with 70%
+alcohol  for 20 to 30 seconds; Cycle 5 ‐ Unattire Stage III Going
+outside the room or antechamber (without surgical gown and  Cycle
+1  ‐  Attire  stage  I Hand hygiene with 70% alcohol for 20 to 30
+seconds; Hand hygiene; Removing the  cap  by  the  inner  region;
+Wearing surgical gown; Disposing in infectious garbage; Tying the
+surgical gown properly (so it doesnt fall  off  );  Hand  hygiene
+with  70% alcohol for 20 to 30 seconds; Cycle 2 ‐ Attire stage II
+Removing safety glasses or face shield (covering  the  front  and
+side  of  the face, holding from the sides and supporting it on a
+surface*2); Assessing conditions* of the  respiratory  protection
+mask  (particulate up to 0.3 (N95, N99, N100, PFF2 or PFF3); Hand
+hygiene; (In the case of a new mask) Holding the outside  in  the
+shape  of  a cup and approaching the nose and mouth; Removing the
+mask by the side elastics  without  touching  the  inner  surface
+(NEVER  holding the front of the mask). Pulling in the upperante‐
+rior direction; (In case of already used mask) Putting on  gloves
+before holding by the Packing the mask in a paper envelope*3 with
+the elastics out, to facilitate the removal of the mask; With the
+other hand, directing the elastics of the mask to the back of the
+head, one at a time; Hand hygiene; Shaping the nose support; Per‐
+forming sealing test of the respiratory protection mask; (In case
+of already used mask) Removing the glove, discarding it and  hand
+hygiene;  Putting safety glasses or face shield, which covers the
+front and side of the face; Putting on cap; Going to the room  or
+area  where  the  patient  is;  Hand hygiene with 70% alcohol for
+20‐30 seconds; Cycle 3 ‐ Unattire Stage I  Not  leaving  the  pa‐
+tients  room;  Removing  gloves by pulling the first one from the
+outside of the wrist with the fingers of the opposite hand; Hold‐
+ing  the  removed  glove with the other gloved hand; Touching the
+inside of the gloved hands wrist with the opposite  index  finger
+(without  gloves)  and  removing  the  other glove; Disposing the
+glove in infectious waste; Hand  hygiene  with  70%  alcohol  for
+20‐30  seconds; Cycle 4 ‐ Unattire Stage II Untying the bottom of
+the surgical gown; Untying the top of the surgical gown,  keeping
+your  hand  in  the  Holding  the  surgical gown from the inside;
+Pulling it in  the  anterior‐inferior  direction  (extending  the
+forearms);  With  the right hand, holding the surgical gown close
+to the wrist of the left hand; Pulling the left  hand;  With  the
+left  hand,  holding  the surgical gown close to the wrist of the
+right hand; Pulling the right hand; At  the  end  of  separation,
+wearing gloves to clean the safety glasses or the face shield and
+the area where they were supported.   Note:  *1Inspect  mask  in‐
+tegrity  (damp,  dirty,  torn,  dented or creased masks cannot be
+used) and make sure that strips, nasal bridge and nasal foam  ma‐
+terial  are not degraded(4); *2 Safety glasses should be used ex‐
+clusively by each professional, should be cleaned with water  and
+soap  and  then  disinfected  with  70%  liquid  alcohol,  sodium
+hypochlorite or another disinfectant recommended by the  manufac‐
+turer(4);  *3Plastic  or  other materials can be used, as long as
+they are not hermetically sealed. Never place the used mask in  a
+closed plastic bag, as it may become damp and potentially contam‐
+inated(4).  FINAL CONSIDERATIONS in the attire  and  unattire  of
+the personal protective equipment needed to cope with coronavirus
+disease (COVID‐19). This theme is  different  from  the  original
+context  of  creating the RCDP strategy.  It was carried out in a
+pediatric cardiopulmonary resuscitation encourage research to  be
+carried out to test the applicability of RCDP in other situations
+and institutions. Due to the Sars‐CoV‐2 pandemic and the  growing
+need  for quality training in attire and unattire, we suggest the
+RCDP strategy as a technological tool in the  educational  field.
+It  must  be  applied  to  train health professionals in order to
+achieve mastery in the skill of attire, avoiding contamination by
+the  virus.  Due to the emergency situation of COVID‐19, in addi‐
+tion to the discussion as to the applicability  of  the  RCDP  in
+vesting  and creating the RCDP application guide. Adjustments can
+be made in this guide both to meet the reality  of  the  institu‐
+tions and to to the validation of the guide by specialists. It is
+suggested that clinical studies be conducted to generate concrete
+results  on  the applicability of RCDP in this perspective.  Aca‐
+demic Excellence Program of Coordination of Superior Level  Staff
+Improvement  ‐  Ministry of Education of Brazil.  Holding the in‐
+side of the surgical gown and fold it; To be  continued  Personal
+Protective  Equipment  in the coronavirus pandemic: training with
+Rapid Cycle Deliberate Practice Oliveira HC, Souza LC, Leite  TC,
+Campos  JF.   World Health Organization. Coronavirus disease 2019
+(COVID‐19) Situation report ‐87 [Internet]. 2020[cited  2020  May
+02].  Available from: Task force COVID‐19 del Dipartimento Malat‐
+tie Infettive e Servizio di Informatica,  Istituto  Superiore  di
+Sanit.  Epidemia  COVID‐19,  Holland  M, Zaloga DJ, Friderici CS.
+COVID‐19: Personal Protective Equipment (PPE) for  the  emergency
+physician. Vis J Emerg Med.  Ministrio da Sade (BR). Anvisa. Nota
+Tcnica n 04/2020. Orientaes para servios de sade: medidas de pre‐
+veno  e  controle que devem ser adotadas durante a assistncia aos
+casos suspeitos ou confirmados de  infeco  pelo  novo  coronavrus
+Kantor  J.  Behavioral considerations and impact on personal pro‐
+tective equipment (PPE) use: Early lessons from  the  coronavirus
+(COVID‐19)  LE  AB,  Buehler  SA, Maniscalco PM, Lane P, Rupp LE,
+Ernest E, et al. Determining training and  education  needs  per‐
+taining to highly infectious disease preparedness and response: a
+gap analysis survey of US emergency medical services  practition‐
+ers.  Am  J  Infect  Control.  Hunt EA, Duval‐Arnould JM, Nelson‐
+McMillan KL, Bradshaw JH, Diener‐West M, Perretta JS, et al.  Pe‐
+diatric resident resuscitation skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

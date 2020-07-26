@@ -1,670 +1,726 @@
-Practical Considerations for Solid Organ
-Transplantation During the COVID-19 Global
-Outbreak: The Experience from Singapore
-Shimin Jasmine Chung, MBBS, BSc, MRCP (UK),1,2 Ek Khoon Tan, MBBS, MMed, MPH, FRCSEd,2,3
-Terence Kee, MBBS, MRCP (UK), FAMS, FRCP, FASN,2,4 Thinesh Lee Krishnamoorthy, MBChB, BSc, MRCP (UK),2,5
-Ghee Chee Phua, MBBS, MMed, MRCP(UK), FAMS, FCCP, EDIC,2,6 Duu Wen Sewa, MBBS, MRCP (UK),2,6
-Boon-Hean Ong, MBBS, MRCSEd, FRCSEd (CTh), FAMS,2,7 Teing Ee Tan, MBBS, FRCSEd,2,7
-Cumaraswamy Sivathasan, MBBS, FRCS (Eng/Edin), FAMS,2,7 Huei Li Valerie Gan, MBBS, MRCS, MMed, FAMS,2,8
-Brian Kim Poh Goh, MBBS, MMed, MSc, FRCSEd, FAMS,2,3
-Prema Raj Jeyaraj, MBBS, Mmed, FRCS (Glasg), FRCS (Ed), FAMS,2,3 and Ban Hock Tan, MBBS, FRCP (UK)1,2
-Abstract. The current coronavirus disease 2019 (COVID-19) pandemic has not only caused global social disruptions but
-has also put tremendous strain on healthcare systems worldwide. With all attention and significant effort diverted to containing and managing the COVID-19 outbreak (and understandably so), essential medical services such as transplant services
-are likely to be affected. Closure of transplant programs in an outbreak caused by a highly transmissible novel pathogen
-die before the program reopens. By adopting a tiered approach based on outbreak disease alert levels, and having hospital
-guidelines based on the best available evidence, life-saving transplants can still be safely performed. We performed a lung
-transplant and a liver transplant successfully during the COVID-19 era. We present our guidelines and experience on managing the transplant service as well as the selection and management of donors and recipients. We also discuss clinical
-dilemmas in the management COVID-19 in the posttransplant recipient.
-ecause of the emergence of a novel coronavirus (now
-called Severe Acute Respiratory Distress Syndrome
-[SARS]-CoV-2, causing the disease coronavirus disease 2019
-[COVID-19]) in Wuhan, China, in December 2019, there has
-been an exponential increase in the global number of confirmed cases. There are now >2 million cases in >200 countries.
-The ongoing COVID-19 outbreak has outstripped the 2003
-SARS in scale and worldwide extent, leading the World Health
-Organization to officially declare it a pandemic on March
-11, 2020.1 The evolution of COVID-19 and the containment
-efforts to combat it are reminiscent of SARS. The potential for
-healthcare systems to be crippled by this pandemic is real and
-looming. Essential medical services may be affected, as hospitals commandeer resources to care for COVID-19 patients
-and suspects.2 During SARS, cities experiencing community
-transmission, such as Singapore and Toronto, closed their
-transplant programs temporarily.3,4 Although SARS came
-under control after a few months, allowing transplantation to
-resume, the current COVID-19 outbreak may be long-drawn.
-Organ transplantation is an essential medical service and cannot be put on hold indefinitely or for a prolonged period of
-time without compromising patients on the waiting list. Thus,
-Department of Infectious Diseases, Singapore General Hospital, Singapore.
-SingHealth Duke-NUS Transplant Centre, Singapore.
-Department of Hepatopancreatobiliary and Transplant Surgery, Singapore
-General Hospital, Singapore.
-Department of Gasteroentrology and Hepatology, Singapore General Hospital,
-Department of Respiratory and Critical Care Medicine, Singapore General
-Hospital, Singapore.
-Department of Cardiothoracic Surgery, National Heart Centre, Singapore.
-Department of Renal Medicine Singapore General Hospital, Singapore.
-Department of Urology, Singapore General Hospital, Singapore.
-S.J.C., E.K.T., T.K., P.R.J., and B.H.T. participated in the writing of the paper.
-S.J.C., E.K.T., T.L.K., G.C.P., D.W.S., B.-H.O., T.E.T., C.S., T.K., H.L.V.G.,
-B.K.P.G., P.R.J., and B.H.T. drafted the institutional guidelines.
-Correspondence: Shimin Jasmine Chung, MBBS, BSc, MRCP (UK), Department
-of Infectious Diseases, SGH, The Academia Level 3, 20 College Rd, Singapore
-Transplantation DIRECT
-(CCBY-NC-ND), where it is permissible to download and share the work provided
-Transplantation DIRECT
-this outbreak, we the transplant community have to evaluate
-how best to continue providing transplant care during these
-trying times.
-Here, in Singapore, evidence of local transmission occurred
-shortly after the first imported cases were diagnosed.5 Having
-survived the tragedy of SARS, our hospital had swung into
-crisis mode early, freeing the negative-pressure isolation ward
-of its usual patients (eg, those with tuberculosis, carbapenemresistant Enterobacteriaceae) and reducing the number of
-elective surgeries to create bed capacity. Strict infection prevention protocols were implemented, and compliance audits
-were started. The heightened level of operations and the desire
-to maintain transplant as an essential service prompted us to
-develop internal guidelines on the selection and management
-of donors and recipients for transplantation in the setting of
-COVID-19. Shortly thereafter, a brain-dead donor was identified. We implemented these guidelines and proceeded to perform a deceased-donor lung and a liver transplant. The aim of
-to continue provision of organ transplantation services during
-this pandemic. Specifically, we want to highlight the need for a
-tiered approach as the pandemic evolves.
-EVOLVING EPIDEMIOLOGY OF COVID-19 AND ITS
-IMPACT ON DECISION FOR TRANSPLANT
-The first reported cluster of SARS-CoV-2 infected individuals in December 2019 was reportedly linked to a large
-seafood and live animal market in Wuhan, Hubei Province,
-China, suggesting a zoonotic origin for this novel pathogen. Despite early closure of the market with attempts
-made to isolate suspects and closely monitor contacts, by
-mid-January 2020, COVID-19 had spread widely across
-China and exported cases were reported mainly in the Asia
-Pacific region, suggesting that human-to-human transmission (through droplets or direct contact) had become
-more common.6-9 International travel further facilitated
-the global spread of COVID-19. As we now know, SARSCoV-2 is highly transmissible with a reported reproduction
-number (R0) between 1.4 and 5.5.10 Asymptomatic and
-presymptomatic transmission before isolation, quarantine, social distancing, and community containment efforts
-likely contributed to the surge of cases globally.6,8,11-13
-Based on current understanding of influenza pandemics,14
-we had anticipated that the COVID-19 outbreak would reach
-Singapore (and other parts of the world). Once human-tohuman transmission was established, infections would be
-imported from affected areas resulting in the emergence of
-local clusters, and subsequently widespread community transmission with unlinked cases, particularly among densely populated cities like Singapore.5,6,13
-As the situation was rapidly evolving, we envisioned a stratified decision-making process to allow our transplant service
-to respond to different phases of the pandemic. We developed
-exercised, restricting transplantation to those who require it
-urgently and cannot wait. Living donor transplantation activity, compared to deceased organ donation, will be reduced due
-to the need to protect the interests of the living donor.
-In general, urgent transplants refer to patients with the following conditions: (1) liver failure with a high 28-d mortality;
-(2) heart failure patients who are on extracorporeal circulatory support, or mechanical circulatory support (MCS) with
-evidence of device-related complications or those who require
-continuous high-dose inotropic support; or (3) patients with
-end-stage lung disease who cannot sustain long on the waitlist. The urgency to perform liver transplantation for patients
-with hepatocellular carcinomas depends on their transplant
-oncologic profile and whether bridging therapy is an option.
-MCS and (2) those with end-stage renal failure awaiting kidney transplantation but have no urgent issues with dialysis
-access.15 Apart from urgency of transplant, an individualized
-risk assessment of the recipient based on the complexity of the
-transplant procedure, extent of medical comorbidities, and
-immunologic risk is also required. A medically and surgically
-complex candidate may require extraordinary resources such
-as an extended intensive care unit (ICU) stay, large amounts
-of blood products, or subspecialty support; these may not be
-promptly available when hospital resources and manpower
-are diverted away. The infective nature of SARS-CoV-2 and
-the implications on immunosuppression also imply that performing transplants with a higher immunological risk of
-rejection such as ABO-incompatible transplant or transplants
-for highly sensitized recipients may come at an increased risk.
-With that in mind, we developed a decision-making grid to
-that organ, against the principle of ideal patient selection for
-a procedure, by recognizing the fact that a successful patient
-outcome is intimately dependent on the resources that are
-COVID-19 SITUATION IN SINGAPORE AND POLICY
-STATEMENTS FROM THE MINISTRY OF HEALTH
-Singapore’s first patient with COVID-19 was an imported
-case that was diagnosed at our hospital. Local transmission
-occurred within 2 wk and several local chains of transmission
-were later identified.5 Through media reports, this sequence of
-events has been played out many times in different countries.
-In certain countries, even the earliest cases have not had travel
-links.2,6 The ability to identify the local chains of transmission is attributed to the Singapore government establishing a
-Ministerial taskforce that, under the auspices of the Infectious
-Diseases Act, performed extensive contact tracing of infected
-and exposed individuals.
-On February 19, 2020, the local Ministry of Health (MOH)
-issued a statement allowing living donor transplants to proceed, while temporarily banning all nonurgent deceased donor
-transplants.15 As the epidemiologic curve of incident COVID19 cases in Singapore flattened toward the end of February
-2020, MOH allowed nonurgent deceased donor transplants
-as well, provided the earlier criteria were met (communication with MOH, Singapore on March 3, 2020). By then, our
-workgroup had developed guidelines on how we would proceed with transplantation safely. The thought processes and
-measures adopted are described in the subsequent sections.
-Chung et al
-Impact of disease outbreak alerts on transplantation programs
-DORSCON alert45
-Extent of COVID-19
-Transmission predominantly within
-Hubei Province, China
-Rare cases exported outside of China
-Increased transmission to multiple
-provinces and municipalities in China
-Increasing number of exported cases
-outside of China
-Imported case to Singapore; no local
-transmission. No case fatality
-Widespread transmission within China
-Significant number of exported cases
-outside of China, in a few WHO
-regions. Reports of community
-transmission outside of China
-Local transmission WITHIN Singapore.
-Severe cases of COVID-19 reported
-Red (very high)
-Widespread global transmission
-Ongoing community transmission in
-Risk of increased number of severe
-Deceased donor
-transplant program
-Living donor
-transplant program
-Nil restrictions
-Nil restrictions
-Organ donors with positive travel history to affected To defer transplant for 14–28 d if organ donors
-region may be rejected upon advice from TxID
-had positive contact history or travel history to
-affected areas
-Although restrictions not imposed, to proceed with Nil restrictions. Thorough screening of donor
-transplant with caution
-and recipients through clinical history taking
-Active screeningc and exclusion of donors and
-recipients at risk of COVID-19 (based on history Active screeningc of donors and recipients who are
-at risk of COVID-19 (based on history taking).
-To defer transplant for 14–28 d if screen
-Some restrictions placed on transplant program.
-Restrictions may be imposed, to proceed with
-To proceed with extra caution.d
-extra caution.d
-donor program transplant load expected to
-Medically nonurgent transplants may be put on hold
-dip. Exceptions may be considered for urgent
-Precautions under DORSCON yellow apply. In addiliver transplants
-tion, diagnostic testing to exclude COVID-19 is
-mandated for both donor and recipient
-Transplant surgeries are likely affected due to
-diversion of resources to combat COVID-19
-Suspension of nonurgent transplant likely
-Medically urgent transplants to be considered on
-a case by case basis in consult with TxID. This
-is also dependent on available resources and
-restrictions imposed based on situation
-Precautions under DORSCON orange apply
-Precautions under DORSCON yellow apply. In addition, diagnostic testing to exclude COVID-19 is
-for both donor and recipient
-Transplant surgeries are likely affected due to
-diversion of resources to combat COVID-19
-Suspension of nonurgent transplant likely
-Medically urgent transplants to be considered on
-a case by case basis in consult with TxID. This
-is also dependent on available resources and
-restrictions imposed based on situation
-Precautions under DORSCON organ apply
-DORSCON alert was raised to yellow on January 21, 2020.
-DORSCON alert was raised to orange on February 7, 2020.
-Donors would have to be screened for respiratory symptoms and travel history to affected areas or CONTACT with COVID-19 cases or suspects through history taking.
-Decision to proceed with transplant is based on medical indication, and availability of manpower and resources. Medically urgent cases are given priority. Enhanced infection control precautions are
-put in place; restrictions are placed on the number of visitors, and healthcare workers attending to the transplant recipient.
-COVID-19, coronavirus disease 19; DORSCON, Disease Outbreak Response System Condition; TxID, Transplant Infectious Diseases; WHO, World Health Organization.
-MOH issued another advisory on April 6, 2020 permitting
-deceased donor organ transplants, and urgent living donor
-liver transplant, with the proviso that infection control measures pertaining to the transplant procedure were intact, and
-that there were available resources (eg, manpower, operating
-theater facilities, surgical and intensive care beds, blood stock,
-and adequacy of personal protective equipment [PPE]).16 At
-the time of writing, Singapore is experiencing the second
-wave of COVID-19 infections, which occurred first from residents returning from other countries, followed by an emergence of new local clusters and cases of unlinked community
-PRINCIPAL CONSIDERATIONS FOR NEW ORGAN
-TRANSPLANTATION DURING COVID-19
-First and foremost, SARS-CoV-2 and the disease COVID19 are still being defined. What we do not know is the (1)
-risk of transmission from a positive donor to a recipient,
-(2) impact of a recipient becoming infected with COVID-19
-and how that influences transplant outcomes, and (3) effective treatment (if any) for COVID-19. With that in mind, the
-underlying principle (to allow safe transplants to continue)
-would be based on any available evidence and adopting best
-practices to exclude COVID-19 in the donor and the recipient,
-while maintaining a smooth operational workflow that also
-protects healthcare workers (HCWs).
-MEASURES TO EXCLUDE COVID-19 IN DONORS
-AND RECIPIENTS
-Our COVID-19–specific guidelines for donor and recipient
-time-sensitive nature of donation after brain death. The 14-d
-lead-up period for living donor transplantation is based on
-estimates that the median incubation period is approximately
-5.1 d and that <1% will develop symptoms after 14 d of active
-duration. The need for extensive testing has to be balanced
-against the need to expedite the evaluation process to free
-up ICU resources and allow a timely donation process that
-case would automatically be excluded from donation. Donors
-with any potential risk of exposure to known COVID-19
-Transplantation DIRECT
-surgical complexity, (b) extent of medical comorbidities, and (c) immunological risk. bIn general, medically urgent transplants are performed for
-patients with (a) liver failure with a high 28-d mortality, (b) heart failure patients who are on MCS with evidence of device-related complications or
-those who require continuous high-dose inotropic support, or (c) patients with end-stage lung disease who cannot sustain long on the waitlist.
-patients who are well supported on MCS, and dialysis patients with no access issues. cDecision to proceed with transplantation is contingent on
-the availability of manpower, operating theater facilities, medical equipment, surgical and intensive care beds, blood products, and adequacy of
-PPE. MCS, mechanical circulatory support; PPE, personal protective equipment.
-transmission routes (or fulfilling the case definition for a suspect case), such as recent travel history outside of Singapore,
-or possible relationship to any of locally identified COVID-19
-clusters, are excluded. Donors would also undergo objective
-testing with SARS-CoV-2 polymerase chain reaction (PCR)
-from a respiratory specimen. Sequential testing also improves
-the sensitivity of the test, improving the confidence of ruling
-out COVID-19. For deceased donors, an additional computed
-tomography (CT) chest was performed even if SARS-CoV-2
-that CT imaging findings of viral pneumonia from COVID-19
-predated PCR tests from respiratory samples, allowing for an
-earlier diagnosis.18-20
-The criteria for potential transplant recipients are described
-with COVID-19. For patients requiring an urgent transplant,
-respiratory and febrile illnesses should be extensively evaluated to exclude COVID-19. For medically nonurgent transplants, a thorough history is taken from the recipients for the
-presence of respiratory symptoms or fever, as well as contact and travel history. Last, a COVID-19 test is performed
-as a final step to exclude asymptomatic COVID-19 infection
-before proceeding to surgery. For potential living donor transplant donors and recipients, we recommended an interim
-COVID-19 test at day 7 to proactively identify asymptomatic
-infection in the candidate that would allow the termination of
-the 14-d lead-up process to transplant.
-TRANSPLANT CENTER POLICIES
-Informed Consent for Transplant During COVID-19
-Global Outbreak
-An extra effort was made to counsel the recipients on
-the risks of proceeding with transplant given the evolving
-COVID-19 situation. We described existing steps and precautions adopted by the institution to exclude SARS-CoV-2 in
-both donor and recipient. We emphasized that COVID-19
-may not be fully excluded despite these measures and that the
-natural history and management of COVID-19 infection in
-transplant recipients were not known. Ultimately, these have
-to be weighed against choosing to stay on the transplant waitlist and the risk of drop-out.
-Infection Prevention Precautions
-Hospital-wide infection prevention precautions were introduced in mid-January 2020. HCWs were also subject to
-mandatory twice-daily reporting of body temperature and
-a moratorium on future travel to affected countries. HCWs
-returning from affected areas were placed on a 14-d stayhome notice. HCWs who were unwell were directed to the
-staff clinic for prompt evaluation. All HCWs had to (at a
-minimum) wear a surgical mask in all clinical settings. HCWs
-in the isolation ward managing patients with or suspected
-of having COVID-19 wore full PPE, including N95 masks,
-face shield, long-sleeved gown, and gloves. Strict guidelines
-were laid down for surgeons and anesthetists in the operating
-room with regard to the use of appropriate PPE during procedures. Relevant to transplant, full PPE was used for aerosolgenerating procedures such as intubation and extubation or
-surgery to the respiratory system. The N95 mask was worn
-if the Cavitron Ultrasonic Surgical Aspirator was used. The
-radiology unit screened all requests for investigations, creating a special workflow with segregated areas for patients with
-worrying clinical and epidemiological features.21
-The SingHealth Duke-NUS Transplant program implemented its own business contingency plans. Those currently
-on or consulting for the inpatient transplant service were not
-allowed to attend to COVID-19 cases or suspects. A roster
-for an active and backup team(s) was drawn up where possible. For example, transplant coordinators were divided
-into 2 teams. This allowed the continuation of services if any
-team member became exposed to, or infected with COVID19, necessitating the need to quarantine the HCWs and team
-members. As the donor team might need to travel to another
-hospital for organ procurement, donor and recipient teams
-were formed without overlap to further reduce the risk of
-Chung et al
-Donor and recipient selection criteria, and additional precautionary measures for transplant
-Donor selection criteria
-and instructions
-Living donor transplant program
-Deceased donor transplant program
-In addition to fulfilling criteria for routine pretransplant workup, ALL of the
-following apply
-- Absence of respiratory symptoms for at least 14 d before planned transplant
-Exclusion criteria
-- No travel history outside of Singapore for at least 14 d before planned
-- Respiratory specimen (eg, nasopharyngeal or oropharyngeal specimen) test
-negative for SARS-Co-V2 PCR (×2)a before proceeding with transplant
-- Donors should not be COVID-19 suspects
-The following precautions/advice are recommended:
-- Minimize hosting contacts with travel outside of locale (eg, overseas family/
-- Avoid congregational/large group meetings (where possible) before planned
-- When participating in group activities, to wear a mask
-- Practice social distancing
-- Inform transplant coordinators if respiratory symptoms or febrile illness
-Recipient selection criteria In addition to fulfilling criteria for routine pretransplant workup, ALL of the
-and instructions
-following apply
-- Absence of respiratory symptoms for at least 14 d before planned transplant
-- No travel history outside of Singapore for at least 14 d before planned
-- Respiratory specimen (eg, nasopharyngeal or oropharyngeal specimen) test
-negative for SARS-CoV-2 PCR (×2)a before proceeding with transplant
-- Should not be COVID-19 suspects
-The following precautions/advice are recommended
-- Minimize hosting contacts with travel outside of locale (eg, overseas family/
-- Avoid congregational/large group meetings (where possible) before planned
-- When participating in group activities, to wear a mask
-Posttransplant inpatient
-care for donor
-Posttransplant inpatient
-care for recipient
-Instructions to appointed
-full time caregiver(s)
-- Those with ANY travel history outside of Singapore in the
-last 28 d;
-- COVID-19 suspects/cases at the time of evaluation
-In addition to fulfilling criteria for routine pretransplant
-workup, ALL of the following apply
-(a) SARS-CoV-2 PCR (×3 specimens)b test negative
-(b) CT Chest with no evidence for viral pneumoniac
-Patients with negative SARS-CoV-2 PCR, and CT chest
-findings not suggestive of viral pneumonia may be
-considered as potential organ donors on a case by case
-basis in consult with TxID
-In addition to fulfilling criteria for routine pretransplant
-For patients requiring a medically urgent transplant, ALL of
-the following apply
-- Should not be COVID-19 suspects
-- Should be worked up for any respiratory symptoms/
-fever, and COVID-19 ruled out before proceeding with
-- In the absences of respiratory symptoms, respiratory
-specimen (eg, nasopharyngeal or oropharyngeal specimen) must still test negative for SARS-CoV-2 PCR (×1)
-before transplant
-For medically nonurgent transplant, ALL of the following
-- Absence of respiratory symptoms for at least 14 d before
-planned transplant
-- No travel history outside of Singapore for at least 14 d
-before planned transplant
-- Respiratory specimen (eg, nasopharyngeal or oropharyngeal specimen) test negative for SARS-CoV-2 PCR (×1)
-just before proceeding with transplant
-- Should not be COVID-19 suspects
-- Practice social distancing
-- Inform transplant coordinators if respiratory symptoms or febrile illness
-Routine postsurgical care
-Standard precautionsd
-Recipient to be nursed strictly in a single room with droplet and standard precautions. Additional contact precautions for those who are
-colonized with multidrug resistant organisms
-If febrile illness develops, to work up as appropriatee
-Have a dedicated full time caregiver
-During the pretransplant period, the potential carer should, in the pretransplant period, adopt lifestyle restrictions that apply to the recipient.
-It is advisable that during the observation period for the recipient (as described above), the appointed full-time caregiver(s) remain free
-of respiratory symptoms. If they are unwell at any time before or after the transplant, they should inform the transplant coordinator, seek
-medical help/advice, practice social distancing and appoint an alternative caregiver for the potential recipient while they recuperate
-Transplantation DIRECT
-Donor and recipient selection criteria, and additional precautionary measures for transplant
-Living donor transplant program
-Instructions to household
-Deceased donor transplant program
-Advice to caregivers:
-- Minimize hosting contacts with travel outside of locale (eg, overseas family/friends)
-- Avoid congregational/large group meetings (where possible) before planned transplant
-- When participating in group activities, to wear a mask
-- Practice social distancing
-- Inform transplant coordinators if respiratory symptoms or febrile illness develops
-- Observe good personal hygiene
-- Be up to date with their yearly influenza vaccination
-Advice to household members
-- Observe good personal hygiene
-- Be up to date with yearly influenza vaccination
-- For household members who are not the recipient’s full-time caregivers: to wear a mask when they participate in group activities before
-and posttransplant
-The first specimen should only be obtained after the first 7 d of the 14-d observation period for respiratory symptoms; the final specimen should be collected after a 14-d symptom-free period.
-Specimens collected for SARS-Co-V2 must be collected at least 12 h apart and the final SARS-CoV-2 PCR must be performed within 24–48 h of organ procurement.
-Patients with viral pneumonia other than COVID 19 (eg, rhinovirus, RSV, etc.) will be considered for suitability of organ donation on a case-by-case basis.
-During the COVID-19 pandemic, COVID-19 has to be considered as a cause for unspecified febrile illness/respiratory tract infection. SARS-CoV-2 PCR and CT Chest to be considered as part of workup
-if appropriate.
-COVID-19, coronavirus disease 19; CT, computed tomography; CXR, chest radiograph; PCR, polymerase chain reaction; SARS, Severe Acute Respiratory Distress Syndrome; TxID, transplant infectious
-reconstruction was performed by the donor team in a separate
-operating room, before delivery of the organ to the recipient
-team. These measures taken by the hospital and transplant
-provision of transplant care.
-Postoperative Care
-Recipients would be nursed strictly in a single room, with
-droplet and standard precautions. They would be monitored
-closely for the development of infective symptoms and tested
-for COVID-19 promptly, if indicated. In the unfortunate event
-that the recipient becomes positive for COVID-19, they will
-be managed in accordance to the hospital policy. All efforts
-will be made to establish if this was a donor-derived infection
-(DDI), hospital-acquired, or community-acquired. Hospital
-and MOH-sanctioned epidemiology teams would be engaged
-to perform the necessary contact tracing.
-Additional Considerations
-A key consideration before proceeding with transplant surgery is the availability of operating theater and ICU beds, as
-these resources may be diverted to the care of patients with
-and blood bank stores may compromise the success of transplant surgery in a coagulopathic patient. These factors may
-influence recipient selection and the decision to proceed with
-CASE DESCRIPTION
-In March 2020, when the Disease Outbreak Response
-System Condition (DORSCON) alert in Singapore was orange
-at another hospital. The cause of death was a cerebrovascular
-accident. Collateral history from the next-of-kin established
-that the potential donor did not have respiratory symptoms
-before admission. The donor fulfilled MOHs requirements for
-deceased donor evaluation, and fulfilled our criteria described
-were called in to the hospital and evaluated. They too met our
-inclusion criteria and provided informed consent to proceed.
-The recipient of both lungs was a middle-aged patient
-with postinfective bronchiectasis with pulmonary hypertension on long-term oxygen therapy but had no other comorbidities or prior chest surgery. Venous-arterial Extracorporeal
-Membrane Oxygenation was used for circulatory support and
-to maintain adequate gas exchange in a patient whose surgery
-was technically challenging; intraoperative blood transfusion
-requirements were also reduced with the use of a cell saver
-device. The liver recipient was a middle-aged patient with
-hepatocellular carcinoma and a low physiologic model for
-end-stage liver disease score. The patient was assessed to be a
-low surgical risk candidate and was expected to require minimal blood transfusions during surgery. Our usual immunosuppression protocol for lung and liver transplantation does
-not involve T-cell depleting induction therapy. Both patients
-received standard doses of steroid and basiliximab for induction. After transplant, they were maintained on tacrolimus
-(target trough level between 10–15 and 8–10 μg/L for the lung
-and the liver recipients, respectively), mycophenolate mofetil
-and followed a standard steroid taper.
-Both recipients are negative for COVID-19 on postoperative day 15 and at the time of writing. The recipient of the lung transplant developed bilateral hemothorax,
-Stenotrophomonas maltophilia ventilator-associated pneumonia, and required prolonged ventilation due to diaphragmatic
-paralysis. The recipient of the liver has since been discharged
-to outpatient care.
-Closure of a transplant program during an outbreak of
-because little is known about the pathogen. Invoking the tenet
-Primum non nocere in this setting means we have to consider
-the potential for transplant to cause harm by (1) introducing a DDI and (2) placing them at increased risk should
-they subsequently become infected with COVID-19 while
-of coronaviruses to guide evaluation or testing.23,24 Because
-there is no known treatment for COVID-19, there is nothing
-that can be given empirically or prophylactically to prevent
-its transmission. Therefore, the only way to prevent COVID19 DDI is by excluding infection in the donor. This may be
-achieved through history taking and confirmatory testing.25
-A detailed history of the donor or from family members or
-witnesses (in the case of a deceased donor) may shed light on
-the donor’s exposure to the pathogen. The policy of containment and extensive contact-tracing in Singapore has allowed
-the chains of transmission to be identified. In addition, MOH
-provides a daily press release with details on newly diagnosed
-patients with COVID-19 and sites of potential clusters.5 This
-dynamic list of COVID-19 clusters is used at the Emergency
-Department when screening attendees and by organ procurement coordinators. Despite that, there exist several unlinked
-or yet-to-be linked cases. This implies that history taking
-alone is not foolproof in excluding COVID-19 and diagnostic
-tests are required to complete the evaluation.
-The PCR assay for SARS-CoV-2 is now available at many
-centers. While a negative result may be used to rule out
-COVID-19, we do not know many of the parameters, such
-as the negative predictive value of this new test. Even among
-pathogens such as HIV, Hepatitis B and C that have established tests with a high negative predictive value, window
-period transmissions have been recorded.26 Furthermore, a
-recent report of negative tests in a symptomatic patient that
-on repeat testing became positive is concerning, even though
-this may have been related to sampling or testing issues.27
-We also considered testing for SARS-CoV-2 RNAemia in
-potential donors. RNAemia was documented in 15% of 41
-patients in an early series from Wuhan.28 RNAemia was seen
-in both patients that had milder symptoms, and those that
-required intensive care. Whether RNAemia translates to infection in solid organs such as the liver is unknown. Moreover,
-the period of RNAemia in relation to onset of the symptom
-was not described in the report by Huang et al.28 The pervasiveness of SARS-CoV-2 in tissue and body fluids is also not
-fully defined. A unique feature of SARS-CoV-2 is its binding
-to angiotensin-converting enzyme 2 receptor and that it might
-demonstrate tropism to tissues with increased angiotensinconverting enzyme 2 expression, although this hypothesis
-has not been confirmed.29 We know from the report by Chen
-et al30 that among 9 pregnant women with COVID-19 who
-underwent delivery by cesarean section, there was no vertical
-transmission—SARS-CoV-2 was not identified in the amniotic
-fluid, cord blood, neonatal throat swab, and breast milk.
-Presently, the MOH guideline stipulates that a donor must
-have 3 sequential negative throat swab PCR tests for SARSCoV-2. These tests should ideally be taken at least 12 h apart,
-and within 24–48 h before organ donation. Our institution
-introduced the need for a CT chest as an added precaution
-after noting reports that CT chest findings predated a positive PCR result and could be used to identify patients with
-COVID-19.18-20 In this case, we were sufficiently confident that
-Chung et al
-the donor did not have COVID-19, given the clinical course
-in the ICU, the negative PCR tests and a negative CT chest.
-The COVID-19 outbreak is evolving and we are currently
-in the acceleration phase of this pandemic. While halting
-transplantation may appear logical and in the interest of
-patient safety, it is also not without its harms. During SARS,
-deferring cancer treatment and postponing diagnostic testing
-led to what has been called the “collateral damage” of SARS.4
-The same applies to withholding life-saving transplants for
-patients on the waiting list who may risk dropping out because
-of progression of disease or death. This must be balanced
-against the challenges posed by COVID-19, which is likely to
-stay for some time. For this very reason, we have proposed a
-tiered approach to the selection of cases for transplantation.
-Although we have addressed the issue of donor and recipient selection in the peritransplant period to prevent DDIs,
-we have to be cognizant that most COVID-19 infections in
-the posttransplant period are likely to be acquired from the
-community.6,13 Nosocomial transmissions may still be possible but at our hospital, stringent infection prevention policies
-(described above) are in place to mitigate this risk. To safely
-navigate transplantation during this outbreak, we also have to
-recognize the importance of (1) prevention of COVID-19 in
-of face masks, isolation, quarantine, social distancing, and
-community containment of infected cases) in the absence of
-effective pharmacoprophylaxis13,31 and (2) establishing and
-continually refining management and treatment strategies for
-infected transplant recipients based on available evidence.
-Presently, there is little guidance on the management of
-the recipient should he or she get infected with COVID-19.
-Historical reports of other coronaviruses (SARS and Middle
-East Respiratory Syndrome) suggest that they may be lethal in
-transplant recipients. The liver transplant recipient described
-by Kumar et al3 died from SARS. Of the 2 renal transplant
-patients of AlGhamdi et al32 who acquired Middle East
-of posttransplant COVID-19 infections in transplant recipients were community acquired.33-40 In addition, outcomes
-appear more severe. In a case series of 20 renal transplant
-recipients with COVID-19 by Alberici et al,40 85% of cases
-required supplementary oxygen therapy, 20% received ICU
-care, and the mortality rate was 25%, which is much higher
-than the case fatality rate of approximately 2.3% in the general population.8 To improve outcomes of severe COVID-19
+Practical  Considerations  for Solid Organ Transplantation During
+the COVID‐19  Global  Outbreak:  The  Experience  from  Singapore
+Shimin  Jasmine  Chung,  MBBS,  BSc,  MRCP (UK),1,2 Ek Khoon Tan,
+MBBS, MMed, MPH, FRCSEd,2,3 Terence Kee, MBBS, MRCP  (UK),  FAMS,
+FRCP,  FASN,2,4  Thinesh  Lee  Krishnamoorthy,  MBChB,  BSc, MRCP
+(UK),2,5 Ghee  Chee  Phua,  MBBS,  MMed,  MRCP(UK),  FAMS,  FCCP,
+EDIC,2,6  Duu  Wen Sewa, MBBS, MRCP (UK),2,6 Boon‐Hean Ong, MBBS,
+MRCSEd, FRCSEd (CTh), FAMS,2,7 Teing  Ee  Tan,  MBBS,  FRCSEd,2,7
+Cumaraswamy  Sivathasan,  MBBS, FRCS (Eng/Edin), FAMS,2,7 Huei Li
+Valerie Gan, MBBS, MRCS, MMed, FAMS,2,8 Brian Kim Poh Goh,  MBBS,
+MMed,  MSc,  FRCSEd, FAMS,2,3 Prema Raj Jeyaraj, MBBS, Mmed, FRCS
+(Glasg), FRCS (Ed), FAMS,2,3 and Ban Hock Tan, MBBS, FRCP (UK)1,2
+Abstract. The current coronavirus disease 2019 (COVID‐19) pandem‐
+ic has not only caused global social disruptions but has also put
+tremendous  strain  on healthcare systems worldwide. With all at‐
+tention and significant effort diverted to containing and  manag‐
+ing the COVID‐19 outbreak (and understandably so), essential med‐
+ical services such as transplant services are likely  to  be  af‐
+fected. Closure of transplant programs in an outbreak caused by a
+highly transmissible novel pathogen die before  the  program  re‐
+opens.  By  adopting  a tiered approach based on outbreak disease
+alert levels, and having hospital guidelines based  on  the  best
+available  evidence,  life‐saving transplants can still be safely
+performed. We performed a lung transplant and a liver  transplant
+successfully  during  the COVID‐19 era. We present our guidelines
+and experience on managing the transplant service as well as  the
+selection  and  management of donors and recipients. We also dis‐
+cuss clinical dilemmas in the management COVID‐19  in  the  post‐
+transplant  recipient.  ecause of the emergence of a novel coron‐
+avirus (now called Severe  Acute  Respiratory  Distress  Syndrome
+[SARS]‐CoV‐2,   causing  the  disease  coronavirus  disease  2019
+[COVID‐19]) in Wuhan, China, in December 2019, there has been  an
+exponential  increase  in  the  global number of confirmed cases.
+There are now >2 million cases in >200  countries.   The  ongoing
+COVID‐19  outbreak  has  outstripped  the  2003 SARS in scale and
+worldwide extent, leading the World Health Organization to  offi‐
+cially declare it a pandemic on March 11, 2020.1 The evolution of
+COVID‐19 and the containment efforts to combat it are reminiscent
+of  SARS.  The potential for healthcare systems to be crippled by
+this pandemic is real and looming. Essential medical services may
+be  affected,  as  hospitals  commandeer  resources  to  care for
+COVID‐19 patients and suspects.2 During SARS, cities experiencing
+community  transmission,  such  as  Singapore and Toronto, closed
+their transplant programs temporarily.3,4 Although SARS came  un‐
+der  control  after a few months, allowing transplantation to re‐
+sume, the current COVID‐19 outbreak  may  be  long‐drawn.   Organ
+transplantation is an essential medical service and cannot be put
+on hold indefinitely or for a prolonged period  of  time  without
+compromising  patients  on  the waiting list. Thus, Department of
+Infectious  Diseases,  Singapore  General  Hospital,   Singapore.
+SingHealth  Duke‐NUS Transplant Centre, Singapore.  Department of
+Hepatopancreatobiliary and Transplant Surgery, Singapore  General
+Hospital, Singapore.  Department of Gasteroentrology and Hepatol‐
+ogy, Singapore General Hospital, Department  of  Respiratory  and
+Critical  Care  Medicine,  Singapore General Hospital, Singapore.
+Department of Cardiothoracic Surgery, National Heart Centre, Sin‐
+gapore.  Department of Renal Medicine Singapore General Hospital,
+Singapore.  Department of Urology,  Singapore  General  Hospital,
+Singapore.  S.J.C., E.K.T., T.K., P.R.J., and B.H.T. participated
+in the writing of the paper.   S.J.C.,  E.K.T.,  T.L.K.,  G.C.P.,
+D.W.S.,  B.‐H.O., T.E.T., C.S., T.K., H.L.V.G., B.K.P.G., P.R.J.,
+and B.H.T. drafted the institutional guidelines.  Correspondence:
+Shimin  Jasmine Chung, MBBS, BSc, MRCP (UK), Department of Infec‐
+tious Diseases, SGH, The Academia Level 3, 20 College Rd,  Singa‐
+pore Transplantation DIRECT (CCBY‐NC‐ND), where it is permissible
+to download and share the work  provided  Transplantation  DIRECT
+this  outbreak,  we the transplant community have to evaluate how
+best to continue providing transplant care  during  these  trying
+times.   Here,  in  Singapore, evidence of local transmission oc‐
+curred shortly after the first imported  cases  were  diagnosed.5
+Having  survived the tragedy of SARS, our hospital had swung into
+crisis mode early, freeing the negative‐pressure  isolation  ward
+of its usual patients (eg, those with tuberculosis, carbapenemre‐
+sistant Enterobacteriaceae) and reducing the number  of  elective
+surgeries  to  create  bed  capacity. Strict infection prevention
+protocols were implemented, and compliance audits  were  started.
+The  heightened  level  of  operations and the desire to maintain
+transplant as an essential service prompted us to develop  inter‐
+nal  guidelines on the selection and management of donors and re‐
+cipients for transplantation in the setting of COVID‐19.  Shortly
+thereafter,  a  brain‐dead  donor  was identified. We implemented
+these guidelines and proceeded to perform a  deceased‐donor  lung
+and a liver transplant. The aim of to continue provision of organ
+transplantation services during this pandemic.  Specifically,  we
+want  to highlight the need for a tiered approach as the pandemic
+evolves.  EVOLVING EPIDEMIOLOGY OF COVID‐19 AND ITS IMPACT ON DE‐
+CISION  FOR  TRANSPLANT  The first reported cluster of SARS‐CoV‐2
+infected individuals in December 2019 was reportedly linked to  a
+large  seafood  and  live animal market in Wuhan, Hubei Province,
+China, suggesting a zoonotic origin for this novel pathogen.  De‐
+spite  early  closure of the market with attempts made to isolate
+suspects and  closely  monitor  contacts,  by  mid‐January  2020,
+COVID‐19  had  spread widely across China and exported cases were
+reported mainly in the Asia Pacific region, suggesting  that  hu‐
+man‐to‐human  transmission  (through  droplets or direct contact)
+had become more common.6‐9 International travel  further  facili‐
+tated the global spread of COVID‐19. As we now know, SARSCoV‐2 is
+highly transmissible with a reported reproduction number (R0) be‐
+tween 1.4 and 5.5.10 Asymptomatic and presymptomatic transmission
+before isolation, quarantine, social  distancing,  and  community
+containment  efforts  likely  contributed  to  the surge of cases
+globally.6,8,11‐13 Based on current  understanding  of  influenza
+pandemics,14  we had anticipated that the COVID‐19 outbreak would
+reach Singapore (and other parts of the world). Once  human‐tohu‐
+man  transmission  was  established, infections would be imported
+from affected areas resulting in the emergence of local clusters,
+and  subsequently widespread community transmission with unlinked
+cases, particularly among densely populated  cities  like  Singa‐
+pore.5,6,13  As the situation was rapidly evolving, we envisioned
+a stratified decision‐making process to allow our transplant ser‐
+vice to respond to different phases of the pandemic. We developed
+exercised, restricting transplantation to those  who  require  it
+urgently  and cannot wait. Living donor transplantation activity,
+compared to deceased organ donation, will be reduced due  to  the
+need  to  protect the interests of the living donor.  In general,
+urgent transplants refer to patients with  the  following  condi‐
+tions:  (1)  liver  failure with a high 28‐d mortality; (2) heart
+failure patients who are on extracorporeal  circulatory  support,
+or  mechanical circulatory support (MCS) with evidence of device‐
+related complications or those who require  continuous  high‐dose
+inotropic  support;  or  (3) patients with end‐stage lung disease
+who cannot sustain long on the waitlist. The urgency  to  perform
+liver transplantation for patients with hepatocellular carcinomas
+depends on their transplant oncologic profile and whether  bridg‐
+ing therapy is an option.  MCS and (2) those with end‐stage renal
+failure awaiting kidney transplantation but have no urgent issues
+with  dialysis access.15 Apart from urgency of transplant, an in‐
+dividualized risk assessment of the recipient based on  the  com‐
+plexity of the transplant procedure, extent of medical comorbidi‐
+ties, and immunologic risk is also required. A medically and sur‐
+gically  complex  candidate  may  require extraordinary resources
+such as an extended intensive care unit (ICU) stay, large amounts
+of  blood  products,  or  subspecialty  support; these may not be
+promptly available when hospital resources and manpower  are  di‐
+verted  away. The infective nature of SARS‐CoV‐2 and the implica‐
+tions on immunosuppression also imply that performing transplants
+with  a higher immunological risk of rejection such as ABO‐incom‐
+patible transplant or transplants for highly  sensitized  recipi‐
+ents may come at an increased risk.  With that in mind, we devel‐
+oped a decision‐making grid to that organ, against the  principle
+of  ideal  patient  selection for a procedure, by recognizing the
+fact that a successful patient outcome is intimately dependent on
+the resources that are COVID‐19 SITUATION IN SINGAPORE AND POLICY
+STATEMENTS FROM THE MINISTRY OF HEALTH Singapores  first  patient
+with COVID‐19 was an imported case that was diagnosed at our hos‐
+pital. Local transmission occurred within 2 wk and several  local
+chains  of transmission were later identified.5 Through media re‐
+ports, this sequence of events has been played out many times  in
+different  countries.   In  certain  countries, even the earliest
+cases have not had travel links.2,6 The ability to  identify  the
+local  chains of transmission is attributed to the Singapore gov‐
+ernment establishing a Ministerial taskforce that, under the aus‐
+pices of the Infectious Diseases Act, performed extensive contact
+tracing of infected and exposed  individuals.   On  February  19,
+2020,  the  local Ministry of Health (MOH) issued a statement al‐
+lowing living donor transplants  to  proceed,  while  temporarily
+banning  all  nonurgent deceased donor transplants.15 As the epi‐
+demiologic curve of incident COVID19 cases in Singapore flattened
+toward  the  end of February 2020, MOH allowed nonurgent deceased
+donor transplants as well, provided the earlier criteria were met
+(communication  with  MOH,  Singapore on March 3, 2020). By then,
+our workgroup had developed guidelines on how  we  would  proceed
+with  transplantation  safely. The thought processes and measures
+adopted are described in the subsequent sections.   Chung  et  al
+Impact  of  disease  outbreak  alerts on transplantation programs
+DORSCON alert45 Extent  of  COVID‐19  Transmission  predominantly
+within Hubei Province, China Rare cases exported outside of China
+Increased transmission to multiple provinces  and  municipalities
+in China Increasing number of exported cases outside of China Im‐
+ported case to Singapore; no local transmission. No case fatality
+Widespread  transmission  within  China Significant number of ex‐
+ported cases outside of China, in a few WHO regions.  Reports  of
+community transmission outside of China Local transmission WITHIN
+Singapore.  Severe cases of COVID‐19  reported  Red  (very  high)
+Widespread  global transmission Ongoing community transmission in
+Risk of increased number of severe Deceased donor transplant pro‐
+gram  Living  donor  transplant  program Nil restrictions Nil re‐
+strictions Organ donors with positive travel history to  affected
+To  defer transplant for 1428 d if organ donors region may be re‐
+jected upon advice from TxID  had  positive  contact  history  or
+travel  history  to  affected areas Although restrictions not im‐
+posed, to proceed with Nil restrictions.  Thorough  screening  of
+donor  transplant  with  caution  and recipients through clinical
+history taking Active screeningc and exclusion of donors and  re‐
+cipients  at risk of COVID‐19 (based on history Active screeningc
+of donors and recipients who are at risk of  COVID‐19  (based  on
+history  taking).   To defer transplant for 1428 d if screen Some
+restrictions placed on transplant program.  Restrictions  may  be
+imposed,  to  proceed  with To proceed with extra caution.d extra
+caution.d donor program transplant  load  expected  to  Medically
+nonurgent  transplants  may be put on hold dip. Exceptions may be
+considered for urgent Precautions under DORSCON yellow apply.  In
+addiliver   transplants   tion,  diagnostic  testing  to  exclude
+COVID‐19 is mandated for  both  donor  and  recipient  Transplant
+surgeries  are  likely  affected due to diversion of resources to
+combat COVID‐19 Suspension of nonurgent transplant  likely  Medi‐
+cally urgent transplants to be considered on a case by case basis
+in consult with TxID. This is also  dependent  on  available  re‐
+sources  and  restrictions imposed based on situation Precautions
+under DORSCON orange apply Precautions under DORSCON  yellow  ap‐
+ply.  In  addition, diagnostic testing to exclude COVID‐19 is for
+both donor and recipient Transplant surgeries are likely affected
+due  to  diversion  of resources to combat COVID‐19 Suspension of
+nonurgent transplant likely Medically urgent  transplants  to  be
+considered  on a case by case basis in consult with TxID. This is
+also dependent on available resources  and  restrictions  imposed
+based  on situation Precautions under DORSCON organ apply DORSCON
+alert was raised to yellow on January 21,  2020.   DORSCON  alert
+was  raised  to orange on February 7, 2020.  Donors would have to
+be screened for respiratory symptoms and travel  history  to  af‐
+fected  areas  or CONTACT with COVID‐19 cases or suspects through
+history taking.  Decision to proceed with transplant is based  on
+medical  indication,  and availability of manpower and resources.
+Medically urgent cases are  given  priority.  Enhanced  infection
+control  precautions are put in place; restrictions are placed on
+the number of visitors, and healthcare workers attending  to  the
+transplant recipient.  COVID‐19, coronavirus disease 19; DORSCON,
+Disease Outbreak Response System Condition; TxID, Transplant  In‐
+fectious  Diseases;  WHO,  World Health Organization.  MOH issued
+another advisory on April 6, 2020 permitting deceased donor organ
+transplants,  and  urgent living donor liver transplant, with the
+proviso that infection control measures pertaining to the  trans‐
+plant  procedure  were  intact, and that there were available re‐
+sources (eg, manpower, operating theater facilities, surgical and
+intensive  care  beds, blood stock, and adequacy of personal pro‐
+tective equipment [PPE]).16 At the time of writing, Singapore  is
+experiencing  the  second  wave of COVID‐19 infections, which oc‐
+curred first from residents returning from other countries,  fol‐
+lowed by an emergence of new local clusters and cases of unlinked
+community PRINCIPAL CONSIDERATIONS FOR NEW ORGAN  TRANSPLANTATION
+DURING  COVID‐19  First  and foremost, SARS‐CoV‐2 and the disease
+COVID19 are still being defined. What we do not know is  the  (1)
+risk  of  transmission  from a positive donor to a recipient, (2)
+impact of a recipient becoming infected  with  COVID‐19  and  how
+that  influences transplant outcomes, and (3) effective treatment
+(if any) for COVID‐19. With that in mind, the underlying  princi‐
+ple (to allow safe transplants to continue) would be based on any
+available  evidence  and  adopting  best  practices  to   exclude
+COVID‐19  in  the  donor  and  the recipient, while maintaining a
+smooth operational workflow that also protects healthcare workers
+(HCWs).   MEASURES  TO  EXCLUDE COVID‐19 IN DONORS AND RECIPIENTS
+Our COVID‐19specific guidelines for donor and recipient time‐sen‐
+sitive nature of donation after brain death. The 14‐d lead‐up pe‐
+riod for living donor transplantation is based on estimates  that
+the  median incubation period is approximately 5.1 d and that <1%
+will develop symptoms after 14 d of active duration. The need for
+extensive testing has to be balanced against the need to expedite
+the evaluation process to free up ICU resources and allow a time‐
+ly  donation  process  that  case would automatically be excluded
+from donation. Donors with any  potential  risk  of  exposure  to
+known  COVID‐19  Transplantation  DIRECT surgical complexity, (b)
+extent of medical comorbidities, and (c) immunological risk.  bIn
+general,  medically urgent transplants are performed for patients
+with (a) liver failure with a  high  28‐d  mortality,  (b)  heart
+failure  patients  who are on MCS with evidence of device‐related
+complications or those who require continuous high‐dose inotropic
+support,  or  (c) patients with end‐stage lung disease who cannot
+sustain long on the waitlist.  patients who are well supported on
+MCS,  and  dialysis  patients with no access issues. cDecision to
+proceed with transplantation is contingent on the availability of
+manpower, operating theater facilities, medical equipment, surgi‐
+cal and intensive care beds, blood products, and adequacy of PPE.
+MCS,  mechanical  circulatory  support;  PPE, personal protective
+equipment.  transmission routes (or fulfilling the  case  defini‐
+tion  for  a suspect case), such as recent travel history outside
+of Singapore, or possible relationship to any of locally  identi‐
+fied  COVID‐19  clusters, are excluded. Donors would also undergo
+objective testing with SARS‐CoV‐2 polymerase chain reaction (PCR)
+from a respiratory specimen. Sequential testing also improves the
+sensitivity of the test, improving the confidence of  ruling  out
+COVID‐19.  For deceased donors, an additional computed tomography
+(CT) chest was performed even if SARS‐CoV‐2 that CT imaging find‐
+ings  of  viral  pneumonia  from COVID‐19 predated PCR tests from
+respiratory samples, allowing for an earlier diagnosis.18‐20  The
+criteria  for  potential transplant recipients are described with
+COVID‐19. For patients requiring an urgent transplant, respirato‐
+ry  and  febrile illnesses should be extensively evaluated to ex‐
+clude COVID‐19. For medically nonurgent transplants,  a  thorough
+history is taken from the recipients for the presence of respira‐
+tory symptoms or fever, as well as contact  and  travel  history.
+Last,  a  COVID‐19  test  is performed as a final step to exclude
+asymptomatic COVID‐19 infection before proceeding to surgery. For
+potential  living donor transplant donors and recipients, we rec‐
+ommended an interim COVID‐19 test at day 7 to proactively identi‐
+fy  asymptomatic  infection in the candidate that would allow the
+termination of the 14‐d lead‐up process  to  transplant.   TRANS‐
+PLANT  CENTER  POLICIES  Informed  Consent  for Transplant During
+COVID‐19 Global Outbreak An extra effort was made to counsel  the
+recipients  on  the risks of proceeding with transplant given the
+evolving COVID‐19 situation. We described existing steps and pre‐
+cautions adopted by the institution to exclude SARS‐CoV‐2 in both
+donor and recipient. We emphasized that COVID‐19 may not be fully
+excluded  despite these measures and that the natural history and
+management of COVID‐19 infection in  transplant  recipients  were
+not  known. Ultimately, these have to be weighed against choosing
+to stay on the transplant waitlist and the risk of drop‐out.  In‐
+fection Prevention Precautions Hospital‐wide infection prevention
+precautions were introduced in mid‐January 2020. HCWs  were  also
+subject  to  mandatory  twice‐daily reporting of body temperature
+and a moratorium on future travel to affected countries. HCWs re‐
+turning  from  affected  areas were placed on a 14‐d stayhome no‐
+tice. HCWs who were unwell were directed to the staff clinic  for
+prompt evaluation. All HCWs had to (at a minimum) wear a surgical
+mask in all clinical settings. HCWs in the isolation ward  manag‐
+ing  patients with or suspected of having COVID‐19 wore full PPE,
+including N95 masks, face shield, long‐sleeved gown, and  gloves.
+Strict guidelines were laid down for surgeons and anesthetists in
+the operating room with regard to the use of appropriate PPE dur‐
+ing  procedures.  Relevant  to  transplant, full PPE was used for
+aerosolgenerating procedures such as intubation and extubation or
+surgery  to  the respiratory system. The N95 mask was worn if the
+Cavitron Ultrasonic Surgical Aspirator was  used.  The  radiology
+unit screened all requests for investigations, creating a special
+workflow with segregated areas for patients with worrying  clini‐
+cal  and  epidemiological  features.21  The  SingHealth  Duke‐NUS
+Transplant  program  implemented  its  own  business  contingency
+plans.  Those currently on or consulting for the inpatient trans‐
+plant service were not allowed to attend  to  COVID‐19  cases  or
+suspects.  A roster for an active and backup team(s) was drawn up
+where possible. For example, transplant coordinators were divided
+into  2  teams.  This allowed the continuation of services if any
+team member became exposed to, or infected with COVID19, necessi‐
+tating  the  need to quarantine the HCWs and team members. As the
+donor team might need to travel to  another  hospital  for  organ
+procurement,  donor and recipient teams were formed without over‐
+lap to further reduce the risk of Chung et al Donor and recipient
+selection  criteria,  and  additional  precautionary measures for
+transplant Donor selection criteria and instructions Living donor
+transplant  program Deceased donor transplant program In addition
+to fulfilling criteria for routine pretransplant workup,  ALL  of
+the following apply ‐Absence of respiratory symptoms for at least
+14 d before planned transplant Exclusion criteria ‐No travel his‐
+tory  outside of Singapore for at least 14 d before planned ‐Res‐
+piratory specimen (eg, nasopharyngeal or oropharyngeal  specimen)
+test  negative  for  SARS‐Co‐V2  PCR  (2)a before proceeding with
+transplant ‐Donors should not be COVID‐19 suspects The  following
+precautions/advice  are  recommended:  ‐Minimize hosting contacts
+with travel outside of locale (eg, overseas family/  ‐Avoid  con‐
+gregational/large  group meetings (where possible) before planned
+‐When participating in group activities, to wear a mask ‐Practice
+social  distancing ‐Inform transplant coordinators if respiratory
+symptoms or febrile illness Recipient selection criteria In addi‐
+tion to fulfilling criteria for routine pretransplant workup, ALL
+of the and instructions following apply ‐Absence  of  respiratory
+symptoms  for  at least 14 d before planned transplant ‐No travel
+history outside of Singapore for at least  14  d  before  planned
+‐Respiratory specimen (eg, nasopharyngeal or oropharyngeal speci‐
+men) test negative for SARS‐CoV‐2 PCR (2)a before proceeding with
+transplant ‐Should not be COVID‐19 suspects The following precau‐
+tions/advice are  recommended  ‐Minimize  hosting  contacts  with
+travel  outside  of locale (eg, overseas family/ ‐Avoid congrega‐
+tional/large group meetings (where possible) before planned ‐When
+participating  in group activities, to wear a mask Posttransplant
+inpatient care for donor Posttransplant inpatient care for recip‐
+ient  Instructions  to  appointed  full time caregiver(s) ‐ Those
+with ANY travel history outside of Singapore in the  last  28  d;
+‐COVID‐19 suspects/cases at the time of evaluation In addition to
+fulfilling criteria for routine pretransplant workup, ALL of  the
+following  apply  (a) SARS‐CoV‐2 PCR (3 specimens)b test negative
+(b) CT Chest with no evidence for viral pneumoniac Patients  with
+negative  SARS‐CoV‐2 PCR, and CT chest findings not suggestive of
+viral pneumonia may be considered as potential organ donors on  a
+case by case basis in consult with TxID In addition to fulfilling
+criteria for routine pretransplant For patients requiring a medi‐
+cally  urgent  transplant, ALL of the following apply ‐Should not
+be COVID‐19 suspects ‐Should be worked  up  for  any  respiratory
+symptoms/  fever,  and  COVID‐19 ruled out before proceeding with
+‐In the absences of respiratory  symptoms,  respiratory  specimen
+(eg,  nasopharyngeal  or  oropharyngeal specimen) must still test
+negative for SARS‐CoV‐2 PCR (1) before transplant  For  medically
+nonurgent transplant, ALL of the following ‐Absence of respirato‐
+ry symptoms for at least 14 d before planned transplant ‐No trav‐
+el  history outside of Singapore for at least 14 d before planned
+transplant ‐Respiratory specimen (eg, nasopharyngeal  or  oropha‐
+ryngeal  specimen)  test negative for SARS‐CoV‐2 PCR (1) just be‐
+fore proceeding with transplant ‐Should not be COVID‐19  suspects
+‐Practice  social  distancing  ‐Inform transplant coordinators if
+respiratory symptoms or febrile illness Routine postsurgical care
+Standard precautionsd Recipient to be nursed strictly in a single
+room with droplet and standard  precautions.  Additional  contact
+precautions  for those who are colonized with multidrug resistant
+organisms If febrile illness develops, to work up as appropriatee
+Have a dedicated full time caregiver During the pretransplant pe‐
+riod, the potential carer should, in  the  pretransplant  period,
+adopt  lifestyle restrictions that apply to the recipient.  It is
+advisable that during the observation period  for  the  recipient
+(as described above), the appointed full‐time caregiver(s) remain
+free of respiratory symptoms. If they are unwell at any time  be‐
+fore  or  after the transplant, they should inform the transplant
+coordinator, seek medical help/advice, practice social distancing
+and  appoint an alternative caregiver for the potential recipient
+while they recuperate Transplantation DIRECT Donor and  recipient
+selection  criteria,  and  additional  precautionary measures for
+transplant Living donor transplant program Instructions to house‐
+hold  Deceased  donor  transplant  program  Advice to caregivers:
+‐Minimize hosting contacts with travel  outside  of  locale  (eg,
+overseas  family/friends) ‐Avoid congregational/large group meet‐
+ings (where possible) before planned transplant ‐When participat‐
+ing in group activities, to wear a mask ‐Practice social distanc‐
+ing ‐Inform transplant coordinators if  respiratory  symptoms  or
+febrile illness develops ‐Observe good personal hygiene ‐Be up to
+date with their yearly influenza vaccination Advice to  household
+members ‐Observe good personal hygiene ‐Be up to date with yearly
+influenza vaccination ‐For household members who are not the  re‐
+cipients  full‐time caregivers: to wear a mask when they partici‐
+pate in group activities  before  and  posttransplant  The  first
+specimen  should only be obtained after the first 7 d of the 14‐d
+observation period for respiratory symptoms; the  final  specimen
+should  be collected after a 14‐d symptom‐free period.  Specimens
+collected for SARS‐Co‐V2 must be collected at least  12  h  apart
+and  the  final SARS‐CoV‐2 PCR must be performed within 2448 h of
+organ procurement.  Patients  with  viral  pneumonia  other  than
+COVID 19 (eg, rhinovirus, RSV, etc.) will be considered for suit‐
+ability of organ donation on a case‐by‐case  basis.   During  the
+COVID‐19  pandemic,  COVID‐19 has to be considered as a cause for
+unspecified febrile illness/respiratory  tract  infection.  SARS‐
+CoV‐2  PCR and CT Chest to be considered as part of workup if ap‐
+propriate.  COVID‐19, coronavirus disease 19; CT, computed tomog‐
+raphy;  CXR,  chest  radiograph;  PCR, polymerase chain reaction;
+SARS, Severe Acute Respiratory Distress  Syndrome;  TxID,  trans‐
+plant  infectious  reconstruction was performed by the donor team
+in a separate operating room, before delivery of the organ to the
+recipient  team.  These measures taken by the hospital and trans‐
+plant provision of transplant care.  Postoperative  Care  Recipi‐
+ents  would be nursed strictly in a single room, with droplet and
+standard precautions. They would be monitored closely for the de‐
+velopment of infective symptoms and tested for COVID‐19 promptly,
+if indicated. In the unfortunate event that the recipient becomes
+positive  for COVID‐19, they will be managed in accordance to the
+hospital policy. All efforts will be made to  establish  if  this
+was a donor‐derived infection (DDI), hospital‐acquired, or commu‐
+nity‐acquired. Hospital  and  MOH‐sanctioned  epidemiology  teams
+would be engaged to perform the necessary contact tracing.  Addi‐
+tional Considerations A key consideration before proceeding  with
+transplant  surgery  is the availability of operating theater and
+ICU beds, as these resources may be diverted to the care  of  pa‐
+tients  with  and blood bank stores may compromise the success of
+transplant surgery in a coagulopathic patient. These factors  may
+influence  recipient  selection  and the decision to proceed with
+CASE DESCRIPTION In March 2020, when  the  Disease  Outbreak  Re‐
+sponse  System  Condition (DORSCON) alert in Singapore was orange
+at another hospital. The cause of death was a cerebrovascular ac‐
+cident.  Collateral history from the next‐of‐kin established that
+the potential donor did not have respiratory symptoms before  ad‐
+mission. The donor fulfilled MOHs requirements for deceased donor
+evaluation, and fulfilled our criteria described were  called  in
+to  the hospital and evaluated. They too met our inclusion crite‐
+ria and provided informed consent to proceed.  The  recipient  of
+both   lungs   was   a  middle‐aged  patient  with  postinfective
+bronchiectasis with pulmonary hypertension  on  long‐term  oxygen
+therapy  but  had  no other comorbidities or prior chest surgery.
+Venous‐arterial Extracorporeal Membrane Oxygenation was used  for
+circulatory  support  and  to maintain adequate gas exchange in a
+patient whose surgery was technically challenging; intraoperative
+blood  transfusion requirements were also reduced with the use of
+a cell saver device. The liver recipient was  a  middle‐aged  pa‐
+tient  with  hepatocellular carcinoma and a low physiologic model
+for end‐stage liver disease score. The patient was assessed to be
+a low surgical risk candidate and was expected to require minimal
+blood transfusions during surgery.  Our  usual  immunosuppression
+protocol  for  lung and liver transplantation does not involve T‐
+cell depleting induction therapy. Both patients received standard
+doses of steroid and basiliximab for induction. After transplant,
+they were maintained on tacrolimus (target trough  level  between
+1015  and  810 g/L for the lung and the liver recipients, respec‐
+tively), mycophenolate mofetil and followed  a  standard  steroid
+taper.   Both  recipients are negative for COVID‐19 on postopera‐
+tive day 15 and at the time of writing. The recipient of the lung
+transplant  developed bilateral hemothorax, Stenotrophomonas mal‐
+tophilia ventilator‐associated pneumonia, and required  prolonged
+ventilation  due to diaphragmatic paralysis. The recipient of the
+liver has since been discharged to outpatient care.  Closure of a
+transplant  program during an outbreak of because little is known
+about the pathogen. Invoking the tenet Primum non nocere in  this
+setting means we have to consider the potential for transplant to
+cause harm by (1) introducing a DDI and (2) placing them  at  in‐
+creased  risk  should  they  subsequently  become  infected  with
+COVID‐19 while of coronaviruses  to  guide  evaluation  or  test‐
+ing.23,24 Because there is no known treatment for COVID‐19, there
+is nothing that can be given empirically or  prophylactically  to
+prevent  its  transmission.  Therefore,  the  only way to prevent
+COVID19 DDI is by excluding infection in the donor. This  may  be
+achieved through history taking and confirmatory testing.25 A de‐
+tailed history of the donor or from family members  or  witnesses
+(in  the  case  of a deceased donor) may shed light on the donors
+exposure to the pathogen. The policy of containment and extensive
+contact‐tracing  in Singapore has allowed the chains of transmis‐
+sion to be identified. In addition, MOH provides  a  daily  press
+release  with  details  on newly diagnosed patients with COVID‐19
+and sites of potential clusters.5 This dynamic list  of  COVID‐19
+clusters  is  used at the Emergency Department when screening at‐
+tendees and by  organ  procurement  coordinators.  Despite  that,
+there  exist several unlinked or yet‐to‐be linked cases. This im‐
+plies that history taking alone is  not  foolproof  in  excluding
+COVID‐19 and diagnostic tests are required to complete the evalu‐
+ation.  The PCR assay for SARS‐CoV‐2 is  now  available  at  many
+centers.  While  a  negative  result  may  be  used  to  rule out
+COVID‐19, we do not know many of the parameters, such as the neg‐
+ative  predictive  value  of  this new test. Even among pathogens
+such as HIV, Hepatitis B and C that have established tests with a
+high  negative predictive value, window period transmissions have
+been recorded.26 Furthermore, a recent report of  negative  tests
+in  a  symptomatic patient that on repeat testing became positive
+is concerning, even though this may have been related to sampling
+or  testing  issues.27  We also considered testing for SARS‐CoV‐2
+RNAemia in potential donors. RNAemia was documented in 15% of  41
+patients  in  an  early  series from Wuhan.28 RNAemia was seen in
+both patients that had milder symptoms, and those  that  required
+intensive  care. Whether RNAemia translates to infection in solid
+organs such as the liver is  unknown.  Moreover,  the  period  of
+RNAemia  in relation to onset of the symptom was not described in
+the report by Huang et al.28 The pervasiveness of  SARS‐CoV‐2  in
+tissue  and  body fluids is also not fully defined. A unique fea‐
+ture of SARS‐CoV‐2 is its binding to  angiotensin‐converting  en‐
+zyme  2 receptor and that it might demonstrate tropism to tissues
+with increased angiotensinconverting  enzyme  2  expression,  al‐
+though this hypothesis has not been confirmed.29 We know from the
+report by Chen et al30 that among 9 pregnant women with  COVID‐19
+who underwent delivery by cesarean section, there was no vertical
+transmissionSARS‐CoV‐2 was not identified in the amniotic  fluid,
+cord  blood,  neonatal  throat swab, and breast milk.  Presently,
+the MOH guideline stipulates that a donor must have 3  sequential
+negative  throat swab PCR tests for SARSCoV‐2. These tests should
+ideally be taken at least 12 h apart, and within  2448  h  before
+organ  donation.  Our  institution  introduced  the need for a CT
+chest as an added precaution after noting reports that  CT  chest
+findings  predated  a  positive  PCR  result and could be used to
+identify patients with COVID‐19.18‐20 In this case, we were  suf‐
+ficiently  confident  that  Chung  et  al  the donor did not have
+COVID‐19, given the clinical course in the ICU, the negative  PCR
+tests and a negative CT chest.  The COVID‐19 outbreak is evolving
+and we are currently in the acceleration phase of this  pandemic.
+While  halting  transplantation may appear logical and in the in‐
+terest of patient safety, it is also not without its harms.  Dur‐
+ing  SARS,  deferring  cancer treatment and postponing diagnostic
+testing led to what has been  called  the  collateral  damage  of
+SARS.4  The  same  applies to withholding life‐saving transplants
+for patients on the waiting list who may risk  dropping  out  be‐
+cause  of  progression of disease or death. This must be balanced
+against the challenges posed by COVID‐19, which is likely to stay
+for  some  time.  For this very reason, we have proposed a tiered
+approach to the selection of cases for transplantation.  Although
+we  have  addressed the issue of donor and recipient selection in
+the peritransplant period to prevent DDIs, we  have  to  be  cog‐
+nizant that most COVID‐19 infections in the posttransplant period
+are likely to be  acquired  from  the  community.6,13  Nosocomial
+transmissions  may  still be possible but at our hospital, strin‐
+gent infection prevention policies (described above) are in place
+to  mitigate this risk. To safely navigate transplantation during
+this outbreak, we also have to recognize the  importance  of  (1)
+prevention  of  COVID‐19 in of face masks, isolation, quarantine,
+social distancing, and community containment of  infected  cases)
+in  the absence of effective pharmacoprophylaxis13,31 and (2) es‐
+tablishing and  continually  refining  management  and  treatment
+strategies  for infected transplant recipients based on available
+evidence.  Presently, there is little guidance on the  management
+of  the  recipient  should  he or she get infected with COVID‐19.
+Historical reports of other coronaviruses (SARS and  Middle  East
+Respiratory  Syndrome)  suggest that they may be lethal in trans‐
+plant recipients. The liver transplant recipient described by Ku‐
+mar  et al3 died from SARS. Of the 2 renal transplant patients of
+AlGhamdi et al32  who  acquired  Middle  East  of  posttransplant
+COVID‐19  infections  in transplant recipients were community ac‐
+quired.33‐40 In addition, outcomes appear more severe. In a  case
+series of 20 renal transplant recipients with COVID‐19 by Alberi‐
+ci et al,40 85% of cases required supplementary  oxygen  therapy,
+20%  received  ICU care, and the mortality rate was 25%, which is
+much higher than the case fatality rate of approximately 2.3%  in
+the  general  population.8 To improve outcomes of severe COVID‐19
 in recipients, it is intuitive then to consider either the use of
-antiviral therapy or modulation of immunosuppression as
-observed in these reports.33-40 However, there are no proven
-benefits of either strategy and potential pitfalls exist.
-With regard to antiviral therapy, there are no established
-therapies to date.41 Although drugs such as hydroxychloroquine/chloroquine ± azithromycin, or lopinavir/ritonavir
-have in vivo activity against SARS-CoV-2, and are currently
-being used for patients with severe COVID-19, their efficacy is not proven and there may be adverse drug effects.
-Hydroxychloroquine/chloroquine ± azithromycin combination is associated with significant gastrointestinal disturbances and patients have to be closely monitoring for toxicity
-(in particular QTc prolongation). Lopinavir/ritonavir can
-also cause diarrhea. It is also a potent inhibitor of CYP 3A4,
-a dose adjustment of the calcineurin inhibitors (tacrolimus/
-Transplantation DIRECT
-cyclosporine), is needed.41,42 Preliminary data based on the
-compassionate use of remdesivir appear promising with 68%
-of patients showing clinical improvement.43 This may be a
-possible therapeutic option, and we eagerly await the results
-of ongoing remdesivir clinical trials.40 Where possible, we
-recommend the enrollment of affected patients into the remdesivir clinical trials. For those who do not qualify, we recommend the use of hydroxychloroquine. In patients with severe
-illness, the use of convalescent serum or immunomodulatory
-therapy with tocilizumab may be considered on a case-by-case
-There is no strong evidence on how to modify immunosuppression during acute COVID-19. The severe illness
-associated with COVID-19 is associated with an intense
-inflammatory response. However, there is no proven benefit in the use of corticosteroids, and potential deleterious
-effects (eg, prolonged viral clearance and risk of secondary bacterial and fungal infections) exists.41,44 On the other
-hand, it is also not entirely clear how to reduce or discontinue immunosuppression. Although it may bolster native
-immune responses, it risks graft rejection which will be a
-devastating complication due to the treatment required
-to reverse it. Presently, centers with experience managing
-COVID-19 in transplant recipients recommend dose reduction of antimetabolites or calcineurin inhibitors in those
-with severe infections.41,42
-In this pandemic, the patient, transplanted or not, is similarly at the risk of succumbing to COVID-19 either as a
-patient with end-stage organ failure or immunosuppressed
-after transplant. At each phase of the outbreak, the decision
-to proceed with transplantation must be guided by the indication for transplant, availability of manpower and resources,
-and overall safety of all parties involved in the procedure. The
-known and unknown risks of transplantation are certainly
-increased amid this COVID-19 pandemic. However, these
-risks may be mitigated if the locale practices an effective containment policy, due to diligence made to exclude COVID-19
-in both donor and recipient, and there are robust infectious
-prevention processes within the hospital. As more data
-emerge, it is likely that we will gain more knowledge to make
-the process even safer. Management strategies of COVID-19
-after transplant will continue to evolve as more data emerge.
-1. World Health Organization. WHO Director-General’s opening
-remarks at the media briefing on COVID-19—11 March 2020.
-2. Grasselli G, Pesenti A, Cecconi M. Critical care utilization for the COVID19 outbreak in Lombardy, Italy: early experience and forecast during
-3. Kumar D, Tellier R, Draker R, et al. Severe Acute
-Respiratory Syndrome (SARS) in a liver transplant recipient and guidelines for donor SARS screening. Am J Transplant.
-4. Bernstein M, Hawryluck L. Challenging beliefs and ethical concepts: the
-sg/covid-19. Accessed April 12, 2020.
-diseases/novel-coronavirus-2019/situation-reports. 2020. Accessed
-7. Pan A, Liu L, Wang C, et al. Association of public health interventions
-with the epidemiology of the COVID-19 outbreak in Wuhan, China.
-8. Lai CC, Shih TP, Ko WC, et al. Severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID19): the epidemic and the challenges. Int J Antimicrob Agents.
-9. Wang C, Horby PW, Hayden FG, et al. A novel coronavirus outbreak
-10. Chen J. Pathogenicity and transmissibility of 2019-nCoV—A quick
-overview and comparison with other emerging viruses. Microbes
-11. Wei WE, Li Z, Chiew CJ, et al. Presymptomatic transmission of SARSCoV-2 - Singapore, January 23-March 16, 2020. MMWR Morb Mortal
-12. Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV
-infection from an asymptomatic contact in Germany. N Engl J Med.
-13. Centers for Disease Control and Prevention: coronavirus disease 2019
-gov/coronavirus/2019-ncov/cases-updates/summary.html. Accessed
-14. Holloway R, Rasmussen SA, Zaza S, et al. Updated preparedness
-and response framework for influenza pandemics. MMWR Recomm
-15. Ministry of Health, Singapore. Advisory on Health Measures for
-Organ and Tissue Recovery and Transplantation: COVID-19 Dorscon
-Orange. Singapore: Ministry of Health, Singapore; 2020.
-16. Ministry of Health, Singapore. Updated advisory on health measures
-for organ and tissue recovery and transplantation: COVID-19 Dorscon
-Organe. Singapore: Ministry of Health, Singapore; 2020.
-17. Lauer SA, Grantz KH, Bi Q, et al. The incubation period of coronavirus disease 2019 (COVID-19) from publicly reported confirmed cases: estimation and application. Ann Intern Med. 2020.
-18. Ai T, Yang Z, Hou H, et al. Correlation of chest CT and RT-PCR testing
-in coronavirus disease 2019 (COVID-19) in China: a report of 1014
-19. Fang Y, Zhang H, Xie J, et al. Sensitivity of chest CT for COVID-19:
-20. Xie X, Zhong Z, Zhao W, et al. Chest CT for typical 2019-nCoV
-pneumonia: relationship to negative RT-PCR testing. Radiology.
-21. Cheng LT, Chan LP, Tan BH, et al. Déjà vu or jamais vu? How the
-severe acute respiratory syndrome experience influenced a Singapore
-22. Angelico R, Trapani S, Manzia TM, et al. The COVID-19 outbreak
-in Italy: initial implications for organ transplantation programs. Am J
-23. Chong PP, Razonable RR. Diagnostic and management strategies
-for donor-derived infections. Infect Dis Clin North Am. 2013;27:253–
-24. Len O, Garzoni C, Lumbreras C, et al. Recommendations for screening of donor and recipient prior to solid organ transplantation and
-to minimize transmission of donor-derived infections. Clin Microbiol
-25. Seem DL, Lee I, Umscheid CA, et al; United States Public
-Health Service. PHS guideline for reducing human immunodeficiency virus, hepatitis B virus, and hepatitis C virus transmission through organ transplantation. Public Health Rep.
-26. Ison MG, Llata E, Conover CS, et al; HIV-HCV Transplantation
-immunodeficiency virus and hepatitis C virus from an
-organ donor to four transplant recipients. Am J Transplant.
-27. Tay JY, Lim PL, Marimuthu K, et al. De-isolating COVID19 suspect cases: a continuing challenge. Clin Infect Dis.
-28. Huang C, Wang Y, Li X, et al. Clinical features of patients
-infected with 2019 novel coronavirus in Wuhan, China. Lancet.
-29. Baig AM, Khaleeq A, Ali U, et al. Evidence of the COVID-19 virus
-targeting the CNS: tissue distribution, host-virus interaction,
-and proposed neurotropic mechanisms. ACS Chem Neurosci.
-30. Chen H, Guo J, Wang C, et al. Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine
-31. Wilder-Smith A, Freedman DO. Isolation, quarantine, social distancing
-and community containment: pivotal role for old-style public health
-measures in the novel coronavirus (2019-nCoV) outbreak. J Travel
-32. AlGhamdi M, Mushtaq F, Awn N, et al. MERS CoV infection in
-two renal transplant recipients: case report. Am J Transplant.
-33. Zhang H, Chen Y, Yuan Q, et al. Identification of kidney transplant recipients
-34. Zhu L, Xu X, Ma K, et al. Successful recovery of COVID-19 pneumonia
-in a renal transplant recipient with long-term immunosuppression. Am
-36. Huang JF, Zheng KI, George J, et al. Fatal outcome in a liver transplant
-37. Wang J, Li X, Cao G, et al. COVID-19 in a kidney transplant patient. Eur
-Chung et al
-38. Seminari E, Colaneri M, Sambo M, et al. SARS Cov2 infection in a
-renal transplanted patients. A case report. Am J Transplant. 2020.
-40. Alberici F, Delbarba E, Manenti C, et al. A single center observational
-study of the clinical characteristics and short-term outcome of 20 kidney transplant patients admitted for SARS-CoV-2 pneumonia. Kidney
-41. Bhimraj A, Morgan RL, Shumaker AH, et al. Infectious Diseases
-Society of America Guidelines on the treatment and management
-idsociety.org/practice-guideline/covid-19-guideline-treatment-andmanagement/. Accessed April 12, 2020.
-42. Liu H, He X, Wang Y, et al. Management of COVID-19 in patients
-43. Grein J, Ohmagari N, Shin D, et al. Compassionate use of remdesivir for patients with severe COVID-19. N Engl J Med. 2020.
-44. Workgroup C-T. National Center for Infectious Diseases (Singapore):
-interim treatment guidelines for COVID-19 version 1.0. 2020.
-45. Government of Singapore: what do the different DORSCON levels
+antiviral  therapy or modulation of immunosuppression as observed
+in these reports.33‐40 However, there are no proven  benefits  of
+either strategy and potential pitfalls exist.  With regard to an‐
+tiviral therapy, there are no established  therapies  to  date.41
+Although    drugs    such    as    hydroxychloroquine/chloroquine
+azithromycin,  or  lopinavir/ritonavir  have  in  vivo   activity
+against  SARS‐CoV‐2,  and  are  currently being used for patients
+with severe COVID‐19, their efficacy is not proven and there  may
+be    adverse   drug   effects.    Hydroxychloroquine/chloroquine
+azithromycin combination is associated with significant gastroin‐
+testinal  disturbances and patients have to be closely monitoring
+for toxicity (in particular QTc  prolongation).  Lopinavir/riton‐
+avir  can  also  cause diarrhea. It is also a potent inhibitor of
+CYP  3A4,  a  dose  adjustment  of  the  calcineurin   inhibitors
+(tacrolimus/   Transplantation  DIRECT  cyclosporine),  is  need‐
+ed.41,42 Preliminary data  based  on  the  compassionate  use  of
+remdesivir appear promising with 68% of patients showing clinical
+improvement.43 This may be a possible therapeutic option, and  we
+eagerly  await  the  results  of ongoing remdesivir clinical tri‐
+als.40 Where possible, we recommend the  enrollment  of  affected
+patients  into  the  remdesivir clinical trials. For those who do
+not qualify, we recommend the use of hydroxychloroquine.  In  pa‐
+tients  with severe illness, the use of convalescent serum or im‐
+munomodulatory therapy with tocilizumab may be  considered  on  a
+case‐by‐case There is no strong evidence on how to modify immuno‐
+suppression during acute COVID‐19. The severe illness  associated
+with  COVID‐19  is  associated  with  an intense inflammatory re‐
+sponse. However, there is no proven benefit in the use of  corti‐
+costeroids,  and potential deleterious effects (eg, prolonged vi‐
+ral clearance and risk of secondary bacterial and  fungal  infec‐
+tions)  exists.41,44  On  the other hand, it is also not entirely
+clear how to reduce or discontinue immunosuppression. Although it
+may  bolster  native  immune  responses, it risks graft rejection
+which will be a devastating complication due to the treatment re‐
+quired to reverse it. Presently, centers with experience managing
+COVID‐19 in transplant recipients recommend dose reduction of an‐
+timetabolites  or calcineurin inhibitors in those with severe in‐
+fections.41,42 In this pandemic,  the  patient,  transplanted  or
+not, is similarly at the risk of succumbing to COVID‐19 either as
+a patient with end‐stage organ failure or immunosuppressed  after
+transplant.  At  each phase of the outbreak, the decision to pro‐
+ceed with transplantation must be guided by  the  indication  for
+transplant,  availability  of manpower and resources, and overall
+safety of all parties involved in the procedure.  The  known  and
+unknown  risks  of  transplantation  are certainly increased amid
+this COVID‐19 pandemic. However, these risks may be mitigated  if
+the  locale  practices  an  effective  containment policy, due to
+diligence made to exclude COVID‐19 in both donor  and  recipient,
+and  there  are robust infectious prevention processes within the
+hospital. As more data emerge, it is likely  that  we  will  gain
+more knowledge to make the process even safer. Management strate‐
+gies of COVID‐19 after transplant will continue to evolve as more
+data emerge.  1. World Health Organization. WHO Director‐Generals
+opening remarks at the media briefing on COVID‐1911  March  2020.
+2.  Grasselli  G, Pesenti A, Cecconi M. Critical care utilization
+for the COVID19 outbreak in Lombardy, Italy: early experience and
+forecast  during  3.  Kumar D, Tellier R, Draker R, et al. Severe
+Acute Respiratory Syndrome (SARS) in a liver transplant recipient
+and  guidelines  for  donor  SARS screening. Am J Transplant.  4.
+Bernstein M, Hawryluck L. Challenging beliefs  and  ethical  con‐
+cepts: the sg/covid‐19. Accessed April 12, 2020.  diseases/novel‐
+coronavirus‐2019/situation‐reports. 2020. Accessed 7. Pan A,  Liu
+L, Wang C, et al. Association of public health interventions with
+the epidemiology of the COVID‐19 outbreak in  Wuhan,  China.   8.
+Lai  CC, Shih TP, Ko WC, et al. Severe acute respiratory syndrome
+coronavirus   2   (SARS‐CoV‐2)   and   coronavirus   disease‐2019
+(COVID19):  the  epidemic  and  the  challenges. Int J Antimicrob
+Agents.  9. Wang C, Horby PW, Hayden FG, et al.  A  novel  coron‐
+avirus outbreak 10. Chen J. Pathogenicity and transmissibility of
+2019‐nCoVA quick overview  and  comparison  with  other  emerging
+viruses.  Microbes  11.  Wei  WE, Li Z, Chiew CJ, et al. Presymp‐
+tomatic transmission of SARSCoV‐2 ‐ Singapore,  January  23‐March
+16,  2020. MMWR Morb Mortal 12. Rothe C, Schunk M, Sothmann P, et
+al. Transmission of 2019‐nCoV infection from an asymptomatic con‐
+tact  in  Germany. N Engl J Med.  13. Centers for Disease Control
+and   Prevention:    coronavirus    disease    2019    gov/coron‐
+avirus/2019‐ncov/cases‐updates/summary.html.  Accessed  14.  Hol‐
+loway R, Rasmussen SA, Zaza S, et al.  Updated  preparedness  and
+response  framework for influenza pandemics. MMWR Recomm 15. Min‐
+istry of Health, Singapore. Advisory on Health Measures for Organ
+and Tissue Recovery and Transplantation: COVID‐19 Dorscon Orange.
+Singapore: Ministry of Health, Singapore; 2020.  16. Ministry  of
+Health,  Singapore. Updated advisory on health measures for organ
+and tissue recovery and transplantation: COVID‐19 Dorscon Organe.
+Singapore:  Ministry  of  Health, Singapore; 2020.  17. Lauer SA,
+Grantz KH, Bi Q, et al. The incubation period of coronavirus dis‐
+ease  2019 (COVID‐19) from publicly reported confirmed cases: es‐
+timation and application. Ann Intern Med. 2020.  18. Ai  T,  Yang
+Z,  Hou  H,  et al. Correlation of chest CT and RT‐PCR testing in
+coronavirus disease 2019 (COVID‐19) in China: a  report  of  1014
+19.  Fang  Y,  Zhang H, Xie J, et al. Sensitivity of chest CT for
+COVID‐19: 20. Xie X, Zhong Z, Zhao W, et al. Chest CT for typical
+2019‐nCoV pneumonia: relationship to negative RT‐PCR testing. Ra‐
+diology.  21. Cheng LT, Chan LP, Tan BH, et al. Dj vu  or  jamais
+vu?  How  the severe acute respiratory syndrome experience influ‐
+enced a Singapore 22. Angelico R, Trapani S, Manzia  TM,  et  al.
+The  COVID‐19  outbreak  in Italy: initial implications for organ
+transplantation programs. Am J 23. Chong PP, Razonable RR.  Diag‐
+nostic  and  management  strategies for donor‐derived infections.
+Infect Dis Clin North Am. 2013;27:253 24. Len O, Garzoni C,  Lum‐
+breras  C,  et al. Recommendations for screening of donor and re‐
+cipient prior to solid  organ  transplantation  and  to  minimize
+transmission of donor‐derived infections. Clin Microbiol 25. Seem
+DL, Lee I, Umscheid CA, et al; United States Public  Health  Ser‐
+vice.  PHS  guideline  for reducing human immunodeficiency virus,
+hepatitis B virus, and hepatitis C virus transmission through or‐
+gan  transplantation.  Public  Health Rep.  26. Ison MG, Llata E,
+Conover CS, et al; HIV‐HCV Transplantation immunodeficiency virus
+and  hepatitis C virus from an organ donor to four transplant re‐
+cipients. Am J Transplant.  27. Tay JY, Lim PL, Marimuthu  K,  et
+al.  De‐isolating  COVID19 suspect cases: a continuing challenge.
+Clin Infect Dis.  28. Huang C, Wang Y, Li X, et al. Clinical fea‐
+tures  of patients infected with 2019 novel coronavirus in Wuhan,
+China. Lancet.  29. Baig AM, Khaleeq A, Ali U, et al. Evidence of
+the  COVID‐19 virus targeting the CNS: tissue distribution, host‐
+virus interaction, and proposed neurotropic mechanisms. ACS  Chem
+Neurosci.   30. Chen H, Guo J, Wang C, et al. Clinical character‐
+istics  and  intrauterine  vertical  transmission  potential   of
+COVID‐19  infection in nine 31. Wilder‐Smith A, Freedman DO. Iso‐
+lation, quarantine, social distancing and community  containment:
+pivotal  role  for  old‐style public health measures in the novel
+coronavirus (2019‐nCoV) outbreak. J Travel 32. AlGhamdi M,  Mush‐
+taq  F,  Awn N, et al. MERS CoV infection in two renal transplant
+recipients: case report. Am J Transplant.  33. Zhang H,  Chen  Y,
+Yuan Q, et al. Identification of kidney transplant recipients 34.
+Zhu L, Xu X, Ma K, et al. Successful recovery of COVID‐19 pneumo‐
+nia in a renal transplant recipient with long‐term immunosuppres‐
+sion. Am 36. Huang JF, Zheng KI, George J, et al.  Fatal  outcome
+in a liver transplant 37. Wang J, Li X, Cao G, et al. COVID‐19 in
+a kidney transplant patient. Eur Chung  et  al  38.  Seminari  E,
+Colaneri M, Sambo M, et al. SARS Cov2 infection in a renal trans‐
+planted patients. A case report. Am J Transplant. 2020.  40.  Al‐
+berici  F, Delbarba E, Manenti C, et al. A single center observa‐
+tional study of the clinical characteristics and short‐term  out‐
+come  of  20  kidney  transplant patients admitted for SARS‐CoV‐2
+pneumonia. Kidney 41. Bhimraj A, Morgan RL, Shumaker AH,  et  al.
+Infectious  Diseases  Society of America Guidelines on the treat‐
+ment      and      management       idsociety.org/practice‐guide‐
+line/covid‐19‐guideline‐treatment‐andmanagement/.  Accessed April
+12, 2020.  42. Liu H, He X, Wang Y, et al. Management of COVID‐19
+in patients 43. Grein J, Ohmagari N, Shin D, et al. Compassionate
+use of remdesivir for patients with severe  COVID‐19.  N  Engl  J
+Med.  2020.   44.  Workgroup  C‐T. National Center for Infectious
+Diseases (Singapore): interim treatment guidelines  for  COVID‐19
+version 1.0. 2020.  45. Government of Singapore: what do the dif‐
+ferent DORSCON levels
+
+
+
+
+
+
+
+
+
+

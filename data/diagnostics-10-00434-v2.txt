@@ -1,1065 +1,858 @@
-Molecular and Serological Tests for COVID-19.
-Laboratory and Point-of-Care Diagnostics
-Robert Kubina 1, *
-and Arkadiusz Dziedzic 2
-40-055 Katowice, Poland
-Department of Conservative Dentistry with Endodontics, Faculty of Medical Sciences in Zabrze,
-Abstract: Validated and accurate laboratory testing for Severe Acute Respiratory Syndrome
-Coronavirus 2 (SARS-CoV-2) is a crucial part of the timely management of Coronavirus Disease
-2019 (COVID-19) disease, supporting the clinical decision-making process for infection control at the
-healthcare level and detecting asymptomatic cases. This would facilitate an appropriate treatment,
-a prompt isolation and consequently deceleration of the pandemic. Various laboratory tests can
-identify the genetic material of SARS-CoV-2 that causes COVID-19 in specimens, or specific anti-viral
-antibodies in blood/serum. Due to the current pandemic situation, a development of point-of-care
-diagnostics (POCD) allows us to substantially accelerate taking clinical decisions and implement
-compares the available POCD and those currently under development, including quantitative reverse
-transcription PCR (RT-qPCR), serology immunoassays (SIAs) and protein microarray method (PMM)
-designed for standard and rapid COVID-19 diagnosis.
-Keywords: COVID-19; SARS-CoV-2; in vitro diagnostic tests; RT-qPCR; serology immunoassays
-Coronavirus Disease 2019 (COVID-19), caused by the novel coronavirus Severe Acute Respiratory
-Syndrome Coronavirus 2 (SARS-CoV-2, formerly known as 2019-nCoV), appeared in China for
-the first time, and subsequently spread worldwide [1,2]. On 30 January 2020, the World Health
-Organization (WHO) officially announced the COVID-19 epidemics as a threat to public health
-internationally, and subsequently, in March 2020, the global situation escalated into the COVID-19
-427,000 deaths as of 13 June 2020 [3]. As a result of this rapidly progressing COVID-19 pandemic and
-the limited laboratory-based molecular testing capacities, new point-of-care (POC), scalable rapid
-diagnostic tests have been invented recently as easy-to-use tools to allow COVID-19 diagnostics outside
-of laboratory settings. What is more, the urgent need to multiply testing for COVID-19 has been clearly
-identified as an essential element of the anti-coronavirus strategy all over the world.
-The diagnostic sensitivity, specificity and accuracy concerning suspected COVID-19 infection,
-based on controlled testing and performance data from clinical settings, is of substantial importance
-in the context of limiting the scope of coronavirus epidemics. Unreliable and unproved tests may
-not detect patients with active infection or may incorrectly indicate COVID-19-negative patients as
-positive, hampering healthcare efforts. The diagnostic laboratory and point-of-care tests (POCTs)
-used in order to detect SARS-CoV-2 are, first of all, reference tests based on molecular technique
-real-time quantitative reverse transcriptase polymerase chain reaction assay (RT-qPCR) as well
-as serological antibody-detecting and antigen-detecting tests, for auxiliary purposes. At present,
-only molecular quantitative reverse transcription PCR (RT-qPCR) testing of respiratory tract samples
-is the recommended method for the identification and laboratory confirmation of COVID-19 cases,
-as these methods were evaluated for their quality and safety through the World Health Organization
-(WHO) protocols [4,5]. On the other hand, based on current scientific evidence, WHO recommends the
-use of POC immunodiagnostic tests for research purposes and, at present, they should not be utilized
-in a clinical decision-making setting and in patient care until fully validated, with supporting data
-available. However, they can be useful in epidemiologic research or disease surveillance and further
-evolve as a critical step to develop COVID-19 vaccine in future. At the time of increased demand for
-hospital services, clinicians, governments and health services urgently need a fast, sensitive, but at the
-same time inexpensive diagnostic test, in order to rapidly manage patients, regarding admissions to
-hospitals meant for COVID-19 treatment. Therefore, the role of an approved and reliable diagnostic
-test in the COVID-19 care pathway is of the utmost importance.
-As in the case of other infectious diseases, the RT-qPCR method, as well as serological tests,
-Genetic assay based on the RT-qPCR technique, performed in real time, especially plays a role at
-the early stages of viral infection, when the virus multiplies quickly, as this technique enables direct
-detection of the pathogen’s genetic material. A different approach in diagnosing infection is represented
-by serological methods, based on detecting—in blood serum—of antibodies that act specifically against
-viral proteins, which are produced in response to SARS-CoV-2. Serological IVD tests detect antibodies
-which are responsible for neutralizing the virus; therefore, this implies that they are used when the
-immunological reaction against SARS-CoV-2 virus is already taking place. These IVD measures can
-of subjects who already developed immunity. The results of serological IVD tests should not be used
-as basis for diagnosing, ruling out infection with SARS-CoV-2, or informing about infection status [6].
-The relatively quick discovery of the composition of the full genome of SARS-CoV-2 early during
-the epidemics made it easier to develop specific starters and normalized laboratory protocols for
-COVID-19. The protocol of the first RT-qPCR test, focused on RNA-dependent RNA polymerase
-end of January 2020. Providing a brief description, the novel coronavirus SARS-CoV-2 is equipped
-with a receptor-binding domain (RBD), a structure similar to the ‘original’ SARS-CoV that emerged for
-the first time in 2002. Functionally important ORFs (1a and 1b) and other main structural proteins,
-including the spike (S), membrane (M), envelope (E), and nucleocapsid (N) proteins, are also well
-interrelated and clearly annotated. According to previous reports, the M and E proteins are essential
-for virus assembly, while the S protein is crucial for affinity and attachment to host cells, as the RBD of
-the S protein enables binding with angiotensin-converting enzyme 2 (ACE2). The S protein on the
-structural protein of SARS-CoV-2 is responsible for the transcription and replication of viral RNA,
-the packaging of the encapsulated genome into virions, and interactions with the cell cycle of host cells.
-In addition, coronaviruses contain the N protein, which has a substantial immunogenic ability and
-antigens for serodiagnosis of COVID-19, similarly to other diagnostic methods that were implemented
-for diagnosing SARS disease, based on S/N proteins [7].
-PCR COVID-19
-COVID-19 genetic
-spike spike
-sequences of
-on [8]).on [8]).
-or nucleocapsid
-Validated COVID-19
-COVID-19 Diagnosis
-At present,
-is going
-on worldwide
-which will
-At present,
-is going
-on worldwide
-to to
-will simplify
-speed up
-tests, with
-further awaiting
-the completion
-of the and
-and Drug
-with further
-of the procedure
-Food and
-Administration (FDA) or In Vitro Diagnostics (IVD) certificate to be issued. It is worth noting that a
-(FDA) or In Vitro Diagnostics (IVD) certificate to be issued. It is worth noting that a large portion of
-large portion of available tests are provided merely with the Research Use Only (RUO) certificate,
-available tests are provided merely with the Research Use Only (RUO) certificate, which in fact does
-which in fact does not imply anything concerning test quality or its validation. More rigorous tests
-not imply
-test quality
-or with
-its validation.
-to products
-to productsconcerning
-certified as IVD,
-the ISO13485
-In addition,
-as IVD,
-In addition,
-IVD they
-to local
-to local
-CE marking
-in Europe,
-and hence
-as CE of
-in Europe,
-and hence
-with Directive
-the European
-and of
-of 27 October
-1998 on in
-vitro of
-medical devices,
-of clinical
-the European
-and of
-of evaluation,
-1998 on in
-SARSwith an extensive evaluation, including the validation of clinical samples.
-in the
-with COVID-19
-symptoms, byofdetecting
-genetic tests collected
-are meant
-for the
-and differentiation
-in the material/specimens collected from patients with COVID-19 symptoms, by detecting
-specimens (sputum, tracheal aspirate or bronchoalveolar lavage, swabs from nasopharynx and
-sequences unique for SARS-CoV-2. The genetic material of the virus is extracted from specimens
-pharynx, blood, urine, or stool) and amplified by means of the PCR technique in real time, with the
-(sputum, tracheal aspirate or bronchoalveolar lavage, swabs from nasopharynx and pharynx, blood,
-use of reverse transcription (RT), and detected by means of fluorescent reporter probes specific to
-or stool) and
-amplified by means of the PCR technique in real time, with the use of reverse
-of fluorescent
-At present, RT-qPCR
-in the worldreporter
-market, which
-meant to
-ORF1ab, [8,9].
-tests are
-in the worldThose
-to detect
-E, present,
-N, or S gene
-in various
-and E, N,
-test protocol
-is complex
-and costly,
-for large,
-or S gene
-tests differ
-Tests usually
-h, yet
-the logistic
-time. diagnostic
-The test protocol
-is complex
-and costly,
-for large, concerning
-laboratories. Tests usually take 4–6 h, yet the logistic requirements concerning sending clinical
-with WHOtime
-that execution
-is 24 h at the most
-[10].tests must enable the detection of three
-genes in a single reaction: E gene, N gene, and RdRP gene. This allows us to detect viruses from the
-In accordance with WHO recommendations, RT-qPCR tests must enable the detection of three
-beta-coronavirus group (E gene), as well as to identify SARS-CoV-2 virus (N gene and RdRP, ORF1ab).
-in a asingle
-reaction: E gene, N gene, and RdRP gene. This allows us to detect viruses from the
-design guarantees double confirmation in cases of infection, it also limits the risk of obtaining
-as well asonly
-to identify
-gene and
-false negativegroup
-in case
-of detecting
-one targetSARS-CoV-2
-for SARS-CoV-2.
-Such of
-a design
-in cases
-of infection,
-it also
-of obtaining
-doubtful results,
-which case the
-of verification
-false negative
-in dedicated
-case of detecting
-only one
-to SARS-CoV-2
-is presented
-in reduces
-of obtaining doubtful results, in which case the necessity of verification occurs [11]. A comparison
-Name of the Kit
-ORF1ab RdRP
-Manual test
-1copy™ COVID-19 qPCR Kit
-AB ANALITICA srl
-ADT Biotech
-LyteStar 2019-nCoV RT-PCR
-altona Diagnostics
-RealStar® SARS-CoV-2 RT-PCR
-USA EUA; CE-IVD
-Atila Biosystems
-BIOMAXIMA S.A.
-COVID Detection
-SARS-CoV-2 Real Time PCR
-USA EUA
-USA EUA; CE-IVD; RUO
-AccuPower® SARS-CoV-2
-Real-Time RT-PCR
-BGI Health (HK)
-Real-time fluorescent RT-PCR
-USA EUA; CE-IVD; Canada
-CerTest Biotec, S.L
-VIASURE SARS-CoV-2 Real
-Time PCR Kit
-CerTest Biotec, S.L
-VIASURE SARS-CoV-2 S gene
-Real Time PCR Kit
-Logix Smart Coronavirus
-CTK Biotech, Inc.
-Aridia COVID-19 Real Time
-PCR Test
-DAAN Gene Co
-Detection Kit for 2019 Novel
-CE-IVD; China
-Edinburgh Genetics
-COVID-19 Real-time PCR
-Testing Kit
-CE-IVD; China FDA
-Gencurix Inc.
-GenePro COVID-19 Detection
-Genomictree, Inc.
-AccuraTect RT-qPCR
-KH Medical
-RADI COVID-19 Detection Kit
-Real-Time PCR Kit
-SrongStep® Novel Coronavirus
-PerkinElmer Inc.
-Realtime RT-PCR
-CE-IVD; WHO-EUL
-Primerdesign Ltd.
-COVID-19 genesig Real-Time
-PCR assay
-CE-IVD; USA EUA;WHO
-R-Biopharm AG
-RIDA® GENE SARS-CoV-2
-SD BIOSENSOR Inc.
-STANDARD M nCoV
-Real-Time Detection Kit
-CE-IVD; USA EUA; Brazil
-TIB/Roche Diagn.
-LightMix Modular SARS-CoV-2
-TIB/Roche Diagn
-LightMix Modular SARS-CoV-2
-TIB/Roche Diagn
-LightMix Modular SARS-CoV-2
-SD BIOSENSOR
-STANDARD M nCoV
-Real-Time Detection kit
-USA EUA; CE-IVD; Brazil
-Seegene, Inc.
-Allplex 2019-nCoV assay
-USA EUA; CE-IVD; Canada
-Sansure Biotech Inc
-Novel Coronavirus
-(2019-nCoV) Nucleic Acid
-USA EUA; CE-IVD; China
-Sente Biolab
-COVID-19 qRT PCR Detection
-Shanghai ZJ
-Liferiver Novel Coronavirus
-Multiplex RT-PCR
-CE-IVD, China FDA
-Thermo Fisher
-TaqPath™ COVID-19 CE-IVD
-RT-PCR Kit
-Name of the Kit
-DMed 2019-nCoV RT-qPCR
-Detection Kit
-US FDA—CE-IVD
-Abbott Molecular
-Abbott RealTime SARS-CoV-2
-EUA test
-US FDA—CE-IVD
-Xpert Xpress SARS-CoV-2
-US FDA-EUA
-ORF1ab RdRP
-Automated Lab-based, near-POC NAT or POC NAT
-Roche Molecular
-US FDA—WHO EUL
-Sente Biolab
-Senteligo COVID-19 qRT PCR
-Detection Kit
-Solgent Co.Ltd
-DiaPlexQ™ Novel Coronavirus
-Star Array Ptd. Ltd.
-8-min RT-qPCR direct PCR
-VereCoV™ Detection Kit and
-The standard protocol with the application of the RT-qPCR method is demanding and
-time-consuming. For that reason, scientists constantly strive to invent more up to date modifications of
-the RT-qPCR tests, which would cut down the time required for analyses [13].
-Bosch Healthcare Solutions announced that they had developed a quick test, which may provide
-the results in 2.5 h; it is a fast testing kit for the Vivalytic platform. It is a fully automated PCR test,
-which is performed by simply inserting the swab into a cartridge, which is subsequently analyzed
-by the machine. This universal platform for molecular laboratory diagnostics, with the option for
-various samples testing and different analytical methods, can be carried out as an entirely automated
-mode within a short time. Unfortunately, the equipment has not been available for many healthcare
-institutions yet, and the diagnostic cartridges are dedicated solely to the specific analyzing device [14].
-BioMaxima has invented a test whose main advantages include a short waiting time; the results
-can be obtained in a mere 2 h. Moreover, the analytical sensitivity of the test, being at the level of
-≥10 RNA copies per reaction, is higher than in other comparable systems. It seems important that the
-molecular test kit contains reagents with substantially enhanced stability, which allows us to transport
-it safely and store it at room temperature, whereas many other tests available on the market need to
-be stored in a freezer and to be transported in dry ice. Storing such reagents, even for a short time,
-in conditions that deviate from those indicated is risky and may result in generating false negative test
-results [15].
-sensitive than the previous ones and it implies the possibility of examining patients at earlier stages,
-reacting more quickly, and effectively preventing the spread of coronavirus. This new test for diagnosing
-SARS-CoV-2 provides rapid results within 30 min, whereas the fastest current methods that concentrate
-on viral RNA give results in 1.5 to 2 h, i.e., three times faster than the presently quickest testing
-methods, and which requires the application of relatively simple technical devices. Apart from those
-advantages, the scientists responsible for the test’s development claim that it may even help detect
-patients infected with coronavirus at earlier stages, in comparison with current methods, while its
-results can be read with the “naked eye”, which makes it more available for a wider spectrum of
-healthcare units and specialists. This fast-molecular test has been recently registered by the FDA and
-utilizes a diagnostic system, which, in recent years, proved to function perfectly in diagnosing multiple
-infections (including Hepatitis C Virus—HCV and influenza) [16]. RNA detection may be performed
-by means of RT-qPCR or reverse transcription–loop amplification (RT–LAMP). A standard RT-qPCR
-test takes 90 to 120 min on average to test a set of samples, whereas LAMP may be completed in
-30 min. Indirect isothermal amplification (LAMP) is a fast technology of DNA amplification, which is
-applied in the detection of pathogens such as viruses or bacteria. LAMP reaction usually takes place
-at constant temperature, and the target DNA may be amplified in 30 min. LAMP method utilizes
-four or six starters for binding six regions of target DNA, its specificity is exceptionally high. Because
-SARS-CoV-2 is a RNA-type virus with a length of some 30 kb, a single reverse transcriptase (RT)
-reaction and LAMP may, jointly, significantly shorten the reaction time, omitting the stage of purifying
-cDNA from reverse transcriptase, and thanks to this, SARS-CoV-2 may be quickly detected. It has
-to be noted that similarly, a one-step RT-qPCR method does not require cDNA purification (a single
-six starters in each set/kit) focused on viral RNA of SARS-CoV-2 in the regions of ORF1ab, S gene,
-and N gene. For the interpretation of results, a colorimetric method has been applied, which enables
-the reading of the results of viral RNA amplification by the naked eye, without the necessity of using
-expensive equipment. Moreover, the sensitivity of the method may be 80 copies of viral RNA per
-1 mL in the sample and single stage process (without separate RNA extraction), which enables the
-amplification of RNA directly from the sample [17,18].
-Performing examinations with the use of fast molecular tests may be particularly useful in
-Emergency Departments and admission rooms. POCTs are needed to speed up the process of taking
-clinical decisions and decrease the workload for centralized testing laboratories [16]. POCT means that
-test results are instantly delivered in the patient care settings, such as hospitals, urgent care centers and
-emergency rooms, instead of the use of expensive and time-consuming laboratory processes.
-Additionally, the American company Cepheid developed a quick test which, as they declare,
-takes 45 min, while the Dutch pharmacists owning Qiagen developed a 1-h test. The US Food and Drug
-diagnostics, Xpert Xpress SARS-CoV-2, according to a statement from the agency. The test was designed
-to provide detection of novel coronavirus within a short period of 45 min, using specimens from a
-nasopharyngeal swab, nasal wash/aspirate. Another POCT, the Xpert Xpress SARS-CoV-2 test cartridge
-is dedicated to detecting SARS-CoV-2 nucleic acid utilizing RT-qPCR and does not require the use of
-reagents. In the contrary, the GeneXpert System needs the test to be run in a CLIA-approved laboratory
-(Clinical Laboratory Improvement Amendments) or in a selection of patient care settings [19].
-It is equally important to understand that RT-qPCR tests have also certain limitations. They are the
-most useful in case of positive results, although they appear to have less diagnostic value in situations
-when COVID-19 must be ruled out. Negative RT-qPCR test results do not necessarily indicate that
-person has not contracted an infectious disease, as other individual factors also need to be considered,
-such as exposure risk and potential laboratory errors. The false negative results may occur if the
-sample has not been properly collected, transported, or handled/treated, or as a result of the improper
-extraction of nucleic acid from clinical materials [9]. Moreover, the false positive results can be related
-to the situation where the sample contains inhibitors of amplification, or an insufficient amount of
-virus molecules. On the contrary, a false positive result may be due to the cross-contamination of the
-sample during its handling or preparation, or between patient samples. What is more, the influence of
-vaccines, antiviral drugs, antibiotics, chemotherapeutic agents, or immunosuppressive drugs has not
-been taken into consideration. Moreover, the set/kit does not exclude diseases caused by other bacterial
-or viral pathogens. The negative results do not exclude infection and should not be the sole basis for
-patients’ treatment. Test results when using the kit serve clinical purposes only. Clinical diagnosis
-and treatment of patients should be considered in conjunction with the manifestations and symptoms,
-medical history, response to treatment or other laboratory tests [9]. In general, the sensitivity of this
-molecular method may vary depending on specimen collection (broncho-alveolar lavage, sputum,
-nasal swabs or throat swabs) and, what is more, the accuracy depends upon stage of infection, the rate
-of SARS-CoV-2 multiplication, and also the degree of clearance. Interestingly, the provided values
-of RT-qPCR accuracies seem to be higher for in vitro validation by utilizing SARS-CoV-2-dedicated
-primers and cultures in highly controlled laboratory settings [20].
-It is assumed that the optimal outcome and ‘clear-cut diagnostic gold standard’ might depend
-upon the development of hybrid assays in order to minimize the fraction of false negative results.
-The enhanced RT-qPCR test combined with serological immunoassays (either antibody-detecting or
-antigen-detecting), would bring an additional diagnostic value for accurate and quick COVID-19
-diagnosis in vitro diagnostics, when the human body reacts to an infectious bio-stimulant [21].
-Evaluation of Molecular RT-qPCR Tests that Detect the RNA Nucleic Acid of SARS-CoV-2
-The progress made in recent years in the diagnostics of infections enables the application,
-often simultaneously, of numerous methods in order to detect respiratory viruses effectively. The choice
-patient population to be tested, as well as the technical abilities and experience of the testing unit.
-The validation of RT-qPCR tests seems to be an important step in combating the new coronavirus.
-One of the most significant parameters regarding the efficiency of the diagnostic procedure is most
-probably the one related to the minimum amount of analyte, which may be detected and quantitatively
-determine by means of a particular test. The parameters describing those properties are known as
-limit of detection (”LoD”) and limit of quantification (”LoQ”). In many laboratories, LoD is used
-interchangeably with “sensitivity”, “analytical sensitivity”, or/and “detection limit.”. This may be
-misleading, though, as “sensitivity” is also understood and used in other ways. Sensitivity and clinical
-(diagnostic) specificity are two different parameters. Diagnostic sensitivity is the proportion of true
-positive results to the sum of true positive and true negative results. A sensitivity ratio of 100% implies
-that all the sick people have been identified. The specificity of a test is the proportion of true negative
-results to the sum of true negative and false positive ones. The specificity of 100% implies that all
-healthy people in a given test have been correctly identified as healthy/not having the condition.
-still one can notice differences in analytical sensitivity of the test (LOD). The vast majority of molecular
-tests kits contain a so-called ‘internal positive control’ (IPC), that can be utilized either as an extraction
-control or internal control. The IPC is essential for an evaluation of whether the genetical material
-extraction procedure and amplification stage were carried out correctly. The failure in IPC detection
-using a patient’s specimen may indicate the improper extraction of nucleic acid from clinical material
-as a consequence of nucleic acid loss or the transposition of PCR inhibitors and the lack of sufficient
-biological material in the collected sample. It needs to be noted that many molecular tests may not
-here that detect the RNA of SARS-CoV-2 contain IPC.
-Another important factor which describes a diagnostic test is the analytical specificity. It is the
-ability of a test to detect a specific target, e.g., a virus. It is of great importance to check whether
-the starters used in PCR test are specific to a given virus. There are two components of analytical
-sensitivity: cross-reactivity and interference. Cross-reactivity may occur if, in a sample collected
-from a patient, there are organisms which are genetically related that imitate the virus analysed,
-from the perspective of cross-reactivity; unfortunately, that analysis is selective and does not concern
-the same micro-organisms.
-Name of the Kit
-Limit of
-Detection LOD
-altona Diagnostics
-RealStar® SARS-CoV-2 RT-PCR
-Atila BioSystems Inc.
-Atila iAMP COVID-19 Detection
-BGI Health (HK) Co. Ltd.
-Real-time Fluorescent RT-PCR kit for
-ARGENE® SARS-COV-2 R-GENE®
-SARS-CoV-2 Real-Time
-RT-PCR Kit
-Boditech Med. Inc.
-ExAmplar COVID-19 real-time
-PCR kit (L)
-CerTest Biotec
-VIASURE SARS-CoV-2 Real Time
-PCR Detection Kit
-Detection Kit for 2019 Novel
-Coronavirus (2019-nCoV) RNA
-EURORealTime SARS-CoV-2
-DAAN Gene Co. Ltd.
-GeneFirst Ltd.
-KH Medical Co. Ltd.
-Primerdesign Ltd.
-The Novel Coronavirus (2019-nCoV)
-Nucleic Acid Test Kit
-RADI COVID-19 Detection Kit
-Coronavirus COVID-19
-Real-Time PCR assay
-GENE SARS-CoV-2 RUO
-SD Biosensor Inc.
-STANDARD M nCoV Real-Time
-Detection Kit
-Seegene Inc.
-Allplex™ 2019-nCoV Assay
-R-Biopharm AG
-Shanghai Kehua
-KHB Diagnostic kit for SARS-CoV-2
-Nucleic Acid (Real-time PCR)
-Tib Molbiol
-ModularDx Kit SARS-CoV
-(COVID19) E-gene (Tib Molbiol) +
-LightCycler Multiplex RNA Virus
-Vela Diagnostics
-ViroKey™ SARS-CoV-2 RT-PCR Test
-Name of Test
-Human coronavirus NL 63
-Human coronavirus OC229E
-Human coronavirus OC43
-Human coronavirus HKU1
-Human Metapneumovirus
-Parainfluenza virus 1
-Parainfluenza virus 2
-Parainfluenza virus 3
-Parainfluenza virus 4
-Influenza A virus
-Influenza B Virus
-Enterovirus (e.g., EV68)
-Respiratory syncytial virus A
-Respiratory syncytial virus B
-Chlamydia pneumoniae
-Hemophilus influenzae
-Legionella pneumophila
-Mycobacterium tuberculosis
-Streptococcus pneumoniae
-Streptococcus pyogenes
-Bordetella parapertussis
-Bordetella bronchiseptica
-Bordetella pertussis
-Mycoplasma pneumoniae
-Pneumocystis jirovecii (PJP)
-Candida albicans
-Pseudomonas aeruginosa
-Staphylococcus epidermis
-Staphylococcus salivarius
-Staphylococcus aureus
-Human immunodeficiency
-virus type 1,2
-Hepatitis virus (A, B, C)
-Logix Smart
-PCR Testing
-qPCR Kit
-RT-PCR Kit
-Biotec, S.L
-SD BIOSENSOR
-Bio-Products PerkinElmer®
-SARS-CoV-2 STANDARD M
-Detection Kit
-Inc. Allplex
-Combo Kit
-EUA test
-Xpert Xpress
-No data available (nd); does not cross-react with analyzed pathogen (-).
-3. Emerged Rapid Immunodiagnostic (Serology Immunoassays) Tests
-Immunological methods are, most often, the chemiluminescent assaying of immunoglobulin IgG
-and IgM for SARS-CoV-2 from blood on an analyzer, or immunochromatographic assessment in the
-form of rapid POCTs, not requiring additional equipment. The methods of detecting anti-SARS-CoV-2
-antibodies, despite the ongoing research to develop them further, may or even should be applied
-during the coronavirus epidemics [22,23]. After about a week from the first clinical manifestations,
-the sensitivity of molecular diagnostics (PCR) diminishes gradually for SARS-CoV-2 infections, due to
-have false negative results, despite the ongoing infection.
-3.1. Lateral Flow Immunoassay
-Among the many contemporary technologies available, special attention should be paid to rapid
-lateral flow immunoassay (LFIA), also referred to as immunochromatographic tests. Perhaps they
-are not so much appreciated in the scientific community as PCR methods or Enzyme-Linked
-Immunosorbent Assay (ELISA tests), despite the fact that they do find application in diagnostics
-more and more often. They differ, depending on the type of test, but the basic principle of their
-action is invariably the same—they make use of the unique property that antibodies possess, that of
-uncomplicated and relatively inexpensive tool meant for detecting the presence (or absence) of a given
-component in the examined specimen, such as the presence of a virus in an analyzed blood sample.
-Examination with the use of those tests is possible for various types of test material—whole human
-blood, blood plasma, serum, stool, urine, sweat, cerebrospinal fluid, or even tears [9]. The test principle
-is based on an immunological method, using specific antibodies, most often in complex with colloidal
-gold, where a drop of the examined substance first moves along the nitrocellulose membrane using
-capillary phenomena. After the sample is absorbed by the membrane, the antigen (should the test prove
-to be positive) binds to the colloidal gold complex and respective antibodies. Consequently, the effect
-of that reaction is the formation of a complex, which will be detected by the test. The interpretation
-of results consists of confirmation or ruling out of the presence of antigens in the examined sample,
-based on color test strips that appear in the test [21,22]. The brief comparison of advantages and
-Short reaction time for most tests, amounting to 5–20 min
-Suboptimal sensitivity, results often false negative,
-particularly during enhanced activity of the virus
-performed in outpatient clinics or at patient’s bed.
-Despite substantial specificity sometimes the results
-are false negative, particularly when the virus is not
-much active.
-Reading most often possible with ‘naked eye’.
-It is necessary to verify positive or doubtful results.
-Small amount of material to be collected, variety of material.
-Increased risk of operator becoming infected
-“best before” date distant
-(usually 18 months from manufacturing date)
-At present, most immunoenzymatic tests available are based on the immunochromatic technique.
-The difference between those tests depends upon the molecule assayed (p/c or antigens), structure,
-performance time, and diagnostic material. It may be supposed that, in future, rapid tests will enable
-easier and quicker diagnostics of many diseases, without the necessity of performing tedious and
-complicated procedures. This would reduce the waiting time for obtaining results, and accelerate
-3.2. Immunoenzymatic and Immunofluorimetric Assays
-The detection of specific SARS-CoV-2 serum antibodies allows for a rapid, cost-effective,
-and reasonably sensitive clinical diagnosis of COVID-19, as immunoglobulins such as IgM provide
-the initial humoral response during the first stage of viral infection, prior to the onset of the adaptive,
-high-affinity IgG response essential for long-term immunological memory. Research indicates that after
-SARS infection, antibodies of the IgM class may be detected in patient’s blood about 6 days after the
-infection, while IgG may be already detected after 8 days. As SARS-CoV-2 belongs to the same large
-family of viruses, which includes those causing Middle East Respiratory Syndrome (MERS) and Severe
-Acute Respiratory Syndrome (SARS), it should be assumed that the process of producing antibodies
-will be similar to that in case of other viruses belonging to that family, while the detection of IgG
-antibodies and IgM antibodies acting against SARS-CoV-2 may be an indication of infection. Moreover,
-the detection of IgM antibodies usually indicates a recent exposure to SARS-CoV-2, whereas the
-detection of IgG antibodies in case of COVID-19 indicates exposure to the virus some time ago [30].
-Serological tests, detecting solely the IgM class of antibodies, should find applications for diagnostic
-purposes. When using tests which detect both IgM and IgG antibodies, one should remember that a
-from serological tests do not exclude SARS-CoV-2 infection, as the ‘window period’ (delay in the
-production of antibodies) may exceed 7 days. Serological tests may also give false positive results.
-This may be the case of past or ongoing infection with virus strains other than SARS-CoV-2, such as
-coronavirus HKU1, NL63, OC43, or 229E. Moreover, the first tests assessing the titer of IgA class
-antibodies have been launched, which, from the perspective of immunology, is of extreme importance,
-as it provides the possibility of testing for antibodies in a material other than blood samples collected
-from patients, e.g., respiratory tract secretions.
-Type of Test
-Phase of Infection
-The window period for a test designed to detect a specific disease
-Early stage of infection
-Active phase of infection
-Late or recurrent stage of infection
-Early stage of infection. PCR result may be false negative *
-Past infection (recover) *
-The recovery stage of infection, or PCR result may be false negative *
-No infection and no special symptoms
-P(+)—positive; N(−)—negative. * Human coronaviruses (HCoV) OC43, 229E, NL63, and HKU1 may cause false
-positive ELISA results.
-Serological tests are thus applied as an adjunctive method, for monitoring the epidemiological
-situation, yet they may be performed faster and are less costly than genetic tests. This diagnostic
-method has a limited sensitivity, yet efforts to improve it are ongoing, as it is useful for monitoring the
-infection. Due to insufficient data concerning, among others, the dynamics of immunological response
-to infection and the diagnostic value of available tests for detecting IgM and IgG class antibodies
-(comprising sensitivity, specificity, positive and negative predictive value), in many countries, it is
-immunochromatographic tests for SARS-CoV-2 based on sensitivity, specificity, sample type and test
-performance time.
-Diagnostics 2020, 10, x FOR PEER REVIEW
-of the selected immunochromatographic tests for SARS-CoV-2 based on sensitivity, specificity,
-sample type and test performance time.
-manufacturers’ specification).
-IgG/IgM Rapid
-Test Cassette
-COVID-19 IgMIgG Rapid Test
-RAPID TEST
-Tianjin Beroni
-IgG/IgM Antibody
-Detection Kit
-Test name of Coronavirus Disease 2019 (COVID-19) serological tests, including
-to manufacturers’
-Clinical Specificity
-Clinical Sensitivity
-Test Name
-Clinical Specificity
-Clinical Sensitivity
-IgM Sensitivity
-Clinical Specificity IgM
-Clinical Sensitivity
-IgG Specificity
-Clinical Specificity IgG
-Clinical Sensitivity Positive
-Clinical SpecificityValue
-at prevalence =
-Positive Predictive
-at or IgG)
-or IgG)
-at prevalence
-Negative Predictive
-or IgG)
-or IgG)
-IgG/IgM Rapid
-Test Cassette
-IgM-IgG Rapid
-Test kit
-Tianjin Beroni
-IgG/IgM Antibody
-Detection Kit
-In serological IVD, the so-called ‘window period’ is of much importance—that is, the time when
-specific antibodies
-are notimmunochromatographic
-In the
-phase of an based
-of selected
-production of antibodies is initiated, but their level is still low, and thus test results may prove negative.
-Anti-SARS-CoV-2 antibodies appear quite late, i.e., a few days after clinical manifestations, which is
-serological tests cannot be used as a basic tool in diagnosing SARS-CoV-2 infections [32].
-of selected immunochromatographic
-tests for
-SARS-CoV-2 based onSample
-specificity, Accu-Tell
-sample type
-10 µL of whole blood,
-AccuBioTech Co. Ltd.
-to manufacturers’
-serum or plasma
-Test Cassette
-AllTest Biotech Hangzhou
-AccuBioTech Co.Rapid Test Cassette
-IgG/IgM Rapid Test
-Rapid Test
-Aytu Bioscience
-Rapid Tes
-COVID-19 IgM-IgG
-BioMedomics, Inc
-Dual Antibody
-BIOMAXIMA S.A.
-Rapid Test
-Rapid Test Cassette
-Cellex Inc.
-Changsha Sinocare Inc.
-IgG / IgM
-Test Cassette
-Aytu BioscienceAllTest Biotech
-BIOMAXIMA S.A.
-Cellex qSARS-CoV-2
-IgG/IgM Cassette
-Rapid Test
-SARS-CoV-2 Antibody
-Test Strip
-95.0% Whole blood
-(Colloidal Gold Method)
-Sample size
-10 µL of serum
-or plasma
-IgM 96% 10 μL of whole
-of fingertip
-serum or
-or whole blood
-10 μL of serum
-orof serum
-plasma or plasma
-µL of whole blood
-blood or whole blood
-10–20 µL whole blood,
-5 μL of serum or
-serum or plasma
-10 μL of whole blood
-10–20 µL whole blood,
-serum or plasma
-blood, serum or
-IgG IgM
-10 µL whole blood,
-serum or plasma
-99.2% Whole blood
-10 µL of whole blood,
-serum or plasma
-CTK Biotech
-OnSite COVID-19
-IgG/IgM Rapid Tes
-10–15 µL of serum
-or plasma
-Edinburgh Genetics Limited
-Watmind 2019 nCoV
-novel coronavirus
-detection reagent
-10 µL of serum or
-plasma; 20 µL of
-fingertip blood or
-whole blood
-Getein Biotech, Inc.
-One Step Test for
-Novel Coronavirus
-IgM/IgG Antibody
-10 µL of serum
-or plasma;
-20 µL of fingertip
-blood or whole blood
-Goldsite Diagnostics Inc.
-SARS-CoV-2 IgG/IgM
-30 µL of whole blood
-Hangzhou Biotest Biotech
-COVID-19 IgG/IgM
-Rapid Test Cassette
-10 µL of whole blood,
-serum or plasma
-Hunan Lituo Biotechnology
-COVID-19 IgG/IgM
-Detection Kit
-InTec Products, Inc.
-Rapid SARS-CoV-2
-Antibody Test IgG or
-Ig Mor IgG/IgM
-10 µL of sample
-Liming Bio-Products Co., Ltd.
-COVID-19 IgG/IgM
-Combo Rapid
-Test Device
-10 µL of serum
-or plasma;
-20 µL of whole blood
-Sample Size
-Livzon Diagnostic
-Diagnostic Kit for
-IgM/IgG Antibody to
-10 µL of serum or
-plasma; 20 µL of
-whole blood
-nal von minden GmbH
-NADAL® COVID-19
-IgG/IgM Test
-10 µL of whole blood,
-serum or plasma
-Nanjing Vazyme Medical Tech.
-Detection Kit
-20 µL of whole blood,
-serum or plasma
-PRIMA Lab S.A.
-PRIMA COVID-19
-IgG/IgM Rapid Test
-(For Professional Use)
-10 µL of serum or
-plasma; 20 µL of
-fingertip blood or
-whole blood
-Sugentech, Inc
-SGTi-flex COVID-19
-10 µL whole blood
-Sensing Self,
-COVID-19 Rapid
-IgG/IgM combined
-Antibody assay
-IgM 92% IgG 100%
-20 µL of fingertip
-blood or whole blood
-Xiamen AmonMed Biotechnology
-COVID-19 IgM/IgG
-test kit
-Coris BioConcept
-COVID-19 Ag
-RapiGEN, Inc.
-COVID-19 Ag
-SD BIOSENSOR,
-STANDARD Q
-COVID-19 Ag Test
-VivaChek Laboratories,
-COVID-19 IgM/IgG
-Rapid Test
-IgM and IgG: 97.1%
-10 µL of whole blood,
-serum or plasma
-Qingdao Hightop Biotech
-SARS-CoV-2 IgM/IgG
-Antibody Rapid Test
-10 µL of serum or
-20 µL of whole blood
-Wuhan Coronavirus
-Rapid Test (2019-nCoV,
-COVID-19) IgG/IgM
-5 µL of serum or
-10 µL of whole blood
-In serological IVD, the so-called ‘window period’ is of much importance—that is, the time when
-the production of antibodies is initiated, but their level is still low, and thus test results may prove
-negative. Anti-SARS-CoV-2 antibodies appear quite late, i.e., a few days after clinical manifestations,
-which is why serological tests cannot be used as a basic tool in diagnosing SARS-CoV-2 infections [32].
-The detection of specific anti-SARS-CoV-2 antibodies is possible about 10 days after the first clinical
-manifestations of infection. Thus, this serves the purpose of confirming contact with coronavirus,
-and is of enormous importance from an epidemiological perspective, as it allows us to detect subjects
-who had the infection but were asymptomatic or oligosymptomatic, and could have been the source
-of infection for other people (“silent” carriers/vectors). It also allows us to determine the spread
-Test Type
-Proteome Microarray
-AccuBioTech Co. Ltd.
-Accu-Tell COVID-19 IgG/IgM Rapid Test Cassette
-BIOMAXIMA S.A.
-2019-nCoV IgG/IgM Rapid Test Cassette
-BioMedomics, Inc
-COVID-19 IgM-IgG Dual Antibody Rapid Test
-CE-IVD; India
-Cellex Inc.
-Cellex qSARS-CoV-2 IgG/IgM Cassette Rapid Test
-CE-IVD; USA; Australia; Brazil
-Changsha Sinocare Inc.
-SARS-CoV-2 Antibody Test Strip (Colloidal Gold Method)
-Edinburgh Genetics Limited
-Watmind 2019 nCoV novel coronavirus antibody detection reagent
-Getein Biotech, Inc.
-One Step Test for Novel Coronavirus (2019-nCoV) IgM/IgG Antibody
-Goldsite Diagnostics Inc.
-SARS-CoV-2 IgG/IgM Kit
-Hunan Lituo Biotechnology
-COVID-19 IgG/IgM Detection Kit
-Innovita Biological Technology
-2019-nCoV Ab Test (Colloidal Gold) IgM/IgG
-CE-IVD; China, Brazil
-IgG or IgM or both
-Whole blood/serum/plasma
-InTec Products, Inc.
-Rapid SARS-CoV-2 Antibody Test IgG or Ig Mor IgG/IgM
-Liming Bio-Products Co., Ltd.
-COVID-19 IgG/IgM Combo Rapid Test Device
-nal von minden GmbH
-NADAL® COVID-19 IgG/IgM Test
-PRIMA Lab S.A.
-PRIMA COVID-19 IgG/IgM Rapid Test (For Professional Use)
-Dynamiker Biotechnology (Tianjin) Co., Ltd.
-2019 nCOV IgG/IgM Rapid Test
-Coris BioConcept
-COVID-19 Ag Respi-Strip
-RapiGEN, Inc.
-BIOCREDIT COVID-19 Ag
-SD BIOSENSOR, Inc.
-STANDARD Q COVID-19 Ag Test
-DRG International, Inc.
-COVID-19 lgG, EIA-6146
-Epitope Diagnostics, Inc.
-EDI™ Novel Coronavirus COVID-19 IgG ELISA Kit
-EUROIMMUN AG
-Anti-SARS-CoV-2 ELISA (IgG)
-DRG International, Inc.
-COVID-19 lgM, EIA-6147
-Epitope Diagnostics, Inc.
-EDI™ Novel Coronavirus COVID-19 IgM ELISA Kit
-EUROIMMUN AG
-Anti-SARS-CoV-2 ELISA (IgA)
-SD BIOSENSOR, Inc.
-STANDARD F COVID-19 Ag FIA
-Shenzhen Bioeasy Biotechnology Co., Ltd.
-Bioeasy 2019-nCoV Ag Fluorescence Rapid Test Kit
-Mokobio Biotechnology R&D Center
-PEPperPRINT GmbH
-CE-IVD, Brasil
-CE-IVD; Brazil; USA
-CE-IVD; Brazil
-CE-IVD, Brasil
-Nasopharyngeal swab
-SARS-CoV-2 IgM & IgG Quantum Dot Immunoassay
-serum, plasma, whole blood
-PEPperCHIP® SARS-CoV-2 Proteome Microarray (manual)
-3.3. Protein Microarray Method (PMM)
-The protein microarray method (PMM) is a proteomic screening technique serving the purpose
-of simultaneous/parallel quantitative and qualitative analysis of mixtures containing many proteins.
-The chip used is composed of a supporting surface (e.g., modified glass plate, nitrocellulose membrane,
-or microtitration plate), on which the matrix of ‘capturing’ proteins is immobilized in accordance with
-the determined formula, performing the function of a probe. The material captured may be antibodies,
-enzymes, or ligands. Protein analyte, added to the matrix, may be modified by means of various
-types of markers (among others: radioisotopes, fluorescence, luminescence markers). The interaction
-equipment. The advantages of protein micromatrices include the short time required for analysis,
-modest consumption of samples and reagents, high sensitivity, automation of testing. They allow us to
-investigate the functions and effects of proteins on large scale [33,34].
-The newly developed PEPperCHIP® SARS-CoV-2 Proteome Microarray (PEPperPRINT) based
-on the SARS-CoV-2 genome derived from the virus isolate Wuhan-Hu-1 (GenBank ID: MN908947.3)
-enables us to serologically screen about 5000 individual peptides spanning the whole viral
-proteome. Sequences of ORF1ab protein, surface glycoprotein, ORF3a protein, coat protein,
-membrane glycoprotein, ORF6 protein, ORF7a protein, ORF8 protein, nucleocapsid phosphoprotein,
-and ORF10 protein have been elongated and connected by means of neutral GSGSGSG connectors.
-The elongated protein sequences have been transcribed into 4883 different peptides composed of
-15 amino acids printed in two repetitions (9766 peptide sites) in order to obtain high-resolution epitope
-data. In the case of SARS-CoV, which emerged in 2002, it was demonstrated that the application of PMM
-is characterized by enhanced sensitivity, as more Chinese subjects were diagnosed as SARS-positive
-when applying PMM in comparison with ELISA tests. The PMM seems to be more reliable, as it
-allows us to determine more protein antigens of the virus [35]. An additional advantage of such tests
-is the possibility of automating the entire analytical process. Unfortunately, the method has several
-imperfections, including the repeatability of the test itself, while the cost of the testing and equipment
-used for micromatrix diagnostics is significant, which makes the PMM method less accessible in
-standard laboratory settings [36].
-Undoubtedly, the scalable and reliable POCTs used in the community and outside laboratories
-would have the opportunity to reduce the time to obtain COVID-19 diagnostic results and might
-support early implementation of isolation resources and infection control measures. From a medical
-workforce point of view, antibody- and antigen-detecting tests appear to have a significant role in
-identifying healthcare workers who recovered from SARS-CoV-2 infection, to assess their suitability to
-provide frontline health services. On the other hand, the false negative serology tests could cause spread
-of COVID-19, unjustified reassurance and a change in public behavior. Undoubtedly, the negative
-results of serology tests (swabs) should not be treated as definitive for ‘ruling out’, but a positive test
-results are beneficial to ‘rule in’ coronavirus infection. The sufficient accuracy of serology tests used
-more widely will allow us to make an appropriate decision regarding lifting restrictions on a national
-level. Nevertheless, the wider implementation of POCD will ultimately support public health strategies
-about the potential lifting of social distancing restrictions in future [30]. Moreover, with the limited
-data available at present, for antibody-detecting and antigen-detecting rapid POCD, further intense
-research into their potential diagnostic utility is highly encouraged. If these tests demonstrate adequate
-accuracy, it is likely that they could potentially be used as triage tests for quick identification of patients
-who are suspected of contracting COVID-19, reducing the need for expensive reference molecular PCR
-testing [4,6]. Finally, it is worth noting the psychological and behavioral consequences of correctly
-established and known immunity status within the community.
-4. The Currently Developing Concepts of COVID-19 Diagnostics
-4.1. Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR/Cas13) Technology
-Recently, a test has been developed based on Clustered Regularly Interspaced Short Palindromic
-Repeats (CRISPR/Cas12a), with visual readouts. The test can detect 10 copies of the virus gene in
-merely 45 min, providing simple and reliable diagnostic method, which additionally demonstrates
-high sensitivity and specificity. In order to enable fast diagnosis at the hospital or on admission, the test
-be split off by the Cas12a protein, when the nucleic acid of SARS-CoV-2 is found in the detection system.
-In this way, a green signal of fluorescence will be obtained, visible with the naked eye, in‘the light,
-with a wavelength of 485 nm. The high specificity of the test was obtained by designing 15 crRNAs,
-which may distinguish the polymorphisms of a single nucleotide with other viruses related to SARS in
-four domains: ORF1a or ORF1b, N, and E genes [37].
-4.2. Exhaled Breath Condensate (EBC)
-The search for new diagnostic methods is continued. Because SARS-CoV-2 is spread by droplets,
-while the diagnostic sensitivity and specificity index for RT-qPCR tests is the highest for broncho-alveolar
-lavage (BAL) (higher than for sputum or nose/throat swabs), scientists recently proposed the use of
-exhaled breath condensate (EBC) for diagnostic purposes. EBC is most similar in its biochemical
-composition and origin to BAL. Examinations with the use of EBC are a relatively novel diagnostic
-method, used mainly to assess inflammation within the respiratory tract, and its components reflect
-the composition of the fluid lining the bronchi and alveoli. EBC is a condensed form of small droplets
-of the fluid lining the lungs, which is usually exhaled, it contains various components, from small ions
-to proteins and organelles; it may even contain viruses, fungi, and bacteria. Taking samples of the
-condensate is safe, totally non-invasive, easy to perform, it may be repeated many times, it may also be
-performed on patients with severe complications of COVID-19; its enormous advantage is that in may
-be performed in small children, with the use of special facial masks. The course of the examination is
-such that the patient is requested to exhale, when breathing uneventfully for some 10-15 min, to an
-apparatus provided with a cooling system, which allows us to accumulate the condensate in which
-SARS-CoV-2 may be detected. The application of this method seems justified from a public health
-perspective. The false positive results that are presently obtained contribute the continued spread of
-the virus worldwide [38,39].
-The optimization of laboratory diagnostics is the most dynamically developing field in the time of
-the COVID-19 pandemic, supporting contemporary medicine, government decisions and healthcare
-strategies. The efforts of scientist–clinician teams focus, first of all, upon implementing the most reliable
-diagnostic tools; however, because COVID-19 is a new nosological entity, there are not enough data as
-of yet that would enable the determination of standards for the interpretation of serological POCTs.
-As with any other infectious diseases, the diagnostic value of a test is not only about the method
-of collecting the material, the quality of the sample and the equipment applied. Equally essential
-procedure (storage and handling) prior to analysis, from the moment of collecting the biological
-material to the assaying stage.
-Funding: This study received no external funding.
-Lau, S.K.P.; Woo, P.C.Y.; Yip, C.C.Y.; Tse, H.; Tsoi, H.; Cheng, V.C.C.; Lee, P.; Tang, B.S.F.; Cheung, C.H.Y.;
-Lee, R.A.; et al. Coronavirus HKU1 and Other Coronavirus Infections in Hong Kong. J. Clin. Microbiol. 2006,
-44, 2063–2071. [CrossRef] [PubMed]
-World Health Organization. Advice on the Use of Point-Of-Care Immunodiagnostic Tests for COVID-19.
-Corman, V.; Bleicker, T.; Brünink, S.; Drosten, C.; Landt, O.; Koopmans, M.; Zambon, M. Diagnostic Detection of
-Lu, X.; Chen, Y.; Bai, B.; Hu, H.; Tao, L.; Yang, J.; Chen, J.; Chen, Z.; Hu, Z.; Wang, H. Immune responses against
-122, 496–502. [CrossRef] [PubMed]
-Liu, W.; Liu, L.; Kou, G.; Zheng, Y.; Ding, Y.; Ni, W.; Wang, Q.; Tan, L.; Wu, W.; Tang, S.; et al. Evaluation
-of Nucleocapsid and Spike Protein-based ELISAs for detecting antibodies against SARS-CoV-2. J. Clin.
-Microbiol. 2020, 58, e00461-20. [CrossRef]
-Corman, V.M.; Landt, O.; Kaiser, M.; Molenkamp, R.; Meijer, A.; Chu, D.K.W.; Bleicker, T.; Brünink, S.;
-Schneider, J.; Schmidt, M.L.; et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR.
-Eurosurveillance 2020, 25, 2000045. [CrossRef]
-Vashist, S.K. In Vitro Diagnostic Assays for COVID-19: Recent Advances and Emerging Trends.
-Diagnostics 2020, 10, 202. [CrossRef]
-Shereen, M.A.; Khan, S.; Kazmi, A.; Bashir, N.; Siddique, R. COVID-19 infection: Origin, transmission,
-and characteristics of human coronaviruses. J. Adv. Res. 2020, 24, 91–98. [CrossRef] [PubMed]
-(accessed on 13 June 2020).
-Deepak, S.A.; Kottapalli, K.R.; Rakwal, R.; Oros, G.; Rangappa, K.S.; Iwahashi, H.; Masuo, Y.; Agrawal, G.K.
-Real-Time PCR: Revolutionizing Detection and Expression Analysis of Genes. Curr. Genom. 2007, 8, 234–251.
-[CrossRef] [PubMed]
-vivalytic-tests/vri-multiplex-test/ (accessed on 9 May 2020).
-Huang, W.E.; Lim, B.; Hsu, C.C.; Xiong, D.; Wu, W.; Yu, Y.; Jia, H.; Wang, Y.; Zeng, Y.; Ji, M.; et al. RT-LAMP for
-rapid diagnosis of coronavirus SARS-CoV-2. Microb. Biotechnol. 2020, 13, 950–961. [CrossRef]
-Cui, Z.; Chang, H.; Wang, H.; Lim, B.; Hsu, C.C.; Yu, Y.; Jia, H.; Wang, Y.; Zeng, Y.; Ji, M.; et al. Development of
-a rapid test kit for SARS-CoV-2: An example of product design. Biodes. Manuf. 2020, 1–4. [CrossRef]
-Moran, A.; Beavis, K.G.; Matushek, S.M.; Ciaglia, C.; Francois, N.; Tesic, V.; Love, N. The Detection of
-SARS-CoV-2 using the Cepheid Xpert Xpress SARS-CoV-2 and Roche cobas SARS-CoV-2 Assays. J. Clin.
-Microbiol. 2020. [CrossRef] [PubMed]
-Watson, J.; Whiting, P.F.; Brush, J.E. Interpreting a covid-19 test result. BMJ 2020, 369, m1808. [PubMed]
-West, C.P.; Montori, V.M.; Sampathkumar, P. COVID-19 Testing: TheThreat of False-Negative Results.
-Mayo Clin. Proc. 2020. [CrossRef]
-Lippi, G.; Salvagno, G.L.; Pegoraro, M.; Militello, V.; Caloi, C.; Peretti, A.; Gaino, S.; Bassi, A.; Bovo, C.;
-Lo Cascio, G. Assessment of immune response to SARS-CoV-2 with fully automated MAGLUMI 2019-nCoV
-IgG and IgM chemiluminescence immunoassays. Clin. Chem. Lab. Med. 2020. [CrossRef]
-Hsueh, P.R.; Huang, L.M.; Chen, P.J.; Kao, C.L.; Yang, P.C. Chronological evolution of IgM, IgA, IgG and
-neutralisation antibodies after infection with SARS-associated coronavirus. Clin. Microbiol. Infect. 2004, 10,
-Guan, M.; Chen, H.Y.; Foo, S.Y.; Tan, Y.J.; Goh, P.Y.; Wee, S.H. Recombinant protein-based enzyme-linked
-immunosorbent assay and immunochromatographic tests for detection of immunoglobulin G antibodies to
-severe acute respiratory syndrome (SARS) coronavirus in SARS patients. Clin. Diagnost. Lab. Immunol. 2004,
-Kogaki, H.; Uchida, Y.; Fujii, N.; Kurano, Y.; Miyake, K.; Kido, Y.; Kariwa, H.; Takashima, I.; Tamashiro, H.;
-Ling, A.-E.; et al. Novel rapid immunochromatographic test based on an enzyme immunoassay for detecting
-nucleocapsid antigen in SARS-associated coronavirus. J. Clin. Lab. Anal. 2005, 19, 150–159. [CrossRef]
-Koczula, K.M.; Gallotta, A. Lateral flow assays. Essays Biochem. 2016, 60, 111–120.
-Oh, J.-S.; Ha, G.-W.; Cho, Y.-S.; Kim, M.J.; An, D.J.; Hwang, K.K.; Lim, Y.K.; Park, B.K.; Kang, B.; Song, D.S.
-One Step Immunochromatography Assay Kit for Detecting Antibodies to Canine Parvovirus. Clin. Vaccine
-Immunol. 2006, 13, 520–524. [CrossRef]
-Posthuma-Trumpie, G.A.; Korf, J.; van Amerongen, A. Lateral flow (immuno)assay: Its strengths, weaknesses,
-opportunities and threats. A literature survey. Anal. Bioanal. Chem. 2009, 393, 569–582. [CrossRef]
-Stürenburg, E.; Junker, R. Point-of-care testing in microbiology: The advantages and disadvantages of
-immunochromatographic test strips. Dtsch. Arztebl. Int. 2009, 106, 48–54. [PubMed]
-Li, Z.; Yi, Y.; Luo, X.; Xiong, N.; Liu, Y.; Li, S.; Sun, R.; Wang, Y.; Hu, B.; Chen, W.; et al. Development and
-clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis. J. Med.
-Virol. 2020. [CrossRef] [PubMed]
-covid19serology/ (accessed on 13 June 2020).
-Lauer, S.A.; Grantz, K.H.; Bi, Q.; Jones, F.K.; Zheng, Q.; Meredith, H.R.; Azman, A.S.; Reich, N.G.; Lessler, J.
-The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases:
-Estimation and Application. Ann. Intern. Med. 2020. [CrossRef]
-Melton, L. Protein arrays: Proteomics in multiplex. Nature 2004, 429, 101–107. [CrossRef]
-Hall, D.A.; Ptacek, J.; Snyder, M. Protein microarray technology. Mech. Ageing. Dev. 2007, 128, 161–167.
-[CrossRef] [PubMed]
-Zhu, H.; Hu, S.; Jona, G.; Zhu, X.; Kreiswirth, N.; Willey, B.M.; Mazzulli, T.; Liu, G.; Song, Q.; Chen, P.; et al.
-Severe acute respiratory syndrome diagnostics using a coronavirus protein microarray. Proc. Natl. Acad.
-Sci. USA 2006, 103, 4011–4016. [CrossRef] [PubMed]
-Molecular and Antibody Point-Of-Care Tests to Support the Screening, Diagnosis and Monitoring of
-Wang, X.; Zhong, M.; Liu, Y.; Ma, P.; Dang, L.; Meng, Q.; Wan, W.; Ma, X.; Liu, J.; Yang, G.; et al. Rapid
-and Sensitive Detection of COVID-19 Using CRISPR/Cas12a-based Detection with Naked Eye Readout,
-CRISPR/Cas12a-NER. Sci. Bull. (Beijing) 2020. [CrossRef]
-Khoubnasabjafari, M.; Jouyban-Gharamaleki, V.; Ghanbari, R.; Jouyban, A. Exhaled breath condensate as a
-potential specimen for diagnosing COVID-19. Bioanalysis 2020. [CrossRef]
-Jerzyńska, J.; Brzozowska, A.; Bobrowska-Korzeniowska, M.; Grzelewski, T.; Stelmach, I. Usefulness of
-exhaled breath condensate for evaluation of markers of airway inflammation in children with asthma.
-Pediatr. Pol. 2009, 84, 437–445. [CrossRef]
+Molecular  and  Serological  Tests  for COVID‐19.  Laboratory and
+Point‐of‐Care  Diagnostics  Robert  Kubina  1,  *  and  Arkadiusz
+Dziedzic  2  40‐055  Katowice,  Poland Department of Conservative
+Dentistry  with  Endodontics,  Faculty  of  Medical  Sciences  in
+Zabrze,  Abstract:  Validated and accurate laboratory testing for
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS‐CoV‐2) is a
+crucial part of the timely management of Coronavirus Disease 2019
+(COVID‐19)  disease,  supporting  the  clinical   decision‐making
+process for infection control at the healthcare level and detect‐
+ing asymptomatic cases.  This  would  facilitate  an  appropriate
+treatment,  a  prompt  isolation and consequently deceleration of
+the pandemic. Various laboratory tests can identify  the  genetic
+material of SARS‐CoV‐2 that causes COVID‐19 in specimens, or spe‐
+cific anti‐viral antibodies in blood/serum. Due  to  the  current
+pandemic  situation,  a  development of point‐of‐care diagnostics
+(POCD) allows us to substantially accelerate taking clinical  de‐
+cisions  and implement compares the available POCD and those cur‐
+rently under development, including  quantitative  reverse  tran‐
+scription PCR (RT‐qPCR), serology immunoassays (SIAs) and protein
+microarray method (PMM) designed for standard and rapid  COVID‐19
+diagnosis.   Keywords:  COVID‐19; SARS‐CoV‐2; in vitro diagnostic
+tests; RT‐qPCR; serology immunoassays  Coronavirus  Disease  2019
+(COVID‐19), caused by the novel coronavirus Severe Acute Respira‐
+tory  Syndrome  Coronavirus  2  (SARS‐CoV‐2,  formerly  known  as
+2019‐nCoV), appeared in China for the first time, and subsequent‐
+ly spread worldwide [1,2]. On 30 January 2020, the  World  Health
+Organization (WHO) officially announced the COVID‐19 epidemics as
+a threat to public health internationally, and  subsequently,  in
+March  2020,  the  global  situation  escalated into the COVID‐19
+427,000 deaths as of 13 June 2020 [3]. As a result of this rapid‐
+ly progressing COVID‐19 pandemic and the limited laboratory‐based
+molecular testing capacities, new point‐of‐care  (POC),  scalable
+rapid diagnostic tests have been invented recently as easy‐to‐use
+tools to allow COVID‐19 diagnostics outside  of  laboratory  set‐
+tings.  What  is  more,  the  urgent need to multiply testing for
+COVID‐19 has been clearly identified as an essential  element  of
+the anti‐coronavirus strategy all over the world.  The diagnostic
+sensitivity,  specificity  and  accuracy   concerning   suspected
+COVID‐19  infection,  based on controlled testing and performance
+data from clinical settings, is of substantial importance in  the
+context  of  limiting the scope of coronavirus epidemics. Unreli‐
+able and unproved tests may not detect patients with  active  in‐
+fection or may incorrectly indicate COVID‐19‐negative patients as
+positive, hampering healthcare efforts. The diagnostic laboratory
+and  point‐of‐care  tests  (POCTs)  used in order to detect SARS‐
+CoV‐2 are, first of all, reference tests based on molecular tech‐
+nique  real‐time  quantitative  reverse  transcriptase polymerase
+chain reaction assay (RT‐qPCR) as well as  serological  antibody‐
+detecting and antigen‐detecting tests, for auxiliary purposes. At
+present, only molecular quantitative  reverse  transcription  PCR
+(RT‐qPCR) testing of respiratory tract samples is the recommended
+method for the  identification  and  laboratory  confirmation  of
+COVID‐19 cases, as these methods were evaluated for their quality
+and safety through the World Health Organization (WHO)  protocols
+[4,5].  On  the other hand, based on current scientific evidence,
+WHO recommends the use of POC immunodiagnostic tests for research
+purposes and, at present, they should not be utilized in a clini‐
+cal decision‐making setting and in patient care until fully vali‐
+dated,  with supporting data available. However, they can be use‐
+ful in epidemiologic research or disease surveillance and further
+evolve  as a critical step to develop COVID‐19 vaccine in future.
+At the time of increased demand  for  hospital  services,  clini‐
+cians, governments and health services urgently need a fast, sen‐
+sitive, but at the same time inexpensive diagnostic test, in  or‐
+der to rapidly manage patients, regarding admissions to hospitals
+meant for COVID‐19 treatment. Therefore, the role of an  approved
+and  reliable  diagnostic test in the COVID‐19 care pathway is of
+the utmost importance.  As in the case of other  infectious  dis‐
+eases,  the RT‐qPCR method, as well as serological tests, Genetic
+assay based on the RT‐qPCR technique, performed in real time, es‐
+pecially  plays  a  role  at the early stages of viral infection,
+when the virus multiplies quickly, as this technique enables  di‐
+rect detection of the pathogens genetic material. A different ap‐
+proach in diagnosing  infection  is  represented  by  serological
+methods,  based  on detectingin blood serumof antibodies that act
+specifically against viral proteins, which are  produced  in  re‐
+sponse  to  SARS‐CoV‐2.  Serological  IVD tests detect antibodies
+which are responsible for neutralizing the virus; therefore, this
+implies  that  they  are  used  when  the  immunological reaction
+against SARS‐CoV‐2 virus is already taking place. These IVD  mea‐
+sures can of subjects who already developed immunity. The results
+of serological IVD tests should not be used as basis for diagnos‐
+ing, ruling out infection with SARS‐CoV‐2, or informing about in‐
+fection status [6].  The relatively quick discovery of the compo‐
+sition  of  the  full  genome of SARS‐CoV‐2 early during the epi‐
+demics made it easier to develop specific starters and normalized
+laboratory  protocols for COVID‐19. The protocol of the first RT‐
+qPCR test, focused on RNA‐dependent RNA polymerase end of January
+2020.  Providing a brief description, the novel coronavirus SARS‐
+CoV‐2 is equipped with a receptor‐binding domain (RBD), a  struc‐
+ture  similar to the original SARS‐CoV that emerged for the first
+time in 2002. Functionally important ORFs (1a and 1b)  and  other
+main  structural proteins, including the spike (S), membrane (M),
+envelope (E), and nucleocapsid (N) proteins, are also well inter‐
+related and clearly annotated. According to previous reports, the
+M and E proteins are essential for virus assembly,  while  the  S
+protein  is crucial for affinity and attachment to host cells, as
+the RBD of the S protein enables  binding  with  angiotensin‐con‐
+verting  enzyme 2 (ACE2). The S protein on the structural protein
+of SARS‐CoV‐2 is responsible for the transcription  and  replica‐
+tion  of viral RNA, the packaging of the encapsulated genome into
+virions, and interactions with the cell cycle of host cells.   In
+addition,  coronaviruses  contain the N protein, which has a sub‐
+stantial immunogenic ability and antigens  for  serodiagnosis  of
+COVID‐19,  similarly to other diagnostic methods that were imple‐
+mented for diagnosing SARS disease, based on  S/N  proteins  [7].
+PCR COVID‐19 COVID‐19 genetic spike spike sequences of on [8]).on
+[8]).  or nucleocapsid Validated COVID‐19 COVID‐19  Diagnosis  At
+present, is going on worldwide which will At present, is going on
+worldwide to to will simplify speed up tests, with further await‐
+ing the completion of the and and Drug with further of the proce‐
+dure Food and Administration (FDA) or In Vitro Diagnostics  (IVD)
+certificate  to  be issued. It is worth noting that a (FDA) or In
+Vitro Diagnostics (IVD) certificate to be  issued.  It  is  worth
+noting  that  a large portion of large portion of available tests
+are provided merely with the Research Use Only (RUO) certificate,
+available  tests  are  provided merely with the Research Use Only
+(RUO) certificate, which in fact does which in fact does not  im‐
+ply anything concerning test quality or its validation. More rig‐
+orous tests not imply test quality or with  its  validation.   to
+products  to productsconcerning certified as IVD, the ISO13485 In
+addition, as IVD, In addition, IVD they  to  local  to  local  CE
+marking  in  Europe, and hence as CE of in Europe, and hence with
+Directive the European and of of 27 October 1998 on in  vitro  of
+medical  devices,  of clinical the European and of of evaluation,
+1998 on in SARSwith an extensive evaluation, including the  vali‐
+dation  of  clinical samples.  in the with COVID‐19 symptoms, by‐
+ofdetecting genetic tests collected are meant for the and differ‐
+entiation  in the material/specimens collected from patients with
+COVID‐19 symptoms, by detecting specimens (sputum, tracheal aspi‐
+rate  or  bronchoalveolar  lavage, swabs from nasopharynx and se‐
+quences unique for SARS‐CoV‐2. The genetic material of the  virus
+is  extracted from specimens pharynx, blood, urine, or stool) and
+amplified by means of the PCR technique in real  time,  with  the
+(sputum,  tracheal aspirate or bronchoalveolar lavage, swabs from
+nasopharynx and pharynx,  blood,  use  of  reverse  transcription
+(RT),  and  detected by means of fluorescent reporter probes spe‐
+cific to or stool) and amplified by means of the PCR technique in
+real time, with the use of reverse of fluorescent At present, RT‐
+qPCR in the worldreporter market, which meant to  ORF1ab,  [8,9].
+tests are in the worldThose to detect E, present, N, or S gene in
+various and E, N, test protocol is complex and costly, for large,
+or  S  gene  tests differ Tests usually h, yet the logistic time.
+diagnostic The test protocol is complex and  costly,  for  large,
+concerning  laboratories. Tests usually take 46 h, yet the logis‐
+tic requirements concerning sending clinical  with  WHOtime  that
+execution  is  24 h at the most [10].tests must enable the detec‐
+tion of three genes in a single reaction: E  gene,  N  gene,  and
+RdRP  gene.  This  allows us to detect viruses from the In accor‐
+dance with WHO recommendations, RT‐qPCR tests must enable the de‐
+tection  of  three beta‐coronavirus group (E gene), as well as to
+identify SARS‐CoV‐2 virus (N gene and RdRP, ORF1ab).  in a  asin‐
+gle  reaction:  E  gene, N gene, and RdRP gene. This allows us to
+detect viruses from the design guarantees double confirmation  in
+cases  of infection, it also limits the risk of obtaining as well
+asonly to identify gene and false negativegroup in  case  of  de‐
+tecting one targetSARS‐CoV‐2 for SARS‐CoV‐2.  Such of a design in
+cases of infection, it also of obtaining doubtful results,  which
+case  the of verification false negative in dedicated case of de‐
+tecting only one to SARS‐CoV‐2 is presented in reduces of obtain‐
+ing doubtful results, in which case the necessity of verification
+occurs [11]. A comparison Name of the Kit ORF1ab RdRP Manual test
+1copy  COVID‐19  qPCR  Kit  AB ANALITICA srl ADT Biotech LyteStar
+2019‐nCoV RT‐PCR altona Diagnostics  RealStar  SARS‐CoV‐2  RT‐PCR
+USA  EUA; CE‐IVD Atila Biosystems BIOMAXIMA S.A.  COVID Detection
+SARS‐CoV‐2 Real Time PCR USA EUA USA EUA; CE‐IVD;  RUO  AccuPower
+SARS‐CoV‐2 Real‐Time RT‐PCR BGI Health (HK) Real‐time fluorescent
+RT‐PCR USA EUA; CE‐IVD; Canada CerTest Biotec, S.L VIASURE  SARS‐
+CoV‐2  Real Time PCR Kit CerTest Biotec, S.L VIASURE SARS‐CoV‐2 S
+gene Real Time PCR Kit Logix Smart Coronavirus CTK Biotech,  Inc.
+Aridia COVID‐19 Real Time PCR Test DAAN Gene Co Detection Kit for
+2019 Novel CE‐IVD; China Edinburgh  Genetics  COVID‐19  Real‐time
+PCR Testing Kit CE‐IVD; China FDA Gencurix Inc.  GenePro COVID‐19
+Detection Genomictree, Inc.  AccuraTect RT‐qPCR KH  Medical  RADI
+COVID‐19  Detection  Kit Real‐Time PCR Kit SrongStep Novel Coron‐
+avirus  PerkinElmer  Inc.   Realtime   RT‐PCR   CE‐IVD;   WHO‐EUL
+Primerdesign  Ltd.   COVID‐19 genesig Real‐Time PCR assay CE‐IVD;
+USA EUA;WHO R‐Biopharm AG RIDA GENE SARS‐CoV‐2 SD BIOSENSOR  Inc.
+STANDARD  M  nCoV Real‐Time Detection Kit CE‐IVD; USA EUA; Brazil
+TIB/Roche Diagn.  LightMix  Modular  SARS‐CoV‐2  TIB/Roche  Diagn
+LightMix  Modular  SARS‐CoV‐2  TIB/Roche  Diagn  LightMix Modular
+SARS‐CoV‐2 SD BIOSENSOR STANDARD M nCoV Real‐Time  Detection  kit
+USA  EUA;  CE‐IVD;  Brazil Seegene, Inc.  Allplex 2019‐nCoV assay
+USA EUA; CE‐IVD; Canada Sansure  Biotech  Inc  Novel  Coronavirus
+(2019‐nCoV)  Nucleic  Acid  USA  EUA;  CE‐IVD; China Sente Biolab
+COVID‐19 qRT PCR Detection Shanghai  ZJ  Liferiver  Novel  Coron‐
+avirus  Multiplex  RT‐PCR CE‐IVD, China FDA Thermo Fisher TaqPath
+COVID‐19 CE‐IVD RT‐PCR Kit Name of the Kit DMed 2019‐nCoV RT‐qPCR
+Detection Kit US FDACE‐IVD Abbott Molecular Abbott RealTime SARS‐
+CoV‐2 EUA test US FDACE‐IVD Xpert Xpress  SARS‐CoV‐2  US  FDA‐EUA
+ORF1ab  RdRP  Automated  Lab‐based, near‐POC NAT or POC NAT Roche
+Molecular US FDAWHO EUL Sente Biolab Senteligo COVID‐19  qRT  PCR
+Detection  Kit Solgent Co.Ltd DiaPlexQ Novel Coronavirus Star Ar‐
+ray Ptd. Ltd.  8‐min RT‐qPCR direct PCR VereCoV Detection Kit and
+The  standard protocol with the application of the RT‐qPCR method
+is demanding and time‐consuming. For that reason, scientists con‐
+stantly strive to invent more up to date modifications of the RT‐
+qPCR tests, which would cut down the time required  for  analyses
+[13].   Bosch Healthcare Solutions announced that they had devel‐
+oped a quick test, which may provide the results in 2.5 h; it  is
+a  fast testing kit for the Vivalytic platform. It is a fully au‐
+tomated PCR test, which is performed by simply inserting the swab
+into  a cartridge, which is subsequently analyzed by the machine.
+This universal platform  for  molecular  laboratory  diagnostics,
+with the option for various samples testing and different analyt‐
+ical methods, can be carried out as an  entirely  automated  mode
+within  a  short  time. Unfortunately, the equipment has not been
+available for many healthcare institutions yet, and the  diagnos‐
+tic cartridges are dedicated solely to the specific analyzing de‐
+vice [14].  BioMaxima has invented a test whose  main  advantages
+include  a  short  waiting time; the results can be obtained in a
+mere 2 h. Moreover, the analytical sensitivity of the test, being
+at  the  level  of  10 RNA copies per reaction, is higher than in
+other comparable systems. It seems important that  the  molecular
+test kit contains reagents with substantially enhanced stability,
+which allows us to transport it safely and store it at room  tem‐
+perature,  whereas  many other tests available on the market need
+to be stored in a freezer and to be transported in dry ice. Stor‐
+ing  such reagents, even for a short time, in conditions that de‐
+viate from those indicated is risky and may result in  generating
+false  negative  test  results [15].  sensitive than the previous
+ones and it implies the possibility of examining patients at ear‐
+lier  stages,  reacting  more quickly, and effectively preventing
+the spread of coronavirus. This new  test  for  diagnosing  SARS‐
+CoV‐2  provides  rapid results within 30 min, whereas the fastest
+current methods that concentrate on viral RNA give results in 1.5
+to  2  h,  i.e.,  three  times faster than the presently quickest
+testing methods, and which requires the application of relatively
+simple technical devices. Apart from those advantages, the scien‐
+tists responsible for the tests development  claim  that  it  may
+even  help  detect  patients infected with coronavirus at earlier
+stages, in comparison with current methods, while its results can
+be  read  with the naked eye, which makes it more available for a
+wider spectrum of healthcare units and  specialists.  This  fast‐
+molecular  test  has been recently registered by the FDA and uti‐
+lizes a diagnostic system, which,  in  recent  years,  proved  to
+function  perfectly  in diagnosing multiple infections (including
+Hepatitis C VirusHCV and influenza) [16]. RNA  detection  may  be
+performed by means of RT‐qPCR or reverse transcriptionloop ampli‐
+fication (RTLAMP). A standard RT‐qPCR test takes 90 to 120 min on
+average  to  test a set of samples, whereas LAMP may be completed
+in 30 min. Indirect isothermal amplification  (LAMP)  is  a  fast
+technology  of  DNA amplification, which is applied in the detec‐
+tion of pathogens such as viruses or bacteria. LAMP reaction usu‐
+ally  takes place at constant temperature, and the target DNA may
+be amplified in 30 min. LAMP method utilizes four or six starters
+for  binding six regions of target DNA, its specificity is excep‐
+tionally high. Because SARS‐CoV‐2 is  a  RNA‐type  virus  with  a
+length  of  some 30 kb, a single reverse transcriptase (RT) reac‐
+tion and LAMP may, jointly, significantly  shorten  the  reaction
+time,  omitting  the  stage  of purifying cDNA from reverse tran‐
+scriptase, and thanks to this, SARS‐CoV‐2 may be quickly  detect‐
+ed.  It has to be noted that similarly, a one‐step RT‐qPCR method
+does not require cDNA purification (a single six starters in each
+set/kit)  focused  on  viral  RNA of SARS‐CoV‐2 in the regions of
+ORF1ab, S gene, and N gene. For the interpretation of results,  a
+colorimetric  method  has been applied, which enables the reading
+of the results of viral RNA amplification by the naked eye, with‐
+out  the  necessity  of  using expensive equipment. Moreover, the
+sensitivity of the method may be 80 copies of viral RNA per 1  mL
+in  the sample and single stage process (without separate RNA ex‐
+traction), which enables the amplification of RNA  directly  from
+the sample [17,18].  Performing examinations with the use of fast
+molecular tests may be particularly useful in  Emergency  Depart‐
+ments  and  admission  rooms.  POCTs  are  needed to speed up the
+process of taking clinical decisions and  decrease  the  workload
+for  centralized  testing laboratories [16]. POCT means that test
+results are instantly delivered in  the  patient  care  settings,
+such  as  hospitals, urgent care centers and emergency rooms, in‐
+stead of the use of expensive and time‐consuming laboratory  pro‐
+cesses.   Additionally,  the American company Cepheid developed a
+quick test which, as they declare, takes 45 min, while the  Dutch
+pharmacists  owning  Qiagen developed a 1‐h test. The US Food and
+Drug diagnostics, Xpert Xpress SARS‐CoV‐2, according to a  state‐
+ment  from the agency. The test was designed to provide detection
+of novel coronavirus within a short period of 45 min, using spec‐
+imens  from  a  nasopharyngeal swab, nasal wash/aspirate. Another
+POCT, the Xpert Xpress SARS‐CoV‐2 test cartridge is dedicated  to
+detecting  SARS‐CoV‐2 nucleic acid utilizing RT‐qPCR and does not
+require the use of reagents. In the contrary, the GeneXpert  Sys‐
+tem needs the test to be run in a CLIA‐approved laboratory (Clin‐
+ical Laboratory Improvement Amendments) or in a selection of  pa‐
+tient  care settings [19].  It is equally important to understand
+that RT‐qPCR tests have also certain limitations.  They  are  the
+most  useful in case of positive results, although they appear to
+have less diagnostic value in situations when  COVID‐19  must  be
+ruled out. Negative RT‐qPCR test results do not necessarily indi‐
+cate that person has not contracted  an  infectious  disease,  as
+other  individual factors also need to be considered, such as ex‐
+posure risk and potential laboratory errors. The  false  negative
+results  may occur if the sample has not been properly collected,
+transported, or handled/treated, or as a result of  the  improper
+extraction of nucleic acid from clinical materials [9]. Moreover,
+the false positive results can be related to the situation  where
+the  sample  contains inhibitors of amplification, or an insuffi‐
+cient amount of virus molecules. On the contrary, a  false  posi‐
+tive  result  may be due to the cross‐contamination of the sample
+during its handling or preparation, or between  patient  samples.
+What is more, the influence of vaccines, antiviral drugs, antibi‐
+otics, chemotherapeutic agents, or  immunosuppressive  drugs  has
+not been taken into consideration. Moreover, the set/kit does not
+exclude diseases caused by other bacterial  or  viral  pathogens.
+The  negative  results do not exclude infection and should not be
+the sole basis for patients treatment. Test  results  when  using
+the  kit  serve  clinical  purposes  only. Clinical diagnosis and
+treatment of patients should be considered  in  conjunction  with
+the  manifestations  and  symptoms,  medical history, response to
+treatment or other laboratory tests [9]. In general,  the  sensi‐
+tivity  of  this  molecular method may vary depending on specimen
+collection  (broncho‐alveolar  lavage,  sputum,  nasal  swabs  or
+throat  swabs) and, what is more, the accuracy depends upon stage
+of infection, the rate of SARS‐CoV‐2 multiplication, and also the
+degree  of  clearance.  Interestingly, the provided values of RT‐
+qPCR accuracies seem to be higher for in vitro validation by uti‐
+lizing  SARS‐CoV‐2‐dedicated  primers and cultures in highly con‐
+trolled laboratory settings [20].  It is assumed that the optimal
+outcome  and clear‐cut diagnostic gold standard might depend upon
+the development of hybrid assays in order to minimize  the  frac‐
+tion  of  false negative results.  The enhanced RT‐qPCR test com‐
+bined with serological immunoassays (either antibody‐detecting or
+antigen‐detecting),  would  bring  an additional diagnostic value
+for accurate and quick COVID‐19 diagnosis in  vitro  diagnostics,
+when  the  human body reacts to an infectious bio‐stimulant [21].
+Evaluation of Molecular RT‐qPCR Tests that Detect the RNA Nucleic
+Acid of SARS‐CoV‐2 The progress made in recent years in the diag‐
+nostics of infections enables the application,  often  simultane‐
+ously, of numerous methods in order to detect respiratory viruses
+effectively. The choice patient population to be tested, as  well
+as  the  technical  abilities and experience of the testing unit.
+The validation of RT‐qPCR tests seems to be an important step  in
+combating  the  new coronavirus.  One of the most significant pa‐
+rameters regarding the efficiency of the diagnostic procedure  is
+most  probably  the one related to the minimum amount of analyte,
+which may be detected and quantitatively determine by means of  a
+particular  test.  The parameters describing those properties are
+known as limit of detection (LoD)  and  limit  of  quantification
+(LoQ).  In  many  laboratories,  LoD is used interchangeably with
+sensitivity, analytical  sensitivity,  or/and  detection  limit..
+This may be misleading, though, as sensitivity is also understood
+and used in other ways.  Sensitivity  and  clinical  (diagnostic)
+specificity  are two different parameters. Diagnostic sensitivity
+is the proportion of true positive results to  the  sum  of  true
+positive  and  true negative results. A sensitivity ratio of 100%
+implies that all the sick people have been identified. The speci‐
+ficity  of  a  test is the proportion of true negative results to
+the sum of true negative and false positive ones. The specificity
+of 100% implies that all healthy people in a given test have been
+correctly identified as healthy/not having the condition.   still
+one  can notice differences in analytical sensitivity of the test
+(LOD). The vast majority of molecular tests kits  contain  a  so‐
+called  internal positive control (IPC), that can be utilized ei‐
+ther as an extraction control or internal control. The IPC is es‐
+sential  for  an evaluation of whether the genetical material ex‐
+traction procedure and amplification stage were carried out  cor‐
+rectly.  The  failure  in IPC detection using a patients specimen
+may indicate the improper extraction of nucleic acid from  clini‐
+cal  material as a consequence of nucleic acid loss or the trans‐
+position of PCR inhibitors and the lack of sufficient  biological
+material  in the collected sample. It needs to be noted that many
+molecular tests may not here that detect the  RNA  of  SARS‐CoV‐2
+contain IPC.  Another important factor which describes a diagnos‐
+tic test is the analytical specificity. It is the  ability  of  a
+test  to  detect a specific target, e.g., a virus. It is of great
+importance to check whether the starters used  in  PCR  test  are
+specific to a given virus. There are two components of analytical
+sensitivity: cross‐reactivity and interference.  Cross‐reactivity
+may occur if, in a sample collected from a patient, there are or‐
+ganisms which are genetically related that imitate the virus ana‐
+lysed,  from  the perspective of cross‐reactivity; unfortunately,
+that analysis is selective and does not concern the  same  micro‐
+organisms.   Name  of the Kit Limit of Detection LOD altona Diag‐
+nostics RealStar SARS‐CoV‐2 RT‐PCR Atila BioSystems  Inc.   Atila
+iAMP COVID‐19 Detection BGI Health (HK) Co. Ltd.  Real‐time Fluo‐
+rescent RT‐PCR kit for ARGENE SARS‐COV‐2 R‐GENE SARS‐CoV‐2  Real‐
+Time  RT‐PCR  Kit Boditech Med. Inc.  ExAmplar COVID‐19 real‐time
+PCR kit (L) CerTest Biotec VIASURE SARS‐CoV‐2 Real Time  PCR  De‐
+tection  Kit Detection Kit for 2019 Novel Coronavirus (2019‐nCoV)
+RNA EURORealTime SARS‐CoV‐2 DAAN Gene Co.  Ltd.   GeneFirst  Ltd.
+KH  Medical  Co.  Ltd.   Primerdesign Ltd.  The Novel Coronavirus
+(2019‐nCoV) Nucleic Acid Test Kit  RADI  COVID‐19  Detection  Kit
+Coronavirus  COVID‐19  Real‐Time PCR assay GENE SARS‐CoV‐2 RUO SD
+Biosensor Inc.  STANDARD M nCoV Real‐Time Detection  Kit  Seegene
+Inc.   Allplex  2019‐nCoV  Assay R‐Biopharm AG Shanghai Kehua KHB
+Diagnostic kit for SARS‐CoV‐2 Nucleic Acid  (Real‐time  PCR)  Tib
+Molbiol  ModularDx  Kit SARS‐CoV (COVID19) E‐gene (Tib Molbiol) +
+LightCycler Multiplex RNA Virus Vela  Diagnostics  ViroKey  SARS‐
+CoV‐2  RT‐PCR  Test  Name  of  Test Human coronavirus NL 63 Human
+coronavirus OC229E Human coronavirus OC43 Human coronavirus  HKU1
+Human Metapneumovirus Parainfluenza virus 1 Parainfluenza virus 2
+Parainfluenza virus 3 Parainfluenza virus 4 Influenza A virus In‐
+fluenza  B  Virus  Enterovirus (e.g., EV68) Respiratory syncytial
+virus  A  Respiratory  syncytial  virus  B  Chlamydia  pneumoniae
+Hemophilus influenzae Legionella pneumophila Mycobacterium tuber‐
+culosis Streptococcus pneumoniae Streptococcus pyogenes Bordetel‐
+la  parapertussis  Bordetella bronchiseptica Bordetella pertussis
+Mycoplasma pneumoniae Pneumocystis jirovecii (PJP) Candida  albi‐
+cans Pseudomonas aeruginosa Staphylococcus epidermis Staphylococ‐
+cus salivarius Staphylococcus aureus Human immunodeficiency virus
+type  1,2  Hepatitis virus (A, B, C) Logix Smart PCR Testing qPCR
+Kit RT‐PCR Kit Biotec, S.L SD BIOSENSOR Bio‐Products  PerkinElmer
+SARS‐CoV‐2  STANDARD  M  Detection Kit Inc. Allplex Combo Kit EUA
+test Xpert Xpress No data available (nd);  does  not  cross‐react
+with  analyzed  pathogen  (‐).  3. Emerged Rapid Immunodiagnostic
+(Serology Immunoassays) Tests Immunological methods are, most of‐
+ten,  the chemiluminescent assaying of immunoglobulin IgG and IgM
+for SARS‐CoV‐2 from blood on an analyzer, or immunochromatograph‐
+ic assessment in the form of rapid POCTs, not requiring addition‐
+al equipment. The methods of detecting  anti‐SARS‐CoV‐2  antibod‐
+ies, despite the ongoing research to develop them further, may or
+even should be applied during the coronavirus epidemics  [22,23].
+After  about  a  week from the first clinical manifestations, the
+sensitivity of molecular diagnostics (PCR)  diminishes  gradually
+for  SARS‐CoV‐2  infections,  due to have false negative results,
+despite the ongoing infection.   3.1.  Lateral  Flow  Immunoassay
+Among  the  many contemporary technologies available, special at‐
+tention should be paid to rapid lateral flow immunoassay  (LFIA),
+also referred to as immunochromatographic tests. Perhaps they are
+not so much appreciated in the scientific community as PCR  meth‐
+ods  or  Enzyme‐Linked Immunosorbent Assay (ELISA tests), despite
+the fact that they do find application in  diagnostics  more  and
+more  often.  They differ, depending on the type of test, but the
+basic principle of their action is invariably the  samethey  make
+use  of  the unique property that antibodies possess, that of un‐
+complicated and relatively inexpensive tool meant  for  detecting
+the  presence  (or  absence) of a given component in the examined
+specimen, such as the presence of a virus in  an  analyzed  blood
+sample.   Examination with the use of those tests is possible for
+various types of test materialwhole human  blood,  blood  plasma,
+serum,  stool,  urine,  sweat, cerebrospinal fluid, or even tears
+[9]. The test principle is based on an immunological method,  us‐
+ing  specific  antibodies,  most  often in complex with colloidal
+gold, where a drop of the examined substance  first  moves  along
+the  nitrocellulose membrane using capillary phenomena. After the
+sample is absorbed by the membrane, the antigen (should the  test
+prove to be positive) binds to the colloidal gold complex and re‐
+spective antibodies. Consequently, the effect of that reaction is
+the  formation  of a complex, which will be detected by the test.
+The interpretation of results consists of confirmation or  ruling
+out  of the presence of antigens in the examined sample, based on
+color test strips that appear in the test [21,22]. The brief com‐
+parison  of  advantages  and  Short reaction time for most tests,
+amounting to 520 min Suboptimal sensitivity, results often  false
+negative, particularly during enhanced activity of the virus per‐
+formed in outpatient clinics or at patients  bed.   Despite  sub‐
+stantial  specificity  sometimes  the results are false negative,
+particularly when the virus is not much active.  Reading most of‐
+ten  possible with naked eye.  It is necessary to verify positive
+or doubtful results.  Small amount of material to  be  collected,
+variety of material.  Increased risk of operator becoming infect‐
+ed best before date distant (usually 18 months from manufacturing
+date)  At present, most immunoenzymatic tests available are based
+on the immunochromatic technique.  The difference  between  those
+tests depends upon the molecule assayed (p/c or antigens), struc‐
+ture, performance time, and diagnostic material. It may  be  sup‐
+posed that, in future, rapid tests will enable easier and quicker
+diagnostics of many diseases, without the necessity of performing
+tedious and complicated procedures. This would reduce the waiting
+time for obtaining results, and accelerate  3.2.  Immunoenzymatic
+and  Immunofluorimetric  Assays  The  detection of specific SARS‐
+CoV‐2 serum antibodies allows for a  rapid,  cost‐effective,  and
+reasonably  sensitive  clinical  diagnosis  of  COVID‐19,  as im‐
+munoglobulins such as IgM provide the  initial  humoral  response
+during  the first stage of viral infection, prior to the onset of
+the adaptive, high‐affinity IgG response essential for  long‐term
+immunological  memory.  Research indicates that after SARS infec‐
+tion, antibodies of the IgM class may  be  detected  in  patients
+blood  about 6 days after the infection, while IgG may be already
+detected after 8 days. As SARS‐CoV‐2 belongs to  the  same  large
+family  of viruses, which includes those causing Middle East Res‐
+piratory Syndrome (MERS) and Severe  Acute  Respiratory  Syndrome
+(SARS),  it should be assumed that the process of producing anti‐
+bodies will be similar to that in case of other viruses belonging
+to that family, while the detection of IgG antibodies and IgM an‐
+tibodies acting against SARS‐CoV‐2 may be an indication of infec‐
+tion. Moreover, the detection of IgM antibodies usually indicates
+a recent exposure to SARS‐CoV‐2, whereas the detection of IgG an‐
+tibodies in case of COVID‐19 indicates exposure to the virus some
+time ago [30].  Serological tests, detecting solely the IgM class
+of  antibodies, should find applications for diagnostic purposes.
+When using tests which detect both IgM and  IgG  antibodies,  one
+should  remember  that  a  from  serological tests do not exclude
+SARS‐CoV‐2 infection, as the window period (delay in the  produc‐
+tion of antibodies) may exceed 7 days. Serological tests may also
+give false positive results.  This may be the case of past or on‐
+going infection with virus strains other than SARS‐CoV‐2, such as
+coronavirus HKU1, NL63, OC43, or 229E. Moreover, the first  tests
+assessing  the  titer of IgA class antibodies have been launched,
+which, from the perspective of immunology, is of  extreme  impor‐
+tance,  as  it provides the possibility of testing for antibodies
+in a material other than blood samples collected  from  patients,
+e.g., respiratory tract secretions.  Type of Test Phase of Infec‐
+tion The window period for a test designed to detect  a  specific
+disease  Early  stage of infection Active phase of infection Late
+or recurrent stage of infection Early stage of infection. PCR re‐
+sult  may  be false negative * Past infection (recover) * The re‐
+covery stage of infection, or PCR result may be false negative  *
+No infection and no special symptoms P(+)positive; N()negative. *
+Human coronaviruses (HCoV) OC43, 229E, NL63, and HKU1  may  cause
+false positive ELISA results.  Serological tests are thus applied
+as an adjunctive method, for monitoring the epidemiological situ‐
+ation,  yet they may be performed faster and are less costly than
+genetic tests. This diagnostic method has a limited  sensitivity,
+yet  efforts to improve it are ongoing, as it is useful for moni‐
+toring the infection. Due to insufficient data concerning,  among
+others,  the  dynamics of immunological response to infection and
+the diagnostic value of available tests for detecting IgM and IgG
+class  antibodies  (comprising sensitivity, specificity, positive
+and negative predictive value), in  many  countries,  it  is  im‐
+munochromatographic  tests  for  SARS‐CoV‐2 based on sensitivity,
+specificity, sample type and test performance time.   Diagnostics
+2020, 10, x FOR PEER REVIEW of the selected immunochromatographic
+tests for SARS‐CoV‐2 based on  sensitivity,  specificity,  sample
+type  and  test  performance time.  manufacturers specification).
+IgG/IgM Rapid Test Cassette COVID‐19 IgMIgG Rapid Test RAPID TEST
+Tianjin Beroni IgG/IgM Antibody Detection Kit Test name of Coron‐
+avirus Disease 2019 (COVID‐19) serological  tests,  including  to
+manufacturers Clinical Specificity Clinical Sensitivity Test Name
+Clinical Specificity Clinical Sensitivity IgM Sensitivity  Clini‐
+cal Specificity IgM Clinical Sensitivity IgG Specificity Clinical
+Specificity IgG Clinical Sensitivity Positive Clinical Specifici‐
+tyValue at prevalence = Positive Predictive at or IgG) or IgG) at
+prevalence Negative Predictive or IgG) or IgG) IgG/IgM Rapid Test
+Cassette  IgM‐IgG  Rapid Test kit Tianjin Beroni IgG/IgM Antibody
+Detection Kit In serological IVD, the so‐called window period  is
+of  much importancethat is, the time when specific antibodies are
+notimmunochromatographic In the phase of  an  based  of  selected
+production  of  antibodies is initiated, but their level is still
+low, and thus test results may prove  negative.   Anti‐SARS‐CoV‐2
+antibodies  appear  quite  late,  i.e., a few days after clinical
+manifestations, which is serological tests cannot be  used  as  a
+basic tool in diagnosing SARS‐CoV‐2 infections [32].  of selected
+immunochromatographic tests for SARS‐CoV‐2 based onSample  speci‐
+ficity,  Accu‐Tell  sample  type 10 L of whole blood, AccuBioTech
+Co. Ltd.  to manufacturers serum or plasma Test Cassette  AllTest
+Biotech Hangzhou AccuBioTech Co.Rapid Test Cassette IgG/IgM Rapid
+Test Rapid Test Aytu Bioscience Rapid Tes COVID‐19 IgM‐IgG BioMe‐
+domics,  Inc  Dual Antibody BIOMAXIMA S.A.  Rapid Test Rapid Test
+Cassette Cellex Inc.  Changsha Sinocare Inc.  IgG / IgM Test Cas‐
+sette  Aytu  BioscienceAllTest  Biotech  BIOMAXIMA  S.A.   Cellex
+qSARS‐CoV‐2 IgG/IgM Cassette Rapid Test SARS‐CoV‐2 Antibody  Test
+Strip  95.0% Whole blood (Colloidal Gold Method) Sample size 10 L
+of serum or plasma IgM 96% 10 L of whole of fingertip serum or or
+whole  blood 10 L of serum orof serum plasma or plasma L of whole
+blood blood or whole blood 1020 L whole blood, 5 L  of  serum  or
+serum  or plasma 10 L of whole blood 1020 L whole blood, serum or
+plasma blood, serum or IgG IgM 10 L whole blood, serum or  plasma
+99.2%  Whole  blood  10  L  of  whole  blood, serum or plasma CTK
+Biotech OnSite COVID‐19 IgG/IgM Rapid Tes  1015  L  of  serum  or
+plasma  Edinburgh Genetics Limited Watmind 2019 nCoV novel coron‐
+avirus detection reagent 10 L of serum or plasma; 20 L of finger‐
+tip  blood or whole blood Getein Biotech, Inc.  One Step Test for
+Novel Coronavirus IgM/IgG Antibody 10 L of serum or plasma; 20  L
+of  fingertip  blood  or  whole  blood  Goldsite Diagnostics Inc.
+SARS‐CoV‐2 IgG/IgM 30 L of whole blood Hangzhou  Biotest  Biotech
+COVID‐19  IgG/IgM  Rapid Test Cassette 10 L of whole blood, serum
+or plasma Hunan Lituo Biotechnology  COVID‐19  IgG/IgM  Detection
+Kit  InTec  Products, Inc.  Rapid SARS‐CoV‐2 Antibody Test IgG or
+Ig Mor IgG/IgM 10 L  of  sample  Liming  Bio‐Products  Co.,  Ltd.
+COVID‐19 IgG/IgM Combo Rapid Test Device 10 L of serum or plasma;
+20 L of whole blood Sample Size Livzon Diagnostic Diagnostic  Kit
+for  IgM/IgG  Antibody  to 10 L of serum or plasma; 20 L of whole
+blood nal von minden GmbH NADAL COVID‐19 IgG/IgM  Test  10  L  of
+whole blood, serum or plasma Nanjing Vazyme Medical Tech.  Detec‐
+tion Kit 20 L of whole blood, serum  or  plasma  PRIMA  Lab  S.A.
+PRIMA  COVID‐19 IgG/IgM Rapid Test (For Professional Use) 10 L of
+serum or plasma; 20 L of fingertip blood or  whole  blood  Sugen‐
+tech,  Inc  SGTi‐flex  COVID‐19  10  L  whole blood Sensing Self,
+COVID‐19 Rapid IgG/IgM combined Antibody assay IgM 92%  IgG  100%
+20 L of fingertip blood or whole blood Xiamen AmonMed Biotechnol‐
+ogy COVID‐19 IgM/IgG test kit Coris BioConcept COVID‐19 Ag  Rapi‐
+GEN,  Inc.  COVID‐19 Ag SD BIOSENSOR, STANDARD Q COVID‐19 Ag Test
+VivaChek Laboratories, COVID‐19 IgM/IgG Rapid Test IgM  and  IgG:
+97.1%  10  L  of  whole  blood,  serum  or plasma Qingdao Hightop
+Biotech SARS‐CoV‐2 IgM/IgG Antibody Rapid Test 10 L of  serum  or
+20  L  of  whole  blood  Wuhan Coronavirus Rapid Test (2019‐nCoV,
+COVID‐19) IgG/IgM 5 L of serum or 10 L of whole blood In serolog‐
+ical  IVD,  the so‐called window period is of much importancethat
+is, the time when the production of antibodies is initiated,  but
+their  level  is still low, and thus test results may prove nega‐
+tive. Anti‐SARS‐CoV‐2 antibodies appear quite late, i.e.,  a  few
+days  after  clinical  manifestations,  which  is why serological
+tests cannot be used as a basic tool in diagnosing SARS‐CoV‐2 in‐
+fections  [32].   The detection of specific anti‐SARS‐CoV‐2 anti‐
+bodies is possible about 10 days after the first  clinical  mani‐
+festations  of  infection.  Thus, this serves the purpose of con‐
+firming contact with coronavirus, and is of  enormous  importance
+from  an  epidemiological  perspective, as it allows us to detect
+subjects  who  had  the  infection  but  were   asymptomatic   or
+oligosymptomatic, and could have been the source of infection for
+other people (silent carriers/vectors). It also allows us to  de‐
+termine  the spread Test Type Proteome Microarray AccuBioTech Co.
+Ltd.  Accu‐Tell COVID‐19 IgG/IgM Rapid  Test  Cassette  BIOMAXIMA
+S.A.   2019‐nCoV  IgG/IgM  Rapid  Test  Cassette BioMedomics, Inc
+COVID‐19 IgM‐IgG Dual Antibody Rapid Test  CE‐IVD;  India  Cellex
+Inc.  Cellex qSARS‐CoV‐2 IgG/IgM Cassette Rapid Test CE‐IVD; USA;
+Australia; Brazil Changsha  Sinocare  Inc.   SARS‐CoV‐2  Antibody
+Test  Strip  (Colloidal  Gold  Method) Edinburgh Genetics Limited
+Watmind 2019 nCoV novel coronavirus  antibody  detection  reagent
+Getein  Biotech,  Inc.   One  Step  Test  for  Novel  Coronavirus
+(2019‐nCoV) IgM/IgG Antibody  Goldsite  Diagnostics  Inc.   SARS‐
+CoV‐2  IgG/IgM Kit Hunan Lituo Biotechnology COVID‐19 IgG/IgM De‐
+tection Kit Innovita  Biological  Technology  2019‐nCoV  Ab  Test
+(Colloidal Gold) IgM/IgG CE‐IVD; China, Brazil IgG or IgM or both
+Whole blood/serum/plasma InTec Products, Inc.   Rapid  SARS‐CoV‐2
+Antibody Test IgG or Ig Mor IgG/IgM Liming Bio‐Products Co., Ltd.
+COVID‐19 IgG/IgM Combo Rapid Test  Device  nal  von  minden  GmbH
+NADAL  COVID‐19  IgG/IgM  Test  PRIMA  Lab  S.A.   PRIMA COVID‐19
+IgG/IgM Rapid Test (For Professional Use) Dynamiker Biotechnology
+(Tianjin)  Co.,  Ltd.  2019 nCOV IgG/IgM Rapid Test Coris BioCon‐
+cept COVID‐19 Ag Respi‐Strip RapiGEN, Inc.  BIOCREDIT COVID‐19 Ag
+SD  BIOSENSOR, Inc.  STANDARD Q COVID‐19 Ag Test DRG Internation‐
+al, Inc.  COVID‐19 lgG, EIA‐6146 Epitope Diagnostics,  Inc.   EDI
+Novel  Coronavirus COVID‐19 IgG ELISA Kit EUROIMMUN AG Anti‐SARS‐
+CoV‐2 ELISA (IgG) DRG International, Inc.  COVID‐19 lgM, EIA‐6147
+Epitope  Diagnostics,  Inc.   EDI  Novel Coronavirus COVID‐19 IgM
+ELISA Kit EUROIMMUN AG Anti‐SARS‐CoV‐2 ELISA (IgA) SD  BIOSENSOR,
+Inc.   STANDARD  F COVID‐19 Ag FIA Shenzhen Bioeasy Biotechnology
+Co., Ltd.  Bioeasy 2019‐nCoV Ag Fluorescence Rapid Test Kit Moko‐
+bio  Biotechnology R&D Center PEPperPRINT GmbH CE‐IVD, Brasil CE‐
+IVD; Brazil; USA CE‐IVD;  Brazil  CE‐IVD,  Brasil  Nasopharyngeal
+swab  SARS‐CoV‐2 IgM & IgG Quantum Dot Immunoassay serum, plasma,
+whole blood PEPperCHIP SARS‐CoV‐2  Proteome  Microarray  (manual)
+3.3.  Protein  Microarray  Method  (PMM)  The  protein microarray
+method (PMM) is a proteomic screening technique serving the  pur‐
+pose of simultaneous/parallel quantitative and qualitative analy‐
+sis of mixtures containing many proteins.  The chip used is  com‐
+posed of a supporting surface (e.g., modified glass plate, nitro‐
+cellulose membrane, or microtitration plate), on which the matrix
+of  capturing  proteins is immobilized in accordance with the de‐
+termined formula, performing the function of a probe. The materi‐
+al  captured may be antibodies, enzymes, or ligands. Protein ana‐
+lyte, added to the matrix, may be modified by  means  of  various
+types  of markers (among others: radioisotopes, fluorescence, lu‐
+minescence markers). The interaction equipment. The advantages of
+protein  micromatrices include the short time required for analy‐
+sis, modest consumption of samples and reagents, high  sensitivi‐
+ty, automation of testing. They allow us to investigate the func‐
+tions and effects of proteins on large scale [33,34].  The  newly
+developed PEPperCHIP SARS‐CoV‐2 Proteome Microarray (PEPperPRINT)
+based on the SARS‐CoV‐2 genome derived  from  the  virus  isolate
+Wuhan‐Hu‐1  (GenBank  ID: MN908947.3) enables us to serologically
+screen about 5000 individual peptides spanning  the  whole  viral
+proteome.  Sequences  of  ORF1ab  protein,  surface glycoprotein,
+ORF3a protein, coat protein, membrane glycoprotein, ORF6 protein,
+ORF7a  protein,  ORF8  protein,  nucleocapsid phosphoprotein, and
+ORF10 protein have been elongated and connected by means of  neu‐
+tral  GSGSGSG  connectors.   The elongated protein sequences have
+been transcribed into 4883  different  peptides  composed  of  15
+amino  acids  printed  in two repetitions (9766 peptide sites) in
+order to obtain high‐resolution epitope  data.  In  the  case  of
+SARS‐CoV, which emerged in 2002, it was demonstrated that the ap‐
+plication of PMM is characterized  by  enhanced  sensitivity,  as
+more Chinese subjects were diagnosed as SARS‐positive when apply‐
+ing PMM in comparison with ELISA tests. The PMM seems to be  more
+reliable,  as  it allows us to determine more protein antigens of
+the virus [35]. An additional advantage of such tests is the pos‐
+sibility  of  automating  the entire analytical process. Unfortu‐
+nately, the method has several imperfections, including  the  re‐
+peatability of the test itself, while the cost of the testing and
+equipment used for micromatrix diagnostics is significant,  which
+makes  the PMM method less accessible in standard laboratory set‐
+tings [36].  Undoubtedly, the scalable and reliable POCTs used in
+the community and outside laboratories would have the opportunity
+to reduce the time to  obtain  COVID‐19  diagnostic  results  and
+might support early implementation of isolation resources and in‐
+fection control measures. From a medical workforce point of view,
+antibody‐  and  antigen‐detecting tests appear to have a signifi‐
+cant role in identifying healthcare workers  who  recovered  from
+SARS‐CoV‐2  infection,  to  assess  their  suitability to provide
+frontline health services. On the other hand, the false  negative
+serology  tests could cause spread of COVID‐19, unjustified reas‐
+surance and a change in public behavior. Undoubtedly,  the  nega‐
+tive  results  of serology tests (swabs) should not be treated as
+definitive for ruling out, but a positive test results are  bene‐
+ficial  to rule in coronavirus infection. The sufficient accuracy
+of serology tests used more widely will allow us to make  an  ap‐
+propriate  decision  regarding lifting restrictions on a national
+level. Nevertheless, the wider implementation of POCD will  ulti‐
+mately support public health strategies about the potential lift‐
+ing of social distancing restrictions in future  [30].  Moreover,
+with  the limited data available at present, for antibody‐detect‐
+ing and antigen‐detecting rapid POCD,  further  intense  research
+into  their potential diagnostic utility is highly encouraged. If
+these tests demonstrate adequate accuracy, it is likely that they
+could  potentially  be used as triage tests for quick identifica‐
+tion of patients who are suspected of contracting  COVID‐19,  re‐
+ducing  the  need  for  expensive reference molecular PCR testing
+[4,6]. Finally, it is worth noting the psychological  and  behav‐
+ioral  consequences  of  correctly established and known immunity
+status within the community.  4. The  Currently  Developing  Con‐
+cepts  of  COVID‐19  Diagnostics  4.1. Clustered Regularly Inter‐
+spaced Short Palindromic Repeats  (CRISPR/Cas13)  Technology  Re‐
+cently,  a  test  has been developed based on Clustered Regularly
+Interspaced Short Palindromic Repeats (CRISPR/Cas12a), with  vis‐
+ual  readouts. The test can detect 10 copies of the virus gene in
+merely 45 min, providing simple and reliable  diagnostic  method,
+which additionally demonstrates high sensitivity and specificity.
+In order to enable fast diagnosis at the hospital  or  on  admis‐
+sion,  the  test be split off by the Cas12a protein, when the nu‐
+cleic acid of SARS‐CoV‐2 is found in the  detection  system.   In
+this  way, a green signal of fluorescence will be obtained, visi‐
+ble with the naked eye, inthe light, with a wavelength of 485 nm.
+The high specificity of the test was obtained by designing 15 cr‐
+RNAs, which may distinguish the polymorphisms of a single nucleo‐
+tide with other viruses related to SARS in four domains: ORF1a or
+ORF1b, N, and E genes [37].  4.2. Exhaled Breath Condensate (EBC)
+The search for new diagnostic methods is continued. Because SARS‐
+CoV‐2 is spread by droplets, while the diagnostic sensitivity and
+specificity  index  for RT‐qPCR tests is the highest for broncho‐
+alveolar lavage (BAL) (higher  than  for  sputum  or  nose/throat
+swabs),  scientists  recently  proposed the use of exhaled breath
+condensate (EBC) for diagnostic purposes. EBC is most similar  in
+its  biochemical composition and origin to BAL. Examinations with
+the use of EBC are a relatively  novel  diagnostic  method,  used
+mainly  to  assess inflammation within the respiratory tract, and
+its components reflect the composition of the  fluid  lining  the
+bronchi and alveoli. EBC is a condensed form of small droplets of
+the fluid lining the lungs, which is usually exhaled, it contains
+various  components,  from small ions to proteins and organelles;
+it may even contain viruses, fungi, and bacteria. Taking  samples
+of the condensate is safe, totally non‐invasive, easy to perform,
+it may be repeated many times, it may also be  performed  on  pa‐
+tients with severe complications of COVID‐19; its enormous advan‐
+tage is that in may be performed in small children, with the  use
+of  special  facial  masks. The course of the examination is such
+that the patient is requested to exhale, when breathing  unevent‐
+fully for some 10‐15 min, to an apparatus provided with a cooling
+system, which allows us to accumulate  the  condensate  in  which
+SARS‐CoV‐2  may be detected. The application of this method seems
+justified from a public health perspective.  The  false  positive
+results  that  are  presently  obtained  contribute the continued
+spread of the virus worldwide [38,39].  The optimization of labo‐
+ratory  diagnostics  is  the most dynamically developing field in
+the  time  of  the  COVID‐19  pandemic,  supporting  contemporary
+medicine, government decisions and healthcare strategies. The ef‐
+forts of scientistclinician teams focus, first of all,  upon  im‐
+plementing  the  most reliable diagnostic tools; however, because
+COVID‐19 is a new nosological entity, there are not  enough  data
+as  of  yet  that would enable the determination of standards for
+the interpretation of serological POCTs.  As with any  other  in‐
+fectious  diseases,  the  diagnostic  value of a test is not only
+about the method of collecting the material, the quality  of  the
+sample  and  the  equipment  applied. Equally essential procedure
+(storage and handling) prior to analysis, from the moment of col‐
+lecting  the biological material to the assaying stage.  Funding:
+This study received  no  external  funding.   Lau,  S.K.P.;  Woo,
+P.C.Y.;  Yip,  C.C.Y.; Tse, H.; Tsoi, H.; Cheng, V.C.C.; Lee, P.;
+Tang, B.S.F.; Cheung, C.H.Y.; Lee, R.A.; et al. Coronavirus  HKU1
+and  Other Coronavirus Infections in Hong Kong. J. Clin. Microbi‐
+ol. 2006, 44, 20632071. [CrossRef] [PubMed] World Health  Organi‐
+zation. Advice on the Use of Point‐Of‐Care Immunodiagnostic Tests
+for COVID‐19.  Corman, V.; Bleicker, T.; Brnink, S.; Drosten, C.;
+Landt,  O.;  Koopmans, M.; Zambon, M. Diagnostic Detection of Lu,
+X.; Chen, Y.; Bai, B.; Hu, H.; Tao, L.; Yang, J.; Chen, J.; Chen,
+Z.;  Hu,  Z.;  Wang,  H.  Immune  responses  against 122, 496502.
+[CrossRef] [PubMed] Liu, W.; Liu, L.; Kou, G.; Zheng,  Y.;  Ding,
+Y.;  Ni,  W.; Wang, Q.; Tan, L.; Wu, W.; Tang, S.; et al. Evalua‐
+tion of Nucleocapsid and Spike Protein‐based ELISAs for detecting
+antibodies  against  SARS‐CoV‐2.  J.  Clin.  Microbiol. 2020, 58,
+e00461‐20.  [CrossRef]  Corman,  V.M.;  Landt,  O.;  Kaiser,  M.;
+Molenkamp, R.; Meijer, A.; Chu, D.K.W.; Bleicker, T.; Brnink, S.;
+Schneider, J.; Schmidt, M.L.; et  al.  Detection  of  2019  novel
+coronavirus  (2019‐nCoV)  by  real‐time RT‐PCR.  Eurosurveillance
+2020, 25, 2000045. [CrossRef] Vashist, S.K. In  Vitro  Diagnostic
+Assays  for COVID‐19: Recent Advances and Emerging Trends.  Diag‐
+nostics 2020, 10, 202. [CrossRef] Shereen, M.A.; Khan, S.; Kazmi,
+A.;  Bashir,  N.; Siddique, R. COVID‐19 infection: Origin, trans‐
+mission, and characteristics of human coronaviruses. J. Adv. Res.
+2020,  24,  9198. [CrossRef] [PubMed] (accessed on 13 June 2020).
+Deepak, S.A.; Kottapalli, K.R.; Rakwal, R.; Oros,  G.;  Rangappa,
+K.S.; Iwahashi, H.; Masuo, Y.; Agrawal, G.K.  Real‐Time PCR: Rev‐
+olutionizing Detection and Expression Analysis  of  Genes.  Curr.
+Genom. 2007, 8, 234251.  [CrossRef] [PubMed] vivalytic‐tests/vri‐
+multiplex‐test/ (accessed on 9 May 2020).  Huang, W.E.; Lim,  B.;
+Hsu,  C.C.;  Xiong,  D.; Wu, W.; Yu, Y.; Jia, H.; Wang, Y.; Zeng,
+Y.; Ji, M.; et al. RT‐LAMP for  rapid  diagnosis  of  coronavirus
+SARS‐CoV‐2. Microb. Biotechnol. 2020, 13, 950961. [CrossRef] Cui,
+Z.; Chang, H.; Wang, H.; Lim, B.; Hsu, C.C.;  Yu,  Y.;  Jia,  H.;
+Wang,  Y.;  Zeng,  Y.; Ji, M.; et al. Development of a rapid test
+kit for SARS‐CoV‐2: An example of product design. Biodes.  Manuf.
+2020,  14.  [CrossRef]  Moran,  A.; Beavis, K.G.; Matushek, S.M.;
+Ciaglia, C.; Francois, N.; Tesic, V.; Love, N. The  Detection  of
+SARS‐CoV‐2  using  the  Cepheid Xpert Xpress SARS‐CoV‐2 and Roche
+cobas SARS‐CoV‐2 Assays. J. Clin.   Microbiol.  2020.  [CrossRef]
+[PubMed]  Watson,  J.;  Whiting, P.F.; Brush, J.E. Interpreting a
+covid‐19 test result. BMJ 2020, 369, m1808. [PubMed] West,  C.P.;
+Montori,  V.M.;  Sampathkumar,  P. COVID‐19 Testing: TheThreat of
+False‐Negative Results.  Mayo Clin. Proc. 2020. [CrossRef] Lippi,
+G.;  Salvagno,  G.L.;  Pegoraro,  M.;  Militello,  V.; Caloi, C.;
+Peretti, A.; Gaino, S.; Bassi, A.; Bovo, C.; Lo  Cascio,  G.  As‐
+sessment  of  immune  response to SARS‐CoV‐2 with fully automated
+MAGLUMI 2019‐nCoV IgG  and  IgM  chemiluminescence  immunoassays.
+Clin.  Chem. Lab. Med. 2020. [CrossRef] Hsueh, P.R.; Huang, L.M.;
+Chen, P.J.; Kao, C.L.; Yang, P.C. Chronological evolution of IgM,
+IgA, IgG and neutralisation antibodies after infection with SARS‐
+associated coronavirus. Clin. Microbiol. Infect. 2004, 10,  Guan,
+M.; Chen, H.Y.; Foo, S.Y.; Tan, Y.J.; Goh, P.Y.; Wee, S.H. Recom‐
+binant protein‐based enzyme‐linked immunosorbent  assay  and  im‐
+munochromatographic tests for detection of immunoglobulin G anti‐
+bodies to severe acute respiratory syndrome (SARS) coronavirus in
+SARS  patients.  Clin.  Diagnost. Lab. Immunol. 2004, Kogaki, H.;
+Uchida, Y.; Fujii, N.; Kurano, Y.; Miyake, K.; Kido, Y.;  Kariwa,
+H.; Takashima, I.; Tamashiro, H.; Ling, A.‐E.; et al. Novel rapid
+immunochromatographic test based on an enzyme immunoassay for de‐
+tecting  nucleocapsid  antigen in SARS‐associated coronavirus. J.
+Clin. Lab. Anal. 2005, 19, 150159. [CrossRef] Koczula, K.M.; Gal‐
+lotta,  A. Lateral flow assays. Essays Biochem. 2016, 60, 111120.
+Oh, J.‐S.; Ha, G.‐W.; Cho, Y.‐S.; Kim,  M.J.;  An,  D.J.;  Hwang,
+K.K.;  Lim,  Y.K.; Park, B.K.; Kang, B.; Song, D.S.  One Step Im‐
+munochromatography Assay Kit for Detecting Antibodies  to  Canine
+Parvovirus.  Clin.  Vaccine Immunol. 2006, 13, 520524. [CrossRef]
+Posthuma‐Trumpie, G.A.; Korf, J.; van Amerongen, A. Lateral  flow
+(immuno)assay:   Its  strengths,  weaknesses,  opportunities  and
+threats. A literature survey. Anal.  Bioanal.  Chem.  2009,  393,
+569582.  [CrossRef] Strenburg, E.; Junker, R. Point‐of‐care test‐
+ing in microbiology: The  advantages  and  disadvantages  of  im‐
+munochromatographic  test strips. Dtsch. Arztebl. Int. 2009, 106,
+4854. [PubMed] Li, Z.; Yi, Y.; Luo, X.; Xiong, N.; Liu,  Y.;  Li,
+S.;  Sun,  R.; Wang, Y.; Hu, B.; Chen, W.; et al. Development and
+clinical application of a rapid IgM‐IgG  combined  antibody  test
+for SARS‐CoV‐2 infection diagnosis. J. Med.  Virol. 2020. [Cross‐
+Ref]  [PubMed]  covid19serology/  (accessed  on  13  June  2020).
+Lauer, S.A.; Grantz, K.H.; Bi, Q.; Jones, F.K.; Zheng, Q.; Mered‐
+ith, H.R.; Azman, A.S.; Reich, N.G.; Lessler, J.  The  Incubation
+Period  of  Coronavirus Disease 2019 (COVID‐19) From Publicly Re‐
+ported Confirmed Cases: Estimation and Application. Ann.  Intern.
+Med.  2020.  [CrossRef]  Melton, L. Protein arrays: Proteomics in
+multiplex. Nature  2004,  429,  101107.  [CrossRef]  Hall,  D.A.;
+Ptacek,  J.; Snyder, M. Protein microarray technology. Mech. Age‐
+ing. Dev. 2007, 128, 161167.  [CrossRef] [PubMed]  Zhu,  H.;  Hu,
+S.;  Jona,  G.;  Zhu, X.; Kreiswirth, N.; Willey, B.M.; Mazzulli,
+T.; Liu, G.; Song, Q.; Chen, P.; et al.  Severe acute respiratory
+syndrome  diagnostics  using  a  coronavirus  protein microarray.
+Proc. Natl. Acad.   Sci.  USA  2006,  103,  40114016.  [CrossRef]
+[PubMed]  Molecular  and  Antibody Point‐Of‐Care Tests to Support
+the Screening, Diagnosis and Monitoring of Wang, X.;  Zhong,  M.;
+Liu,  Y.;  Ma,  P.; Dang, L.; Meng, Q.; Wan, W.; Ma, X.; Liu, J.;
+Yang, G.; et al. Rapid and Sensitive Detection of COVID‐19  Using
+CRISPR/Cas12a‐based    Detection    with   Naked   Eye   Readout,
+CRISPR/Cas12a‐NER. Sci. Bull. (Beijing) 2020.  [CrossRef]  Khoub‐
+nasabjafari,  M.; Jouyban‐Gharamaleki, V.; Ghanbari, R.; Jouyban,
+A. Exhaled breath condensate as a potential specimen for diagnos‐
+ing  COVID‐19.  Bioanalysis 2020. [CrossRef] Jerzynska, J.; Brzo‐
+zowska, A.; Bobrowska‐Korzeniowska, M.; Grzelewski, T.; Stelmach,
+I.  Usefulness  of  exhaled  breath  condensate for evaluation of
+markers of airway inflammation in children with asthma.  Pediatr.
+Pol. 2009, 84, 437445. [CrossRef]
+
+
+
+
+
+
+
+
+
+
+

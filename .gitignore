@@ -1,4 +1,3 @@
 .vscode
-ner/*
 doc
 target/classes/*.class

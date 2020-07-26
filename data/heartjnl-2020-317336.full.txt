@@ -1,467 +1,462 @@
-Cardiac risk factors and prevention
-ORIGINAL RESEARCH
-Maria Elena Flacco,1 Cecilia Acuti Martellucci,2 Francesca Bravi,3 Giustino Parruti,4
-Rosaria Cappadona,1 Alfonso Mascitelli,5 Roberto Manfredini,6
-Lorenzo G Mantovani,7,8 Lamberto Manzoli ‍ ‍1
-►► Additional material is
-Department of Medical
-Ferrara, Emilia-­Romagna, Italy
-Surgery, Ancona, Marche, Italy
-Arcispedale Sant’Anna Medical
-Department, Cona, Emilia-­
-Romagna, Italy
-Infectious Diseases Unit, Local
-Health Unit of Pescara, Pescara,
-Regional Healthcare Agency of
-Abruzzo, Pescara, Italy
-Dipartimento di Scienze
-Mediche, Universita degli Studi
-di Ferrara, Ferrara, Italy
-Center for Public Health
-Bicocca, Milano, Lombardia,
-IRCCS MultiMedica, Sesto San
-Giovanni, Lombardia, Italy
-Correspondence to
-Professor Lamberto Manzoli,
-Ferrara, Ferrara 44121, Italy;
-MEF and CAM contributed
-Revised 9 June 2020
-Objective It has been hypothesised that the use
-of ACE inhibitors and angiotensin receptor blockers
-(ARBs) might either increase or reduce the risk of severe
-or lethal COVID-19. The findings from the available
-observational studies varied, and summary estimates
-are urgently needed to elucidate whether these drugs
-should be suspended during the pandemic, or patients
-and physicians should be definitely reassured. This
-meta-­analysis of adjusted observational data aimed
-to summarise the existing evidence on the association
-between these medications and severe/lethal COVID-19.
-Methods We searched MedLine, Scopus and preprint
-repositories up to 8 June 2020 to retrieve cohort or
-case–control studies comparing the risk of severe/fatal
-COVID-19 (either mechanical ventilation, intensive care
-unit admission or death), among hypertensive subjects
-treated with: (1) ACE inhibitors, (2) ARBs and (3) both,
-versus untreated subjects. Data were combined using a
-random-­effect generic inverse variance approach.
-Results Ten studies, enrolling 9890 hypertensive
-subjects were included in the analyses. Compared with
-untreated subjects, those using either ACE inhibitors or
-ARBs showed a similar risk of severe or lethal COVID-19
-(summary OR: 0.90; 95% CI 0.65 to 1.26 for ACE
-inhibitors; 0.92; 95% CI 0.75 to 1.12 for ARBs). The
-results did not change when both drugs were considered
-together, when death was the outcome and excluding
-the studies with significant, divergent results.
-Conclusion The present meta-­analysis strongly
-supports the recommendation of several scientific
-societies to continue ARBs or ACE inhibitors for all
-patients, unless otherwise advised by their physicians
-who should thus be reassured.
-employer(s)) 2020. Re-­use
-permitted under CC BY-­NC. No
-by BMJ.
-To cite: Flacco ME, Acuti
-Martellucci C, Bravi F,
-print: [please include Day
-With the spread of severe acute respiratory
-syndrome coronavirus 2 (SARS-­CoV-2) pandemic,
-evidence is rapidly accumulating on the risk factors
-of severe COVID-19 and death. In the wake of
-some preliminary, unadjusted reports,1–4 individuals with pre-­
-existing comorbidities such as
-hypertension, diabetes and cardiovascular diseases
-have been identified as those highly vulnerable.5
-Notably, such chronic conditions frequently require
-prescription of ACE inhibitors and angiotensin II
-receptor blockers (ARBs).6 Animal studies showed
-that ACE inhibitors and ARBs upregulate ACE2
-expression7 and, as coronaviruses bind their target
-cells through ACE2, concerns have been expressed
-that these therapies might facilitate infection with
-SARS-­CoV-2 and increase the risk of severe or fatal
-COVID-19.6 8 In contrast, it has been suggested that
-ACE inhibitors and ARBs could benefit infected
-patients, as ACE2 converts angiotensin II (with
-known vasoconstrictive, proinflammatory and
-fibrotic effects) into angiotensin 1–7, which may
-protect lungs from acute injury, and upregulating
-ACE2 through therapy may enhance this process.9
-In this uncertain scenario, some observational
-studies with multivariable analyses found no association between use of renin–angiotensin–aldosterone system (RAAS) inhibitors and COVID-19
-severity,10–16 a few studies found a significant
-reduction in the risk of death or severe disease17 18
-and one study found a increased risk of mechanical ventilation and admission to the intensive care
-unit (ICU).19 The magnitude of the association also
-varied across studies, which differed for patients’
-characteristics, setting (inpatient or outpatient),
-population targeted by serological testing protocols
-and extent of measured confounding.
-Summary estimates are urgently needed to elucidate whether these drugs, that are prescribed to
-tens of millions patients worldwide,20 should be
-suspended during the pandemic, or patients and
-physicians should be definitely reassured.7 We thus
-carried out a meta-­analysis to summarise the existing
-evidence from adjusted analyses on the association
-between RAAS inhibitors and COVID-19.
-Bibliographic search, data extraction and quality
-We searched MEDLINE and Scopus databases, up
-to 11 May 2020, for studies evaluating the risk of
-severe and/or fatal COVID-19 among ACE inhibitors and/or ARBs users versus non-­
-users. The
-following search strategy was adopted, without
-language restrictions: COVID-19 [Title/Abstract]
-OR Coronavirus [Title/Abstract] OR SARS-­CoV-2
-[Title/Abstract] AND angiotensin* [Title/Abstract].
-was also screened for additional pertinent papers.
-In the context of a public health emergency, there is
-urgency to make research findings available,21 and
-several relevant clinical data have been shared in
-public preprint repositories: we thus extended the
-in MedRxiv. Inclusion criteria were: (A) cohort or
-Treatment with ACE inhibitors or ARBs and risk of
-severe/lethal COVID-19: a meta-­analysis
-Cardiac risk factors and prevention
-The informed consent was not required, as the study did not
-enrol human subjects.
-case–control design; (B) laboratory confirmation of SARS-­CoV-2
-infection status through PCR assay of nasal or pharyngeal swab
-specimens; (C) available information on underlying comorbidities and pharmacological treatments at the time of COVID-19;
-and (D) data available to compare COVID-19 severity by RAAS
-who extracted the study characteristics and measures of effect.
-contacted (LM), and consensus was achieved through discussion.
-Individual study quality was assessed using an adapted version
-of the Newcastle Ottawa Quality Assessment Scale, assessing
-the comparability across groups for confounding factors, the
-appropriateness of outcome assessment, length of follow-­up and
-missing data handling and reporting.22
-Data analysis
-Data were combined using a random-­effect generic inverse variance approach23 in order to account for between-­study heterogeneity. Missing SEs were computed from 95% CIs following
-standard Cochrane methodology. If a paper reported the results
-of different multivariable models, the most stringently controlled
-estimates (those from the model adjusting for more factors) were
-extracted. If different models controlled for the same number of
-covariates, the model containing the most clinically meaningful
-covariates was used for the analysis.24
-study heterogeneity was quantified using the I2
-statistic. Potential publication bias was assessed graphically,
-using funnel plots (displaying the Relative Risks from individual
-comparisons versus their precision (1/SE). Given that the total
-number of publications included for each outcome was <10,
-we could not use formal tests for funnel plot asymmetry: in
-such cases, the power is too low to distinguish chance from real
-The units of the meta-­analysis were single comparisons of:
-(A) ACE inhibitors, (B) ARBs users and (C) both ACE inhibitors
-Of the 553 papers initially retrieved, five case–control and five
-Overall, the studies included 9890 hypertensive subjects; four
-studies included only COVID-19 symptomatic patients requiring
-Europe,10–12 14 16 17 two in the USA15 19 and two in China.13 18 The
-mean age ranged from 58 to 69 years, and the sample size ranged
-from 20517 to 6272.14
-The methodological characteristics of the included studies are
-ascertainment of the exposure and the evaluation of the comparability of subjects were adequate in all studies, while 8 out of
-10 adequately addressed the items pertaining to outcome assessment and follow-­up (length and missing data). One study had a
-high risk of misclassification bias, as the proportions of hypertensive subjects treated with ACE inhibitors (16.4%) or ARBs
-(13.2%) were particularly low.19
-Risk of severe/lethal COVID-19
-A total of five studies, enrolling 7489 hypertensive patients,
-were included in the meta-­analysis comparing the risk of severe/
-lethal COVID-19 between ACE inhibitors users versus non-­
-or lethal disease was comparable among treated and untreated
-patients (summary OR: 0.90; 95% CI 0.65 to 1.26). Two studies
-showed significant results, with opposite direction. The first
-included 682 hypertensive subjects and showed an increased
-risk of severe illness among the 112 patients treated with ACE
-inhibitors.19 The second enrolled 105 hypertensive subjects and
-reported a lower risk among the 38 treated patients.17 Excluding
-one or both of these studies did not change the results, which
-remained non-­significant (all p>0.05).
-Five studies, enrolling 7462 hypertensive subjects, were
-included in the meta-­analysis comparing the risk of severe illness
-All of them showed non-­significant differences between treated
-and untreated patients, with a summary OR of 0.92; 95% CI
-When the above antihypertensive treatments were considered together (five studies, enrolling 11 334 hypertensive
-patients),10 11 14 15 19 the risk of developing severe COVID-19
-was again comparable between treated and untreated patients
-Risk of death from COVID-19
-The risk of death among RAAS inhibitors users versus non-­
-users was compared in four studies, including a total of 2412
-and ARBs users, versus non users, in predicting: (1) severe/lethal
-COVID-19 (presence of either ICU admission, mechanical ventilation or death) and (2) lethal COVID-19. When a study only
-reported separate estimates for ACE inhibitors or ARBs users, or
-for the different outcomes included in the definition of severe/
-lethal COVID-19 (eg, ICU admission and mechanical ventilation
-separately), the overall estimate of risk was computed from the
-separate relative risks using the fixed-­effect model for generic
-inverse variance outcomes.24
-All meta-­analyses were performed using RevMan software,
-V.5.3 (The Cochrane Collaboration, 2019).
-Cardiac risk factors and prevention
-Characteristics of the included studies
-Study design
-de Abajo11
-The Lancet
-Giorgi Rossi12
-No. of
-Mean age
-Severe/lethal COVID-19 Logistic regression
-(ICU and death).
-adjusted for age, gender
-and comorbidities.
-ventilation, ICU and
-death); (2) death.
-Logistic regression
-adjusted for age, gender
-and comorbidities
-Severe COVID-19
-Logistic regression
-adjusted for age, gender,
-variables) and
-Cox proportional hazard
-analysis adjusted for age,
-gender and Charlson
-Severe/lethal COVID-19 Logistic regression
-(dyspnoea, resp. rate
-adjusted for gender and
-SaO2 ≤93%, mech.
-Severe/lethal COVID-19 Logistic regression
-(ICU and death),
-adjusted forage, gender
-and comorbidities.
-Severe/lethal COVID-19 Logistic regression
-(ICU and mech.
-adjusted for age, gender
-and comorbidities.
-Severe/lethal COVID-19 Analysis propensity
-(mech. ventilation, ICU score-­matched for
-and death).
-age, gender, race, BMI,
-smoke, comorbidities and
-Clin Infect
-Cox proportional hazard
-analysis adjusted for age,
-gender and comorbidities.
-Circ Res
-Analysis propensity
-score-­matched for age,
-gender, comorbidities and
-in-­hospital therapy.
-Extracted outcome(s) Method for adjustment
-Logistic regression
-adjusted for age, race,
-comorbidities and
-*Cases were COVID-19 patients; controls were SARS-­CoV-2 negative subjects extracted from primary healthcare databases: as such, the number of hypertensive subjects includes both cases and controls and is higher
-than the number of COVID-19 patients.
-†Number of patients with severe COVID-19 among only those with hypertension.
-‡Included only in sensitivity analyses.
-ARBs, Angiotensin receptor blockers; ICU, intensive care unit; mech., mechanical; NR, not reported; SARS-­CoV-2, severe acute respiratory syndrome coronavirus 2.
-the Newcastle Ottawa Scale
-de Abajo11
-Giorgi Rossi12
+Cardiac risk factors and prevention ORIGINAL RESEARCH Maria Elena
+Flacco,1 Cecilia Acuti Martellucci,2 Francesca  Bravi,3  Giustino
+Parruti,4  Rosaria  Cappadona,1 Alfonso Mascitelli,5 Roberto Man‐
+fredini,6 Lorenzo G Mantovani,7,8 Lamberto Manzoli  1
+ Additional material is Department of Medical Ferrara, Emilia‐Ro‐
+magna,  Italy Surgery, Ancona, Marche, Italy Arcispedale SantAnna
+Medical Department, Cona, Emilia‐ Romagna, Italy Infectious  Dis‐
+eases  Unit,  Local  Health  Unit  of  Pescara, Pescara, Regional
+Healthcare Agency of  Abruzzo,  Pescara,  Italy  Dipartimento  di
+Scienze  Mediche,  Universita  degli  Studi  di Ferrara, Ferrara,
+Italy Center for Public Health Bicocca, Milano, Lombardia,  IRCCS
+MultiMedica,  Sesto San Giovanni, Lombardia, Italy Correspondence
+to Professor Lamberto Manzoli, Ferrara, Ferrara 44121, Italy; MEF
+and CAM contributed Revised 9 June 2020 Objective It has been hy‐
+pothesised that the use of ACE inhibitors and angiotensin  recep‐
+tor  blockers  (ARBs) might either increase or reduce the risk of
+severe or lethal COVID‐19. The findings from the available obser‐
+vational studies varied, and summary estimates are urgently need‐
+ed to elucidate whether these drugs should  be  suspended  during
+the pandemic, or patients and physicians should be definitely re‐
+assured. This meta‐analysis of adjusted observational data  aimed
+to  summarise  the  existing  evidence on the association between
+these  medications  and  severe/lethal  COVID‐19.    Methods   We
+searched  MedLine,  Scopus and preprint repositories up to 8 June
+2020 to retrieve cohort or casecontrol studies comparing the risk
+of  severe/fatal  COVID‐19 (either mechanical ventilation, inten‐
+sive care unit admission or death), among  hypertensive  subjects
+treated  with:  (1) ACE inhibitors, (2) ARBs and (3) both, versus
+untreated subjects. Data  were  combined  using  a  random‐effect
+generic  inverse  variance  approach.   Results  Ten studies, en‐
+rolling 9890 hypertensive subjects were included in the analyses.
+Compared  with  untreated  subjects,  those  using either ACE in‐
+hibitors or ARBs showed  a  similar  risk  of  severe  or  lethal
+COVID‐19  (summary  OR:  0.90;  95%  CI  0.65 to 1.26 for ACE in‐
+hibitors; 0.92; 95% CI 0.75 to 1.12 for ARBs).  The  results  did
+not  change  when both drugs were considered together, when death
+was the outcome and excluding the studies with  significant,  di‐
+vergent  results.   Conclusion The present meta‐analysis strongly
+supports the recommendation of several  scientific  societies  to
+continue  ARBs  or ACE inhibitors for all patients, unless other‐
+wise advised by their physicians who should  thus  be  reassured.
+employer(s))  2020.  Re‐use  permitted under CC BY‐NC. No by BMJ.
+To cite: Flacco ME, Acuti Martellucci C, Bravi F, print:  [please
+include  Day With the spread of severe acute respiratory syndrome
+coronavirus 2 (SARS‐CoV‐2) pandemic, evidence is rapidly  accumu‐
+lating  on  the risk factors of severe COVID‐19 and death. In the
+wake of some preliminary, unadjusted reports,14 individuals  with
+pre‐  existing  comorbidities  such as hypertension, diabetes and
+cardiovascular diseases have been identified as those highly vul‐
+nerable.5  Notably,  such  chronic  conditions frequently require
+prescription of ACE inhibitors and angiotensin II receptor block‐
+ers  (ARBs).6  Animal studies showed that ACE inhibitors and ARBs
+upregulate ACE2 expression7 and, as coronaviruses bind their tar‐
+get  cells  through ACE2, concerns have been expressed that these
+therapies might facilitate infection with SARS‐CoV‐2 and increase
+the risk of severe or fatal COVID‐19.6 8 In contrast, it has been
+suggested that ACE inhibitors and ARBs could benefit infected pa‐
+tients, as ACE2 converts angiotensin II (with known vasoconstric‐
+tive, proinflammatory and fibrotic effects) into angiotensin  17,
+which  may protect lungs from acute injury, and upregulating ACE2
+through therapy may enhance this process.9 In this uncertain sce‐
+nario,  some  observational  studies  with multivariable analyses
+found no association between use  of  reninangiotensinaldosterone
+system (RAAS) inhibitors and COVID‐19 severity,1016 a few studies
+found a significant reduction in the risk of death or severe dis‐
+ease17 18 and one study found a increased risk of mechanical ven‐
+tilation and admission to the intensive care  unit  (ICU).19  The
+magnitude  of  the  association also varied across studies, which
+differed for patients characteristics, setting (inpatient or out‐
+patient),  population  targeted  by serological testing protocols
+and extent of measured confounding.  Summary  estimates  are  ur‐
+gently  needed  to  elucidate  whether these drugs, that are pre‐
+scribed to tens of millions patients worldwide,20 should be  sus‐
+pended  during the pandemic, or patients and physicians should be
+definitely reassured.7 We thus carried  out  a  meta‐analysis  to
+summarise the existing evidence from adjusted analyses on the as‐
+sociation between RAAS inhibitors  and  COVID‐19.   Bibliographic
+search,  data extraction and quality We searched MEDLINE and Sco‐
+pus databases, up to 11 May 2020, for studies evaluating the risk
+of  severe and/or fatal COVID‐19 among ACE inhibitors and/or ARBs
+users versus non‐ users. The following search strategy was adopt‐
+ed,  without  language restrictions: COVID‐19 [Title/Abstract] OR
+Coronavirus [Title/Abstract] OR SARS‐CoV‐2  [Title/Abstract]  AND
+angiotensin*  [Title/Abstract].  was also screened for additional
+pertinent papers.  In the context of a public  health  emergency,
+there  is urgency to make research findings available,21 and sev‐
+eral relevant clinical data have been shared in  public  preprint
+repositories: we thus extended the in MedRxiv. Inclusion criteria
+were: (A) cohort or Treatment with ACE  inhibitors  or  ARBs  and
+risk of severe/lethal COVID‐19: a meta‐analysis Cardiac risk fac‐
+tors and prevention The informed consent was not required, as the
+study did not enrol human subjects.  casecontrol design; (B) lab‐
+oratory confirmation of SARS‐CoV‐2 infection status  through  PCR
+assay of nasal or pharyngeal swab specimens; (C) available infor‐
+mation on underlying comorbidities and pharmacological treatments
+at  the  time  of  COVID‐19;  and  (D)  data available to compare
+COVID‐19 severity by RAAS who extracted the study characteristics
+and  measures  of  effect.   contacted  (LM),  and  consensus was
+achieved through discussion.  Individual study  quality  was  as‐
+sessed  using  an adapted version of the Newcastle Ottawa Quality
+Assessment Scale, assessing the comparability across  groups  for
+confounding  factors,  the appropriateness of outcome assessment,
+length of follow‐up and missing data  handling  and  reporting.22
+Data  analysis  Data  were combined using a random‐effect generic
+inverse variance approach23 in order to account for between‐study
+heterogeneity.  Missing  SEs were computed from 95% CIs following
+standard Cochrane methodology. If a paper reported the results of
+different  multivariable  models, the most stringently controlled
+estimates (those from the model adjusting for more factors)  were
+extracted.  If different models controlled for the same number of
+covariates, the model containing the most  clinically  meaningful
+covariates  was  used for the analysis.24 study heterogeneity was
+quantified using the I2 statistic. Potential publication bias was
+assessed graphically, using funnel plots (displaying the Relative
+Risks from individual comparisons versus their precision  (1/SE).
+Given  that  the  total  number of publications included for each
+outcome was <10, we could not use formal tests  for  funnel  plot
+asymmetry:  in  such  cases,  the power is too low to distinguish
+chance from real The units of the meta‐analysis were single  com‐
+parisons  of: (A) ACE inhibitors, (B) ARBs users and (C) both ACE
+inhibitors Of the 553 papers initially retrieved,  five  casecon‐
+trol  and  five  Overall,  the studies included 9890 hypertensive
+subjects; four studies included  only  COVID‐19  symptomatic  pa‐
+tients requiring Europe,1012 14 16 17 two in the USA15 19 and two
+in China.13 18 The mean age ranged from 58 to 69 years,  and  the
+sample size ranged from 20517 to 6272.14 The methodological char‐
+acteristics of the included studies are ascertainment of the  ex‐
+posure  and  the evaluation of the comparability of subjects were
+adequate in all studies, while 8 out of 10  adequately  addressed
+the  items pertaining to outcome assessment and follow‐up (length
+and missing data). One study had a high risk of misclassification
+bias,  as  the  proportions of hypertensive subjects treated with
+ACE inhibitors (16.4%) or ARBs (13.2%) were  particularly  low.19
+Risk of severe/lethal COVID‐19 A total of five studies, enrolling
+7489 hypertensive patients, were included  in  the  meta‐analysis
+comparing  the  risk  of  severe/ lethal COVID‐19 between ACE in‐
+hibitors users versus non‐ or lethal disease was comparable among
+treated  and untreated patients (summary OR: 0.90; 95% CI 0.65 to
+1.26). Two studies showed significant results, with opposite  di‐
+rection.  The first included 682 hypertensive subjects and showed
+an increased risk of severe illness among the 112 patients treat‐
+ed  with  ACE  inhibitors.19 The second enrolled 105 hypertensive
+subjects and reported a lower  risk  among  the  38  treated  pa‐
+tients.17  Excluding  one or both of these studies did not change
+the results, which remained non‐significant (all  p>0.05).   Five
+studies,  enrolling  7462 hypertensive subjects, were included in
+the meta‐analysis comparing the risk of  severe  illness  All  of
+them  showed  non‐significant differences between treated and un‐
+treated patients, with a summary OR of  0.92;  95%  CI  When  the
+above  antihypertensive treatments were considered together (five
+studies, enrolling 11 334 hypertensive patients),10 11 14  15  19
+the  risk  of developing severe COVID‐19 was again comparable be‐
+tween treated and untreated patients Risk of death from  COVID‐19
+The  risk  of death among RAAS inhibitors users versus non‐ users
+was compared in four studies, including a total of 2412 and  ARBs
+users,   versus  non  users,  in  predicting:  (1)  severe/lethal
+COVID‐19 (presence of either ICU admission,  mechanical  ventila‐
+tion or death) and (2) lethal COVID‐19. When a study only report‐
+ed separate estimates for ACE inhibitors or ARBs  users,  or  for
+the  different  outcomes  included  in  the definition of severe/
+lethal COVID‐19 (eg, ICU  admission  and  mechanical  ventilation
+separately),  the  overall estimate of risk was computed from the
+separate relative risks using the fixed‐effect model for  generic
+inverse variance outcomes.24 All meta‐analyses were performed us‐
+ing RevMan software, V.5.3 (The  Cochrane  Collaboration,  2019).
+Cardiac  risk  factors  and prevention Characteristics of the in‐
+cluded studies Study design de Abajo11 The Lancet Giorgi  Rossi12
+No.  of  Mean age Severe/lethal COVID‐19 Logistic regression (ICU
+and death).  adjusted for age, gender and comorbidities.   venti‐
+lation,  ICU and death); (2) death.  Logistic regression adjusted
+for age, gender and comorbidities Severe  COVID‐19  Logistic  re‐
+gression adjusted for age, gender, variables) and Cox proportion‐
+al hazard analysis adjusted for  age,  gender  and  Charlson  Se‐
+vere/lethal  COVID‐19  Logistic  regression (dyspnoea, resp. rate
+adjusted for gender and SaO2 93%, mech.   Severe/lethal  COVID‐19
+Logistic  regression (ICU and death), adjusted forage, gender and
+comorbidities.  Severe/lethal COVID‐19 Logistic  regression  (ICU
+and  mech.   adjusted  for  age,  gender  and comorbidities.  Se‐
+vere/lethal COVID‐19 Analysis propensity (mech. ventilation,  ICU
+score‐matched for and death).  age, gender, race, BMI, smoke, co‐
+morbidities and Clin Infect Cox proportional hazard analysis  ad‐
+justed  for  age,  gender  and  comorbidities.  Circ Res Analysis
+propensity score‐matched for age, gender, comorbidities  and  in‐
+hospital therapy.  Extracted outcome(s) Method for adjustment Lo‐
+gistic regression adjusted for age, race, comorbidities and *Cas‐
+es were COVID‐19 patients; controls were SARS‐CoV‐2 negative sub‐
+jects extracted from primary healthcare databases: as  such,  the
+number  of hypertensive subjects includes both cases and controls
+and is higher than the number of COVID‐19  patients.   Number  of
+patients with severe COVID‐19 among only those with hypertension.
+Included only in sensitivity analyses.  ARBs, Angiotensin  recep‐
+tor  blockers;  ICU,  intensive care unit; mech., mechanical; NR,
+not reported; SARS‐CoV‐2, severe acute respiratory syndrome coro‐
+navirus  2.  the Newcastle Ottawa Scale de Abajo11 Giorgi Rossi12
 hypertensive subjects.10 12 16 18 Overall, no differences in risk
-emerged between the two groups, with a summary OR of
-from China, enrolling 1128 hospitalised hypertensive patients,
-showed a significant risk reduction among treated subjects18;
-when its results were excluded from the analyses, the overall
-estimates did not change (pooled OR 0.95; 95% CI 0.76 to
-1.18). Another study25 assessed the risk of death among ACE
-inhibitors/ARBs users versus non users and was initially included
-in the meta-­analysis. However, this study was later retracted26;
-thus, it was excluded from the main analyses and included into
-a sensitivity analysis: with or without the study, the summary
-estimate did not change (pooled OR 0.85; 95% CI 0.81 to 1.03).
-Two main findings emerge from the present meta-­analysis, which
-included the adjusted estimates of 10 observational studies and
-No. of infected
-Cardiac risk factors and prevention
-No. of
-OR (95% CI)
-P value
-versus non-­users. ARBs, angiotensin receptor blockers.
-1. Severe/fatal COVID-19*
-(in users vs non users):
-ACE inhibitors
-ARBs only10 13–15 19
-2. Death from COVID-19
-(in users vs non users):
-a. Main analysis:
-b. Sensitivity analysis:†
-All meta-­analyses are based on a generic inverse variance approach.
-*Including admission into intensive care unit, need for mechanical ventilation or
-†Including one retracted study.25 26
-ARBs, angiotensin receptor blockers; RAAS, renin–angiotensin–aldosterone.
-almost 10 000 hypertensive subjects: first, no significant differences in the risk of developing severe or fatal COVID-19 were
-observed between the subjects treated with either ACE inhibitors or ARBs, as compared with non-­users. Second, and importantly, the results did not change after the exclusion of the three
-studies, which reported either a significantly higher or lower risk
-of severe illness among treated patients.
-The present findings provide solid evidence from properly
-adjusted estimates across different countries on the absence
-of risk from RAAS inhibitors treatment during the pandemic,
-strongly supporting the statements of several experts27 28 and
-scientific societies, including the European Medicines Agency,29
-the European Society of Cardiology30 and the American Heart
-Association,31 who recommend continuation of ARBs or ACE
-inhibitors medication. Although the present findings do not
-support the hypothesis of a beneficial effect from therapy during
-the necessary time required for randomised data to come,
-patients and physicians can be reassured.
-Some limitations should be considered when interpreting
-the present findings. First, two meta-­
-analyses showed an
-intermediate-­to-­high level of heterogeneity. However, a certain
-large variation in terms of setting and baseline patients characteristics. Also, when the analyses were repeated adopting a fixed
-approach, none of the results substantially differed (except for
-CIs, which were typically tighter). Second, although all studies
-(with a single exception)13 provided analyses at least adjusted for
-versus non-­users.
-age, gender and several underlying comorbidities, some extent of
-residual confounding cannot be completely ruled out, as for any
-observational study.32 Third, as shown in the funnel plots in the
-more than five studies, thus it was not possible to perform a
-meaningful evaluation of publication bias. However, given the
-public health relevance of these data, it is unlikely that non-­
-significant findings—with reassuring implications—have been
-withheld. Rather, it is certain that large dataset will be available
-soon. Given the urgency for millions of patients, we decided not
-to wait, but the present meta-­analysis will have to be updated as
-inclusion bias, due to the presence of multiple effect estimates
-that can be extracted from individual studies,33 is likely to be
-low, as only one of the included studies reported more than an
-adjusted estimate,18 and the results of the meta-­analysis including
-the alternate estimate of effect were unchanged (pooled OR of
-death 0.88; 95% CI 0.68 to 1.13).
-Acknowledging these caveats, the present meta-­analysis, based
-on 10 studies and almost 10 000 hypertensive subjects, did not
-find any association between COVID-19 severity or mortality
-and treatment with ARBs, ACE inhibitors or both, strongly
-supporting the recommendation of several scientific societies
-to continue ARBs or ACE inhibitors medication for all patients,
-unless otherwise advised by their physicians, who should thus
-be reassured.
-RC, LGM and LaM), conduct (MEF, CAM, FB, GP, RC, AM, RM, LGM) and reporting
-(MEF, FB, GP, AM, RM, LGM and LM) of the present work.
-users versus non-­users. ARBs, angiotensin receptor blockers.
-users. ARBs, angiotensin receptor blockers.
-subjects treated with RAAS inhibitors versus untreated subjects, overall
-and by drug class
-Cardiac risk factors and prevention
-Key messages
-respiratory syndrome coronavirus 2 positive subjects showed
-an increased mortality and morbidity among hypertensive
-patients, who were frequently treated with ACE inhibitors
-or angiotensin receptor blockers (ARBs). Recently, some
-observational studies with multivariable analyses found
-no association between these medications and COVID-19
-severity, a few studies found a significant reduction in the risk
-of death or severe disease and one study found a increased
-risk of mechanical ventilation and admission to the intensive
-care unit. The magnitude of the association also varied across
-studies, which differed for patients’ characteristics, setting
-(inpatient or outpatient), population targeted by serological
-testing protocols and extent of measured confounding.
-What might this study add?
-►► This meta-­analysis is based on 10 adjusted observational
-studies (enrolling almost 10 000 hypertensive subjects), from
-different countries, and provides the first summary estimate
-on the association between ACE inhibitors or ARBs use
-and COVID-19 severity or mortality. All analyses showed a
-comparable risk of severe or fatal illness among treated and
-untreated subjects, either considering ACE inhibitors or ARBs
-separately, or combined.
-How might this impact on clinical practice?
-►► Given that ACE inhibitors and ARBs are prescribed to tens
-of millions patients worldwide, summary estimates were
-strongly needed to elucidate whether these drugs should be
-suspended during the pandemic, or patients and physicians
-should be definitely reassured. These findings strongly
-support the recommendation of several scientific societies to
-continue ARBs or ACE inhibitors medication for all patients,
-unless otherwise advised by their physicians.
-Competing interests None declared.
-Patient and public involvement Patients and/or the public were not involved in
-the design, or conduct, or reporting, or dissemination plans of this research.
-Patient consent for publication Not required.
-Ethics approval The study complies with the Declaration of Helsinki. As a meta-­
-analysis, the protocol and study did not require the approval from Ethics Committee.
-Data availability statement Data are available on reasonable request. All data
-properly cited, appropriate credit is given, any changes made indicated, and the use
-1 Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically ill patients
-with SARS-­CoV-2 pneumonia in Wuhan, China: a single-­centered, retrospective,
-observational study. Lancet Respir Med 2020;8:475–81.
-What is already known on this subject?
-►► Some preliminary, unadjusted reports on severe acute
-2 Guan WJ, ZY N, Hu Y, et al. Clinical characteristics of coronavirus disease 2019 in
-China. N Engl J Med 2020.
-3 Guo T, Fan Y, Chen M, et al. Cardiovascular implications of fatal outcomes of patients
-with coronavirus disease 2019 (COVID-19). JAMA Cardiol 2020.
-4 Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus
-Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases
-From the Chinese Center for Disease Control and Prevention. JAMA 2020
-5 Yang J, Zheng Y, Gou X, et al. Prevalence of comorbidities and its effects in
-6 Karakiulakis G, Roth M. Are patients with hypertension and diabetes mellitus at
-increased risk for COVID-19 infection? Lancet Respir Med 2020.
-­ ldosterone system
-7 Vaduganathan M, Vardeny O, Michel T, et al. Renin-­Angiotensin-A
-inhibitors in patients with Covid-19. N Engl J Med 2020.
-8 Zheng Y-­Y, Ma Y-­T, Zhang J-­Y, et al. COVID-19 and the cardiovascular system. Nat Rev
-9 Bavishi C, Maddox TM, Messerli FH. Coronavirus disease 2019 (COVID-19)
-10 Bravi F, Flacco ME, Carradori T, et al. Predictors of severe or lethal COVID-19, including
-angiotensin converting enzyme inhibitors and angiotensin II receptor blockers, in a
-sample of infected Italian citizens. Plos One 2020;15:e0235248.
-11 de Abajo FJ, Rodríguez-­Martín S, Lerma V, et al. Use of renin-­angiotensin-­aldosterone
-system inhibitors and risk of COVID-19 requiring admission to hospital: a case-­
-population study. Lancet 2020;395:1705–14.
-12 Giorgi Rossi P, Marino M, Formisano D, et al. Characteristics and outcomes of a cohort
-of SARS-­CoV-2 patients in the province of Reggio Emilia, Italy. MedRxiv2020.
-13 Liu Y, Huang F, Xu J, et al. Anti-­Hypertensive angiotensin II receptor blockers
-associated to mitigation of disease severity in elderly COVID-19 patients.
-14 Mancia G, Rea F, Ludergnani M, et al. Renin-­Angiotensin-­Aldosterone system blockers
-and the risk of Covid-19. N Engl J Med 2020;382:2431–40.
-15 Reynolds HR, Adhikari S, Pulgarin C, et al. Renin-­Angiotensin-A
-­ ldosterone system
-inhibitors and risk of Covid-19. N Engl J Med 2020.
-16 Tedeschi S, Giannella M, Bartoletti M, et al. Clinical impact of renin-­angiotensin
-system inhibitors on in-­hospital mortality of patients with hypertension hospitalized
-17 Bean D, Kraljevic Z, Searle T, et al. Treatment with ACE-­inhibitors is associated with
-less severe disease with SARS-­Covid-19 infection in a multi-­site UK acute Hospital
-18 Zhang P, Zhu L, Cai J, et al. Association of inpatient use of angiotensin converting
-enzyme inhibitors and angiotensin II receptor blockers with mortality among patients
-with hypertension hospitalized with COVID-19. Circ Res 2020.
-19 Mehta N, Kalra A, Nowacki AS, et al. Association of use of angiotensin-­converting
-enzyme inhibitors and angiotensin II receptor blockers with testing positive for
-coronavirus disease 2019 (COVID-19). JAMA Cardiol 2020.
-20 WHO. COVID-19 and the use of angiotensin-­converting enzyme inhibitors and
-receptor blockers - Scientific brief. WHO, 2020.
-21 Carr D. Sharing research data and findings relevant to the novel coronavirus
-(COVID-19) outbreak. secondary sharing research data and findings relevant to the
-coronavirus-c​ ovid-​19/o​ pen-​data
-22 Wells G, Shea B, O’Connell D, et al. The Newcastle-­Ottawa scale (NOS) for assessing
-the quality of nonrandomised studies in meta-­analyses. secondary the Newcastle-­
-Ottawa scale (NOS) for assessing the quality of nonrandomised studies in meta-­
-23 Manzoli L, Flacco ME, Boccia S, et al. Generic versus brand-­name drugs used in
-cardiovascular diseases. Eur J Epidemiol 2016;31:351–68.
-24 Manfredini R, Fabbian F, Cappadona R, et al. Daylight saving time and acute
-25 Mehra MR, Desai SS, Kuy S, et al. Cardiovascular disease, drug therapy, and mortality
-in Covid-19. N Engl J Med 2020.
-26 Mehra MR, Desai SS, Kuy S, et al. Retraction: cardiovascular disease, drug therapy, and
-mortality in Covid-19 2020. N Engl J Med.
-27 Kuster GM, Osswald S. Switching antihypertensive therapy in times of COVID-19: why
-we should wait for the evidence. Eur Heart J 2020;41:1857.
-28 Kuster GM, Pfister O, Burkard T, et al. SARS-­CoV2: should inhibitors of the
-renin-­angiotensin system be withdrawn in patients with COVID-19? Eur Heart J
-29 European Medicines Agency. Ema advises continued use of medicines for
-hypertension, heart or kidney disease during COVID-19 pandemic, 2020. Available:
-hypertension-h​ eart-​kidney-d​ isease-​during-​covid-​19-p​ andemic [Accessed 20 Apr
-30 European Society of Cardiology. Position statement of the ESC Council on
-hypertension on ACE-­inhibitors and angiotensin receptor blockers, 2020. Available:
-Cardiac risk factors and prevention
-physician?​utm_​campaign=​sciencenews19-​20&​utm_​source=s​ cience-​news&​utm_​
-medium=​phd-​link&u​ tm_​content=​phd03-​17-2​ 0
-32 Thomas LE, Bonow RO, Pencina MJ. Understanding observational treatment
-comparisons in the setting of coronavirus disease 2019 (COVID-19). JAMA Cardiol
-to selective inclusion of trial effect estimates: empirical study. BMJ Open
-statement-o​ f-​the-e​ sc-​council-​on-​hypertension-​on-​ace-​inhibitors-​and-​ang [Accessed
-31 American Hearth Association. Patients taking ACE-­i and Arbs who contract COVID-19
-should continue treatment, unless otherwise advised by their physician, 2020.
-contract-c​ ovid-​19-s​ hould-​continue-​treatment-​unless-​otherwise-​advised-​by-​their-​
+emerged  between the two groups, with a summary OR of from China,
+enrolling 1128 hospitalised hypertensive patients, showed a  sig‐
+nificant  risk  reduction  among treated subjects18; when its re‐
+sults were excluded from the analyses, the overall estimates  did
+not change (pooled OR 0.95; 95% CI 0.76 to 1.18). Another study25
+assessed the risk of death among ACE inhibitors/ARBs users versus
+non users and was initially included in the meta‐analysis. Howev‐
+er, this study was later retracted26; thus, it was excluded  from
+the  main analyses and included into a sensitivity analysis: with
+or without the study, the summary estimate did not change (pooled
+OR 0.85; 95% CI 0.81 to 1.03).  Two main findings emerge from the
+present meta‐analysis, which included the adjusted  estimates  of
+10 observational studies and No. of infected Cardiac risk factors
+and prevention No. of OR (95% CI) P value versus non‐users. ARBs,
+angiotensin  receptor  blockers.   1.  Severe/fatal COVID‐19* (in
+users vs non users): ACE inhibitors ARBs only10 1315 19 2.  Death
+from  COVID‐19 (in users vs non users): a. Main analysis: b. Sen‐
+sitivity analysis: All meta‐analyses are based on a  generic  in‐
+verse  variance  approach.   *Including  admission into intensive
+care unit, need for mechanical ventilation or Including  one  re‐
+tracted  study.25  26  ARBs, angiotensin receptor blockers; RAAS,
+reninangiotensinaldosterone.  almost  10  000  hypertensive  sub‐
+jects:  first, no significant differences in the risk of develop‐
+ing severe or fatal COVID‐19 were observed between  the  subjects
+treated with either ACE inhibitors or ARBs, as compared with non‐
+users. Second, and importantly, the results did not change  after
+the  exclusion of the three studies, which reported either a sig‐
+nificantly higher or lower risk of severe illness  among  treated
+patients.  The present findings provide solid evidence from prop‐
+erly adjusted estimates across different countries on the absence
+of  risk  from  RAAS  inhibitors  treatment  during the pandemic,
+strongly supporting the statements of several  experts27  28  and
+scientific  societies, including the European Medicines Agency,29
+the European Society of Cardiology30 and the American Heart Asso‐
+ciation,31  who  recommend continuation of ARBs or ACE inhibitors
+medication. Although the present findings do not support the  hy‐
+pothesis of a beneficial effect from therapy during the necessary
+time required for randomised data to come,  patients  and  physi‐
+cians  can  be  reassured.  Some limitations should be considered
+when interpreting the present findings. First, two meta‐ analyses
+showed an intermediate‐to‐high level of heterogeneity. However, a
+certain large variation in terms of setting and baseline patients
+characteristics. Also, when the analyses were repeated adopting a
+fixed approach, none of the results substantially  differed  (ex‐
+cept for CIs, which were typically tighter). Second, although all
+studies (with a single exception)13 provided  analyses  at  least
+adjusted  for versus non‐users.  age, gender and several underly‐
+ing comorbidities, some extent of residual confounding cannot  be
+completely ruled out, as for any observational study.32 Third, as
+shown in the funnel plots in the more than five studies, thus  it
+was  not  possible to perform a meaningful evaluation of publica‐
+tion bias. However, given the public health  relevance  of  these
+data,  it is unlikely that non‐ significant findingswith reassur‐
+ing implicationshave been withheld. Rather, it  is  certain  that
+large  dataset will be available soon. Given the urgency for mil‐
+lions of patients, we decided not to wait, but the present  meta‐
+analysis  will  have  to be updated as inclusion bias, due to the
+presence of multiple effect estimates that can be extracted  from
+individual studies,33 is likely to be low, as only one of the in‐
+cluded studies reported more than an adjusted estimate,18 and the
+results  of the meta‐analysis including the alternate estimate of
+effect were unchanged (pooled OR of death 0.88; 95%  CI  0.68  to
+1.13).   Acknowledging  these caveats, the present meta‐analysis,
+based on 10 studies and almost 10 000 hypertensive subjects,  did
+not  find  any association between COVID‐19 severity or mortality
+and treatment with ARBs, ACE inhibitors or  both,  strongly  sup‐
+porting  the  recommendation  of  several scientific societies to
+continue ARBs or ACE inhibitors medication for all patients,  un‐
+less  otherwise  advised  by their physicians, who should thus be
+reassured.  RC, LGM and LaM), conduct (MEF, CAM, FB, GP, RC,  AM,
+RM,  LGM)  and reporting (MEF, FB, GP, AM, RM, LGM and LM) of the
+present work.  users versus non‐users. ARBs, angiotensin receptor
+blockers.   users. ARBs, angiotensin receptor blockers.  subjects
+treated with RAAS inhibitors versus untreated  subjects,  overall
+and  by  drug  class Cardiac risk factors and prevention Key mes‐
+sages respiratory syndrome coronavirus 2 positive subjects showed
+an increased mortality and morbidity among hypertensive patients,
+who were frequently treated with ACE  inhibitors  or  angiotensin
+receptor  blockers  (ARBs).  Recently, some observational studies
+with multivariable analyses found no  association  between  these
+medications and COVID‐19 severity, a few studies found a signifi‐
+cant reduction in the risk of death or  severe  disease  and  one
+study found a increased risk of mechanical ventilation and admis‐
+sion to the intensive care unit. The magnitude of the association
+also  varied  across studies, which differed for patients charac‐
+teristics, setting (inpatient or outpatient), population targeted
+by serological testing protocols and extent of measured confound‐
+ing.  What might this study add?
+ This meta‐analysis is based on 10 adjusted observational studies
+(enrolling  almost  10 000 hypertensive subjects), from different
+countries, and provides the first summary estimate on the associ‐
+ation between ACE inhibitors or ARBs use and COVID‐19 severity or
+mortality. All analyses showed a comparable risk of severe or fa‐
+tal  illness among treated and untreated subjects, either consid‐
+ering ACE inhibitors or ARBs separately, or combined.  How  might
+this impact on clinical practice?
+ Given  that  ACE  inhibitors  and ARBs are prescribed to tens of
+millions patients  worldwide,  summary  estimates  were  strongly
+needed  to elucidate whether these drugs should be suspended dur‐
+ing the pandemic, or patients and physicians should be definitely
+reassured.  These findings strongly support the recommendation of
+several scientific societies to continue ARBs or  ACE  inhibitors
+medication  for  all  patients, unless otherwise advised by their
+physicians.  Competing interests None declared.  Patient and pub‐
+lic  involvement  Patients and/or the public were not involved in
+the design, or conduct, or reporting, or dissemination  plans  of
+this  research.   Patient  consent  for publication Not required.
+Ethics approval The study complies with the Declaration  of  Hel‐
+sinki.  As  a  meta‐ analysis, the protocol and study did not re‐
+quire the approval  from  Ethics  Committee.   Data  availability
+statement  Data  are  available  on  reasonable request. All data
+properly cited, appropriate credit is given, any changes made in‐
+dicated, and the use 1 Yang X, Yu Y, Xu J, et al. Clinical course
+and outcomes of critically ill patients with SARS‐CoV‐2 pneumonia
+in  Wuhan, China: a single‐centered, retrospective, observational
+study. Lancet Respir Med 2020;8:47581.  What is already known  on
+this subject?
+ Some  preliminary, unadjusted reports on severe acute 2 Guan WJ,
+ZY N, Hu Y, et al. Clinical characteristics of  coronavirus  dis‐
+ease  2019  in China. N Engl J Med 2020.  3 Guo T, Fan Y, Chen M,
+et al. Cardiovascular implications of fatal outcomes of  patients
+with  coronavirus  disease 2019 (COVID‐19). JAMA Cardiol 2020.  4
+Wu Z, McGoogan JM. Characteristics of and Important Lessons  From
+the Coronavirus Disease 2019 (COVID‐19) Outbreak in China: Summa‐
+ry of a Report of 72 314 Cases From the Chinese Center  for  Dis‐
+ease  Control and Prevention. JAMA 2020 5 Yang J, Zheng Y, Gou X,
+et al. Prevalence of comorbidities and its effects in 6  Karakiu‐
+lakis G, Roth M. Are patients with hypertension and diabetes mel‐
+litus at increased risk for COVID‐19 infection? Lancet Respir Med
+2020.
+ ldosterone  system 7 Vaduganathan M, Vardeny O, Michel T, et al.
+Renin‐Angiotensin‐A inhibitors in patients with Covid‐19. N  Engl
+J  Med 2020.  8 Zheng Y‐Y, Ma Y‐T, Zhang J‐Y, et al. COVID‐19 and
+the cardiovascular system.  Nat  Rev  9  Bavishi  C,  Maddox  TM,
+Messerli  FH.  Coronavirus  disease  2019  (COVID‐19) 10 Bravi F,
+Flacco ME, Carradori T, et al. Predictors  of  severe  or  lethal
+COVID‐19,  including angiotensin converting enzyme inhibitors and
+angiotensin II receptor blockers, in a sample of infected Italian
+citizens.  Plos  One 2020;15:e0235248.  11 de Abajo FJ, Rodrguez‐
+Martn S, Lerma V, et  al.  Use  of  renin‐angiotensin‐aldosterone
+system  inhibitors  and  risk  of COVID‐19 requiring admission to
+hospital: a case‐ population study. Lancet  2020;395:170514.   12
+Giorgi Rossi P, Marino M, Formisano D, et al. Characteristics and
+outcomes of a cohort of SARS‐CoV‐2 patients in  the  province  of
+Reggio  Emilia,  Italy. MedRxiv2020.  13 Liu Y, Huang F, Xu J, et
+al. Anti‐Hypertensive angiotensin II receptor blockers associated
+to  mitigation  of disease severity in elderly COVID‐19 patients.
+14 Mancia G, Rea F, Ludergnani M, et al. Renin‐Angiotensin‐Aldos‐
+terone  system  blockers  and  the risk of Covid‐19. N Engl J Med
+2020;382:243140.  15 Reynolds HR, Adhikari S, Pulgarin C, et  al.
+Renin‐Angiotensin‐A
+ ldosterone  system inhibitors and risk of Covid‐19. N Engl J Med
+2020.  16 Tedeschi S, Giannella M, Bartoletti M, et al.  Clinical
+impact of renin‐angiotensin system inhibitors on in‐hospital mor‐
+tality of patients with  hypertension  hospitalized  17  Bean  D,
+Kraljevic  Z,  Searle  T, et al. Treatment with ACE‐inhibitors is
+associated with less severe disease with SARS‐Covid‐19  infection
+in  a  multi‐site  UK acute Hospital 18 Zhang P, Zhu L, Cai J, et
+al. Association of inpatient use of angiotensin converting enzyme
+inhibitors  and  angiotensin  II receptor blockers with mortality
+among patients with hypertension hospitalized with COVID‐19. Circ
+Res 2020.  19 Mehta N, Kalra A, Nowacki AS, et al. Association of
+use of angiotensin‐converting enzyme inhibitors  and  angiotensin
+II  receptor  blockers with testing positive for coronavirus dis‐
+ease 2019 (COVID‐19). JAMA Cardiol 2020.  20  WHO.  COVID‐19  and
+the  use of angiotensin‐converting enzyme inhibitors and receptor
+blockers ‐ Scientific brief. WHO, 2020.  21 Carr D.  Sharing  re‐
+search  data  and  findings  relevant  to  the  novel coronavirus
+(COVID‐19) outbreak. secondary sharing research data and findings
+relevant to the coronavirus‐c ovid‐19/o pen‐data 22 Wells G, Shea
+B, OConnell D, et al. The Newcastle‐Ottawa scale  (NOS)  for  as‐
+sessing  the  quality  of nonrandomised studies in meta‐analyses.
+secondary the Newcastle‐ Ottawa scale  (NOS)  for  assessing  the
+quality  of  nonrandomised  studies in meta‐ 23 Manzoli L, Flacco
+ME, Boccia S, et al. Generic versus brand‐name drugs used in car‐
+diovascular  diseases. Eur J Epidemiol 2016;31:35168.  24 Manfre‐
+dini R, Fabbian F, Cappadona R, et al. Daylight saving  time  and
+acute  25  Mehra  MR, Desai SS, Kuy S, et al. Cardiovascular dis‐
+ease, drug therapy, and mortality in Covid‐19. N Engl J Med 2020.
+26  Mehra  MR, Desai SS, Kuy S, et al. Retraction: cardiovascular
+disease, drug therapy, and mortality in Covid‐19 2020. N  Engl  J
+Med.  27 Kuster GM, Osswald S. Switching antihypertensive therapy
+in times of COVID‐19: why we should wait for  the  evidence.  Eur
+Heart J 2020;41:1857.  28 Kuster GM, Pfister O, Burkard T, et al.
+SARS‐CoV2: should inhibitors of the renin‐angiotensin  system  be
+withdrawn  in  patients  with  COVID‐19?  Eur Heart J 29 European
+Medicines Agency. Ema advises continued use of medicines for  hy‐
+pertension,  heart  or  kidney  disease during COVID‐19 pandemic,
+2020.  Available:  hypertension‐h  eart‐kidney‐d   isease‐during‐
+covid‐19‐p andemic [Accessed 20 Apr 30 European Society of Cardi‐
+ology. Position statement of the ESC Council on  hypertension  on
+ACE‐inhibitors  and  angiotensin  receptor blockers, 2020. Avail‐
+able: Cardiac  risk  factors  and  prevention  physician?utm_cam‐
+paign=sciencenews19‐20&utm_source=s  cience‐news&utm_ medium=phd‐
+link&u tm_content=phd03‐17‐2 0 32 Thomas LE,  Bonow  RO,  Pencina
+MJ. Understanding observational treatment comparisons in the set‐
+ting of coronavirus disease 2019 (COVID‐19). JAMA Cardiol to  se‐
+lective inclusion of trial effect estimates: empirical study. BMJ
+Open  statement‐o  f‐the‐e  sc‐council‐on‐hypertension‐on‐ace‐in‐
+hibitors‐and‐ang  [Accessed  31  American Hearth Association. Pa‐
+tients taking ACE‐i and Arbs who contract COVID‐19 should contin‐
+ue  treatment, unless otherwise advised by their physician, 2020.
+contract‐c  ovid‐19‐s  hould‐continue‐treatment‐unless‐otherwise‐
+advised‐by‐their‐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

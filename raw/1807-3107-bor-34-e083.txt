@@ -1,0 +1,367 @@
+Oral Pathology
+COVID-19 pandemic and the impact
+on dental education: discussing current
+and future perspectives
+Renato Assis MACHADO(a)
+Paulo Rogério Ferreti BONAN(b)
+Danyel Elias da Cruz PEREZ(c)
+Hercílio MARTELLI JÚNIOR(d)
+and instructors are rethinking the way they teach and interact
+with students. New perspectives regarding a change in face-to-face
+activities, social isolation and the reformulation of clinical activities
+result in a transition toward e-learning and e-teaching processes. In this
+with virtual teaching and learning, searching for available tools and
+techniques as well as new perspectives.
+Universidade de São Paulo – USP, Hospital
+for Rehabilitation of Craniofacial Anomalies,
+Bauru, SP, Brazil.
+Universidade Federal da Paraíba – UFPB,
+Health Science Centre, João Pessoa,
+PB, Brazil.
+Keywords: Coronavirus; Education, Dental; Dentistry.
+Universidade Federal de Pernambuco –
+Clinical and Preventive Dentistry, Recife,
+PE, Brazil.
+Universidade Estadual de Montes Claros –
+Unimontes, Health Sciences Postgraduate
+Program, Montes Claros, MG, Brazil.
+associative interest that represents a conflict
+Renato Assis Machado
+Submitted: May 5, 2020
+Last revision: June 16, 2020
+Amid the confinement due to the COVID-19 pandemic, face-to-face
+classroom educational activities with undergraduate and postgraduate
+dentistry students were nearly interrupted worldwide. Educators are
+scrambling to adapt to social distancing (self-quarantine). The durations
+alternatives are being used to continue teaching activities. For instance,
+home and to provide remote courses and examinations, as requirements
+for a successful graduation were rebuilt.1 Moreover, new perceptions
+are incorporated into this new scenario, including students’ wellbeing,
+feelings of loneliness, and familiar losses.1 In a recent survey focusing on
+in organizing virtual meetings and, less frequently, small-scale working
+United States, few recommendations were made on social distancing to
+protect students, faculty, staff, and patients, and on how to follow dental
+education.3 At this point, we have no precise information about Brazilian
+susceptible to infections, including COVID-19, due to poorer knowledge
+and insufficient infection prevention.4
+Well-known platforms such as email, Google ® educational tools,
+Skype®, Facebook®, Instagram®, YouTube®, WhatsApp®, and Telegram® are
+Braz. Oral Res. 2020;34:e083
+COVID-19 pandemic and the impact on dental education: discussing current and future perspectives
+intensively used worldwide for theoretical contents,
+and are now adapting to this new purpose.5,6,7,8,9,10
+Other platforms, such as LinkedIn® and Pinterest®,
+can also be used. New forms of classroom conference
+and lectures, using videoconference systems like
+Zoom®, Jitsi®, Microsoft Teams®, and WebEx® were
+implemented at many institutions.11,12,13,14 Other
+institutions advocate the use of personal platforms
+such as Moodle® to spread educational contents and
+to improve the communication between students
+and professors.
+Despite these new adaptations focusing on
+educational matters, there is little evidence regarding
+the actual impact of these media platforms on student
+formation and knowledge solidification. Studies have
+highlighted successful experiences, albeit in isolated
+dental specialties.15 Moreover, when preclinical and
+clinical training are considered, available options
+are scarce. To comprehend this new reality and
+suggest new approaches to critical areas of e-learning
+and e-teaching in Dentistry, we aimed to critically
+discuss the current and future perspectives for dental
+education in the COVID-19 era.
+Electronic platforms for theoretical
+education during the COVID-19 era
+The COVID-19 crisis revealed that we have
+underestimated the role of the e-oral health
+infrastructure, and education and services issues,
+including teledentistry, which is incipient, albeit
+promissory.1 Electronic platforms, video conferencing
+networks and social media are being used for
+theoretical purposes. 5,6,7,8,9,10,11,12,13,14,15 Educational
+electronic platforms are presented by educational
+institutions as an official alternative for nonclassroom activities. For example, Moodle® platforms
+promoting blended-learning to enhance student
+training and improve their achievements, in line
+with international standards.17 On Moodle ®, it is
+possible to send didactic material, post videos, conduct
+forum discussions, tasks, assessments, and organize
+personal communication with students. Focusing
+Braz. Oral Res. 2020;34:e083
+Moodle® provided otherwise unavailable formative
+e-assessments and accommodated various question
+formats, and different skill levels taught by instructors.
+Generally, students were found to have positive
+impressions despite technical problems and related
+stresses.18 While these platforms are advantageous
+because they are already structured and universal,
+they require improvements, constant maintenance,
+and a quality internet connection.
+Open and paid platforms, such as Zoom®, Jitsi®
+or WebEx®, are interesting alternatives to classroom
+settings, although they depend on a quality internet
+connection. An interesting study,19 on ProblemBased Learning using WebEx ® revealed some
+issues with student distraction (phones and web
+browsing). Virtual facilitation required vigilance from
+facilitators and, sometimes, intervention. Students
+had a satisfactory assimilation and memorization.
+Assessments made by virtual platforms were not
+altered significantly, and facilitators easily acclimated
+to this new learning method. Although using physical
+means in face-to-face education is a more effective
+communication modality for clinical case-based
+discussions; remote, internet-based discussions on
+virtual platforms enable a more relaxed discussion
+ambience. However, their effectiveness depends
+upon a robust and ergonomic interface, involving
+some prior training.11 The Zoom® platform, for
+instance, could be associated with other tools such
+as Twitter with satisfying results in small-group
+formats, engendering robust discussions and sparing
+unnecessary commutating during social isolation
+and even social restrictions over student gatherings.14
+At this point, the discussion on new contents and
+educational approaches could be unified, as for
+phone applications, which keep students updated
+with the latest information about infectious diseases
+and prevention.4 Other commonly used learning
+platforms are Microsoft Teams® and Google Meet® as
+well as its additional resources, Google Classroom®
+and Hangout ®. Google Meet ® allows live activities
+with up to 250 simultaneous participants, with the
+possibility of sharing the presenter’s screen (teacher
+or student), allowing various didactic actions. In
+Machado RA, Bonan RRF, Perez DEC, Martelli Júnior H
+addition, with the consent of all participants, the
+activity can be recorded and stored in Google
+Drive® or Google Classroom®, for later reference.
+In remote activities, the privacy of user data is
+crucial. Tools using end-to-end encrypted systems,
+of which only the users can read the message,
+are recommended. These systems ensure secure
+information, without interference from external
+manufacturers and servers.20
+Social media platforms, including Instagram®,
+Facebook®, WhatsApp®, Telegram®, and YouTube® are
+widely used as teaching alternatives. WhatsApp® ’s
+usefulness as a tool for telepathology was evaluated,
+and provided satisfying responses to efficient
+screening, identifying suspicious lesions and
+a letter highlighting the importance of WhatsApp®
+as a communication and counseling tool during
+the COVID-19 crisis, focusing on oral diagnoses.7
+A comparison between the reception and response
+times of WhatsApp ® and traditional electronic
+email, within the dental educational environment,
+showed that better results are achieved using instant
+multimedia messaging.10 Facebook® allows students
+to discuss topics more openly and flexibly, with less
+rigid time and place constraints. It could be useful in
+teaching the theoretical aspects of medical emergencies
+in dental practice.6
+Although these social media platforms are
+universal, the students may be distracted by low
+quality content. Recently we have demonstrated that
+the available content on oral cancer on this social
+media is of poor quality, considering various types
+of available media.1 There is also no quality filter, and
+all types of content can be accessed. Other questions
+dwell on policies and legal issues, which academic
+dental institutions need to consider as they develop
+effective social media policies, including compliance
+perspectives and providing the needed resources.8
+As an alternative to institutional digital electronic
+platforms, we have used YouTube®, Instagram®, and
+WhatsApp® as an open regional information network.
+From the content generated by teachers and researchers
+from various member institutions, we have been
+via WhatsApp®. We have had an especially helpful
+experience through a “Live” broadcasted on YouTube®
+For this event, we gathered over a hundred
+professors, practitioners, and students from different
+Brazilian regions, to discuss topics on oral cancer and
+oncologic treatment side effects. Conversely, apps for
+mobile devices can be developed and remotely used,
+enabling interaction, including between teachers and
+students, as well as for content to be shared. These
+apps would enable interactions through conventional
+social media, and provide highly reliable content.
+Recently, we highlighted the possibility for health
+professionals and patients to interact through apps
+or social media amid the pandemic, which could
+also be applied to professor-student interactions.7
+Preclinical and clinical e-learning activities
+during the COVID-19 era
+Together, these devices are being used to teach
+theoretical content. However, another concern is the
+interruption of education on laboratorial, preclinical,
+and clinical activities. How can students receive
+their theoretical-practical training without teaching
+preclinical or clinical activities face to face? For
+to modify their assessment schedule or extend program
+dates, particularly regarding clinical hours, rather
+than reducing the clinical graduation requirements.2
+we should rethink and remodel our infrastructure
+offer, and manage occupational hazards, focusing
+on the safety of our students, staff, and patients.1 As
+this situation could last, we should find alternatives
+to keep training our students until dental practice
+can resume.
+simulation with dental training manikins is
+extremely difficult. Although different clinical dental
+care simulators have been developed and yielded
+satisfying results,21,22 they are scarce in educational
+of dentistry, and are very expensive. Conversely,
+other virtual models could be used more widely. For
+instance, positive experiences have been reported
+with virtual slides using whole-slide image for oral
+Braz. Oral Res. 2020;34:e083
+COVID-19 pandemic and the impact on dental education: discussing current and future perspectives
+pathology education, with superior results than with
+the traditional approach (conventional microscopy).23
+glass slide, producing a high-resolution digital slide
+(whole-slide imaging), which enables the analysis
+and study of the slide in specific programs, according
+to the digitization system.24 Usually, the software
+used in analysis is freely accessible. The wholeslide imaging can be stored on the institution’s own
+drives or servers. Thus, the files can be accessed
+by teachers and students, including being shared
+on learning platforms during live performances.
+Despite the automatic digital slide scanner being
+equipment and use whole-slide imaging during
+oral pathology education.
+Case-based discussions are an important learning
+strategy, applied in several dental specialties and
+courses. Virtual patient (VP)-based learning consists
+of simulating clinical cases to improve students’
+skills in decision making and diagnosis. Recently,
+a web-based VP training study on herpes simplex
+infection and recurrent aphthous stomatitis found
+an improved learning in dental students. 25 The
+learning platforms can also offer the possibility of
+case-based discussions. Besides chat discussion,
+live discussions are allowed, as well as sharing
+clinical, imaging and/or histopathological images.
+In such activities, the protection of patients’ data,
+including images and demographic data, is essential.
+End-to-end encrypted systems are indispensable.
+In addition, many countries’ data protection rights
+do not allow patient data to be transmitted to foreign
+servers.20 Case-based discussions can be also achieved
+using social media, such as Instagram®, Facebook®,
+YouTube®, Twitter®, LinkedIn® and Pinterest ®.
+Another example is the use of a mobile app
+containing reference images, which was found
+to improve the students’ ability to diagnose
+endodontic complications with excellent results.26
+For prosthodontics, an app could effectively improve
+clinical reasoning skills for planning prosthodontic
+rehabilitation.27 However, we have, at this point, very
+few options available for our students. We strongly
+suggest these new options and the joint development
+of apps with computational teams focusing on complex
+Braz. Oral Res. 2020;34:e083
+scenarios such as theoretical, preclinical and clinical
+practices. Nevertheless, regarding teaching activities
+can replace experience with patients. In addition,
+in Brazil, mandatory curricular internships in the
+public service are also suspended.
+Care for staff members, professors,
+technicians, and students
+Different degrees of proximity to COVID-19,
+the need for social distancing and isolation, and
+uncertainties about the outcome of the pandemic
+can significantly affect staff members and students’
+mental health. For students, concern about the delay
+in completing graduation is an additional issue,
+especially for final-year students. This context can
+cause anxiety, poor sleep or short sleep durations,
+predisposing people to depression and post-traumatic
+stress disorders.28 Mental health disorders negatively
+impact learning and academic achievement.29 Thus,
+the monitoring of staff members and students by
+the direction of college is important. Even in a
+period of uncertainty, holding regular meetings,
+especially with students, can reassure them and
+help decrease anxiety.
+Although there are no official data on teaching
+COVID-19 pandemic, the sudden interruption of
+emergency e-learning plan. Particularly in Brazil,
+most dental professors are untrained to perform
+remote learning. In addition to the need for adequate
+training, the sudden inception of e-learning can
+further increase anxiety. It should also be considered
+that the sudden start of e-learning can be a stressor
+for students, considering that not everyone will
+adequately adapt to this teaching modality. The
+to keep staff and students motivated.
+The COVID-19 pandemic has a significant economic
+impact, with an increased worldwide unemployment
+about-the-ilo/newsroom/news/WCMS_738742/lang-en/index.htm) where, with the adoption of social
+students are low-income, with a family income per
+Machado RA, Bonan RRF, Perez DEC, Martelli Júnior H
+capita of up to 1.5 minimum wages (minimum wage:
+There are also low-income students in private dental
+this context and the high financial cost of dentistry
+course, many students need a job to achieve their
+goals. Thus, considering the ongoing critical pandemic
+crisis, it is reasonable to hypothesize an increase in
+dropout rates in dentistry courses in Brazil. This
+aspect must also be carefully considered by higher
+education institutions’ administrations, both public
+and private.
+Future perspectives
+Considering our new reality, it is possible to
+continue teaching theoretical content, keeping
+students’ unequal access to quality internet in
+mind, especially those with low income. However,
+few effective alternatives are available to dental
+students today, considering pre-clinical and clinical
+access restrictions to academic buildings, and
+planned to provide or were already providing
+Additionally, dentistry will have to ensure a greater
+convergence with medicine.4 We should rethink our
+curriculum and our way of delivering classes and
+lectures in adequation with this new reality.3,16,19 The
+COVID-19 pandemic highlights a need for further
+research in this area, to educate our students more
+comprehensively. Our educational councils should be
+stimulated to formulate institutional policies which
+generate new options for students and professors in
+this new reality. Finally, the challenges will be greater
+in developing countries. Unequal student access
+to quality internet can compromise achievement
+in remote activities. To return to clinical activities,
+clinics, to adapt to the new biosafety reality of the
+post-pandemic period.
+1. Emami E. COVID-19: Perspective of a dean of dentistry. JDR Clin Trans Res. 2020 May;5(3):211-3.
+2. Quinn B, Field J, Gorter R, Akota I, Manzanares MC, Paganelli C, et al. COVID-19: The immediate response of
+European Academic Dental Institutions and future implications for dental education. Eur J Dent Educ. 2020 May;eje.12542.
+3. Iyer P, Aziz K, Ojcius DM. Impact of COVID-19 on dental education in the United States. J Dent Educ. 2020 Jun;84(6):718-22.
+5. Passos KK, Leonel AC, Bonan PR, Castro JF, Pontual ML, Ramos-Perez FM, et al. Quality of information about oral cancer in
+Brazilian Portuguese available on Google, Youtube, and Instagram. Med Oral Patol Oral Cir Bucal. 2020 May;25(3):e346-52.
+6. Alshiekhly U, Arrar R, Barngkgei I, Dashash M. Facebook as a learning environment for teaching medical emergencies in dental practice.
+7. Machado RA, Souza NL, Oliveira RM, Martelli Júnior H, Bonan PR. Social media and telemedicine for oral diagnosis and counselling in
+8. Spallek H, Turner SP, Donate-Bartfield E, Chambers D, McAndrew M, Zarkowski P, et al. Social media in the dental
+9. Das R, Manaktala N, Bhatia T, Agarwal S, Natarajan S, Lewis AJ, et al. Efficiency of mobile video sharing application (WhatsApp®) in
+10. Poblete P, Nieto E. Does time matter? WhatsApp vs electronic mail for dental education. A pilot study. Eur J Dent Educ.
+Braz. Oral Res. 2020;34:e083
+COVID-19 pandemic and the impact on dental education: discussing current and future perspectives
+11. Martin N, Lazalde OM, Stokes C, Romano D. An evaluation of remote communication versus face-to-face in clinical dental education.
+12. Klein KP, Hannum WM, Koroluk LD, Proffit WR. Interactive distance learning for orthodontic residents: utilization and acceptability. Am J
+13. Wootton AR, McCuistian C, Legnitto Packard DA, Gruber VA, Saberi P. Overcoming technological challenges: lessons learned from a
+14. Halpin PA, Lockwood MK. The use of Twitter and Zoom videoconferencing in healthcare professions seminar course benefits students at
+15. Santos GN, Leite AF, Figueiredo PT, Pimentel NM, Flores-Mir C, Melo NS, et al. Effectiveness of e-learning in oral radiology education: a
+education and research. J Pak Med Assoc. 2018 Jul;68(7):1076-8.
+19. Haley CM, Brown B. Adapting problem-based learning curricula to a virtual environment. J Dent Educ. 2020 May.
+20. Pontual ML, Nascimento EH, Cruz Perez DE, Pontual AA, Ramos-Perez FM. Challenges in oral radiology teaching during
+22. Buchanan JA. Experience with virtual reality-based technology in teaching restorative dental procedures. J Dent Educ.
+23. Fernandes CIR, Bonan RF, Bonan PRF, Leonel ACLS, Carvalho EJA, Castro JFL, et al. Dental students’ perceptions and performance in
+25. Mardani M, Cheraghian S, Naeeni SK, Zarifsanaiey N. Effectiveness of virtual patients in teaching clinical decision-making skills to
+26. Oliveira ML, Verner FS, Kamburogğlu K, Silva JN, Junqueira RB. Effectiveness of using a mobile app to improve dental
+students’ ability to identify endodontic complications from periapical radiographs. J Dent Educ. 2019 Sep;83(9):1092-9.
+27. Deshpande S, Chahande J, Rathi A. Mobile learning app: a novel method to teach clinical decision making in prosthodontics. Educ
+28. Tang W, Hu T, Hu B, Jin C, Wang G, Xie C, et al. Prevalence and correlates of PTSD and depressive symptoms one month after the
+29. Araújo FJ, Lima LS, Cidade PI, Nobre CB, Rolim Neto ML. Impact of Sars-Cov-2 and its reverberation in global higher education and
+Braz. Oral Res. 2020;34:e083

@@ -1,481 +1,396 @@
-Rev. Latino-Am. Enfermagem
-Which curve provides the best explanation of the growth in confirmed
-COVID-19 cases in Chile?*
-Víctor Díaz-Narváez1
-David San-Martín-Roldán2
-Aracelis Calzadilla-Núñez3
-Pablo San-Martín-Roldán4
-that could explain the epidemiological behavior of the
-infection by COVID-19 and derive the possible causes that
-contribute to explain the corresponding model and the
-Alexander Parody-Muñoz5
-Gonzalo Robledo-Veloso
-Objective: to explore the best type of curve or trend model
-health implications that can be inferred. Method: data were
-collected from the COVID-19 reports of the Department of
-Epidemiology, Ministry of Health, Chile. Curve adjustment
-studies were developed with the data in four different models:
-quadratic, exponential, simple exponential smoothing, and
-double exponential smoothing. The significance level used
-was α≤0.05. Results: the curve that best fits the evolution of
-the accumulated confirmed cases of COVID-19 in Chile is the
-doubly-smoothed exponential curve. Conclusion: the number
-of infected patients will continue to increase. Chile needs to
-Health Context”.
-Universidad Andres Bello, Facultad de Odontología,
-Santiago, Chile.
-and control measures. The behavior of the population plays a
-fundamental role. We suggest not relaxing restrictions and
-Universidad de Valparaíso, Facultad de Medicina, Escuela
-further improving epidemiological surveillance. Emergency
-de Obstetricia y Puericultura, Valparaíso, Chile.
-preparations are needed and more resource elements need
-Universidad Bernardo OHiggins, Facultad de Salud,
-Santiago, Chile.
-remain vigilant and adjust the strategies around the prevention
-Universidad Mayor, Facultad de Ciencias, Escuela de
-Nutrición y Dietética, Santiago, Chile.
-Universidad Metropolitana, Barranquilla, Colombia.
-Universidad de Chile, Facultad de Ciencias, Santiago,
-to be added to the current health support. This prediction is
-provisional and depends on keeping all intervening variables
-constant. Any alteration will modify the prediction.
-Descriptors: COVID-19; Coronavirus; 2019-nCoV; Coronavirus
-Infections; Pandemics; Epidemiology.
-Díaz-Narváez V, San-Martín-Roldán D, Calzadilla-Núñez A, San-Martín-Roldán P, Parody-Muñoz A,
-Robledo-Veloso G. Which curve provides the best explanation of the growth in confirmed
-COVID-19 cases in Chile?. Rev. Latino-Am. Enfermagem. 2020;28:e3346. [Access ___ __ ____];
-month day
-Rev. Latino-Am. Enfermagem 2020;28:e3346.
-formulate effective control strategies. The objective is to
-know what type of curve or model can best explain the
-The rising pneumonia called COVID-19, caused
-epidemiological behavior of the accumulated confirmed
-by SARS-CoV-2, exhibits strong infectivity but less
-cases of COVID-19 and identify the possible causes that
-virulence when compared to SARS-CoV-1 and MERS-CoV
-contribute to explain the corresponding model and the
-in terms of morbidity and mortality. It is not only a virus
-health implications that can be inferred.
-that spreads from one person to another, but probably
-spreads because many people become infected in various
-places through different mechanisms. Restricting the
-movement of people, reducing contact, disseminating
-Data were collected from the COVID-19 reports
-key high-frequency prevention information through
-from the Department of Epidemiology of the Ministry
-of Health in Chile (MINSAL). The data are publicly
-to respond quickly to the contingency, can help contain
-the pandemic(1-5).
-The actual number of infected cases is much
-with the data in four different models: quadratic(13),
-larger than that reported worldwide. The observed
-exponential(13-14), simple exponential smoothing using the
-mortality rate of COVID-19 is estimated at around 4.8%
-formula [Ft = F (t-1) + α – A(t-1)] , where Ft = new prognosis,
-worldwide. Although this rate is low in Chile, this estimate
-may be incorrect due to underestimation, because
-earlier prognosis and double exponential smoothing
-using Holt’s method with trend adjustment [FITt = Ft +
-severe cases is higher and, as active cases increase,
-Tt]; where FITt is the forecasted value]; the components
-the health resources do not support the demand and
-of this formula are: [Ft=F(t-1) + α (A
-overestimation, considering that the vast majority of
-y [Tt = δ (Ft – F
-cases without symptoms or with mild symptoms are not
-estimated: the mean absolute percentage error (MAPE);
-the mean absolute deviation (MAD); the mean squared
-= earlier prognosis and A(t-1) = actual value of the
-. The following were
-The COVID-19 pandemic is an important international
-deviation (MSD). Criterion for choosing the best curve:
-test for the medical and scientific community, as it
-small error coefficients. Indicator α is the weighting used
-reveals weaknesses in the management of emerging
-in the level component of the smoothened estimate and
-viral diseases and reminds us that contagious diseases
-δ is the weighting used in the trend component of the
-should never be underestimated. In addition, it has
-smoothened estimate (similar to a moving average of
-strained health systems due to the virulence and excess
-the differences between consecutive observations)(15-16).
-demand on hospitals
-To adjust the level of smoothing of the data (elimination
-It is essential to understand the transmission
-of irregular fluctuations), the optimal ARIMA model was
-dynamics of the infection, as it could determine whether
-used for weighting, minimizing the sum of the square
-outbreak control measures are exerting a significant effect.
-residues(18-19). The absolute error of each measure was
-The numbers of newly infected cases largely depend on the
-the difference (∆) between the actual observed value
-effectiveness of the control measures. Several governments
-and the predicted value of confirmed cases for the same
-have rapidly incorporated recent scientific findings into
-day. The median and interquartile range were estimated
-public policies at community, regional and national levels to
-after checking for the normality of the absolute errors
-slow down and/or prevent the further spread of COVID-19.
-using the Kolmogorov-Smirnov test. Minitab 18.0®
-Control measures such as quarantine, travel restrictions
-and airport inspections for travellers have been widely
-implemented to contain the spread of infections. The
-software was used. The significance level was α ≤ 0.05.
-effectiveness of these containment measures to control
-the outbreak is inconclusive though(1,3,5-6,11).
-It is advisable for government entities to report
-regression equations of the observed data curves of
-on the current state of the pandemic in daily reports,
-confirmed, adjusted and predicted cases in the quadratic,
-exponential, simple exponential smoothing and double
-COVID-19. Statistics need to be read carefully though,
-exponential smoothing models. The MAD, MAPE, and
-as it is leading to massive panic without organized
-MSD coefficients are lower in the double exponential
-solutions related to the redistribution of resources(12).
-smoothing curve, which shows that the curve that best
-Understanding the epidemiological characteristics
-of COVID-19 transmission in Chile is essential to
-fits the evolution of the accumulated confirmed cases of
-COVID-19 in Chile is the one described above.
-Díaz-Narváez V, San-Martín-Roldán D, Calzadilla-Núñez A, San-Martín-Roldán P, Parody-Muñoz A, Robledo-Veloso G.
-Exactness measures
-Accumulated confirmed cases
-Accumulated confirmed cases
-Exactness measures
-Day/Month Year 2020
-Day/Month Year 2020
-Figura 1¶ – Simple exponential smoothing model
-Figura 1** – Double exponential smoothing model
-Smoothing constant
-Exactness measures
-Casos confirmados acumulados
-Accumulated confirmed cases
-Smoothing constant
-Exactness measures
-Day/Month Year 2020
-Day/Month Year 2020
-the model. Chile, 2020
-predicted value on the previous day of confirmed cases
-results of the forecasted number of confirmed cases
-(with its corresponding confidence interval) and the
-from March 3rd, 2020 to August 30th, 2020. The MAPE
-actual result of confirmed cases that occurred on the
-coefficients are the lowest in the double exponential
-predicted day. The results of actual confirmed cases
-smoothing curve and the same is true for the MAD
-differ little from the predicted value (S-W = 0.907;
-median = 53.2 and interquartile range= 72.80) and,
-As observed, the confidence intervals increase as
-with some exceptions, the actual value was within the
-predicted further ahead and, therefore, the estimation
-estimated confidence interval for the predicted day.
-error increases(18).
-confidence interval) and the actual result of confirmed cases that occurred on the predicted day, using the double
-exponential smoothing method. Chile, 2020
-Prognosis [*95% CI]
-Rev. Latino-Am. Enfermagem 2020;28:e3346.
-Prognosis [*95% CI]
-Accumulated confirmed cases
-*CI = Confidence interval; †CC = Confirmed cases
-Smoothing constants
-Exactness measures
-Day/Month Year
-* IP = prediction interval; †MAPE = Mean absolute percentage error; ‡MAD = Mean absolute deviation; §MSD = Mean squared deviation
-Díaz-Narváez V, San-Martín-Roldán D, Calzadilla-Núñez A, San-Martín-Roldán P, Parody-Muñoz A, Robledo-Veloso G.
-using the double exponential smoothing model. Chile, 2020
-LL* - CI†
-UL‡ - CI†
-*LL: Lower limit;
-CI: Confidence interval;
-UL: Upper limit
-contact with the cases and monitor them so that patients
-can quickly access clinical care. If none of these points
-The progress of the COVID-19 pandemic in Chile fits
-are achieved, any action or indication will be ineffective
-well into a model and we study its predictive capacity.
-in containing the pandemic. Chile has disseminated
-By analyzing the epidemiological characteristics and
-neither the notified contact indicators nor the indicator
-of test results delivered within 24 hours. Contacts are
-disease, the key to successful outbreak control is
-being notified, but without any specification of the time.
-obtained through mitigation strategies(6).
-There are no statistics either with regard to compliance
-The World Health Organization (WHO) has indicated
-that easing restrictions does not end the epidemic in any
-with quarantines or supervised discharge of confirmed
-country. Ending the epidemic will require a sustained
-WHO has provided support for epidemiological
-effort by individuals, communities and governments
-studies of seroprevalence, which suggest that the
-percentage of the population infected with antibodies
-surveillance is recommended to detect cases early and
-may be relatively small (2-3%), without knowing how
-isolate them, quickly locate those who have been in
-long this immunity lasts(20).
-Rev. Latino-Am. Enfermagem 2020;28:e3346.
-The mathematical model of any process tries to
-19th). It should be mentioned that active cases in Chile
-describe its basic components and tries to predict some
-represent 47.04% (SD=1.96) of confirmed cases, as
-general trends, but it will never be able to provide an
-of May 5th, 2020. The propensity of this percentage
-exact description and prediction
-. Various causes
-should tend to decrease gradually and slowly according
-impede this in an epidemiological context: (a) no model
-to international experience, but it has stagnated for
-can include all variables that influence a process; (b)
-13 days between 45-50%. This stagnation is probably
-there are unknown variables that cannot be incorporated
-due to the fact that the public health strategies and the
-in the prediction; (c) these variables depend on
-population’s behavior are not equivalent to that of the
-conditions and the specific nature of the virus, on the
-countries mentioned(26-38).
-social conditions people live in, and on the immunity
-Chile needs to remain vigilant and adjust strategies
-status of a particular patient; (d) the socio-economic
-around prevention and control measures, which means
-infrastructure of a country; (e) the capacities of the
-to improve health actions and to strengthen surveillance
-health system at a given time, f) a smart health policy
-systems and public health infrastructure to provide the
-that a country could implement to prevent the spread
-early detection and rapid response. We hope, for the
-and take the most appropriate measures to mitigate the
-sake of Chilean health, that the support of infrastructure
-impact of the process associated to these infections to
-and health assets achieve the results in terms of
-the maximum; and (g) on the intelligence and level of
-effectiveness and do not pose a problem of needs and
-resources. At the same time, emergency preparations
-are necessary in response to a more serious outbreak
-in other parts of the world. The knowledge of these
-that may occur(1,6).
-variables and the consequent intentional modification of
-The monitoring of simple but at the same time
-all or some of these variables will modify the contagion
-critical parameters of patient behavior at an intensive
-rate in a positive or negative way. Therefore, this rate
-care unit (ICU) grants us critical information to know
-and the specific derivations of the nature of all of these
-these parameters and their evolution in terms of severity,
-variables make it impossible to create an exact forecast
-providing information for the sake of control, intervention
-of the future. Thus, the model presented here can only
-and mitigation strategy proposals. The current use of the
-provide a basis for a comprehension mechanism, under
-intensive care capacity for COVID-19 patients represents
-the type of circumstances, constraints and current
-on average 17.10% (SD=1.35) of the total available ICU
-population conditions. All of these aspects limit the
-beds in Chile. Whether the country reaches 20,111 active
-predictive capacity and attention needs to be paid to
-cases (42,751 confirmed cases, according to the active
-changes in the determining factors that may constitute
-case/confirmed case ratio), the number of intensive
-the cause compelling to change the model to explain
-care beds will not be sufficient for COVID-19 patients
-the behavior of the pandemic. One of the transcendental
-and this health support would collapse. This would
-aspects in epidemiology is to try to predict the evolution
-happen on May 22nd, 2020. This calculation considers
-of infectious diseases. This attempt is usually done
-the current number of intensive care beds available in
-through models that consider the progress of cases over
-Chile: 3,264 and the average percentage of intensive
-time in a certain place, transmissibility, among other
-care capacity use for COVID-19 patients in Chile, which
-causes. Nevertheless, these do not include the specific
-is 8.28% (SD=1.06), and intensive care capacity use
-characteristics of the affected population(23-25).
-in non-COVID-19 patients, which is 48.96% (SD=1.74)
-The experience of European countries that have
-. If the number of ICU beds remains constant and
-indicated specific population intervention measures has
-the incidence does not decelerate (as it falls within the
-shown that the deceleration of the incidence is achieved
-error margin of the prediction), but the ratio of active
-when a percentage or critical mass of confirmed cases
-cases/confirmed cases decreases, then the scenario of
-is reached, compared to the general population. That
-ICU collapse is likely.
-is the case for: Austria (0.12%), Norway (0.12%),
-Ventilation support is the cornerstone of the
-management of subjects with respiratory failure due
-(0.15%), Denmark (0.15%), Switzerland (0.17%),
-to COVID-19. The current use of invasive mechanical
-United Kingdom (0.18%), Portugal (0.18%), Iceland
-ventilation (IMV) for COVID-19 patients represents on
-(0.18%), Sweden (0.20%), Spain (0.21%) and Italy
-average 18.48% (SD=1.22) of the total mechanical
-(0.21%). It is estimated that the slowdown in the
-ventilators (MV) available in Chile. If the country reaches
-incidence in Chile would be achieved when the average
-28,423 active cases (60,418 confirmed cases, according
-of 31.527 (SD=12.160) confirmed cases is reached.
-to the active case/confirmed case ratio), MV will not be
-That happens on May 13th, 2020 (May 10th and July
-sufficient for the ventilatory needs of COVID-19 patients
-Díaz-Narváez V, San-Martín-Roldán D, Calzadilla-Núñez A, San-Martín-Roldán P, Parody-Muñoz A, Robledo-Veloso G.
-and this health support would collapse. This would
-curve. From this model, it follows that the number of
-happen on June 4 , 2020. This calculation considers the
-infected cases will continue to increase. The number of
-current number of MV available in Chile: 1,825 and the
-confirmed cases will grow stronger and within a short time
-average percentages in Chile of IMV use in COVID-19
-if the population behavior and public health measures
-patients, which is 5.01% (SD=0.67), and of IMV use
-are not in line with the size of this international public
-in non-COVID-19 patients, which is 21.91% (SD=1.17)
-health emergency. We hope that the results will enable
-. If the number of MV remains constant and the
-the medical staff and leaders to make decisions. In no
-incidence rate (as it falls within the error margin of the
-case should restrictions be relaxed and epidemiological
-prediction) and the active case/confirmed case ratio
-surveillance needs improvements, as this is not the end
-do not decrease, the scenario of health failure due to
-of the pandemic.
-the lack of MV is plausible, although less likely than the
-collapse of the intensive care system.
-This predictive model is provisional and depends
-on the constant use of all the variables maintained.
-Any change will undoubtedly modify the prediction and,
-therefore, daily variations should be monitored, although
-the predictive model does not present considerable and
-important faults in the current reality. The predictions of
-this model have been good and have a safety coefficient
-that allows us to calculate with some slack the public
-health needs the care for the current cases might require.
-This information is relevant when deciding on measures
-to contain an epidemic. The appropriate fit and good
-predictive capacity of this model makes it possible to
-propose it as an epidemiological method for monitoring
-and predicting the progression of infectious diseases in the
-local situation, e.g. regions, provinces and communes(43).
-Our approach has limitations. This study was
-based on the cases reported by MINSAL and contains
-the biases of case confirmation and information, which
-may be delayed with respect to the occurrence of cases,
-the delay in the appearance of symptoms due to the
-incubation period and the high proportion of unreported
-cases as a result of limited detection and testing capacity.
-Moreover, data sources may be biased, incomplete or
-only capture certain aspects, versus others that may
-be equally relevant, such as chronic pathologies, risk
-factors, nutritional status, among others.
-This analysis does not necessarily represent the actual
-situation of the cases, as it excludes confirmed cases in
-laboratories not considered by surveillance systems and
-sub-clinical cases. This model does not consider variations
-due to seasonal changes, social aggregation, etc. either.
-In addition, it is dependent on the addition of new MV
-to the health network. This analysis of epidemiological
-characteristics provides important information on the
-behavior of COVID-19 to propose effective control
-strategies at all levels of health care(7).
-The type of curve that best explains the behavior
-of COVID-19 in Chile is a doubly smoothed exponential
-1. Epidemiology Working Group for NCIP Epidemic
-Response, Chinese Center for Disease Control and
-(COVID-19) in China. Zhonghua Liu Xing Bing Xue Za
-2. Guo YR, Cao QD, Hong ZS, Tan YY, Chen SD, Jin HJ,
-et al. The origin, transmission and clinical therapies on
-coronavirus disease 2019 (COVID-19) outbreak - an
-update on the status. Mil Med Res. 2020 Mar;7(1):11.
-3. Adhikari SP, Meng S, Wu YJ, Mao YP, Ye RX, Wang QZ,
-et al. Epidemiology, causes, clinical manifestation and
-diagnosis, prevention and control of coronavirus disease
-(COVID-19) during the early outbreak period: a scoping
-4. World Health Organization. Novel Coronavirus-Japan
-(ex-China). [Internet] Geneva: WWHO; 2020 [cited Feb 1,
-5. Rothan HA, Byrareddy SN. The epidemiology and
-6. Park M, Cook AR, Lim JT, Sun Y, Dickens BL. A
-Current Evidence. J Clin Med. 2020 Mar;9(4). pii: E967.
-7. Departamento de Epidemiología. Ministerio de Salud
-(Chile). Situación Epidemiológica COVID-19. [Internet].
-8. World Health Organization. COVID-19 Dashboard.
-[Internet]. 2020 [cited Apr 22, 2020]. Available from:
-Taherpour N, Rahimi S, Izadi N, et al. Epidemiological
-Rev. Latino-Am. Enfermagem 2020;28:e3346.
-Arch Acad Emerg Med. [Internet]. 2020 Apr [cited Apr
-recommendations for international traffic in relation to
-COVID-19 outbreak. [Internet]. Geneva: WHO; 2020
-10. World Health Organization. Coronavirus disease
-(COVID-19) Pandemic. [Internet]. Geneva: WHO; 2020
-22. Díaz V, Calzadilla A, López H. 2005. Una aproximación
-11. Kucharski AJ, Russell TW, Diamond C, Liu Y, Edmunds
-al concepto de Hecho Científico Cinta Moebio. [Internet].
-J, Funk S, et al.
-2005 [Acceso 1 feb 2020];22:100-11, Disponible en:
-Early dynamics of transmission and
-12. McCullough PA, Eidt J, Rangaswami J, Lerma E,
-Tumlin J, Wheelan K, et al. Urgent need for individual
-mobile phone and institutional reporting of at home,
-13. Canavos GC. Probabilidad y Estadística. Aplicaciones
-y Métodos. Madrid: McGraw-Hill; 1988. Capítulo 14,
-14. Piskunov N. Cálculo Diferencial e Integral. 2.ed.
-15. Mauricio JA. Introducción al Análisis de Series
-Madrid; 2007 [Acceso 22 abr 2020]. pp. 125-137.
-16. Taylor JK, Cihon C. Statistical Techniques for Data
-Analysis. 2.ed. Miami: Chapman & Hall/CRC; 2004.
-17. Holt CC. Forecasting Seasonals and Trends by
-Exponentially Weighted Moving Averages. Pittsburgh,
-pronósticos. [Internet] Bahia Blanca: Universidad
-23. Moarefian M, Pascal JA, Fundamental mathematical
-model shows that applied electrical field enhances
-24. Salim F, Ioannidis M, Górecki T. Experimentally
-validated mathematical model of analyte uptake by
-permeation passive samplers. Environ Sci Process
-25. Canals L Mauricio, Canals C Andrea. Percolación
-de la epidemia de influenza AH1N1 en el mundo:
-[Internet]. 2020 [cited Apr 22, 2020]. Available from:
-CoV-2), COVID-19, France et Monde. [Internet]. 2020
-28. Department of Health and Social Care and Public
-Health (England) Number of coronavirus (COVID-19)
-19. Jiménez JF, Gázquez JC, Sánchez R. la capacidad
-cases and risk in the UK. [Internet]. 2020 [cited May 5,
-predictiva en los métodos de Box-Jenkins y Holt-
-Winters: una aplicación al sector turística. Rev. Eur.
-Dir. Econ. Empres. [Internet]. 2006 [Acceso 1 feb
-29. Federal Office of Public Health (Switzerland). New
-coronavirus. [Internet]. 2020 [cited May 5, 2020].
-opening remarks at the media briefing on COVID-19
-- 20 April 2020. [Internet]. Geneva: WHO; 2020 [cited
-COVID-19 en España. [Internet]. 2020 [Acceso mayo
-Díaz-Narváez V, San-Martín-Roldán D, Calzadilla-Núñez A, San-Martín-Roldán P, Parody-Muñoz A, Robledo-Veloso G.
-31. Ministério da Saúde (Portugal). Direção-Geral da
-and demand. Health Policy. 2005 Mar;71(3):289-301.
-Saúde. Disponibilização de Dados. [Internet]. 2020
-41. Sociedad Chilena de Medicina Intensiva. Encuesta
-diaria realidad nacional intensivo 05 de Mayo. [Internet].
-32. Ministero della Salute (Italia). Covid-19, i casi in
-Italia il 28 aprile ore 18. [Internet]. 2020 [cited May 5,
-42. Ministerio de Ciencia, Tecnología, Conocimiento e
-Innovación (Chile). Datos COVID-19. [Internet]. 2020
-33. Directorate of Health (Iceland). COVID-19 in Iceland –
-Statistics. [Internet]. 2020 [cited May 5, 2020]. Available
-43. Canals L Mauricio. Predictibilidad a corto plazo del
-número de casos de la influenza pandémica AH1N1
-Affairs, Health, Care and Consumer Protection. Official
-COVID-19 Dashboard – Explanatory Notes [Internet].
-Current information about COVID-19 (novel coronavirus)
-[Internet]. 2020 [cited May 5, 2020]. Available from:
-37. Folkhälsomyndigheten. Bekräftade fall i Sverige –
-daglig uppdatering. [Internet]. 2020 [cited May 5, 2020].
-38. Sundhedsstyrelsen. COVID-19 update: statistics
-and charts. [Internet]. 2020 [cited May 5, 2020].
-39. Haniffa R, Isaam I, De Silva AP, Dondorp AM, De
-Keizer NF. Performance of critical care prognostic
-scoring systems in low and middle-income countries:
-40. Wild C, Narath M. Evaluating and planning ICUs:
-methods and approaches to differentiate between need
-Ricardo Alexandre Arcêncio
-David San Martin-Roldán
-Copyright © 2020 Revista Latino-Americana de Enfermagem
-offered. Recommended for maximum dissemination and use of
+Rev. Latino‐Am. Enfermagem Which curve provides the best explana‐
+tion of the growth in confirmed COVID‐19 cases in Chile?*   Vctor
+Daz‐Narvez1 David San‐Martn‐Roldn2 Aracelis Calzadilla‐Nez3 Pablo
+San‐Martn‐Roldn4 that could explain the epidemiological  behavior
+of  the infection by COVID‐19 and derive the possible causes that
+contribute to explain the corresponding model and  the  Alexander
+Parody‐Muoz5  Gonzalo  Robledo‐Veloso  Objective:  to explore the
+best type of curve or trend model health implications that can be
+inferred.  Method:  data were collected from the COVID‐19 reports
+of the Department of Epidemiology,  Ministry  of  Health,  Chile.
+Curve  adjustment  studies  were  developed with the data in four
+different  models:  quadratic,  exponential,  simple  exponential
+smoothing,  and  double  exponential  smoothing. The significance
+level used was 0.05. Results: the curve that best fits the evolu‐
+tion  of  the accumulated confirmed cases of COVID‐19 in Chile is
+the doubly‐smoothed exponential curve. Conclusion: the number  of
+infected  patients  will  continue  to  increase.  Chile needs to
+Health Context.  Universidad Andres Bello, Facultad de  Odontolo‐
+ga,  Santiago,  Chile.  and control measures. The behavior of the
+population plays a fundamental role. We suggest not relaxing  re‐
+strictions  and  Universidad  de Valparaso, Facultad de Medicina,
+Escuela further improving epidemiological surveillance. Emergency
+de  Obstetricia  y  Puericultura, Valparaso, Chile.  preparations
+are needed and more resource elements need  Universidad  Bernardo
+OHiggins,  Facultad  de  Salud, Santiago, Chile.  remain vigilant
+and adjust the strategies around the prevention Universidad  May‐
+or, Facultad de Ciencias, Escuela de Nutricin y Diettica, Santia‐
+go, Chile.  Universidad  Metropolitana,  Barranquilla,  Colombia.
+Universidad de Chile, Facultad de Ciencias, Santiago, to be added
+to the current health support. This prediction is provisional and
+depends on keeping all intervening variables constant. Any alter‐
+ation will modify the prediction.  Descriptors: COVID‐19;  Coron‐
+avirus; 2019‐nCoV; Coronavirus Infections; Pandemics; Epidemiolo‐
+gy.  Daz‐Narvez V,  San‐Martn‐Roldn  D,  Calzadilla‐Nez  A,  San‐
+Martn‐Roldn  P, Parody‐Muoz A, Robledo‐Veloso G. Which curve pro‐
+vides the best explanation of the growth  in  confirmed  COVID‐19
+cases  in Chile?. Rev. Latino‐Am. Enfermagem. 2020;28:e3346. [Ac‐
+cess  ___  __  ____];  month  day  Rev.   Latino‐Am.   Enfermagem
+2020;28:e3346.   formulate  effective control strategies. The ob‐
+jective is to know what type of curve or model can  best  explain
+the  The rising pneumonia called COVID‐19, caused epidemiological
+behavior of the accumulated  confirmed  by  SARS‐CoV‐2,  exhibits
+strong  infectivity  but  less cases of COVID‐19 and identify the
+possible causes that virulence when compared  to  SARS‐CoV‐1  and
+MERS‐CoV contribute to explain the corresponding model and the in
+terms of morbidity and mortality. It is not only a  virus  health
+implications  that can be inferred.  that spreads from one person
+to another, but probably spreads because many people  become  in‐
+fected  in various places through different mechanisms. Restrict‐
+ing the movement of people, reducing contact, disseminating  Data
+were  collected from the COVID‐19 reports key high‐frequency pre‐
+vention information through from the Department  of  Epidemiology
+of  the  Ministry  of Health in Chile (MINSAL). The data are pub‐
+licly to respond quickly to the contingency, can help contain the
+pandemic(1‐5).   The actual number of infected cases is much with
+the data in four different  models:  quadratic(13),  larger  than
+that  reported worldwide. The observed exponential(13‐14), simple
+exponential smoothing using the mortality rate of COVID‐19 is es‐
+timated  at around 4.8% formula [Ft = F (t‐1) +   A(t‐1)] , where
+Ft = new prognosis, worldwide.  Although  this  rate  is  low  in
+Chile, this estimate may be incorrect due to underestimation, be‐
+cause earlier prognosis and double  exponential  smoothing  using
+Holts  method  with trend adjustment [FITt = Ft + severe cases is
+higher and, as active cases increase,  Tt];  where  FITt  is  the
+forecasted  value];  the  components  the health resources do not
+support the demand and of this  formula  are:  [Ft=F(t‐1)  +   (A
+overestimation,  considering  that  the  vast majority of y [Tt =
+(Ft  F cases without symptoms or with mild symptoms are not esti‐
+mated:  the mean absolute percentage error (MAPE); the mean abso‐
+lute deviation (MAD); the mean squared =  earlier  prognosis  and
+A(t‐1)  =  actual value of the The COVID‐19 pandemic is an impor‐
+tant international deviation (MSD). Criterion  for  choosing  the
+best  curve: test for the medical and scientific community, as it
+small error coefficients. Indicator  is the  weighting  used  re‐
+veals  weaknesses in the management of emerging in the level com‐
+ponent of the smoothened estimate and viral diseases and  reminds
+us that contagious diseases
+ is the weighting used in the trend component of the should never
+be underestimated. In addition, it has smoothened estimate (simi‐
+lar  to  a  moving  average of strained health systems due to the
+virulence and excess the differences between consecutive observa‐
+tions)(15‐16).   demand  on  hospitals  To  adjust  the  level of
+smoothing of the data (elimination It is essential to  understand
+the  transmission  of  irregular fluctuations), the optimal ARIMA
+model was dynamics  of  the  infection,  as  it  could  determine
+whether used for weighting, minimizing the sum of the square out‐
+break  control  measures  are  exerting  a  significant   effect.
+residues(18‐19).  The absolute error of each measure was The num‐
+bers of newly infected cases largely depend on the the difference
+() between the actual observed value effectiveness of the control
+measures. Several governments and the  predicted  value  of  con‐
+firmed cases for the same have rapidly incorporated recent scien‐
+tific findings into day. The median and interquartile range  were
+estimated  public  policies  at  community, regional and national
+levels to after checking for the normality of the absolute errors
+slow  down  and/or prevent the further spread of COVID‐19.  using
+the Kolmogorov‐Smirnov test. Minitab 18.0 Control  measures  such
+as  quarantine,  travel  restrictions and airport inspections for
+travellers have been widely implemented to contain the spread  of
+infections.  The  software  was  used. The significance level was
+0.05.  effectiveness of these containment measures to control the
+outbreak is inconclusive though(1,3,5‐6,11).  It is advisable for
+government entities to report regression  equations  of  the  ob‐
+served  data  curves  of  on the current state of the pandemic in
+daily reports, confirmed, adjusted and  predicted  cases  in  the
+quadratic,  exponential,  simple exponential smoothing and double
+COVID‐19. Statistics need to be read carefully  though,  exponen‐
+tial  smoothing  models.  The  MAD, MAPE, and as it is leading to
+massive panic without organized MSD coefficients are lower in the
+double exponential solutions related to the redistribution of re‐
+sources(12).  smoothing curve, which shows that  the  curve  that
+best   Understanding   the   epidemiological  characteristics  of
+COVID‐19 transmission in Chile is essential to fits the evolution
+of  the  accumulated  confirmed cases of COVID‐19 in Chile is the
+one described above.  Daz‐Narvez V, San‐Martn‐Roldn D,  Calzadil‐
+la‐Nez  A,  San‐Martn‐Roldn  P,  Parody‐Muoz A, Robledo‐Veloso G.
+Exactness measures Accumulated confirmed cases  Accumulated  con‐
+firmed  cases  Exactness  measures  Day/Month Year 2020 Day/Month
+Year 2020 Figura 1  Simple exponential smoothing model Figura 1**
+Double  exponential  smoothing model Smoothing constant Exactness
+measures Casos confirmados acumulados Accumulated confirmed cases
+Smoothing   constant   Exactness  measures  Day/Month  Year  2020
+Day/Month Year 2020 the model. Chile, 2020 predicted value on the
+previous  day of confirmed cases results of the forecasted number
+of confirmed cases (with its corresponding  confidence  interval)
+and the from March 3rd, 2020 to August 30th, 2020. The MAPE actu‐
+al result of confirmed cases that occurred  on  the  coefficients
+are  the  lowest in the double exponential predicted day. The re‐
+sults of actual confirmed cases smoothing curve and the  same  is
+true  for  the  MAD differ little from the predicted value (S‐W =
+0.907; median = 53.2 and interquartile range= 72.80) and, As  ob‐
+served,  the  confidence  intervals  increase as with some excep‐
+tions, the actual value was within the  predicted  further  ahead
+and,  therefore, the estimation estimated confidence interval for
+the predicted day.  error  increases(18).   confidence  interval)
+and  the  actual  result  of confirmed cases that occurred on the
+predicted day, using the  double  exponential  smoothing  method.
+Chile,  2020  Prognosis  [*95%  CI]  Rev.  Latino‐Am.  Enfermagem
+2020;28:e3346.  Prognosis [*95% CI] Accumulated  confirmed  cases
+*CI  =  Confidence  interval; CC = Confirmed cases Smoothing con‐
+stants Exactness measures Day/Month Year * IP = prediction inter‐
+val;  MAPE  = Mean absolute percentage error; MAD = Mean absolute
+deviation; MSD = Mean squared deviation Daz‐Narvez V,  San‐Martn‐
+Roldn D, Calzadilla‐Nez A, San‐Martn‐Roldn P, Parody‐Muoz A, Rob‐
+ledo‐Veloso G.  using the  double  exponential  smoothing  model.
+Chile, 2020 LL* ‐ CI UL ‐ CI *LL: Lower limit; CI: Confidence in‐
+terval; UL: Upper limit contact with the cases and  monitor  them
+so  that  patients  can  quickly access clinical care. If none of
+these points The progress of the COVID‐19 pandemic in Chile  fits
+are  achieved,  any action or indication will be ineffective well
+into a model and we study its predictive capacity.  in containing
+the  pandemic.  Chile has disseminated By analyzing the epidemio‐
+logical characteristics and neither the notified contact  indica‐
+tors nor the indicator of test results delivered within 24 hours.
+Contacts are disease, the key to successful outbreak  control  is
+being  notified,  but without any specification of the time.  ob‐
+tained through mitigation strategies(6).  There are no statistics
+either  with  regard  to compliance The World Health Organization
+(WHO) has indicated that easing restrictions  does  not  end  the
+epidemic  in any with quarantines or supervised discharge of con‐
+firmed country. Ending the epidemic will require a sustained  WHO
+has  provided  support for epidemiological effort by individuals,
+communities and governments studies of seroprevalence, which sug‐
+gest that the percentage of the population infected with antibod‐
+ies surveillance is recommended to detect cases early and may  be
+relatively small (2‐3%), without knowing how isolate them, quick‐
+ly locate those who have been in long  this  immunity  lasts(20).
+Rev. Latino‐Am. Enfermagem 2020;28:e3346.  The mathematical model
+of any process tries to 19th). It should be mentioned that active
+cases in Chile describe its basic components and tries to predict
+some represent 47.04% (SD=1.96) of confirmed  cases,  as  general
+trends, but it will never be able to provide an of May 5th, 2020.
+The propensity of this percentage exact description  and  predic‐
+tion  should  tend to decrease gradually and slowly according im‐
+pede this in an epidemiological context: (a) no model to interna‐
+tional experience, but it has stagnated for can include all vari‐
+ables that influence a process; (b) 13 days between 45‐50%.  This
+stagnation is probably there are unknown variables that cannot be
+incorporated due to the fact that the  public  health  strategies
+and  the in the prediction; (c) these variables depend on popula‐
+tions behavior are not equivalent to that of the  conditions  and
+the   specific  nature  of  the  virus,  on  the  countries  men‐
+tioned(26‐38).  social conditions people live in, and on the  im‐
+munity  Chile needs to remain vigilant and adjust strategies sta‐
+tus of a particular patient; (d) the socio‐economic  around  pre‐
+vention  and  control  measures,  which means infrastructure of a
+country; (e) the capacities of the to improve health actions  and
+to  strengthen  surveillance  health system at a given time, f) a
+smart health policy systems and public health  infrastructure  to
+provide  the that a country could implement to prevent the spread
+early detection and rapid response. We hope, for the and take the
+most appropriate measures to mitigate the sake of Chilean health,
+that the support of infrastructure impact of the process  associ‐
+ated to these infections to and health assets achieve the results
+in terms of the maximum; and (g) on the intelligence and level of
+effectiveness  and  do not pose a problem of needs and resources.
+At the same time, emergency preparations  are  necessary  in  re‐
+sponse  to  a  more serious outbreak in other parts of the world.
+The knowledge of these that may occur(1,6).   variables  and  the
+consequent  intentional  modification of The monitoring of simple
+but at the same time all or some of these variables  will  modify
+the  contagion  critical parameters of patient behavior at an in‐
+tensive rate in a positive or negative way. Therefore, this  rate
+care  unit  (ICU)  grants us critical information to know and the
+specific derivations of the nature of all of these these  parame‐
+ters  and their evolution in terms of severity, variables make it
+impossible to create an exact forecast providing information  for
+the  sake of control, intervention of the future. Thus, the model
+presented here can only and mitigation  strategy  proposals.  The
+current use of the provide a basis for a comprehension mechanism,
+under intensive care capacity for  COVID‐19  patients  represents
+the  type  of  circumstances,  constraints and current on average
+17.10% (SD=1.35) of the total  available  ICU  population  condi‐
+tions.  All of these aspects limit the beds in Chile. Whether the
+country reaches 20,111 active predictive capacity  and  attention
+needs  to  be paid to cases (42,751 confirmed cases, according to
+the active changes in the determining factors that may constitute
+case/confirmed  case  ratio),  the  number of intensive the cause
+compelling to change the model to explain care beds will  not  be
+sufficient  for  COVID‐19  patients the behavior of the pandemic.
+One of the transcendental and this health support would collapse.
+This  would aspects in epidemiology is to try to predict the evo‐
+lution happen on May 22nd, 2020. This  calculation  considers  of
+infectious  diseases.  This  attempt  is usually done the current
+number of intensive care beds available in  through  models  that
+consider  the progress of cases over Chile: 3,264 and the average
+percentage of intensive time in a certain place,  transmissibili‐
+ty, among other care capacity use for COVID‐19 patients in Chile,
+which causes. Nevertheless, these do not include the specific  is
+8.28%  (SD=1.06), and intensive care capacity use characteristics
+of the affected  population(23‐25).   in  non‐COVID‐19  patients,
+which  is  48.96%  (SD=1.74) The experience of European countries
+that have indicated specific population intervention measures has
+the  incidence  does not decelerate (as it falls within the shown
+that the deceleration of the incidence is achieved  error  margin
+of  the prediction), but the ratio of active when a percentage or
+critical mass of confirmed cases cases/confirmed cases decreases,
+then  the scenario of is reached, compared to the general popula‐
+tion. That ICU collapse is likely.   is  the  case  for:  Austria
+(0.12%),  Norway  (0.12%), Ventilation support is the cornerstone
+of the  management  of  subjects  with  respiratory  failure  due
+(0.15%),  Denmark  (0.15%), Switzerland (0.17%), to COVID‐19. The
+current use of invasive mechanical United Kingdom (0.18%), Portu‐
+gal (0.18%), Iceland ventilation (IMV) for COVID‐19 patients rep‐
+resents on (0.18%), Sweden (0.20%), Spain (0.21%) and Italy aver‐
+age 18.48% (SD=1.22) of the total mechanical (0.21%). It is esti‐
+mated that the slowdown in  the  ventilators  (MV)  available  in
+Chile.  If  the  country  reaches  incidence  in  Chile  would be
+achieved when the average 28,423 active cases  (60,418  confirmed
+cases,   according  of  31.527  (SD=12.160)  confirmed  cases  is
+reached.  to the active case/confirmed case ratio), MV  will  not
+be  That  happens on May 13th, 2020 (May 10th and July sufficient
+for the ventilatory needs of COVID‐19 patients Daz‐Narvez V, San‐
+Martn‐Roldn  D,  Calzadilla‐Nez A, San‐Martn‐Roldn P, Parody‐Muoz
+A, Robledo‐Veloso G.  and this  health  support  would  collapse.
+This  would curve. From this model, it follows that the number of
+happen on June 4 , 2020. This calculation considers the  infected
+cases  will continue to increase. The number of current number of
+MV available in Chile: 1,825 and the confirmed  cases  will  grow
+stronger  and within a short time average percentages in Chile of
+IMV use in COVID‐19 if the population behavior and public  health
+measures  patients,  which is 5.01% (SD=0.67), and of IMV use are
+not in line with the size of this international  public  in  non‐
+COVID‐19 patients, which is 21.91% (SD=1.17) health emergency. We
+hope that the results will enable the medical staff  and  leaders
+to  make  decisions. In no incidence rate (as it falls within the
+error margin of the case should restrictions be relaxed and  epi‐
+demiological prediction) and the active case/confirmed case ratio
+surveillance needs improvements, as this is not the  end  do  not
+decrease,  the scenario of health failure due to of the pandemic.
+the lack of MV is plausible, although less likely than  the  col‐
+lapse  of  the  intensive  care system.  This predictive model is
+provisional and depends on the constant use of all the  variables
+maintained.   Any  change  will undoubtedly modify the prediction
+and, therefore, daily variations should  be  monitored,  although
+the  predictive model does not present considerable and important
+faults in the current reality. The predictions of this model have
+been  good and have a safety coefficient that allows us to calcu‐
+late with some slack the public health needs  the  care  for  the
+current  cases  might require.  This information is relevant when
+deciding on measures to contain an epidemic. The appropriate  fit
+and  good  predictive capacity of this model makes it possible to
+propose it as an epidemiological method for monitoring  and  pre‐
+dicting the progression of infectious diseases in the local situ‐
+ation, e.g. regions, provinces and  communes(43).   Our  approach
+has  limitations.  This  study was based on the cases reported by
+MINSAL and contains the biases of case confirmation and  informa‐
+tion, which may be delayed with respect to the occurrence of cas‐
+es, the delay in the appearance of symptoms due to the incubation
+period and the high proportion of unreported cases as a result of
+limited detection and testing capacity.  Moreover,  data  sources
+may be biased, incomplete or only capture certain aspects, versus
+others that may be equally relevant, such as chronic pathologies,
+risk  factors,  nutritional  status, among others.  This analysis
+does not necessarily represent the actual situation of the cases,
+as  it excludes confirmed cases in laboratories not considered by
+surveillance systems and sub‐clinical cases. This model does  not
+consider  variations due to seasonal changes, social aggregation,
+etc. either.  In addition, it is dependent on the addition of new
+MV  to the health network. This analysis of epidemiological char‐
+acteristics provides important information  on  the  behavior  of
+COVID‐19 to propose effective control strategies at all levels of
+health care(7).  The type of curve that best explains the  behav‐
+ior of COVID‐19 in Chile is a doubly smoothed exponential 1. Epi‐
+demiology Working Group for NCIP Epidemic Response, Chinese  Cen‐
+ter  for  Disease  Control  and (COVID‐19) in China. Zhonghua Liu
+Xing Bing Xue Za 2. Guo YR, Cao QD, Hong ZS, Tan YY, Chen SD, Jin
+HJ,  et  al.  The  origin, transmission and clinical therapies on
+coronavirus disease 2019 (COVID‐19) outbreak ‐ an update  on  the
+status.  Mil  Med Res. 2020 Mar;7(1):11.  3. Adhikari SP, Meng S,
+Wu YJ, Mao YP, Ye RX, Wang QZ, et al. Epidemiology, causes, clin‐
+ical manifestation and diagnosis, prevention and control of coro‐
+navirus disease (COVID‐19) during the early  outbreak  period:  a
+scoping  4.  World  Health  Organization. Novel Coronavirus‐Japan
+(ex‐China). [Internet] Geneva: WWHO; 2020 [cited Feb 1, 5. Rothan
+HA,  Byrareddy  SN.  The epidemiology and 6. Park M, Cook AR, Lim
+JT, Sun Y, Dickens BL. A  Current  Evidence.  J  Clin  Med.  2020
+Mar;9(4). pii: E967.  7. Departamento de Epidemiologa. Ministerio
+de Salud (Chile). Situacin  Epidemiolgica  COVID‐19.  [Internet].
+8.  World  Health  Organization. COVID‐19 Dashboard.  [Internet].
+2020 [cited Apr 22, 2020]. Available from: Taherpour N, Rahimi S,
+Izadi  N,  et  al.  Epidemiological  Rev.  Latino‐Am.  Enfermagem
+2020;28:e3346.  Arch Acad Emerg Med. [Internet]. 2020 Apr  [cited
+Apr  recommendations  for  international  traffic  in relation to
+COVID‐19 outbreak. [Internet]. Geneva: WHO; 2020 10. World Health
+Organization.  Coronavirus  disease  (COVID‐19) Pandemic. [Inter‐
+net]. Geneva: WHO; 2020 22. Daz V, Calzadilla A,  Lpez  H.  2005.
+Una  aproximacin  11. Kucharski AJ, Russell TW, Diamond C, Liu Y,
+Edmunds al concepto de Hecho Cientfico Cinta Moebio.  [Internet].
+J, Funk S, et al.  2005 [Acceso 1 feb 2020];22:100‐11, Disponible
+en: Early dynamics of transmission and 12. McCullough PA, Eidt J,
+Rangaswami  J,  Lerma  E, Tumlin J, Wheelan K, et al. Urgent need
+for individual mobile phone and  institutional  reporting  of  at
+home,  13.  Canavos GC. Probabilidad y Estadstica. Aplicaciones y
+Mtodos. Madrid: McGraw‐Hill; 1988. Captulo 14,  14.  Piskunov  N.
+Clculo  Diferencial e Integral. 2.ed.  15. Mauricio JA. Introduc‐
+cin al Anlisis de Series Madrid; 2007 [Acceso 22 abr  2020].  pp.
+125‐137.  16. Taylor JK, Cihon C. Statistical Techniques for Data
+Analysis. 2.ed. Miami: Chapman & Hall/CRC; 2004.   17.  Holt  CC.
+Forecasting Seasonals and Trends by Exponentially Weighted Moving
+Averages. Pittsburgh, pronsticos. [Internet] Bahia  Blanca:  Uni‐
+versidad  23.  Moarefian  M,  Pascal JA, Fundamental mathematical
+model shows that applied electrical field enhances 24.  Salim  F,
+Ioannidis M, Grecki T. Experimentally validated mathematical mod‐
+el of analyte uptake by permeation passive samplers. Environ  Sci
+Process  25. Canals L Mauricio, Canals C Andrea. Percolacin de la
+epidemia de influenza AH1N1 en el mundo: [Internet]. 2020  [cited
+Apr 22, 2020]. Available from: CoV‐2), COVID‐19, France et Monde.
+[Internet]. 2020 28. Department of Health  and  Social  Care  and
+Public Health (England) Number of coronavirus (COVID‐19) 19. Jim‐
+nez JF, Gzquez JC, Snchez R. la capacidad cases and risk  in  the
+UK.  [Internet].  2020  [cited May 5, predictiva en los mtodos de
+Box‐Jenkins y Holt‐ Winters: una aplicacin  al  sector  turstica.
+Rev.  Eur.  Dir. Econ. Empres. [Internet]. 2006 [Acceso 1 feb 29.
+Federal Office of Public Health (Switzerland).  New  coronavirus.
+[Internet]. 2020 [cited May 5, 2020].  opening remarks at the me‐
+dia briefing on COVID‐19 ‐ 20  April  2020.  [Internet].  Geneva:
+WHO; 2020 [cited COVID‐19 en Espaa. [Internet]. 2020 [Acceso mayo
+Daz‐Narvez V, San‐Martn‐Roldn  D,  Calzadilla‐Nez  A,  San‐Martn‐
+Roldn  P, Parody‐Muoz A, Robledo‐Veloso G.  31. Ministrio da Sade
+(Portugal).  Direo‐Geral  da  and  demand.  Health  Policy.  2005
+Mar;71(3):289‐301.   Sade.  Disponibilizao  de Dados. [Internet].
+2020 41. Sociedad Chilena de Medicina Intensiva. Encuesta  diaria
+realidad  nacional  intensivo 05 de Mayo. [Internet].  32. Minis‐
+tero della Salute (Italia). Covid‐19, i  casi  in  Italia  il  28
+aprile  ore  18. [Internet]. 2020 [cited May 5, 42. Ministerio de
+Ciencia,  Tecnologa,  Conocimiento  e  Innovacin  (Chile).  Datos
+COVID‐19.  [Internet].  2020 33. Directorate of Health (Iceland).
+COVID‐19 in Iceland Statistics. [Internet]. 2020  [cited  May  5,
+2020].  Available  43. Canals L Mauricio. Predictibilidad a corto
+plazo del nmero de casos de la influenza pandmica AH1N1  Affairs,
+Health, Care and Consumer Protection. Official COVID‐19 Dashboard
+Explanatory Notes [Internet].  Current information about COVID‐19
+(novel  coronavirus) [Internet]. 2020 [cited May 5, 2020]. Avail‐
+able from: 37.  Folkhlsomyndigheten.  Bekrftade  fall  i  Sverige
+daglig  uppdatering.  [Internet].  2020 [cited May 5, 2020].  38.
+Sundhedsstyrelsen. COVID‐19 update: statistics and  charts.  [In‐
+ternet].  2020  [cited  May 5, 2020].  39. Haniffa R, Isaam I, De
+Silva AP, Dondorp AM, De Keizer NF. Performance of critical  care
+prognostic  scoring  systems  in low and middle‐income countries:
+40. Wild C, Narath M. Evaluating and planning ICUs:  methods  and
+approaches  to differentiate between need Ricardo Alexandre Arcn‐
+cio David San Martin‐Roldn Copyright  2020 Revista  Latino‐Ameri‐
+cana de Enfermagem offered. Recommended for maximum dissemination
+and use of
+
+
+
+
+
+
+
+
+
+
+

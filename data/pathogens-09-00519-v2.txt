@@ -1,1113 +1,1518 @@
-Coronavirus Disease Pandemic (COVID-19):
-Challenges and a Global Perspective
-Yashpal Singh Malik 1,*, Naveen Kumar 2, Shubhankar Sircar 1, Rahul Kaushik 3,
-Sudipta Bhat 1, Kuldeep Dhama 4,*, Parakriti Gupta 5, Kapil Goyal 5, Mini P
-Singh 5, Ujjala Ghoshal 6, Mohamed E. El Zowalaty 7,8, VinodhKumar O. R 9,
-Mohd Iqbal Yatoo 10, Ruchi Tiwari 11, Mamta Pathak 4, Shailesh Kumar Patel 4,
-Ranjit Sah 12, Alfonso J Rodriguez-Morales 13,14, Balasubramanian Ganesh 15,
-Prashant Kumar 16 and Raj Kumar Singh 17
-3 Laboratory for Structural Bioinformatics, Biosystems Dynamics Research Center, Riken 250-0047, Japan;
-11 Department of Veterinary Microbiology and Immunology, College of Veterinary Sciences, UP Pandit Deen
-Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU),
-13 Public Health and Infection Research Group, Faculty of Health Sciences, Universidad Tecnologica de
-14 Grupo de Investigacion Biomedicina, Faculty of Medicine, Fundacion Universitaria Autonoma de las
-Americas, Pereira, Risaralda 660003, Colombia
-Tel.: +91-5812302777 (Y.S.M.); Fax: +91-5812301757 (Y.S.M.)
-Abstract: The technology-driven world of the 21st century is currently confronted with a major threat
-to humankind, represented by the coronavirus disease (COVID-19) pandemic, caused by the severe
-acute respiratory syndrome, coronavirus-2 (SARS-CoV-2). As of now, COVID-19 has affected more
-than 6 million confirmed cases and took 0.39 million human lives. SARS-CoV-2 spreads much faster
-than its two ancestors, SARS-CoV and Middle East respiratory syndrome-CoV (MERS-CoV), but
-has low fatality rates. Our analyses speculate that the efficient replication and transmission of SARSCoV-2 might be due to the high-density basic amino acid residues, preferably positioned in close
-proximity at both the furin-like cleavage sites (S1/S2 and S2’) within the spike protein. Given the
-high genomic similarities of SARS-CoV-2 to bat SARS-like CoVs, it is likely that bats serve as a
-reservoir host for its progenitor. Women and children are less susceptible to SARS-CoV-2 infection,
-while the elderly and people with comorbidities are more prone to serious clinical outcomes, which
-may be associated with acute respiratory distress syndrome (ARDS) and cytokine storm. The
-cohesive approach amongst researchers across the globe has delivered high-end viral diagnostics.
-However, home-based point-of-care diagnostics are still under development, which may prove
-transformative in current COVID-19 pandemic containment. Similarly, vaccines and therapeutics
-noteworthy advancements, focusing on the etiological viral agent, comparative genomic analysis,
-population susceptibility, disease epidemiology and diagnosis, animal reservoirs, laboratory animal
-models, disease transmission, therapeutics, vaccine challenges, and disease mitigation measures.
-Keywords: Coronavirus; pandemic; SARS-CoV-2; COVID-19; pathobiology; diagnosis; vaccines;
-The ongoing global threat, declared a pandemic by international health agencies, originated
-from a newly emerging coronavirus (CoV), designated as severe acute respiratory syndrome
-coronavirus-2 (SARS-CoV-2) [1]. A live animal market in the Hubei Province of Wuhan in Mainland
-China was identified as the first epicenter of the pandemic [2]. Initially, an outbreak was suspected
-when a cluster of patients was admitted to local health care facilities with complaints of fever, cough,
-dyspnea, and fatigue, resembling symptoms common to viral pneumonia [3]. The first case of
-Consequently, a cluster of patients reported respiratory illness to the local health care facilities, and
-on December 30th, 2019, the Chinese National Health Commission (CNHC) suspected an outbreak of
-pneumonia of unknown etiology in Wuhan. With the increasing number of cases in neighboring
-countries and other areas worldwide, the disease spread to several countries worldwide and it was
-declared a Public Health Emergency of International Concern by the World Health Organization
-boundaries and affected more than 215 countries and a few international conveyances, which led the
-WHO to declare COVID-19 as a pandemic on March 11th, 2020 [4].
-As of May 21st, 2020, 4,893,186 cases have been reported, with 323,256 deaths, of which 1,501,876
-confirmed cases and 90,203 deaths were from the United States of America, followed by Brazil
-(271,628; 17,971), the United Kingdom (248,297; 35,704), Spain (232,555; 27,888), Italy (227,364; 32,330),
-France (141,312; 28,081), and China (84,507; 4645) [5]. Notably, all age groups show susceptibility to
-SARS-CoV-2 infection, from newborns to the elderly [6]. The average age noted for SARS-CoV-2
-infection susceptibility is 55.5 years, while that for the case fatality rates (CFRs) is 75 years [7,8].
-However, the CFR varies among different age groups and is highest (14.8%) among the elderly (>80
-years of age). The incidences and CFR are reportedly higher in males (67.67% and 2.8%, respectively)
-than in females, owing to the higher frequency of engagement in outdoor activities and smoking
-status in males [9]. Immunocompromised individuals and patients with comorbidities are at a higher
-risk. The most common reported comorbidities in COVID-19 cases include cardiovascular diseases
-(10.5%), diabetes (7.3%), chronic respiratory infections (6.3%), hypertension (6%), and malignancies
-(5.6%) [8]. As per the WHO observations, the COVID-19 epidemic peaked and plateaued between
-January 23rd and February 2nd, 2020, in China, and then followed a declining trend, paving a path for
-the elimination of the epidemic. However, the WHO has simultaneously stated that other countries
-are reporting a continuous increase in the number of cases, with the USA reporting the highest
-increase in daily deaths.
-starting from the first report of novel CoV from Wuhan, China—including the declaration of COVID19 as a worldwide pandemic by the WHO, and the situation as of June 7, 2020—have been depicted
-in the timeline format.
-The definitive origin of SARS-CoV-2 remains undetermined. However, initial estimations
-implicate Wuhan as the epicenter and the live animal seafood market as the source of this outbreak,
-owing to the involvement of different animals, including wild and domestic animals, in close
-proximity to each other [10]. The postulation was primarily based on the significant genomic
-similarity between SARS-CoV-2 and bat or pangolin CoVs. The first patient to be reported in Wuhan
-did not visit the seafood market, and molecular analyses of SARS-CoV-2 genomic sequences suggest
-its origin is traced back to late November [11,12]. These findings raised specific questions pertinent
-to the COVID-19 epidemic and the Wuhan seafood market. The well-established human transmission
-of the outbreak emphasizes the likelihood of the better adaptability of the virus in transmission
-dynamics [3,11,13].
-The events leading to the emergence of a virus capable of infecting a new host have occurred
-previously in CoV infections [14]. Earlier, reports suggested the emergence of SARS-CoV by a
-recombination between bat SARS-like CoVs, followed by mutations in civet CoVs prior to its
-spillover. Similarly, the Middle East respiratory syndrome (MERS)-CoV also circulated and acquired
-mutations in camels for approximately 30 years before the incidence of MERS in the Middle East
-[15,16], indicating the adaptation of CoVs to different hosts before their spillover to humans [17].
-SARS-CoV-2 is suggested to be a chimera of two different viruses, a bat-CoV (RaTG13) and a
-pangolin-CoV [18].
-Researchers have put forth their best efforts in developing effective treatments and vaccine
-candidates, and have succeeded to a significant extent in identifying several repurposed drugs,
-monoclonal therapeutic antibodies, and vaccine candidates. However, many such treatment options
-are in the different stages of pre-clinical and clinical development. To date, no approved, specific
-progress made in the measures for the resolution of the COVID-19 pandemic, using virus genomic
-analysis, the assessment of global epidemiological trends, transmission patterns, the present-day
-status of therapeutics, and public health preparedness plans for controlling the wider dissemination
-of the disease.
-2. Previous Human CoV Epidemics
-Usually, infections caused by the Betacoronaviruses are mild to asymptomatic [19,20]. Since the
-first report of CoV in the 1960s, humans have been affected by CoV infection. To date, six strains of
-CoVs, causing mild to severe respiratory illnesses in humans, have been identified [21]. Of these, four
-CoVs (HCoV-NL63, HCoV-229E, HCoV-OC43, and HCoV-HKU1) cause mild symptoms in humans.
-Contrarily, two highly pathogenic CoVs caused outbreaks of severe respiratory illness due to
-zoonotic transmission in humans, namely the severe acute respiratory syndrome (SARS) and MERS.
-The first incidence of SARS-CoV infection was reported on November 16th, 2002, in the coastal
-Guangdong province of southeast China bordering Hong Kong and Macau. This infection spread
-across 31 countries at a moderate speed. The virus was predicted to originate from bats and civet cats
-A winter season predilection was also noted in the pattern of this epidemic. After adopting strict
-public health measures, consisting of quarantine and the lockdown of air traffic, the disease was
-finally contained by July 5th, 2003 [22]. During this period, SARS-CoV infected 8422 humans and
-caused 916 deaths at a CFR of 10.87%. Since then, SARS has phased out, and the outbreak was
-Since the first occurrence of MERS in Saudi Arabia in June 2012, sporadic cases are still reported,
-primarily in the Arabian Peninsular region, and MERS has spread to more than 27 countries
-worldwide. Notably, the CFR in MERS is the highest (34.77%) among all CoVs. To date, it has infected
-2496 humans with the deaths of 868 patients. The disease was reported in Saudi Arabia, the UAE and
-in individuals with a travel history to the Arabian Peninsular countries. The source of viral origin
-was traced to bats, and camels were the intermediate hosts for the virus, which followed animal-tohuman (zoonotic disease) and human-to-human modes of virus transmission [19,23].
-(SARS-CoV-2, MERS-CoV, and SARS-CoV).
-Causative agent
-Incubation period
-The median age of
-infected human cases
-Source of origin
-Bats, civet cats
-Bats, camel
-Seafood, bats, pangolin
-Zoonotic disease
-Zoonotic disease
-Zoonotic disease
-Speed of spread
-Seasonal occurrence
-Place of Origin
-Guangdong, China
-Jeddah, Saudi
-Wuhan, China
-First incidence
-The last case reported
-and present status
-Total number of cases
-1,434,426 as of 8th April,
-Overall fatality
-(as of now)
-82,220 (5.73%) as of 8th
-No. Countries
-Intermediate host
-Paguma larvata
-Camelus dromedaries
-Pangolin, Mink (possible)
-Definitive host
-Rhinolophus sinicus
-Pipistrellus hesperidus
-Rhinolophus affinis
-Genome length
-Major Regional
-Guangdong province of
-southern China, and
-later to western pacific
-Saudi Arabia,
-followed by UAE
-Hubei, especially, Wuhan
-in China, followed by
-Glucocorticoid and
-No effective
-approved treatment
-or vaccine
-The first case of SARS-CoV-2 infection was reported in the first week of December 2019 in
-Wuhan City, Hubei Province, China. Using deep sequencing methods, the causative agent for this
-deadly pandemic was identified as a new member of the Betacoronavirus genus [24,25]. The newly
-identified CoV had an 82% sequence identity with the human SARS-CoV [26]. It was initially
-designated as 2019-novel coronavirus (2019-nCoV). Later, the International Committee on Taxonomy
-of Viruses officially named it as the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2),
-owing to its significant genetic relatedness to SARS-CoV. Subsequently, the WHO named the disease
-caused by SARS-CoV-2 as coronavirus disease-2019 (COVID-19) on February 11th, 2020, as shown in
-3. SARS-CoV-2 Taxonomy, Structure, and Genomics
-SARS-CoV-2 belongs to the family Coronaviridae, subfamily Orthocoronavirinae, under the order
-Nidovirales. The Orthocoronavirinae subfamily consists of four genera, namely Alphacoronavirus,
-Betacoronavirus, Gammacoronavirus, and Deltacoronavirus [27]. SARS-CoV-2 is a Betacoronavirus.
-Betacoronaviruses are further subdivided into five subgenera, namely Embecovirus, Hibecovirus,
-Merbecovirus, Nobecovirus, and Sarbecovirus. Phylogenetically, it forms a discrete lineage within the
-subgenus of the Sarbecovirus [28]. CoVs, as their name suggests, have a crown-shaped appearance, as
-observed under the electron microscope, owing to the spikes on the surface of the virion.
-SARS-CoV-2 is a 0.12 µm, enveloped, non-segmented virus, and its genome comprises a singlestranded positive-sense RNA (+ssRNA) of ≈29.8 kb [29,30]. The genome is arranged in a structure
-typical to coronaviruses in the following order: 5′-ORF1a/ab-Spike (S)-Envelope (E)-Membrane (M)Nucleocapsid (N)−3′; however, it lacks the hemagglutinin–esterase gene, similar to bat SARS-likeCoVs, human SARS-CoVs, and MERS-CoVs. Fourteen open reading frames (ORFs) have been
-identified that encode twenty-seven proteins, both structural and non-structural proteins (nsps). At
-the 5’ terminus, the first ORF1a/ab, which occupies approximately two-thirds of the entire genome
-length, encodes the pp1a and pp1ab proteins, respectively, and both collectively comprise 15 nonstructural proteins (nsp 1 to 10 and nsp 12 to 16). The functions of the nsps of a typical coronavirus
-encode at least four major structural proteins: the spike (S), matrix membrane (M), envelope (E), and
-nucleocapsid (N) proteins. Besides, accessory proteins (3a, 6, 7a, 7b, 8, and 10) are also encoded by
-the genome of SARS-CoV-2 Wuhan HU1. The 5′- and 3′- UTR sequences of SARS-CoV-2 have ≈83.0%
-nucleotide identity with other members of the Betacoronavirus genus. The genomes of SARS-CoV,
-SARS-CoV-2, and bat-SARS CoV are considerably similar. The RNA secondary structures in the 5′UTR were more identical to those of SARS-CoV than to the bat SARS-like CoV; however, the 3′-UTR
-was more conserved compared to other related Betacoronaviruses [26].
-A detailed comparative genomic organization of important and related Betacoronavirus
-sequence homology of SARS-CoV-2 with MERS-CoV is lower (50–51.8%) than that with SARS-CoV
-(79%) [32]. Phylogenetically, SARS-CoV-2 is most similar to the bat SARS-like-CoVZC45 concerning
-present in SARS-CoV-2, whereas these are absent in bat SARS-like CoVZC45. Compared to SARSCoV, the sequence for 8a is absent in the SARS-CoV-2 genome; the sequence for 3b is shorter, while
-that for 8b has an extra 73 amino acids in SARS-CoV-2 [29]. The spike protein-encoding gene in SARSCoV-2 (1273 amino acids) is longer than those of bat SARS-like-CoVZC45 (1246 amino acids) and
-SARS-CoV Tor2 (1255 amino acids). Certain accessory proteins, such as the 6 and 7b proteins of SARSCoV Tor2, are similar to those in SARS-CoV-2, except for a marginal variation in protein length, as
-including a longer spike protein (1353 amino acids), compared to those in SARS-CoV-2. In
-comparison to SARS-CoV-2, bovine CoV ENT has the longest spike protein (1363 amino acids) and a
-unique hemagglutinin–esterase gene, while porcine CoV HKU15 (a delta-CoV) has the shortest spike
-protein (1159 amino acids) and lacks several accessory proteins. Hence, it would be interesting to
-characterize the spike and accessory proteins of SARS-CoV-2 and study the role of these proteins in
-the pathogenesis and transmissibility of the virus.
-coding regions of beta-CoVs, SARS-CoV-2 Wuhan-HU-1 (NC_045512.2; 29,903 bps), bat SARS-likeCoVZC45 (MG772933.1; 29,802 bps), human SARS-CoV Tor2 (AY274119.3; 29,751 bps), MERS-CoV
-EMC (NC_019843.3; 30,119 bps), bovine CoV ENT (NC_003045.1; 31,028 bps), and a delta-CoV, the
-porcine CoV HKU15 (NC_039208.1; 25425 bps) are presented. The genomes consist of a 5′
-untranslated region (5′ UTR), an open reading frame (ORF 1a/ab) encoding non-structural proteins
-(nsps), structural proteins, hemagglutinin–esterase, spike (S), membrane (M), envelope (E), and
-nucleocapsid (N) proteins, several accessory proteins, and a 3′ untranslated region (3′ UTR). The
-lengths of the ORFs, nsps, and accessory proteins are not drawn to scale.
-The trimeric spike (S) glycoprotein, the most important determinant of host cell tropism and
-transmission capability, is functionally composed of two subunits, the S1 (receptor binding) and S2
-(cell membrane fusion) [33,35]. The S2 subunit of SARS-CoV-2 is comparatively conserved and
-closely related to that of bat SARS-like-CoVZC45, while the S1 subunit had only 70% identity with
-that of bat SARS-like-CoVZC45 [26,34]. During infection, the S protein is proteolytically processed by
-host cell proteases at the S1/S2 cleavage site and, following cleavage, the S protein is cleaved into the
-N-terminal S1 subunit and C-terminal S2 subunit. The S1 subunit comprises a signal peptide, an Nterminal domain, and a receptor-binding domain (RBD). In contrast, the S2 subunit comprises a
-conserved fusion peptide, a second proteolytic site (S2’), followed by an internal fusion peptide,
-heptad repeats 1 and 2, a transmembrane domain, and a cytoplasmic domain [36]. The cleaved S
-a second cleavage (at the S2’ cleavage site) occurs for membrane fusion, mediated by the
-endolysosomal proteases [33]. Since furin is highly expressed in the lungs, the furin-like cleavage
-sites (S1/S2 and S2’) appear to be critical for the activation of the S protein and, therefore, for the
-efficient entry of virus [36,39]. On comparing these sites, we observed a typical furin-like cleavage
-However, the S2’ cleavage site patterns (XKPXKRSF) in all three viruses were considerably similar.
-Similarly, furin might cleave the MERS-CoV EMC spike protein less efficiently at the S2’
-cleavage site, owing to the lack of typical basic amino acid residues observed in SARS-CoV-2, bat
-SARS-like-CoVZC45, and human SARS-CoV Tor2. Although the S1/S2 cleavage site in the bovine
-CoV ENT (KRRSRRSITT) spike protein is rich in basic amino acids, its S2’ cleavage site (NKVSSRSA)
-a monobasic cleavage site (NSTENNRFTTT), which could lead to low-efficiency cleavage. Based on
-the findings from these comparative studies, we speculate that the high-density basic amino acid
-residues, preferably positioned in close proximity at both cleavage sites (S1/S2 and S2’), might have
-facilitated the efficient replication and transmission of SARS-CoV-2. However, these propositions
-need to be validated by further experimental investigations.
-cleavage sites of SARS-CoV-2 spike proteins (S1/S2 and S’ protease cleavage sites) and their
-comparison with those in other coronaviruses. The superimposition of the receptor-binding domain
-(RBDs) of SARS-CoV-2 (pdb: 6VSB) on (B) human SARS-CoV (pdb: 2AJF), (C) MERS-CoV (pdb:
-4KR0), (D) BtCoV-HKU4 (pdb: 4QZV), and (E) HCoV-NL63 (pdb: 3KBH). (F) The superimposition of
-the RBDs of porcine respiratory CoV (pdb: 4F5C) on HCoV-NL63 (pdb: 3KBH). RMSD: Root Mean
-Square Deviation. UCSF Chimera was used for the superposition and visualization of the RBDs of the
-different CoVs [40].
-4. CoV Receptors
-Host cell receptors and viral surface glycoprotein/ligand binding serve as the most important
-determinants of host range, cross-species transmission, and antiviral targeting inventions [41,42]. As
-CoVs from four genera recognize at least five different receptors and, therefore, exhibit an intricate
-host receptor recognition pattern. The differential usage of host receptors by different CoVs indicates
-the structural diversity in the RBDs of the S glycoprotein. However, CoV infections in humans are
-primarily driven by interactions between the envelope-anchored spike glycoprotein (S protein) of
-CoV and the host cell receptor, the angiotensin-converting enzyme 2 (ACE2) [43,44,45]. Viruses from
-the same genus can recognize different receptors (for example, SARS-ACE2 and MERS-DPP4), while
-CoVs from different genera can bind to the same receptor as well, such as ACE-2 (HCoV-NL63 and
-SARS). The key features of the external subdomain of RBDs need to be investigated further to
-elucidate their role in receptor usage, transmission, and the pathogenesis of SARS-CoV-2.
-N-acetyl-9-O-acetylneuraminic acid
-α2,3-linked sialic acid (attachment factor)
-5. SARS-CoV-2 Persistence/Susceptibility on Different Surfaces
-With the exponential increment in SARS-CoV-2 cases globally, the non-availability of effective
-and specific antiviral treatment, and the lack of specific vaccines, the primary focus has been on
-minimizing contact with infected persons, asymptomatic carriers, or contaminated surfaces to
-on different contaminated surfaces that we commonly come into contact with daily. SARS-CoV-2 has
-been shown to persist in aerosols for up to three hours, with a decline in the infectious virus titer
-from 103.5 to 102.7 TCID50 per liter of air [46]. Meanwhile, SARS-CoV-2 was found to be retained more
-stably on plastic and stainless steel and could retain infectivity for up to 72 hours when present on
-these contaminated surfaces. However, the infective titer reduced significantly from 103.7 to 100.6
-TCID50 on plastic surfaces and from 103.7 to 100.6 TCID50 on stainless steel surfaces. On copper surfaces,
-both SARS-CoV-2 and SARS-CoV-1 were rendered non-viable after four and eight hours, whereas on
-cardboard surfaces, no viable viruses were detected after 24 and 8 hours, respectively [46]. Other
-CoVs, such as MERS-CoV, remained viable for up to 48 hours on plastic and stainless steel surfaces
-[47]. A limited number of low pathogenicity human CoVs, such as the HCoV-229E and HCoV-OC43,
-were found to be viable from 2-9 hours up to six days on different surfaces, such as aluminum, glass,
-plastic, PVC, silicon rubber, latex gloves, ceramic, and Teflon [48–50].
-Owing to the significant number of COVID-19 cases worldwide, and the lack of effective
-remedies for this disease, the WHO is constantly endorsing and promoting better personal hygiene
-practices. Social and physical distancing, as well as self-isolation, are recommended to contain the
-spread of the virus. Therefore, the WHO recommended two hand rub formulations based on ethanol
-and 2-propanol [51]. Such alcohol-based hand rub formulations were found to be effective in
-inactivating SARS-CoV-2 [52].
-6. Phylogenomic Analysis of SARS-CoV-2 and Related CoVs
-We analyzed the spike gene sequences (n = 38) of SARS-CoV-2, which were retrieved from the
-NCBI database. The spike gene sequences of CoVs, representing different subgenera of
-Betacoronavirus, including SARS-CoV and MERS-CoV, were also retrieved. Based on the BLASTn
-analysis, certain strains, similar to bat SARS-like-CoVs and bat-CoVs, were also included in this
-analysis. The nucleotide and amino acid percentage similarities between these CoVs were calculated
-using the MegAlign software from DNASTAR. The phylogenetic analyses of spike genes from
-different CoVs were conducted using the GTR + G substitution model and the Maximum Composite
-The whole-genome sequence of SARS-CoV-2 derived from isolates from different countries
-showed a high similarity of 99 to 100% at both nucleotide and amino acid levels, suggesting the
-stability of the viral genome. To determine the similarity index between SARS-CoV-2 and other
-members of Betacoronavirus, we analyzed the spike protein sequences of all subgenera. The reference
-SARS-CoV-2 strain (Wuhan-Hu-1/NC_045512) was closely associated with a bat-CoV (RaTG13) from
-Yunnan, China, with 93.1 and 97.67% nucleotide and amino acid sequence similarity, respectively, as
-89.78% in nucleotide and amino acid sequences with the reference strain, respectively. Besides, two
-bat SARS-like-CoVs (bat-SL-CoVZC45/MG772933 and bat-SL-CoVZXC21/MG772934) were also
-The clustering of SARS-CoV-2 with the bat and pangolin CoVs provided evidence of its possible
-origin from these animals. Another member of the subgenus Sarbecovirus, SARS-CoV, was distantly
-(NC_045512, Wuhan-Hu-1) with other members of Betacoronavirus (subgenus—Sarbecovirus).
-Strain Name /
-Accession number
-Sequence Identity
-Sequence Identity
-(a)Whole Genome-Based Comparison (29.9kb)
-South Korea
-(b) Spike Protein-Based Comparison (~3800 bases)
-Pangolin CoV
-BtRs-BetaCoV/ YN2018C/
-Based on the spike gene phylogenetic analysis, it was observed that SARS-CoV-2 originating
-from different countries formed a separate clade with other members of Sarbecovirus. It was found
-that the bat-CoV (RaTG13/MN996532), pangolin-CoV (MP789/MT084071), and two bat SARS-likeCoVs (bat-SL-CoVZC45/MG772933 and bat-SL-CoVZXC21/MG772934) closely clustered with SARSCoV-2, while other bat-CoVs and SARS-CoVs clustered within the Sarbecovirus subgenus clade, as
-Hibecovirus and Nobecovirus, human and camel MERS-CoV belonging to Merbecovirus, and human,
-canine, bovine, and equine CoVs belonging Embecovirus subgenera, clustered separately, as shown in
-included SARS-CoV-2 originating from China, the USA, Australia, Japan, and South Korea. Different
-subgenera of Betacoronaviruses have been labeled with different colors according to the color legend
-on the left side of the tree. Major species of each subgenus have been depicted in front of each clade.
-7. Epidemiology of SARS-CoV-2 Infection
-The Wuhan seafood market in China was implicated as the epicenter of the COVID-19
-pandemic, and China was marked as the index country. Seven cases of pneumonia of unknown
-etiology were reported in Wuhan from December 8th to 18th, 2019. The first cluster of such patients
-was identified on December 21st, 2019. Pneumonia of unknown etiology is defined as an illness
-without an identified causative pathogen that fulfills the following criteria: fever (≥ 38 °C),
-radiographic evidence of pneumonia, low or average white-cell count or low lymphocyte count, and
-no symptomatic improvement after antimicrobial treatment for 3 to 5 days following standard clinical
-guidelines [11,54]. The patients presented with a severe acute respiratory infection and some
-developed acute respiratory distress syndrome (ARDS) and associated complications [55].
-Information about the mode of transmission of SARS-CoV-2 is continuously evolving.
-Transmission primarily occurs via the person-to-person route through respiratory droplets (>5-10 µm
-in diameter) and fomites. Droplet infection is associated mainly with coughing, sneezing, and talking
-to an infected person, and the virus is transmitted to humans through direct contact with mucus
-membranes. Transmission can also occur by touching an infected surface, followed by contact with
-eyes, nose, or mouth. The travel range of the droplets is less than six feet (approximately two meters),
-and these are not retained in the air for long. Satisfactory evidence of the airborne transmission of
-SARS-CoV-2 remains unavailable [46]. Although clinically infected patients readily transmit the virus
-[14], asymptomatic infected patients can also transmit the virus, and therefore, these carriers should
-be tested to effectively contain the spread [11,56,57].
-There is evidence of intestinal infection from SARS-CoV-2, and subsequent excretion through
-feces [56,58]. In China, out of ten pediatric COVID-19 patients without respiratory symptoms, eight
-were positive for fecal SARS-CoV-2 shedding; however, the nasopharyngeal samples from these
-subjects tested negative for the virus [59]. These findings were further supported by a study in which
-the virus was successfully cultured from feces samples [59,60]. However, there have been no reports
-of fecal–oral transmission of SARS-CoV-2 to date. Some reports suggest SARS-CoV-2 transmission
-through semen and the infection of SARS-CoV-2 in newborns; however, there is no evidence for
-vertical transmission or intrauterine infection in a COVID-19 patient during the late pregnancy stage
-7.2. Incubation Period
-The incubation period for SARS-CoV-2 infection ranged from 2 to 14 days in human-to-human
-transmission, while, in some cases, it extended up to 24 days [57]. However, a median incubation
-period of 5-6 days has recently been reported by the WHO [61].
-7.3. Basic Reproduction Number (R0)
-The basic reproduction number plays a pivotal role in infectious disease epidemiology and
-indicates the risk a pathogen carries with respect to its spread. In other words, R0 provides
-information about the transmissibility of a virus and represents the number of new infections
-originating from an infected individual in a population. A recent comparison of different studies on
-the estimation of R0 for COVID-19 revealed that the estimated mean R0 for COVID-19 is 3.28, with a
-median of 2.79, which is higher than the WHO estimate of 1.95 [62]. However, considerable variability
-was noted, owing to the use of different methods, insufficient data, and the short onset time of the
-7.4. Population Susceptibility
-There is no age limit for vulnerability to SARS-CoV-2 infection. However, cases with higher
-morbidity and chances of mortality have been reported in older adults. Individuals above 65 years of
-age or those who have comorbidities (such as hypertension, diabetes, cardiovascular diseases, and
-respiratory system diseases) are highly susceptible to the infection [25]. Women are less susceptible
-to SARS-CoV-2 infection than men and this is possibly due to different innate immunity, and factors
-related to sex chromosomes in women [63]. For example, the biallelic expression of TLR7 in women
-allows higher immune responses, while the immune regulatory genes encoded by X chromosomes
-cause comparatively less virus load and inflammation. Recently, studies have shown that SARS-CoV2 infection in children (though less severely affected), may develop the Kawasaki disease-like forms
-[64]. However, it is still not clear whether Kawasaki disease-like forms are a result of SARS-CoV-2
-infection alone or just SARS-CoV-2 induced aggravations in Kawasaki disease patients.
-7.5. Global Scenario
-COVID-19 has affected almost every country across the globe. On December 31st, 2019, an
-“urgent notice on the treatment of pneumonia of unknown cause” was issued to the Wuhan
-Municipal Health Center. The market premises were disinfected, and the stallholders were instructed
-to wear masks. Till January 3rd, 2020, 44 case-patients with pneumonia of unknown etiology were
-reported to the WHO from China, although the cause was not identified. On January 7th, 2020, the
-June 7, 2020, COVID-19 distribution was seen globally with large number of confirmed cases and
-regions. Six regions have been described by the WHO where the COVID-19 disease is present and are
-depicted on the map along with confirmed cases and deaths represented as of June 7, 2020.
-Between January 13th to 20th, 2020, Thailand (the first country after China to report a case), Japan,
-China CDC identified three different strains of this virus, confirming the mutation of the original
-virus. Six deaths were reported in Wuhan, of which four patients had underlying comorbidities [66].
-Between January 22nd and 25th, Macau, Hong Kong, Nepal, France, Australia, Malaysia, and
-Canada confirmed their first cases. As in China, the WHO assessed the risk to be significantly high
-at both regional and global levels. On January 30th, 2020, the International Health Regulations
-Emergency Committee, WHO declared the outbreak as a public health emergency of international
-concern. Later on, the WHO named the virus as SARS-CoV-2, and the disease was named COVID-19
-(coronavirus disease 2019). Thus far, SARS-CoV-2 has affected essentially all countries in the world,
-infected millions of people, and killed hundreds of thousands of people [67].
-7.6. Socio-Economic Impact
-The COVID-19 pandemic has resulted in the imposition of international travel restrictions in
-several countries, the cancellation of major sporting events, and the lockdown of borders, and has
-universities worldwide (March 10th, UNESCO). The stock markets and crude oil prices have declined
-severely, possibly the most drastic occurrence in recent years. Industries related to entertainment,
-ceremonial activities, hotels, and tourism are also affected. It is estimated that the global GDP loss is
-within the range of 1.0 to 2.7 trillion US dollars. The lockdown and other associated restrictions have
-severely affected the economic status and the well-being of families and communities. The major
-sectors affected by this outbreak are health, education, manufacturing, transportation, and trade,
-among others.
-8. Clinical Profile
-CoVs include viruses infecting humans and other animal species, such as birds, camels, cattle,
-bats, and cats. CoVs primarily affect the upper and lower respiratory tracts, and the enteric, hepatic,
-and neurological systems, with infections characterized by severe dyspnea and hypoxemia, renal
-dysfunction with lower urine output, tachycardia, altered mental status, and functional alterations of
-organs in animals and humans. Individuals infected with SARS-CoV-2 may be asymptomatic carriers
-or active patients with the clinical presentation of symptoms, such as fever, fatigue, dry cough,
-myalgia, dyspnea, severe respiratory distress syndrome, and acute cardiac injury [57,68,69]. There
-are three types of ARDS: mild, moderate, and severe ARDS. An increase in body temperature up to
-39.0 °C (102.2 °F), accompanied by coarse breathing sounds from both lungs at auscultation are
-common clinical symptoms. Symptoms, such as headache, sputum production, hemoptysis, diarrhea,
-and pleuritic chest pain were also observed in rare cases. The infection more commonly affects people
-with cardiopulmonary or renal diseases, and pregnant females, infants, and the elderly (at a two-fold
-greater risk than the general population). There is no evidence to suggest greater susceptibility among
-children. Pregnant women are at greater risk for viral infections, as suggested by data from previous
-outbreaks; therefore, it is advisable to avoid contact with infected individuals [70].
-9. Clinical Pathology and Immunopathobiology
-9.1. Clinical Pathology
-Based on the time of occurrence and intensity of symptoms, the infection has been categorized
-into three stages; mild, severe, and critical stage [71,72]. In the mild stage, mild pneumonia/no
-pneumonia develops, although symptoms of upper respiratory tract viral infection, marked by mild
-fever, dry cough, sore throat, nasal congestion, malaise, headache, and muscle pain, prevail [73]. In
-severely affected patients, the rate of respiration is above 30/min due to dyspnea, respiratory
-symptoms, such as cough and shortness of breath, or tachypnea, and oxygen saturation in the blood
-below 93%, indicating hypoxia, and these developments are observed within a time period of 24–48
-hours. The critical stage is marked by symptoms, such as severe pneumonia, septic shock, respiratory
-failure, cardiac arrest, and/ or multiple organ failure, which may eventually lead to the death of the
-patient [74,75].
-Radiological images indicate that two to five lobes of the lungs may be affected. The most
-common and pronounced lesions are marked by patchy ground-glass opacities and patchy
-consolidation in the mid, external, and sub-pleural areas of the lung [76]. A chest radiograph,
-computer tomographic (CT) scan, and/or lung ultrasound indicate the presence of bilateral opacities
-[55,77,78]. Thoracic CT scan imaging depicted bilateral ground-glass opacity and bilateral multiple
-lobular and sub-segmental areas of consolidation [79–81]. The pathological image of a COVID-19
-patient presented bilateral diffuse alveolar damage with cellular fibromyxoid exudates. The
-cytopathic effects were marked by the presence of interstitial mononuclear inflammatory infiltrates,
-with a majority of lymphocytes and multinucleated syncytial cells, along with atypical enlarged
-pneumocytes containing large nuclei and amphophilic granular cytoplasm, in the intra-alveolar
-spaces. In some infected patients, microvascular steatosis and mild lobular and portal activity were
-recorded in hepatic tissues, while interstitial mononuclear inflammatory infiltrates were found in the
-cardiac tissues [8].
-Existing literature documents that patients suffering from severe SARS-CoV-2 infection might
-suffer from the cytokine storm syndrome that could eventually lead to death [82,83]. In a viral
-infection, cell-mediated immunity is triggered to overcome the infection; however, owing to the
-overproduction of cytokines, interferons, and other factors, such events can have drastic effects in
-certain patients [84]. Evidently, respiratory failure due to the ARDS is the leading cause of mortality,
-and, apart from this, secondary hemophagocytic lymphohistiocytosis is also induced in a limited
-number of adult COVID-19 patients. Usually, it is one of the less-recognized syndromes characterized
-by hyperinflammatory, hyperferritinemia, fulminant and lethal hypercytokinemia, cytopenias,
-coagulopathy, and thrombocytopenia, along with multiple organ failure. The severely affected group
-of COVID-19 patients presented with a marked increase in the levels of plasma pro-inflammatory
-cytokines, interleukin (IL)-2, IL-7, macrophage inflammatory protein 1-α, granulocyte colony-
-stimulating factor, tumor necrosis factor-α, interferon-γ inducible protein 10, and monocyte
-chemoattractant protein 1. Mortality in COVID-19 could be attributed to such hyperinflammatory
-reactions [82,85].
-Clinical laboratory findings suggested leucopenia (white blood cell count less than 2.91 × 109/l)
-and lymphopenia (lymphocyte count less than 1.0 × 109/l), high erythrocyte sedimentation rate,
-altered myocardial zymogram with elevated levels of lactate dehydrogenase and creatinine kinase,
-increased levels of alanine aminotransferase or aspartate aminotransferase as indicators of irregular
-liver function, a rise in hypersensitive troponin I (hs-cTnI) as a sign of virus-induced heart tissue
-damage, and a marked increase in the concentration of serum C-reactive protein and D-dimer,
-hyperbilirubinemia, and acidosis [3,24].
-Studies on the pathogenesis of COVID-19 have not been undertaken thus far; however,
-understanding the mechanisms underlying the pathogenesis of MERS-CoV and SARS-CoV may help
-delineate key factors associated with COVID-19 pathogenesis. Once the virus enters the cells through
-a specific interaction between the S protein and ACE-2, the antigen-presenting cells are likely to
-process the viral proteins through the major histocompatibility complex (MHC or human leukocyte
-antigen in humans). Following the MHC antigen presentation of SARS-CoV-2, both humoral and
-cellular immunity are activated, mediated by the antibody-producing B cells and virus-specific T
-lymphocytes. The seroconversion in COVID-19 patients was observed to occur at a similar point or
-slightly earlier than in SARS-CoV infection [86,87]. A recently released antibody profile against SARSCoV-2 has indicated that the seroconversion rates for antibodies, IgM, and IgG were 93.1% (161/173),
-82.7% (143/173), and 64.7% (112/173), respectively [88]. Studies on cellular immunity against SARSCoV-2 are limited. A recent study reported a significant reduction in the levels of CD4 and CD8 T
-cells in the peripheral blood of SARS-CoV-2-infected patients [89]. Studies on COVID-19-recovered
-patients can help significantly in elucidating the role of specific memory T cell-mediated immune
-responses against SARS-CoV-2.
-Increasing evidence suggests that fatalities resulting from SARS-CoV-2 infection could be
-primarily attributed to the ARDS [90,91], which may be associated with comorbidities and followed
-by multiple organ failure, leading to death [92]. ARDS is an immunopathological feature common to
-SARS-CoV-1, MERS-CoV, and the more recent SARS-CoV-2 infections [89,93]. ARDS occurs
-primarily in response to the cytokine storm, the fatal uncontrolled systemic inflammatory response,
-resulting from the release of an excess quantity of pro-inflammatory cytokines (IL-6, IL-1β, IL-2, IL8, IL-17, G-CSF, GM-CSF, IP10, MCP1, MIP1α, and TNF) from immune effector cells during SARSCoV-2 infection [91,93–98]. In this context, the increased levels of IL-6 were considered a reliable
-indicator of poor prognosis in the severe stage of the disease [98]. The cytokine storm triggers a severe
-attack by the immune system on the lung and the body, inducing ARDS and multiple organ failure,
-and finally leading to death in severe cases of SARS-CoV-2 infections, similar to that in SARS-CoV
-and MERS-CoV infections [89,94]. A recent study also supported the proposition that SARS-CoV-2
-acts on lymphocytes and leads to a cytokine storm and a series of immune dysregulation events in
-the body [94,95,97].
-10. Animal Reservoirs
-The identification of animal reservoirs or intermediate host(s) and the evolution of SARS-CoV2 is critical to our understanding of the molecular mechanism underlying interspecies transfer, and
-hence, devising effective control measures to prevent its further spread.
-The preliminary whole-genome analyses of SARS-CoV-2 denoted a high genetic identity (96.2%)
-with a bat (BetaCoV/bat/Yunnan/RaTG13/2013) virus, detected in Rhinolophus affinis in the Yunnan
-province of China [99], leading to speculation that bats might act as a possible reservoir host. Notably,
-the homology modeling studies of RBD of SARS-CoV-2 suggest that it has a structure similar to that
-of SARS-CoV RBD, with few differences in the key residues at the amino acid level [33]. Another
-study based on synonymous codon usage bias suggested snakes as an intermediate host; however,
-this virus has not been detected in any snake species yet [100]. Later on, pangolins were found to be
-a potential intermediate host. The recent detection and whole-genome sequence analysis of SARS-
-CoV-2 from Malayan pangolins indicated a sequence identity of 85.5 to 92.4% with pangolin SARSCoV-2, which is lower compared to that of bat CoV RaTG13 (96.2%). However, the RBD of the S
-protein from pangolin SARS-CoV-2 exhibited 97.4% amino acid similarity to that of SARS-CoV-2,
-which is higher compared to that of RaTG13 (89.2%) [101]. Furthermore, the SARS-CoV-2 RBD shares
-five identical key residues with that of pangolin-CoV, while it shares only one residue with that of
-RaTG13 [101]. This finding suggests that pangolins may act as a potential intermediate host.
-However, studies suggesting bats as a reservoir host and pangolins as an intermediate host for SARSCoV-2 need to be investigated further.
-Susceptibility in different animals has recently been evaluated through an experiment on SARSCoV-2 infection, where SARS-CoV-2 was found to replicate efficiently in cats and ferrets, while it
-replicated poorly in pigs, dogs, chickens, and ducks [102]. Viral transmission via respiratory droplets
-was also noted in cats in this study. A dog and a tiger were reported to test positive for SARS-CoV-2
-[103]. The gene sequence analysis of the viral isolate from a dog indicates that the dog might have
-acquired the infection from infected individuals. These findings suggest low chances of SARS-CoV2 transmission from pet animals to the human population; however, further investigation is
-11. Animal Models in SARS-CoV-2 Research
-After the SARS outbreak, numerous inbred mouse strains were evaluated as models for the SARSCoV disease with varying levels of results [105,106]. The genetically engineered mouse model, known
-as the humanized ACE2, was developed in response to the SARS outbreak. This model could be
-infected by SARS-CoV-2 and develop mild pneumonia. The other promising animal models for
-SARS-CoV-2 vaccine research could include hamsters and monkeys [107]. Recently, ferrets have been
-identified as an infection and transmission animal model for studying SARS-CoV-2. This finding may
-facilitate the development of SARS-CoV-2 drugs and vaccines [108].
-12. Diagnosis of COVID-19
-12.1. Sample Collection
-For patients under investigation, the collection of upper respiratory samples (nasopharyngeal
-and oropharyngeal swabs) and lower respiratory samples (sputum, if possible) is recommended
-irrespective of the presentation. Nasopharyngeal swab, bronchoalveolar lavage, endotracheal
-aspirates or wash, oropharyngeal swab, and saliva are the preferred samples. Stool and urine samples
-can also be tested to exclude other unidentified modes of transmission [3]. Respiratory samples
-should be collected in viral transport medium with antibiotics and antifungals and transported in the
-cold chain. Sample collection and packaging have to be conducted using proper personal protective
-equipment. The triple packaging of samples is necessary to prevent spillage and should be conducted
-in a negative pressure room with Class II Biosafety cabinets to contain transmission. However,
-depending upon the available resources, certain modifications can be incorporated in the Standard
-Operating Procedures to minimize the risk. Lately, saliva samples have been found to test positive
-for SARS-CoV-2 in 91.7% of the symptomatic cases, and a declining trend in viral load has also been
-reported. This finding is of immense importance as the collection of saliva is a non-invasive
-technique, requiring less stringent conditions, and this can also be used as a screening tool [109].
-Zhang et al. used anal swabs in addition to respiratory samples and found a higher number of
-positive cases using anal swabs than respiratory swabs, especially in the later stages of infection [60].
-12.2. Diagnostic Technologies
-Sensitive and specific diagnostic methods are always preferred, especially in the cases of
-epidemics or pandemics, for the rapid and accurate diagnosis of viruses. Molecular (RT-PCR) assays
-are fast, highly sensitive, and specific, and are gradually replacing conventional methods. According
-to data maintained by the Foundation for Innovative New Diagnostics (FIND), one of the WHO's
-partners for the assessment of diagnostics, at least 143 COVID-19 molecular diagnostic kits are in
-(EUA) from regulatory bodies.
-Centers for Disease
-Control and Prevention
-CDC 2019-nCoV Real-Time RTPCR Diagnostic Panel (CDC)
-Roche Molecular
-Systems, Inc. (RMS)
-cobas SARS-CoV-2
-Thermo Fisher
-Scientific, Inc.
-TaqPath COVID-19 Combo Kit
-N1, N2 and
-RNase P
-ORF1ab, E gene,
-RNase P
-ORF1ab, N gene,
-S gene, MS2
-USA FDAEUA
-USA FDAEUA
-USA FDAEUA
-Primerdesign Ltd. COVID-19
-genesig Real-Time PCR assay
-Abbott RealTime SARS-CoV-2
-RdRp and N
-Xpert Xpress SARS-CoV-2 test
-N2 and E genes
-DAAN Gene Co., Ltd.
-of Sun Yat-sen
-Detection Kit for 2019 Novel
-Coronavirus (2019-nCoV) RNA
-ORF1ab and N
-China EUA
-Seegene, Inc.
-Allplex 2019-nCoV assay
-E, RdRp and N
-Korea EUA
-Primerdesign Ltd.
-Abbott Molecular
-RdRp gene
-USA FDAEUA
-USA FDAEUA
-USA FDAEUA
-The successful limitation of virus spread in Singapore, Taiwan, and Hong Kong,
-despite their geographical proximity to China, indicates that widespread and intense testing,
-combined with strict quarantine measures for positive and suspected cases, are crucial for combatting
-SARS-CoV-2. Large-scale screening is arduous with the currently used molecular tests; therefore,
-deployment of rapid point-of-care tests (POCTs) can act as a breakthrough in the current scenario
-[111]. In this context, a recent breakthrough in COVID-19 diagnosis was marked by the Xpert® Xpress
-SARS-CoV-2 test (an RT-qPCR test) developed in the USA and reported as a rapid diagnostic test that
-provides result in 45 minutes. Moreover, it is an automated POCT with EUA from the FDA and
-enables the detection of SARS-CoV-2 in the nasal wash, nasopharyngeal swab, and aspirated samples
-[112]. The Abbott ID NOW™ COVID-19 test, a rapid point-of-care (POC) PCR isothermal test, which
-can deliver results in five minutes, has recently received the EUA from the FDA. Another FDAapproved POC test, a rapid IgM–IgG-combined antibody test for COVID-19, developed by
-Biomedomics (Becton Dickinson) can detect antiviral antibodies with 88.7% sensitivity and 90.6%
-specificity within 10-15 minutes [113]. These POC tests, which can be used at the community level,
-are likely to improve the testing capacities, and hence, would be pivotal in disrupting the SARS-CoV2 transmission cycle. Recently, a CRISPR-based Specific High Sensitivity Enzymatic Reporter
-Unlocking (SHERLOCK) technique has been used to diagnose COVID-19 in less than an hour without
-using multiple instruments [114]. A study employed the combination of RT-PCR, CRISPR, and
-metagenomic next-generation sequencing (mNGS) for the detection of SARS-CoV-2 and confirmed
-the effective clinical diagnosis of COVID-19 [115].
-12.3. Artificial Intelligence in COVID-19 Diagnosis
-Artificial intelligence (AI) tools are being tested and applied for preliminary screening of
-possible early infections of SARS-CoV-2 among individuals. Based on the AI-based learning
-framework, individuals are being categorized as high, moderate, or minimal risk individuals [116].
-However, multiple experts differ in their opinion over the data collected by these AI tools, as it is
-often considered sensitive, owing to concerns of national security [117].
-The chest CT-based diagnosis, usually in COVID-19, has certain limitations in terms of
-differentiation between COVID-19 and community-acquired pneumonia. Therefore, a deep learning
-model for COVID-19 was developed and employed to distinguish the common community-acquired
-pneumonia from COVID-19 [118]. With a lack of point-of-care diagnostics, AI-driven tools can prove
-useful in determining the risk involved and the transmission dynamics among different population
-groups. Presently, owing to the involvement of active learning processes in AI tools, the rate of
-confidence in decision-making processes has increased [28,119]. Therefore, there is an urgent need to
-standardize protocols to develop AI-based devices that can be used during such disasters.
-13. Vaccines and Therapeutics
-13.1. Vaccine Development
-The most common preventive and effective approach to decelerate the COVID-19 pandemic is
-the use of vaccines in humans. Currently, there are significant research efforts being made globally
-to develop safe and effective vaccines against SARS-CoV-2 infection [120]. Approximately 200
-vaccine candidates have already been developed worldwide and are at different stages of clinical
-evaluation [121]. Most of these vaccine candidates have been developed using at least seven different
-of Public Health, USA, provides comprehensive publicly-available information on all drugs and
-vaccines against SARS-CoV-2 that are currently being studied.
-5 [122]. The potential advantage of such a vaccine is its ability to mimic natural infection to trigger a
-more potent immune response and rapid production. The phase I clinical trial has recently
-However, the availability of this vaccine for global immunization is likely to take more time as it faces
-numerous challenges associated with clinical development, since no previous mRNA vaccine has
-been approved. The second vaccine, the Ad5-nCov, a replication-defective adenovirus vector
-expressing the SARS-CoV-2 spike protein, has been developed jointly by Cansino Biologics Inc. and
-used for the upstream preparation of the recombinant vaccine. The phase I clinical trial of this vaccine
-candidate recently commenced at the Tongji Hospital in Wuhan, China [123].
-The phase I clinical trials for two other vaccine candidates (BNT-162 and INO-4800) are due in
-April 2020 in China and the USA, respectively. The BNT-162, an mRNA vaccine candidate, expressing
-jointly developed by Biontech AG, Shanghai Fosun Pharmaceutical Co. Ltd. and Pfizer Inc [13]
-(Hodgson, 2020). Another candidate, the INO-4800, a DNA vaccine supported by CELLECTRA®
-3PSP, a hand-held smart device for intradermal delivery, developed by Inovio Pharmaceuticals Inc.
-and Beijing Advaccine Biotechnology Co. Ltd [13], is undergoing phase I clinical trials. The globally
-coordinated efforts to combat SARS-CoV-2 have led to the development of potential vaccine
-candidates in the shortest possible time; however, these candidates need to be subjected to rigorous
-clinical trials to prove their efficacy and safety before being considered for global immunization.
-Therefore, in the current situation, therapeutic drugs are the most effective alternative for the
-containment of COVID-19 and restoration of public health. Recently, two more vaccine candidates
-A concept of protection through changing the viral genetic code was given by researchers from
-China in 2016 while working on influenza A virus. They generated premature termination codons
-(PTCs), and these PTC-containing viruses showed promising results in mice, guinea pigs, and ferrets
-against influenza challenge. However, such studies have not been replicated further, though in the
-hour of need during the COVID-19 crisis, must be evaluated for the beneficial and effective control
-of infections.
-13.2. Development of Antiviral Therapeutics
-The rapid spread of SARS-CoV-2 demands the immediate development of effective and safe
-promising approach adopted by researchers is the repurposing of drugs [12,124]. However, no
-specific anti-SARS-CoV-2 treatment has been recommended by the US FDA, yet owing to the lack of
-supportive data.
-Favilavir (Favipiravir), the first antiviral drug tested against SARS-CoV-2, approved by the
-National Medical Products Administration of China in February 2020, is commonly used to treat
-influenza infection in China and Japan and has shown promising results in shortening the course of
-SARS-CoV-2 infection [12,124,125]. This drug acts by inhibiting the RNA-dependent RNA
-polymerase activity (RdRp) of SARS-CoV-2. Despite its potential effectiveness, the drug is yet to be
-approved by the U.S. FDA. Remdisivir has also been reported to treat COVID-19 patients to full
-recovery [126,127]. In fact, remdisivir is also a repurposed drug that was initially developed for the
-treatment of Ebola virus infection. Remdisivir is reported to prevent viral replication by the
-premature termination of RNA transcription. Currently, remdisivir is under clinical trials for the
-treatment of COVID-19 patients. Furthermore, a combination of lopinavir and ritonavir has been
-reported to significantly improve the conditions of COVID-19 patients in South Korea [126]. Similar
-to remdisivir, a combination of lopinavir and ritonavir was developed to treat HIV-1 infections in
-adults. However, the combination of lopinavir and ritonavir failed to serve its initial purpose when
-used for the treatment of COVID-19 patients in recent clinical trials in China [128].
-Hydroxychloroquine, an anti-malarial drug, in combination with azithromycin, has shown
-promising results in an open-label non-randomized clinical trial in reducing the viral load in COVID19 patients [129]. However, its associated side-effects could be more severe in COVID-19 patients
-with pre-existing chronic medical conditions.
-Apart from these drugs, convalescent plasma therapy (plasma from recovered COVID-19
-patients that contains antibodies against SARS-CoV-2) could also be used as an alternative treatment
-strategy to improve the survival rate of COVID-19 patients [130]. Recently, the FDA allowed the use
-of plasma therapy for critically ill patients under an emergency investigational new drug protocol
-(FDA, 2020). The treatment strategies must focus on curbing hyper inflammation, and the existing
-readily available therapies may prove beneficial in patients with severe SARS-CoV-2 infection. A
-humanized monoclonal antibody, viz. tocilizumab, competitively binds to the IL-6 receptors and
-subsequently prevents the binding of IL-6 to its receptor [131]. Notably, the blocking of the IL-6
-receptor by tocilizumab may prove to be crucial and reduce the number of deaths associated with
-severe stage COVID-19. In this context, a clinical trial (ChiCTR2000029765) using tocilizumab
-reported its significant effectiveness in controlling fever and improving the respiratory function in
-individuals with severe COVID-19 [98]. Apart from the aforementioned drugs, there are several other
-drugs that are either under clinical trials or are being considered for a clinical trial for the treatment
-of COVID-19. Of note, the information provided in this study is neither exhaustive nor should be
-used for self-medication.
-13.3. Challenges of COVID-19 Vaccines and Therapeutics
-With the global cohesive approach, dozens of vaccine candidates have reached a status needing
-human trials. The human trials can only provide an idea on the status of vaccine effectiveness. The
-search for volunteers is a challenge, though in few places a number of people have registered for the
-clinical trials. The time estimated for the release of any vaccine looks lengthier, with a waiting period
-of nearly 12 months, involving quality checks, regulatory, and scale-up issues, with the required
-number of doses covering those who are suffering globally. A few of the candidate vaccines cleared
-the animal trials with safe outcome and need an assessment of immune responses and disease
-enhancement. Lately, other concerns posing a challenge are higher mutability seen in circulating
-strains of SARS-CoV-2 worldwide and the antibody-dependent enhancement (ADE) of disease. This
-ADE mechanism enables the entry of the virus into the host cells and is well described in viral
-infections. “Will the changing virus remain susceptible to the upcoming vaccine?” and “Could it be
-helping in ADE?” are the questions yet to be resolved.
-clinical trials) for the prevention/treatment of COVID-19.
-Vaccines candidates
-Clinical trials started at
-Kaiser Permanente
-Washington Health
-Seattle, USA
-CanSino Biological
-and Beijing
-Clinical trials recently
-started at Tongji Hospital
-in Wuhan, China
-Phase I
-Shenzhen GenoImmune Medical
-Phase I
-Shenzhen GenoImmune Medical
-Phase I
-DNA plasmid encoding S
-protein delivered by
-Dendritic cells modified
-with lentiviral vector and
-expressing synthetic
-minigene based on
-domains of selected viral
-Artificial antigenpresenting cells (aAPCs)
-modified with lentiviral
-vector and expressing
-synthetic minigene based
-on domains of selected
-viral proteins
-Drug candidates
-Approved by NMPA,
-Inhibition of RNAdependent RNA
-polymerase of SARS-CoV2
-and azithromycin
-Gilead Sciences,
-Lopinavir + Ritonavir
-AbbVie, USA
-Clinical trials are
-under progress
-Clinical trials are
-under progress
-Further research is
-under process
-Both have shown in vitro
-activity against SARSCoV-2
-Developed for treatment
-of Ebola virus infection
-Developed to treat HIV-1
-14. Mitigation Strategies
-In the absence of approved antiviral agents and vaccines, the most effective strategies are based
-on the disruption of the transmission cycle of the virus (human-to-human) via droplets or close
-contact. To achieve this, the most critical step would involve maintaining strict hand hygiene and
-adherence to basic cough etiquettes, across all strata from children to the elderly. A study reported
-the employment of prevention and control strategies at three levels: case-related population, general
-population, and national level [132]. Additionally, the National Health Commission of China issued
-protocols for the mitigation of COVID-19 in order to contain the further spread of the virus by a “big
-isolation and big disinfection” policy during the Chinese spring festival [133]. A national-level
-mitigation strategy has also been adopted for the elderly population and in rural areas [134,135].
-Awareness regarding the connotations of hand hygiene amongst the general public, instead of
-stressing the usage of masks, is the need of the hour in view of the multiple modes of transmission.
-The use of sanitizers or soaps is one of the essential components of the prevention and control of
-COVID-19. Sanitizers containing 60-70% ethanol or 70% isopropanol are effective against SARS-CoV2. Similarly, household detergents or soaps are also useful in sanitization. While sanitizers are
-sufficient for relatively clean hands, soiled hands need to be washed using soap and water for 20
-seconds. Additionally, the WHO issued guidelines on the use of face masks during homecare visits
-and in the community, along with health care settings in the context of COVID-19 [136]. Moreover,
-the use of particulate respirators, such as certified N95 or FFP2, is recommended for health care
-workers who perform aerosol-generating procedures.
-In contrast, medical masks are recommended while providing clinical care to suspected or
-confirmed COVID-19 cases [136]. The WHO has approved the use of N95 masks for patients at all
-times for source control and for healthcare providers only in certain situations, such as when they are
-in the close vicinity of a patient (within three feet) or are performing aerosol-generating procedures
-on symptomatic patients. These masks are not recommended for use by the general public. In
-situations of close contact (within three to six feet) with a suspected or confirmed case, a facemask
-ought to be used instead of an N95 or powered air-purifying respirator. If the patient is not using a
-facemask, the health care provider should wear an N95 mask, even when at a distance of three to six
-feet from the patient. In low-resource outbreak settings, the reuse of N95 masks after ethylene oxide
-sterilization may be considered. General public awareness should be increased by the display of
-posters with clear “DO’s” and “DON’Ts,” illustrating symptoms, routes of transmission, and
-preventive measures, with emphasis on personal hygiene to curtail transmission. Physical and social
-distancing campaigns should be promoted to lessen physical contact and to contain the spread. Fitbit
-devices and other smartphone fitness devices can be used during such outbreaks to monitor the
-symptoms [137,138]. Smartphones and internet services can also be utilized to disseminate
-information regarding the presentation and prevention of the infection.
-Disposable protective clothing, eye gear, gloves, masks, and shoe covers should be used while
-handling animals and animal products, and the same should be restricted to the workplace to prevent
-the spread to family members. The consumption of undercooked and raw meat should strictly be
-avoided. The proper heating of food to a temperature of 60 °C for thirty minutes, mimicking thermal
-shock conditions, a common practice in India, is sufficient to kill the virus. Breath analyzers and other
-public sharing equipment should use a disposable mouthpiece to prevent the human-to-human
-transfer of the virus. The proper cleaning of all surfaces should be practiced in hospitals, airports, at
-workplaces, and in domestic settings to allow for the appropriate action of detergents since SARS-
-CoV is an enveloped virus. The virus has been found to persist on inanimate surfaces from two hours
-up to nine days at room temperature, depending upon the type of surface. At temperatures of 4 °C,
-certain strains remain viable for up to 28 days. Surface disinfection with 0.1% hypochlorite or 62-71%
-ethanol was found to be effective in reducing the infectivity of a surface within an exposure time of
-one minute [139].
-Unfortunately, this is the third event of the spillover of a zoonotic respiratory virus to humans
-in this decade of the 21st century, highlighting the necessity of prerequisite multidisciplinary
-coordination for curbing the emergence of novel viruses and controlling such apocalyptic events
-[140–142]. The “One health approach” is one such initiative that incorporates preventive strategies
-for the emergence of zoonosis in all three arms: humans, animals, and the environment [143,144].
-WHO initiatives, such as the Battle against Respiratory Viruses (BRaVe), that support innovative
-multidisciplinary research in the field of emerging and re-emerging respiratory viruses are
-encouraging [145]. Consortiums and open-access platforms, such as ProMed, International Severe
-Acute Respiratory and Emerging Infection Consortium, and BioDiaspora, act as benefactors by
-partaking in, stipulating, and disseminating comprehensive knowledge on the prevention and
-management of such events worldwide.
-Travelers from COVID-19 affected countries need to be quarantined appropriately, as they have
-been the root cause of spreading SARS-CoV-2 from China to subsequently more than 200 countries.
-Measures, such as public awareness programs about COVID-19 associated health risks and how to
-avoid contact transmission, issuing updated advisories from time to time, visa cancellations to avoid
-travelers coming in from affected countries, understanding the high socio-economic implications of
-other public places, staying at home in affected areas during lockdown conditions in countries where
-this virus has been severely affected, strengthening medical facilities, adopting high biosafety
-measures for doctors, nurses, and health-care workers, along with following high standards of
-hygiene and health practices while diagnosing and treating COVID-19 patients, are a few of the
-critical prevention and control measures to check the high spread of this pandemic virus.
-Because of the current pandemic situation affecting more than 200 countries, as well as the global
-threats imposed by SARS-CoV-2/COVID-19, as indicated by the increasing number of cases and
-deaths, researchers are working to develop effective vaccines and therapeutics as soon as possible.
-Appropriate surveillance, prevention, and control measures are being implemented worldwide,
-while taking lessons from earlier virus outbreaks, such as SARS-CoV, MERS-CoV, Ebola, Zika, Nipah,
-and others, as well as from the advances in science and technology in the modern era, to halt the
-further spread of this virus and to restrain COVID-19 [118,146–154].
-The emergence of SARS-CoV-2 highlights gaps in the current knowledge about human–animal
-barriers and zoonotic diseases, as well as the necessity for a prerequisite for extensive comprehensive
-research at the human–animal–environment interface of the One Health concept [155], to determine
-the origins and crossroads of interspecies transfer impediment by the identification of the ecological
-and evolutionary carriers of the infection. Several questions on SARS-CoV-2 remain unanswered,
-including the factors behind the virus crossing the species barrier, the definitive origin of the virus,
-the exact roles of distinct ORFs, the critical point mutation differences in virus transmission and
-pathogenesis, the reason for the death of specific infected individuals while others remain
-asymptomatic, and the reappearance of infection in specific cured individuals, among others. With
-the availability of more complete genome sequences from different parts of the world, it is becoming
-apparent that several virus mutants are circulating and need close monitoring. There is a need to
-identify the role of the ADE mechanism in SARS-CoV-2, as well to plan for better immunomodulatory
-therapies for the effective treatment and control of COVID-19 infections.
-The functions of non-structural proteins in a typical coronavirus and SARS-CoV-2 (predicted by bioinformatics
-and P.K. involved in data collection and analysis; U.G., V.K.O.R. and M.E.E.Z. performed epidemiological data
-analysis and drafting of immunopathology section; P.G., K.G. and M.P.S. collected material on clinical diagnosis
-and clinical profile; M.I.Y., R.T., M.P. and S.K.P. involved in data collection and updating material on vaccine,
-therapy and prevention control; K.D., R.S., A.J.R.M. and R.K.S. involved in revising, updating, checking, and
-Funding: This research received no external funding.
-Y.S.M. acknowledges the support of the Education Division, Indian Council of Agricultural Research, New
-Delhi, India, in the form of ICAR-National Fellowship.
-Gorbalenya, A.E.; Baker, S.C.; Baric, R.S.; de Groot, R.J.; Drosten, C.; Gulyaeva, A.A.; Haagmans, B.L.;
-Lauber, C.; Leontovich, A.M.; Neuman, B.W.; et al. Severe acute respiratory syndrome-related coronavirus:
-The species and its viruses—A statement of the Coronavirus Study Group. Nat. Microbiol. 2020, 55, 536–
-Huang, C.; Wang, Y.; Li, X.; Ren, L.; Zhao, J.; Hu, Y.; Zhang, L.; Fan, G.; Xu, J.; Gu, X.; et al. Clinical features
-of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020, 395, P497–P506.
-Cucinotta, D.; Vanelli, M.; WHO Declares COVID-19 a Pandemic. Acta Biomed. 2020, 91, 157–160.
-World Health Organization (WHO). Coronavirus disease 2019 (COVID-19) Situation Report–93. Available
-Wei, M.; Yuan, J.; Liu, Y.; Fu, T.; Yu, X.; Zhang, Z.J. Novel coronavirus infection in hospitalized infants
-under 1 year of age in China. J. Am. Med. Assoc. 2020, 323, 1313–1314.
-Chen, N.; Zhou, M.; Dong, X.; Qu, J.; Gong, F.; Han, Y.; Qiu, Y.; Wang, J.; Liu, Y.; Wei, Y.; et al.
-Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan,
-China: A descriptive study. Lancet 2020, 395, 507–513.
-Wang, D.; Hu, B.; Hu, C.; Zhu, F.; Liu, X.; Zhang, J.; Wang, B.; Xiang, H.; Cheng, Z.; Xiong, Y.; et al. Clinical
-characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan,
-China. J. Am. Med. Assoc. 2020, 323, 1061–1069.
-Cai, H. Sex difference and smoking predisposition in patients with COVID-19. Lancet Respir. Med. 2020, 8,
-Yu, W.-B.; Tang, G.-D.; Zhang, L.; Corlett, R. Decoding the evolution and transmissions of the novel
-pneumonia coronavirus (SARS-CoV-2) using the whole genomic data. Zool Res. 2020, 41, 247–257.
-Li, Q.; Guan, X.; Wu, P.; Wang, X.; Zhou, L.; Tong, Y.; Ren, R.; Leung, K.S.M.; Lau, E.H.Y.; Wong, J.Y.; et al.
-Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia. N. Engl. J. Med.
-Guo, Y.R.; Cao, Q.D.; Hong, Z.S.; Tan, Y.Y.; Chen, S.D.; Jin, H.J.; Tan, K.S.; Wang, D.Y.; Yan, Y. The origin,
-transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak—An update on the
-status. Mil. Med. Res. 2020, 7, 11.
-Hodgson, J. The pandemic pipeline. Nat. Biotechnol. 2020, 38, 523–532
-Rothe, C.; Schunk, M.; Sothmann, P.; Bretzel, G.; Froeschl, G.; Wallrauch, C.; Zimmer, T.; Thiel, V.; Janke,
-C.; Guggemos, W.; et al. Transmission of 2019-nCoV infection from an asymptomatic contact in Germany.
-N. Engl. J. Med. 2020, 382, 970–971.
-Cui, J.; Li, F.; Shi, Z.L. Origin and evolution of pathogenic coronaviruses. Nat. Rev. Microbiol. 2019, 17, 181–
-Müller, M.A.; Corman, V.M.; Jores, J.; Meyer, B.; Younan, M.; Liljander, A.; Bosch, B.J.; Lattwein, E.; Hilali,
-M.; Musa, B.E.; et al. MERS coronavirus neutralizing antibodies in camels, Eastern Africa, 1983–1997. Emerg.
-Infect. Dis. 2014, 20, 2093–2095.
-Ellwanger, J.H.; Chies, J.A.B.; Wind: A neglected factor in the spread of infectious diseases. Lancet Planet.
-Health 2018, 2, e475.
-Lam, T.T.-Y.; Shum, M.H.-H.; Zhu, H.-C.; Tong, Y.-G.; Ni, X.-B.; Liao, Y.-S.; Wei, W.; Cheung, W.Y.-M.; Li,
-W.-J.; Li, L.-F; et al. Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins. Nature 2020,
-Fung, T.S.; Liu, D.X. Human coronavirus: Host-pathogen interaction. Annu. Rev. Microbiol. 2019, 73, 529–
-Corman, V.M.; Albarrak, A.M.; Omrani, A.S.; Albarrak, M.M.; Farah, M.E.; Almasri, M.; Muth, D.; Sieberg,
-A.; Meyer, B.; Assiri, A.M.; et al. Viral shedding and antibody response in 37 patients with Middle East
-respiratory syndrome coronavirus infection. Clin. Infect. Dis. 2016, 62, 477–483.
-Su, S.; Wong, G.; Shi, W.; Liu, J.; Lai, A.C.; Zhou, J.; Liu, W.; Bi, Y.; Gao, G.F. Epidemiology, genetic
-recombination, and pathogenesis of coronaviruses. Trends Microbiol. 2016, 24, 490–502.
-Zhou, P.; Yang, X.L.; Wang, X.G.; Hu, B.; Zhang, L.; Zhang, W.; Si, H.R.; Zhu, Y.; Li, B.; Huang, C.L.; et al.
-A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020, 579, 270–
-Yang, J.; Zheng, Y.; Gou, X.; Pu, K.; Chen, Z.; Guo, Q.; Ji, R.; Wang, H.; Wang, Y.; Zhou, Y. Prevalence of
-Int. J. Infect. Dis. 2020, 94, 91–95.
-Chan, J.F.; Kok, K.H.; Zhu, Z.; Chu, H.; To, K.K.; Yuan, S.; Yuen, K.Y. Genomic characterization of the 2019
-novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting
-Wuhan. Emerg. Microbes Infect. 2020, 9, 221–236.
-de Groot, R.J.; Baker, S.; Baric, R.; Enjuanes, L.; Gorbalenya, A.; Holmes, K.; Perlman, S.; Poon, L.; Rottier,
-P.; Talbot, P. Family coronaviridae. In Virus Taxonomy: Ninth Report of the International Committee on
-Taxonomy of Viruses; Academic Press: Cambridge, MA, USA, 2012; pp. 806–828.
-Zhu, N.; Zhang, D.; Wang, W.; Li, X.; Yang, B.; Song, J.; Zhao, X.; Huang, B.; Shi, W.; Lu, R.; et al. A novel
-coronavirus from patients with pneumonia in China, 2019. N. Engl. J. Med. 2020, 382, 727–733.
-Wu, A.; Peng, Y.; Huang, B.; Ding, X.; Wang, X.; Niu, P.; Meng, J.; Zhu, Z.; Zhang, Z.; Wang, J.; et al. Genome
-composition and divergence of the novel coronavirus (2019-nCoV) originating in China. Cell Host Microbe
-Fehr, A.R.; Perlman, S. Coronaviruses: An overview of their replication and pathogenesis. Methods Mol.
-Chen, Y.; Liu, Q.; Guo, D. Emerging coronaviruses: Genome structure, replication, and pathogenesis. J.
-Med. Virol. 2020, 92, 418–423.
-Malik, Y.S.; Sircar, S.; Bhat, S.; Sharun, K.; Dhama, K.; Dadar, M.; Tiwari, R.; Chaicumpa, W. Emerging
-novel Coronavirus (2019-nCoV)-Current scenario, evolutionary perspective based on genome analysis and
-recent developments. Vet. Q. 2020, 40, 11–2.
-Lu, G.; Wang, Q.; Gao, G.F. Bat-to-human: Spike features determining ‘host jump’ of coronaviruses SARSCoV, MERS-CoV, and beyond. Trends Microbiol. 2015, 23, 468–478.
-Lu, R.; Zhao, X.; Li, J.; Niu, P.; Yang, B.; Wu, H.; Wang, W.; Song, H.; Huang, B.; Zhu, N.; et al. Genomic
-characterisation and epidemiology of 2019 novel coronavirus: Implications for virus origins and receptor
-binding. Lancet 2020, 395, 565–574.
-He, Y.; Zhou, Y.; Liu, S.; Kou, Z.; Li, W.; Farzan, M.; Jiang, S. Receptor-binding domain of SARS-CoV spike
-protein induces highly potent neutralizing antibodies: Implication for developing subunit vaccine. Biochem.
-Biophys. Res. Commun. 2004, 324, 773–781.
-Le Coupanec, A.; Desforges, M.; Meessen-Pinard, M.; Dube, M.; Day, R.; Seidah, N.G.; Talbot, P.J. Cleavage
-of a neuroinvasive human respiratory virus spike glycoprotein by proprotein convertases modulates
-neurovirulence and virus spread within the central nervous system. PLoS Pathog. 2015, 11, e1005261.
-Kirchdoerfer, R.N.; Cottrell, C.A.; Wang, N.; Pallesen, J.; Yassine, H.M.; Turner, H.L.; Corbett, K.S.; Graham,
-B.S.; McLellan, J.S.; Ward, A.B. Pre-fusion structure of a human coronavirus spike protein. Nature 2016, 531,
-Walls, A.C.; Tortorici, M.A.; Snijder, J.; Xiong, X.; Bosch, B.J.; Rey, F.A.; Veesler, D. Tectonic conformational
-changes of a coronavirus spike glycoprotein promote membrane fusion. Proc. Natl. Acad. Sci. USA 2017,
-39. Bassi, D.E.; Zhang, J.; Renner, C.; Klein-Szanto, A.J. Targeting proprotein convertases in furin-rich lung
-cancer cells results in decreased in vitro and in vivo growth. Mol. Carcinog. 2017, 56, 1182–1188.
-40. Yang, Z.; Lasker, K.; Schneidman-Duhovny, D.; Webb, B.; Huang, C.C.; Pettersen, E.F.; Goddard, T.D.;
-Meng, E.C.; Sali, A.; Ferrin, T.E. UCSF Chimera, MODELLER, and IMP: An integrated modeling system. J.
-Struct. Biol. 2012, 179, 269–278.
-41. Li, F. Receptor recognition and cross-species infections of SARS coronavirus. Antiviral Res. 2013, 100, 246–
-42. Li, F.; Receptor recognition mechanisms of coronaviruses: A decade of structural studies. J. Virol. 2015, 89,
-43. Hoffmann, M.; Kleine-Weber, H.; Schroeder, S.; Krüger, N.; Herrler, T.; Erichsen, S.; Schiergens, T.S.;
-Herrler, G.; Wu, N.-H.; Nitsche, A.; et al. SARS-CoV-2 cell entry depends on ace2 and tmprss2 and is
-blocked by a clinically proven protease inhibitor. Cell 2020, 181, 271–280.
-44. Wong, S.K.; Li, W.; Moore, M.J.; Choe, H.; Farzan, M. A 193-amino acid fragment of the SARS coronavirus
-S protein efficiently binds angiotensin-converting enzyme 2. J. Biol. Chem. 2004, 279, 3197–3201.
-45. Wong, A.H.; Tomlinson, A.C.; Zhou, D.; Satkunarajah, M.; Chen, K.; Sharon, C.; Desforges, M.; Talbot, P.J.;
-Rini, J.M. Receptor-binding loops in alphacoronavirus adaptation and evolution. Nat. Commun. 2017, 8, 1–
-46. van Doremalen, N.; Bushmaker, T.; Morris, D.H.; Holbrook, M.G.; Gamble, A.; Williamson, B.N.; Tamin,
-A.; Harcourt, J.L.; Thornburg, N.J.; Gerber, S.I.; et al. Aerosol and surface stability of SARS-CoV-2 as
-compared with SARS-CoV-1. N. Engl. J. Med. 2020, 382, 1564–1567.
-47. Van Doremalen, N.; Bushmaker, T.; Munster, V. Stability of Middle East respiratory syndrome coronavirus
-(MERS-CoV) under different environmental conditions. Eurosurveillance 2013, 18, 20590.
-48. Sizun, J.; Yu, M.; Talbot, P. Survival of human coronaviruses 229E and OC43 in suspension and after drying
-onsurfaces: A possible source ofhospital-acquired infections. J. Hosp. Infect. 2000, 46, 55–60.
-49. Warnes, S.L.; Little, Z.R.; Keevil, C.W. Human coronavirus 229E remains infectious on common touch
-surface materials. mBio 2015, 6, e01697–e01715.
-50. Rabenau, H.; Cinatl, J.; Morgenstern, B.; Bauer, G.; Preiser, W.; Doerr, H. Stability and inactivation of SARS
-coronavirus. Med. Microbiol. Immunol. 2005, 194, 1–6.
-51. Kratzel, A.; Todt, D.; V’kovski, P.; Steiner, S.; Gultom, M.L.; Thao, T.T.N.; Ebert, N.; Holwerda, M.;
-Steinmann, J.; Niemeyer, D.; et al. Efficient inactivation of SARS-CoV-2 by WHO-recommended hand rub
-52. Kratzel, A.; Todt, D.; V’Kovski, P.; Steiner, S.; Gultom, M.; Thao, T.T.N.; Ebert, N.; Holwerda, M.;
-Steinmann, J.; Niemeyer, D.; et al. Inactivation of severe acute respiratory syndrome coronavirus 2 by
-WHO-Recommended hand rub formulations and alcohols. Emerg. Infect. Dis. 2020, 26, 1592-1595.
-53. Letunic, I.; Bork, P. Interactive Tree of Life (iTOL) v4: Recent updates and new developments. Nucleic Acids
-Res. 2019, 47, W256—W259.
-54. Xiang, N.; Havers, F.; Chen, T.; Song, Y.; Tu, W.; Li, L.; Cao, Y.; Liu, B.; Zhou, L.; Meng, L.; et al. Use of
-national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004–2013.
-Emerg. Infect. Dis. 2013, 19, 1784–1790.
-55. Chen, H.; Guo, J.; Wang, C.; Luo, F.; Yu, X.; Zhang, W.; Li, J.; Zhao, D.; Xu, D.; Gong, Q.; et al. Clinical
-characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant
-56. Yeo, C.; Kaushal, S.; Yeo, D.; Enteric involvement of coronaviruses: Is faecal-oral transmission of SARSCoV-2 possible? Lancet Gastroenterol. Hepatol. 2020, 5, 335–337.
-57. Bai, Y.; Yao, L.; Wei, T.; Tian, F.; Jin, D.-Y.; Chen, L.; Wang, M. Presumed asymptomatic carrier transmission
-of COVID-19. J. Am. Med. Assoc. 2020, 323, 1406–1407.
-58. Hindson, J. COVID-19: Faecal–oral transmission? Nat. Rev. Gastroenterol. Hepatol. 2020, 17, 259.
-59. Xu, Y.; Li, X.; Zhu, B.; Liang, H.; Fang, C.; Gong, Y.; Guo, Q.; Sun, X.; Zhao, D.; Shen, J. Characteristics of
-pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding. Nat. Med. 2020,
-Zhang, W.; Du, R.H.; Li, B.; Zheng, X.S.; Yang, X.L.; Hu, B.; Wang, Y.Y.; Xiao, G.F.; Yan, B.; Shi, Z.L.; et al.
-Molecular and serological investigation of 2019-nCoV infected patients: Implication of multiple shedding
-routes. Emerg. Microbes Infect. 2020, 9, 386–389.
-World Health Organization (WHO). Coronavirus Disease 2019 (COVID-19). Situation Report–30. Available
-Liu, Y.; Gayle, A.A.; Wilder-Smith, A.; Rocklöv, J. The reproductive number of COVID-19 is higher
-compared to SARS coronavirus. J. Travel Med. 2020, 27, taaa021
-Conti, P.; Younes, A. Coronavirus COV-19/SARS-CoV-2 Affects Women Less Than Men: Clinical Response
-Ronconi, G.; Teté, G.; Kritas, S.K.; Gallenga, C.E.; Caraffa, A.; Ross, R.; Conti, P. SARS-CoV-2, Which
-World Health Organization (WHO). Coronavirus Disease (COVID-19) Technical Guidance. Available
-World Health Organization (WHO). Coronavirus Disease 2019 (COVID-19) Situation Report–2. Available
-World Health Organization (WHO). Coronavirus disease 2019 (COVID-19) Situation Report–81. Available
-Rothan, H.A.; Byrareddy, S.N. The epidemiology and pathogenesis of coronavirus disease (COVID-19)
-Hu, Z.; Song, C.; Xu, C.; Jin, G.; Chen, Y.; Xu, X.; Ma, H.; Chen, W.; Lin, Y.; Zheng, Y. Clinical characteristics
-of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China. Sci. China
-Life Sci. 2020, 63, 706–711.
-Centers for Disease Control and Prevention (CDC). Coronavirus Disease (COVID-19) Pregnancy and
-He, F.; Deng, Y.; Li, W. Coronavirus disease 2019: What we know? J. Med. Virol. 2020, 92, 719–725.
-Xu, Z.; Shi, L.; Wang, Y.; Zhang, J.; Huang, L.; Zhang, C.; Liu, S.; Zhao, P.; Liu, H.; Zhu, L.; et al. Pathological
-findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir. Med. 2020, 8, 420–
-Chan, K.H.; Peiris, J.S.; Lam, S.Y.; Poon, L.L.; Yuen, K.Y.; Seto, W.H. The Effects of temperature and relative
-humidity on the viability of the SARS coronavirus. Adv. Virol. 2011, 2011, 734690.
-Chan, J.F.; Yuan, S.; Kok, K.H.; To, K.K.; Chu, H.; Yang, J.; Xing, F.; Liu, J.; Yip, C.C.; Poon, R.W.; et al. A
-familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person
-transmission: A study of a family cluster. Lancet 2020, 395, 514–523.
-Yao, X.H.; Li, T.Y.; He, Z.C.; Ping, Y.F.; Liu, H.W.; Yu, S.C.; Mou, H.M.; Wang, L.H.; Zhang, H.R.; Fu, W.J.;
-et al. A pathological report of three COVID-19 cases by minimally invasive autopsies. J. Pathol. 2020, 49,
-Xu, Y.H.; Dong, J.H.; An, W.M.; Lv, X.Y.; Yin, X.P.; Zhang, J.Z.; Dong, L.; Ma, X.; Zhang, H.J.; Gao, B.L.
-Clinical and computed tomographic imaging features of novel coronavirus pneumonia caused by SARSCoV-2. J. Infect. 2020, 80, 394–400.
-Chen, L.; Liu, H.G.; Liu, W.; Liu, J.; Liu, K.; Shang, J.; Deng, Y.; Wei, S. Analysis of clinical features of 29
-patients with 2019 novel coronavirus pneumonia. Int. J. Tuberc. Lung. Dis. 2020, 43, 203–208.
-Pan, Y.; Guan, H.; Zhou, S.; Wang, Y.; Li, Q.; Zhu, T.; Hu, Q.; Xia, L. Initial CT findings and temporal
-changes in patients with the novel coronavirus pneumonia (2019-nCoV): A study of 63 patients in Wuhan,
-China. Eur. Radiol. 2020, 30, 3306–3309.
-Pan, F.; Ye, T.; Sun, P.; Gui, S.; Liang, B.; Li, L.; Zheng, D.; Wang, J.; Hesketh, R.L.; Yang, L.; et al. Time
-course of lung changes on chest CT during recovery from 2019 novel coronavirus (COVID-19) pneumonia.
-Lei, J.; Li, J.; Li, X.; Qi, X. CT imaging of the 2019 novel coronavirus (2019-nCoV) pneumonia. Radiology
-Mehta, P.; McAuley, D.F.; Brown, M.; Sanchez, E.; Tattersall, R.S.; Manson, J.J. COVID-19: Consider
-cytokine storm syndromes and immunosuppression. Lancet 2020, 395, 1033–1034.
-Giwa, A.; Desai, A. Novel coronavirus COVID-19: An overview for emergency clinicians. Emerg. Med. Pract.
-Qin, C.; Zhou, L.; Hu, Z.; Zhang, S.; Yang, S.; Tao, Y. Dysregulation of immune response in patients with
-COVID-19 in Wuhan, China. Clin. Infect. Dis. 2020, 53, 1689–1699.
-Conti, P.; Ronconi, G.; Caraffa, A.; Gallenga, C.E.; Ross, R.; Frydas, I.; Kritas, S.K. Induction of proinflammatory cytokines (IL-1 and IL-6) and lung inflammation by Coronavirus-19 (COVID-19 or SARSCoV-2): Anti-inflammatory strategies. J. Biol. Regul. Homeost. Agents 2020, 34, 1.
-Ehmann, K.Z.; Drosten, C.; Wendtner, C.; Zange, M.; Vollmar, P.; Rosina Ehmann, D.; Zwirglmaier, K.;
-Guggemos, M.; Seilmaier, M.; Niemeyer, D. Virological assessment of hospitalized patients with COVID2019. Nature 2020, 581, 465–469.
-Peiris, J.; Lai, S.; Poon, L.; Guan, Y.; Yam, L.; Lim, W.; Nicholls, J.; Yee, W.; Yan, W.; Cheung, M. Coronavirus
-as a possible cause of severe acute respiratory syndrome. Lancet 2003, 361, 1319–1325.
-Zhao, J.; Yuan, Q.; Wang, H.; Liu, W.; Liao, X.; Su, Y.; Wang, X.; Yuan, J.; Li, T.; Li, J. Antibody responses to
-Chen, G.; Wu, D.; Guo, W.; Cao, Y.; Huang, D.; Wang, H.; Wang, T.; Zhang, X.; Chen, H.; Yu, H. Clinical
-and immunological features of severe and moderate coronavirus disease 2019. J. Clin. Invest. 2020, 130.
-Glass, W.G.; Subbarao, K.; Murphy, B.; Murphy, P.M. Mechanisms of host defense following severe acute
-respiratory syndrome-coronavirus (SARS-CoV) pulmonary infection of mice. J. Immunol. 2004, 173, 4030–
-Helms, J.; Tacquard, C.; Severac, F.; Leonard-Lorant, I.; Ohana, M.; Delabranche, X.; Merdji, H.; Clere-Jehl,
-R.; Schenck, M.; Gandet, F.F. High risk of thrombosis in patients with severe SARS-CoV-2 infection: A
-multicenter prospective cohort study. Intensive Care Med. 2020, 46, 1–10.
-Liang, W.; Guan, W.; Chen, R.; Wang, W.; Li, J.; Xu, K.; Li, C.; Ai, Q.; Lu, W.; Liang, H. Cancer patients in
-SARS-CoV-2 infection: A nationwide analysis in china. The Lancet Oncology 2020, 21, 335–337.
-Cameron, M.J.; Bermejo-Martin, J.F.; Danesh, A.; Muller, M.P.; Kelvin, D.J. Human immunopathogenesis
-of severe acute respiratory syndrome (SARS). Virus Res. 2008, 133, 13–19.
-Prompetchara, E.; Ketloy, C.; Palaga, T. Immune responses in COVID-19 and potential vaccines: Lessons
-learned from SARS and MERS epidemic. Asian Pac. J. Allergy Immunol. 2020, 38, 1–9.
-Liu, J.; Li, S.; Liu, J.; Liang, B.; Wang, X.; Wang, H.; Li, W.; Tong, Q.; Yi, J.; Zhao, L., et al. Longitudinal
-characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2
-infected patients. EBioMedicine 2020, 55, 102763.
-Tetro, J.A. Is COVID-19 receiving ADE from other coronaviruses? Microbes Infect. 2020, 22, 72–73.
-Cao, X. COVID-19: Immunopathology and its implications for therapy. Nat. Rev. Immunol. 2020, 22, 72–73.
-Li, X.; Zai, J.; Zhao, Q.; Nie, Q.; Li, Y.; Foley, B.T.; Chaillon, A. Evolutionary history, potential intermediate
-animal host, and cross-species analyses of SARS-CoV-2. J. Med. Virol. 2020, 92, 602–611.
-Ji, W.; Wang, W.; Zhao, X.; Zai, J.; Li, X. Cross-species transmission of the newly identified coronavirus
-2019-nCoV. J. Med. Virol. 2020, 92, 433–440.
-Han, G.-Z. Pangolins harbor SARS-CoV-2-related coronaviruses. Trends Microbiol. 2020, 28, 515–517.
-Shi, J.; Wen, Z.; Zhong, G.; Yang, H.; Wang, C.; Huang, B.; Liu, R.; He, X.; Shuai, L.; Sun, Z.; et al.
-Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS–coronavirus 2. Science 2020,
-American Veterinary Medical Association (AVMA). SARS-CoV-2 in Animals, Including Pets. Available
-Callaway, E. Labs rush to study coronavirus in transgenic animals—Some are in short supply. Nature 2020,
-105. Wentworth, D.E.; Gillim-Ross, L.; Espina, N.; Bernard, K.A. Mice susceptible to SARS coronavirus. Emerg.
-Infect. Dis. 2004, 10, 1293–1296.
-106. Hogan, R.J.; Gao, G.; Rowe, T.; Bell, P.; Flieder, D.; Paragas, J.; Kobinger, G.P.; Wivel, N.A.; Crystal, R.G.;
-Boyer, J.; et al. Resolution of primary severe acute respiratory syndrome-associated coronavirus infection
-requires Stat1. J. Virol. 2004, 78, 11416–11421.
-107. Roberts, A.; Vogel, L.; Guarner, J.; Hayes, N.; Murphy, B.; Zaki, S.; Subbarao, K. Severe acute respiratory
-syndrome coronavirus infection of golden Syrian hamsters. J. Virol. 2005, 79, 503–511.
-108. Kim, Y.-I.; Kim, S.-G.; Kim, S.-M.; Kim, E.-H.; Park, S.-J.; Yu, K.-M.; Chang, J.-H.; Kim, E.J.; Lee, S.; Casel,
-M.A.B.; et al. Infection and rapid transmission of SARS-CoV-2 in ferrets. Cell Host Microbe 2020, 27, C704–
-109. To, K.K.; Tsang, O.T.; Chik-Yan Yip, C.; Chan, K.H.; Wu, T.C.; Chan, J.M.C.; Leung, W.S.; Chik, T.S.; Choi,
-C.Y.; Kandamby, D.H.; et al. Consistent detection of 2019 novel coronavirus in saliva. Clin. Infect. Dis. 2020,
-110. Foundation for Innovative New Diagnostic (FIND). COVID-19 Diagnostics Resource Centre. Available
-on 2 April 2020).
-113. Li, Z.; Yi, Y.; Luo, X.; Xiong, N.; Liu, Y.; Li, S.; Sun, R.; Wang, Y.; Hu, B.; Chen, W.; et al. Development and
-clinical application of a rapid IGM-IGG combined antibody test for SARS-CoV-2 infection diagnosis. J. Med.
-114. Zheng, J. SARS-CoV-2: An emerging coronavirus that causes a global threat. Int. J. Biol. Sci. 2020, 16, 1678–
-115. Ai, J.W.; Zhang, Y.; Zhang, H.C.; Xu, T.; Zhang, W.H. Era of molecular diagnosis for pathogen identification
-of unexplained pneumonia, lessons to be learned. Emerg. Microbes Infect. 2020, 9, 597–600.
-116. Rao, A.S.S.; Vazquez, J.A. Identification of COVID-19 can be quicker through artificial intelligence
-framework using a mobile phone-based survey in the populations when cities/towns are under quarantine.
-117. Allam, Z.; Jones, D.S. On the coronavirus (COVID-19) outbreak and the smart city network: Universal data
-sharing standards coupled with artificial intelligence (AI) to benefit urban health monitoring and
-management. Healthcare 2020, 8, 46.
-118. Li, L.; Qin, L.; Xu, Z.; Yin, Y.; Wang, X.; Kong, B.; Bai, J.; Lu, Y.; Fang, Z.; Song, Q. Artificial intelligence
-distinguishes COVID-19 from community acquired pneumonia on chest CT. Radiology 2020,
-119. Santosh, K. AI-driven tools for coronavirus outbreak: Need of active learning and cross-population
-train/test models on multitudinal/multimodal data. J. Med. Syst. 2020, 44, 15.
-120. Pang, J.; Wang, M.X.; Ang, I.Y.H.; Tan, S.H.X.; Lewis, R.F.; Chen, J.I.; Gutierrez, R.A.; Gwee, S.X.W.; Chua,
-P.E.Y.; Yang, Q.; et al. Potential rapid diagnostics, vaccine and therapeutics for 2019 novel coronavirus
-121. Le, T.T.; Andreadakis, Z.; Kumar, A.; Roman, R.G.; Tollefsen, S.; Saville, M.; Mayhew, S. The COVID -19
-vaccine development landscape. Nat. Rev. Drug Discov. 2020, 19, 305–306.
-(accessed on 10 April 2020).
-124. Guo, D. Old weapon for new enemy: Drug repurposing for treatment of newly emerging viral diseases.
-125. Mifsud, E.J.; Hayden, F.G.; Hurt, A.C. Antivirals targeting the polymerase complex of influenza viruses.
-Antiviral Res. 2019, 169, 104545.
-126. Wang, C.; Li, W.; Drabek, D.; Okba, N.M.A.; van Haperen, R.; Osterhaus, A.D.M.E.; van Kuppeveld, F.J.M.;
-Haagmans, B.L.; Grosveld, F.; Bosch, B.-J. A human monoclonal antibody blocking SARS-CoV-2 infection.
-Nat. Commun. 2020, 11, 2251.
-127. Sheahan, T.P.; Sims, A.C.; Leist, S.R.; Schafer, A.; Won, J.; Brown, A.J.; Montgomery, S.A.; Hogg, A.; Babusis,
-D.; Clarke, M.O.; et al. Comparative therapeutic efficacy of remdesivir and combination lopinavir,
-ritonavir, and interferon beta against MERS-CoV. Nat. Commun. 2020, 11, 222.
-128. Cao, B.; Wang, Y.; Wen, D.; Liu, W.; Wang, J.; Fan, G.; Ruan, L.; Song, B.; Cai, Y.; Wei, M.; et al. A trial of
-lopinavir–ritonavir in adults hospitalized with severe COVID-19. N. Engl. J. Med. 2020, 382, 1787–1799.
-129. Gautret, P.; Lagier, J.C.; Parola, P.; Hoang, V.T.; Meddeb, L.; Mailhe, M.; Doudier, B.; Courjon, J.;
-Giordanengo, V.; Vieira, V.E.; et al. Hydroxychloroquine and azithromycin as a treatment of COVID-19:
-Results of an open-label non-randomized clinical trial. Int. J. Antimicrob. Agents 2020,
-130. Chen, L.; Xiong, J.; Bao, L.; Shi, Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect.
-tocilizumab in the treatment of rheumatic diseases. Rheumatol. Ther. 2018, 5, 21–42.
-132. Adhikari, S.P.; Meng, S.; Wu, Y.J.; Mao, Y.P.; Ye, R.X.; Wang, Q.Z.; Sun, C.; Sylvia, S.; Rozelle, S.; Raat, H.;
-et al. Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus
-work plan for prevention and control of pneumonia caused by novel coronavirus infection in the near
-136. World Health Organization (WHO). Advice on the use of masks in the community, during home care and
-in health care settings in the context of the novel coronavirus 2019-nCoV outbreak (Interim guidance).
-WHO/2019-nCov/IPC_Masks/2020.3 (accessed on 8 April 2020).
-137. Radin, J.M.; Wineinger. N.E.; Topol, E.J., Steinhubl, S.R. H. Fitbit-informed influenza forecasts. Lancet
-138. Radin, J.M.; Wineinger, N.E.; Topol, E.J.; Steinhubl, S.R. Harnessing wearable device data to improve statelevel real-time surveillance of influenza-like illness in the USA: A population-based study. Lancet Digital
-Health 2020, 2, 2, E85–E93.
-139. Kampf, G.; Todt, D.; Pfaender, S.; Steinman, E. Persistence of coronaviruses on inanimate surfaces and their
-inactivation with biocidal agents. J. Hosp. Infect. 2020, 114, 6.
-140. Murdoch, D.R.; French, N.P. COVID-19: Another infectious disease emerging at the animal-human
-interface. N. Z. Med. J. 2020, 133, 12–15.
-141. Malik, Y.S.; Sircar, S.; Bhat, S.; Vinodhkumar, O.R.; Tiwari, R.; Sah, R.; Rabaan, A.A.; Rodriguez-Morales,
-A.J.; Dhama, K. Emerging coronavirus disease (COVID-19), a pandemic public health emergency with
-142. Dhama, K.; Patel, S.K.; Sharun, K.; Pathak, M.; Tiwari, R.; Yatoo, M.I.; Malik, Y.S.; Sah, R.; Rabaan, A.A.;
-Panwar, P.K.; et al. SARS-CoV-2: Jumping the species barrier, lessons from SARS and MERS, its zoonotic
-spillover, transmission to humans, preventive and control measures and recent developments to counter
-context of COVID-19: A look into the ecology of this emerging disease. Adv. Animal Vet. Sci. 2020, 8, 1–3.
-144. Dhama, K.; Verma, A.; Tiwari, R.; Chakraborty, S.; Vora, K.; Kapoor, Rajib, D.; Karthik, K.; Singh, R.; Munir,
-M.; et al. A perspective on applications of geographical information system (GIS); an advanced tracking
-tool for disease surveillance and monitoring in veterinary epidemiology. Adv. Animal Vet. Sci. 2013, 1, 14–
-145. World Health Organization (WHO). Battle against Respiratory Viruses (BRaVe) initiative.
-146. Singh, R.K.; Dhama, K.; Chakraborty, S.; Tiwari, R.; Natesan, S.; Khandia, R.; Munjal, A.; Vora, K.S.; Latheef,
-S.K.; Karthik, K.; et al. Nipah virus: Epidemiology, pathology, immunobiology and advances in diagnosis,
-147. Rodriguez-Morales, A.; Bonilla-Aldana, D.; Tiwari, R.; Sah, R.; Rabaan, A.; Dhama, K. COVID-19 an
-emerging coronavirus infection: Current scenario and recent developments—An Overview. J. Pure Appl.
-148. Rabaan, A.A.; Al-Ahmed, S.H.; Haque, S.; Sah, R.; Tiwari, R.; Malik, Y.S.; Dhama, K.; Yatoo, M.I.; BonillaAldana, D.K.; Rodriguez-Morales, A.J. SARS-CoV-2, SARS-CoV, and MERS-CoV: A comparative overview.
-Infez. Med. 2020, 28, 174–184.
-149. Rabaan, A.A.; Al-Ahmed, S.H.; Sah, R.; Tiwari, R.; Yatoo, M.I.; Patel, S.K.; Pathak, M.; Malik, Y.S.; Dhama,
-K.; Singh, K.P.; et al. SARS-CoV-2/COVID-19 and advances in developing potential therapeutics and
-150. Munjal, A.; Khandia, R.; Dhama, K.; Sachan, S.; Karthik, K.; Tiwari, R.; Malik, Y.S.; Kumar, D.; Singh, R.K.;
-Iqbal, H.M.N.; et al. Advances in developing therapies to combat Zika Virus: Current knowledge and future
-perspectives. Front. Microbiol. 2017, 8, 1469.
-151. Dhama, K.; Sharun, K.; Tiwari, R.; Dadar, M.; Malik, Y.S.; Singh, K.P.; Chaicumpa, W. COVID-19, an
-emerging coronavirus infection: Advances and prospects in designing and developing vaccines,
-152. Dhama, K.; Karthik, K.; Khandia, R.; Chakraborty, S.; Munjal, A.; Latheef, S.K.; Kumar, D.; Ramakrishnan,
-M.A.; Malik, Y.S.; Singh, R.; et al. Advances in designing and developing vaccines, drugs, and therapies to
-counter Ebola virus. Front. Immunol. 2018, 9, 1803.
-153. Chatterjee, P.; Nagi, N.; Agarwal, A.; Das, B.; Banerjee, S.; Sarkar, S.; Gupta, N.; Gangakhedkar, R.R. The
-154. Conti, P.; Gallenga, C.E.; Tetè, G.; Caraffa, A.; Ronconi, G.; Younes, A.; Toniato, E.; Ross, R.; Kritas, S.K.;
-How to reduce the likelihood of coronavirus-19 (CoV-19 or SARS-CoV-2) infection and lung inflammation
-155. El Zowalaty, M.E.; Järhult, J.D. From SARS to COVID-19: A previously unknown SARS- related
-coronavirus (SARS-CoV-2) of pandemic potential infecting humans—Call for a one health approach. One
+Coronavirus  Disease Pandemic (COVID‐19): Challenges and a Global
+Perspective Yashpal Singh Malik 1,*, Naveen Kumar  2,  Shubhankar
+Sircar  1,  Rahul  Kaushik  3, Sudipta Bhat 1, Kuldeep Dhama 4,*,
+Parakriti Gupta 5, Kapil Goyal 5, Mini P Singh 5, Ujjala  Ghoshal
+6, Mohamed E. El Zowalaty 7,8, VinodhKumar O. R 9, Mohd Iqbal Ya‐
+too 10, Ruchi Tiwari 11, Mamta Pathak 4, Shailesh Kumar Patel  4,
+Ranjit Sah 12, Alfonso J Rodriguez‐Morales 13,14, Balasubramanian
+Ganesh 15, Prashant Kumar 16 and Raj Kumar Singh 17 3  Laboratory
+for  Structural Bioinformatics, Biosystems Dynamics Research Cen‐
+ter, Riken 250‐0047, Japan; 11 Department of Veterinary  Microbi‐
+ology  and  Immunology, College of Veterinary Sciences, UP Pandit
+Deen Dayal Upadhayay Pashu Chikitsa  Vigyan  Vishwavidyalay  Evum
+Go‐Anusandhan  Sansthan  (DUVASU), 13 Public Health and Infection
+Research Group, Faculty of Health Sciences, Universidad Tecnolog‐
+ica   de  14  Grupo  de  Investigacion  Biomedicina,  Faculty  of
+Medicine,  Fundacion  Universitaria  Autonoma  de  las  Americas,
+Pereira,   Risaralda   660003,   Colombia   Tel.:  +91‐5812302777
+(Y.S.M.); Fax: +91‐5812301757 (Y.S.M.)  Abstract: The technology‐
+driven  world  of the 21st century is currently confronted with a
+major threat to humankind, represented by the coronavirus disease
+(COVID‐19)  pandemic, caused by the severe acute respiratory syn‐
+drome, coronavirus‐2 (SARS‐CoV‐2). As of now,  COVID‐19  has  af‐
+fected  more than 6 million confirmed cases and took 0.39 million
+human lives. SARS‐CoV‐2 spreads much faster than its  two  ances‐
+tors,  SARS‐CoV  and  Middle East respiratory syndrome‐CoV (MERS‐
+CoV), but has low fatality rates. Our analyses speculate that the
+efficient  replication and transmission of SARSCoV‐2 might be due
+to the high‐density basic amino acid residues,  preferably  posi‐
+tioned  in  close proximity at both the furin‐like cleavage sites
+(S1/S2 and S2) within the spike protein. Given the  high  genomic
+similarities  of  SARS‐CoV‐2  to bat SARS‐like CoVs, it is likely
+that bats serve as a reservoir host for its progenitor. Women and
+children  are less susceptible to SARS‐CoV‐2 infection, while the
+elderly and people with comorbidities are more prone  to  serious
+clinical outcomes, which may be associated with acute respiratory
+distress syndrome (ARDS) and cytokine  storm.  The  cohesive  ap‐
+proach  amongst  researchers across the globe has delivered high‐
+end viral diagnostics.  However, home‐based  point‐of‐care  diag‐
+nostics  are still under development, which may prove transforma‐
+tive in current COVID‐19 pandemic  containment.  Similarly,  vac‐
+cines  and  therapeutics noteworthy advancements, focusing on the
+etiological viral agent, comparative genomic analysis, population
+susceptibility, disease epidemiology and diagnosis, animal reser‐
+voirs, laboratory animal models, disease transmission,  therapeu‐
+tics,  vaccine challenges, and disease mitigation measures.  Key‐
+words: Coronavirus; pandemic; SARS‐CoV‐2; COVID‐19; pathobiology;
+diagnosis;  vaccines;  The ongoing global threat, declared a pan‐
+demic by international health agencies, originated from  a  newly
+emerging coronavirus (CoV), designated as severe acute respirato‐
+ry syndrome coronavirus‐2 (SARS‐CoV‐2) [1]. A live animal  market
+in  the  Hubei Province of Wuhan in Mainland China was identified
+as the first epicenter of the pandemic [2].  Initially,  an  out‐
+break  was  suspected  when a cluster of patients was admitted to
+local health care facilities with  complaints  of  fever,  cough,
+dyspnea, and fatigue, resembling symptoms common to viral pneumo‐
+nia [3]. The first case of Consequently, a  cluster  of  patients
+reported respiratory illness to the local health care facilities,
+and on December 30th, 2019, the Chinese National  Health  Commis‐
+sion (CNHC) suspected an outbreak of pneumonia of unknown etiolo‐
+gy in Wuhan. With the increasing number of cases  in  neighboring
+countries and other areas worldwide, the disease spread to sever‐
+al countries worldwide and it was declared a Public Health  Emer‐
+gency  of  International Concern by the World Health Organization
+boundaries and affected more than 215 countries and a few  inter‐
+national  conveyances, which led the WHO to declare COVID‐19 as a
+pandemic on  March  11th,  2020  [4].   As  of  May  21st,  2020,
+4,893,186 cases have been reported, with 323,256 deaths, of which
+1,501,876 confirmed cases and 90,203 deaths were from the  United
+States  of  America,  followed  by  Brazil (271,628; 17,971), the
+United Kingdom (248,297; 35,704), Spain (232,555; 27,888),  Italy
+(227,364;  32,330),  France (141,312; 28,081), and China (84,507;
+4645) [5]. Notably, all age groups show susceptibility  to  SARS‐
+CoV‐2  infection,  from  newborns to the elderly [6]. The average
+age noted for SARS‐CoV‐2 infection susceptibility is 55.5  years,
+while  that for the case fatality rates (CFRs) is 75 years [7,8].
+However, the CFR varies among different age groups and is highest
+(14.8%)  among the elderly (>80 years of age). The incidences and
+CFR are reportedly higher in males (67.67% and 2.8%,  respective‐
+ly)  than in females, owing to the higher frequency of engagement
+in outdoor activities and smoking status in males [9]. Immunocom‐
+promised  individuals  and  patients  with comorbidities are at a
+higher risk. The most common reported comorbidities  in  COVID‐19
+cases  include  cardiovascular diseases (10.5%), diabetes (7.3%),
+chronic respiratory infections (6.3%), hypertension (6%), and ma‐
+lignancies  (5.6%) [8]. As per the WHO observations, the COVID‐19
+epidemic peaked and plateaued between January 23rd  and  February
+2nd,  2020, in China, and then followed a declining trend, paving
+a path for the elimination of the epidemic. However, the WHO  has
+simultaneously  stated  that other countries are reporting a con‐
+tinuous increase in the number of cases, with the  USA  reporting
+the  highest  increase  in daily deaths.  starting from the first
+report of novel CoV from Wuhan, Chinaincluding the declaration of
+COVID19  as a worldwide pandemic by the WHO, and the situation as
+of June 7, 2020have been depicted in the  timeline  format.   The
+definitive  origin  of  SARS‐CoV‐2 remains undetermined. However,
+initial estimations implicate Wuhan as the epicenter and the live
+animal  seafood  market  as the source of this outbreak, owing to
+the involvement of different animals, including wild and domestic
+animals,  in  close proximity to each other [10]. The postulation
+was primarily based on the significant genomic similarity between
+SARS‐CoV‐2  and bat or pangolin CoVs. The first patient to be re‐
+ported in Wuhan did not visit the seafood market,  and  molecular
+analyses  of  SARS‐CoV‐2  genomic sequences suggest its origin is
+traced back to late November [11,12]. These findings raised  spe‐
+cific  questions pertinent to the COVID‐19 epidemic and the Wuhan
+seafood market. The well‐established human  transmission  of  the
+outbreak  emphasizes the likelihood of the better adaptability of
+the virus in transmission dynamics [3,11,13].  The events leading
+to  the emergence of a virus capable of infecting a new host have
+occurred previously in CoV infections [14]. Earlier, reports sug‐
+gested  the  emergence of SARS‐CoV by a recombination between bat
+SARS‐like CoVs, followed by mutations in civet CoVs prior to  its
+spillover.   Similarly,  the  Middle  East  respiratory  syndrome
+(MERS)‐CoV also circulated and acquired mutations in  camels  for
+approximately 30 years before the incidence of MERS in the Middle
+East [15,16], indicating the  adaptation  of  CoVs  to  different
+hosts  before their spillover to humans [17].  SARS‐CoV‐2 is sug‐
+gested to be a  chimera  of  two  different  viruses,  a  bat‐CoV
+(RaTG13)  and  a  pangolin‐CoV  [18].  Researchers have put forth
+their best efforts in developing effective treatments and vaccine
+candidates, and have succeeded to a significant extent in identi‐
+fying several repurposed drugs, monoclonal  therapeutic  antibod‐
+ies, and vaccine candidates. However, many such treatment options
+are in the different stages of pre‐clinical and clinical develop‐
+ment.  To  date,  no approved, specific progress made in the mea‐
+sures for the resolution of the COVID‐19  pandemic,  using  virus
+genomic   analysis,  the  assessment  of  global  epidemiological
+trends, transmission patterns, the present‐day status  of  thera‐
+peutics, and public health preparedness plans for controlling the
+wider dissemination of the disease.  2. Previous Human  CoV  Epi‐
+demics  Usually,  infections  caused by the Betacoronaviruses are
+mild to asymptomatic [19,20]. Since the first report  of  CoV  in
+the  1960s,  humans have been affected by CoV infection. To date,
+six strains of CoVs, causing mild to severe respiratory illnesses
+in  humans, have been identified [21]. Of these, four CoVs (HCoV‐
+NL63, HCoV‐229E, HCoV‐OC43, and HCoV‐HKU1) cause mild symptoms in
+humans.   Contrarily, two highly pathogenic CoVs caused outbreaks
+of severe respiratory illness due to zoonotic transmission in hu‐
+mans,  namely  the  severe  acute respiratory syndrome (SARS) and
+MERS.  The first incidence of SARS‐CoV infection was reported  on
+November  16th, 2002, in the coastal Guangdong province of south‐
+east China bordering Hong Kong and Macau. This  infection  spread
+across  31 countries at a moderate speed. The virus was predicted
+to originate from bats and civet cats A winter  season  predilec‐
+tion was also noted in the pattern of this epidemic. After adopt‐
+ing strict public health measures, consisting of  quarantine  and
+the lockdown of air traffic, the disease was finally contained by
+July 5th, 2003 [22]. During this period, SARS‐CoV  infected  8422
+humans and caused 916 deaths at a CFR of 10.87%. Since then, SARS
+has phased out, and the outbreak was Since the  first  occurrence
+of  MERS  in  Saudi Arabia in June 2012, sporadic cases are still
+reported, primarily in the Arabian Peninsular  region,  and  MERS
+has  spread to more than 27 countries worldwide. Notably, the CFR
+in MERS is the highest (34.77%) among all CoVs. To date,  it  has
+infected 2496 humans with the deaths of 868 patients. The disease
+was reported in Saudi Arabia, the UAE and in individuals  with  a
+travel history to the Arabian Peninsular countries. The source of
+viral origin was traced to bats, and camels were the intermediate
+hosts for the virus, which followed animal‐tohuman (zoonotic dis‐
+ease) and human‐to‐human modes  of  virus  transmission  [19,23].
+(SARS‐CoV‐2, MERS‐CoV, and SARS‐CoV).  Causative agent Incubation
+period The median age of infected human cases  Source  of  origin
+Bats,  civet  cats  Bats,  camel Seafood, bats, pangolin Zoonotic
+disease Zoonotic disease Zoonotic disease Speed of spread Season‐
+al  occurrence  Place  of  Origin  Guangdong, China Jeddah, Saudi
+Wuhan, China First incidence The last case reported  and  present
+status  Total  number of cases 1,434,426 as of 8th April, Overall
+fatality (as of now) 82,220 (5.73%) as of 8th No.  Countries  In‐
+termediate host Paguma larvata Camelus dromedaries Pangolin, Mink
+(possible) Definitive host Rhinolophus sinicus Pipistrellus  hes‐
+peridus  Rhinolophus  affinis Genome length Major Regional Guang‐
+dong province of southern China, and  later  to  western  pacific
+Saudi  Arabia, followed by UAE Hubei, especially, Wuhan in China,
+followed by Glucocorticoid and No effective approved treatment or
+vaccine  The  first  case of SARS‐CoV‐2 infection was reported in
+the first week of December 2019 in Wuhan  City,  Hubei  Province,
+China.  Using  deep  sequencing  methods, the causative agent for
+this deadly pandemic was identified as a new member of the  Beta‐
+coronavirus  genus  [24,25].  The newly identified CoV had an 82%
+sequence identity with the human SARS‐CoV [26]. It was  initially
+designated  as 2019‐novel coronavirus (2019‐nCoV). Later, the In‐
+ternational Committee on Taxonomy of Viruses officially named  it
+as  the  severe  acute  respiratory syndrome coronavirus‐2 (SARS‐
+CoV‐2), owing to its significant genetic relatedness to SARS‐CoV.
+Subsequently,  the  WHO named the disease caused by SARS‐CoV‐2 as
+coronavirus disease‐2019 (COVID‐19) on February  11th,  2020,  as
+shown  in  3.  SARS‐CoV‐2 Taxonomy, Structure, and Genomics SARS‐
+CoV‐2 belongs to the family Coronaviridae, subfamily  Orthocoron‐
+avirinae,  under  the  order  Nidovirales. The Orthocoronavirinae
+subfamily consists of four genera, namely Alphacoronavirus, Beta‐
+coronavirus,  Gammacoronavirus,  and Deltacoronavirus [27]. SARS‐
+CoV‐2 is a Betacoronavirus.  Betacoronaviruses are further subdi‐
+vided  into five subgenera, namely Embecovirus, Hibecovirus, Mer‐
+becovirus, Nobecovirus, and  Sarbecovirus.  Phylogenetically,  it
+forms  a discrete lineage within the subgenus of the Sarbecovirus
+[28]. CoVs, as their name suggests, have a  crown‐shaped  appear‐
+ance,  as  observed  under  the electron microscope, owing to the
+spikes on the surface of the virion.  SARS‐CoV‐2 is a 0.12 m, en‐
+veloped,  non‐segmented  virus,  and  its genome comprises a sin‐
+glestranded positive‐sense RNA (+ssRNA) of 29.8 kb  [29,30].  The
+genome is arranged in a structure typical to coronaviruses in the
+following  order:  5‐ORF1a/ab‐Spike   (S)‐Envelope   (E)‐Membrane
+(M)Nucleocapsid (N)3; however, it lacks the hemagglutininesterase
+gene, similar to bat SARS‐likeCoVs, human  SARS‐CoVs,  and  MERS‐
+CoVs.  Fourteen  open  reading frames (ORFs) have been identified
+that encode twenty‐seven proteins, both structural and non‐struc‐
+tural  proteins  (nsps).  At  the 5 terminus, the first ORF1a/ab,
+which occupies approximately  two‐thirds  of  the  entire  genome
+length,  encodes  the  pp1a and pp1ab proteins, respectively, and
+both collectively comprise 15 nonstructural proteins (nsp 1 to 10
+and  nsp 12 to 16). The functions of the nsps of a typical coron‐
+avirus encode at least four major structural proteins: the  spike
+(S), matrix membrane (M), envelope (E), and nucleocapsid (N) pro‐
+teins. Besides, accessory proteins (3a, 6, 7a, 7b, 8, and 10) are
+also encoded by the genome of SARS‐CoV‐2 Wuhan HU1. The 5‐ and 3‐
+UTR sequences of SARS‐CoV‐2 have 83.0% nucleotide  identity  with
+other  members of the Betacoronavirus genus. The genomes of SARS‐
+CoV, SARS‐CoV‐2, and bat‐SARS CoV are considerably  similar.  The
+RNA secondary structures in the 5UTR were more identical to those
+of SARS‐CoV than to the bat SARS‐like CoV; however, the 3‐UTR was
+more  conserved compared to other related Betacoronaviruses [26].
+A detailed comparative genomic organization of important and  re‐
+lated  Betacoronavirus sequence homology of SARS‐CoV‐2 with MERS‐
+CoV is lower (5051.8%) than that with SARS‐CoV (79%) [32]. Phylo‐
+genetically, SARS‐CoV‐2 is most similar to the bat SARS‐like‐CoV‐
+ZC45 concerning present in SARS‐CoV‐2, whereas these  are  absent
+in  bat  SARS‐like CoVZC45. Compared to SARSCoV, the sequence for
+8a is absent in the SARS‐CoV‐2 genome; the  sequence  for  3b  is
+shorter,  while  that for 8b has an extra 73 amino acids in SARS‐
+CoV‐2 [29]. The spike protein‐encoding gene  in  SARSCoV‐2  (1273
+amino  acids) is longer than those of bat SARS‐like‐CoVZC45 (1246
+amino acids) and SARS‐CoV Tor2 (1255 amino acids). Certain acces‐
+sory proteins, such as the 6 and 7b proteins of SARSCoV Tor2, are
+similar to those in SARS‐CoV‐2, except for a  marginal  variation
+in  protein  length,  as  including  a longer spike protein (1353
+amino acids), compared to those in SARS‐CoV‐2. In  comparison  to
+SARS‐CoV‐2,  bovine  CoV  ENT has the longest spike protein (1363
+amino acids)  and  a  unique  hemagglutininesterase  gene,  while
+porcine  CoV  HKU15  (a delta‐CoV) has the shortest spike protein
+(1159 amino acids) and lacks several accessory  proteins.  Hence,
+it  would  be interesting to characterize the spike and accessory
+proteins of SARS‐CoV‐2 and study the role of  these  proteins  in
+the  pathogenesis  and transmissibility of the virus.  coding re‐
+gions of beta‐CoVs, SARS‐CoV‐2  Wuhan‐HU‐1  (NC_045512.2;  29,903
+bps),  bat SARS‐likeCoVZC45 (MG772933.1; 29,802 bps), human SARS‐
+CoV Tor2 (AY274119.3; 29,751  bps),  MERS‐CoV  EMC  (NC_019843.3;
+30,119  bps),  bovine  CoV  ENT  (NC_003045.1; 31,028 bps), and a
+delta‐CoV, the porcine CoV HKU15  (NC_039208.1;  25425  bps)  are
+presented.  The  genomes  consist  of  a 5 untranslated region (5
+UTR), an open reading frame (ORF 1a/ab)  encoding  non‐structural
+proteins   (nsps),  structural  proteins,  hemagglutininesterase,
+spike (S), membrane (M), envelope (E), and nucleocapsid (N)  pro‐
+teins, several accessory proteins, and a 3 untranslated region (3
+UTR). The lengths of the ORFs, nsps, and accessory  proteins  are
+not  drawn  to  scale.   The trimeric spike (S) glycoprotein, the
+most important determinant of host cell tropism and  transmission
+capability, is functionally composed of two subunits, the S1 (re‐
+ceptor binding) and S2 (cell membrane  fusion)  [33,35].  The  S2
+subunit  of SARS‐CoV‐2 is comparatively conserved and closely re‐
+lated to that of bat SARS‐like‐CoVZC45, while the S1 subunit  had
+only  70%  identity  with  that of bat SARS‐like‐CoVZC45 [26,34].
+During infection, the S protein is proteolytically  processed  by
+host  cell  proteases  at  the S1/S2 cleavage site and, following
+cleavage, the S protein is cleaved into the N‐terminal S1 subunit
+and C‐terminal S2 subunit. The S1 subunit comprises a signal pep‐
+tide, an Nterminal domain, and a receptor‐binding  domain  (RBD).
+In contrast, the S2 subunit comprises a conserved fusion peptide,
+a second proteolytic site (S2), followed by  an  internal  fusion
+peptide,  heptad  repeats  1 and 2, a transmembrane domain, and a
+cytoplasmic domain [36]. The cleaved S a second cleavage (at  the
+S2 cleavage site) occurs for membrane fusion, mediated by the en‐
+dolysosomal proteases [33]. Since furin is  highly  expressed  in
+the lungs, the furin‐like cleavage sites (S1/S2 and S2) appear to
+be critical for the activation of the S protein  and,  therefore,
+for  the  efficient  entry  of  virus [36,39]. On comparing these
+sites, we observed a typical furin‐like cleavage However, the  S2
+cleavage  site patterns (XKPXKRSF) in all three viruses were con‐
+siderably similar.  Similarly, furin might  cleave  the  MERS‐CoV
+EMC spike protein less efficiently at the S2 cleavage site, owing
+to the lack of typical basic  amino  acid  residues  observed  in
+SARS‐CoV‐2,  bat  SARS‐like‐CoVZC45, and human SARS‐CoV Tor2. Al‐
+though the S1/S2 cleavage site in the bovine CoV ENT (KRRSRRSITT)
+spike  protein is rich in basic amino acids, its S2 cleavage site
+(NKVSSRSA) a monobasic cleavage site (NSTENNRFTTT),  which  could
+lead to low‐efficiency cleavage. Based on the findings from these
+comparative studies, we speculate  that  the  high‐density  basic
+amino  acid residues, preferably positioned in close proximity at
+both cleavage sites (S1/S2 and S2), might  have  facilitated  the
+efficient  replication  and  transmission of SARS‐CoV‐2. However,
+these propositions need to be validated by  further  experimental
+investigations.   cleavage  sites  of  SARS‐CoV‐2  spike proteins
+(S1/S2 and S protease cleavage sites) and their  comparison  with
+those  in  other coronaviruses. The superimposition of the recep‐
+tor‐binding domain (RBDs) of SARS‐CoV‐2 (pdb: 6VSB) on (B)  human
+SARS‐CoV  (pdb:  2AJF),  (C) MERS‐CoV (pdb: 4KR0), (D) BtCoV‐HKU4
+(pdb: 4QZV), and (E) HCoV‐NL63 (pdb: 3KBH). (F) The  superimposi‐
+tion  of the RBDs of porcine respiratory CoV (pdb: 4F5C) on HCoV‐
+NL63 (pdb: 3KBH). RMSD: Root Mean Square Deviation. UCSF  Chimera
+was  used  for the superposition and visualization of the RBDs of
+the different CoVs [40].  4. CoV Receptors  Host  cell  receptors
+and  viral  surface glycoprotein/ligand binding serve as the most
+important determinants of host range, cross‐species transmission,
+and  antiviral  targeting  inventions  [41,42]. As CoVs from four
+genera recognize at least five different  receptors  and,  there‐
+fore, exhibit an intricate host receptor recognition pattern. The
+differential usage of host receptors by different CoVs  indicates
+the  structural diversity in the RBDs of the S glycoprotein. How‐
+ever, CoV infections in humans are primarily driven  by  interac‐
+tions  between  the  envelope‐anchored spike glycoprotein (S pro‐
+tein) of CoV and the host cell receptor, the angiotensin‐convert‐
+ing  enzyme  2 (ACE2) [43,44,45]. Viruses from the same genus can
+recognize different receptors (for example, SARS‐ACE2  and  MERS‐
+DPP4),  while CoVs from different genera can bind to the same re‐
+ceptor as well, such as ACE‐2 (HCoV‐NL63 and SARS). The key  fea‐
+tures  of  the external subdomain of RBDs need to be investigated
+further to elucidate their role in receptor usage,  transmission,
+and  the  pathogenesis  of  SARS‐CoV‐2.   N‐acetyl‐9‐O‐acetylneu‐
+raminic acid 2,3‐linked sialic acid (attachment factor) 5.  SARS‐
+CoV‐2  Persistence/Susceptibility  on Different Surfaces With the
+exponential increment in  SARS‐CoV‐2  cases  globally,  the  non‐
+availability  of  effective and specific antiviral treatment, and
+the lack of specific vaccines, the primary focus has been on min‐
+imizing  contact with infected persons, asymptomatic carriers, or
+contaminated surfaces to on different contaminated surfaces  that
+we  commonly  come  into  contact with daily. SARS‐CoV‐2 has been
+shown to persist in aerosols for up to three hours,  with  a  de‐
+cline  in  the  infectious virus titer from 103.5 to 102.7 TCID50
+per liter of air [46]. Meanwhile, SARS‐CoV‐2 was found to be  re‐
+tained  more  stably on plastic and stainless steel and could re‐
+tain infectivity for up to 72 hours when present on these contam‐
+inated  surfaces.  However,  the infective titer reduced signifi‐
+cantly from 103.7 to 100.6 TCID50 on plastic  surfaces  and  from
+103.7 to 100.6 TCID50 on stainless steel surfaces. On copper sur‐
+faces, both SARS‐CoV‐2 and SARS‐CoV‐1  were  rendered  non‐viable
+after four and eight hours, whereas on cardboard surfaces, no vi‐
+able viruses were detected after 24  and  8  hours,  respectively
+[46].  Other CoVs, such as MERS‐CoV, remained viable for up to 48
+hours on plastic and stainless steel  surfaces  [47].  A  limited
+number of low pathogenicity human CoVs, such as the HCoV‐229E and
+HCoV‐OC43, were found to be viable from 2‐9 hours up to six  days
+on  different  surfaces,  such  as aluminum, glass, plastic, PVC,
+silicon rubber, latex gloves, ceramic, and Teflon [4850].   Owing
+to  the  significant  number of COVID‐19 cases worldwide, and the
+lack of effective remedies for this disease, the WHO is constant‐
+ly endorsing and promoting better personal hygiene practices. So‐
+cial and physical distancing, as well as self‐isolation, are rec‐
+ommended  to  contain the spread of the virus. Therefore, the WHO
+recommended two  hand  rub  formulations  based  on  ethanol  and
+2‐propanol  [51].  Such  alcohol‐based hand rub formulations were
+found to be effective in inactivating SARS‐CoV‐2 [52].   6.  Phy‐
+logenomic Analysis of SARS‐CoV‐2 and Related CoVs We analyzed the
+spike gene sequences (n = 38) of SARS‐CoV‐2, which were retrieved
+from  the NCBI database. The spike gene sequences of CoVs, repre‐
+senting different subgenera of Betacoronavirus,  including  SARS‐
+CoV and MERS‐CoV, were also retrieved. Based on the BLASTn analy‐
+sis, certain strains, similar to bat SARS‐like‐CoVs and bat‐CoVs,
+were  also  included  in  this analysis. The nucleotide and amino
+acid percentage similarities between these CoVs  were  calculated
+using the MegAlign software from DNASTAR. The phylogenetic analy‐
+ses of spike genes from different CoVs were conducted  using  the
+GTR  +  G substitution model and the Maximum Composite The whole‐
+genome sequence of SARS‐CoV‐2 derived from isolates from  differ‐
+ent  countries showed a high similarity of 99 to 100% at both nu‐
+cleotide and amino acid levels, suggesting the stability  of  the
+viral  genome.  To  determine  the similarity index between SARS‐
+CoV‐2 and other members of Betacoronavirus, we analyzed the spike
+protein  sequences  of  all  subgenera.  The reference SARS‐CoV‐2
+strain (Wuhan‐Hu‐1/NC_045512) was closely associated with a  bat‐
+CoV  (RaTG13) from Yunnan, China, with 93.1 and 97.67% nucleotide
+and amino acid sequence similarity, respectively,  as  89.78%  in
+nucleotide  and  amino  acid sequences with the reference strain,
+respectively.  Besides,  two  bat   SARS‐like‐CoVs   (bat‐SL‐CoV‐
+ZC45/MG772933  and  bat‐SL‐CoVZXC21/MG772934) were also The clus‐
+tering of SARS‐CoV‐2 with the bat and pangolin CoVs provided evi‐
+dence  of  its possible origin from these animals. Another member
+of the subgenus Sarbecovirus, SARS‐CoV, was distantly (NC_045512,
+Wuhan‐Hu‐1) with other members of Betacoronavirus (subgenusSarbe‐
+covirus).  Strain Name / Accession number Sequence  Identity  Se‐
+quence  Identity  (a)Whole Genome‐Based Comparison (29.9kb) South
+Korea (b) Spike Protein‐Based Comparison (~3800  bases)  Pangolin
+CoV  BtRs‐BetaCoV/  YN2018C/ Based on the spike gene phylogenetic
+analysis, it was observed that SARS‐CoV‐2 originating  from  dif‐
+ferent  countries  formed  a separate clade with other members of
+Sarbecovirus. It was found that  the  bat‐CoV  (RaTG13/MN996532),
+pangolin‐CoV (MP789/MT084071), and two bat SARS‐likeCoVs (bat‐SL‐
+CoVZC45/MG772933 and bat‐SL‐CoVZXC21/MG772934) closely  clustered
+with  SARSCoV‐2,  while  other  bat‐CoVs  and SARS‐CoVs clustered
+within the Sarbecovirus subgenus clade, as Hibecovirus and  Nobe‐
+covirus,  human and camel MERS‐CoV belonging to Merbecovirus, and
+human, canine, bovine, and equine CoVs belonging Embecovirus sub‐
+genera,  clustered  separately,  as  shown in included SARS‐CoV‐2
+originating from China, the USA, Australia, Japan, and South  Ko‐
+rea.  Different  subgenera of Betacoronaviruses have been labeled
+with different colors according to the color legend on  the  left
+side  of  the  tree. Major species of each subgenus have been de‐
+picted in front of each clade.  7. Epidemiology of SARS‐CoV‐2 In‐
+fection  The  Wuhan seafood market in China was implicated as the
+epicenter of the COVID‐19 pandemic, and China was marked  as  the
+index  country. Seven cases of pneumonia of unknown etiology were
+reported in Wuhan from December 8th  to  18th,  2019.  The  first
+cluster  of  such patients was identified on December 21st, 2019.
+Pneumonia of unknown etiology is defined as an illness without an
+identified  causative pathogen that fulfills the following crite‐
+ria: fever ( 38 C), radiographic evidence of  pneumonia,  low  or
+average  white‐cell count or low lymphocyte count, and no sympto‐
+matic improvement after antimicrobial treatment for 3 to  5  days
+following standard clinical guidelines [11,54]. The patients pre‐
+sented with a severe acute respiratory infection and some  devel‐
+oped  acute  respiratory  distress syndrome (ARDS) and associated
+complications [55].  Information about the mode  of  transmission
+of  SARS‐CoV‐2  is continuously evolving.  Transmission primarily
+occurs  via  the  person‐to‐person  route   through   respiratory
+droplets  (>5‐10 m in diameter) and fomites. Droplet infection is
+associated mainly with coughing, sneezing, and talking to an  in‐
+fected person, and the virus is transmitted to humans through di‐
+rect contact with mucus membranes. Transmission can also occur by
+touching  an  infected  surface,  followed  by contact with eyes,
+nose, or mouth. The travel range of the droplets is less than six
+feet  (approximately  two  meters), and these are not retained in
+the air for long. Satisfactory evidence of the airborne transmis‐
+sion  of SARS‐CoV‐2 remains unavailable [46]. Although clinically
+infected patients readily transmit the virus  [14],  asymptomatic
+infected  patients  can  also  transmit the virus, and therefore,
+these carriers should be tested to effectively contain the spread
+[11,56,57].  There is evidence of intestinal infection from SARS‐
+CoV‐2, and subsequent excretion through feces [56,58]. In  China,
+out  of ten pediatric COVID‐19 patients without respiratory symp‐
+toms, eight were positive for fecal SARS‐CoV‐2 shedding; however,
+the  nasopharyngeal  samples  from these subjects tested negative
+for the virus [59]. These findings were further  supported  by  a
+study  in  which  the  virus was successfully cultured from feces
+samples [59,60]. However, there have been no reports of fecaloral
+transmission  of  SARS‐CoV‐2  to date. Some reports suggest SARS‐
+CoV‐2 transmission through semen and the infection of  SARS‐CoV‐2
+in newborns; however, there is no evidence for vertical transmis‐
+sion or intrauterine infection in a COVID‐19 patient  during  the
+late pregnancy stage 7.2. Incubation Period The incubation period
+for SARS‐CoV‐2 infection ranged from 2 to 14 days in human‐to‐hu‐
+man transmission, while, in some cases, it extended up to 24 days
+[57]. However, a median incubation period of 5‐6 days has recent‐
+ly been reported by the WHO [61].  7.3. Basic Reproduction Number
+(R0) The basic reproduction number plays a pivotal role in infec‐
+tious disease epidemiology and indicates the risk a pathogen car‐
+ries with respect to its spread. In other words, R0 provides  in‐
+formation  about  the  transmissibility of a virus and represents
+the number of new infections originating from an  infected  indi‐
+vidual  in a population. A recent comparison of different studies
+on the estimation of R0 for COVID‐19 revealed that the  estimated
+mean  R0  for  COVID‐19  is 3.28, with a median of 2.79, which is
+higher than the WHO estimate of 1.95 [62]. However,  considerable
+variability was noted, owing to the use of different methods, in‐
+sufficient data, and the short onset time of the 7.4.  Population
+Susceptibility  There  is no age limit for vulnerability to SARS‐
+CoV‐2 infection. However, cases with higher morbidity and chances
+of  mortality  have  been  reported  in older adults. Individuals
+above 65 years of age or those who have  comorbidities  (such  as
+hypertension,  diabetes, cardiovascular diseases, and respiratory
+system diseases) are highly susceptible to  the  infection  [25].
+Women  are  less susceptible to SARS‐CoV‐2 infection than men and
+this is possibly due to different innate  immunity,  and  factors
+related  to sex chromosomes in women [63]. For example, the bial‐
+lelic expression of TLR7 in women allows higher immune responses,
+while  the immune regulatory genes encoded by X chromosomes cause
+comparatively less virus load and inflammation. Recently, studies
+have  shown that SARS‐CoV2 infection in children (though less se‐
+verely affected), may develop  the  Kawasaki  disease‐like  forms
+[64].  However,  it  is still not clear whether Kawasaki disease‐
+like forms are a result of SARS‐CoV‐2  infection  alone  or  just
+SARS‐CoV‐2  induced  aggravations  in  Kawasaki disease patients.
+7.5. Global Scenario COVID‐19 has affected almost  every  country
+across the globe. On December 31st, 2019, an urgent notice on the
+treatment of pneumonia of unknown cause was issued to  the  Wuhan
+Municipal  Health  Center.  The market premises were disinfected,
+and the stallholders were instructed to wear masks. Till  January
+3rd,  2020,  44  case‐patients with pneumonia of unknown etiology
+were reported to the WHO from China, although the cause  was  not
+identified. On January 7th, 2020, the June 7, 2020, COVID‐19 dis‐
+tribution was seen globally with large number of confirmed  cases
+and regions. Six regions have been described by the WHO where the
+COVID‐19 disease is present and are depicted  on  the  map  along
+with  confirmed  cases and deaths represented as of June 7, 2020.
+Between January 13th to 20th, 2020, Thailand (the  first  country
+after  China to report a case), Japan, China CDC identified three
+different strains of this virus, confirming the mutation  of  the
+original  virus. Six deaths were reported in Wuhan, of which four
+patients had underlying comorbidities [66].  Between January 22nd
+and  25th,  Macau, Hong Kong, Nepal, France, Australia, Malaysia,
+and Canada confirmed their first cases. As in China, the WHO  as‐
+sessed  the  risk  to  be significantly high at both regional and
+global levels. On January 30th, 2020,  the  International  Health
+Regulations  Emergency  Committee, WHO declared the outbreak as a
+public health emergency of international concern. Later  on,  the
+WHO  named  the  virus  as  SARS‐CoV‐2, and the disease was named
+COVID‐19 (coronavirus disease 2019). Thus far, SARS‐CoV‐2 has af‐
+fected  essentially all countries in the world, infected millions
+of people, and killed hundreds of thousands of people [67].  7.6.
+Socio‐Economic  Impact  The COVID‐19 pandemic has resulted in the
+imposition of international travel restrictions in several  coun‐
+tries,  the  cancellation of major sporting events, and the lock‐
+down of borders, and has universities worldwide (March 10th,  UN‐
+ESCO).  The  stock markets and crude oil prices have declined se‐
+verely, possibly the most drastic occurrence in recent years. In‐
+dustries related to entertainment, ceremonial activities, hotels,
+and tourism are also affected. It is estimated  that  the  global
+GDP  loss  is within the range of 1.0 to 2.7 trillion US dollars.
+The lockdown and other associated restrictions have severely  af‐
+fected  the  economic  status  and the well‐being of families and
+communities. The major sectors  affected  by  this  outbreak  are
+health,  education,  manufacturing,  transportation,  and  trade,
+among others.  8. Clinical Profile CoVs include viruses infecting
+humans  and  other animal species, such as birds, camels, cattle,
+bats, and cats. CoVs primarily affect the upper and lower  respi‐
+ratory  tracts,  and  the enteric, hepatic, and neurological sys‐
+tems, with infections characterized by severe dyspnea and  hypox‐
+emia, renal dysfunction with lower urine output, tachycardia, al‐
+tered mental status, and functional alterations of organs in ani‐
+mals  and  humans.  Individuals  infected  with SARS‐CoV‐2 may be
+asymptomatic carriers or active patients with the  clinical  pre‐
+sentation  of  symptoms, such as fever, fatigue, dry cough, myal‐
+gia, dyspnea, severe respiratory  distress  syndrome,  and  acute
+cardiac  injury  [57,68,69]. There are three types of ARDS: mild,
+moderate, and severe ARDS. An increase in body temperature up  to
+39.0  C  (102.2  F),  accompanied by coarse breathing sounds from
+both lungs at auscultation are common  clinical  symptoms.  Symp‐
+toms,  such as headache, sputum production, hemoptysis, diarrhea,
+and pleuritic chest pain were also observed in  rare  cases.  The
+infection  more  commonly  affects people with cardiopulmonary or
+renal diseases, and pregnant females, infants,  and  the  elderly
+(at  a  two‐fold greater risk than the general population). There
+is no evidence to suggest greater susceptibility among  children.
+Pregnant  women are at greater risk for viral infections, as sug‐
+gested by data from previous outbreaks; therefore, it  is  advis‐
+able  to avoid contact with infected individuals [70].  9. Clini‐
+cal Pathology  and  Immunopathobiology  9.1.  Clinical  Pathology
+Based  on  the  time of occurrence and intensity of symptoms, the
+infection has been categorized into three stages;  mild,  severe,
+and  critical stage [71,72]. In the mild stage, mild pneumonia/no
+pneumonia develops, although symptoms of upper respiratory  tract
+viral  infection,  marked  by mild fever, dry cough, sore throat,
+nasal congestion, malaise, headache,  and  muscle  pain,  prevail
+[73].  In  severely affected patients, the rate of respiration is
+above 30/min due to dyspnea, respiratory symptoms, such as  cough
+and  shortness  of breath, or tachypnea, and oxygen saturation in
+the blood below 93%, indicating hypoxia, and  these  developments
+are  observed  within  a  time period of 2448 hours. The critical
+stage is marked by symptoms, such  as  severe  pneumonia,  septic
+shock,  respiratory failure, cardiac arrest, and/ or multiple or‐
+gan failure, which may eventually lead to the death  of  the  pa‐
+tient  [74,75].   Radiological  images  indicate that two to five
+lobes of the lungs may be affected.  The  most  common  and  pro‐
+nounced  lesions  are marked by patchy ground‐glass opacities and
+patchy consolidation in the mid, external, and sub‐pleural  areas
+of  the  lung [76]. A chest radiograph, computer tomographic (CT)
+scan, and/or lung ultrasound indicate the presence  of  bilateral
+opacities [55,77,78]. Thoracic CT scan imaging depicted bilateral
+ground‐glass opacity and bilateral multiple lobular and  sub‐seg‐
+mental areas of consolidation [7981]. The pathological image of a
+COVID‐19 patient presented bilateral diffuse alveolar damage with
+cellular fibromyxoid exudates. The cytopathic effects were marked
+by the presence of interstitial mononuclear  inflammatory  infil‐
+trates,  with a majority of lymphocytes and multinucleated syncy‐
+tial cells, along with atypical enlarged  pneumocytes  containing
+large  nuclei  and  amphophilic granular cytoplasm, in the intra‐
+alveolar spaces. In some infected patients, microvascular steato‐
+sis and mild lobular and portal activity were recorded in hepatic
+tissues, while interstitial mononuclear inflammatory  infiltrates
+were found in the cardiac tissues [8].  Existing literature docu‐
+ments that patients suffering from  severe  SARS‐CoV‐2  infection
+might  suffer from the cytokine storm syndrome that could eventu‐
+ally lead to death [82,83]. In a viral  infection,  cell‐mediated
+immunity  is  triggered to overcome the infection; however, owing
+to the overproduction of cytokines, interferons, and  other  fac‐
+tors,  such  events  can have drastic effects in certain patients
+[84]. Evidently, respiratory failure due to the ARDS is the lead‐
+ing   cause   of  mortality,  and,  apart  from  this,  secondary
+hemophagocytic lymphohistiocytosis is also induced in  a  limited
+number  of  adult  COVID‐19  patients.  Usually, it is one of the
+less‐recognized syndromes characterized by hyperinflammatory, hy‐
+perferritinemia,  fulminant  and lethal hypercytokinemia, cytope‐
+nias, coagulopathy, and thrombocytopenia, along with multiple or‐
+gan  failure.  The  severely  affected group of COVID‐19 patients
+presented with a marked increase in the levels of plasma  pro‐in‐
+flammatory  cytokines,  interleukin  (IL)‐2, IL‐7, macrophage in‐
+flammatory protein 1‐, granulocyte  colony‐  stimulating  factor,
+tumor  necrosis  factor‐,  interferon‐  inducible protein 10, and
+monocyte chemoattractant protein 1. Mortality in  COVID‐19  could
+be attributed to such hyperinflammatory reactions [82,85].  Clin‐
+ical laboratory findings suggested leucopenia (white  blood  cell
+count  less  than  2.91  109/l) and lymphopenia (lymphocyte count
+less than 1.0  109/l), high erythrocyte sedimentation  rate,  al‐
+tered  myocardial  zymogram with elevated levels of lactate dehy‐
+drogenase and creatinine  kinase,  increased  levels  of  alanine
+aminotransferase  or  aspartate aminotransferase as indicators of
+irregular liver function, a rise  in  hypersensitive  troponin  I
+(hs‐cTnI)  as  a sign of virus‐induced heart tissue damage, and a
+marked increase in the concentration of serum C‐reactive  protein
+and D‐dimer, hyperbilirubinemia, and acidosis [3,24].  Studies on
+the pathogenesis of COVID‐19 have not been undertaken  thus  far;
+however, understanding the mechanisms underlying the pathogenesis
+of MERS‐CoV and SARS‐CoV may help delineate key factors associat‐
+ed  with  COVID‐19  pathogenesis. Once the virus enters the cells
+through a specific interaction between the S protein  and  ACE‐2,
+the antigen‐presenting cells are likely to process the viral pro‐
+teins through the major histocompatibility complex (MHC or  human
+leukocyte antigen in humans). Following the MHC antigen presenta‐
+tion of SARS‐CoV‐2, both humoral and cellular immunity are  acti‐
+vated,  mediated by the antibody‐producing B cells and virus‐spe‐
+cific T lymphocytes. The seroconversion in COVID‐19 patients  was
+observed  to occur at a similar point or slightly earlier than in
+SARS‐CoV infection [86,87]. A recently released antibody  profile
+against SARSCoV‐2 has indicated that the seroconversion rates for
+antibodies, IgM, and IgG were 93.1% (161/173),  82.7%  (143/173),
+and 64.7% (112/173), respectively [88]. Studies on cellular immu‐
+nity against SARSCoV‐2 are limited. A  recent  study  reported  a
+significant reduction in the levels of CD4 and CD8 T cells in the
+peripheral blood of SARS‐CoV‐2‐infected patients [89]. Studies on
+COVID‐19‐recovered patients can help significantly in elucidating
+the role of specific  memory  T  cell‐mediated  immune  responses
+against SARS‐CoV‐2.  Increasing evidence suggests that fatalities
+resulting from SARS‐CoV‐2 infection could be primarily attributed
+to  the  ARDS [90,91], which may be associated with comorbidities
+and followed by multiple organ failure, leading  to  death  [92].
+ARDS is an immunopathological feature common to SARS‐CoV‐1, MERS‐
+CoV, and the more recent SARS‐CoV‐2 infections [89,93]. ARDS  oc‐
+curs  primarily  in response to the cytokine storm, the fatal un‐
+controlled systemic inflammatory response, resulting from the re‐
+lease  of an excess quantity of pro‐inflammatory cytokines (IL‐6,
+IL‐1, IL‐2, IL8, IL‐17, G‐CSF, GM‐CSF, IP10, MCP1, MIP1, and TNF)
+from  immune effector cells during SARSCoV‐2 infection [91,9398].
+In this context, the increased levels of IL‐6 were  considered  a
+reliable  indicator  of poor prognosis in the severe stage of the
+disease [98]. The cytokine storm triggers a severe attack by  the
+immune  system on the lung and the body, inducing ARDS and multi‐
+ple organ failure, and finally leading to death in  severe  cases
+of  SARS‐CoV‐2  infections, similar to that in SARS‐CoV and MERS‐
+CoV infections [89,94]. A recent study also supported the  propo‐
+sition  that  SARS‐CoV‐2  acts  on lymphocytes and leads to a cy‐
+tokine storm and a series of immune dysregulation events  in  the
+body [94,95,97].  10. Animal Reservoirs The identification of an‐
+imal reservoirs or intermediate  host(s)  and  the  evolution  of
+SARS‐CoV2 is critical to our understanding of the molecular mech‐
+anism underlying interspecies transfer, and hence,  devising  ef‐
+fective control measures to prevent its further spread.  The pre‐
+liminary whole‐genome analyses of SARS‐CoV‐2 denoted a  high  ge‐
+netic    identity    (96.2%)   with   a   bat   (BetaCoV/bat/Yun‐
+nan/RaTG13/2013) virus, detected in Rhinolophus  affinis  in  the
+Yunnan  province  of China [99], leading to speculation that bats
+might act as a possible reservoir  host.  Notably,  the  homology
+modeling  studies  of  RBD  of  SARS‐CoV‐2  suggest that it has a
+structure similar to that of SARS‐CoV RBD, with  few  differences
+in  the  key residues at the amino acid level [33]. Another study
+based on synonymous codon usage bias suggested snakes as  an  in‐
+termediate host; however, this virus has not been detected in any
+snake species yet [100]. Later on, pangolins were found to  be  a
+potential  intermediate  host.  The  recent  detection and whole‐
+genome sequence analysis of SARS‐ CoV‐2  from  Malayan  pangolins
+indicated  a  sequence  identity  of  85.5 to 92.4% with pangolin
+SARSCoV‐2, which is lower compared to  that  of  bat  CoV  RaTG13
+(96.2%).  However,  the  RBD of the S protein from pangolin SARS‐
+CoV‐2 exhibited 97.4% amino acid  similarity  to  that  of  SARS‐
+CoV‐2,  which is higher compared to that of RaTG13 (89.2%) [101].
+Furthermore,  the  SARS‐CoV‐2  RBD  shares  five  identical   key
+residues  with  that  of  pangolin‐CoV,  while it shares only one
+residue with that of RaTG13 [101].  This  finding  suggests  that
+pangolins  may  act  as  a potential intermediate host.  However,
+studies suggesting bats as a reservoir host and pangolins  as  an
+intermediate  host for SARSCoV‐2 need to be investigated further.
+Susceptibility in different animals has recently  been  evaluated
+through  an  experiment  on SARSCoV‐2 infection, where SARS‐CoV‐2
+was found to replicate efficiently in cats and ferrets, while  it
+replicated poorly in pigs, dogs, chickens, and ducks [102]. Viral
+transmission via respiratory droplets was also noted in  cats  in
+this  study. A dog and a tiger were reported to test positive for
+SARS‐CoV‐2 [103]. The gene sequence analysis of the viral isolate
+from  a dog indicates that the dog might have acquired the infec‐
+tion  from  infected  individuals.  These  findings  suggest  low
+chances  of  SARS‐CoV2 transmission from pet animals to the human
+population; however, further investigation is 11.  Animal  Models
+in  SARS‐CoV‐2  Research After the SARS outbreak, numerous inbred
+mouse strains were evaluated as models for  the  SARSCoV  disease
+with  varying  levels of results [105,106]. The genetically engi‐
+neered mouse model, known as the humanized ACE2, was developed in
+response  to  the  SARS outbreak. This model could be infected by
+SARS‐CoV‐2 and develop mild pneumonia. The other promising animal
+models for SARS‐CoV‐2 vaccine research could include hamsters and
+monkeys [107]. Recently, ferrets have been identified as  an  in‐
+fection  and  transmission  animal model for studying SARS‐CoV‐2.
+This finding may facilitate the development of  SARS‐CoV‐2  drugs
+and  vaccines [108].  12. Diagnosis of COVID‐19 12.1. Sample Col‐
+lection For patients under investigation, the collection of upper
+respiratory  samples (nasopharyngeal and oropharyngeal swabs) and
+lower respiratory samples (sputum, if  possible)  is  recommended
+irrespective  of  the  presentation.  Nasopharyngeal  swab, bron‐
+choalveolar lavage, endotracheal aspirates or wash, oropharyngeal
+swab,  and saliva are the preferred samples. Stool and urine sam‐
+ples can also be tested to exclude other  unidentified  modes  of
+transmission  [3]. Respiratory samples should be collected in vi‐
+ral transport medium with antibiotics and antifungals and  trans‐
+ported in the cold chain. Sample collection and packaging have to
+be conducted using  proper  personal  protective  equipment.  The
+triple  packaging of samples is necessary to prevent spillage and
+should be conducted in a negative pressure  room  with  Class  II
+Biosafety  cabinets  to  contain transmission. However, depending
+upon the available resources, certain modifications can be incor‐
+porated  in  the  Standard  Operating  Procedures to minimize the
+risk. Lately, saliva samples have been found to test positive for
+SARS‐CoV‐2  in  91.7%  of  the symptomatic cases, and a declining
+trend in viral load has also been reported. This  finding  is  of
+immense  importance as the collection of saliva is a non‐invasive
+technique, requiring less stringent conditions, and this can also
+be  used as a screening tool [109].  Zhang et al. used anal swabs
+in addition to respiratory samples and found a higher  number  of
+positive cases using anal swabs than respiratory swabs, especial‐
+ly in the later stages of infection [60].  12.2. Diagnostic Tech‐
+nologies  Sensitive  and  specific  diagnostic methods are always
+preferred, especially in the cases of epidemics or pandemics, for
+the  rapid  and accurate diagnosis of viruses. Molecular (RT‐PCR)
+assays are fast, highly sensitive, and specific, and are gradual‐
+ly  replacing  conventional methods. According to data maintained
+by the Foundation for Innovative New Diagnostics (FIND),  one  of
+the  WHO’s  partners  for the assessment of diagnostics, at least
+143 COVID‐19 molecular diagnostic kits are in (EUA) from  regula‐
+tory  bodies.   Centers  for  Disease  Control and Prevention CDC
+2019‐nCoV Real‐Time RTPCR Diagnostic Panel (CDC) Roche  Molecular
+Systems,  Inc.  (RMS)  cobas SARS‐CoV‐2 Thermo Fisher Scientific,
+Inc.  TaqPath COVID‐19 Combo Kit N1, N2 and  RNase  P  ORF1ab,  E
+gene,  RNase  P ORF1ab, N gene, S gene, MS2 USA FDAEUA USA FDAEUA
+USA FDAEUA Primerdesign Ltd. COVID‐19 genesig Real‐Time PCR assay
+Abbott  RealTime  SARS‐CoV‐2  RdRp  and N Xpert Xpress SARS‐CoV‐2
+test N2 and E genes DAAN Gene Co., Ltd.  of Sun Yat‐sen Detection
+Kit for 2019 Novel Coronavirus (2019‐nCoV) RNA ORF1ab and N China
+EUA Seegene, Inc.  Allplex 2019‐nCoV assay E, RdRp  and  N  Korea
+EUA  Primerdesign Ltd.  Abbott Molecular RdRp gene USA FDAEUA USA
+FDAEUA USA FDAEUA The successful limitation of  virus  spread  in
+Singapore,  Taiwan,  and  Hong  Kong,  despite their geographical
+proximity to China, indicates that widespread and  intense  test‐
+ing,  combined  with  strict quarantine measures for positive and
+suspected cases, are crucial for  combatting  SARS‐CoV‐2.  Large‐
+scale  screening  is  arduous  with  the currently used molecular
+tests; therefore, deployment of rapid point‐of‐care tests (POCTs)
+can  act as a breakthrough in the current scenario [111]. In this
+context, a recent breakthrough in COVID‐19 diagnosis  was  marked
+by  the  Xpert Xpress SARS‐CoV‐2 test (an RT‐qPCR test) developed
+in the USA and reported as a rapid diagnostic test that  provides
+result  in 45 minutes. Moreover, it is an automated POCT with EUA
+from the FDA and enables the detection of SARS‐CoV‐2 in the nasal
+wash,  nasopharyngeal  swab, and aspirated samples [112]. The Ab‐
+bott ID NOW  COVID‐19  test,  a  rapid  point‐of‐care  (POC)  PCR
+isothermal  test,  which can deliver results in five minutes, has
+recently received the EUA from the FDA. Another  FDAapproved  POC
+test,  a rapid IgMIgG‐combined antibody test for COVID‐19, devel‐
+oped by Biomedomics (Becton Dickinson) can detect antiviral anti‐
+bodies  with 88.7% sensitivity and 90.6% specificity within 10‐15
+minutes [113]. These POC tests, which can be used at the communi‐
+ty  level,  are  likely  to  improve  the testing capacities, and
+hence, would be pivotal in disrupting the SARS‐CoV2  transmission
+cycle.  Recently,  a CRISPR‐based Specific High Sensitivity Enzy‐
+matic Reporter Unlocking (SHERLOCK) technique has  been  used  to
+diagnose COVID‐19 in less than an hour without using multiple in‐
+struments [114]. A study  employed  the  combination  of  RT‐PCR,
+CRISPR, and metagenomic next‐generation sequencing (mNGS) for the
+detection of SARS‐CoV‐2 and confirmed the effective clinical  di‐
+agnosis  of  COVID‐19  [115].   12.3.  Artificial Intelligence in
+COVID‐19 Diagnosis Artificial intelligence (AI) tools  are  being
+tested  and  applied  for preliminary screening of possible early
+infections of SARS‐CoV‐2 among individuals. Based on the AI‐based
+learning  framework,  individuals  are being categorized as high,
+moderate, or minimal risk individuals [116].   However,  multiple
+experts  differ in their opinion over the data collected by these
+AI tools, as it is often considered sensitive, owing to  concerns
+of national security [117].  The chest CT‐based diagnosis, usual‐
+ly in COVID‐19, has certain limitations in terms of  differentia‐
+tion  between  COVID‐19  and community‐acquired pneumonia. There‐
+fore, a deep learning model for COVID‐19 was  developed  and  em‐
+ployed  to  distinguish  the  common community‐acquired pneumonia
+from COVID‐19 [118]. With a lack  of  point‐of‐care  diagnostics,
+AI‐driven tools can prove useful in determining the risk involved
+and the transmission dynamics among different population  groups.
+Presently,  owing to the involvement of active learning processes
+in AI tools, the rate of confidence in decision‐making  processes
+has  increased  [28,119].  Therefore,  there is an urgent need to
+standardize protocols to develop AI‐based  devices  that  can  be
+used  during such disasters.  13. Vaccines and Therapeutics 13.1.
+Vaccine Development The most common preventive and effective  ap‐
+proach to decelerate the COVID‐19 pandemic is the use of vaccines
+in humans. Currently, there are significant research efforts  be‐
+ing  made globally to develop safe and effective vaccines against
+SARS‐CoV‐2 infection [120]. Approximately 200 vaccine  candidates
+have already been developed worldwide and are at different stages
+of clinical evaluation [121]. Most of  these  vaccine  candidates
+have  been  developed  using  at  least seven different of Public
+Health, USA, provides comprehensive  publicly‐available  informa‐
+tion  on  all drugs and vaccines against SARS‐CoV‐2 that are cur‐
+rently being studied.  5 [122]. The potential advantage of such a
+vaccine  is  its  ability to mimic natural infection to trigger a
+more potent immune response and rapid  production.  The  phase  I
+clinical  trial  has  recently  However, the availability of this
+vaccine for global immunization is likely to take more time as it
+faces  numerous  challenges associated with clinical development,
+since no previous mRNA vaccine has been approved. The second vac‐
+cine, the Ad5‐nCov, a replication‐defective adenovirus vector ex‐
+pressing the SARS‐CoV‐2 spike protein, has been developed jointly
+by  Cansino  Biologics Inc. and used for the upstream preparation
+of the recombinant vaccine. The phase I clinical  trial  of  this
+vaccine  candidate  recently  commenced at the Tongji Hospital in
+Wuhan, China [123].  The phase I clinical trials  for  two  other
+vaccine  candidates  (BNT‐162 and INO‐4800) are due in April 2020
+in China and the USA, respectively. The BNT‐162, an mRNA  vaccine
+candidate,  expressing jointly developed by Biontech AG, Shanghai
+Fosun Pharmaceutical Co.  Ltd.  and  Pfizer  Inc  [13]  (Hodgson,
+2020).  Another  candidate, the INO‐4800, a DNA vaccine supported
+by CELLECTRA 3PSP, a hand‐held smart device for  intradermal  de‐
+livery, developed by Inovio Pharmaceuticals Inc.  and Beijing Ad‐
+vaccine Biotechnology Co. Ltd [13], is undergoing phase I  clini‐
+cal trials. The globally coordinated efforts to combat SARS‐CoV‐2
+have led to the development of potential  vaccine  candidates  in
+the  shortest possible time; however, these candidates need to be
+subjected to rigorous clinical trials to prove their efficacy and
+safety  before  being considered for global immunization.  There‐
+fore, in the current situation, therapeutic drugs  are  the  most
+effective   alternative  for  the  containment  of  COVID‐19  and
+restoration of public health. Recently, two more  vaccine  candi‐
+dates  A concept of protection through changing the viral genetic
+code was given by researchers from China in 2016 while working on
+influenza  A  virus.  They generated premature termination codons
+(PTCs), and these PTC‐containing viruses showed promising results
+in  mice,  guinea  pigs, and ferrets against influenza challenge.
+However, such studies have not been replicated further, though in
+the  hour  of  need during the COVID‐19 crisis, must be evaluated
+for the beneficial and effective control  of  infections.   13.2.
+Development  of  Antiviral Therapeutics The rapid spread of SARS‐
+CoV‐2 demands the immediate development  of  effective  and  safe
+promising  approach  adopted by researchers is the repurposing of
+drugs [12,124]. However, no  specific  anti‐SARS‐CoV‐2  treatment
+has been recommended by the US FDA, yet owing to the lack of sup‐
+portive data.  Favilavir (Favipiravir), the first antiviral  drug
+tested against SARS‐CoV‐2, approved by the National Medical Prod‐
+ucts Administration of China in February 2020, is  commonly  used
+to  treat  influenza  infection  in China and Japan and has shown
+promising results in shortening the course of  SARS‐CoV‐2  infec‐
+tion [12,124,125]. This drug acts by inhibiting the RNA‐dependent
+RNA polymerase activity (RdRp) of SARS‐CoV‐2. Despite its  poten‐
+tial  effectiveness,  the  drug is yet to be approved by the U.S.
+FDA. Remdisivir has also been reported to treat COVID‐19 patients
+to  full recovery [126,127]. In fact, remdisivir is also a repur‐
+posed drug that was initially developed for the treatment of Ebo‐
+la  virus  infection.  Remdisivir  is  reported  to prevent viral
+replication by the premature termination  of  RNA  transcription.
+Currently,  remdisivir is under clinical trials for the treatment
+of COVID‐19 patients. Furthermore, a combination of lopinavir and
+ritonavir  has  been reported to significantly improve the condi‐
+tions of COVID‐19 patients in South Korea [126]. Similar to  rem‐
+disivir,  a  combination of lopinavir and ritonavir was developed
+to treat HIV‐1 infections in adults. However, the combination  of
+lopinavir  and ritonavir failed to serve its initial purpose when
+used for the treatment of COVID‐19 patients  in  recent  clinical
+trials  in  China  [128].   Hydroxychloroquine,  an anti‐malarial
+drug, in combination with azithromycin, has shown  promising  re‐
+sults  in an open‐label non‐randomized clinical trial in reducing
+the viral load in COVID19 patients [129]. However, its associated
+side‐effects  could be more severe in COVID‐19 patients with pre‐
+existing chronic medical conditions.   Apart  from  these  drugs,
+convalescent  plasma  therapy (plasma from recovered COVID‐19 pa‐
+tients that contains antibodies against SARS‐CoV‐2) could also be
+used as an alternative treatment strategy to improve the survival
+rate of COVID‐19 patients [130]. Recently, the  FDA  allowed  the
+use  of plasma therapy for critically ill patients under an emer‐
+gency investigational new drug protocol (FDA, 2020).  The  treat‐
+ment strategies must focus on curbing hyper inflammation, and the
+existing readily available therapies may prove beneficial in  pa‐
+tients  with  severe SARS‐CoV‐2 infection. A humanized monoclonal
+antibody, viz. tocilizumab, competitively binds to the  IL‐6  re‐
+ceptors  and subsequently prevents the binding of IL‐6 to its re‐
+ceptor [131]. Notably, the  blocking  of  the  IL‐6  receptor  by
+tocilizumab  may  prove  to  be  crucial and reduce the number of
+deaths associated with severe stage COVID‐19. In this context,  a
+clinical  trial (ChiCTR2000029765) using tocilizumab reported its
+significant effectiveness in controlling fever and improving  the
+respiratory  function  in  individuals with severe COVID‐19 [98].
+Apart from the aforementioned  drugs,  there  are  several  other
+drugs  that are either under clinical trials or are being consid‐
+ered for a clinical trial for the treatment of COVID‐19. Of note,
+the  information provided in this study is neither exhaustive nor
+should be used for self‐medication.  13.3. Challenges of COVID‐19
+Vaccines  and  Therapeutics  With  the  global cohesive approach,
+dozens of vaccine candidates have reached a status needing  human
+trials.  The  human trials can only provide an idea on the status
+of vaccine effectiveness. The search for volunteers  is  a  chal‐
+lenge,  though  in  few places a number of people have registered
+for the clinical trials. The time estimated for  the  release  of
+any  vaccine  looks lengthier, with a waiting period of nearly 12
+months, involving quality checks, regulatory,  and  scale‐up  is‐
+sues,  with  the  required number of doses covering those who are
+suffering globally. A few of the candidate vaccines  cleared  the
+animal  trials with safe outcome and need an assessment of immune
+responses and disease enhancement. Lately, other concerns  posing
+a  challenge are higher mutability seen in circulating strains of
+SARS‐CoV‐2 worldwide and the antibody‐dependent enhancement (ADE)
+of disease. This ADE mechanism enables the entry of the virus in‐
+to the host cells and is well described in viral infections. Will
+the  changing  virus  remain susceptible to the upcoming vaccine?
+and Could it be helping in ADE? are the questions yet to  be  re‐
+solved.    clinical   trials)  for  the  prevention/treatment  of
+COVID‐19.  Vaccines candidates Clinical trials started at  Kaiser
+Permanente  Washington Health Seattle, USA CanSino Biological and
+Beijing Clinical trials recently started at  Tongji  Hospital  in
+Wuhan, China Phase I Shenzhen GenoImmune Medical Phase I Shenzhen
+GenoImmune Medical Phase I DNA plasmid encoding S protein  deliv‐
+ered  by  Dendritic cells modified with lentiviral vector and ex‐
+pressing synthetic minigene based on domains  of  selected  viral
+Artificial antigenpresenting cells (aAPCs) modified with lentivi‐
+ral vector and expressing synthetic minigene based on domains  of
+selected viral proteins Drug candidates Approved by NMPA, Inhibi‐
+tion of RNAdependent RNA polymerase of SARS‐CoV2 and azithromycin
+Gilead  Sciences, Lopinavir + Ritonavir AbbVie, USA Clinical tri‐
+als are under progress Clinical trials are under progress Further
+research  is  under  process  Both  have  shown in vitro activity
+against SARSCoV‐2 Developed for treatment of Ebola  virus  infec‐
+tion  Developed  to  treat HIV‐1 14. Mitigation Strategies In the
+absence of approved antiviral agents and vaccines, the  most  ef‐
+fective  strategies  are based on the disruption of the transmis‐
+sion cycle of the virus (human‐to‐human) via  droplets  or  close
+contact.  To  achieve  this, the most critical step would involve
+maintaining strict hand hygiene and adherence to basic cough eti‐
+quettes,  across all strata from children to the elderly. A study
+reported the employment of prevention and control  strategies  at
+three  levels:  case‐related  population, general population, and
+national level [132]. Additionally, the National  Health  Commis‐
+sion  of China issued protocols for the mitigation of COVID‐19 in
+order to contain the further spread of the virus by a big  isola‐
+tion and big disinfection policy during the Chinese spring festi‐
+val [133]. A national‐level mitigation  strategy  has  also  been
+adopted  for the elderly population and in rural areas [134,135].
+Awareness regarding the connotations of hand hygiene amongst  the
+general  public,  instead of stressing the usage of masks, is the
+need of the hour in view of the multiple modes  of  transmission.
+The use of sanitizers or soaps is one of the essential components
+of the prevention and control of COVID‐19. Sanitizers  containing
+60‐70%  ethanol  or  70%  isopropanol are effective against SARS‐
+CoV2. Similarly, household detergents or soaps are also useful in
+sanitization.  While  sanitizers  are  sufficient  for relatively
+clean hands, soiled hands need to be washed using soap and  water
+for  20  seconds.  Additionally, the WHO issued guidelines on the
+use of face masks during homecare visits and  in  the  community,
+along with health care settings in the context of COVID‐19 [136].
+Moreover, the use of particulate respirators, such  as  certified
+N95  or  FFP2, is recommended for health care workers who perform
+aerosol‐generating procedures.  In contrast,  medical  masks  are
+recommended  while  providing  clinical care to suspected or con‐
+firmed COVID‐19 cases [136]. The WHO has approved the use of  N95
+masks  for  patients  at  all  times  for  source control and for
+healthcare providers only in certain  situations,  such  as  when
+they  are  in the close vicinity of a patient (within three feet)
+or are performing aerosol‐generating  procedures  on  symptomatic
+patients.  These masks are not recommended for use by the general
+public. In situations of close contact (within three to six feet)
+with  a  suspected or confirmed case, a facemask ought to be used
+instead of an N95 or powered air‐purifying respirator. If the pa‐
+tient  is  not  using a facemask, the health care provider should
+wear an N95 mask, even when at a distance of three  to  six  feet
+from the patient. In low‐resource outbreak settings, the reuse of
+N95 masks after ethylene oxide sterilization may  be  considered.
+General  public  awareness  should be increased by the display of
+posters with clear DOs and DONTs, illustrating  symptoms,  routes
+of  transmission,  and preventive measures, with emphasis on per‐
+sonal hygiene to curtail transmission. Physical and  social  dis‐
+tancing  campaigns  should be promoted to lessen physical contact
+and to contain the spread. Fitbit devices  and  other  smartphone
+fitness  devices can be used during such outbreaks to monitor the
+symptoms [137,138]. Smartphones and internet services can also be
+utilized  to  disseminate  information regarding the presentation
+and prevention of the infection.  Disposable protective clothing,
+eye  gear,  gloves,  masks,  and shoe covers should be used while
+handling animals and animal products, and the same should be  re‐
+stricted  to  the  workplace to prevent the spread to family mem‐
+bers. The consumption of undercooked and raw meat should strictly
+be  avoided.  The proper heating of food to a temperature of 60 C
+for thirty minutes, mimicking thermal shock conditions, a  common
+practice  in  India, is sufficient to kill the virus. Breath ana‐
+lyzers and other public sharing equipment should use a disposable
+mouthpiece  to  prevent the human‐to‐human transfer of the virus.
+The proper cleaning of all surfaces should be practiced in hospi‐
+tals,  airports, at workplaces, and in domestic settings to allow
+for the appropriate action of detergents since SARS‐  CoV  is  an
+enveloped virus. The virus has been found to persist on inanimate
+surfaces from two hours up to nine days at room temperature,  de‐
+pending upon the type of surface. At temperatures of 4 C, certain
+strains remain viable for up to  28  days.  Surface  disinfection
+with  0.1%  hypochlorite or 62‐71% ethanol was found to be effec‐
+tive in reducing the infectivity of a surface within an  exposure
+time of one minute [139].  Unfortunately, this is the third event
+of the spillover of a zoonotic respiratory  virus  to  humans  in
+this  decade  of  the 21st century, highlighting the necessity of
+prerequisite multidisciplinary coordination for curbing the emer‐
+gence  of  novel  viruses and controlling such apocalyptic events
+[140142]. The One health approach is one such initiative that in‐
+corporates preventive strategies for the emergence of zoonosis in
+all three arms: humans, animals, and the  environment  [143,144].
+WHO  initiatives,  such as the Battle against Respiratory Viruses
+(BRaVe), that support innovative  multidisciplinary  research  in
+the field of emerging and re‐emerging respiratory viruses are en‐
+couraging [145]. Consortiums and open‐access platforms,  such  as
+ProMed,  International  Severe Acute Respiratory and Emerging In‐
+fection Consortium, and BioDiaspora, act as benefactors  by  par‐
+taking in, stipulating, and disseminating comprehensive knowledge
+on the prevention and management of such events worldwide.  Trav‐
+elers from COVID‐19 affected countries need to be quarantined ap‐
+propriately, as they have been the root cause of spreading  SARS‐
+CoV‐2  from  China to subsequently more than 200 countries.  Mea‐
+sures, such as public awareness programs about COVID‐19 associat‐
+ed  health  risks  and how to avoid contact transmission, issuing
+updated advisories from time to time, visa cancellations to avoid
+travelers  coming  in  from affected countries, understanding the
+high socio‐economic implications of other public places,  staying
+at home in affected areas during lockdown conditions in countries
+where this virus has been severely affected, strengthening  medi‐
+cal  facilities,  adopting  high  biosafety measures for doctors,
+nurses, and health‐care workers, along with following high  stan‐
+dards of hygiene and health practices while diagnosing and treat‐
+ing COVID‐19 patients, are a few of the critical  prevention  and
+control measures to check the high spread of this pandemic virus.
+Because of the current pandemic situation affecting more than 200
+countries,  as  well  as  the  global  threats  imposed  by SARS‐
+CoV‐2/COVID‐19, as indicated by the increasing  number  of  cases
+and deaths, researchers are working to develop effective vaccines
+and therapeutics as soon as possible.  Appropriate  surveillance,
+prevention, and control measures are being implemented worldwide,
+while taking lessons from earlier virus outbreaks, such as  SARS‐
+CoV,  MERS‐CoV,  Ebola,  Zika, Nipah, and others, as well as from
+the advances in science and technology in the modern era, to halt
+the  further  spread  of  this  virus  and  to  restrain COVID‐19
+[118,146154].  The emergence of SARS‐CoV‐2 highlights gaps in the
+current  knowledge  about  humananimal barriers and zoonotic dis‐
+eases, as well as the necessity for a prerequisite for  extensive
+comprehensive research at the humananimalenvironment interface of
+the One Health concept [155], to determine the origins and cross‐
+roads  of  interspecies transfer impediment by the identification
+of the ecological and evolutionary  carriers  of  the  infection.
+Several  questions on SARS‐CoV‐2 remain unanswered, including the
+factors behind the virus crossing the species barrier, the defin‐
+itive  origin of the virus, the exact roles of distinct ORFs, the
+critical point mutation differences  in  virus  transmission  and
+pathogenesis, the reason for the death of specific infected indi‐
+viduals while others remain asymptomatic, and the reappearance of
+infection  in  specific cured individuals, among others. With the
+availability of more complete  genome  sequences  from  different
+parts  of  the  world, it is becoming apparent that several virus
+mutants are circulating and need close  monitoring.  There  is  a
+need  to identify the role of the ADE mechanism in SARS‐CoV‐2, as
+well to plan for better immunomodulatory therapies for the effec‐
+tive treatment and control of COVID‐19 infections.  The functions
+of non‐structural proteins in a  typical  coronavirus  and  SARS‐
+CoV‐2 (predicted by bioinformatics and P.K. involved in data col‐
+lection and analysis; U.G., V.K.O.R. and M.E.E.Z. performed  epi‐
+demiological  data  analysis and drafting of immunopathology sec‐
+tion; P.G., K.G. and M.P.S. collected material on clinical  diag‐
+nosis  and  clinical  profile;  M.I.Y., R.T., M.P. and S.K.P. in‐
+volved in data collection and updating material on vaccine, ther‐
+apy  and  prevention control; K.D., R.S., A.J.R.M. and R.K.S. in‐
+volved in revising, updating, checking,  and  Funding:  This  re‐
+search  received  no  external  funding.  Y.S.M. acknowledges the
+support of the Education Division, Indian Council of Agricultural
+Research,  New Delhi, India, in the form of ICAR‐National Fellow‐
+ship.  Gorbalenya, A.E.; Baker,  S.C.;  Baric,  R.S.;  de  Groot,
+R.J.;  Drosten,  C.;  Gulyaeva, A.A.; Haagmans, B.L.; Lauber, C.;
+Leontovich, A.M.; Neuman, B.W.; et al. Severe  acute  respiratory
+syndrome‐related coronavirus: The species and its virusesA state‐
+ment of the Coronavirus Study Group. Nat.  Microbiol.  2020,  55,
+536  Huang,  C.;  Wang,  Y.;  Li,  X.; Ren, L.; Zhao, J.; Hu, Y.;
+Zhang, L.; Fan, G.; Xu, J.; Gu, X.; et al. Clinical  features  of
+patients  infected  with  2019 novel coronavirus in Wuhan, China.
+Lancet 2020, 395, P497P506.  Cucinotta, D.; Vanelli, M.; WHO  De‐
+clares COVID‐19 a Pandemic. Acta Biomed. 2020, 91, 157160.  World
+Health Organization (WHO). Coronavirus  disease  2019  (COVID‐19)
+Situation Report93. Available Wei, M.; Yuan, J.; Liu, Y.; Fu, T.;
+Yu, X.; Zhang, Z.J. Novel coronavirus infection  in  hospitalized
+infants  under  1  year of age in China. J. Am. Med. Assoc. 2020,
+323, 13131314.  Chen, N.; Zhou, M.; Dong, X.; Qu, J.;  Gong,  F.;
+Han,  Y.;  Qiu, Y.; Wang, J.; Liu, Y.; Wei, Y.; et al.  Epidemio‐
+logical and clinical characteristics of 99 cases  of  2019  novel
+coronavirus  pneumonia  in  Wuhan,  China:  A  descriptive study.
+Lancet 2020, 395, 507513.  Wang, D.; Hu, B.;  Hu,  C.;  Zhu,  F.;
+Liu, X.; Zhang, J.; Wang, B.; Xiang, H.; Cheng, Z.; Xiong, Y.; et
+al. Clinical characteristics of 138  hospitalized  patients  with
+2019 novel coronavirus‐infected pneumonia in Wuhan, China. J. Am.
+Med. Assoc. 2020, 323, 10611069.   Cai,  H.  Sex  difference  and
+smoking  predisposition in patients with COVID‐19. Lancet Respir.
+Med. 2020, 8, Yu, W.‐B.; Tang, G.‐D.; Zhang, L.; Corlett, R.  De‐
+coding  the  evolution  and  transmissions of the novel pneumonia
+coronavirus (SARS‐CoV‐2) using the whole genomic data. Zool  Res.
+2020,  41, 247257.  Li, Q.; Guan, X.; Wu, P.; Wang, X.; Zhou, L.;
+Tong, Y.; Ren, R.; Leung, K.S.M.; Lau, E.H.Y.; Wong, J.Y.; et al.
+Early  transmission  dynamics  in  Wuhan,  China, of novel coron‐
+avirus‐infected pneumonia. N. Engl.  J.  Med.   Guo,  Y.R.;  Cao,
+Q.D.;  Hong,  Z.S.;  Tan, Y.Y.; Chen, S.D.; Jin, H.J.; Tan, K.S.;
+Wang, D.Y.; Yan, Y. The origin, transmission and clinical  thera‐
+pies  on coronavirus disease 2019 (COVID‐19) outbreakAn update on
+the status. Mil. Med. Res. 2020, 7, 11.  Hodgson, J. The pandemic
+pipeline.  Nat.  Biotechnol.  2020, 38, 523532 Rothe, C.; Schunk,
+M.; Sothmann, P.; Bretzel, G.; Froeschl, G.; Wallrauch, C.;  Zim‐
+mer,  T.; Thiel, V.; Janke, C.; Guggemos, W.; et al. Transmission
+of 2019‐nCoV infection from an asymptomatic contact  in  Germany.
+N.  Engl.  J. Med. 2020, 382, 970971.  Cui, J.; Li, F.; Shi, Z.L.
+Origin and evolution of pathogenic coronaviruses. Nat.  Rev.  Mi‐
+crobiol. 2019, 17, 181 Mller, M.A.; Corman, V.M.; Jores, J.; Mey‐
+er, B.; Younan, M.; Liljander, A.; Bosch, B.J.; Lattwein, E.; Hi‐
+lali,  M.; Musa, B.E.; et al. MERS coronavirus neutralizing anti‐
+bodies in camels, Eastern Africa, 19831997. Emerg.  Infect.  Dis.
+2014,  20, 20932095.  Ellwanger, J.H.; Chies, J.A.B.; Wind: A ne‐
+glected factor in the spread of infectious diseases. Lancet Plan‐
+et.   Health  2018,  2,  e475.  Lam, T.T.‐Y.; Shum, M.H.‐H.; Zhu,
+H.‐C.; Tong, Y.‐G.; Ni, X.‐B.;  Liao,  Y.‐S.;  Wei,  W.;  Cheung,
+W.Y.‐M.;  Li,  W.‐J.; Li, L.‐F; et al. Identifying SARS‐CoV‐2 re‐
+lated coronaviruses in  Malayan  pangolins.  Nature  2020,  Fung,
+T.S.; Liu, D.X. Human coronavirus: Host‐pathogen interaction. An‐
+nu. Rev. Microbiol. 2019, 73, 529 Corman, V.M.;  Albarrak,  A.M.;
+Omrani, A.S.; Albarrak, M.M.; Farah, M.E.; Almasri, M.; Muth, D.;
+Sieberg, A.; Meyer, B.; Assiri, A.M.; et al. Viral  shedding  and
+antibody  response  in  37  patients with Middle East respiratory
+syndrome coronavirus infection.  Clin.  Infect.  Dis.  2016,  62,
+477483.  Su, S.; Wong, G.; Shi, W.; Liu, J.; Lai, A.C.; Zhou, J.;
+Liu, W.; Bi, Y.; Gao, G.F. Epidemiology,  genetic  recombination,
+and  pathogenesis  of  coronaviruses. Trends Microbiol. 2016, 24,
+490502.  Zhou, P.; Yang, X.L.; Wang, X.G.;  Hu,  B.;  Zhang,  L.;
+Zhang,  W.;  Si,  H.R.;  Zhu,  Y.; Li, B.; Huang, C.L.; et al.  A
+pneumonia outbreak associated with a new coronavirus of  probable
+bat  origin.  Nature 2020, 579, 270 Yang, J.; Zheng, Y.; Gou, X.;
+Pu, K.; Chen, Z.; Guo, Q.; Ji, R.; Wang, H.; Wang, Y.;  Zhou,  Y.
+Prevalence  of  Int. J. Infect. Dis. 2020, 94, 9195.  Chan, J.F.;
+Kok, K.H.; Zhu, Z.; Chu, H.; To, K.K.; Yuan, S.; Yuen,  K.Y.  Ge‐
+nomic  characterization of the 2019 novel human‐pathogenic coron‐
+avirus isolated from a patient with atypical pneumonia after vis‐
+iting  Wuhan. Emerg. Microbes Infect. 2020, 9, 221236.  de Groot,
+R.J.; Baker, S.; Baric, R.; Enjuanes, L.; Gorbalenya, A.; Holmes,
+K.;  Perlman, S.; Poon, L.; Rottier, P.; Talbot, P. Family coron‐
+aviridae. In Virus Taxonomy: Ninth Report  of  the  International
+Committee  on Taxonomy of Viruses; Academic Press: Cambridge, MA,
+USA, 2012; pp. 806828.  Zhu, N.; Zhang, D.;  Wang,  W.;  Li,  X.;
+Yang,  B.; Song, J.; Zhao, X.; Huang, B.; Shi, W.; Lu, R.; et al.
+A novel coronavirus from patients with pneumonia in China,  2019.
+N. Engl. J. Med. 2020, 382, 727733.  Wu, A.; Peng, Y.; Huang, B.;
+Ding, X.; Wang, X.; Niu, P.; Meng, J.; Zhu, Z.; Zhang, Z.;  Wang,
+J.;  et al. Genome composition and divergence of the novel coron‐
+avirus (2019‐nCoV) originating in China. Cell Host Microbe  Fehr,
+A.R.; Perlman, S. Coronaviruses: An overview of their replication
+and pathogenesis. Methods Mol.  Chen, Y.; Liu, Q.; Guo, D. Emerg‐
+ing  coronaviruses: Genome structure, replication, and pathogene‐
+sis. J.  Med. Virol. 2020, 92, 418423.  Malik, Y.S.; Sircar,  S.;
+Bhat,   S.;  Sharun,  K.;  Dhama,  K.;  Dadar,  M.;  Tiwari,  R.;
+Chaicumpa, W. Emerging novel Coronavirus (2019‐nCoV)‐Current sce‐
+nario,  evolutionary perspective based on genome analysis and re‐
+cent developments. Vet. Q. 2020, 40, 112.  Lu, G.; Wang, Q.; Gao,
+G.F. Bat‐to‐human: Spike features determining host jump of coron‐
+aviruses SARSCoV, MERS‐CoV, and beyond. Trends  Microbiol.  2015,
+23, 468478.  Lu, R.; Zhao, X.; Li, J.; Niu, P.; Yang, B.; Wu, H.;
+Wang, W.; Song, H.; Huang, B.; Zhu, N.; et al. Genomic character‐
+isation  and epidemiology of 2019 novel coronavirus: Implications
+for virus origins and receptor binding. Lancet 2020, 395, 565574.
+He, Y.; Zhou, Y.; Liu, S.; Kou, Z.; Li, W.; Farzan, M.; Jiang, S.
+Receptor‐binding domain of SARS‐CoV spike protein induces  highly
+potent  neutralizing  antibodies: Implication for developing sub‐
+unit vaccine. Biochem.  Biophys. Res. Commun. 2004, 324,  773781.
+Le  Coupanec,  A.;  Desforges,  M.; Meessen‐Pinard, M.; Dube, M.;
+Day, R.; Seidah, N.G.; Talbot, P.J. Cleavage of  a  neuroinvasive
+human  respiratory virus spike glycoprotein by proprotein conver‐
+tases modulates neurovirulence and virus spread within  the  cen‐
+tral nervous system. PLoS Pathog. 2015, 11, e1005261.  Kirchdoer‐
+fer, R.N.; Cottrell, C.A.; Wang, N.; Pallesen, J.; Yassine, H.M.;
+Turner,  H.L.; Corbett, K.S.; Graham, B.S.; McLellan, J.S.; Ward,
+A.B. Pre‐fusion structure of a human coronavirus  spike  protein.
+Nature  2016,  531,  Walls,  A.C.;  Tortorici, M.A.; Snijder, J.;
+Xiong, X.; Bosch, B.J.; Rey, F.A.; Veesler, D. Tectonic conforma‐
+tional  changes  of a coronavirus spike glycoprotein promote mem‐
+brane fusion. Proc. Natl. Acad. Sci. USA 2017, 39.  Bassi,  D.E.;
+Zhang,  J.;  Renner,  C.; Klein‐Szanto, A.J. Targeting proprotein
+convertases in furin‐rich lung cancer cells results in  decreased
+in  vitro  and in vivo growth. Mol. Carcinog. 2017, 56, 11821188.
+40. Yang, Z.;  Lasker,  K.;  Schneidman‐Duhovny,  D.;  Webb,  B.;
+Huang,  C.C.;  Pettersen,  E.F.; Goddard, T.D.; Meng, E.C.; Sali,
+A.; Ferrin, T.E. UCSF Chimera, MODELLER, and IMP:  An  integrated
+modeling system. J.  Struct. Biol. 2012, 179, 269278.  41. Li, F.
+Receptor recognition and cross‐species infections of SARS  coron‐
+avirus. Antiviral Res. 2013, 100, 246 42. Li, F.; Receptor recog‐
+nition mechanisms of coronaviruses: A decade of structural  stud‐
+ies.  J.  Virol.  2015,  89,  43. Hoffmann, M.; Kleine‐Weber, H.;
+Schroeder, S.; Krger, N.; Herrler, T.; Erichsen, S.;  Schiergens,
+T.S.; Herrler, G.; Wu, N.‐H.; Nitsche, A.; et al. SARS‐CoV‐2 cell
+entry depends on ace2 and tmprss2 and is blocked by a  clinically
+proven  protease  inhibitor.  Cell  2020, 181, 271280.  44. Wong,
+S.K.; Li, W.; Moore, M.J.; Choe, H.; Farzan, M. A 193‐amino  acid
+fragment  of the SARS coronavirus S protein efficiently binds an‐
+giotensin‐converting  enzyme  2.  J.  Biol.  Chem.   2004,   279,
+31973201.   45. Wong, A.H.; Tomlinson, A.C.; Zhou, D.; Satkunara‐
+jah, M.; Chen, K.; Sharon, C.; Desforges, M.; Talbot, P.J.; Rini,
+J.M.  Receptor‐binding  loops  in alphacoronavirus adaptation and
+evolution. Nat. Commun. 2017, 8, 1 46. van Doremalen,  N.;  Bush‐
+maker,  T.; Morris, D.H.; Holbrook, M.G.; Gamble, A.; Williamson,
+B.N.; Tamin, A.; Harcourt, J.L.; Thornburg, N.J.;  Gerber,  S.I.;
+et  al.  Aerosol  and surface stability of SARS‐CoV‐2 as compared
+with SARS‐CoV‐1. N. Engl. J. Med. 2020, 382, 15641567.   47.  Van
+Doremalen,  N.;  Bushmaker,  T.;  Munster, V. Stability of Middle
+East respiratory syndrome coronavirus (MERS‐CoV) under  different
+environmental  conditions. Eurosurveillance 2013, 18, 20590.  48.
+Sizun, J.; Yu, M.; Talbot, P.  Survival  of  human  coronaviruses
+229E and OC43 in suspension and after drying onsurfaces: A possi‐
+ble source ofhospital‐acquired infections. J. Hosp. Infect. 2000,
+46,  5560.   49.  Warnes,  S.L.; Little, Z.R.; Keevil, C.W. Human
+coronavirus 229E remains infectious on common touch surface mate‐
+rials.  mBio 2015, 6, e01697e01715.  50. Rabenau, H.; Cinatl, J.;
+Morgenstern, B.; Bauer, G.; Preiser, W.; Doerr, H. Stability  and
+inactivation  of SARS coronavirus. Med. Microbiol. Immunol. 2005,
+194, 16.  51. Kratzel, A.; Todt, D.; Vkovski,  P.;  Steiner,  S.;
+Gultom,  M.L.;  Thao, T.T.N.; Ebert, N.; Holwerda, M.; Steinmann,
+J.; Niemeyer, D.; et al. Efficient inactivation of SARS‐CoV‐2  by
+WHO‐recommended  hand rub 52. Kratzel, A.; Todt, D.; VKovski, P.;
+Steiner, S.; Gultom, M.; Thao, T.T.N.; Ebert, N.;  Holwerda,  M.;
+Steinmann,  J.; Niemeyer, D.; et al. Inactivation of severe acute
+respiratory syndrome coronavirus 2 by  WHO‐Recommended  hand  rub
+formulations   and   alcohols.  Emerg.  Infect.  Dis.  2020,  26,
+1592‐1595.  53. Letunic, I.; Bork, P. Interactive  Tree  of  Life
+(iTOL)  v4:  Recent  updates  and new developments. Nucleic Acids
+Res. 2019, 47, W256W259.  54. Xiang, N.; Havers,  F.;  Chen,  T.;
+Song,  Y.;  Tu, W.; Li, L.; Cao, Y.; Liu, B.; Zhou, L.; Meng, L.;
+et al. Use of national pneumonia  surveillance  to  describe  in‐
+fluenza  A(H7N9) virus epidemiology, China, 20042013.  Emerg. In‐
+fect. Dis. 2013, 19, 17841790.  55. Chen, H.; Guo, J.; Wang,  C.;
+Luo,  F.;  Yu, X.; Zhang, W.; Li, J.; Zhao, D.; Xu, D.; Gong, Q.;
+et al. Clinical characteristics and intrauterine vertical  trans‐
+mission potential of COVID‐19 infection in nine pregnant 56. Yeo,
+C.; Kaushal, S.; Yeo, D.; Enteric involvement  of  coronaviruses:
+Is  faecal‐oral  transmission  of SARSCoV‐2 possible? Lancet Gas‐
+troenterol. Hepatol. 2020, 5, 335337.  57. Bai, Y.; Yao, L.; Wei,
+T.;  Tian,  F.;  Jin, D.‐Y.; Chen, L.; Wang, M. Presumed asympto‐
+matic carrier transmission of COVID‐19. J. Am. Med. Assoc.  2020,
+323,  14061407.   58.  Hindson, J. COVID‐19: Faecaloral transmis‐
+sion? Nat. Rev. Gastroenterol. Hepatol. 2020, 17, 259.   59.  Xu,
+Y.; Li, X.; Zhu, B.; Liang, H.; Fang, C.; Gong, Y.; Guo, Q.; Sun,
+X.; Zhao, D.; Shen, J. Characteristics  of  pediatric  SARS‐CoV‐2
+infection and potential evidence for persistent fecal viral shed‐
+ding. Nat. Med. 2020, Zhang, W.; Du, R.H.; Li, B.;  Zheng,  X.S.;
+Yang,  X.L.;  Hu, B.; Wang, Y.Y.; Xiao, G.F.; Yan, B.; Shi, Z.L.;
+et al.  Molecular and serological investigation of 2019‐nCoV  in‐
+fected  patients: Implication of multiple shedding routes. Emerg.
+Microbes Infect. 2020,  9,  386389.   World  Health  Organization
+(WHO).  Coronavirus  Disease 2019 (COVID‐19). Situation Report30.
+Available Liu, Y.; Gayle, A.A.; Wilder‐Smith, A.; Rocklv, J.  The
+reproductive number of COVID‐19 is higher compared to SARS coron‐
+avirus. J. Travel Med. 2020, 27, taaa021 Conti,  P.;  Younes,  A.
+Coronavirus COV‐19/SARS‐CoV‐2 Affects Women Less Than Men: Clini‐
+cal Response Ronconi, G.; Tet, G.; Kritas, S.K.; Gallenga,  C.E.;
+Caraffa,  A.;  Ross, R.; Conti, P. SARS‐CoV‐2, Which World Health
+Organization  (WHO).  Coronavirus  Disease  (COVID‐19)  Technical
+Guidance.  Available World Health Organization (WHO). Coronavirus
+Disease 2019 (COVID‐19) Situation Report2. Available World Health
+Organization (WHO). Coronavirus disease 2019 (COVID‐19) Situation
+Report81. Available Rothan, H.A.; Byrareddy, S.N. The epidemiolo‐
+gy  and  pathogenesis  of  coronavirus disease (COVID‐19) Hu, Z.;
+Song, C.; Xu, C.; Jin, G.; Chen, Y.; Xu, X.; Ma,  H.;  Chen,  W.;
+Lin,  Y.;  Zheng,  Y. Clinical characteristics of 24 asymptomatic
+infections with COVID‐19 screened among close  contacts  in  Nan‐
+jing,  China. Sci. China Life Sci. 2020, 63, 706711.  Centers for
+Disease  Control  and  Prevention  (CDC).   Coronavirus   Disease
+(COVID‐19)  Pregnancy  and  He,  F.; Deng, Y.; Li, W. Coronavirus
+disease 2019: What we know? J. Med. Virol. 2020, 92, 719725.  Xu,
+Z.;  Shi, L.; Wang, Y.; Zhang, J.; Huang, L.; Zhang, C.; Liu, S.;
+Zhao, P.; Liu, H.; Zhu,  L.;  et  al.  Pathological  findings  of
+COVID‐19  associated  with  acute  respiratory distress syndrome.
+Lancet Respir. Med. 2020, 8, 420 Chan, K.H.; Peiris,  J.S.;  Lam,
+S.Y.;  Poon, L.L.; Yuen, K.Y.; Seto, W.H. The Effects of tempera‐
+ture and relative humidity on the viability of  the  SARS  coron‐
+avirus.  Adv.  Virol.  2011, 2011, 734690.  Chan, J.F.; Yuan, S.;
+Kok, K.H.; To, K.K.; Chu, H.; Yang, J.; Xing, F.; Liu,  J.;  Yip,
+C.C.;  Poon, R.W.; et al. A familial cluster of pneumonia associ‐
+ated with the 2019 novel coronavirus indicating  person‐to‐person
+transmission:  A  study  of  a  family cluster. Lancet 2020, 395,
+514523.  Yao, X.H.; Li, T.Y.; He, Z.C.; Ping,  Y.F.;  Liu,  H.W.;
+Yu,  S.C.; Mou, H.M.; Wang, L.H.; Zhang, H.R.; Fu, W.J.; et al. A
+pathological report of three COVID‐19 cases by minimally invasive
+autopsies.  J.  Pathol. 2020, 49, Xu, Y.H.; Dong, J.H.; An, W.M.;
+Lv, X.Y.; Yin, X.P.; Zhang, J.Z.; Dong, L.; Ma, X.; Zhang,  H.J.;
+Gao,  B.L.  Clinical and computed tomographic imaging features of
+novel coronavirus pneumonia caused by SARSCoV‐2. J. Infect. 2020,
+80,  394400.   Chen,  L.;  Liu,  H.G.; Liu, W.; Liu, J.; Liu, K.;
+Shang, J.; Deng, Y.; Wei, S. Analysis of clinical features of  29
+patients  with  2019 novel coronavirus pneumonia. Int. J. Tuberc.
+Lung. Dis. 2020, 43, 203208.  Pan, Y.; Guan, H.; Zhou, S.;  Wang,
+Y.; Li, Q.; Zhu, T.; Hu, Q.; Xia, L. Initial CT findings and tem‐
+poral changes in patients with the  novel  coronavirus  pneumonia
+(2019‐nCoV): A study of 63 patients in Wuhan, China. Eur. Radiol.
+2020, 30, 33063309.  Pan, F.; Ye, T.; Sun, P.;  Gui,  S.;  Liang,
+B.;  Li, L.; Zheng, D.; Wang, J.; Hesketh, R.L.; Yang, L.; et al.
+Time course of lung changes on chest CT during recovery from 2019
+novel coronavirus (COVID‐19) pneumonia.  Lei, J.; Li, J.; Li, X.;
+Qi, X. CT imaging of the 2019 novel coronavirus (2019‐nCoV) pneu‐
+monia.  Radiology  Mehta,  P.; McAuley, D.F.; Brown, M.; Sanchez,
+E.; Tattersall, R.S.; Manson, J.J.  COVID‐19:  Consider  cytokine
+storm   syndromes   and   immunosuppression.  Lancet  2020,  395,
+10331034.  Giwa, A.; Desai, A.  Novel  coronavirus  COVID‐19:  An
+overview  for  emergency clinicians. Emerg. Med. Pract.  Qin, C.;
+Zhou, L.; Hu, Z.; Zhang, S.; Yang, S.; Tao, Y.  Dysregulation  of
+immune  response in patients with COVID‐19 in Wuhan, China. Clin.
+Infect. Dis. 2020, 53, 16891699.  Conti, P.; Ronconi, G.;  Caraf‐
+fa, A.; Gallenga, C.E.; Ross, R.; Frydas, I.; Kritas, S.K. Induc‐
+tion of proinflammatory cytokines (IL‐1 and IL‐6)  and  lung  in‐
+flammation  by  Coronavirus‐19  (COVID‐19 or SARSCoV‐2): Anti‐in‐
+flammatory strategies. J. Biol. Regul. Homeost. Agents 2020,  34,
+1.   Ehmann, K.Z.; Drosten, C.; Wendtner, C.; Zange, M.; Vollmar,
+P.; Rosina Ehmann, D.; Zwirglmaier, K.; Guggemos, M.;  Seilmaier,
+M.;  Niemeyer, D. Virological assessment of hospitalized patients
+with COVID2019. Nature 2020, 581, 465469.  Peiris, J.;  Lai,  S.;
+Poon, L.; Guan, Y.; Yam, L.; Lim, W.; Nicholls, J.; Yee, W.; Yan,
+W.; Cheung, M. Coronavirus as a possible cause  of  severe  acute
+respiratory  syndrome.  Lancet  2003,  361,  13191325.  Zhao, J.;
+Yuan, Q.; Wang, H.; Liu, W.; Liao, X.; Su, Y.;  Wang,  X.;  Yuan,
+J.;  Li,  T.; Li, J. Antibody responses to Chen, G.; Wu, D.; Guo,
+W.; Cao, Y.; Huang, D.; Wang, H.; Wang, T.; Zhang, X.; Chen,  H.;
+Yu, H. Clinical and immunological features of severe and moderate
+coronavirus disease 2019. J. Clin.  Invest.  2020,  130.   Glass,
+W.G.;  Subbarao,  K.; Murphy, B.; Murphy, P.M. Mechanisms of host
+defense following severe acute  respiratory  syndrome‐coronavirus
+(SARS‐CoV)  pulmonary  infection  of mice. J. Immunol. 2004, 173,
+4030 Helms, J.; Tacquard, C.; Severac,  F.;  Leonard‐Lorant,  I.;
+Ohana,  M.; Delabranche, X.; Merdji, H.; Clere‐Jehl, R.; Schenck,
+M.; Gandet, F.F. High risk of thrombosis in patients with  severe
+SARS‐CoV‐2 infection: A multicenter prospective cohort study. In‐
+tensive Care Med. 2020, 46, 110.  Liang, W.; Guan, W.; Chen,  R.;
+Wang,  W.; Li, J.; Xu, K.; Li, C.; Ai, Q.; Lu, W.; Liang, H. Can‐
+cer patients in SARS‐CoV‐2 infection: A  nationwide  analysis  in
+china.  The  Lancet  Oncology  2020,  21, 335337.  Cameron, M.J.;
+Bermejo‐Martin, J.F.; Danesh, A.; Muller, M.P.; Kelvin, D.J.  Hu‐
+man  immunopathogenesis  of  severe  acute  respiratory  syndrome
+(SARS). Virus Res. 2008, 133, 1319.   Prompetchara,  E.;  Ketloy,
+C.;  Palaga,  T.  Immune responses in COVID‐19 and potential vac‐
+cines: Lessons learned from SARS and MERS epidemic. Asian Pac. J.
+Allergy  Immunol. 2020, 38, 19.  Liu, J.; Li, S.; Liu, J.; Liang,
+B.; Wang, X.; Wang, H.; Li, W.; Tong, Q.; Yi, J.;  Zhao,  L.,  et
+al.  Longitudinal characteristics of lymphocyte responses and cy‐
+tokine profiles in the peripheral blood  of  SARS‐CoV‐2  infected
+patients. EBioMedicine 2020, 55, 102763.  Tetro, J.A. Is COVID‐19
+receiving ADE from other coronaviruses?  Microbes  Infect.  2020,
+22, 7273.  Cao, X. COVID‐19: Immunopathology and its implications
+for therapy. Nat. Rev. Immunol. 2020, 22, 7273.  Li, X.; Zai, J.;
+Zhao, Q.; Nie, Q.; Li, Y.; Foley, B.T.; Chaillon, A. Evolutionary
+history, potential intermediate animal  host,  and  cross‐species
+analyses of SARS‐CoV‐2. J. Med. Virol. 2020, 92, 602611.  Ji, W.;
+Wang, W.; Zhao, X.; Zai, J.; Li, X. Cross‐species transmission of
+the  newly identified coronavirus 2019‐nCoV. J. Med. Virol. 2020,
+92, 433440.  Han, G.‐Z. Pangolins harbor SARS‐CoV‐2‐related coro‐
+naviruses. Trends Microbiol. 2020, 28, 515517.  Shi, J.; Wen, Z.;
+Zhong, G.; Yang, H.; Wang, C.; Huang, B.; Liu, R.; He, X.; Shuai,
+L.;  Sun,  Z.; et al.  Susceptibility of ferrets, cats, dogs, and
+other domesticated animals to SARScoronavirus  2.  Science  2020,
+American Veterinary Medical Association (AVMA). SARS‐CoV‐2 in An‐
+imals, Including Pets. Available Callaway, E. Labs rush to  study
+coronavirus in transgenic animalsSome are in short supply. Nature
+2020, 105. Wentworth, D.E.; Gillim‐Ross, L.; Espina, N.; Bernard,
+K.A.  Mice  susceptible to SARS coronavirus. Emerg.  Infect. Dis.
+2004, 10, 12931296.  106. Hogan, R.J.; Gao, G.; Rowe,  T.;  Bell,
+P.;  Flieder, D.; Paragas, J.; Kobinger, G.P.; Wivel, N.A.; Crys‐
+tal, R.G.; Boyer, J.; et al. Resolution of primary  severe  acute
+respiratory  syndrome‐associated  coronavirus  infection requires
+Stat1. J. Virol. 2004, 78, 1141611421.  107. Roberts, A.;  Vogel,
+L.;  Guarner,  J.;  Hayes, N.; Murphy, B.; Zaki, S.; Subbarao, K.
+Severe acute respiratory syndrome coronavirus infection of golden
+Syrian  hamsters.  J.  Virol. 2005, 79, 503511.  108. Kim, Y.‐I.;
+Kim, S.‐G.; Kim, S.‐M.;  Kim,  E.‐H.;  Park,  S.‐J.;  Yu,  K.‐M.;
+Chang, J.‐H.; Kim, E.J.; Lee, S.; Casel, M.A.B.; et al. Infection
+and rapid transmission of SARS‐CoV‐2 in ferrets.  Cell  Host  Mi‐
+crobe  2020,  27,  C704 109. To, K.K.; Tsang, O.T.; Chik‐Yan Yip,
+C.; Chan, K.H.; Wu, T.C.; Chan, J.M.C.; Leung, W.S.; Chik,  T.S.;
+Choi,  C.Y.;  Kandamby, D.H.; et al. Consistent detection of 2019
+novel coronavirus in saliva. Clin. Infect. Dis. 2020, 110.  Foun‐
+dation for Innovative New Diagnostic (FIND). COVID‐19 Diagnostics
+Resource Centre. Available on 2 April 2020).  113.  Li,  Z.;  Yi,
+Y.;  Luo,  X.; Xiong, N.; Liu, Y.; Li, S.; Sun, R.; Wang, Y.; Hu,
+B.; Chen, W.; et al. Development and clinical  application  of  a
+rapid IGM‐IGG combined antibody test for SARS‐CoV‐2 infection di‐
+agnosis. J. Med.  114. Zheng, J. SARS‐CoV‐2: An  emerging  coron‐
+avirus  that causes a global threat. Int. J. Biol. Sci. 2020, 16,
+1678 115. Ai, J.W.; Zhang, Y.; Zhang, H.C.; Xu, T.;  Zhang,  W.H.
+Era  of  molecular diagnosis for pathogen identification of unex‐
+plained pneumonia, lessons to be learned. Emerg. Microbes Infect.
+2020,  9, 597600.  116. Rao, A.S.S.; Vazquez, J.A. Identification
+of COVID‐19 can be quicker through artificial intelligence frame‐
+work  using  a  mobile phone‐based survey in the populations when
+cities/towns are under quarantine.  117. Allam, Z.;  Jones,  D.S.
+On  the  coronavirus  (COVID‐19) outbreak and the smart city net‐
+work: Universal data sharing standards  coupled  with  artificial
+intelligence  (AI) to benefit urban health monitoring and manage‐
+ment. Healthcare 2020, 8, 46.  118. Li, L.; Qin, L.; Xu, Z.; Yin,
+Y.; Wang, X.; Kong, B.; Bai, J.; Lu, Y.; Fang, Z.; Song, Q. Arti‐
+ficial intelligence distinguishes  COVID‐19  from  community  ac‐
+quired  pneumonia  on  chest CT. Radiology 2020, 119. Santosh, K.
+AI‐driven tools for coronavirus outbreak: Need of active learning
+and cross‐population train/test models on multitudinal/multimodal
+data. J. Med. Syst. 2020, 44, 15.  120.  Pang,  J.;  Wang,  M.X.;
+Ang,  I.Y.H.;  Tan,  S.H.X.;  Lewis, R.F.; Chen, J.I.; Gutierrez,
+R.A.; Gwee, S.X.W.; Chua, P.E.Y.;  Yang,  Q.;  et  al.  Potential
+rapid diagnostics, vaccine and therapeutics for 2019 novel coron‐
+avirus 121. Le, T.T.; Andreadakis, Z.; Kumar,  A.;  Roman,  R.G.;
+Tollefsen,  S.; Saville, M.; Mayhew, S. The COVID ‐19 vaccine de‐
+velopment landscape. Nat. Rev. Drug  Discov.  2020,  19,  305306.
+(accessed on 10 April 2020).  124. Guo, D. Old weapon for new en‐
+emy: Drug repurposing for treatment of newly emerging viral  dis‐
+eases.   125.  Mifsud,  E.J.; Hayden, F.G.; Hurt, A.C. Antivirals
+targeting the polymerase complex of influenza viruses.  Antiviral
+Res. 2019, 169, 104545.  126. Wang, C.; Li, W.; Drabek, D.; Okba,
+N.M.A.; van Haperen,  R.;  Osterhaus,  A.D.M.E.;  van  Kuppeveld,
+F.J.M.;  Haagmans, B.L.; Grosveld, F.; Bosch, B.‐J. A human mono‐
+clonal antibody  blocking  SARS‐CoV‐2  infection.   Nat.  Commun.
+2020,  11,  2251.   127.  Sheahan, T.P.; Sims, A.C.; Leist, S.R.;
+Schafer, A.; Won, J.; Brown, A.J.; Montgomery,  S.A.;  Hogg,  A.;
+Babusis, D.; Clarke, M.O.; et al. Comparative therapeutic effica‐
+cy of remdesivir and combination lopinavir, ritonavir, and inter‐
+feron  beta  against  MERS‐CoV. Nat. Commun. 2020, 11, 222.  128.
+Cao, B.; Wang, Y.; Wen, D.; Liu, W.; Wang, J.; Fan, G.; Ruan, L.;
+Song,  B.; Cai, Y.; Wei, M.; et al. A trial of lopinavirritonavir
+in adults hospitalized with severe COVID‐19.  N.  Engl.  J.  Med.
+2020, 382, 17871799.  129. Gautret, P.; Lagier, J.C.; Parola, P.;
+Hoang, V.T.; Meddeb, L.; Mailhe, M.; Doudier,  B.;  Courjon,  J.;
+Giordanengo,  V.;  Vieira,  V.E.;  et  al. Hydroxychloroquine and
+azithromycin as a treatment of COVID‐19: Results of an open‐label
+non‐randomized  clinical  trial. Int. J. Antimicrob. Agents 2020,
+130. Chen, L.; Xiong, J.; Bao, L.; Shi, Y. Convalescent plasma as
+a  potential therapy for COVID‐19. Lancet Infect.  tocilizumab in
+the treatment of rheumatic diseases. Rheumatol.  Ther.  2018,  5,
+2142.   132.  Adhikari,  S.P.; Meng, S.; Wu, Y.J.; Mao, Y.P.; Ye,
+R.X.; Wang, Q.Z.; Sun, C.; Sylvia, S.; Rozelle, S.; Raat, H.;  et
+al.  Epidemiology,  causes, clinical manifestation and diagnosis,
+prevention and control of coronavirus work  plan  for  prevention
+and control of pneumonia caused by novel coronavirus infection in
+the near 136. World Health Organization (WHO). Advice on the  use
+of  masks  in  the community, during home care and in health care
+settings in the context of the novel coronavirus  2019‐nCoV  out‐
+break  (Interim  guidance).   WHO/2019‐nCov/IPC_Masks/2020.3 (ac‐
+cessed on 8 April 2020).   137.  Radin,  J.M.;  Wineinger.  N.E.;
+Topol,  E.J.,  Steinhubl, S.R. H. Fitbit‐informed influenza fore‐
+casts. Lancet 138. Radin, J.M.;  Wineinger,  N.E.;  Topol,  E.J.;
+Steinhubl,  S.R.  Harnessing  wearable  device  data  to  improve
+statelevel real‐time surveillance of  influenza‐like  illness  in
+the USA: A population‐based study. Lancet Digital Health 2020, 2,
+2, E85E93.  139. Kampf, G.; Todt, D.; Pfaender, S.; Steinman,  E.
+Persistence  of coronaviruses on inanimate surfaces and their in‐
+activation with biocidal agents. J. Hosp. Infect. 2020,  114,  6.
+140.  Murdoch,  D.R.;  French,  N.P. COVID‐19: Another infectious
+disease emerging at the animal‐human interface.  N.  Z.  Med.  J.
+2020,  133,  1215.   141. Malik, Y.S.; Sircar, S.; Bhat, S.; Vin‐
+odhkumar, O.R.; Tiwari, R.; Sah,  R.;  Rabaan,  A.A.;  Rodriguez‐
+Morales, A.J.; Dhama, K. Emerging coronavirus disease (COVID‐19),
+a pandemic public health emergency with 142.  Dhama,  K.;  Patel,
+S.K.;  Sharun,  K.;  Pathak,  M.; Tiwari, R.; Yatoo, M.I.; Malik,
+Y.S.; Sah, R.; Rabaan, A.A.; Panwar,  P.K.;  et  al.  SARS‐CoV‐2:
+Jumping  the  species  barrier,  lessons  from SARS and MERS, its
+zoonotic spillover, transmission to humans, preventive  and  con‐
+trol  measures  and  recent  developments  to  counter context of
+COVID‐19: A look into the ecology of this emerging disease.  Adv.
+Animal Vet. Sci. 2020, 8, 13.  144. Dhama, K.; Verma, A.; Tiwari,
+R.; Chakraborty, S.; Vora, K.; Kapoor, Rajib,  D.;  Karthik,  K.;
+Singh, R.; Munir, M.; et al. A perspective on applications of ge‐
+ographical information system (GIS); an  advanced  tracking  tool
+for disease surveillance and monitoring in veterinary epidemiolo‐
+gy. Adv. Animal Vet. Sci. 2013, 1, 14 145. World Health Organiza‐
+tion  (WHO).  Battle  against Respiratory Viruses (BRaVe) initia‐
+tive.  146. Singh, R.K.; Dhama, K.; Chakraborty, S.; Tiwari,  R.;
+Natesan,  S.; Khandia, R.; Munjal, A.; Vora, K.S.; Latheef, S.K.;
+Karthik, K.; et al. Nipah virus: Epidemiology, pathology, immuno‐
+biology  and  advances  in diagnosis, 147. Rodriguez‐Morales, A.;
+Bonilla‐Aldana, D.; Tiwari, R.; Sah, R.; Rabaan,  A.;  Dhama,  K.
+COVID‐19  an emerging coronavirus infection: Current scenario and
+recent developmentsAn Overview. J. Pure Appl.  148. Rabaan, A.A.;
+Al‐Ahmed,  S.H.;  Haque,  S.;  Sah,  R.; Tiwari, R.; Malik, Y.S.;
+Dhama, K.; Yatoo, M.I.; BonillaAldana,  D.K.;  Rodriguez‐Morales,
+A.J.  SARS‐CoV‐2, SARS‐CoV, and MERS‐CoV: A comparative overview.
+Infez. Med. 2020, 28, 174184.  149. Rabaan, A.A.; Al‐Ahmed, S.H.;
+Sah, R.; Tiwari, R.; Yatoo, M.I.; Patel, S.K.; Pathak, M.; Malik,
+Y.S.; Dhama, K.; Singh, K.P.; et al. SARS‐CoV‐2/COVID‐19 and  ad‐
+vances  in developing potential therapeutics and 150. Munjal, A.;
+Khandia, R.; Dhama, K.; Sachan, S.; Karthik, K.; Tiwari, R.;  Ma‐
+lik, Y.S.; Kumar, D.; Singh, R.K.; Iqbal, H.M.N.; et al. Advances
+in developing therapies to combat Zika Virus:  Current  knowledge
+and  future  perspectives. Front. Microbiol. 2017, 8, 1469.  151.
+Dhama, K.; Sharun, K.; Tiwari, R.; Dadar, M.; Malik, Y.S.; Singh,
+K.P.;  Chaicumpa, W. COVID‐19, an emerging coronavirus infection:
+Advances and prospects in designing and developing vaccines, 152.
+Dhama, K.; Karthik, K.; Khandia, R.; Chakraborty, S.; Munjal, A.;
+Latheef, S.K.; Kumar, D.; Ramakrishnan, M.A.; Malik, Y.S.; Singh,
+R.;  et al. Advances in designing and developing vaccines, drugs,
+and therapies to counter Ebola virus. Front.  Immunol.  2018,  9,
+1803.   153.  Chatterjee,  P.;  Nagi,  N.;  Agarwal, A.; Das, B.;
+Banerjee, S.; Sarkar, S.; Gupta, N.; Gangakhedkar, R.R. The  154.
+Conti,  P.;  Gallenga,  C.E.;  Tet, G.; Caraffa, A.; Ronconi, G.;
+Younes, A.; Toniato, E.; Ross, R.; Kritas, S.K.;  How  to  reduce
+the likelihood of coronavirus‐19 (CoV‐19 or SARS‐CoV‐2) infection
+and lung inflammation 155. El Zowalaty, M.E.; Jrhult,  J.D.  From
+SARS  to COVID‐19: A previously unknown SARS‐ related coronavirus
+(SARS‐CoV‐2) of pandemic potential infecting humansCall for a one
+health approach. One
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

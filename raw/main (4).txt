@@ -1,0 +1,408 @@
+Since January 2020 Elsevier has created a COVID-19 resource centre with
+free information in English and Mandarin on the novel coronavirus COVID19. The COVID-19 resource centre is hosted on Elsevier Connect, the
+company's public news and information website.
+Elsevier hereby grants permission to make all its COVID-19-related
+research that is available on the COVID-19 resource centre - including this
+research content - immediately available in PubMed Central and other
+publicly funded repositories, such as the WHO COVID database with rights
+for unrestricted research re-use and analyses in any form or by any means
+with acknowledgement of the original source. These permissions are
+granted for free by Elsevier for as long as the COVID-19 resource centre
+remains active.
+ARTICLE IN PRESS
+ARTIGO DE REVISÃO
+Assistência perioperatória de paciente com infecção
+pelo SARS-CoV-2 (COVID-19) submetido a ressecção
+de tumor de hipóﬁse urgente. Relato de caso
+e diretrizes para manejo de via aérea
+Christiano dos Santos e Santos a,∗ , Luiz M. da Costa Lima Filho a ,
+Cristiane A. Tuma Santos b , James S. Neill c , Henrique F. Vale a
+e Lakshmi N. Kurnutala a
+Recebido em 22 de maio de 2020; aceito em 31 de maio de 2020
+Tumor pituitário;
+Infecção por
+Resumo A pandemia de 2020 causada pelo novo coronavírus, COVID-19, teve seu epicentro na
+China. Causa Síndrome Respiratória Aguda Grave pelo Coronavírus 2 (SARS-CoV-2) e apresenta
+um amplo espectro de manifestações clínicas, que vão desde nenhum sintoma a insuﬁciência
+respiratória aguda grave e óbito. Com a expectativa de um número signiﬁcativo de pacientes
+dependentes de ventilador, várias instituições estrategicamente adiaram cirurgias eletivas. Esse
+é o caso principalmente de procedimentos envolvendo a mucosa nasal, como a via transesfenoidal para a hipóﬁse, devido ao nível imenso de disseminação de material viral. Não obstante,
+casos críticos requerem resolução acelerada. Essas situações são grave apoplexia hipoﬁsária,
+diminuição do nível de consciência ou risco de perda visual aguda. O presente caso relata o
+manejo perioperatório bem sucedido de urgência de paciente do sexo masculino de 47 anos
+de idade com COVID-19 que chegou ao Pronto Socorro com cefaleia frontal à esquerda que
+culminou com diplopia, ptose do olho esquerdo e perda de acuidade visual à esquerda após
+5 dias. A hipoﬁsectomia transesfenoidal ocorreu sem intercorrências e o paciente recebeu
+alta do hospital no quarto dia do pós-operatório. Adicionalmente, descrevemos em detalhe
+infectados pelo novo coronavírus e que necessitam de atenção cirúrgica de emergência.
+Autor para correspondência.
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+Pituitary tumor;
+Airway management;
+SARS-CoV-2 infection
+Pituitary tumor resection in a patient with SARS-CoV-2 (COVID-19) infection. A case
+report and suggested airway management guidelines
+Abstract The 2020 pandemic caused by the novel coronavirus, COVID-19, had its headquarters
+in China. It causes Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and presents
+a broad spectrum of clinical manifestations, ranging from entirely asymptomatic through severe
+acute respiratory failure and death. Presuming a signiﬁcant quantity of ventilator-dependent
+patients, several institutions strategically delayed elective surgeries. Particularly procedures
+performed involving the nasal mucosa, such as a transsphenoidal approach of the pituitary
+gland, considering the tremendous level of viral shedding. Nevertheless, critical cases demand
+expeditious resolution. Those situations are severe pituitary apoplexy, declining consciousness
+level, or risk of acute visual loss. This case presents a successful urgent perioperative management of a 47 year-old male COVID-19 positive patient who presented to the Emergency
+Department with a left frontal headache that culminated with diplopia, left eye ptosis, and
+left visual acuity loss after 5 days. Transsphenoidal hypophysectomy was uneventfully performed, and the patient was discharged from the hospital on postoperative day four. It additionally
+for patients infected with the novel coronavirus who need emergent surgical attention.
+Um surto mundial de Síndrome Respiratória Aguda Grave por
+Coronavírus 2 (SARS-CoV-2) causada pelo novo coronavírus,
+COVID-19, teve seu epicentro na cidade de Wuhan, Hubei
+Província da China.1 Nessa cidade, de 31 de dezembro de
+2019 a 3 de janeiro de 2020, 48 pacientes com pneumonia,
+naquele momento de etiologia desconhecida, foram detectados e notiﬁcados à Organização Mundial da Saúde (OMS).1
+Nas semanas que se sucederam, o vírus RNA envelopado,
+não-segmentado de sentido positivo, pertencente à família
+Coronaviridae2 se disseminou para todos os continentes com
+consequências econômicas e de saúde pública devastadoras. As características clínicas mais frequentes da doença
+são febre, tosse, mal-estar, mialgia, anosmia e sintomas
+O espectro de manifestações clínicas é amplo, indo desde
+nenhum sintoma à insuﬁciência respiratória aguda grave e
+óbito.3,4 A infecção é altamente contagiosa e mesmo pacientes pré-sintomáticos/assintomáticos podem transmitir o
+vírus, principalmente através de gotículas respiratórias.5 A
+transmissibilidade viral a partir de pacientes assintomáticos
+contribui para o alto risco de infecção, não só para o público
+no hospital, mas também para os proﬁssionais de saúde, que
+são extremamente expostos durante o período de pandemia.
+Na expectativa de um número extraordinário de pacientes críticos dependentes de ventilação mecânica devido à
+infecção por SARS-CoV-2, e com o objetivo de disponibilidade de número abundante de leitos de terapia intensiva
+e equipamento, todos os casos eletivos foram estrategicamente adiados, recomendando-se a realização somente
+de casos de emergência.6 Isso se referiu principalmente a
+procedimentos realizados em mucosa nasal, nasofaringe e
+placa cribiforme, tais como abordagem transesfenoidal para
+a hipóﬁse, tendo em conta o nível imenso de disseminação
+de material viral.7
+No presente relato de caso, gostaríamos de compartilhar nossa experiência em paciente positivo para
+COVID-19, submetido a ressecção de tumor hipoﬁsário de
+urgência e com recente deterioração do campo visual e
+compressão de nervo craniano. O objetivo deste artigo
+foi também descrever o protocolo de manejo de via
+procedimentos cirúrgicos em pacientes conﬁrmados positivos para COVID-19. Por essa razão, o relato apresenta
+descrição detalhada dos períodos pré- e pós-operatórios,
+incluindo nossos protocolos para indução de anestesia,
+instrumentação de via aérea, transporte de paciente e
+Relato de caso
+Descrevemos manejo perioperatório urgente bem-sucedido
+de paciente do sexo masculino de 47 anos de idade
+(175,3 cm; 94,3 kg; IMC = 30,7 kg.m-2 ) sem antecedentes clínicos dignos de nota e que chegou ao Pronto Socorro (PS) com
+cefaleia frontal à esquerda há 5 dias. Seguiram-se diplopia, ptose do olho esquerdo e perda da acuidade visual à
+esquerda, 48 horas antes do primeiro contato com o hospital. A cefaleia era constante e não cedia com nenhuma
+medicação. O paciente negava sensação de queimação,
+irradiação ou latejamento. Também aﬁrmou que os sintomas oftalmológicos indolores se iniciaram repentinamente.
+A cefaleia estava piorando no momento em que pediu para
+ir ao PS. O paciente aﬁrmou que três semanas antes desse
+evento, todos no prisão apresentavam dores musculares,
+possivelmente associadas ao surto de COVID-19. O tratamento da dor com ibuprofeno não surtiu efeito. O paciente
+não apresentava história cirúrgica relevante. Os sinais vitais
+estavam dentro de limites normais e foi solicitada Tomograﬁa Computadorizada (TC) da cabeça (ﬁg. 1 a e b). Com
+base nos achados da TC, foi obtida imagem de Resonância
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+Ressecção de tumor hipoﬁsário e infecção pelo SARS-CoV-2 (COVID-19)
+Figura 1 (a e b) Tomograﬁa computadorizada sem contraste. Cortes axial (a) e coronal (b) mostram predomínio de massa selar
+hiperdensa medindo 1,9 ×2,8 ×2,0 cm, ecêntrica à esquerda com extensão para a cisterna supraselar, pinçamento do quiasma ótimo
+esquerdo e deiscência bilateral das paredes do seio esfenoide posterior.
+Figura 2 (a-c) RM hipoﬁsária com e sem contraste. (a) Massa selar sagital T1 com obscurecimento da haste hipoﬁsária. (b e
+c) T2 coronal e axial-T2 heterogêneo perifericamente isointenso centralmente, massa escura com realce diminuído na sela turca
+estendendo-se para a cisterna supraselar com efeito de massa local. Elevação do quiasma óptico e da porção pré-quiasmática à
+esquerda maior do que no nervo óptico direito. Achados compatíveis com macroadenoma hipoﬁsário com deposição central de
+hemosiderina sugerindo hemorragia remota.
+Magnética (RM) da hipóﬁse (ﬁg. 2 a, b e c). O paciente foi
+internado na enfermaria de neurocirurgia.
+Além disso, o painel SARS-CoV-2 RNA por RT-PCR resultou
+positivo um dia após a internação (2◦ dia). Foi transferido
+para o andar COVID-19. No 3◦ dia, o paciente se queixou de piora da acuidade visual à esquerda sem melhora
+da cefaleia. Em função de possível perda visual deﬁnitiva,
+a neurocirurgia decidiu agendar ressecção de tumor hipoﬁsário por via transesfenoidal de urgência para a manhã
+seguinte (5◦ dia).
+No 5◦ dia, o paciente foi transferido para a área do
+Centro Cirúrgico, diretamente para a sala de indução de
+pressão negativa. O paciente foi totalmente coberto por
+campo plástico. O monitoramento e o monitor de bloqueio
+neuromuscular padrão da Sociedade Americana de Anestesiologia foram conﬁgurados, seguido por pré-oxigenação
+por cinco minutos com fração inspirada de oxigênio (FiO2 )
+a 100%. Segurou-se a máscara facial com as duas mãos com
+o objetivo de selamento perfeito e consequente diminuição
+da taxa de contaminação externa e os ﬂuxos inspiratórios e
+expiratórios passarem pelo ﬁltro viral. Um coxim de ombro
+foi posicionado para melhor alinhamento do eixo da via
+aérea, o que auxiliou no sucesso da intubação traqueal
+na primeira tentativa. Os sinais vitais se encontravam
+dentro dos limites da normalidade. A indução anestésica
+com a técnica de sequência rápida foi escolhida principalmente para diminuir o risco potencial de aerossolização
+do vírus a partir da via aérea do paciente. Foram usados
+lidocaína a 1% (1 mg.kg-1 ), fentanil (1 mcg.kg-1 ), propofol
+(3 mg.kg-1 ), e succinilcolina (1 mg.kg-1 ). Imediatamente
+após a indução, foi administrada dose de etresse de 100
+mg de hidrocortisona. A intubação ocorreu sem nenhum
+problema usando videolaringoscópio. Após a indução, outro
+acesso intravenoso foi obtido e uma linha arterial radial foi
+estabelecida. O paciente foi transferido da sala de Pressão
+Negativa (PN) para sala de cirurgia com Pressão Positiva
+(PP). A remoção do tumor hipoﬁsário por via transesfenoidal
+transcorreu sem intercorrências, e o paciente permaneceu
+entubado ao ﬁnalizar o caso para transporte para a UTI e
+extubação. A manutenção da anestesia foi realizada com
+infusões de propofol (80-100 ␮g.kg-1 .min-1 ) e remifentanil
+(0,08-0,12 ␮g.kg-1 .min-1 ) e Concentração Alveolar Mínima
+(CAM) de 0,5 de desﬂurano. Para o transporte para a UTI,
+foi iniciada dexmedetomidina a 0,6 ␮g.kg-1 .h-1 para reduzir
+tosse durante a extubação. A avaliação pós-operatória da
+endocrinologia revelou nível baixo de cortisol matinal, T4
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+dentro dos limites padrão e nenhum débito urinário signiﬁcativo. Dose de manutenção de 20 mg de hidrocortisona
+pela manhã e 10 mg à noite foi iniciada devido à síndrome
+de insuﬁciência adrenal central. O paciente foi transferido
+da UTI para o andar no dia seguinte. Recebeu alta hospitalar
+no quarto dia do pós-operatório sem complicações.
+Plano A
+Estilete C-Mac / Estilete tradicional
+Fita adesiva 1’’
+Seringa de 10 mL
+Cinta de cabeça
+Campo claro
+TET, Tubo Endotraqueal.
+A abordagem pela região selar para ressecção de tumor
+hipoﬁsário em cirurgia endoscópica transesfenoidal é mais
+comum do que a craniotomia.8 O SARS-CoV-2 coloniza intensamente a mucosa nasal, e devido ao exacerbado grau de
+disseminação de material viral, é altamente contagioso. O
+Colégio Americano de Cirurgia recomendou o adiamento de
+toda cirurgia eletiva durante a pandemia do COVID-19.9 Não
+obstante, a hipoﬁsectomia de emergência devido a apoplexia hipoﬁsária grave, nível de consciência em declínio ou
+risco de perda visual aguda não podia ser adiada.8 Nessas
+circunstâncias, a via transcraniana seria a preferencial em
+detrimento da base do crânio.10 A decisão deve ser tomada
+caso a caso.8 É a combinação da preferência do cirurgião e
+o grau de conforto para realizar o procedimento cirúrgico.
+O manejo da via aérea para pacientes positivos para o
+COVID-19 é um imenso desaﬁo. Por essa razão, decidimos
+para o manejo perioperatório de pacientes infectados
+com SARS-CoV-2. A seção é dividida em três fases:
+assistência pré-operatória, fase intraoperatória e período
+ML de intubação
+MLs: iGel 4, 5
+Vias aéreas orais: 9, 10
+Lâminas McGrath descartáveis:
+n◦ 3, n◦ 4
+Cabo do laringoscópio
+Lâmina de laringoscópio: Miller
+Plano C
+Material para cricotiroidotomia a ser realizada pelo
+Assistência pré-operatória
+O guia perioperatório de manipulação da via aérea da UMMC
+para cirurgias urgentes em pacientes com infecção conﬁrmada ou suspeita pelo COVID-19 segue:
+1. Logística e pessoal: Quatro indivíduos usando Equipamento de Proteção Individual (EPI) transportam o
+paciente do andar/Unidade de Terapia Intensiva (UTI)
+para sala de indução (pressão negativa) no centro
+cirúrgico. São eles um anestesiologista, um enfermeiro
+anestesista/residente de anestesiologia, um enfermeiro
+circulante e um técnico de anestesia. O técnico de anestesia carrega o kit de emergência e abre o caminho
+(abertura de portas, chamada de elevadores) com a
+ajuda do enfermeiro circulante. O técnico de anestesia
+e enfermeiro circulante ﬁcam a 6 pés (2 metros) de distância e evitam contato com o paciente. A intubação,
+extubação e recuperação são realizados na sala de PN,
+enquanto o procedimento cirúrgico é realizado na sala
+de cirurgia com PP.
+2. Paciente cirúrgico: Anteriormente na UTI ou PS, o paciente é intubado e então transferido diretamente para
+a sala de cirurgia com PP. O paciente levado do andar
+para o centro cirúrgico é primeiramente transferido para
+a sala de PN, onde ocorre a abordagem da via aérea,
+para então ser transferido para a sala de cirurgia com
+PP. A face do paciente precisa ser tricotomizada antes
+Plano B
+da intubação para prevenir a aerossolização do vírus
+durante a pré-oxigenação.
+Preparo pré-operatório: Reunir todo o material necessário na sala de PN (indução e extubação) e sala de
+cirurgia de PP. Veriﬁcar se o kit de material para anestesia para COVID-19 rotulado ‘‘Plano A, B, C’’ (tabelas 1,
+2 e 3), e o kit de drogas. ‘‘Drogas Cirurgia COVID-19’’
+armazenado nos armários Omnicell estão preparados.
+Providenciar todas as substâncias controladas e todas as
+seringas necessárias para o caso inteiro. Máscara facial
+simples e cateter nasal para oxigênio no pós-operatório
+para transporte para o andar devem estar disponíveis.
+Ter C-Mac ou sistema Glidescope extra prontos como retaguarda. Providenciar uma área para colocação (donning)
+e remoção (dofﬁng) de EPI e retirar todo material não
+essencial da sala de cirurgia. Armários e gavetas devem
+ser fechados. Um gerente (runner) exclusivo do CC é
+escalado para providenciar quaisquer outros materiais
+para a sala.O Plano C inclui material para cricotiroidotomia a ser realizada pelo anestesiologista. Outros
+equipamentos necessários são Ambu, válvula de Pressão Expiratória Positiva (PEEP), ﬁltro para vírus, sistema
+de aspiração fechada ‘‘Ballard’’, solução salina para
+lavagem, estetoscópio descartável, Bougie, e conector
+Escalação: Escalar os proﬁssionais mais experientes disponíveis para realizar a intubação, caso seja possível.
+Não é permitida intubação por indivíduos em treinamento (estudantes ou residentes junior).
+Evitar: Sistema de aquecimento de paciente por ar
+forçado e intubação acordada com ﬁbroscópio devido à
+aerossolização do vírus.
+Antes de entrar no CC: Colocar EPI, que inclui máscara N95, propé, uniforme, escudo facial e luvas (duas
+luvas cirúrgicas necessárias para equipe de anestesia).
+Na intubação difícil, veriﬁcar se um cirurgião que está a
+vontade com colocação de via aerea de emergência se
+encontra presente.
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+Ressecção de tumor hipoﬁsário e infecção pelo SARS-CoV-2 (COVID-19)
+intubação, colocar Máscara Laríngea de Intubação (MLI)
+de via aérea e ventilar com volume corrente baixo (não
+mais do que 6 mL.kg-1 ) e sem PEEP. Determinar se o paciente precisa de tentativa adicional para ser acordado ou
+instrumentação de via aérea cirúrgica. Sistema Ballard
+in-line® de aspiração fechada deve estar disponível no
+caso de o paciente precisar de aspiração traqueal. Inserir
+quaisquer linhas intravenosas adicionais e linha arterial
+nesse momento.
+2. Equipamento descartável usado no CC: Laringoscópio e
+estilete são descartados em balde dentro de saco para
+material infectado. O saco vermelho está disponível no
+CC para descarte de todo material usado que foi aberto.
+Todas as outras embalagens de instrumentos não abertas
+são limpas e re-estocadas.
+Figura 3 Campo plástico sobre o paciente durante a
+manipulação para assegurar a via aérea.
+Fase intraoperatória
+Não permitir tráfego de entrada ou saída. A equipe que inicia
+o caso deve completar o caso. O gerente veriﬁca se o EPI de
+todos está sendo usado corretamente e entrega o material
+necessário via corredor sub-estéril. Aplicar o monitoramento
+e monitor bloqueador neuromuscular padrão ASA. Colocar o
+coxim de ombro para alinhar a via aérea melhor e aumentar
+a taxa de sucesso da intubação. Colocar o campo plástico
+sobre o paciente para diminuir a taxa de contaminação.
+(ﬁg. 3). O leito/maca do paciente deve permanecer na sala
+todo o tempo.
+1. Intubação: Pré-oxigenar o paciente por 5 minutos com
+FiO2 a 100% com ﬂuxo de 5 L.min-1 . Sem PEEP. Assegurar limite de pressão ajustável ou que a válvula de alívio
+(pop-off) esteja totalmente aberta. Realizar indução de
+sequência rápida para evitar ventilação por pressão positiva e potencial aerossolização do vírus a partir da via
+aérea. Alta dose de rocurônio (1,2 mg.kg-1 ) é uma opção
+para pacientes com contraindicação de succinilcolina.
+O videolaringoscópio é usado em todos os pacientes.
+Aquecimento de qualidade superior e ﬁltro de troca de
+umidade para remover pelo menos 99,97% das partículas
+de veiculação aérea de 0,3 microns ou mais é colocado
+entre a máscara facial e o circuito de respiração, ou entre
+a máscara facial e saco reservatório. No caso de falha de
+1- Higiene das mãos
+com desinfetante espuma
+de mão antisséptico
+7- Máscara cirúgica
+comum sobre a N95
+Período pós-operatório
+1. Transporte: Após o término do caso, o paciente é transportado de volta para a sala de extubação de pressão
+negativa, ou uma equipe de transporte ‘‘limpa’’ leva o
+paciente para a UTI. Durante o transporte do paciente
+intubado, a EPI é necessária, e o TET, sempre conectado
+a ﬁltro e ao Ambu ou ventilador de transporte. Se o ﬁltro
+viral precisa ser desconectado do TET por qualquer razão
+que seja, deve ser clampeado para evitar aerossolização
+da via aérea.
+2. Extubação: O paciente é transferido de volta para a
+sala de PN para extubação. Sugammadex (2, 4 ou 16
+mg.kg-1 , seguindo as diretrizes da instituição) é usado
+para qualquer paciente recebendo rocurônio para prevenir falha de extubação e possível re-intubação.11 A meta
+é > 90% de recuperação no monitor quantitativo. Um
+frasco de 200 mg se encontra na bolsa de medicação. Se
+mais for necessário, pedir ao gerente para buscar mais
+do armário Core Omnicell. A sala de PN funciona como
+unidade de Recuperação Pós-Anestésica (RPA) até que
+o paciente esteja em condições de ser transferido para
+a sala de origem. Todo pessoal de assistência envolvido
+na assistência/transporte do paciente obrigatoriamente
+troca de uniforme. Se o paciente for extubado na UTI,
+a sedação de escolha para transporte é dexmedetomidina, já que é a droga mais efetiva na redução de tosse
+moderada ou grave após anestesia geral com intubação
+3- Higiene das mãos
+com desinfetante
+espuma de mão
+8- Proteção ocular
+4- Primeiro par de
+luvas cirúrgicas
+9- Segundo par de luvas
+Ordem Donning (protocolo UMMC) para pacientes positivos para COVID-1913 .
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
+ARTICLE IN PRESS
+C.S. Santos et al.
+1- Higiene das
+com luvas
+(luvas por cima)
+8- Higiene das
+3- Higiene das
+4- Proteção ocular
+10- Higiene das
+5- Higiene das
+11- Luvas cirúrgicas
+cirúgica comum
+12- Higiene das
+Figura 5 Ordem Dofﬁng (protocolo UMMC) para pacientes positivos para COVID-1914 . Higiene das mãos**: Desinfetante de mão
+antisséptico espuma para higiene das mãos.
+3. Após saída do CC: Isolar a sala de cirurgia por uma hora
+para permitir troca do ar. Em seguida, higienizar pelo
+serviço de limpeza. Finalmente, colocar luz Ultravioleta
+(UV) na sala após a conclusão da limpeza. O tempo de
+giro é aproximadamente duas horas. O gerente escreve
+todos os tempos pertinentes na porta da sala. A ‘‘Lista
+de Sala Pronta’’ é ratiﬁcada pelo anestesiologista.
+4. Colocação (Donning) e remoção (Dofﬁng) de EPI: A
+colocação (donning) (ﬁg. 4) e remoção (dofﬁng) (ﬁg. 5)
+são pontos cruciais com relação a pacientes infectados
+pelo vírus SARS-CoV-2. Os procedimentos devem seguir
+o protocolo institucional, e uma terceira pessoa deve
+veriﬁcar se foi seguido adequadamente.
+Até o momento, não se conhece tratamento ou vacina
+efetivos que façam frente ao surto do novo coronavírus.
+As incertezas dessa nova era exigem particular atenção à
+segurança dos pacientes e equipe. Entre as ambiguidades
+e diferentes opiniões que podem preceder um algoritmo
+mundial, alguns pontos são extremamente relevantes. Idealmente, a equipe de anestesia precisa ser exaustivamente
+treinada em laboratório de simulação, se apoderando das
+técnicas de manejo de via aérea sob essas circunstâncias
+adversas.14 Ao se familiarizar com a diretriz da instituição,
+sentem-se mais comfortávies e precisos para realizar suas
+tarefas sem correria ou atraso.14 Recomendamos fortemente
+que cada instituição tenha uma diretriz atualizada para
+manejo de via aérea para pacientes infectados com SARS-CoV-2 que se aplique a cada realidade local. É a forma mais
+efetiva para melhorar o desfecho dos pacientes e proteger
+a força de trabalho da assistência à saúde.
+Conﬂitos de interesse
+Os autores declaram não haver conﬂitos de interesse.
+1. WHO. Novel coronavirus (2019-nCoV). Situation report-1.
+2. Huang C, Wang Y, Li X, et al. Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan, China. Lancet
+3. Gandhi RT, Lynch JB, Del Rio C. Mild or moderate COVID-19. N
+of print.
+4. Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the
+asymptomatic proportion of coronavirus disease 2019 (COVID19) cases on board the Diamond Princess cruise ship, Yokohama
+Japan, 2020. Euro Surveill. 2020;25:2000180.
+5. Gandhi M, Yokoe DS, Havlir DV. Asymptomatic transmission, the
+achilles’ heel of current strategies to control Covid-19. N Engl
+J Med. 2020;382:2158---60.
+6. Cenzato M, DiMeco F, Fontanella M, Locatelli D, Servadei F.
+of print.
+7. Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper
+Respiratory Specimens of Infected Patients. N Engl J Med.
+8. Flexman AM, Abcejo A, Avitisian R, et al. Neuroanesthesia practice during the COVID-19 pandemic: recommendations from
+Society for Neuroscience in Anesthesiology & Critical Care
+Management of Elective Surgical Procedures. 2020
+10. Patel ZM, Fernandez-Miranda J, Hwang PH, et al. Letter: Precautions for Endoscopic Transnasal Skull Base Surgery During
+11. Cada DJ, Levien TL, Baker DE. Sugammadex. Hosp Pharm.
+12. Tung A, Fergusson NA, Ng N, Hu V, Dormuth C, Griesdale DEG.
+network meta-analysis. Br J Anaesth. 2020.
+14. Cook TM, El-Boghdadly K, McGuire B, McNarry AF, Patel A, Higgs
+A. Consensus guidelines for managing the airway in patients
+with COVID-19: Guidelines from the Difﬁcult Airway Society,
+the Association of Anaesthetists the Intensive Care Society, the
+Faculty of Intensive Care Medicine and the Royal College of
+Anaesthetists. Anaesthesia. 2020;75:785---9.
+Como citar este artigo: Santos CS, et al. Assistência perioperatória de paciente com infecção pelo SARS-CoV-2 (COVID-19)
