@@ -17,14 +17,18 @@ public class CoreNLP {
     private static String version = "version 2.0.0";
     private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
-    private static void run(String filename) {
+    private static void run(int fileorder, String filename) {
         try {
+            System.out.printf("\r[%3d%%] started %s ", (int)(fileorder / 80.0 * 100), filename);
+            System.out.flush();
+
             // Open the file bw to output Named Entity Recognitions
             BufferedWriter bw = new BufferedWriter(
                     new OutputStreamWriter(new FileOutputStream(output_path + filename), StandardCharsets.UTF_8));
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(new FileInputStream(input_path + filename), StandardCharsets.UTF_8));
+
 
             String line = br.readLine();
 
@@ -37,7 +41,7 @@ public class CoreNLP {
 
                 for (CoreLabel coreLabel : coreLabels) {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
-                    bw.write(coreLabel.originalText() + " == " + ner + "\n");
+                    bw.write(fileorder + "," + coreLabel.originalText() + "," + ner + "\n");
                 }
                 line = br.readLine();
             }
@@ -54,8 +58,10 @@ public class CoreNLP {
         File file = new File(input_path);
         File[] files = file.listFiles();
         
-        for (File _file : files)
-            run(_file.getName());
+        System.out.println("Number of files to annotate: " + files.length);
+
+        for (int i = 0; i < files.length; i++)
+            run(i, files[i].getName());
     }
 }
 
