@@ -12,15 +12,19 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
 
 public class CoreNLP {
-    private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir]";
+    private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir] [ files ]";
     private static String version = "version 2.0.0";
+    private static String in_path = "./data/";
+    private static String ou_path = "./csv/";
     private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 
     private static void run(int fileorder, String filename) {
         try {
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
-                    new InputStreamReader(new FileInputStream(filename), StandardCharsets.UTF_8));
+                    new InputStreamReader(new FileInputStream(in_path + filename), StandardCharsets.UTF_8));
+            BufferedWriter bw = new BufferedWriter(
+                    new OutputStreamWriter(new FileOutputStream(ou_path + filename + ".csv"), StandardCharsets.UTF_8));
 
             String line = br.readLine();
 
@@ -35,10 +39,11 @@ public class CoreNLP {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
                     String text = coreLabel.originalText();
                     text.replace(",", ".");
-                    System.out.println(fileorder + "," + text + "," + ner);
+                    bw.write(fileorder + "," + text + "," + ner + "\n");
                 }
                 line = br.readLine();
             }
+            bw.close();
             br.close();
         } catch (FileNotFoundException e) {
             System.err.println("thrown FileNotFoundException in " + filename);
@@ -48,13 +53,11 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
+        
+        File file = new File("data");
+        File[] files = file.listFiles();
 
-        for (int i = 0; i < args.length; i++)
-            if (args[i].equals("-h") || args[i].equals("--help"))
-                System.out.println(help);
-            else if (args[i].equals("-v") || args[i].equals("--version"))
-                System.out.println(version);
-            else
-                run(i, args[i]);
+        for (int forder = 0; forder < files.length; forder++)
+            run(forder, file.getName());
     }
 }
