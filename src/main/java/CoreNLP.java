@@ -20,11 +20,13 @@ public class CoreNLP {
 
     private static void run(int fileorder, String filename) {
         try {
+            String csvname = filename;
+            csvname.replace(".txt", ".csv");
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(new FileInputStream(in_path + filename), StandardCharsets.UTF_8));
             BufferedWriter bw = new BufferedWriter(
-                    new OutputStreamWriter(new FileOutputStream(ou_path + filename + ".csv"), StandardCharsets.UTF_8));
+                    new OutputStreamWriter(new FileOutputStream(ou_path + csvname), StandardCharsets.UTF_8));
 
             String line = br.readLine();
 
