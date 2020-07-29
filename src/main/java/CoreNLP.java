@@ -23,8 +23,8 @@ public class CoreNLP {
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(new FileInputStream(in_path + filename), StandardCharsets.UTF_8));
-            BufferedWriter bw = new BufferedWriter(
-                    new OutputStreamWriter(new FileOutputStream(ou_path + filename.replace(".txt",".csv")), StandardCharsets.UTF_8));
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream(ou_path + filename.replace(".txt", ".csv")), StandardCharsets.UTF_8));
 
             String line = br.readLine();
 
@@ -39,8 +39,7 @@ public class CoreNLP {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
                     String pos = coreLabel.category();
                     String text = coreLabel.originalText();
-                    text.replace(",", ".");
-                    bw.write(fileorder + "," + text + "," + ner + "\n");
+                    bw.write(fileorder + "," + text.replace(",", ".") + "," + ner + "\n");
                 }
                 line = br.readLine();
             }
@@ -55,14 +54,13 @@ public class CoreNLP {
 
     public static void main(String[] args) {
         /*
-        File file = new File(in_path);
-        File[] files = file.listFiles();
+         * File file = new File(in_path); File[] files = file.listFiles();
+         * 
+         * for (int forder = 0; forder < files.length; forder++) run(forder,
+         * file.getName());
+         * 
+         */
 
-        for (int forder = 0; forder < files.length; forder++)
-            run(forder, file.getName());
-
-            */
-
-            run(1,"123.txt");
+        run(1, "123.txt");
     }
 }
