@@ -20,13 +20,11 @@ public class CoreNLP {
 
     private static void run(int fileorder, String filename) {
         try {
-            String csvname = filename;
-            csvname.replace(".txt", ".csv");
             // Open a file in order to input sentences
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(new FileInputStream(in_path + filename), StandardCharsets.UTF_8));
             BufferedWriter bw = new BufferedWriter(
-                    new OutputStreamWriter(new FileOutputStream(ou_path + csvname), StandardCharsets.UTF_8));
+                    new OutputStreamWriter(new FileOutputStream(ou_path + filename.replace(".txt",".csv")), StandardCharsets.UTF_8));
 
             String line = br.readLine();
 
@@ -39,6 +37,7 @@ public class CoreNLP {
 
                 for (CoreLabel coreLabel : coreLabels) {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
+                    String pos = coreLabel.category();
                     String text = coreLabel.originalText();
                     text.replace(",", ".");
                     bw.write(fileorder + "," + text + "," + ner + "\n");
@@ -55,11 +54,15 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
-        
-        File file = new File("data");
+        /*
+        File file = new File(in_path);
         File[] files = file.listFiles();
 
         for (int forder = 0; forder < files.length; forder++)
             run(forder, file.getName());
+
+            */
+
+            run(1,"123.txt");
     }
 }

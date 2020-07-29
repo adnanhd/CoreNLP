@@ -2,4 +2,4 @@
 .gitignore
 doc
 target/classes/*.class
-ner/*
+csv/*
