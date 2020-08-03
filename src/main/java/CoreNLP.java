@@ -10,6 +10,7 @@ import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.ling.CoreAnnotations.NamedEntityTagAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 
 public class CoreNLP {
     private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir] [ files ]";
@@ -37,9 +38,10 @@ public class CoreNLP {
 
                 for (CoreLabel coreLabel : coreLabels) {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
-                    String pos = coreLabel.category();
+                    String pos = coreLabel.get(PartOfSpeechAnnotation.class);
                     String text = coreLabel.originalText();
-                    bw.write(fileorder + "," + text.replace(",", ".") + "," + ner + "\n");
+                    text.replace(",", ".");
+                    bw.write(fileorder + "," + text + "," + ner + ","+ pos +"\n");
                 }
                 line = br.readLine();
             }
