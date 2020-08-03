@@ -40,8 +40,7 @@ public class CoreNLP {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
                     String pos = coreLabel.get(PartOfSpeechAnnotation.class);
                     String text = coreLabel.originalText();
-                    text.replace(",", ".");
-                    bw.write(fileorder + "," + text + "," + ner + ","+ pos +"\n");
+                    bw.write(fileorder + "," + text.replace(",", ".") + "," + ner + ","+ pos +"\n");
                 }
                 line = br.readLine();
             }
