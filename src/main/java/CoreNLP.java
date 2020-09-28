@@ -3,6 +3,7 @@
 // Import the Scanner class to read text files
 import java.io.*;
 import java.util.List;
+import java.util.Vector;
 import java.nio.charset.StandardCharsets;
 
 // Import the stanford CoreNLP libraries
@@ -14,24 +15,17 @@ import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 
 public class CoreNLP {
     private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir] [ files ]";
-    private static String version = "version 2.0.0";
-    private static String in_path = "./data/";
-    private static String ou_path = "./csv/";
-    private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
+    private static String version = "version 2.1.0";
+    private static String outfile = "article_news_ne_pos.csv";
 
-    private static void run(int fileorder, String filename) {
+    private static void run(int file_number, BufferedReader br, BufferedWriter bw) {
         try {
-            // Open a file in order to input sentences
-            BufferedReader br = new BufferedReader(
-                    new InputStreamReader(new FileInputStream(in_path + filename), StandardCharsets.UTF_8));
-            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
-                    new FileOutputStream(ou_path + filename.replace(".txt", ".csv")), StandardCharsets.UTF_8));
+            String line;
 
-            String line = br.readLine();
-
-            while (line != null) {
+            while ((line = br.readLine()) != null) {
                 CoreDocument coreDocument = new CoreDocument(line);
 
+                StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
                 stanfordCoreNLP.annotate(coreDocument);
 
                 List<CoreLabel> coreLabels = coreDocument.tokens();
@@ -40,28 +34,37 @@ public class CoreNLP {
                     String ner = coreLabel.get(NamedEntityTagAnnotation.class);
                     String pos = coreLabel.get(PartOfSpeechAnnotation.class);
                     String text = coreLabel.originalText();
-                    bw.write(fileorder + "," + text.replace(",", ".") + "," + ner + ","+ pos +"\n");
+                    bw.write(file_number + "," + text.replace(",", ".") + "," + ner + "," + pos + "\n");
                 }
-                line = br.readLine();
             }
             bw.close();
             br.close();
-        } catch (FileNotFoundException e) {
-            System.err.println("thrown FileNotFoundException in " + filename);
         } catch (IOException e) {
-            System.err.println("thrown IOException in " + filename);
+            System.err.println("thrown IOException");
         }
     }
 
     public static void main(String[] args) {
-        /*
-         * File file = new File(in_path); File[] files = file.listFiles();
-         * 
-         * for (int forder = 0; forder < files.length; forder++) run(forder,
-         * file.getName());
-         * 
-         */
+        Vector<BufferedReader> reader_files = new Vector<BufferedReader>();
+        try {
+            for (String arg : args)
+                if (arg.equals("--help"))
+                    System.out.println(help);
+                else if (arg.equals("--version"))
+                    System.out.println(version);
+                else if (arg.equals("--dump"))
+                    System.out.println("I am going to dump"); // TODO: dump
+                else 
+                    reader_files.add(new BufferedReader(new InputStreamReader(new FileInputStream(arg), StandardCharsets.UTF_8)));
+            
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(outfile), StandardCharsets.UTF_8));
 
-        run(1, "123.txt");
+            for (BufferedReader br: reader_files)
+                run(reader_files.indexOf(br), br, bw);
+
+        } catch (FileNotFoundException e) {
+            System.err.println("File could not found");
+        }
+
     }
 }
