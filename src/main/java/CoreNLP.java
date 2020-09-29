@@ -16,6 +16,7 @@ import edu.stanford.nlp.ling.CoreAnnotations.PartOfSpeechAnnotation;
 public class CoreNLP {
     private static String help = "usage: CoreNLP [-r input_dir] [-o output_dir] [ files ]";
     private static String version = "version 2.1.0";
+    private static StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
     private static String outfile = "article_news_ne_pos.csv";
 
     private static void run(int file_number, BufferedReader br, BufferedWriter bw) {
@@ -25,7 +26,6 @@ public class CoreNLP {
             while ((line = br.readLine()) != null) {
                 CoreDocument coreDocument = new CoreDocument(line);
 
-                StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
                 stanfordCoreNLP.annotate(coreDocument);
 
                 List<CoreLabel> coreLabels = coreDocument.tokens();
@@ -53,7 +53,7 @@ public class CoreNLP {
                 else if (arg.equals("--version"))
                     System.out.println(version);
                 else if (arg.equals("--dump"))
-                    System.out.println("I am going to dump"); // TODO: dump
+                    System.out.println("I am going to dump");
                 else 
                     reader_files.add(new BufferedReader(new InputStreamReader(new FileInputStream(arg), StandardCharsets.UTF_8)));
             
