@@ -1,4 +1,3 @@
-.vscode
-doc
+docs
 csv/*
 target/classes/*.class
