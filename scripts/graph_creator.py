@@ -3,23 +3,18 @@
 # This script is used to import the csv files to the graph database
 # Go to line 66 for csv file names
 
-import time
-import csv
-import sys
-import os
-import subprocess
-import shutil
+import time, csv, sys, os, subprocess, shutil
 from shutil import copyfile
 from py2neo import Node, Relationship, Graph, NodeMatcher
 from tqdm import tqdm, trange
 
 datafile_path = "../data/"
 
-graph = 0            # Global graph database variable
+graph    = 0            # Global graph database variable
 isOpened = 0            # Flag for if connection is active or not
-HOST = 'localhost'
-PORT = 7474
-BOLT_PORT = 7687
+HOST     = 'localhost'
+PORT     = 7676
+BOLT_PORT= 7686
 
 # **************** Establishing Database Connection **********************
 '''
@@ -28,14 +23,12 @@ Parameters are chosen as host and password. Port is chosen
 as default 7687. If port is different than the default, it can be
 added as a key-value pair to the function call.
 '''
-
-
 def open_graph_connection(host_name, port, b_port):
     global graph
     global isOpened
     if (isOpened != 1):
         # Change auth here if needed (username:password)
-        graph = Graph('http://' + HOST + ':' + str(PORT) + '/', auth=('neo4j', 'neo4j_teghub'))
+        graph = Graph('http://localhost:7676/', auth=('neo4j','neo4j'))
         isOpened = 1
         print ("Connection is successfully accomplished to Neo4j Database!")
     else:
@@ -44,48 +37,43 @@ def open_graph_connection(host_name, port, b_port):
 
 # ************************* Importing Data ******************************
 
-
 if (__name__ == "__main__"):
     start_time = time.time()
 
     database_name = "CALL dbms.listConfig('dbms.active_database') YIELD value"
-    data_dir = "CALL dbms.listConfig('dbms.directories.data') YIELD value"
-    import_dir = "CALL dbms.listConfig('dbms.directories.import') YIELD value"
+    data_dir      = "CALL dbms.listConfig('dbms.directories.data') YIELD value"
+    import_dir    = "CALL dbms.listConfig('dbms.directories.import') YIELD value"
 
     # csv files
-    node_files = [datafile_path + 'articles.csv',
-                  datafile_path + 'words.csv',
-                  datafile_path + 'ner_tags.csv',
-                  datafile_path + 'pos_tags.csv']
-
-    rel_files = [datafile_path + 'wwr.csv',
-                 datafile_path + 'nwr.csv',
-                 datafile_path + 'newr.csv',
-                 datafile_path + 'pswr.csv']
+    node_files = [datafile_path + 'article.csv',
+		  datafile_path + 'words.csv',
+		  datafile_path + 'named_entities.csv']
+    rel_files  = [datafile_path + 'wwr.csv',
+		  datafile_path + 'nwr.csv',
+		  datafile_path + 'newr.csv']
 
     open_graph_connection(HOST, PORT, BOLT_PORT)
     print ("Clearing all data in the Neo4j database.")
 
-    import_dir = graph.run(import_dir).evaluate()
-    bin_dir = import_dir[:-6] + "bin"
-    data_dir = graph.run(data_dir).evaluate()
+    import_dir    = graph.run(import_dir).evaluate()
+    bin_dir       = import_dir[:-6] + "bin"
+    data_dir      = graph.run(data_dir).evaluate()
     database_name = graph.run(database_name).evaluate()
 
     if (os.path.exists(data_dir + "/databases/" + database_name)):
-        shutil.rmtree(data_dir + "/databases/" +
-                      database_name, ignore_errors=True)
+        shutil.rmtree(data_dir + "/databases/" + database_name, ignore_errors=True)
 
-    args = "./neo4j-admin import "\
-        "--database=" + str(database_name) + " "\
-        "--id-type=INTEGER "
+    args           ="./neo4j-admin import "\
+                    "--database=" + str(database_name)+ " "\
+                    "--id-type=INTEGER "
     for node in node_files:
         args += "--nodes=../import/" + node + " "
     for rel in rel_files:
         args += "--relationships=../import/" + rel + " "
     args += "--multiline-fields=true"
 
-    args = args.split()
-    restart_server = "./neo4j restart".split()
+    args           = args.split()
+    restart_server ="./neo4j restart".split()
 
     print ("Copying CSV files to import directory of the Neo4j Database.")
     for node_file in node_files:
@@ -95,7 +83,7 @@ if (__name__ == "__main__"):
     print ("Copy process is completed. Adjusting index properties.\n")
 
     print ("Import operation is starting...")
-    popen = subprocess.Popen(args, cwd=bin_dir, stdout=subprocess.PIPE)
+    popen = subprocess.Popen(args, cwd=bin_dir , stdout=subprocess.PIPE)
     popen.wait()
     output = popen.stdout.read()
     for line in str(output).split("\\n")[-7:]:
@@ -104,8 +92,7 @@ if (__name__ == "__main__"):
         elif not (len(line) == 1 and line == "'"):
             print (line)
     print ("\n")
-    popen = subprocess.Popen(
-        restart_server, cwd=bin_dir, stdout=subprocess.PIPE)
+    popen = subprocess.Popen(restart_server, cwd=bin_dir , stdout=subprocess.PIPE)
     popen.wait()
     output = popen.stdout.read()
     for line in str(output).split("\\n"):
@@ -128,7 +115,6 @@ if (__name__ == "__main__"):
     print ("\n----> Result <----")
     print ("Transfer operation is completed!")
     if (((end_time - start_time)/60) > 1.0):
-        print ("Total passed time is %f minutes" %
-               ((end_time - start_time)/60))
+        print ("Total passed time is %f minutes"%((end_time - start_time)/60))
     else:
-        print ("Total passed time is %f seconds" % (end_time - start_time))
+        print ("Total passed time is %f seconds"%(end_time - start_time))

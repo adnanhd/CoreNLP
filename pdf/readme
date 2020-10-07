@@ -1,0 +1,6 @@
+Burada PubMed sitesinden şu linkteki filtreler kullanılarak indirilmiş 80 makale var. 
+Link: https://pubmed.ncbi.nlm.nih.gov/?term=((wuhan%5BAll%20Fields%5D%20AND%20(%22coronavirus%22%5BMeSH%20Terms%5D%20OR%20%22coronavirus%22%5BAll%20Fields%5D))%20AND%202019%2F12%5BPDAT%5D%20%3A%202030%5BPDAT%5D)%20OR%202019-nCoV%5BAll%20Fields%5D%20OR%202019nCoV%5BAll%20Fields%5D%20OR%20COVID-19%5BAll%20Fields%5D%20OR%20SARS-CoV-2%5BAll%20Fields%5D&filter=simsearch2.ffrft&filter=years.2020-2020&sort=date&size=100&pos=20
+
+Şu stackoverflow linkinde pdf-to-text çözümleri bulabilirsin. Üşenirsen, full text hallerine de erişebiliyorsun yukarıdaki linkten.
+https://stackoverflow.com/questions/25665/python-module-for-converting-pdf-to-text
+

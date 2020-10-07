@@ -41,15 +41,20 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
-        ArrayList<BufferedReader> readerFiles = new ArrayList<>();
-        for (String arg : args)
-            if (arg.equals("--help"))
+        List<BufferedReader> readerFiles = new ArrayList<>();
+        List<String> argv = new ArrayList<>();
+
+	File dir = new File("tests");
+
+	File[] files = dir.listFiles();
+        for (File arg : files)
+     /*       if (arg.equals("--help"))
                 System.out.println(help);
             else if (arg.equals("--version"))
                 System.out.println(version);
             else if (arg.equals("--dump"))
                 System.out.println("I am going to dump");
-            else
+            else*/
                 try {
                     readerFiles.add(new BufferedReader(
                             new InputStreamReader(new FileInputStream(arg), StandardCharsets.UTF_8)));
