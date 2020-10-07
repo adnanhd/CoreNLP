@@ -35,7 +35,7 @@ def open_graph_connection(host_name, port, b_port):
     global isOpened
     if (isOpened != 1):
         # Change auth here if needed (username:password)
-        graph = Graph('http://' + HOST + ':' + str(PORT) + '/', auth=('neo4j', 'neo4j_teghub'))
+        graph = Graph('http://' + HOST + ':' + str(PORT) + '/', auth=('neo4j', 'michael-machine-agent-fiction-coral-6271'))
         isOpened = 1
         print ("Connection is successfully accomplished to Neo4j Database!")
     else:
@@ -59,18 +59,23 @@ if (__name__ == "__main__"):
                   datafile_path + 'pos_tags.csv']
 
     rel_files = [datafile_path + 'wwr.csv',
-                 datafile_path + 'nwr.csv',
+                 datafile_path + 'awr.csv',
                  datafile_path + 'newr.csv',
                  datafile_path + 'pswr.csv']
 
-    open_graph_connection(HOST, PORT, BOLT_PORT)
-    print ("Clearing all data in the Neo4j database.")
+    try:
+        open_graph_connection(HOST, PORT, BOLT_PORT)
+        print ("Clearing all data in the Neo4j database.")
+    except AssertionError as e:
+        print ("Connection failed to Neo4j Database!.")
 
     import_dir = graph.run(import_dir).evaluate()
-    bin_dir = import_dir[:-6] + "bin"
+    bin_dir = "/usr/bin"
     data_dir = graph.run(data_dir).evaluate()
     database_name = graph.run(database_name).evaluate()
 
+    if database_name == None: database_name = 'graph.db'
+    
     if (os.path.exists(data_dir + "/databases/" + database_name)):
         shutil.rmtree(data_dir + "/databases/" +
                       database_name, ignore_errors=True)
@@ -79,9 +84,9 @@ if (__name__ == "__main__"):
         "--database=" + str(database_name) + " "\
         "--id-type=INTEGER "
     for node in node_files:
-        args += "--nodes=../import/" + node + " "
+        args += "--nodes=/var/lib/neo4j/import/" + node + " "
     for rel in rel_files:
-        args += "--relationships=../import/" + rel + " "
+        args += "--relationships=/var/lib/neo4j/import/" + rel + " "
     args += "--multiline-fields=true"
 
     args = args.split()

@@ -4,12 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [{
-            "name": "Python: Current File",
             "type": "python",
+            "name": "Python: data2csv.py",
             "request": "launch",
-            "program": "${file}",
+            "program": "data2csv.py",
             "cwd": "${workspaceFolder}/scripts",
             "console": "integratedTerminal"
+        },
+        {
+            "type": "python",
+            "name": "Python: graph_creator.py",
+            "request": "launch",
+            "program": "graph_creator.py",
+            "cwd": "${workspaceFolder}/scripts",
+            "console": "integratedTerminal",
+            "sudo": true
         },
         {
             "type": "java",

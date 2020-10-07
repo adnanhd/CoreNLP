@@ -1,3 +1,4 @@
 docs
 csv/*
 target/classes/*.class
+node_modules

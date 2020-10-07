@@ -41,6 +41,10 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
+        List<String> argv = new ArrayList<>();
+        File file = new File("tests");
+
+        File[] files = file.listFiles();
         ArrayList<BufferedReader> readerFiles = new ArrayList<>();
         for (String arg : args)
             if (arg.equals("--help"))
@@ -52,7 +56,7 @@ public class CoreNLP {
             else
                 try {
                     readerFiles.add(new BufferedReader(
-                            new InputStreamReader(new FileInputStream(arg), StandardCharsets.UTF_8)));
+                            new InputStreamReader(new FileInputStream(file), StandardCharsets.UTF_8)));
                 } catch (FileNotFoundException e) {
                     System.err.println("File " + arg + " not found...");
                 }

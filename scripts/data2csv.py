@@ -11,13 +11,13 @@ import numpy as np
 
 # data paths
 datafile_path = "../data/"
-wnp_path = datafile_path + "article_word_ne_pos.csv"
-an_path = datafile_path + "articles.csv"
-ne_path = datafile_path + "ner_tags.csv"
-ps_path = datafile_path + "pos_tags.csv"
-wn_path = datafile_path + "words.csv"
-awr_path = datafile_path + "awr.csv"
-wwr_path = datafile_path + "wwr.csv"
+wnp_path = datafile_path + "article_word_ne_pos.csv" #
+an_path = datafile_path + "articles.csv" #
+ne_path = datafile_path + "ner_tags.csv" #
+ps_path = datafile_path + "pos_tags.csv" #
+wn_path = datafile_path + "words.csv" #
+awr_path = datafile_path + "awr.csv" 
+wwr_path = datafile_path + "wwr.csv"#
 newr_path = datafile_path + "newr.csv"
 pswr_path = datafile_path + "pswr.csv"
 
@@ -56,13 +56,7 @@ named_entities = ["ORGANIZATION",
                   'TITLE',
                   'O']
 
-part_of_speech = ["NN",
-                  "NNP",
-                  "NNS",
-                  "NNPS",
-                  'JJ',
-                  'VBD',
-                  'CC',
+part_of_speech = ['CC',
                   'CD',
                   'DT',
                   'EX',
@@ -232,7 +226,9 @@ if __name__ == "__main__":
     wnpfile.close()
     anfile.close()
     nefile.close()
+    psfile.close()
     wnfile.close()
     awrfile.close()
     wwrfile.close()
     newrfile.close()
+    pswrfile.close()
