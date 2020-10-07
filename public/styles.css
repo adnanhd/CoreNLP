@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #6c87ab;
+    font: 16pt arial;
+}
+
+input[type=text] {
+    background-color: #eaeaea;
+}
+
+input[type=date] {
+    background-color: #eaeaea;
+}
+
+.container-row-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#wikiInfo {
+    max-width: 600px;
+    max-height: 400px;
+}
+
+.container-row-1 #date {}
+
+.dates {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-row-1 #dateSubmitButton {
+    height: 37px;
+    margin-top: 25px;
+}
+
+#viz {
+    width: 1200px;
+    height: 700px;
+    margin-right: 150px;
+    border: 1px solid black;
+    font: 22pt arial;
+    background-color: #36334f;
+    float: left;
+    margin-top: 5px;
+}
+
+.container-row-2 {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+
+.container-row-2 .graph {
+    flex: 4;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+
+.container-row-2 .value-display-container {
+    flex: 2;
+    height: 30vh;
+    margin-right: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.value-display-container #object-content {
+    background-color: #ceb000;
+    border-radius: 10px;
+    /* width: auto; */
+    margin-right: 5vw;
+    padding: 5px;
+    visibility: hidden;
+}
+
+.value-display-container .checkbox-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-bottom: -10vh;
+}
+
+.checkbox-container .news-related {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkbox-container .entity-related {
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+
+}
+
+#clicked-data {
+    overflow-wrap: break-word;
+    max-width: 600px;
+}
+
+.checkbox-detail-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 50px;
+    height: 20px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+
+.people {
+    background-color: rgb(210, 180, 140);
+}
+
+.location {
+    background-color: Grey;
+}
+
+.money {
+    background-color: rgb(133, 187, 101);
+}
+
+.time {
+    background-color: LightGoldenRodYellow;
+}
+
+.organization {
+    background-color: darkcyan;
+}
+
+.ekonomi {
+    background-color: #7f2524;
+}
+
+.gundem {
+    background-color: #d49f99;
+}
+
+.dunya {
+    background-color: #968d52;
+}
+
+.yurttan-haberler {
+    background-color: #a89b28;
+}
+
+.haberler-finans {
+    background-color: #aa6288;
+}
+
+.sirketler {
+    background-color: #c4d8cd;
+}
+
+.teknoloji {
+    background-color: #e6b300;
+}
+
+.tarım {
+    background-color: #498025;
+}
+
+.turizm {
+    background-color: #d7743b;
+}
+
+.son-dakika {
+    background-color: red;
+}
+
+.others {
+    background-color: #97C2FC;
+}
+
+.date {
+    background-color: LightCyan;
+}
+
+#othersLabel {
+    margin-left: 17px;
+}
+
+.social-media {
+    background-color: #1DA1F2;
+}
+
+.recommendation {
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: darkcyan;
+    max-width: 1095px;
+    border-radius: 5px;
+}
+
+.recommendation a {
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+    border-bottom: 3px solid black;
+    margin-bottom: 15px;
+}
