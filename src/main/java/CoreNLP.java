@@ -36,7 +36,6 @@ public class CoreNLP {
                 bw.write(fileNumber + "," + text.replace(",", ".") + "," + ner + "," + pos + "\n");
             }
         }
-        bw.close();
         br.close();
     }
 
@@ -66,6 +65,7 @@ public class CoreNLP {
                 new OutputStreamWriter(new FileOutputStream(outfile), StandardCharsets.UTF_8))) {
             for (BufferedReader br : readerFiles)
                 run(readerFiles.indexOf(br), br, bw);
+            bw.close();
         } catch (IOException e) {
             System.err.println("Input Output exception occured");
         }
