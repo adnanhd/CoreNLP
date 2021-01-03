@@ -41,6 +41,7 @@ public class CoreNLP {
     }
 
     public static void main(String[] args) {
+
         ArrayList<BufferedReader> readerFiles = new ArrayList<>();
         for (String arg : args)
             if (arg.equals("--help"))
